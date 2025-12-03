@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mappa Strategica Piemonte 2025</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+
+    <style>
+        body { margin: 0; padding: 0; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+        
+        #map { height: 100vh; width: 100%; z-index: 1; background: #f0f0f0; }
+
+        /* Sidebar Flottante */
+        .sidebar {
+            position: absolute; top: 20px; right: 20px; width: 320px;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 20px; border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            z-index: 1000; max-height: 90vh; overflow-y: auto;
+            border: 1px solid #e5e7eb;
+        }
+
+        h1 { font-size: 22px; margin: 0 0 5px 0; color: #111827; }
+        .subtitle { font-size: 13px; color: #6b7280; margin-bottom: 20px; }
+
+        /* KPI Cards */
+        .kpi-row { display: flex; gap: 10px; margin-bottom: 20px; }
+        .kpi-card { 
+            flex: 1; background: #f3f4f6; padding: 12px; 
+            border-radius: 8px; text-align: center; border: 1px solid #e5e7eb;
+        }
+        .kpi-value { display: block; font-size: 18px; font-weight: 700; color: #1f2937; }
+        .kpi-label { font-size: 10px; text-transform: uppercase; color: #6b7280; font-weight: 600; }
+
+        /* Filtri */
+        .filter-section { margin-bottom: 15px; }
+        .filter-title { font-size: 11px; font-weight: 700; text-transform: uppercase; color: #9ca3af; margin-bottom: 8px; letter-spacing: 0.5px; }
+        
+        .filter-btn {
+            display: flex; align-items: center; width: 100%;
+            padding: 10px; margin-bottom: 6px; border-radius: 6px;
+            cursor: pointer; transition: all 0.2s; background: white;
+            border: 1px solid #e5e7eb; font-size: 13px; color: #374151;
+        }
+        .filter-btn:hover { background: #f9fafb; border-color: #d1d5db; }
+        .filter-btn.active { background: #eff6ff; border-color: #3b82f6; color: #1d4ed8; font-weight: 600; }
+        
+        .dot { width: 8px; height: 8px; border-radius: 50%; margin-right: 10px; }
+
+        /* Legenda dinamica */
+        .legend-note { font-size: 11px; color: #6b7280; margin-top: 15px; line-height: 1.4; border-top: 1px solid #eee; padding-top: 10px; }
+
+        /* Stile Popup */
+        .custom-popup .leaflet-popup-content-wrapper { border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.1); }
+        .custom-popup .leaflet-popup-content { margin: 15px; }
+        .popup-header { border-bottom: 2px solid #f3f4f6; padding-bottom: 8px; margin-bottom: 8px; }
+        .popup-title { font-size: 16px; font-weight: 700; color: #111827; margin: 0; }
+        .popup-subtitle { font-size: 12px; color: #6b7280; margin: 2px 0 0 0; }
+        .popup-stat { display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 13px; color: #374151; }
+        .trend-badge { padding: 2px 6px; border-radius: 4px; font-size: 11px; font-weight: 700; }
+        .trend-up { background: #dcfce7; color: #166534; }
+        .trend-down { background: #fee2e2; color: #991b1b; }
+        .trend-stable { background: #f3f4f6; color: #4b5563; }
+
+        /* Animazioni Marker */
+        @keyframes pulse-ring {
+            0% { transform: scale(0.33); opacity: 0.5; }
+            80%, 100% { transform: scale(1.8); opacity: 0; }
+        }
+        .pulse-marker::after {
+            content: ''; position: absolute; width: 100%; height: 100%; top:0; left:0;
+            border-radius: 50%; border: 3px solid inherit; animation: pulse-ring 2s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="map"></div>
+
+    <div class="sidebar">
+        <h1>Piemonte 2025</h1>
+        <p class="subtitle">Mappatura Competitiva e Strategica</p>
+
+        <div class="kpi-row">
+            <div class="kpi-card">
+                <span class="kpi-value">134,6 Mld</span>
+                <span class="kpi-label">PIL (€)</span>
+            </div>
+            <div class="kpi-card">
+                <span class="kpi-value">~60 Mld</span>
+                <span class="kpi-label">Export (€)</span>
+            </div>
+        </div>
+
+        <div class="filter-section">
+            <div class="filter-title">Visualizza Settori</div>
+            
+            <div class="filter-btn active" onclick="filterMap('all')" id="btn-all">
+                <div class="dot" style="background: #9ca3af;"></div> Tutti i comparti
+            </div>
+            
+            <div class="filter-btn" onclick="filterMap('growth')" id="btn-growth">
+                <div class="dot" style="background: #22c55e;"></div> 
+                <span>Trainanti / In Crescita</span>
+            </div>
+            
+            <div class="filter-btn" onclick="filterMap('niche')" id="btn-niche">
+                <div class="dot" style="background: #8b5cf6;"></div> 
+                <span>Nicchie ad Alto Valore</span>
+            </div>
+
+            <div class="filter-btn" onclick="filterMap('risk')" id="btn-risk">
+                <div class="dot" style="background: #ef4444;"></div> 
+                <span>In Trasformazione / Crisi</span>
+            </div>
+        </div>
+
+        <div class="legend-note">
+            <strong>Nota metodologica:</strong><br>
+            Include poli chimici (Novara), biomedicali (Vercelli) e logistici non presenti nella bozza iniziale. Dati: IRES/Monitor Distretti 2024.
+        </div>
+    </div>
+
+    <script>
+        // 1. Setup Mappa Light Mode (CartoDB Positron)
+        const map = L.map('map', {
+            zoomControl: false,
+            minZoom: 7,
+            maxZoom: 12
+        }).setView([45.05, 7.95], 9);
+
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; OpenStreetMap &copy; CARTO',
+            subdomains: 'abcd',
+            maxZoom: 19
+        }).addTo(map);
+
+        // Limita la vista al Piemonte (User Experience controllata)
+        const southWest = L.latLng(44.0, 6.5);
+        const northEast = L.latLng(46.6, 9.5);
+        const bounds = L.latLngBounds(southWest, northEast);
+        map.setMaxBounds(bounds);
+
+        // 2. Database Settori Espanso
+        const settori = [
+            // --- BIG PLAYERS ---
+            {
+                id: 'auto', name: 'Torino Automotive', cat: 'risk',
+                lat: 45.030, lng: 7.64, val: '19,9 Mld €', addetti: '59.600',
+                trend: '-5,6%', trendType: 'down',
+                desc: 'Crisi strutturale produzione (-36%). Rischio occupazionale indotto.',
+                color: '#ef4444', radius: 35
+            },
+            {
+                id: 'aero', name: 'Torino Aerospazio', cat: 'growth',
+                lat: 45.090, lng: 7.63, val: '8,0 Mld €', addetti: '35.000',
+                trend: '+75%', trendType: 'up',
+                desc: 'Città dell\'Aerospazio. Leader export italiano (Leonardo, Thales).',
+                color: '#22c55e', radius: 22, pulse: true
+            },
+            {
+                id: 'fin', name: 'Torino Hub Finanziario', cat: 'growth',
+                lat: 45.068, lng: 7.682, val: '8,7 Mld €', addetti: '74.000 (It)',
+                trend: '+12%', trendType: 'up',
+                desc: 'Intesa Sanpaolo (Utile Netto). Banca Sella. Fondazioni bancarie.',
+                color: '#2563eb', radius: 25
+            },
+            
+            // --- FOOD & AGRI ---
+            {
+                id: 'food_cn', name: 'Cuneo Food Valley', cat: 'growth',
+                lat: 44.6, lng: 7.8, val: '2,5 Mld €', addetti: '50.000',
+                trend: '+4,9%', trendType: 'up',
+                desc: 'Ferrero, Dolciario e Vini Langhe. Export trainante.',
+                color: '#16a34a', radius: 20
+            },
+            {
+                id: 'rice', name: 'Vercelli Riso', cat: 'growth',
+                lat: 45.32, lng: 8.30, val: '0,6 Mld €', addetti: '15.000',
+                trend: '+7,8%', trendType: 'up',
+                desc: 'Primo produttore riso UE. Borsino Riso Vercelli.',
+                color: '#16a34a', radius: 12
+            },
+            {
+                id: 'wine_at', name: 'Asti-Alessandria Vini', cat: 'growth',
+                lat: 44.80, lng: 8.35, val: '1,5 Mld €', addetti: '30.000',
+                trend: '+9%', trendType: 'up',
+                desc: 'Distretto Vini Langhe-Roero e Monferrato.',
+                color: '#16a34a', radius: 15
+            },
+
+            // --- ESPANSIONE: NOVARA, VERCELLI, VCO ---
+            {
+                id: 'chem_no', name: 'Novara Chimica & Silicon', cat: 'niche',
+                lat: 45.44, lng: 8.62, val: '2,1 Mld €', addetti: '12.000',
+                trend: 'Stabile', trendType: 'stable',
+                desc: 'Chimica Verde (Novamont), Silicon wafers (Memc), Farmaceutica.',
+                color: '#8b5cf6', radius: 18
+            },
+            {
+                id: 'log_no', name: 'Novara Logistica', cat: 'growth',
+                lat: 45.40, lng: 8.55, val: 'Indotto', addetti: '5.000+',
+                trend: 'High', trendType: 'up',
+                desc: 'Hub strategico CIM intermodale sull\'asse Milano-Torino.',
+                color: '#0891b2', radius: 14
+            },
+            {
+                id: 'bio_vc', name: 'Saluggia Biomedicale', cat: 'niche',
+                lat: 45.24, lng: 8.01, val: 'Alta Tech', addetti: '1.800',
+                trend: 'Stabile', trendType: 'stable',
+                desc: 'Eccellenza mondiale valvole cardiache e medtech (LivaNova, DiaSorin).',
+                color: '#8b5cf6', radius: 14, pulse: true
+            },
+            {
+                id: 'home_vco', name: 'VCO Casalinghi', cat: 'risk',
+                lat: 45.87, lng: 8.40, val: '0,5 Mld €', addetti: '3.000',
+                trend: '-2%', trendType: 'down',
+                desc: 'Distretto di Omegna (Alessi, Lagostina). Design e metallurgia.',
+                color: '#eab308', radius: 12
+            },
+            
+            // --- ALTRI SETTORI CHIAVE ---
+            {
+                id: 'tex', name: 'Biella Tessile', cat: 'risk',
+                lat: 45.56, lng: 8.05, val: '1,25 Mld €', addetti: '11.000',
+                trend: '-11%', trendType: 'down',
+                desc: 'Alta gamma lana/cashmere. Soffre calo lusso globale.',
+                color: '#ef4444', radius: 18
+            },
+            {
+                id: 'gold', name: 'Valenza Gioielli', cat: 'niche',
+                lat: 45.01, lng: 8.58, val: '1,44 Mld €', addetti: '6.000',
+                trend: '-1,8%', trendType: 'down',
+                desc: 'Distretto mondiale alta gioielleria (Bulgari, Cartier).',
+                color: '#eab308', radius: 16
+            },
+            {
+                id: 'train', name: 'Savigliano Ferroviario', cat: 'growth',
+                lat: 44.65, lng: 7.66, val: '2,5 Mld €', addetti: '5.000',
+                trend: 'Stabile', trendType: 'stable',
+                desc: 'Centro eccellenza Alstom. Commesse PNRR.',
+                color: '#0891b2', radius: 16
+            },
+             {
+                id: 'log_al', name: 'Alessandria Logistica', cat: 'growth',
+                lat: 44.91, lng: 8.61, val: 'N/A', addetti: 'In crescita',
+                trend: 'PNRR', trendType: 'up',
+                desc: 'Retroporto di Genova e snodo Terzo Valico.',
+                color: '#0891b2', radius: 14
+            }
+        ];
+
+        let markersLayer = L.layerGroup().addTo(map);
+
+        function drawMap(category) {
+            markersLayer.clearLayers();
+
+            settori.forEach(s => {
+                // Filtro Logica
+                if (category !== 'all') {
+                    if (category === 'growth' && (s.trendType !== 'up')) return;
+                    if (category === 'risk' && s.trendType !== 'down') return;
+                    if (category === 'niche' && (s.cat !== 'niche')) return;
+                }
+
+                // Stile Marker
+                const markerClass = s.pulse ? 'pulse-marker' : '';
+                
+                const marker = L.circleMarker([s.lat, s.lng], {
+                    radius: s.radius,
+                    fillColor: s.color,
+                    color: 'white',
+                    weight: 2,
+                    opacity: 1,
+                    fillOpacity: 0.8,
+                    className: markerClass
+                });
+
+                // Contenuto Popup
+                const trendClass = s.trendType === 'up' ? 'trend-up' : (s.trendType === 'down' ? 'trend-down' : 'trend-stable');
+                
+                const popupContent = `
+                    <div class="custom-popup">
+                        <div class="popup-header">
+                            <h3 class="popup-title">${s.name}</h3>
+                            <p class="popup-subtitle">${s.desc}</p>
+                        </div>
+                        <div class="popup-stat">
+                            <span>Valore:</span> <strong>${s.val}</strong>
+                        </div>
+                        <div class="popup-stat">
+                            <span>Addetti:</span> <strong>${s.addetti}</strong>
+                        </div>
+                        <div class="popup-stat">
+                            <span>Trend:</span> <span class="trend-badge ${trendClass}">${s.trend}</span>
+                        </div>
+                    </div>
+                `;
+
+                marker.bindPopup(popupContent, { className: 'custom-popup', maxWidth: 280 });
+                
+                // Interattività Mouse
+                marker.on('mouseover', function(e) {
+                    this.openPopup();
+                    this.setStyle({ weight: 4, fillOpacity: 1 });
+                });
+                marker.on('mouseout', function(e) {
+                    this.setStyle({ weight: 2, fillOpacity: 0.8 });
+                });
+
+                markersLayer.addLayer(marker);
+            });
+        }
+
+        function filterMap(cat) {
+            // Aggiorna UI bottoni
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            document.getElementById('btn-' + cat).classList.add('active');
+            
+            // Aggiorna Mappa
+            drawMap(cat);
+        }
+
+        // Init
+        drawMap('all');
+
+    </script>
+</body>
+</html>
