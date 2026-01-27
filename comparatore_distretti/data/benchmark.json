@@ -1,0 +1,111 @@
+{
+  "benchmark_nazionali": {
+    "Automotive": {
+      "produttivita": 340,
+      "export_percentuale": 48.0,
+      "investimenti_rd_percentuale": 4.2,
+      "crescita_media": 1.5
+    },
+    "Aerospazio": {
+      "produttivita": 360,
+      "export_percentuale": 62.0,
+      "investimenti_rd_percentuale": 12.5,
+      "crescita_media": 4.8
+    },
+    "Tessile-Abbigliamento": {
+      "produttivita": 185,
+      "export_percentuale": 55.0,
+      "investimenti_rd_percentuale": 2.1,
+      "crescita_media": 0.8
+    },
+    "Oreficeria-Gioielleria": {
+      "produttivita": 265,
+      "export_percentuale": 72.0,
+      "investimenti_rd_percentuale": 1.8,
+      "crescita_media": 2.5
+    },
+    "Rubinetteria-Valvolame": {
+      "produttivita": 250,
+      "export_percentuale": 68.0,
+      "investimenti_rd_percentuale": 3.2,
+      "crescita_media": 2.2
+    },
+    "Alimentare-Vitivinicolo": {
+      "produttivita": 380,
+      "export_percentuale": 42.0,
+      "investimenti_rd_percentuale": 2.5,
+      "crescita_media": 3.5
+    },
+    "ICT-Meccatronica": {
+      "produttivita": 220,
+      "export_percentuale": 35.0,
+      "investimenti_rd_percentuale": 9.5,
+      "crescita_media": 5.8
+    },
+    "Gomma-Plastica": {
+      "produttivita": 235,
+      "export_percentuale": 42.0,
+      "investimenti_rd_percentuale": 2.8,
+      "crescita_media": 1.2
+    }
+  },
+  "benchmark_europei": {
+    "Automotive": {
+      "produttivita": 420,
+      "export_percentuale": 55.0,
+      "investimenti_rd_percentuale": 5.5,
+      "crescita_media": 2.0,
+      "riferimento": "Germania (Baden-Württemberg)"
+    },
+    "Aerospazio": {
+      "produttivita": 395,
+      "export_percentuale": 70.0,
+      "investimenti_rd_percentuale": 14.0,
+      "crescita_media": 5.5,
+      "riferimento": "Francia (Toulouse)"
+    },
+    "Tessile-Abbigliamento": {
+      "produttivita": 175,
+      "export_percentuale": 48.0,
+      "investimenti_rd_percentuale": 1.8,
+      "crescita_media": 0.5,
+      "riferimento": "Portogallo (Norte)"
+    },
+    "Oreficeria-Gioielleria": {
+      "produttivita": 280,
+      "export_percentuale": 65.0,
+      "investimenti_rd_percentuale": 1.5,
+      "crescita_media": 2.0,
+      "riferimento": "Belgio (Anversa)"
+    },
+    "Rubinetteria-Valvolame": {
+      "produttivita": 290,
+      "export_percentuale": 72.0,
+      "investimenti_rd_percentuale": 4.0,
+      "crescita_media": 2.5,
+      "riferimento": "Germania (Sassonia)"
+    },
+    "Alimentare-Vitivinicolo": {
+      "produttivita": 410,
+      "export_percentuale": 52.0,
+      "investimenti_rd_percentuale": 3.0,
+      "crescita_media": 3.8,
+      "riferimento": "Francia (Borgogna)"
+    },
+    "ICT-Meccatronica": {
+      "produttivita": 285,
+      "export_percentuale": 45.0,
+      "investimenti_rd_percentuale": 12.0,
+      "crescita_media": 7.2,
+      "riferimento": "Germania (Monaco)"
+    },
+    "Gomma-Plastica": {
+      "produttivita": 275,
+      "export_percentuale": 50.0,
+      "investimenti_rd_percentuale": 3.5,
+      "crescita_media": 1.8,
+      "riferimento": "Germania (NRW)"
+    }
+  },
+  "ultimo_aggiornamento": "2024-01-15T10:00:00"
+}

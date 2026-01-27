@@ -1,0 +1,229 @@
+{
+  "distretti": [
+    {
+      "id": "automotive_torino",
+      "nome": "Distretto Automotive",
+      "settore": "Automotive",
+      "provincia": "Torino",
+      "comuni_principali": ["Torino", "Moncalieri", "Rivoli", "Collegno", "Grugliasco"],
+      "descrizione": "Polo storico dell'industria automobilistica italiana, con presenza di Stellantis e ampio indotto di componentistica.",
+      "kpi": {
+        "num_imprese": 2150,
+        "addetti": 78500,
+        "fatturato_mln": 28500,
+        "export_mln": 15200,
+        "export_percentuale": 53.3,
+        "investimenti_rd_mln": 1250,
+        "produttivita": 363,
+        "crescita_yoy": -2.1,
+        "quota_mercato_nazionale": 35.2
+      },
+      "kpi_annuali": {
+        "2021": {"fatturato_mln": 26800, "addetti": 81200, "export_mln": 14100},
+        "2022": {"fatturato_mln": 27500, "addetti": 80100, "export_mln": 14800},
+        "2023": {"fatturato_mln": 28500, "addetti": 78500, "export_mln": 15200}
+      },
+      "punti_forza": ["Know-how storico", "Rete fornitori consolidata", "Centri R&D"],
+      "criticita": ["Transizione elettrico", "Dipendenza da singolo OEM", "Calo occupazione"],
+      "data_creazione": "2024-01-15T10:00:00",
+      "data_modifica": "2024-01-15T10:00:00"
+    },
+    {
+      "id": "aerospazio_torino",
+      "nome": "Distretto Aerospaziale",
+      "settore": "Aerospazio",
+      "provincia": "Torino",
+      "comuni_principali": ["Torino", "Collegno", "Rivoli", "Caselle Torinese"],
+      "descrizione": "Polo d'eccellenza per aeronautica, spazio e difesa con Leonardo, Thales Alenia Space e Avio Aero.",
+      "kpi": {
+        "num_imprese": 380,
+        "addetti": 18200,
+        "fatturato_mln": 6800,
+        "export_mln": 4500,
+        "export_percentuale": 66.2,
+        "investimenti_rd_mln": 890,
+        "produttivita": 374,
+        "crescita_yoy": 5.8,
+        "quota_mercato_nazionale": 42.5
+      },
+      "kpi_annuali": {
+        "2021": {"fatturato_mln": 5900, "addetti": 17100, "export_mln": 3800},
+        "2022": {"fatturato_mln": 6400, "addetti": 17800, "export_mln": 4200},
+        "2023": {"fatturato_mln": 6800, "addetti": 18200, "export_mln": 4500}
+      },
+      "punti_forza": ["Alta tecnologia", "Export elevato", "Investimenti R&D"],
+      "criticita": ["Dipendenza commesse pubbliche", "Carenza personale specializzato"],
+      "data_creazione": "2024-01-15T10:00:00",
+      "data_modifica": "2024-01-15T10:00:00"
+    },
+    {
+      "id": "tessile_biella",
+      "nome": "Distretto Tessile Biellese",
+      "settore": "Tessile-Abbigliamento",
+      "provincia": "Biella",
+      "comuni_principali": ["Biella", "Cossato", "Trivero", "Valle Mosso", "Pray"],
+      "descrizione": "Eccellenza mondiale nella produzione di tessuti di alta gamma per l'abbigliamento maschile.",
+      "kpi": {
+        "num_imprese": 1420,
+        "addetti": 15800,
+        "fatturato_mln": 3200,
+        "export_mln": 2400,
+        "export_percentuale": 75.0,
+        "investimenti_rd_mln": 85,
+        "produttivita": 203,
+        "crescita_yoy": 1.2,
+        "quota_mercato_nazionale": 28.5
+      },
+      "kpi_annuali": {
+        "2021": {"fatturato_mln": 2800, "addetti": 16200, "export_mln": 2050},
+        "2022": {"fatturato_mln": 3100, "addetti": 16000, "export_mln": 2300},
+        "2023": {"fatturato_mln": 3200, "addetti": 15800, "export_mln": 2400}
+      },
+      "punti_forza": ["Brand Made in Italy", "Qualità premium", "Sostenibilità"],
+      "criticita": ["Costi energetici", "Ricambio generazionale", "Concorrenza asiatica"],
+      "data_creazione": "2024-01-15T10:00:00",
+      "data_modifica": "2024-01-15T10:00:00"
+    },
+    {
+      "id": "oreficeria_valenza",
+      "nome": "Distretto Orafo di Valenza",
+      "settore": "Oreficeria-Gioielleria",
+      "provincia": "Alessandria",
+      "comuni_principali": ["Valenza", "Alessandria", "Casale Monferrato"],
+      "descrizione": "Uno dei principali poli orafi mondiali, specializzato in alta gioielleria e lavorazioni artigianali.",
+      "kpi": {
+        "num_imprese": 920,
+        "addetti": 7200,
+        "fatturato_mln": 2100,
+        "export_mln": 1680,
+        "export_percentuale": 80.0,
+        "investimenti_rd_mln": 42,
+        "produttivita": 292,
+        "crescita_yoy": 3.5,
+        "quota_mercato_nazionale": 22.8
+      },
+      "kpi_annuali": {
+        "2021": {"fatturato_mln": 1850, "addetti": 7000, "export_mln": 1450},
+        "2022": {"fatturato_mln": 2000, "addetti": 7100, "export_mln": 1580},
+        "2023": {"fatturato_mln": 2100, "addetti": 7200, "export_mln": 1680}
+      },
+      "punti_forza": ["Artigianalità", "Export luxury", "Tradizione secolare"],
+      "criticita": ["Volatilità materie prime", "Successione aziendale", "Contraffazione"],
+      "data_creazione": "2024-01-15T10:00:00",
+      "data_modifica": "2024-01-15T10:00:00"
+    },
+    {
+      "id": "rubinetteria_cusio",
+      "nome": "Distretto del Rubinetto",
+      "settore": "Rubinetteria-Valvolame",
+      "provincia": "Verbano-Cusio-Ossola",
+      "comuni_principali": ["San Maurizio d'Opaglio", "Gozzano", "Pogno", "Armeno"],
+      "descrizione": "Leader mondiale nella produzione di rubinetteria e valvolame di alta qualità.",
+      "kpi": {
+        "num_imprese": 320,
+        "addetti": 6800,
+        "fatturato_mln": 1850,
+        "export_mln": 1350,
+        "export_percentuale": 73.0,
+        "investimenti_rd_mln": 65,
+        "produttivita": 272,
+        "crescita_yoy": 2.8,
+        "quota_mercato_nazionale": 85.0
+      },
+      "kpi_annuali": {
+        "2021": {"fatturato_mln": 1650, "addetti": 6500, "export_mln": 1180},
+        "2022": {"fatturato_mln": 1780, "addetti": 6700, "export_mln": 1290},
+        "2023": {"fatturato_mln": 1850, "addetti": 6800, "export_mln": 1350}
+      },
+      "punti_forza": ["Leadership mercato", "Design italiano", "Innovazione prodotto"],
+      "criticita": ["Costi energia", "Logistica", "Dimensione aziendale"],
+      "data_creazione": "2024-01-15T10:00:00",
+      "data_modifica": "2024-01-15T10:00:00"
+    },
+    {
+      "id": "alimentare_langhe",
+      "nome": "Distretto Agroalimentare Langhe-Roero",
+      "settore": "Alimentare-Vitivinicolo",
+      "provincia": "Cuneo",
+      "comuni_principali": ["Alba", "Bra", "Barolo", "Barbaresco", "Cherasco"],
+      "descrizione": "Eccellenza enogastronomica con vini DOCG, tartufo, nocciole e industria dolciaria (Ferrero).",
+      "kpi": {
+        "num_imprese": 2850,
+        "addetti": 28500,
+        "fatturato_mln": 12500,
+        "export_mln": 7200,
+        "export_percentuale": 57.6,
+        "investimenti_rd_mln": 320,
+        "produttivita": 439,
+        "crescita_yoy": 4.2,
+        "quota_mercato_nazionale": 8.5
+      },
+      "kpi_annuali": {
+        "2021": {"fatturato_mln": 11200, "addetti": 27200, "export_mln": 6300},
+        "2022": {"fatturato_mln": 12000, "addetti": 28000, "export_mln": 6850},
+        "2023": {"fatturato_mln": 12500, "addetti": 28500, "export_mln": 7200}
+      },
+      "punti_forza": ["Brand territoriale", "Turismo enogastronomico", "Ferrero"],
+      "criticita": ["Cambiamento climatico", "Costi manodopera", "Frammentazione"],
+      "data_creazione": "2024-01-15T10:00:00",
+      "data_modifica": "2024-01-15T10:00:00"
+    },
+    {
+      "id": "meccatronica_ivrea",
+      "nome": "Distretto ICT e Meccatronica",
+      "settore": "ICT-Meccatronica",
+      "provincia": "Torino",
+      "comuni_principali": ["Ivrea", "Torino", "Chivasso", "Settimo Torinese"],
+      "descrizione": "Polo tecnologico con eredità Olivetti, oggi focalizzato su automazione, robotica e software.",
+      "kpi": {
+        "num_imprese": 1180,
+        "addetti": 22400,
+        "fatturato_mln": 5200,
+        "export_mln": 2100,
+        "export_percentuale": 40.4,
+        "investimenti_rd_mln": 520,
+        "produttivita": 232,
+        "crescita_yoy": 6.5,
+        "quota_mercato_nazionale": 12.3
+      },
+      "kpi_annuali": {
+        "2021": {"fatturato_mln": 4500, "addetti": 20800, "export_mln": 1750},
+        "2022": {"fatturato_mln": 4900, "addetti": 21600, "export_mln": 1950},
+        "2023": {"fatturato_mln": 5200, "addetti": 22400, "export_mln": 2100}
+      },
+      "punti_forza": ["Competenze digitali", "Startup ecosystem", "Università"],
+      "criticita": ["Brain drain", "Competizione globale", "Finanziamenti"],
+      "data_creazione": "2024-01-15T10:00:00",
+      "data_modifica": "2024-01-15T10:00:00"
+    },
+    {
+      "id": "gomma_plastica",
+      "nome": "Distretto Gomma-Plastica",
+      "settore": "Gomma-Plastica",
+      "provincia": "Torino",
+      "comuni_principali": ["Settimo Torinese", "Chieri", "Moncalieri", "Nichelino"],
+      "descrizione": "Filiera della gomma e plastica tecnica, fortemente integrata con l'automotive.",
+      "kpi": {
+        "num_imprese": 580,
+        "addetti": 12500,
+        "fatturato_mln": 3100,
+        "export_mln": 1400,
+        "export_percentuale": 45.2,
+        "investimenti_rd_mln": 95,
+        "produttivita": 248,
+        "crescita_yoy": 0.8,
+        "quota_mercato_nazionale": 18.2
+      },
+      "kpi_annuali": {
+        "2021": {"fatturato_mln": 2900, "addetti": 12800, "export_mln": 1280},
+        "2022": {"fatturato_mln": 3050, "addetti": 12600, "export_mln": 1350},
+        "2023": {"fatturato_mln": 3100, "addetti": 12500, "export_mln": 1400}
+      },
+      "punti_forza": ["Integrazione automotive", "Competenze tecniche", "Flessibilità"],
+      "criticita": ["Dipendenza auto", "Sostenibilità", "Margini compressi"],
+      "data_creazione": "2024-01-15T10:00:00",
+      "data_modifica": "2024-01-15T10:00:00"
+    }
+  ],
+  "ultimo_aggiornamento": "2024-01-15T10:00:00"
+}
