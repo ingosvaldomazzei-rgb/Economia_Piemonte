@@ -1,7 +1,7 @@
 {
-  "totale_notizie": 45,
+  "totale_notizie": 49,
   "notizie_per_fonte": {
-    "regione": 25,
+    "regione": 29,
     "consiglio": 10,
     "arpa": 10
   },
@@ -11,12 +11,12 @@
       "conteggio": 7
     },
     {
-      "tema": "sanita-regionale",
+      "tema": "agricoltura",
       "conteggio": 6
     },
     {
-      "tema": "agricoltura",
-      "conteggio": 5
+      "tema": "sanita-regionale",
+      "conteggio": 6
     },
     {
       "tema": "universita-ricerca",
@@ -31,6 +31,10 @@
       "conteggio": 4
     },
     {
+      "tema": "protezione-civile",
+      "conteggio": 3
+    },
+    {
       "tema": "istruzione-formazione",
       "conteggio": 3
     },
@@ -39,13 +43,9 @@
       "conteggio": 3
     },
     {
-      "tema": "sociale-welfare",
-      "conteggio": 2
-    },
-    {
-      "tema": "turismo",
+      "tema": "commercio-artigianato",
       "conteggio": 2
     }
   ],
-  "totale_temi_con_notizie": 19
+  "totale_temi_con_notizie": 20
 }

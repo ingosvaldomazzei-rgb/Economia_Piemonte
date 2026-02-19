@@ -1,4 +1,108 @@
 {
+  "commercio-artigianato": [
+    {
+      "id": "b8a442a320ef",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-via-libera-consiglio-dei-ministri-alle-intese-preliminari",
+      "data": "2026-02-18T19:05:44+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "30560d009cfc",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-salone-libro-2026",
+      "data": "2026-02-04T16:13:09+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "autonomia-differenziata": [
+    {
+      "id": "b8a442a320ef",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-via-libera-consiglio-dei-ministri-alle-intese-preliminari",
+      "data": "2026-02-18T19:05:44+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "agricoltura": [
+    {
+      "id": "c742e6f2901f",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-modello-piemonte-esempio-per-leuropa",
+      "data": "2026-02-18T18:22:37+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b7800b4795bd",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-pronto-ad-affrontare-nuovi-mercati",
+      "data": "2026-02-16T15:31:01+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e8c694a02ddb",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-copre-tutte-borse-studio-universitarie",
+      "data": "2026-02-16T14:52:40+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bd7b17b572a2",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/recuperati-58-milioni-per-sviluppo-dellagricoltura-piemontese",
+      "data": "2026-02-04T14:34:04+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "fb3f12e530a5",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmata-convenzione-per-collaborazione-regione-vigili-fuoco",
+      "data": "2026-02-03T14:02:41+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "20b7132930de",
+      "titolo": "Problemi con l’operatore telefonico? Rivolgiti al Corecom Piemonte",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-loperatore-telefonico-rivolgiti-al-corecom-piemonte",
+      "data": "2025-10-23T08:49:37+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    }
+  ],
+  "protezione-civile": [
+    {
+      "id": "41b34ba63c0a",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-attivita-contrasto-previste-nel-2026",
+      "data": "2026-02-17T14:24:22+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "fb3f12e530a5",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmata-convenzione-per-collaborazione-regione-vigili-fuoco",
+      "data": "2026-02-03T14:02:41+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "abb28af9aa6c",
+      "titolo": "Previsione innesco frane",
+      "link": "https://www.arpa.piemonte.it/scheda-informativa/previsione-innesco-frane",
+      "data": "2024-04-18T06:45:44+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    }
+  ],
   "istruzione-formazione": [
     {
       "id": "d2fdbf6860dd",
@@ -49,48 +153,6 @@
       "data": "2026-02-09T14:53:10+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "agricoltura": [
-    {
-      "id": "b7800b4795bd",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-pronto-ad-affrontare-nuovi-mercati",
-      "data": "2026-02-16T15:31:01+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e8c694a02ddb",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-copre-tutte-borse-studio-universitarie",
-      "data": "2026-02-16T14:52:40+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bd7b17b572a2",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/recuperati-58-milioni-per-sviluppo-dellagricoltura-piemontese",
-      "data": "2026-02-04T14:34:04+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "fb3f12e530a5",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmata-convenzione-per-collaborazione-regione-vigili-fuoco",
-      "data": "2026-02-03T14:02:41+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "20b7132930de",
-      "titolo": "Problemi con l’operatore telefonico? Rivolgiti al Corecom Piemonte",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-loperatore-telefonico-rivolgiti-al-corecom-piemonte",
-      "data": "2025-10-23T08:49:37+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
     }
   ],
   "sociale-welfare": [
@@ -333,16 +395,6 @@
       "fonte_id": "regione"
     }
   ],
-  "commercio-artigianato": [
-    {
-      "id": "30560d009cfc",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-salone-libro-2026",
-      "data": "2026-02-04T16:13:09+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "fondi-europei": [
     {
       "id": "bd7b17b572a2",
@@ -351,24 +403,6 @@
       "data": "2026-02-04T14:34:04+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "protezione-civile": [
-    {
-      "id": "fb3f12e530a5",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmata-convenzione-per-collaborazione-regione-vigili-fuoco",
-      "data": "2026-02-03T14:02:41+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "abb28af9aa6c",
-      "titolo": "Previsione innesco frane",
-      "link": "https://www.arpa.piemonte.it/scheda-informativa/previsione-innesco-frane",
-      "data": "2024-04-18T06:45:44+00:00",
-      "fonte": "ARPA Piemonte",
-      "fonte_id": "arpa"
     }
   ],
   "bilancio-regionale": [

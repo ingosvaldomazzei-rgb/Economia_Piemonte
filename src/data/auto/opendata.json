@@ -1,0 +1,38 @@
+{
+  "ultimo_aggiornamento": "2026-02-19T09:57:23",
+  "dati_piemonte": {
+    "datasets_recenti": [],
+    "tags_principali": [],
+    "totale_datasets": 0
+  },
+  "opendata_torino": [
+    {
+      "dataset": "atti",
+      "anno": 2026,
+      "url": "https://servizi.comune.torino.it/consiglio/prg/documenti/documentazione/opendata/atti2026.csv",
+      "disponibile": false,
+      "dimensione": "N/D"
+    },
+    {
+      "dataset": "votazioni",
+      "anno": 2026,
+      "url": "https://servizi.comune.torino.it/consiglio/prg/documenti/documentazione/opendata/votazioni2026.csv",
+      "disponibile": false,
+      "dimensione": "N/D"
+    },
+    {
+      "dataset": "presenze",
+      "anno": 2026,
+      "url": "https://servizi.comune.torino.it/consiglio/prg/documenti/documentazione/opendata/presenze2026.csv",
+      "disponibile": false,
+      "dimensione": "N/D"
+    },
+    {
+      "dataset": "sedute",
+      "anno": 2026,
+      "url": "https://servizi.comune.torino.it/consiglio/prg/documenti/documentazione/opendata/sedute2026.csv",
+      "disponibile": false,
+      "dimensione": "N/D"
+    }
+  ]
+}
