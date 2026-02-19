@@ -1,0 +1,79 @@
+[
+  {
+    "id": "economia-lavoro",
+    "nome": "Economia & Lavoro",
+    "icona": "briefcase",
+    "colore": "#2563eb",
+    "coloreBg": "#eff6ff",
+    "descrizione": "Settori produttivi, occupazione, export, investimenti e transizione industriale",
+    "temi": [
+      "crisi-automotive",
+      "attivita-produttive",
+      "commercio-artigianato",
+      "agricoltura",
+      "turismo",
+      "lavoro-occupazione",
+      "energia"
+    ]
+  },
+  {
+    "id": "servizi-pubblici",
+    "nome": "Servizi Pubblici",
+    "icona": "heart",
+    "colore": "#dc2626",
+    "coloreBg": "#fef2f2",
+    "descrizione": "Sanita, trasporti, istruzione, edilizia pubblica e welfare",
+    "temi": [
+      "sanita-regionale",
+      "trasporti-mobilita",
+      "istruzione-formazione",
+      "edilizia-opere-pubbliche",
+      "sociale-welfare"
+    ]
+  },
+  {
+    "id": "territorio-ambiente",
+    "nome": "Territorio & Ambiente",
+    "icona": "mountain",
+    "colore": "#16a34a",
+    "coloreBg": "#f0fdf4",
+    "descrizione": "Qualita dell'aria, pianificazione territoriale, montagna e protezione civile",
+    "temi": [
+      "ambiente-qualita-aria",
+      "pianificazione-territoriale",
+      "enti-locali-piccoli-comuni",
+      "montagna",
+      "protezione-civile"
+    ]
+  },
+  {
+    "id": "governance-finanze",
+    "nome": "Governance & Finanze",
+    "icona": "landmark",
+    "colore": "#7c3aed",
+    "coloreBg": "#f5f3ff",
+    "descrizione": "Bilancio regionale, fondi europei, autonomia differenziata e trasparenza",
+    "temi": [
+      "bilancio-regionale",
+      "fondi-europei",
+      "autonomia-differenziata",
+      "organizzazione-regionale",
+      "trasparenza"
+    ]
+  },
+  {
+    "id": "cultura-societa",
+    "nome": "Cultura & Societa",
+    "icona": "users",
+    "colore": "#ea580c",
+    "coloreBg": "#fff7ed",
+    "descrizione": "Patrimonio culturale, sport, universita, giovani e pari opportunita",
+    "temi": [
+      "cultura-beni-culturali",
+      "sport",
+      "universita-ricerca",
+      "giovani",
+      "pari-opportunita"
+    ]
+  }
+]

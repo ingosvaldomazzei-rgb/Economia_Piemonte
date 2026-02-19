@@ -1,0 +1,61 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import categorie from '../../data/categorie.json';
+---
+
+<BaseLayout title="Tesi Programmatiche ORA!" description="Le Tesi Programmatiche di ORA! come bussola di orientamento politico per il lavoro dei gruppi tematici.">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <Breadcrumb items={[{ label: 'Tesi Programmatiche ORA!' }]} />
+
+    <div class="max-w-3xl mx-auto text-center mb-12">
+      <div class="inline-flex items-center gap-2 bg-amber-50 text-amber-800 text-sm font-medium px-4 py-2 rounded-full mb-6">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L4.082 16.5c-.77.833.192 2.5 1.732 2.5z" />
+        </svg>
+        Sezione in fase di definizione
+      </div>
+
+      <h1 class="text-3xl md:text-4xl font-extrabold text-primary-900 mb-4">
+        Tesi Programmatiche di ORA!
+      </h1>
+      <p class="text-lg text-gray-600 leading-relaxed mb-8">
+        Le Tesi Programmatiche di ORA! saranno pubblicate qui come
+        <strong>bussola di orientamento politico</strong> per il lavoro dei gruppi tematici.
+        Questa sezione raccogliera le posizioni del partito sulle principali questioni
+        politiche regionali, organizzate per macro-area tematica.
+      </p>
+
+      <div class="bg-primary-50 border border-primary-200 rounded-xl p-6 text-left">
+        <h2 class="font-bold text-primary-900 mb-3">Struttura prevista</h2>
+        <p class="text-sm text-primary-700 mb-4">
+          Le Tesi saranno organizzate secondo le 5 macro-aree tematiche dell'Osservatorio,
+          con posizioni specifiche per ciascun tema monitorato:
+        </p>
+        <div class="space-y-3">
+          {categorie.map(cat => (
+            <div class="flex items-center gap-3 bg-white/60 rounded-lg p-3">
+              <span class="w-3 h-3 rounded-full shrink-0" style={`background:${cat.colore}`}></span>
+              <div>
+                <div class="font-semibold text-sm text-gray-900">{cat.nome}</div>
+                <div class="text-xs text-gray-500">{cat.temi.length} tematiche - posizioni in definizione</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <!-- Differenza con contenuti informativi -->
+    <div class="max-w-3xl mx-auto bg-gray-50 border border-gray-200 rounded-xl p-6">
+      <h3 class="font-bold text-gray-900 mb-2">Nota importante</h3>
+      <p class="text-sm text-gray-600 leading-relaxed">
+        Questa e l'<strong>unica sezione del sito con contenuti di natura politica</strong>.
+        Tutte le altre sezioni (tematiche, dati, fonti) contengono informazioni
+        oggettive e neutrali provenienti da fonti istituzionali.
+        Le Tesi Programmatiche rappresentano invece le posizioni e le proposte
+        politiche di ORA! sulle tematiche monitorate.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

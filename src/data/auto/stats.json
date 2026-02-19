@@ -1,0 +1,51 @@
+{
+  "totale_notizie": 45,
+  "notizie_per_fonte": {
+    "regione": 25,
+    "consiglio": 10,
+    "arpa": 10
+  },
+  "temi_attivi": [
+    {
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 7
+    },
+    {
+      "tema": "sanita-regionale",
+      "conteggio": 6
+    },
+    {
+      "tema": "agricoltura",
+      "conteggio": 5
+    },
+    {
+      "tema": "universita-ricerca",
+      "conteggio": 4
+    },
+    {
+      "tema": "cultura-beni-culturali",
+      "conteggio": 4
+    },
+    {
+      "tema": "ambiente-qualita-aria",
+      "conteggio": 4
+    },
+    {
+      "tema": "istruzione-formazione",
+      "conteggio": 3
+    },
+    {
+      "tema": "attivita-produttive",
+      "conteggio": 3
+    },
+    {
+      "tema": "sociale-welfare",
+      "conteggio": 2
+    },
+    {
+      "tema": "turismo",
+      "conteggio": 2
+    }
+  ],
+  "totale_temi_con_notizie": 19
+}

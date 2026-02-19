@@ -1,0 +1,56 @@
+[
+  {
+    "id": "pil",
+    "label": "PIL Piemonte",
+    "value": "134,6 Mld \u20ac",
+    "anno": "2024",
+    "trend": "up",
+    "trendValue": "+0,7%",
+    "fonte": "ISTAT"
+  },
+  {
+    "id": "bilancio",
+    "label": "Bilancio Regionale",
+    "value": "18,35 Mld \u20ac",
+    "anno": "2026",
+    "trend": "stable",
+    "trendValue": "",
+    "fonte": "Regione Piemonte"
+  },
+  {
+    "id": "sanita",
+    "label": "Spesa Sanitaria",
+    "value": "9,3 Mld \u20ac",
+    "anno": "2026",
+    "trend": "up",
+    "trendValue": "50,7% del bilancio",
+    "fonte": "Regione Piemonte"
+  },
+  {
+    "id": "export",
+    "label": "Export",
+    "value": "~60 Mld \u20ac",
+    "anno": "2024",
+    "trend": "up",
+    "trendValue": "+3,2%",
+    "fonte": "ICE/ISTAT"
+  },
+  {
+    "id": "disoccupazione",
+    "label": "Disoccupazione",
+    "value": "6,1%",
+    "anno": "2024",
+    "trend": "down",
+    "trendValue": "-0,3pp",
+    "fonte": "ISTAT"
+  },
+  {
+    "id": "popolazione",
+    "label": "Popolazione",
+    "value": "4,24 Mln",
+    "anno": "2024",
+    "trend": "down",
+    "trendValue": "-0,4%",
+    "fonte": "ISTAT"
+  }
+]

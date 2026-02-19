@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TemaCard from '../../components/TemaCard.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import categorie from '../../data/categorie.json';
+import notiziPerTema from '../../data/auto/notizie-per-tema.json';
+import { getCollection } from 'astro:content';
+
+const allTemi = await getCollection('temi');
+const temiByCategory = new Map<string, typeof allTemi>();
+
+for (const cat of categorie) {
+  const temi = allTemi
+    .filter(t => t.data.categoria === cat.id)
+    .sort((a, b) => a.data.priorita - b.data.priorita);
+  temiByCategory.set(cat.id, temi);
+}
+---
+
+<BaseLayout title="Tematiche Politiche" description="Tutte le tematiche politiche monitorate per il Piemonte, organizzate per macro-categoria.">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <Breadcrumb items={[{ label: 'Tematiche' }]} />
+
+    <div class="mb-8">
+      <h1 class="text-3xl font-extrabold text-primary-900 mb-2">Tematiche Politiche</h1>
+      <p class="text-lg text-gray-600">
+        {allTemi.length} tematiche monitorate, organizzate in {categorie.length} macro-categorie.
+        Le notizie vengono classificate automaticamente.
+      </p>
+    </div>
+
+    <div class="space-y-10">
+      {categorie.map(cat => {
+        const temi = temiByCategory.get(cat.id) || [];
+        return (
+          <section id={cat.id}>
+            <div class="flex items-center gap-3 mb-4">
+              <div class="w-8 h-8 rounded-lg flex items-center justify-center" style={`background:${cat.coloreBg}`}>
+                <span class="w-3 h-3 rounded-full" style={`background:${cat.colore}`}></span>
+              </div>
+              <h2 class="text-xl font-bold text-gray-900">{cat.nome}</h2>
+              <span class="text-sm text-gray-400">({temi.length} temi)</span>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              {temi.map(tema => (
+                <TemaCard
+                  slug={tema.data.slug}
+                  title={tema.data.title}
+                  description={tema.data.description}
+                  categoria={tema.data.categoria}
+                  isPilotDeepDive={tema.data.isPilotDeepDive}
+                  kpis={tema.data.kpis}
+                  newsCount={(notiziPerTema as Record<string, any[]>)[tema.data.slug]?.length}
+                />
+              ))}
+            </div>
+          </section>
+        );
+      })}
+    </div>
+  </div>
+</BaseLayout>

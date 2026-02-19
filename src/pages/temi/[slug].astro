@@ -1,0 +1,19 @@
+---
+import { getCollection, render } from 'astro:content';
+import TemaLayout from '../../layouts/TemaLayout.astro';
+
+export async function getStaticPaths() {
+  const allTemi = await getCollection('temi');
+  return allTemi.map(tema => ({
+    params: { slug: tema.data.slug },
+    props: { tema }
+  }));
+}
+
+const { tema } = Astro.props;
+const { Content } = await render(tema);
+---
+
+<TemaLayout frontmatter={tema.data}>
+  <Content />
+</TemaLayout>

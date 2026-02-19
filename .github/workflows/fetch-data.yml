@@ -1,0 +1,56 @@
+name: Aggiorna Dati Piattaforma
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Ogni 6 ore: 00:00, 06:00, 12:00, 18:00 UTC
+  workflow_dispatch:         # Permette esecuzione manuale dal pannello GitHub Actions
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Installa dipendenze Python
+        run: pip install -r requirements.txt
+
+      - name: Scarica feed RSS
+        run: python scripts/fetch_rss.py
+        continue-on-error: true
+
+      - name: Scarica qualità aria ARPA
+        run: python scripts/fetch_arpa.py
+        continue-on-error: true
+
+      - name: Scraping atti Consiglio Regionale
+        run: python scripts/fetch_consiglio.py
+        continue-on-error: true
+
+      - name: Scarica Open Data
+        run: python scripts/fetch_opendata.py
+        continue-on-error: true
+
+      - name: Classifica notizie per tematica
+        run: python scripts/classify_news.py
+        continue-on-error: true
+
+      - name: Genera statistiche aggregate
+        run: python scripts/generate_stats.py
+
+      - name: Commit e push dati aggiornati
+        run: |
+          git config user.name "Bot Dati Piemonte"
+          git config user.email "bot@osservatorio-piemonte.it"
+          git add src/data/auto/
+          git diff --staged --quiet || git commit -m "auto: aggiornamento dati $(date +%Y-%m-%d_%H:%M)"
+          git push

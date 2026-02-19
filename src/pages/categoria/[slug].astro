@@ -1,0 +1,56 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TemaCard from '../../components/TemaCard.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import categorie from '../../data/categorie.json';
+import notiziPerTema from '../../data/auto/notizie-per-tema.json';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  return categorie.map(cat => ({
+    params: { slug: cat.id },
+    props: { categoria: cat }
+  }));
+}
+
+const { categoria } = Astro.props;
+const allTemi = await getCollection('temi');
+const temiCategoria = allTemi
+  .filter(t => t.data.categoria === categoria.id)
+  .sort((a, b) => a.data.priorita - b.data.priorita);
+---
+
+<BaseLayout title={categoria.nome} description={categoria.descrizione}>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <Breadcrumb items={[
+      { label: 'Tematiche', href: '/temi/' },
+      { label: categoria.nome }
+    ]} />
+
+    <div class="mb-8">
+      <div class="flex items-center gap-3 mb-3">
+        <div class="w-10 h-10 rounded-lg flex items-center justify-center" style={`background:${categoria.coloreBg}`}>
+          <span class="w-4 h-4 rounded-full" style={`background:${categoria.colore}`}></span>
+        </div>
+        <div>
+          <h1 class="text-3xl font-extrabold text-primary-900">{categoria.nome}</h1>
+        </div>
+      </div>
+      <p class="text-lg text-gray-600">{categoria.descrizione}</p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {temiCategoria.map(tema => (
+        <TemaCard
+          slug={tema.data.slug}
+          title={tema.data.title}
+          description={tema.data.description}
+          categoria={tema.data.categoria}
+          isPilotDeepDive={tema.data.isPilotDeepDive}
+          kpis={tema.data.kpis}
+          newsCount={(notiziPerTema as Record<string, any[]>)[tema.data.slug]?.length}
+        />
+      ))}
+    </div>
+  </div>
+</BaseLayout>

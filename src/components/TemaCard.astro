@@ -1,0 +1,48 @@
+---
+interface Props {
+  slug: string;
+  title: string;
+  description: string;
+  categoria: string;
+  isPilotDeepDive?: boolean;
+  kpis?: { label: string; value: string; trend: string }[];
+  newsCount?: number;
+}
+
+const { slug, title, description, categoria, isPilotDeepDive, kpis, newsCount } = Astro.props;
+
+import categorie from '../data/categorie.json';
+const cat = categorie.find(c => c.id === categoria);
+const colore = cat?.colore || '#6b7280';
+---
+
+<a href={`/temi/${slug}/`} class="card-hover block rounded-xl border border-gray-200 bg-white overflow-hidden">
+  {isPilotDeepDive && (
+    <div class="px-4 py-1.5 text-[10px] font-bold uppercase tracking-wider text-white" style={`background:${colore}`}>
+      Approfondimento pilota
+    </div>
+  )}
+  <div class="p-4">
+    <div class="flex items-center gap-2 mb-2">
+      <span class="inline-block w-2 h-2 rounded-full" style={`background:${colore}`}></span>
+      <span class="text-[10px] font-medium text-gray-400 uppercase tracking-wide">{cat?.nome}</span>
+      {newsCount !== undefined && newsCount > 0 && (
+        <span class="ml-auto text-[10px] font-medium px-1.5 py-0.5 rounded-full bg-primary-50 text-primary-600">
+          {newsCount} notizie
+        </span>
+      )}
+    </div>
+    <h3 class="font-semibold text-gray-900 mb-1 line-clamp-2">{title}</h3>
+    <p class="text-xs text-gray-500 line-clamp-2 mb-3">{description}</p>
+    {kpis && kpis.length > 0 && (
+      <div class="flex flex-wrap gap-2">
+        {kpis.slice(0, 3).map(kpi => (
+          <span class="text-[10px] bg-gray-50 border border-gray-100 rounded px-2 py-0.5">
+            <span class="text-gray-400">{kpi.label}:</span>{' '}
+            <span class="font-semibold text-gray-700">{kpi.value}</span>
+          </span>
+        ))}
+      </div>
+    )}
+  </div>
+</a>

@@ -1,0 +1,45 @@
+---
+interface Props {
+  id: string;
+  nome: string;
+  colore: string;
+  coloreBg: string;
+  descrizione: string;
+  temiCount: number;
+  newsCount?: number;
+}
+
+const { id, nome, colore, coloreBg, descrizione, temiCount, newsCount } = Astro.props;
+
+const icons: Record<string, string> = {
+  'economia-lavoro': 'M20.7 9.3l-8-8a1 1 0 00-1.4 0l-8 8A1 1 0 004 11h2v8a1 1 0 001 1h10a1 1 0 001-1v-8h2a1 1 0 00.7-1.7z',
+  'servizi-pubblici': 'M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z',
+  'territorio-ambiente': 'M14 6l-3.75 5 2.85 3.8-1.6 1.2C9.81 13.75 7 10 7 10l-6 8h22L14 6z',
+  'governance-finanze': 'M12 2L2 7v10l10 5 10-5V7L12 2zm0 2.18L19.35 8 12 11.82 4.65 8 12 4.18z',
+  'cultura-societa': 'M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z'
+};
+---
+
+<a href={`/categoria/${id}/`} class="card-hover block rounded-xl border border-gray-200 bg-white overflow-hidden">
+  <div class="h-1.5" style={`background:${colore}`}></div>
+  <div class="p-5">
+    <div class="flex items-start justify-between mb-3">
+      <div class="w-10 h-10 rounded-lg flex items-center justify-center" style={`background:${coloreBg}`}>
+        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" style={`color:${colore}`}>
+          <path d={icons[id] || icons['economia-lavoro']} />
+        </svg>
+      </div>
+      {newsCount !== undefined && newsCount > 0 && (
+        <span class="text-xs font-medium px-2 py-0.5 rounded-full bg-primary-50 text-primary-700">
+          {newsCount} notizie
+        </span>
+      )}
+    </div>
+    <h3 class="font-bold text-gray-900 mb-1">{nome}</h3>
+    <p class="text-sm text-gray-500 mb-3 line-clamp-2">{descrizione}</p>
+    <div class="flex items-center justify-between">
+      <span class="text-xs text-gray-400">{temiCount} tematiche</span>
+      <span class="text-xs font-medium" style={`color:${colore}`}>Esplora &rarr;</span>
+    </div>
+  </div>
+</a>

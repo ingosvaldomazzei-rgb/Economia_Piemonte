@@ -1,0 +1,284 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const fontiConsiliari = [
+  { nome: 'Sedute del Consiglio', url: 'https://www.cr.piemonte.it/seduteconsiglio/appl/search/index.php', desc: 'Archivio ricercabile sedute, video, trascrizioni', formato: 'HTML, Video', freq: 'Continuo' },
+  { nome: 'Interrogazioni e Interpellanze', url: 'https://www.cr.piemonte.it/cms/leggi-e-banche-dati/atti-del-consiglio/interrogazioni-e-interpellanze', desc: 'Archivio completo interrogazioni per area tematica', formato: 'HTML, PDF', freq: 'Continuo' },
+  { nome: 'Mozioni e Ordini del Giorno', url: 'https://www.cr.piemonte.it/cms/leggi-e-banche-dati/atti-del-consiglio/mozioni-e-ordini-del-giorno', desc: 'Atti di indirizzo politico', formato: 'HTML, PDF', freq: 'Continuo' },
+  { nome: 'Commissioni Permanenti', url: 'https://www.cr.piemonte.it/cms/commissioni/commissioni-permanenti', desc: '6 commissioni: lavori preparatori, audizioni, approfondimenti', formato: 'HTML', freq: 'Settimanale' },
+  { nome: 'Banca Dati Normativa', url: 'https://arianna.consiglioregionale.piemonte.it/iterlegfo/indiceMateriaLeggi.do', desc: 'Archivio completo leggi regionali per 20 aree tematiche', formato: 'HTML', freq: 'Continuo' },
+  { nome: 'Feed RSS Consiglio', url: 'https://www.cr.piemonte.it/cms/rss.xml', desc: 'Notizie e comunicati del Consiglio Regionale', formato: 'RSS/XML', freq: 'Giornaliero' },
+];
+
+const fontiRegionali = [
+  { nome: 'Regione Piemonte', url: 'https://www.regione.piemonte.it/', desc: 'Portale istituzionale: aree tematiche, delibere, bandi', formato: 'HTML', freq: 'Giornaliero' },
+  { nome: 'Piemonteinforma (Notizie)', url: 'https://www.regione.piemonte.it/web/pinforma/notizie', desc: 'Agenzia quotidiana di informazione della Giunta', formato: 'HTML, RSS', freq: 'Giornaliero' },
+  { nome: 'Feed RSS Regione', url: 'https://www.regione.piemonte.it/web/pinforma/feed', desc: 'Feed automatico notizie Giunta regionale', formato: 'RSS/XML', freq: 'Giornaliero' },
+  { nome: 'Aree Tematiche', url: 'https://www.regione.piemonte.it/web/temi', desc: 'Politiche regionali per area: sanita, ambiente, lavoro, fondi EU', formato: 'HTML', freq: 'Variabile' },
+  { nome: 'Amministrazione Trasparente', url: 'https://trasparenza.cr.piemonte.it/disposizioni-generali/atti-generali', desc: 'PIAO, Statuto, regolamenti, bilanci', formato: 'HTML, PDF', freq: 'Annuale' },
+  { nome: 'Bilancio e Contabilita', url: 'https://www.regione.piemonte.it/web/amministrazione/bilancio-contabilita', desc: 'Bilanci preventivi, consuntivi, relazioni', formato: 'HTML, PDF', freq: 'Annuale' },
+];
+
+const fontiComunali = [
+  { nome: 'Open Data Consiglio Torino', url: 'https://servizi.comune.torino.it/consiglio/prg/web/opendata.php', desc: 'CSV/XML: sedute, atti, votazioni, presenze dal 2001', formato: 'CSV, XML', freq: 'Annuale' },
+  { nome: 'Verbali Consiglio Torino', url: 'https://servizi.comune.torino.it/consiglio/prg/web/verbali/verbali.php', desc: 'Trascrizioni integrali sedute consiliari', formato: 'HTML', freq: 'Continuo' },
+  { nome: 'CiviCam', url: 'https://www.civicam.it', desc: 'Streaming sedute, votazioni digitali, gestione atti comunali', formato: 'HTML, Video', freq: 'Continuo' },
+];
+
+const fontiDati = [
+  { nome: 'ISTAT', url: 'https://www.istat.it', desc: 'PIL regionale, occupati per settore, imprese, export/import, demografia', formato: 'CSV, API', freq: 'Trimestrale/Annuale' },
+  { nome: 'Unioncamere Piemonte', url: 'https://www.pie.camcom.it', desc: 'Fatturato, imprese, addetti per settore e provincia', formato: 'HTML, PDF', freq: 'Trimestrale' },
+  { nome: 'INPS', url: 'https://www.inps.it', desc: 'Cassa integrazione (ore, lavoratori), pensioni, contributi', formato: 'CSV, API', freq: 'Mensile' },
+  { nome: 'ARPA Piemonte', url: 'https://www.arpa.piemonte.it', desc: 'Qualita aria (real-time + storico), acque, suolo, meteo', formato: 'HTML, RSS, API', freq: 'Giornaliero' },
+  { nome: 'ARPA - Qualita Aria API', url: 'https://aria.ambiente.piemonte.it/qualita-aria/dati', desc: 'PM10, PM2.5, NO2 per stazione di monitoraggio', formato: 'JSON (REST API)', freq: 'Giornaliero' },
+  { nome: 'ANFIA', url: 'https://www.anfia.it', desc: 'Automotive: produzione, immatricolazioni, export, occupati', formato: 'PDF, HTML', freq: 'Mensile/Annuale' },
+  { nome: 'Banca d\'Italia', url: 'https://www.bancaditalia.it', desc: 'Economie regionali: credito, PIL, investimenti, risparmio', formato: 'PDF, CSV', freq: 'Annuale' },
+  { nome: 'Ministero Salute', url: 'https://www.salute.gov.it', desc: 'Griglia LEA, tempi attesa, posti letto, spesa sanitaria', formato: 'HTML, PDF', freq: 'Annuale' },
+  { nome: 'Agenas', url: 'https://www.agenas.gov.it', desc: 'Performance sanitarie regionali, benchmarking', formato: 'HTML', freq: 'Annuale' },
+  { nome: 'Corte dei Conti', url: 'https://www.corteconti.it', desc: 'Pareri su rendiconti, referto controllo gestione', formato: 'PDF', freq: 'Annuale' },
+  { nome: 'Camera Commercio Torino', url: 'https://www.to.camcom.it', desc: 'Registro imprese, statistiche locali, osservatorio automotive', formato: 'HTML, PDF', freq: 'Variabile' },
+  { nome: 'Excelsior (Unioncamere)', url: 'https://excelsior.unioncamere.net', desc: 'Fabbisogni professionali imprese', formato: 'HTML', freq: 'Trimestrale' },
+  { nome: 'AlmaLaurea', url: 'https://www.almalaurea.it', desc: 'Condizione occupazionale laureati per ateneo/corso', formato: 'HTML', freq: 'Annuale' },
+  { nome: 'ACI', url: 'https://www.aci.it', desc: 'Parco veicolare circolante (classe Euro, alimentazione)', formato: 'HTML, PDF', freq: 'Annuale' },
+];
+
+const fontiOpenData = [
+  { nome: 'dati.piemonte.it', url: 'https://dati.piemonte.it', desc: '1.517 dataset: economia, ambiente, mobilita, sanita, turismo, cultura', formato: 'CSV, JSON, XML, Shapefile', freq: 'Giornaliero' },
+  { nome: 'OpenCoesione', url: 'https://opencoesione.gov.it', desc: 'Progetti FSC/SNAI per comune e regione, fondi coesione', formato: 'JSON (API REST)', freq: 'Periodico' },
+  { nome: 'OpenBilanci', url: 'https://openbilanci.it', desc: 'Database bilanci enti locali italiani', formato: 'HTML', freq: 'Annuale' },
+  { nome: 'ISPRA', url: 'https://www.isprambiente.gov.it', desc: 'Indicatori ambientali nazionali, rifiuti, suolo', formato: 'HTML, PDF', freq: 'Annuale' },
+];
+---
+
+<BaseLayout title="Fonti & Open Data" description="Catalogo completo delle fonti istituzionali attendibili per il monitoraggio politico del Piemonte.">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <Breadcrumb items={[{ label: 'Fonti & Open Data' }]} />
+
+    <div class="mb-8">
+      <h1 class="text-3xl font-extrabold text-primary-900 mb-2">Fonti & Open Data</h1>
+      <p class="text-lg text-gray-600">
+        Catalogo completo delle fonti istituzionali attendibili per il monitoraggio delle politiche piemontesi.
+        Per ogni fonte: descrizione, formato dati e frequenza di aggiornamento.
+      </p>
+    </div>
+
+    <!-- Quick nav -->
+    <nav class="flex flex-wrap gap-2 mb-8">
+      <a href="#consiliari" class="text-sm bg-purple-50 text-purple-700 px-3 py-1.5 rounded-full font-medium hover:bg-purple-100 transition-colors">Fonti Consiliari</a>
+      <a href="#regionali" class="text-sm bg-blue-50 text-blue-700 px-3 py-1.5 rounded-full font-medium hover:bg-blue-100 transition-colors">Fonti Regionali</a>
+      <a href="#comunali" class="text-sm bg-green-50 text-green-700 px-3 py-1.5 rounded-full font-medium hover:bg-green-100 transition-colors">Fonti Comunali</a>
+      <a href="#dati" class="text-sm bg-amber-50 text-amber-700 px-3 py-1.5 rounded-full font-medium hover:bg-amber-100 transition-colors">Dati Quantitativi</a>
+      <a href="#opendata" class="text-sm bg-red-50 text-red-700 px-3 py-1.5 rounded-full font-medium hover:bg-red-100 transition-colors">Open Data</a>
+    </nav>
+
+    <div class="space-y-10">
+      <!-- Fonti Consiliari -->
+      <section id="consiliari">
+        <div class="flex items-center gap-3 mb-4">
+          <div class="w-8 h-8 rounded-lg bg-purple-50 flex items-center justify-center">
+            <span class="w-3 h-3 rounded-full bg-purple-500"></span>
+          </div>
+          <h2 class="text-xl font-bold text-gray-900">Fonti Consiliari</h2>
+        </div>
+        <div class="bg-white rounded-xl border border-gray-200 overflow-hidden">
+          <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+              <thead class="bg-gray-50">
+                <tr>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700">Fonte</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700 hidden md:table-cell">Contenuto</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700">Formato</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700 hidden sm:table-cell">Aggiornamento</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-gray-100">
+                {fontiConsiliari.map(f => (
+                  <tr class="hover:bg-gray-50">
+                    <td class="px-4 py-3">
+                      <a href={f.url} target="_blank" rel="noopener" class="font-medium text-primary-600 hover:text-primary-800">{f.nome}</a>
+                    </td>
+                    <td class="px-4 py-3 text-gray-500 hidden md:table-cell">{f.desc}</td>
+                    <td class="px-4 py-3"><span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{f.formato}</span></td>
+                    <td class="px-4 py-3 text-gray-500 hidden sm:table-cell">{f.freq}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- Fonti Regionali -->
+      <section id="regionali">
+        <div class="flex items-center gap-3 mb-4">
+          <div class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center">
+            <span class="w-3 h-3 rounded-full bg-blue-500"></span>
+          </div>
+          <h2 class="text-xl font-bold text-gray-900">Fonti Regionali</h2>
+        </div>
+        <div class="bg-white rounded-xl border border-gray-200 overflow-hidden">
+          <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+              <thead class="bg-gray-50">
+                <tr>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700">Fonte</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700 hidden md:table-cell">Contenuto</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700">Formato</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700 hidden sm:table-cell">Aggiornamento</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-gray-100">
+                {fontiRegionali.map(f => (
+                  <tr class="hover:bg-gray-50">
+                    <td class="px-4 py-3">
+                      <a href={f.url} target="_blank" rel="noopener" class="font-medium text-primary-600 hover:text-primary-800">{f.nome}</a>
+                    </td>
+                    <td class="px-4 py-3 text-gray-500 hidden md:table-cell">{f.desc}</td>
+                    <td class="px-4 py-3"><span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{f.formato}</span></td>
+                    <td class="px-4 py-3 text-gray-500 hidden sm:table-cell">{f.freq}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- Fonti Comunali -->
+      <section id="comunali">
+        <div class="flex items-center gap-3 mb-4">
+          <div class="w-8 h-8 rounded-lg bg-green-50 flex items-center justify-center">
+            <span class="w-3 h-3 rounded-full bg-green-500"></span>
+          </div>
+          <h2 class="text-xl font-bold text-gray-900">Fonti Comunali</h2>
+        </div>
+        <div class="bg-white rounded-xl border border-gray-200 overflow-hidden">
+          <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+              <thead class="bg-gray-50">
+                <tr>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700">Fonte</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700 hidden md:table-cell">Contenuto</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700">Formato</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700 hidden sm:table-cell">Aggiornamento</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-gray-100">
+                {fontiComunali.map(f => (
+                  <tr class="hover:bg-gray-50">
+                    <td class="px-4 py-3">
+                      <a href={f.url} target="_blank" rel="noopener" class="font-medium text-primary-600 hover:text-primary-800">{f.nome}</a>
+                    </td>
+                    <td class="px-4 py-3 text-gray-500 hidden md:table-cell">{f.desc}</td>
+                    <td class="px-4 py-3"><span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{f.formato}</span></td>
+                    <td class="px-4 py-3 text-gray-500 hidden sm:table-cell">{f.freq}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <p class="text-xs text-gray-400 mt-3">
+          Per altri comuni piemontesi, cercare la sezione "Amministrazione Trasparente" &rarr; "Delibere e Atti" sul sito di ciascun Comune.
+          Molti comuni usano la piattaforma <a href="https://www.civicam.it" target="_blank" rel="noopener" class="underline">CiviCam</a> per streaming sedute e gestione atti.
+        </p>
+      </section>
+
+      <!-- Dati Quantitativi -->
+      <section id="dati">
+        <div class="flex items-center gap-3 mb-4">
+          <div class="w-8 h-8 rounded-lg bg-amber-50 flex items-center justify-center">
+            <span class="w-3 h-3 rounded-full bg-amber-500"></span>
+          </div>
+          <h2 class="text-xl font-bold text-gray-900">Fonti Dati Quantitativi</h2>
+        </div>
+        <div class="bg-white rounded-xl border border-gray-200 overflow-hidden">
+          <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+              <thead class="bg-gray-50">
+                <tr>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700">Fonte</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700 hidden md:table-cell">Dati Disponibili</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700">Formato</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700 hidden sm:table-cell">Aggiornamento</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-gray-100">
+                {fontiDati.map(f => (
+                  <tr class="hover:bg-gray-50">
+                    <td class="px-4 py-3">
+                      <a href={f.url} target="_blank" rel="noopener" class="font-medium text-primary-600 hover:text-primary-800">{f.nome}</a>
+                    </td>
+                    <td class="px-4 py-3 text-gray-500 hidden md:table-cell">{f.desc}</td>
+                    <td class="px-4 py-3"><span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{f.formato}</span></td>
+                    <td class="px-4 py-3 text-gray-500 hidden sm:table-cell">{f.freq}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- Open Data -->
+      <section id="opendata">
+        <div class="flex items-center gap-3 mb-4">
+          <div class="w-8 h-8 rounded-lg bg-red-50 flex items-center justify-center">
+            <span class="w-3 h-3 rounded-full bg-red-500"></span>
+          </div>
+          <h2 class="text-xl font-bold text-gray-900">Open Data</h2>
+        </div>
+        <div class="bg-white rounded-xl border border-gray-200 overflow-hidden">
+          <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+              <thead class="bg-gray-50">
+                <tr>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700">Fonte</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700 hidden md:table-cell">Contenuto</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700">Formato</th>
+                  <th class="text-left px-4 py-3 font-semibold text-gray-700 hidden sm:table-cell">Aggiornamento</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-gray-100">
+                {fontiOpenData.map(f => (
+                  <tr class="hover:bg-gray-50">
+                    <td class="px-4 py-3">
+                      <a href={f.url} target="_blank" rel="noopener" class="font-medium text-primary-600 hover:text-primary-800">{f.nome}</a>
+                    </td>
+                    <td class="px-4 py-3 text-gray-500 hidden md:table-cell">{f.desc}</td>
+                    <td class="px-4 py-3"><span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{f.formato}</span></td>
+                    <td class="px-4 py-3 text-gray-500 hidden sm:table-cell">{f.freq}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- Glossary -->
+    <section class="mt-10 bg-gray-50 rounded-xl border border-gray-200 p-6">
+      <h2 class="text-lg font-bold text-gray-900 mb-4">Glossario Atti Consiliari</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
+        <div>
+          <dt class="font-semibold text-gray-900">Interrogazione</dt>
+          <dd class="text-gray-600 mb-3">Domanda scritta di un consigliere alla Giunta su un fatto specifico. La Giunta risponde (scritta/orale) senza vincolo.</dd>
+          <dt class="font-semibold text-gray-900">Interpellanza</dt>
+          <dd class="text-gray-600 mb-3">Richiesta di conoscere la posizione della Giunta su una questione politica/amministrativa.</dd>
+          <dt class="font-semibold text-gray-900">Mozione</dt>
+          <dd class="text-gray-600">Proposta di indirizzo politico al Consiglio. Se approvata, indirizzo vincolante alla Giunta.</dd>
+        </div>
+        <div>
+          <dt class="font-semibold text-gray-900">Ordine del giorno</dt>
+          <dd class="text-gray-600 mb-3">Impegno specifico alla Giunta su modalita di attuazione di una delibera.</dd>
+          <dt class="font-semibold text-gray-900">Delibera</dt>
+          <dd class="text-gray-600 mb-3">Atto decisionale del Consiglio (leggi, bilanci, atti amministrativi). Efficacia giuridica immediata.</dd>
+          <dt class="font-semibold text-gray-900">Proposta di legge</dt>
+          <dd class="text-gray-600">Testo normativo proposto da consiglieri o Giunta. Diventa legge regionale se approvata.</dd>
+        </div>
+      </div>
+    </section>
+  </div>
+</BaseLayout>
