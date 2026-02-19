@@ -1,0 +1,53 @@
+---
+interface Props {
+  id: string;
+  titolo: string;
+  link: string;
+  descrizione?: string;
+  data: string;
+  fonte: string;
+  fonte_id: string;
+  colore?: string;
+}
+
+const { titolo, link, descrizione, data, fonte, fonte_id, colore } = Astro.props;
+
+const fonteColors: Record<string, string> = {
+  regione: 'bg-blue-50 text-blue-700',
+  consiglio: 'bg-purple-50 text-purple-700',
+  arpa: 'bg-green-50 text-green-700'
+};
+
+// Format date
+let formattedDate = '';
+try {
+  const d = new Date(data);
+  formattedDate = d.toLocaleDateString('it-IT', { day: 'numeric', month: 'short', year: 'numeric' });
+} catch {
+  formattedDate = data;
+}
+---
+
+<article class="border-b border-gray-100 py-3 last:border-0">
+  <div class="flex items-start gap-3">
+    <div class="flex-1 min-w-0">
+      <div class="flex items-center gap-2 mb-1">
+        <span class={`text-[10px] font-semibold px-1.5 py-0.5 rounded ${fonteColors[fonte_id] || 'bg-gray-100 text-gray-600'}`}>
+          {fonte}
+        </span>
+        <time class="text-[10px] text-gray-400">{formattedDate}</time>
+      </div>
+      <a href={link} target="_blank" rel="noopener" class="text-sm font-medium text-gray-900 hover:text-primary-600 transition-colors line-clamp-2">
+        {titolo}
+      </a>
+      {descrizione && (
+        <p class="text-xs text-gray-500 mt-1 line-clamp-2">{descrizione}</p>
+      )}
+    </div>
+    <a href={link} target="_blank" rel="noopener" class="shrink-0 mt-1 text-gray-300 hover:text-primary-500 transition-colors">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+      </svg>
+    </a>
+  </div>
+</article>

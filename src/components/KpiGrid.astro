@@ -1,0 +1,16 @@
+---
+import KpiCard from './KpiCard.astro';
+import kpis from '../data/kpi-dashboard.json';
+---
+
+<section class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
+  {kpis.map(kpi => (
+    <KpiCard
+      label={kpi.label}
+      value={kpi.value}
+      trend={kpi.trend as 'up' | 'down' | 'stable'}
+      trendValue={kpi.trendValue}
+      fonte={kpi.fonte}
+    />
+  ))}
+</section>

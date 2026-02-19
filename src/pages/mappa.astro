@@ -1,0 +1,95 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+---
+
+<BaseLayout title="Mappa Economica Piemonte" description="Mappa interattiva dei settori economici del Piemonte con dati su fatturato, occupazione e trend.">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <Breadcrumb items={[{ label: 'Mappa Economica' }]} />
+
+    <div class="mb-6">
+      <h1 class="text-3xl font-extrabold text-primary-900 mb-2">Mappa Economica Piemonte</h1>
+      <p class="text-lg text-gray-600">
+        14 settori e distretti economici piemontesi con dati su fatturato, occupazione e trend.
+        Clicca su un marker per i dettagli.
+      </p>
+    </div>
+
+    <div class="bg-white rounded-xl border border-gray-200 overflow-hidden" style="height: 600px;">
+      <div id="piemonte-map" style="width: 100%; height: 100%;"></div>
+    </div>
+
+    <div class="mt-4 flex flex-wrap gap-4 justify-center text-xs text-gray-500">
+      <div class="flex items-center gap-1.5">
+        <span class="w-3 h-3 rounded-full bg-green-500"></span> Crescita
+      </div>
+      <div class="flex items-center gap-1.5">
+        <span class="w-3 h-3 rounded-full bg-red-500"></span> Rischio
+      </div>
+      <div class="flex items-center gap-1.5">
+        <span class="w-3 h-3 rounded-full bg-purple-500"></span> Nicchia
+      </div>
+      <div class="flex items-center gap-1.5">
+        <span class="w-3 h-3 rounded-full bg-blue-500"></span> Logistica
+      </div>
+    </div>
+
+    <p class="text-xs text-gray-400 mt-3 text-center">
+      Fonte: IRES/Monitor Distretti 2024. Elaborazione Osservatorio Politico Piemonte.
+    </p>
+  </div>
+</BaseLayout>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" is:inline></script>
+<script is:inline>
+document.addEventListener('DOMContentLoaded', function() {
+  var map = L.map('piemonte-map', {
+    zoomControl: true,
+    minZoom: 7,
+    maxZoom: 12
+  }).setView([45.05, 7.95], 8);
+
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; OpenStreetMap &copy; CARTO'
+  }).addTo(map);
+
+  var settori = [
+    { name: "Torino Automotive", cat: "risk", lat: 45.030, lng: 7.64, val: "19,9 Mld €", addetti: "59.600", trend: "-5,6%", desc: "Crisi strutturale produzione. Rischio occupazionale indotto.", color: "#ef4444", radius: 30, slug: "crisi-automotive" },
+    { name: "Torino Aerospazio", cat: "growth", lat: 45.07, lng: 7.72, val: "8,0 Mld €", addetti: "35.000", trend: "+75%", desc: "Leader europeo. Leonardo, Thales, Collins.", color: "#22c55e", radius: 24 },
+    { name: "Torino Hub Finanziario", cat: "growth", lat: 45.06, lng: 7.68, val: "8,7 Mld €", addetti: "74.000", trend: "+12%", desc: "Intesa Sanpaolo HQ. Fintech in crescita.", color: "#22c55e", radius: 22 },
+    { name: "Cuneo Food Valley", cat: "growth", lat: 44.39, lng: 7.55, val: "2,5 Mld €", addetti: "50.000", trend: "+4,9%", desc: "Ferrero, Balocco. Export agroalimentare record.", color: "#22c55e", radius: 20 },
+    { name: "Vercelli Riso", cat: "growth", lat: 45.32, lng: 8.42, val: "0,6 Mld €", addetti: "15.000", trend: "+7,8%", desc: "Leader UE risicoltura. Export in crescita.", color: "#22c55e", radius: 14 },
+    { name: "Asti-Alessandria Vini", cat: "growth", lat: 44.86, lng: 8.20, val: "1,5 Mld €", addetti: "30.000", trend: "+9%", desc: "Langhe-Roero DOC/DOCG. Turismo enogastronomico.", color: "#22c55e", radius: 18 },
+    { name: "Novara Chimica & Silicon", cat: "niche", lat: 45.45, lng: 8.62, val: "2,1 Mld €", addetti: "12.000", trend: "stabile", desc: "Novamont, MEMC. Green chemistry e wafer.", color: "#a855f7", radius: 16 },
+    { name: "Novara Logistica", cat: "growth", lat: 45.50, lng: 8.58, val: "indotto", addetti: "5.000+", trend: "crescita", desc: "CIM interporto, corridoio Reno-Alpi.", color: "#3b82f6", radius: 12 },
+    { name: "Saluggia Biomedicale", cat: "niche", lat: 45.24, lng: 8.01, val: "alta tech", addetti: "1.800", trend: "stabile", desc: "LivaNova, DiaSorin. Dispositivi medici.", color: "#a855f7", radius: 10 },
+    { name: "VCO Casalinghi", cat: "risk", lat: 45.92, lng: 8.55, val: "0,5 Mld €", addetti: "3.000", trend: "-2%", desc: "Alessi, Lagostina. Calo domanda interna.", color: "#ef4444", radius: 12 },
+    { name: "Biella Tessile", cat: "risk", lat: 45.56, lng: 8.05, val: "1,25 Mld €", addetti: "11.000", trend: "-11%", desc: "Zegna, Loro Piana. Crisi lusso e reshoring.", color: "#ef4444", radius: 16 },
+    { name: "Valenza Gioielli", cat: "niche", lat: 45.01, lng: 8.65, val: "1,44 Mld €", addetti: "6.000", trend: "-1,8%", desc: "Distretto orafo. Bulgari, Damiani.", color: "#a855f7", radius: 14 },
+    { name: "Savigliano Ferroviario", cat: "growth", lat: 44.65, lng: 7.66, val: "2,5 Mld €", addetti: "5.000", trend: "stabile", desc: "Alstom. Treni PNRR. Manutenzione.", color: "#22c55e", radius: 16 },
+    { name: "Alessandria Logistica", cat: "growth", lat: 44.91, lng: 8.61, val: "PNRR", addetti: "crescita", trend: "crescita", desc: "Retroporto Genova. Terzo Valico.", color: "#3b82f6", radius: 14 }
+  ];
+
+  settori.forEach(function(s) {
+    var marker = L.circleMarker([s.lat, s.lng], {
+      radius: s.radius,
+      fillColor: s.color,
+      color: 'white',
+      weight: 2,
+      fillOpacity: 0.8
+    });
+
+    var slugLink = s.slug ? '<br><a href="/temi/' + s.slug + '/" style="color:#2563eb;font-size:12px;">Approfondisci &rarr;</a>' : '';
+    marker.bindPopup(
+      '<div style="font-family:Inter,sans-serif;min-width:180px;">' +
+      '<strong style="font-size:14px;">' + s.name + '</strong>' +
+      '<p style="color:#6b7280;font-size:12px;margin:4px 0;">' + s.desc + '</p>' +
+      '<p style="font-size:12px;"><strong>' + s.val + '</strong> | ' + s.addetti + ' addetti | ' + s.trend + '</p>' +
+      slugLink +
+      '</div>'
+    );
+    marker.addTo(map);
+  });
+});
+</script>

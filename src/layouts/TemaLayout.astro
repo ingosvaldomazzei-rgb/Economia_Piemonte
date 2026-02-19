@@ -1,0 +1,119 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import KpiCard from '../components/KpiCard.astro';
+import NewsFeed from '../components/NewsFeed.astro';
+import categorie from '../data/categorie.json';
+
+interface Props {
+  frontmatter: {
+    title: string;
+    slug: string;
+    description: string;
+    categoria: string;
+    lastUpdated: string;
+    commissione?: string;
+    kpis?: { label: string; value: string; trend: 'up' | 'down' | 'stable'; trendValue?: string }[];
+    fonti?: { nome: string; url: string; tipo: string }[];
+    correlati?: string[];
+    isPilotDeepDive?: boolean;
+  };
+}
+
+const { frontmatter } = Astro.props;
+const cat = categorie.find(c => c.id === frontmatter.categoria);
+---
+
+<BaseLayout title={frontmatter.title} description={frontmatter.description}>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <Breadcrumb items={[
+      { label: 'Tematiche', href: '/temi/' },
+      ...(cat ? [{ label: cat.nome, href: `/categoria/${cat.id}/` }] : []),
+      { label: frontmatter.title }
+    ]} />
+
+    <!-- Header -->
+    <div class="mb-8">
+      <div class="flex items-center gap-3 mb-3">
+        {cat && (
+          <span class="text-xs font-semibold px-2.5 py-1 rounded-full text-white" style={`background:${cat.colore}`}>
+            {cat.nome}
+          </span>
+        )}
+        {frontmatter.isPilotDeepDive && (
+          <span class="text-xs font-semibold px-2.5 py-1 rounded-full bg-amber-100 text-amber-800">
+            Approfondimento Pilota
+          </span>
+        )}
+        {frontmatter.commissione && (
+          <span class="text-xs text-gray-500">
+            {frontmatter.commissione}
+          </span>
+        )}
+      </div>
+      <h1 class="text-3xl md:text-4xl font-extrabold text-primary-900 mb-2">{frontmatter.title}</h1>
+      <p class="text-lg text-gray-600">{frontmatter.description}</p>
+      <div class="text-xs text-gray-400 mt-2">Ultimo aggiornamento: {frontmatter.lastUpdated}</div>
+    </div>
+
+    <!-- KPI Bar -->
+    {frontmatter.kpis && frontmatter.kpis.length > 0 && (
+      <section class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-8">
+        {frontmatter.kpis.map(kpi => (
+          <KpiCard label={kpi.label} value={kpi.value} trend={kpi.trend} trendValue={kpi.trendValue} />
+        ))}
+      </section>
+    )}
+
+    <!-- Content grid -->
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+      <!-- Main content (2/3) -->
+      <article class="lg:col-span-2 prose max-w-none">
+        <slot />
+      </article>
+
+      <!-- Sidebar (1/3) -->
+      <aside class="space-y-6">
+        <!-- Notizie recenti per questo tema -->
+        <div class="bg-white rounded-xl border border-gray-200 p-4">
+          <h3 class="font-bold text-gray-900 mb-3 flex items-center gap-2">
+            <span class="inline-block w-2 h-2 rounded-full bg-green-500 animate-live-pulse"></span>
+            Ultime Notizie
+          </h3>
+          <NewsFeed tema={frontmatter.slug} limit={5} />
+        </div>
+
+        <!-- Fonti -->
+        {frontmatter.fonti && frontmatter.fonti.length > 0 && (
+          <div class="bg-white rounded-xl border border-gray-200 p-4">
+            <h3 class="font-bold text-gray-900 mb-3">Fonti</h3>
+            <ul class="space-y-2">
+              {frontmatter.fonti.map(fonte => (
+                <li>
+                  <a href={fonte.url} target="_blank" rel="noopener" class="block text-sm hover:bg-gray-50 rounded-lg p-2 -mx-2 transition-colors">
+                    <div class="font-medium text-primary-600">{fonte.nome}</div>
+                    <div class="text-xs text-gray-400">{fonte.tipo}</div>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        <!-- Temi correlati -->
+        {frontmatter.correlati && frontmatter.correlati.length > 0 && (
+          <div class="bg-white rounded-xl border border-gray-200 p-4">
+            <h3 class="font-bold text-gray-900 mb-3">Temi Correlati</h3>
+            <div class="flex flex-wrap gap-2">
+              {frontmatter.correlati.map(slug => (
+                <a href={`/temi/${slug}/`} class="text-xs bg-gray-50 border border-gray-200 rounded-full px-3 py-1 hover:bg-primary-50 hover:border-primary-200 transition-colors">
+                  {slug.replace(/-/g, ' ')}
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
+      </aside>
+    </div>
+  </div>
+</BaseLayout>

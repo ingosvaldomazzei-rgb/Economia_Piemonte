@@ -1,0 +1,60 @@
+---
+import lastUpdate from '../data/auto/last-update.json';
+---
+
+<footer class="bg-primary-900 text-white mt-16">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <!-- Brand -->
+      <div>
+        <div class="flex items-center gap-3 mb-4">
+          <div class="w-10 h-10 rounded-lg bg-white/10 flex items-center justify-center">
+            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+            </svg>
+          </div>
+          <div>
+            <div class="font-bold">Osservatorio Politico Piemonte</div>
+            <div class="text-sm text-white/60">Gruppi tematici ORA!</div>
+          </div>
+        </div>
+        <p class="text-sm text-white/60 leading-relaxed">
+          Piattaforma di monitoraggio delle discussioni politiche regionali e comunali in Piemonte.
+          Dati aggiornati automaticamente dalle fonti istituzionali.
+        </p>
+      </div>
+
+      <!-- Navigazione -->
+      <div>
+        <h3 class="font-semibold mb-4">Navigazione</h3>
+        <ul class="space-y-2 text-sm text-white/60">
+          <li><a href="/" class="hover:text-white transition-colors">Homepage</a></li>
+          <li><a href="/temi/" class="hover:text-white transition-colors">Tematiche Politiche</a></li>
+          <li><a href="/fonti/" class="hover:text-white transition-colors">Fonti & Open Data</a></li>
+          <li><a href="/mappa/" class="hover:text-white transition-colors">Mappa Economica</a></li>
+          <li><a href="/tesi/" class="hover:text-white transition-colors">Tesi ORA!</a></li>
+        </ul>
+      </div>
+
+      <!-- Fonti principali -->
+      <div>
+        <h3 class="font-semibold mb-4">Fonti Istituzionali</h3>
+        <ul class="space-y-2 text-sm text-white/60">
+          <li><a href="https://www.cr.piemonte.it/" target="_blank" rel="noopener" class="hover:text-white transition-colors">Consiglio Regionale Piemonte</a></li>
+          <li><a href="https://www.regione.piemonte.it/" target="_blank" rel="noopener" class="hover:text-white transition-colors">Regione Piemonte</a></li>
+          <li><a href="https://www.arpa.piemonte.it/" target="_blank" rel="noopener" class="hover:text-white transition-colors">ARPA Piemonte</a></li>
+          <li><a href="https://dati.piemonte.it/" target="_blank" rel="noopener" class="hover:text-white transition-colors">Open Data Piemonte</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="border-t border-white/10 mt-8 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-white/40">
+      <div>
+        Dati aggiornati automaticamente il {lastUpdate.timestamp_it}
+      </div>
+      <div>
+        Un progetto dei gruppi tematici di ORA! Piemonte
+      </div>
+    </div>
+  </div>
+</footer>

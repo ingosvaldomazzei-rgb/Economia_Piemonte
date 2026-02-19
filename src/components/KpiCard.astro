@@ -1,0 +1,38 @@
+---
+interface Props {
+  label: string;
+  value: string;
+  trend?: 'up' | 'down' | 'stable';
+  trendValue?: string;
+  fonte?: string;
+}
+
+const { label, value, trend, trendValue, fonte } = Astro.props;
+
+const trendColors = {
+  up: 'text-green-600 bg-green-50',
+  down: 'text-red-600 bg-red-50',
+  stable: 'text-gray-600 bg-gray-100'
+};
+
+const trendIcons = {
+  up: '\u2191',
+  down: '\u2193',
+  stable: '\u2192'
+};
+---
+
+<div class="bg-white rounded-xl border border-gray-200 p-4 hover:shadow-md transition-shadow">
+  <div class="text-xs font-medium text-gray-500 uppercase tracking-wide mb-1">{label}</div>
+  <div class="text-2xl font-bold text-primary-900 mb-1">{value}</div>
+  {trend && trendValue && (
+    <div class="flex items-center gap-1">
+      <span class={`inline-flex items-center gap-0.5 text-xs font-semibold px-1.5 py-0.5 rounded ${trendColors[trend]}`}>
+        {trendIcons[trend]} {trendValue}
+      </span>
+    </div>
+  )}
+  {fonte && (
+    <div class="text-[10px] text-gray-400 mt-1">Fonte: {fonte}</div>
+  )}
+</div>

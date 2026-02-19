@@ -1,0 +1,46 @@
+---
+import NewsCard from './NewsCard.astro';
+import notizie from '../data/auto/notizie.json';
+
+interface Props {
+  limit?: number;
+  tema?: string;
+}
+
+const { limit = 10, tema } = Astro.props;
+
+// Se un tema e specificato, filtra le notizie per quel tema
+let filteredNews = notizie;
+if (tema) {
+  try {
+    const perTema = await import('../data/auto/notizie-per-tema.json');
+    filteredNews = perTema.default?.[tema] || [];
+  } catch {
+    filteredNews = [];
+  }
+}
+
+const displayNews = filteredNews.slice(0, limit);
+---
+
+{displayNews.length > 0 ? (
+  <div class="divide-y divide-gray-100">
+    {displayNews.map((n: any) => (
+      <NewsCard
+        id={n.id}
+        titolo={n.titolo}
+        link={n.link}
+        descrizione={n.descrizione}
+        data={n.data}
+        fonte={n.fonte}
+        fonte_id={n.fonte_id}
+        colore={n.colore}
+      />
+    ))}
+  </div>
+) : (
+  <div class="text-center py-8 text-gray-400">
+    <p class="text-sm">Nessuna notizia disponibile al momento.</p>
+    <p class="text-xs mt-1">I dati vengono aggiornati automaticamente ogni 6 ore.</p>
+  </div>
+)}

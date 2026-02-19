@@ -1,0 +1,448 @@
+{
+  "istruzione-formazione": [
+    {
+      "id": "d2fdbf6860dd",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vincitori-scatta-tuo-natale-2025",
+      "data": "2026-02-16T17:13:18+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f9c6ad5ca721",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/una-guida-interattiva-sullorientamento-dopo-scuola-media",
+      "data": "2026-02-03T12:34:50+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "fd6ed090d81b",
+      "titolo": "Catalogo dell'offerta educativa COE 2024-2025",
+      "link": "https://www.arpa.piemonte.it/scheda-informativa/catalogo-dellofferta-educativa-coe-2024-2025",
+      "data": "2024-09-20T07:39:00+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    }
+  ],
+  "attivita-produttive": [
+    {
+      "id": "b7800b4795bd",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-pronto-ad-affrontare-nuovi-mercati",
+      "data": "2026-02-16T15:31:01+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "548ded7abf45",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partita-conferenza-dei-servizi-per-parco-della-salute-torino",
+      "data": "2026-02-11T20:22:05+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "81a3cf9b6819",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autoimpiego-nuove-imprese-47-milioni-per-chi-crea-lavoro",
+      "data": "2026-02-09T14:53:10+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "agricoltura": [
+    {
+      "id": "b7800b4795bd",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-pronto-ad-affrontare-nuovi-mercati",
+      "data": "2026-02-16T15:31:01+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e8c694a02ddb",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-copre-tutte-borse-studio-universitarie",
+      "data": "2026-02-16T14:52:40+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bd7b17b572a2",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/recuperati-58-milioni-per-sviluppo-dellagricoltura-piemontese",
+      "data": "2026-02-04T14:34:04+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "fb3f12e530a5",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmata-convenzione-per-collaborazione-regione-vigili-fuoco",
+      "data": "2026-02-03T14:02:41+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "20b7132930de",
+      "titolo": "Problemi con l’operatore telefonico? Rivolgiti al Corecom Piemonte",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-loperatore-telefonico-rivolgiti-al-corecom-piemonte",
+      "data": "2025-10-23T08:49:37+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    }
+  ],
+  "sociale-welfare": [
+    {
+      "id": "e8c694a02ddb",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-copre-tutte-borse-studio-universitarie",
+      "data": "2026-02-16T14:52:40+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "fb3f12e530a5",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmata-convenzione-per-collaborazione-regione-vigili-fuoco",
+      "data": "2026-02-03T14:02:41+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "universita-ricerca": [
+    {
+      "id": "e8c694a02ddb",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-copre-tutte-borse-studio-universitarie",
+      "data": "2026-02-16T14:52:40+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "548ded7abf45",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partita-conferenza-dei-servizi-per-parco-della-salute-torino",
+      "data": "2026-02-11T20:22:05+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "38cad1a91426",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-centri-alta-specializzazione-riferimento-regionale",
+      "data": "2026-02-02T16:33:18+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f49551ff358f",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuove-piattaforme-per-cercare-offrire-lavoro",
+      "data": "2026-02-02T14:00:10+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "cultura-beni-culturali": [
+    {
+      "id": "a2747c17b0f9",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/celebrazioni-per-centenario-della-morte-piero-gobetti",
+      "data": "2026-02-16T14:14:24+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6b10625e3e75",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/proposte-piemonte-alla-bit-2026",
+      "data": "2026-02-12T13:50:37+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "30560d009cfc",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-salone-libro-2026",
+      "data": "2026-02-04T16:13:09+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a89cbbc0886a",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/primo-contratto-zona-umida-della-pianura-risicola-vercellese",
+      "data": "2026-02-02T19:24:06+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "turismo": [
+    {
+      "id": "6b10625e3e75",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/proposte-piemonte-alla-bit-2026",
+      "data": "2026-02-12T13:50:37+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ecc99879c6d2",
+      "titolo": "Analisi eventi idrologici, meteorologici e sismici",
+      "link": "https://www.arpa.piemonte.it/scheda-informativa/analisi-eventi-idrologici-meteorologici-sismici",
+      "data": "2024-04-16T09:03:06+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    }
+  ],
+  "sanita-regionale": [
+    {
+      "id": "3da06eb84f05",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/si-apre-gara-per-progettare-nuovo-ospedale-cuneo",
+      "data": "2026-02-12T11:31:32+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "806c77846fca",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-per-2026-della-regione-piemonte",
+      "data": "2026-02-11T11:17:40+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "dec75e02b5a0",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altri-tre-bambini-dalla-striscia-gaza-al-regina-margherita",
+      "data": "2026-02-10T13:58:00+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d60a1ee71f1e",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/operazione-sul-grattacielo-della-regione-risparmio-oltre-28-milioni-piena-proprieta",
+      "data": "2026-02-06T19:11:11+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1ed788f3fd4c",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/precisazione-sulla-circolare-esplicativa-sul-fine-vita",
+      "data": "2026-02-06T18:35:31+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "38cad1a91426",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-centri-alta-specializzazione-riferimento-regionale",
+      "data": "2026-02-02T16:33:18+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "62ae9e405dc6",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tav-conferenza-dei-servizi-sul-progetto-definitivo-avigliana-orbassano",
+      "data": "2026-02-11T20:26:52+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "fb3f12e530a5",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmata-convenzione-per-collaborazione-regione-vigili-fuoco",
+      "data": "2026-02-03T14:02:41+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2e47afc83b36",
+      "titolo": "Misura la tua velocità di internet con Ne.Me.Sys",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/misura-la-tua-velocita-di-internet-con-nemesys-0",
+      "data": "2026-01-15T10:21:03+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "3751ea9d16cb",
+      "titolo": "Il Corecom Piemonte a Cuneo illustra le sue attività",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/il-corecom-piemonte-cuneo-illustra-le-sue-attivita",
+      "data": "2025-11-19T15:14:06+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "20b7132930de",
+      "titolo": "Problemi con l’operatore telefonico? Rivolgiti al Corecom Piemonte",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-loperatore-telefonico-rivolgiti-al-corecom-piemonte",
+      "data": "2025-10-23T08:49:37+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "350de9ef0699",
+      "titolo": "Comunicazioni fraudolente rimborso AGCOM per disservizi telefonici",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/notizie/comunicazioni-fraudolente-rimborso-agcom-disservizi-telefonici",
+      "data": "2025-10-23T08:31:32+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "8bbc336d78e8",
+      "titolo": "Avviso per i programmi dell’accesso primo trimestre 2026",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/avviso-i-programmi-dellaccesso-primo-trimestre-2026",
+      "data": "2025-09-25T08:38:41+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    }
+  ],
+  "edilizia-opere-pubbliche": [
+    {
+      "id": "806c77846fca",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-per-2026-della-regione-piemonte",
+      "data": "2026-02-11T11:17:40+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "lavoro-occupazione": [
+    {
+      "id": "81a3cf9b6819",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autoimpiego-nuove-imprese-47-milioni-per-chi-crea-lavoro",
+      "data": "2026-02-09T14:53:10+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f49551ff358f",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuove-piattaforme-per-cercare-offrire-lavoro",
+      "data": "2026-02-02T14:00:10+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "commercio-artigianato": [
+    {
+      "id": "30560d009cfc",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-salone-libro-2026",
+      "data": "2026-02-04T16:13:09+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "fondi-europei": [
+    {
+      "id": "bd7b17b572a2",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/recuperati-58-milioni-per-sviluppo-dellagricoltura-piemontese",
+      "data": "2026-02-04T14:34:04+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "protezione-civile": [
+    {
+      "id": "fb3f12e530a5",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmata-convenzione-per-collaborazione-regione-vigili-fuoco",
+      "data": "2026-02-03T14:02:41+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "abb28af9aa6c",
+      "titolo": "Previsione innesco frane",
+      "link": "https://www.arpa.piemonte.it/scheda-informativa/previsione-innesco-frane",
+      "data": "2024-04-18T06:45:44+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    }
+  ],
+  "bilancio-regionale": [
+    {
+      "id": "757961b3dbe9",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-bilancio-preventivo-2026-2028-della-regione-investimenti-servizi-risanamento",
+      "data": "2026-01-30T18:23:00+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "pari-opportunita": [
+    {
+      "id": "20b7132930de",
+      "titolo": "Problemi con l’operatore telefonico? Rivolgiti al Corecom Piemonte",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-loperatore-telefonico-rivolgiti-al-corecom-piemonte",
+      "data": "2025-10-23T08:49:37+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    }
+  ],
+  "ambiente-qualita-aria": [
+    {
+      "id": "84dd27a1e0d8",
+      "titolo": "I dati del termovalorizzatore del Gerbido",
+      "link": "https://www.arpa.piemonte.it/scheda-informativa/dati-termovalorizzatore-gerbido",
+      "data": "2024-09-25T12:30:19+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    },
+    {
+      "id": "de515edadb3f",
+      "titolo": "Semaforo del protocollo operativo antismog - approfondimento",
+      "link": "https://www.arpa.piemonte.it/scheda-informativa/semaforo-protocollo-operativo-antismog-approfondimento",
+      "data": "2024-07-01T09:23:00+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    },
+    {
+      "id": "127bb3cf7c1f",
+      "titolo": "Biometeorologia",
+      "link": "https://www.arpa.piemonte.it/scheda-informativa/biometeorologia",
+      "data": "2024-06-28T08:45:43+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    },
+    {
+      "id": "9a14c8e39875",
+      "titolo": "Bollettino ondate di calore",
+      "link": "https://www.arpa.piemonte.it/bollettino/bollettino-ondate-calore",
+      "data": "2024-04-16T14:18:26+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    }
+  ],
+  "pianificazione-territoriale": [
+    {
+      "id": "84dd27a1e0d8",
+      "titolo": "I dati del termovalorizzatore del Gerbido",
+      "link": "https://www.arpa.piemonte.it/scheda-informativa/dati-termovalorizzatore-gerbido",
+      "data": "2024-09-25T12:30:19+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    }
+  ],
+  "montagna": [
+    {
+      "id": "ecc99879c6d2",
+      "titolo": "Analisi eventi idrologici, meteorologici e sismici",
+      "link": "https://www.arpa.piemonte.it/scheda-informativa/analisi-eventi-idrologici-meteorologici-sismici",
+      "data": "2024-04-16T09:03:06+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    }
+  ]
+}
