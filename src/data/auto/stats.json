@@ -1,7 +1,7 @@
 {
-  "totale_notizie": 49,
+  "totale_notizie": 50,
   "notizie_per_fonte": {
-    "regione": 29,
+    "regione": 30,
     "consiglio": 10,
     "arpa": 10
   },
@@ -19,16 +19,20 @@
       "conteggio": 6
     },
     {
-      "tema": "universita-ricerca",
-      "conteggio": 4
+      "tema": "cultura-beni-culturali",
+      "conteggio": 5
     },
     {
-      "tema": "cultura-beni-culturali",
+      "tema": "universita-ricerca",
       "conteggio": 4
     },
     {
       "tema": "ambiente-qualita-aria",
       "conteggio": 4
+    },
+    {
+      "tema": "lavoro-occupazione",
+      "conteggio": 3
     },
     {
       "tema": "protezione-civile",
@@ -41,11 +45,7 @@
     {
       "tema": "attivita-produttive",
       "conteggio": 3
-    },
-    {
-      "tema": "commercio-artigianato",
-      "conteggio": 2
     }
   ],
-  "totale_temi_con_notizie": 20
+  "totale_temi_con_notizie": 21
 }

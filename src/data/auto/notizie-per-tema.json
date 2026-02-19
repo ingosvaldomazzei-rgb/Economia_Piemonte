@@ -1,4 +1,82 @@
 {
+  "lavoro-occupazione": [
+    {
+      "id": "71a9d8281453",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partecipazione-delle-donne-alla-crescita-dellitalia",
+      "data": "2026-02-19T17:43:52+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "81a3cf9b6819",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autoimpiego-nuove-imprese-47-milioni-per-chi-crea-lavoro",
+      "data": "2026-02-09T14:53:10+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f49551ff358f",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuove-piattaforme-per-cercare-offrire-lavoro",
+      "data": "2026-02-02T14:00:10+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "trasparenza": [
+    {
+      "id": "71a9d8281453",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partecipazione-delle-donne-alla-crescita-dellitalia",
+      "data": "2026-02-19T17:43:52+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "cultura-beni-culturali": [
+    {
+      "id": "71a9d8281453",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partecipazione-delle-donne-alla-crescita-dellitalia",
+      "data": "2026-02-19T17:43:52+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a2747c17b0f9",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/celebrazioni-per-centenario-della-morte-piero-gobetti",
+      "data": "2026-02-16T14:14:24+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6b10625e3e75",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/proposte-piemonte-alla-bit-2026",
+      "data": "2026-02-12T13:50:37+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "30560d009cfc",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-salone-libro-2026",
+      "data": "2026-02-04T16:13:09+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a89cbbc0886a",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/primo-contratto-zona-umida-della-pianura-risicola-vercellese",
+      "data": "2026-02-02T19:24:06+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "commercio-artigianato": [
     {
       "id": "b8a442a320ef",
@@ -207,40 +285,6 @@
       "fonte_id": "regione"
     }
   ],
-  "cultura-beni-culturali": [
-    {
-      "id": "a2747c17b0f9",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/celebrazioni-per-centenario-della-morte-piero-gobetti",
-      "data": "2026-02-16T14:14:24+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6b10625e3e75",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/proposte-piemonte-alla-bit-2026",
-      "data": "2026-02-12T13:50:37+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "30560d009cfc",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-salone-libro-2026",
-      "data": "2026-02-04T16:13:09+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a89cbbc0886a",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/primo-contratto-zona-umida-della-pianura-risicola-vercellese",
-      "data": "2026-02-02T19:24:06+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "turismo": [
     {
       "id": "6b10625e3e75",
@@ -373,24 +417,6 @@
       "titolo": "Senza titolo",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-per-2026-della-regione-piemonte",
       "data": "2026-02-11T11:17:40+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "81a3cf9b6819",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autoimpiego-nuove-imprese-47-milioni-per-chi-crea-lavoro",
-      "data": "2026-02-09T14:53:10+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f49551ff358f",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuove-piattaforme-per-cercare-offrire-lavoro",
-      "data": "2026-02-02T14:00:10+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
