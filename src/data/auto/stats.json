@@ -1,18 +1,18 @@
 {
-  "totale_notizie": 52,
+  "totale_notizie": 53,
   "notizie_per_fonte": {
-    "regione": 32,
+    "regione": 33,
     "consiglio": 10,
     "arpa": 10
   },
   "temi_attivi": [
     {
-      "tema": "enti-locali-piccoli-comuni",
+      "tema": "cultura-beni-culturali",
       "conteggio": 7
     },
     {
-      "tema": "cultura-beni-culturali",
-      "conteggio": 6
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 7
     },
     {
       "tema": "agricoltura",
