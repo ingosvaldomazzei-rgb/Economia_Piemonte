@@ -1,7 +1,7 @@
 {
-  "totale_notizie": 50,
+  "totale_notizie": 52,
   "notizie_per_fonte": {
-    "regione": 30,
+    "regione": 32,
     "consiglio": 10,
     "arpa": 10
   },
@@ -11,16 +11,16 @@
       "conteggio": 7
     },
     {
+      "tema": "cultura-beni-culturali",
+      "conteggio": 6
+    },
+    {
       "tema": "agricoltura",
       "conteggio": 6
     },
     {
       "tema": "sanita-regionale",
       "conteggio": 6
-    },
-    {
-      "tema": "cultura-beni-culturali",
-      "conteggio": 5
     },
     {
       "tema": "universita-ricerca",

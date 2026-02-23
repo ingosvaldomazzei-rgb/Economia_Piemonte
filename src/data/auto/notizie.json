@@ -1,5 +1,25 @@
 [
   {
+    "id": "f1dd04ddc935",
+    "titolo": "Senza titolo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/disabilita-un-anno-seguiti-340-casi",
+    "descrizione": "Sono stati 340 i casi di persone disabili seguiti in un anno da Massimiliano Caramazza, che il presidente della Regione Alberto Cirio ha voluto nel suo staff come collaboratore per affrontare i temi della disabilità e le difficoltà ad accedere…",
+    "data": "2026-02-23T10:47:21+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "c0066349dfb8",
+    "titolo": "Senza titolo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-si-promuove-sanremo-nei-giorni-festival",
+    "descrizione": "Da martedì 24 a sabato 28 febbraio, nei giorni del 76° Festival della Canzone italiana, il Piemonte si racconta a Sanremo con “Piemonte Is - Eccellenza Piemonte”.\nSi tratta di …",
+    "data": "2026-02-23T10:05:18+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "71a9d8281453",
     "titolo": "Senza titolo",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partecipazione-delle-donne-alla-crescita-dellitalia",
