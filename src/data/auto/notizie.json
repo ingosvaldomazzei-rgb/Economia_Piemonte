@@ -1,5 +1,25 @@
 [
   {
+    "id": "8480ae51fea5",
+    "titolo": "Senza titolo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-attrattivo-anche-nella-nuova-classifica-financial-times",
+    "descrizione": "Con l’inserimento nel nuovo rapporto “Investment Impact Awards 2026” del Financial Times il Piemonte ha conquistato ancora una volta la ribalta europea per l’attrazione di investimenti: fDi Intelligence, testata specializzata del quotidiano economico-finanziario…",
+    "data": "2026-02-24T12:38:10+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "04f139391e55",
+    "titolo": "Senza titolo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ferrovia-rivarolo-pont-lavori-elettrificazione-conclusi-entro-2026",
+    "descrizione": "I lavori di elettrificazione della linea ferroviaria Rivarolo – Pont saranno conclusi entro il 2026 mentre proseguiranno gli interventi di soppressione di diversi passaggi a livello lungo il percorso. È quanto emerso nel corso dell’incontro di aggiornamento tra Regione, Rfi e i sindaci del…",
+    "data": "2026-02-24T11:51:44+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "a94b7ec1a5d8",
     "titolo": "Senza titolo",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-confindustria-piemonte-insieme-sostegno-della-crescita",
@@ -10,10 +30,30 @@
     "colore": "#2563eb"
   },
   {
+    "id": "8afee01421cd",
+    "titolo": "Senza titolo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/greenup-piemonte-31-citta-coinvolte-nella-rigenerazione-ambientale-urbana",
+    "descrizione": "Sono 31 i Comuni piemontesi coinvolti in GreenUP, il progetto presentato presso il Grattacielo Piemonte e promosso da Fondazione Agrion e Regione Piemonte insieme a Legambiente Piemonte e Valle d’Aosta e ANCI Piemonte e con la collaborazione…",
+    "data": "2026-02-23T16:28:56+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "f1dd04ddc935",
     "titolo": "Senza titolo",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/disabilita-un-anno-seguiti-340-casi",
     "descrizione": "Sono stati 340 i casi di persone disabili seguiti in un anno da Massimiliano Caramazza, che il presidente della Regione Alberto Cirio ha voluto nel suo staff come collaboratore per affrontare i temi della disabilità e le difficoltà ad accedere…",
+    "data": "2026-02-23T10:47:21+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "f685853a5b43",
+    "titolo": "Senza titolo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/disabilita-un-anno-seguite-340-situazioni",
+    "descrizione": "Sono stati 340 le situazioni di persone con disabilità seguiti in un anno da Massimiliano Caramazza, che il presidente della Regione Alberto Cirio ha voluto nel suo staff come collaboratore per affrontare i temi della disabilità e le difficoltà…",
     "data": "2026-02-23T10:47:21+01:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
