@@ -1,4 +1,62 @@
 {
+  "sanita-regionale": [
+    {
+      "id": "f0958831ef9d",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-direttore-generale-al-santa-croce-carle-cuneo",
+      "data": "2026-02-25T16:48:44+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3da06eb84f05",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/si-apre-gara-per-progettare-nuovo-ospedale-cuneo",
+      "data": "2026-02-12T11:31:32+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "806c77846fca",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-per-2026-della-regione-piemonte",
+      "data": "2026-02-11T11:17:40+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "dec75e02b5a0",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altri-tre-bambini-dalla-striscia-gaza-al-regina-margherita",
+      "data": "2026-02-10T13:58:00+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d60a1ee71f1e",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/operazione-sul-grattacielo-della-regione-risparmio-oltre-28-milioni-piena-proprieta",
+      "data": "2026-02-06T19:11:11+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1ed788f3fd4c",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/precisazione-sulla-circolare-esplicativa-sul-fine-vita",
+      "data": "2026-02-06T18:35:31+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "38cad1a91426",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-centri-alta-specializzazione-riferimento-regionale",
+      "data": "2026-02-02T16:33:18+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "attivita-produttive": [
     {
       "id": "8480ae51fea5",
@@ -467,56 +525,6 @@
       "data": "2024-04-16T09:03:06+00:00",
       "fonte": "ARPA Piemonte",
       "fonte_id": "arpa"
-    }
-  ],
-  "sanita-regionale": [
-    {
-      "id": "3da06eb84f05",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/si-apre-gara-per-progettare-nuovo-ospedale-cuneo",
-      "data": "2026-02-12T11:31:32+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "806c77846fca",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-per-2026-della-regione-piemonte",
-      "data": "2026-02-11T11:17:40+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "dec75e02b5a0",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altri-tre-bambini-dalla-striscia-gaza-al-regina-margherita",
-      "data": "2026-02-10T13:58:00+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d60a1ee71f1e",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/operazione-sul-grattacielo-della-regione-risparmio-oltre-28-milioni-piena-proprieta",
-      "data": "2026-02-06T19:11:11+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1ed788f3fd4c",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/precisazione-sulla-circolare-esplicativa-sul-fine-vita",
-      "data": "2026-02-06T18:35:31+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "38cad1a91426",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-centri-alta-specializzazione-riferimento-regionale",
-      "data": "2026-02-02T16:33:18+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "edilizia-opere-pubbliche": [
