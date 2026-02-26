@@ -1,7 +1,7 @@
 {
-  "totale_notizie": 59,
+  "totale_notizie": 60,
   "notizie_per_fonte": {
-    "regione": 39,
+    "regione": 40,
     "consiglio": 10,
     "arpa": 10
   },
@@ -24,7 +24,7 @@
     },
     {
       "tema": "ambiente-qualita-aria",
-      "conteggio": 5
+      "conteggio": 6
     },
     {
       "tema": "attivita-produttive",
