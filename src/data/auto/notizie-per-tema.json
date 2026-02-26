@@ -1,4 +1,14 @@
 {
+  "sport": [
+    {
+      "id": "ffef2c9d110d",
+      "titolo": "Senza titolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tre-nuovi-centri-antiviolenza-10-sportelli-territoriali",
+      "data": "2026-02-26T19:12:50+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "ambiente-qualita-aria": [
     {
       "id": "f49115a5f4d5",

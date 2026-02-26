@@ -1,7 +1,7 @@
 {
-  "totale_notizie": 60,
+  "totale_notizie": 61,
   "notizie_per_fonte": {
-    "regione": 40,
+    "regione": 41,
     "consiglio": 10,
     "arpa": 10
   },
@@ -47,5 +47,5 @@
       "conteggio": 3
     }
   ],
-  "totale_temi_con_notizie": 21
+  "totale_temi_con_notizie": 22
 }
