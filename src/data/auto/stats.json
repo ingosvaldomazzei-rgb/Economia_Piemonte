@@ -1,26 +1,26 @@
 {
-  "totale_notizie": 64,
+  "totale_notizie": 66,
   "notizie_per_fonte": {
-    "regione": 44,
+    "regione": 46,
     "consiglio": 10,
     "arpa": 10
   },
   "temi_attivi": [
     {
+      "tema": "cultura-beni-culturali",
+      "conteggio": 9
+    },
+    {
       "tema": "enti-locali-piccoli-comuni",
       "conteggio": 9
     },
     {
-      "tema": "cultura-beni-culturali",
+      "tema": "sanita-regionale",
       "conteggio": 8
     },
     {
-      "tema": "sanita-regionale",
-      "conteggio": 7
-    },
-    {
       "tema": "agricoltura",
-      "conteggio": 7
+      "conteggio": 8
     },
     {
       "tema": "ambiente-qualita-aria",

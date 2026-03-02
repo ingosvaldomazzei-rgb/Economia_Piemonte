@@ -1,8 +1,28 @@
 [
   {
+    "id": "fd99031fec9d",
+    "titolo": "Senza titolo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondo-sanitario-integrato-203-milioni-per-servizi-aggiuntivi-assunzioni",
+    "descrizione": "La Regione Piemonte ha deciso di integrare quest’anno con 203 milioni di euro le risorse del fondo sanitario nazionale approvando un disegno di legge che ora sarà sottoposto all’esame del Consiglio regionale.\nSi tratta di risorse che, come ogni anno, vengono …",
+    "data": "2026-03-02T18:45:47+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "9e0f2675f2fc",
     "titolo": "Senza titolo",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-promosso-sanremo-nei-giorni-festival",
+    "descrizione": "Da martedì 24 a sabato 28 febbraio, nei giorni del 76° Festival della Canzone italiana, il Piemonte è si raccontato a Sanremo con “Piemonte Is - Eccellenza Piemonte”.…",
+    "data": "2026-02-28T20:05:18+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "5abfb53712cb",
+    "titolo": "Senza titolo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-si-promosso-sanremo-nei-giorni-festival",
     "descrizione": "Da martedì 24 a sabato 28 febbraio, nei giorni del 76° Festival della Canzone italiana, il Piemonte è si raccontato a Sanremo con “Piemonte Is - Eccellenza Piemonte”.…",
     "data": "2026-02-28T20:05:18+01:00",
     "fonte": "Regione Piemonte",
