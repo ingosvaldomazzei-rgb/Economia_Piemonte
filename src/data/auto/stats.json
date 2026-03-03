@@ -1,14 +1,14 @@
 {
-  "totale_notizie": 66,
+  "totale_notizie": 67,
   "notizie_per_fonte": {
-    "regione": 46,
+    "regione": 47,
     "consiglio": 10,
     "arpa": 10
   },
   "temi_attivi": [
     {
       "tema": "cultura-beni-culturali",
-      "conteggio": 9
+      "conteggio": 10
     },
     {
       "tema": "enti-locali-piccoli-comuni",
