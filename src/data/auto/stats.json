@@ -1,14 +1,14 @@
 {
-  "totale_notizie": 67,
+  "totale_notizie": 69,
   "notizie_per_fonte": {
-    "regione": 47,
+    "regione": 48,
     "consiglio": 10,
-    "arpa": 10
+    "arpa": 11
   },
   "temi_attivi": [
     {
       "tema": "cultura-beni-culturali",
-      "conteggio": 10
+      "conteggio": 11
     },
     {
       "tema": "enti-locali-piccoli-comuni",
@@ -24,15 +24,19 @@
     },
     {
       "tema": "ambiente-qualita-aria",
-      "conteggio": 6
+      "conteggio": 7
     },
     {
       "tema": "attivita-produttive",
-      "conteggio": 4
+      "conteggio": 5
     },
     {
       "tema": "universita-ricerca",
       "conteggio": 4
+    },
+    {
+      "tema": "turismo",
+      "conteggio": 3
     },
     {
       "tema": "lavoro-occupazione",
@@ -40,10 +44,6 @@
     },
     {
       "tema": "protezione-civile",
-      "conteggio": 3
-    },
-    {
-      "tema": "istruzione-formazione",
       "conteggio": 3
     }
   ],

@@ -1,5 +1,15 @@
 [
   {
+    "id": "8c596ef83a34",
+    "titolo": "Senza titolo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
+    "descrizione": "Innovazione, ambiente, cultura e turismo sono gli ambiti di applicazione dei 24 nuovi progetti finanziati dal Programma Interreg Francia-Italia Alcotra, che rafforzano la cooperazione tra i due…",
+    "data": "2026-03-03T16:13:17+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "7859a7d2a53c",
     "titolo": "Senza titolo",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-entra-federculture",
@@ -634,6 +644,16 @@
     "titolo": "Previsioni stagionali INVERNO:  dicembre 2025 - febbraio 2026",
     "link": "https://www.arpa.piemonte.it/scheda-informativa/previsioni-stagionali-inverno-dicembre-2025-febbraio-2026",
     "descrizione": "Tema\n   \n    \n    \n    \n      \n\n      \n      \n      Meteo    \n    \n    \n      \n\n      \n      \n      Previsioni a lungo termine     \n \n  \n\n  \n\n    \n  \n      \n      \n\n\n          \n      \n        \n        Inverno mite ma incerto nelle precipitazioni\n        \n      \n    \n      \n      \n    \n                      \n\n    \n          \n      \n        \n        \n\n      \n \n\n    \n\n      \n        \n\n        Figura 1. Mappe di anomalia di geopotenziale medio mensile a 500 hPa, prevista per i prossimi mesi (mappe C",
+    "data": "2024-05-30T07:00:00+00:00",
+    "fonte": "ARPA Piemonte",
+    "fonte_id": "arpa",
+    "colore": "#16a34a"
+  },
+  {
+    "id": "3a7e91578065",
+    "titolo": "Previsioni stagionali PRIMAVERA 2026: marzo - maggio 2026",
+    "link": "https://www.arpa.piemonte.it/scheda-informativa/previsioni-stagionali-primavera-2026-marzo-maggio-2026",
+    "descrizione": "Tema\n   \n    \n    \n    \n      \n\n      \n      \n      Meteo    \n    \n    \n      \n\n      \n      \n      Previsioni a lungo termine     \n \n  \n\n  \n\n    \n  \n      \n      \n\n\n          \n      \n        \n        Inizio primavera piovoso e aprile più fresco\n        \n      \n    \n      \n      \n    \n                      \n\n    \n          \n      \n        \n        \n\n      \n \n\n    \n\n      \n        \n\n        Figura 1 - Mappe di anomalia di geopotenziale medio mensile a 500 hPa, prevista per i prossimi mesi (mappe ",
     "data": "2024-05-30T07:00:00+00:00",
     "fonte": "ARPA Piemonte",
     "fonte_id": "arpa",
