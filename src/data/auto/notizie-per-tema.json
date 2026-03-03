@@ -2,7 +2,7 @@
   "attivita-produttive": [
     {
       "id": "8c596ef83a34",
-      "titolo": "Senza titolo",
+      "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
       "data": "2026-03-03T16:13:17+01:00",
       "fonte": "Regione Piemonte",
@@ -10,7 +10,7 @@
     },
     {
       "id": "8480ae51fea5",
-      "titolo": "Senza titolo",
+      "titolo": "Il Piemonte attrattivo anche nella nuova classifica del Financial Times",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-attrattivo-anche-nella-nuova-classifica-financial-times",
       "data": "2026-02-24T12:38:10+01:00",
       "fonte": "Regione Piemonte",
@@ -18,25 +18,9 @@
     },
     {
       "id": "b7800b4795bd",
-      "titolo": "Senza titolo",
+      "titolo": "Il vino piemontese pronto ad affrontare nuovi mercati",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-pronto-ad-affrontare-nuovi-mercati",
       "data": "2026-02-16T15:31:01+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "548ded7abf45",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partita-conferenza-dei-servizi-per-parco-della-salute-torino",
-      "data": "2026-02-11T20:22:05+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "81a3cf9b6819",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autoimpiego-nuove-imprese-47-milioni-per-chi-crea-lavoro",
-      "data": "2026-02-09T14:53:10+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -44,17 +28,9 @@
   "turismo": [
     {
       "id": "8c596ef83a34",
-      "titolo": "Senza titolo",
+      "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
       "data": "2026-03-03T16:13:17+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6b10625e3e75",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/proposte-piemonte-alla-bit-2026",
-      "data": "2026-02-12T13:50:37+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -70,7 +46,7 @@
   "ambiente-qualita-aria": [
     {
       "id": "8c596ef83a34",
-      "titolo": "Senza titolo",
+      "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
       "data": "2026-03-03T16:13:17+01:00",
       "fonte": "Regione Piemonte",
@@ -78,7 +54,7 @@
     },
     {
       "id": "f49115a5f4d5",
-      "titolo": "Senza titolo",
+      "titolo": "Bonifica e messa in sicurezza di aree inquinate per 4,7 milioni",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bonifica-messa-sicurezza-aree-inquinate-per-47-milioni",
       "data": "2026-02-26T08:50:27+01:00",
       "fonte": "Regione Piemonte",
@@ -86,7 +62,7 @@
     },
     {
       "id": "8afee01421cd",
-      "titolo": "Senza titolo",
+      "titolo": "Con GreenUP Piemonte 31 città coinvolte nella rigenerazione ambientale urbana",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/greenup-piemonte-31-citta-coinvolte-nella-rigenerazione-ambientale-urbana",
       "data": "2026-02-23T16:28:56+01:00",
       "fonte": "Regione Piemonte",
@@ -117,6 +93,14 @@
       "fonte_id": "arpa"
     },
     {
+      "id": "f6774d245249",
+      "titolo": "CARG - Cartografia geologica e geotematica",
+      "link": "https://www.arpa.piemonte.it/progetto/carg-cartografia-geologica-geotematica",
+      "data": "2024-06-16T22:00:00+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    },
+    {
       "id": "9a14c8e39875",
       "titolo": "Bollettino ondate di calore",
       "link": "https://www.arpa.piemonte.it/bollettino/bollettino-ondate-calore",
@@ -128,7 +112,7 @@
   "cultura-beni-culturali": [
     {
       "id": "8c596ef83a34",
-      "titolo": "Senza titolo",
+      "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
       "data": "2026-03-03T16:13:17+01:00",
       "fonte": "Regione Piemonte",
@@ -136,23 +120,15 @@
     },
     {
       "id": "7859a7d2a53c",
-      "titolo": "Senza titolo",
+      "titolo": "La Regione Piemonte entra in Federculture",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-entra-federculture",
       "data": "2026-03-03T10:41:26+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "9e0f2675f2fc",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-promosso-sanremo-nei-giorni-festival",
-      "data": "2026-02-28T20:05:18+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
       "id": "5abfb53712cb",
-      "titolo": "Senza titolo",
+      "titolo": "Il Piemonte si è promosso a Sanremo nei giorni del Festival",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-si-promosso-sanremo-nei-giorni-festival",
       "data": "2026-02-28T20:05:18+01:00",
       "fonte": "Regione Piemonte",
@@ -160,23 +136,15 @@
     },
     {
       "id": "a94b7ec1a5d8",
-      "titolo": "Senza titolo",
+      "titolo": "Regione e Confindustria Piemonte insieme a sostegno della crescita",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-confindustria-piemonte-insieme-sostegno-della-crescita",
       "data": "2026-02-23T18:50:48+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "c0066349dfb8",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-si-promuove-sanremo-nei-giorni-festival",
-      "data": "2026-02-23T10:05:18+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
       "id": "71a9d8281453",
-      "titolo": "Senza titolo",
+      "titolo": "La partecipazione delle donne alla crescita dell'Italia",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partecipazione-delle-donne-alla-crescita-dellitalia",
       "data": "2026-02-19T17:43:52+01:00",
       "fonte": "Regione Piemonte",
@@ -184,33 +152,9 @@
     },
     {
       "id": "a2747c17b0f9",
-      "titolo": "Senza titolo",
+      "titolo": "Le celebrazioni per il centenario della morte di Piero Gobetti",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/celebrazioni-per-centenario-della-morte-piero-gobetti",
       "data": "2026-02-16T14:14:24+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6b10625e3e75",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/proposte-piemonte-alla-bit-2026",
-      "data": "2026-02-12T13:50:37+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "30560d009cfc",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-salone-libro-2026",
-      "data": "2026-02-04T16:13:09+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a89cbbc0886a",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/primo-contratto-zona-umida-della-pianura-risicola-vercellese",
-      "data": "2026-02-02T19:24:06+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -218,7 +162,7 @@
   "sanita-regionale": [
     {
       "id": "fd99031fec9d",
-      "titolo": "Senza titolo",
+      "titolo": "Il fondo sanitario integrato con 203 milioni per servizi aggiuntivi e assunzioni",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondo-sanitario-integrato-203-milioni-per-servizi-aggiuntivi-assunzioni",
       "data": "2026-03-02T18:45:47+01:00",
       "fonte": "Regione Piemonte",
@@ -226,65 +170,33 @@
     },
     {
       "id": "f0958831ef9d",
-      "titolo": "Senza titolo",
+      "titolo": "Nuovo direttore generale al Santa Croce e Carle di Cuneo",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-direttore-generale-al-santa-croce-carle-cuneo",
       "data": "2026-02-25T16:48:44+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "3da06eb84f05",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/si-apre-gara-per-progettare-nuovo-ospedale-cuneo",
-      "data": "2026-02-12T11:31:32+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
+      "id": "127bb3cf7c1f",
+      "titolo": "Biometeorologia",
+      "link": "https://www.arpa.piemonte.it/scheda-informativa/biometeorologia",
+      "data": "2024-06-28T08:45:43+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
     },
     {
-      "id": "806c77846fca",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-per-2026-della-regione-piemonte",
-      "data": "2026-02-11T11:17:40+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "dec75e02b5a0",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altri-tre-bambini-dalla-striscia-gaza-al-regina-margherita",
-      "data": "2026-02-10T13:58:00+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d60a1ee71f1e",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/operazione-sul-grattacielo-della-regione-risparmio-oltre-28-milioni-piena-proprieta",
-      "data": "2026-02-06T19:11:11+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1ed788f3fd4c",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/precisazione-sulla-circolare-esplicativa-sul-fine-vita",
-      "data": "2026-02-06T18:35:31+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "38cad1a91426",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-centri-alta-specializzazione-riferimento-regionale",
-      "data": "2026-02-02T16:33:18+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
+      "id": "9a14c8e39875",
+      "titolo": "Bollettino ondate di calore",
+      "link": "https://www.arpa.piemonte.it/bollettino/bollettino-ondate-calore",
+      "data": "2024-04-16T14:18:26+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
     }
   ],
   "agricoltura": [
     {
       "id": "fd99031fec9d",
-      "titolo": "Senza titolo",
+      "titolo": "Il fondo sanitario integrato con 203 milioni per servizi aggiuntivi e assunzioni",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondo-sanitario-integrato-203-milioni-per-servizi-aggiuntivi-assunzioni",
       "data": "2026-03-02T18:45:47+01:00",
       "fonte": "Regione Piemonte",
@@ -292,7 +204,7 @@
     },
     {
       "id": "8480ae51fea5",
-      "titolo": "Senza titolo",
+      "titolo": "Il Piemonte attrattivo anche nella nuova classifica del Financial Times",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-attrattivo-anche-nella-nuova-classifica-financial-times",
       "data": "2026-02-24T12:38:10+01:00",
       "fonte": "Regione Piemonte",
@@ -300,7 +212,7 @@
     },
     {
       "id": "c742e6f2901f",
-      "titolo": "Senza titolo",
+      "titolo": "Peste suina: il modello del Piemonte esempio per l’Europa",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-modello-piemonte-esempio-per-leuropa",
       "data": "2026-02-18T18:22:37+01:00",
       "fonte": "Regione Piemonte",
@@ -308,33 +220,9 @@
     },
     {
       "id": "b7800b4795bd",
-      "titolo": "Senza titolo",
+      "titolo": "Il vino piemontese pronto ad affrontare nuovi mercati",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-pronto-ad-affrontare-nuovi-mercati",
       "data": "2026-02-16T15:31:01+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e8c694a02ddb",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-copre-tutte-borse-studio-universitarie",
-      "data": "2026-02-16T14:52:40+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bd7b17b572a2",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/recuperati-58-milioni-per-sviluppo-dellagricoltura-piemontese",
-      "data": "2026-02-04T14:34:04+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "fb3f12e530a5",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmata-convenzione-per-collaborazione-regione-vigili-fuoco",
-      "data": "2026-02-03T14:02:41+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -345,12 +233,38 @@
       "data": "2025-10-23T08:49:37+00:00",
       "fonte": "Consiglio Regionale",
       "fonte_id": "consiglio"
+    },
+    {
+      "id": "f6774d245249",
+      "titolo": "CARG - Cartografia geologica e geotematica",
+      "link": "https://www.arpa.piemonte.it/progetto/carg-cartografia-geologica-geotematica",
+      "data": "2024-06-16T22:00:00+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    }
+  ],
+  "lavoro-occupazione": [
+    {
+      "id": "fd99031fec9d",
+      "titolo": "Il fondo sanitario integrato con 203 milioni per servizi aggiuntivi e assunzioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondo-sanitario-integrato-203-milioni-per-servizi-aggiuntivi-assunzioni",
+      "data": "2026-03-02T18:45:47+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "71a9d8281453",
+      "titolo": "La partecipazione delle donne alla crescita dell'Italia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partecipazione-delle-donne-alla-crescita-dellitalia",
+      "data": "2026-02-19T17:43:52+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     }
   ],
   "sport": [
     {
       "id": "ffef2c9d110d",
-      "titolo": "Senza titolo",
+      "titolo": "Tre nuovi centri antiviolenza e 10 sportelli territoriali",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tre-nuovi-centri-antiviolenza-10-sportelli-territoriali",
       "data": "2026-02-26T19:12:50+01:00",
       "fonte": "Regione Piemonte",
@@ -360,17 +274,9 @@
   "fondi-europei": [
     {
       "id": "8480ae51fea5",
-      "titolo": "Senza titolo",
+      "titolo": "Il Piemonte attrattivo anche nella nuova classifica del Financial Times",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-attrattivo-anche-nella-nuova-classifica-financial-times",
       "data": "2026-02-24T12:38:10+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bd7b17b572a2",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/recuperati-58-milioni-per-sviluppo-dellagricoltura-piemontese",
-      "data": "2026-02-04T14:34:04+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -378,7 +284,7 @@
   "enti-locali-piccoli-comuni": [
     {
       "id": "04f139391e55",
-      "titolo": "Senza titolo",
+      "titolo": "Ferrovia Rivarolo–Pont: lavori di elettrificazione conclusi entro il 2026",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ferrovia-rivarolo-pont-lavori-elettrificazione-conclusi-entro-2026",
       "data": "2026-02-24T11:51:44+01:00",
       "fonte": "Regione Piemonte",
@@ -386,25 +292,9 @@
     },
     {
       "id": "8afee01421cd",
-      "titolo": "Senza titolo",
+      "titolo": "Con GreenUP Piemonte 31 città coinvolte nella rigenerazione ambientale urbana",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/greenup-piemonte-31-citta-coinvolte-nella-rigenerazione-ambientale-urbana",
       "data": "2026-02-23T16:28:56+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "62ae9e405dc6",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tav-conferenza-dei-servizi-sul-progetto-definitivo-avigliana-orbassano",
-      "data": "2026-02-11T20:26:52+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "fb3f12e530a5",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmata-convenzione-per-collaborazione-regione-vigili-fuoco",
-      "data": "2026-02-03T14:02:41+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -449,36 +339,10 @@
       "fonte_id": "consiglio"
     }
   ],
-  "lavoro-occupazione": [
-    {
-      "id": "71a9d8281453",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partecipazione-delle-donne-alla-crescita-dellitalia",
-      "data": "2026-02-19T17:43:52+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "81a3cf9b6819",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autoimpiego-nuove-imprese-47-milioni-per-chi-crea-lavoro",
-      "data": "2026-02-09T14:53:10+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f49551ff358f",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuove-piattaforme-per-cercare-offrire-lavoro",
-      "data": "2026-02-02T14:00:10+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "trasparenza": [
     {
       "id": "71a9d8281453",
-      "titolo": "Senza titolo",
+      "titolo": "La partecipazione delle donne alla crescita dell'Italia",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partecipazione-delle-donne-alla-crescita-dellitalia",
       "data": "2026-02-19T17:43:52+01:00",
       "fonte": "Regione Piemonte",
@@ -488,17 +352,17 @@
   "commercio-artigianato": [
     {
       "id": "b8a442a320ef",
-      "titolo": "Senza titolo",
+      "titolo": "Autonomia differenziata: via libera del Consiglio dei ministri alle intese preliminari",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-via-libera-consiglio-dei-ministri-alle-intese-preliminari",
       "data": "2026-02-18T19:05:44+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "30560d009cfc",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-salone-libro-2026",
-      "data": "2026-02-04T16:13:09+01:00",
+      "id": "b7800b4795bd",
+      "titolo": "Il vino piemontese pronto ad affrontare nuovi mercati",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-pronto-ad-affrontare-nuovi-mercati",
+      "data": "2026-02-16T15:31:01+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -506,7 +370,7 @@
   "autonomia-differenziata": [
     {
       "id": "b8a442a320ef",
-      "titolo": "Senza titolo",
+      "titolo": "Autonomia differenziata: via libera del Consiglio dei ministri alle intese preliminari",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-via-libera-consiglio-dei-ministri-alle-intese-preliminari",
       "data": "2026-02-18T19:05:44+01:00",
       "fonte": "Regione Piemonte",
@@ -516,17 +380,9 @@
   "protezione-civile": [
     {
       "id": "41b34ba63c0a",
-      "titolo": "Senza titolo",
+      "titolo": "Incendi boschivi, le attività di contrasto previste nel 2026",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-attivita-contrasto-previste-nel-2026",
       "data": "2026-02-17T14:24:22+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "fb3f12e530a5",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmata-convenzione-per-collaborazione-regione-vigili-fuoco",
-      "data": "2026-02-03T14:02:41+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -542,17 +398,9 @@
   "istruzione-formazione": [
     {
       "id": "d2fdbf6860dd",
-      "titolo": "Senza titolo",
+      "titolo": "I vincitori di “Scatta il tuo Natale” 2025",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vincitori-scatta-tuo-natale-2025",
       "data": "2026-02-16T17:13:18+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f9c6ad5ca721",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/una-guida-interattiva-sullorientamento-dopo-scuola-media",
-      "data": "2026-02-03T12:34:50+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -563,78 +411,6 @@
       "data": "2024-09-20T07:39:00+00:00",
       "fonte": "ARPA Piemonte",
       "fonte_id": "arpa"
-    }
-  ],
-  "sociale-welfare": [
-    {
-      "id": "e8c694a02ddb",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-copre-tutte-borse-studio-universitarie",
-      "data": "2026-02-16T14:52:40+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "fb3f12e530a5",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmata-convenzione-per-collaborazione-regione-vigili-fuoco",
-      "data": "2026-02-03T14:02:41+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "universita-ricerca": [
-    {
-      "id": "e8c694a02ddb",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-copre-tutte-borse-studio-universitarie",
-      "data": "2026-02-16T14:52:40+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "548ded7abf45",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partita-conferenza-dei-servizi-per-parco-della-salute-torino",
-      "data": "2026-02-11T20:22:05+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "38cad1a91426",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-centri-alta-specializzazione-riferimento-regionale",
-      "data": "2026-02-02T16:33:18+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f49551ff358f",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuove-piattaforme-per-cercare-offrire-lavoro",
-      "data": "2026-02-02T14:00:10+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "edilizia-opere-pubbliche": [
-    {
-      "id": "806c77846fca",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-per-2026-della-regione-piemonte",
-      "data": "2026-02-11T11:17:40+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "bilancio-regionale": [
-    {
-      "id": "757961b3dbe9",
-      "titolo": "Senza titolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-bilancio-preventivo-2026-2028-della-regione-investimenti-servizi-risanamento",
-      "data": "2026-01-30T18:23:00+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "pari-opportunita": [
@@ -653,6 +429,16 @@
       "titolo": "I dati del termovalorizzatore del Gerbido",
       "link": "https://www.arpa.piemonte.it/scheda-informativa/dati-termovalorizzatore-gerbido",
       "data": "2024-09-25T12:30:19+00:00",
+      "fonte": "ARPA Piemonte",
+      "fonte_id": "arpa"
+    }
+  ],
+  "energia": [
+    {
+      "id": "d64a66045687",
+      "titolo": "ALP'AERA",
+      "link": "https://www.arpa.piemonte.it/progetto/alpaera",
+      "data": "2024-09-24T01:00:00+00:00",
       "fonte": "ARPA Piemonte",
       "fonte_id": "arpa"
     }

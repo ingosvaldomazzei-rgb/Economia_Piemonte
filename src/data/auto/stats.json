@@ -1,51 +1,51 @@
 {
-  "totale_notizie": 69,
+  "totale_notizie": 45,
   "notizie_per_fonte": {
-    "regione": 48,
+    "regione": 25,
     "consiglio": 10,
-    "arpa": 11
+    "arpa": 10
   },
   "temi_attivi": [
     {
-      "tema": "cultura-beni-culturali",
-      "conteggio": 11
+      "tema": "ambiente-qualita-aria",
+      "conteggio": 8
     },
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 9
-    },
-    {
-      "tema": "sanita-regionale",
-      "conteggio": 8
-    },
-    {
-      "tema": "agricoltura",
-      "conteggio": 8
-    },
-    {
-      "tema": "ambiente-qualita-aria",
       "conteggio": 7
     },
     {
-      "tema": "attivita-produttive",
-      "conteggio": 5
+      "tema": "cultura-beni-culturali",
+      "conteggio": 6
     },
     {
-      "tema": "universita-ricerca",
+      "tema": "agricoltura",
+      "conteggio": 6
+    },
+    {
+      "tema": "sanita-regionale",
       "conteggio": 4
     },
     {
-      "tema": "turismo",
+      "tema": "attivita-produttive",
       "conteggio": 3
+    },
+    {
+      "tema": "turismo",
+      "conteggio": 2
     },
     {
       "tema": "lavoro-occupazione",
-      "conteggio": 3
+      "conteggio": 2
+    },
+    {
+      "tema": "commercio-artigianato",
+      "conteggio": 2
     },
     {
       "tema": "protezione-civile",
-      "conteggio": 3
+      "conteggio": 2
     }
   ],
-  "totale_temi_con_notizie": 22
+  "totale_temi_con_notizie": 19
 }
