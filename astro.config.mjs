@@ -3,7 +3,7 @@ import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://osservatorio-piemonte.netlify.app',
+  site: 'https://economia-piemonte.pages.dev',
   vite: {
     plugins: [tailwindcss()]
   },

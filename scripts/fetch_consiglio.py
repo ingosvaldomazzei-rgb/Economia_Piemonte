@@ -34,7 +34,7 @@ def scrape_atti():
     """Scrape degli atti consiliari più recenti."""
     tutti_atti = []
     headers = {
-        'User-Agent': 'OsservatorioPiemonte/1.0 (monitoraggio civico; osservatorio-piemonte.netlify.app)'
+        'User-Agent': 'OsservatorioPiemonte/1.0 (monitoraggio civico; economia-piemonte.pages.dev)'
     }
 
     for sezione in SEZIONI_ATTI:
