@@ -6,12 +6,15 @@ Output: src/data/auto/notizie.json
 
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from hashlib import md5
+from html import unescape
 
-import atoma
 import requests
+from lxml import etree
 
 # Aggiungi la directory scripts al path
 sys.path.insert(0, os.path.dirname(__file__))
@@ -19,6 +22,50 @@ from config import DATA_DIR, RSS_FEEDS
 
 MAX_NOTIZIE = 100
 REQUEST_TIMEOUT = 30
+
+# Namespace comuni nei feed RSS
+NAMESPACES = {
+    'dc': 'http://purl.org/dc/elements/1.1/',
+    'content': 'http://purl.org/rss/1.0/modules/content/',
+    'atom': 'http://www.w3.org/2005/Atom',
+}
+
+
+def strip_html(text):
+    """Rimuovi tag HTML e normalizza spazi."""
+    if not text:
+        return ''
+    text = re.sub(r'<[^>]+>', '', unescape(text))
+    return ' '.join(text.split()).strip()
+
+
+def get_element_text(item, tag):
+    """Estrai testo da un elemento XML, gestendo HTML inline nei tag."""
+    el = item.find(tag)
+    if el is None:
+        return ''
+    # Prendi tutto il contenuto testuale (incluso testo dentro tag figli)
+    raw = etree.tostring(el, method='text', encoding='unicode')
+    if raw and raw.strip():
+        return raw.strip()
+    # Fallback: serializza il contenuto come HTML e poi strippalo
+    inner = etree.tostring(el, encoding='unicode')
+    return strip_html(inner)
+
+
+def parse_date(item):
+    """Estrai e parsa la data di pubblicazione da un item RSS."""
+    for tag in ['pubDate', 'dc:date', '{http://purl.org/dc/elements/1.1/}date']:
+        el = item.find(tag, NAMESPACES) if ':' in tag else item.find(tag)
+        if el is not None and el.text:
+            try:
+                return parsedate_to_datetime(el.text.strip()).isoformat()
+            except Exception:
+                try:
+                    return datetime.fromisoformat(el.text.strip()).isoformat()
+                except Exception:
+                    pass
+    return datetime.now(timezone.utc).isoformat()
 
 
 def fetch_feed(feed_config):
@@ -29,26 +76,30 @@ def fetch_feed(feed_config):
             'User-Agent': 'OsservatorioPiemonte/1.0 (monitoraggio politico)'
         })
         resp.raise_for_status()
-        feed = atoma.parse_rss_bytes(resp.content)
 
-        for item in feed.items or []:
-            # Estrai data pubblicazione
-            data = None
-            if item.pub_date:
-                data = item.pub_date.isoformat()
-            else:
-                data = datetime.now(timezone.utc).isoformat()
+        root = etree.fromstring(resp.content)
 
-            # Pulisci descrizione (rimuovi tag HTML)
-            descrizione = ''
-            if item.description:
-                from html import unescape
-                import re
-                descrizione = re.sub(r'<[^>]+>', '', unescape(item.description))
-                descrizione = descrizione.strip()[:500]  # Max 500 caratteri
+        # Trova tutti gli <item> (RSS) o <entry> (Atom)
+        items = root.findall('.//item')
+        if not items:
+            items = root.findall('.//{http://www.w3.org/2005/Atom}entry')
 
-            titolo = item.title or 'Senza titolo'
-            link = item.link or ''
+        for item in items:
+            # Titolo: estrai testo pulito anche se contiene HTML
+            titolo = strip_html(get_element_text(item, 'title')) or 'Senza titolo'
+
+            # Link
+            link_el = item.find('link')
+            link = ''
+            if link_el is not None:
+                link = (link_el.text or link_el.get('href', '')).strip()
+
+            # Descrizione
+            desc_text = get_element_text(item, 'description')
+            descrizione = strip_html(desc_text)[:500]
+
+            # Data
+            data = parse_date(item)
 
             # ID univoco basato su link
             notizia_id = md5(link.encode()).hexdigest()[:12]
