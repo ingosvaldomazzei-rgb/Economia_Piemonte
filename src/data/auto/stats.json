@@ -1,22 +1,22 @@
 {
-  "totale_notizie": 45,
+  "totale_notizie": 47,
   "notizie_per_fonte": {
-    "regione": 25,
+    "regione": 27,
     "consiglio": 10,
     "arpa": 10
   },
   "temi_attivi": [
     {
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 8
+    },
+    {
       "tema": "ambiente-qualita-aria",
       "conteggio": 8
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 7
-    },
-    {
       "tema": "cultura-beni-culturali",
-      "conteggio": 6
+      "conteggio": 7
     },
     {
       "tema": "agricoltura",
@@ -31,6 +31,10 @@
       "conteggio": 3
     },
     {
+      "tema": "fondi-europei",
+      "conteggio": 2
+    },
+    {
       "tema": "turismo",
       "conteggio": 2
     },
@@ -40,10 +44,6 @@
     },
     {
       "tema": "commercio-artigianato",
-      "conteggio": 2
-    },
-    {
-      "tema": "protezione-civile",
       "conteggio": 2
     }
   ],

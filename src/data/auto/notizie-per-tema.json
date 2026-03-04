@@ -1,4 +1,146 @@
 {
+  "cultura-beni-culturali": [
+    {
+      "id": "5d9334359829",
+      "titolo": "41 nuovi capitreno in Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/41-nuovi-capitreno-piemonte",
+      "data": "2026-03-04T17:33:33+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8c596ef83a34",
+      "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
+      "data": "2026-03-03T16:13:17+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7859a7d2a53c",
+      "titolo": "La Regione Piemonte entra in Federculture",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-entra-federculture",
+      "data": "2026-03-03T10:41:26+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5abfb53712cb",
+      "titolo": "Il Piemonte si è promosso a Sanremo nei giorni del Festival",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-si-promosso-sanremo-nei-giorni-festival",
+      "data": "2026-02-28T20:05:18+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a94b7ec1a5d8",
+      "titolo": "Regione e Confindustria Piemonte insieme a sostegno della crescita",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-confindustria-piemonte-insieme-sostegno-della-crescita",
+      "data": "2026-02-23T18:50:48+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "71a9d8281453",
+      "titolo": "La partecipazione delle donne alla crescita dell'Italia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partecipazione-delle-donne-alla-crescita-dellitalia",
+      "data": "2026-02-19T17:43:52+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a2747c17b0f9",
+      "titolo": "Le celebrazioni per il centenario della morte di Piero Gobetti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/celebrazioni-per-centenario-della-morte-piero-gobetti",
+      "data": "2026-02-16T14:14:24+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "77d4b4f9700b",
+      "titolo": "Focus sul progetto Esperti per il Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/focus-sul-progetto-esperti-per-piemonte",
+      "data": "2026-03-04T14:46:58+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "04f139391e55",
+      "titolo": "Ferrovia Rivarolo–Pont: lavori di elettrificazione conclusi entro il 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ferrovia-rivarolo-pont-lavori-elettrificazione-conclusi-entro-2026",
+      "data": "2026-02-24T11:51:44+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8afee01421cd",
+      "titolo": "Con GreenUP Piemonte 31 città coinvolte nella rigenerazione ambientale urbana",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/greenup-piemonte-31-citta-coinvolte-nella-rigenerazione-ambientale-urbana",
+      "data": "2026-02-23T16:28:56+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2e47afc83b36",
+      "titolo": "Misura la tua velocità di internet con Ne.Me.Sys",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/misura-la-tua-velocita-di-internet-con-nemesys-0",
+      "data": "2026-01-15T10:21:03+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "3751ea9d16cb",
+      "titolo": "Il Corecom Piemonte a Cuneo illustra le sue attività",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/il-corecom-piemonte-cuneo-illustra-le-sue-attivita",
+      "data": "2025-11-19T15:14:06+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "20b7132930de",
+      "titolo": "Problemi con l’operatore telefonico? Rivolgiti al Corecom Piemonte",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-loperatore-telefonico-rivolgiti-al-corecom-piemonte",
+      "data": "2025-10-23T08:49:37+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "350de9ef0699",
+      "titolo": "Comunicazioni fraudolente rimborso AGCOM per disservizi telefonici",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/notizie/comunicazioni-fraudolente-rimborso-agcom-disservizi-telefonici",
+      "data": "2025-10-23T08:31:32+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "8bbc336d78e8",
+      "titolo": "Avviso per i programmi dell’accesso primo trimestre 2026",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/avviso-i-programmi-dellaccesso-primo-trimestre-2026",
+      "data": "2025-09-25T08:38:41+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    }
+  ],
+  "fondi-europei": [
+    {
+      "id": "77d4b4f9700b",
+      "titolo": "Focus sul progetto Esperti per il Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/focus-sul-progetto-esperti-per-piemonte",
+      "data": "2026-03-04T14:46:58+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8480ae51fea5",
+      "titolo": "Il Piemonte attrattivo anche nella nuova classifica del Financial Times",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-attrattivo-anche-nella-nuova-classifica-financial-times",
+      "data": "2026-02-24T12:38:10+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "attivita-produttive": [
     {
       "id": "8c596ef83a34",
@@ -107,56 +249,6 @@
       "data": "2024-04-16T14:18:26+00:00",
       "fonte": "ARPA Piemonte",
       "fonte_id": "arpa"
-    }
-  ],
-  "cultura-beni-culturali": [
-    {
-      "id": "8c596ef83a34",
-      "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
-      "data": "2026-03-03T16:13:17+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7859a7d2a53c",
-      "titolo": "La Regione Piemonte entra in Federculture",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-entra-federculture",
-      "data": "2026-03-03T10:41:26+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5abfb53712cb",
-      "titolo": "Il Piemonte si è promosso a Sanremo nei giorni del Festival",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-si-promosso-sanremo-nei-giorni-festival",
-      "data": "2026-02-28T20:05:18+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a94b7ec1a5d8",
-      "titolo": "Regione e Confindustria Piemonte insieme a sostegno della crescita",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-confindustria-piemonte-insieme-sostegno-della-crescita",
-      "data": "2026-02-23T18:50:48+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "71a9d8281453",
-      "titolo": "La partecipazione delle donne alla crescita dell'Italia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partecipazione-delle-donne-alla-crescita-dellitalia",
-      "data": "2026-02-19T17:43:52+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a2747c17b0f9",
-      "titolo": "Le celebrazioni per il centenario della morte di Piero Gobetti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/celebrazioni-per-centenario-della-morte-piero-gobetti",
-      "data": "2026-02-16T14:14:24+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sanita-regionale": [
@@ -269,74 +361,6 @@
       "data": "2026-02-26T19:12:50+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "fondi-europei": [
-    {
-      "id": "8480ae51fea5",
-      "titolo": "Il Piemonte attrattivo anche nella nuova classifica del Financial Times",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-attrattivo-anche-nella-nuova-classifica-financial-times",
-      "data": "2026-02-24T12:38:10+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "04f139391e55",
-      "titolo": "Ferrovia Rivarolo–Pont: lavori di elettrificazione conclusi entro il 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ferrovia-rivarolo-pont-lavori-elettrificazione-conclusi-entro-2026",
-      "data": "2026-02-24T11:51:44+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8afee01421cd",
-      "titolo": "Con GreenUP Piemonte 31 città coinvolte nella rigenerazione ambientale urbana",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/greenup-piemonte-31-citta-coinvolte-nella-rigenerazione-ambientale-urbana",
-      "data": "2026-02-23T16:28:56+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2e47afc83b36",
-      "titolo": "Misura la tua velocità di internet con Ne.Me.Sys",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/misura-la-tua-velocita-di-internet-con-nemesys-0",
-      "data": "2026-01-15T10:21:03+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "3751ea9d16cb",
-      "titolo": "Il Corecom Piemonte a Cuneo illustra le sue attività",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/il-corecom-piemonte-cuneo-illustra-le-sue-attivita",
-      "data": "2025-11-19T15:14:06+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "20b7132930de",
-      "titolo": "Problemi con l’operatore telefonico? Rivolgiti al Corecom Piemonte",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-loperatore-telefonico-rivolgiti-al-corecom-piemonte",
-      "data": "2025-10-23T08:49:37+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "350de9ef0699",
-      "titolo": "Comunicazioni fraudolente rimborso AGCOM per disservizi telefonici",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/notizie/comunicazioni-fraudolente-rimborso-agcom-disservizi-telefonici",
-      "data": "2025-10-23T08:31:32+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "8bbc336d78e8",
-      "titolo": "Avviso per i programmi dell’accesso primo trimestre 2026",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/avviso-i-programmi-dellaccesso-primo-trimestre-2026",
-      "data": "2025-09-25T08:38:41+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
     }
   ],
   "trasparenza": [
