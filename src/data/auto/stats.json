@@ -31,6 +31,10 @@
       "conteggio": 3
     },
     {
+      "tema": "sport",
+      "conteggio": 2
+    },
+    {
       "tema": "fondi-europei",
       "conteggio": 2
     },
@@ -41,11 +45,7 @@
     {
       "tema": "lavoro-occupazione",
       "conteggio": 2
-    },
-    {
-      "tema": "commercio-artigianato",
-      "conteggio": 2
     }
   ],
-  "totale_temi_con_notizie": 19
+  "totale_temi_con_notizie": 20
 }
