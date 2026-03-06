@@ -1,7 +1,7 @@
 {
-  "totale_notizie": 47,
+  "totale_notizie": 49,
   "notizie_per_fonte": {
-    "regione": 27,
+    "regione": 29,
     "consiglio": 10,
     "arpa": 10
   },
@@ -24,11 +24,11 @@
     },
     {
       "tema": "sanita-regionale",
-      "conteggio": 4
+      "conteggio": 5
     },
     {
       "tema": "attivita-produttive",
-      "conteggio": 3
+      "conteggio": 4
     },
     {
       "tema": "sport",
@@ -47,5 +47,5 @@
       "conteggio": 2
     }
   ],
-  "totale_temi_con_notizie": 20
+  "totale_temi_con_notizie": 22
 }
