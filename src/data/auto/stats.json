@@ -1,14 +1,14 @@
 {
-  "totale_notizie": 49,
+  "totale_notizie": 51,
   "notizie_per_fonte": {
-    "regione": 29,
+    "regione": 31,
     "consiglio": 10,
     "arpa": 10
   },
   "temi_attivi": [
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 8
+      "conteggio": 9
     },
     {
       "tema": "ambiente-qualita-aria",
@@ -31,6 +31,10 @@
       "conteggio": 4
     },
     {
+      "tema": "lavoro-occupazione",
+      "conteggio": 3
+    },
+    {
       "tema": "sport",
       "conteggio": 2
     },
@@ -40,10 +44,6 @@
     },
     {
       "tema": "turismo",
-      "conteggio": 2
-    },
-    {
-      "tema": "lavoro-occupazione",
       "conteggio": 2
     }
   ],
