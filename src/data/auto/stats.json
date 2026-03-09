@@ -1,7 +1,7 @@
 {
-  "totale_notizie": 51,
+  "totale_notizie": 52,
   "notizie_per_fonte": {
-    "regione": 31,
+    "regione": 32,
     "consiglio": 10,
     "arpa": 10
   },
@@ -19,12 +19,12 @@
       "conteggio": 7
     },
     {
-      "tema": "agricoltura",
+      "tema": "sanita-regionale",
       "conteggio": 6
     },
     {
-      "tema": "sanita-regionale",
-      "conteggio": 5
+      "tema": "agricoltura",
+      "conteggio": 6
     },
     {
       "tema": "attivita-produttive",
