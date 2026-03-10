@@ -1,22 +1,22 @@
 {
-  "totale_notizie": 52,
+  "totale_notizie": 53,
   "notizie_per_fonte": {
-    "regione": 32,
+    "regione": 33,
     "consiglio": 10,
     "arpa": 10
   },
   "temi_attivi": [
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 9
+      "conteggio": 10
+    },
+    {
+      "tema": "cultura-beni-culturali",
+      "conteggio": 8
     },
     {
       "tema": "ambiente-qualita-aria",
       "conteggio": 8
-    },
-    {
-      "tema": "cultura-beni-culturali",
-      "conteggio": 7
     },
     {
       "tema": "sanita-regionale",
@@ -31,15 +31,15 @@
       "conteggio": 4
     },
     {
+      "tema": "fondi-europei",
+      "conteggio": 3
+    },
+    {
       "tema": "lavoro-occupazione",
       "conteggio": 3
     },
     {
       "tema": "sport",
-      "conteggio": 2
-    },
-    {
-      "tema": "fondi-europei",
       "conteggio": 2
     },
     {
