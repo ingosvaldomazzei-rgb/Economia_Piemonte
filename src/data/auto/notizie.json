@@ -1,5 +1,265 @@
 [
   {
+    "id": "a37e3b2db131",
+    "titolo": "Transizione energetica cresce la spinta delle imprese piemontesi: quasi un'azienda manifatturiera su tre è già attiva  o pronta a investire",
+    "link": "https://pie.camcom.it/notizie/transizione-energetica-cresce-la-spinta-delle-imprese-piemontesi-quasi-unazienda-manifatturiera-su",
+    "descrizione": "",
+    "data": "2026-03-10T14:59:10.420795+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "393969d0e0ef",
+    "titolo": "Nel 2024 il grado di internazionalizzazione del Piemonte si consolida su livelli di eccellenza",
+    "link": "https://pie.camcom.it/notizie/nel-2024-il-grado-di-internazionalizzazione-del-piemonte-si-consolida-su-livelli-di-eccellenza",
+    "descrizione": "",
+    "data": "2026-03-10T14:59:10.420645+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "4868a096968a",
+    "titolo": "L’andamento della congiuntura manifatturiera in Piemonte:  produzione in crescita nel III trimestre 2025, ma restano timori sul futuro di breve periodo",
+    "link": "https://pie.camcom.it/notizie/landamento-della-congiuntura-manifatturiera-piemonte-produzione-crescita-nel-iii-trimestre-2025-ma",
+    "descrizione": "",
+    "data": "2026-03-10T14:59:10.420505+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "a1af47b5886b",
+    "titolo": "Le cifre chiave del Nord Ovest:  Piemonte, Liguria e Valle d’Aosta polo strategico europeo",
+    "link": "https://pie.camcom.it/notizie/le-cifre-chiave-del-nord-ovest-piemonte-liguria-e-valle-daosta-polo-strategico-europeo",
+    "descrizione": "",
+    "data": "2026-03-10T14:59:10.420372+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "396e3cf651e7",
+    "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
+    "link": "https://pie.camcom.it/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
+    "descrizione": "",
+    "data": "2026-03-10T14:59:10.420234+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "66461f8dcf25",
+    "titolo": "Esportazioni piemontesi: nei primi nove mesi del 2025 tornano in positivo (+1,7% rispetto allo stesso periodo del 2024)",
+    "link": "https://pie.camcom.it/notizie/esportazioni-piemontesi-nei-primi-nove-mesi-del-2025-tornano-positivo-17-rispetto-allo-stesso",
+    "descrizione": "",
+    "data": "2026-03-10T14:59:10.420093+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "781ffead9831",
+    "titolo": "Nati-mortalità delle imprese: lievemente positivo il bilancio demografico nel 2025",
+    "link": "https://pie.camcom.it/notizie/nati-mortalita-delle-imprese-lievemente-positivo-il-bilancio-demografico-nel-2025",
+    "descrizione": "",
+    "data": "2026-03-10T14:59:10.419923+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "706e82a5e7ce",
+    "titolo": "Multinazionali estere in Piemonte",
+    "link": "https://pie.camcom.it/notizie/multinazionali-estere-piemonte",
+    "descrizione": "",
+    "data": "2026-03-10T14:59:10.419775+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "dda6715f700e",
+    "titolo": "L’andamento della congiuntura manifatturiera in Piemonte: nel IV trimestre 2025 la produzione industriale segna una netta ripresa (+3,5%)",
+    "link": "https://pie.camcom.it/notizie/landamento-della-congiuntura-manifatturiera-piemonte-nel-iv-trimestre-2025-la-produzione-industriale",
+    "descrizione": "",
+    "data": "2026-03-10T14:59:10.419610+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "93d9eca659f4",
+    "titolo": "Imprese femminili: sono 93.489 nel 2025, il 22,4% del totale",
+    "link": "https://pie.camcom.it/notizie/imprese-femminili-sono-93489-nel-2025-il-224-del-totale",
+    "descrizione": "",
+    "data": "2026-03-10T14:59:10.419416+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "76dd66113497",
+    "titolo": "Le cifre chiave del Nord Ovest:  Piemonte, Liguria e Valle d’Aosta polo strategico europeo",
+    "link": "https://pie.camcom.it/index.php/notizie/le-cifre-chiave-del-nord-ovest-piemonte-liguria-e-valle-daosta-polo-strategico-europeo",
+    "descrizione": "Lun 01 Dic, 2025",
+    "data": "2026-03-10T14:59:07.277421+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "779c393fb0cd",
+    "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
+    "link": "https://pie.camcom.it/index.php/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
+    "descrizione": "Ven 05 Dic, 2025",
+    "data": "2026-03-10T14:59:07.277274+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "f60f0bf1e8c2",
+    "titolo": "Esportazioni piemontesi: nei primi nove mesi del 2025 tornano in positivo (+1,7% rispetto allo stesso periodo del 2024)",
+    "link": "https://pie.camcom.it/index.php/notizie/esportazioni-piemontesi-nei-primi-nove-mesi-del-2025-tornano-positivo-17-rispetto-allo-stesso",
+    "descrizione": "Ven 12 Dic, 2025",
+    "data": "2026-03-10T14:59:07.277135+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "3c3d141d0327",
+    "titolo": "Chiusura uffici per la pausa natalizia",
+    "link": "https://pie.camcom.it/notizie/chiusura-uffici-la-pausa-natalizia",
+    "descrizione": "Mar 23 Dic, 2025",
+    "data": "2026-03-10T14:59:07.276993+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "0b3ed7158a10",
+    "titolo": "Nati-mortalità delle imprese: lievemente positivo il bilancio demografico nel 2025",
+    "link": "https://pie.camcom.it/index.php/notizie/nati-mortalita-delle-imprese-lievemente-positivo-il-bilancio-demografico-nel-2025",
+    "descrizione": "Ven 23 Gen, 2026",
+    "data": "2026-03-10T14:59:07.276828+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "e30cd6a4da9d",
+    "titolo": "Multinazionali estere in Piemonte",
+    "link": "https://pie.camcom.it/index.php/notizie/multinazionali-estere-piemonte",
+    "descrizione": "Lun 26 Gen, 2026",
+    "data": "2026-03-10T14:59:07.276685+00:00",
+    "fonte": "Unioncamere Piemonte",
+    "fonte_id": "unioncamere",
+    "colore": "#ca8a04"
+  },
+  {
+    "id": "7ac0b2a70a77",
+    "titolo": "15enne invalido torturato per ore a Torino la notte di Halloween, messa alla prova per l’indagata minorenne",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/15enne-invalido-torturato-per-ore-a-torino-la-notte-di-halloween-messa-alla-prova-per-lindagata-minorenne/",
+    "descrizione": "L'indagata è accusata di violenza privata e sequestro di persona L'articolo 15enne invalido torturato per ore a Torino la notte di Halloween, messa alla prova per l’indagata minorenne proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T14:16:58+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "3bdd4f16b372",
+    "titolo": "Torino, previsioni meteo del 11 marzo 2026",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/torino-previsioni-meteo-del-11-marzo-2026/",
+    "descrizione": "Meteo Torino 11 marzo: nebbie al mattino e cielo variabile nel pomeriggio. Temperature fino a 15°C. Sabato possibile pioggia. L'articolo Torino, previsioni meteo del 11 marzo 2026 proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T14:00:52+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "6abe928ff1a2",
+    "titolo": "Un contrassegno unico ZTL per gli agenti di commercio",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/un-contrassegno-unico-ztl-per-gli-agenti-di-commercio/",
+    "descrizione": "Gli agenti di commercio potranno richiedere il rilascio di un contrassegno unico per accedere alle Zone a traffico limitato presenti sul territorio regionale per svolgere la propria attività professionale. È quanto prevede la proposta di legge – primo firmatario Fabrizio Ricca (Lega). La legge permette agli agenti di commercio regolarmente iscritti presso le Camere di commercio di […] L'articolo Un contrassegno unico ZTL per gli agenti di commercio proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T13:42:29+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "e0a5b1577abc",
+    "titolo": "Project financing per un nuovo complesso sportivo nell’area della Piscina Sempione: dalla Giunta il riconoscimento di pubblico interesse",
+    "link": "https://www.torinoclick.it/territorio/project-financing-per-un-nuovo-complesso-sportivo-nellarea-della-piscina-sempione-dalla-giunta-il-riconoscimento-di-pubblico-interesse/",
+    "descrizione": "La Giunta comunale ha approvato oggi, su proposta degli assessori al Verde Francesco Tresso e allo Sport Domenico Carretta, il riconoscimento di pubblico interesse per la proposta di project financing relativa alla progettazione, realizzazione e gestione di un nuovo complesso sportivo nell’area della Piscina Sempione, in via Gottardo.",
+    "data": "2026-03-10T13:31:21+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "956122db8a16",
+    "titolo": "A Torino recuperato un altro alloggio occupato abusivamente dal 2022",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/torino-recuperato-alloggio-occupato-abusivamente/",
+    "descrizione": "L’appartamento, occupato nel 2022, è stato messo in sicurezza da Atc L'articolo A Torino recuperato un altro alloggio occupato abusivamente dal 2022 proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T13:29:51+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "80d92dbdad8f",
+    "titolo": "Guerra in Medio Oriente e aumento del gasolio agricolo: Coldiretti presenta esposto in Procura contro le speculazioni",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/guerra-in-medio-oriente-e-aumento-del-gasolio-agricolo-coldiretti-presenta-esposto-in-procura-contro-le-speculazioni/",
+    "descrizione": "Chiesto un incontro urgente per affrontare l’impennata dei costi del gasolio e dell’energia L'articolo Guerra in Medio Oriente e aumento del gasolio agricolo: Coldiretti presenta esposto in Procura contro le speculazioni proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T12:54:51+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "f2826c79ab0e",
+    "titolo": "La 29enne Gabriela Madalina Popescu è scomparsa, avvistata l’ultima volta a Torino",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/la-29enne-gabriela-madalina-popescu-e-scomparsa-avvistata-lultima-volta-a-torino/",
+    "descrizione": "Potrebbe essere disorientata e in stato confusionale L'articolo La 29enne Gabriela Madalina Popescu è scomparsa, avvistata l’ultima volta a Torino proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T12:29:35+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "c2613d49df6f",
+    "titolo": "Project financing per un nuovo complesso sportivo nell’area della Piscina Sempione: dalla Giunta il riconoscimento di pubblico interesse",
+    "link": "https://www.comune.torino.it/novita/comunicati/project-financing-per-un-nuovo-complesso-sportivo-nellarea-della-piscina",
+    "descrizione": "La Giunta comunale ha approvato oggi il riconoscimento di pubblico interesse per la proposta di project financing per la Piscina Sempione.",
+    "data": "2026-03-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fb7524301b55",
+    "titolo": "Il 1945 a teatro in Sala Rossa",
+    "link": "https://www.comune.torino.it/novita/comunicati/1945-teatro-sala-rossa",
+    "descrizione": "A Palazzo Civico un'originale rappresentazione teatrale, dal 12 al 15 marzo 2026",
+    "data": "2026-03-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d09341bfbe60",
+    "titolo": "Minacce al sindaco di Collegno: Cavallone rende pubblica una lettera anonima",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/minacce-al-sindaco-di-collegno-cavallone-rende-pubblica-una-lettera-anonima/",
+    "descrizione": "Risalire agli autori della lettera potrebbe però essere complicato L'articolo Minacce al sindaco di Collegno: Cavallone rende pubblica una lettera anonima proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T11:33:55+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
     "id": "878cc21e2f8f",
     "titolo": "Parte la firma degli accordi di programma dei Fondi di Sviluppo e Coesione",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parte-firma-degli-accordi-programma-dei-fondi-sviluppo-coesione",
@@ -10,6 +270,126 @@
     "colore": "#2563eb"
   },
   {
+    "id": "6ba9005b646a",
+    "titolo": "Unito, scoperto il meccanismo molecolare alla base di una sindrome del neurosviluppo",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/unito-meccanismo-molecolare-sindrome-del-neurosviluppo/",
+    "descrizione": "I ricercatori hanno studiato gli effetti delle mutazioni del gene IRF2BPL nella sindrome NEDAMSS L'articolo Unito, scoperto il meccanismo molecolare alla base di una sindrome del neurosviluppo proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T10:51:32+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "313043db04d0",
+    "titolo": "Trovato in casa con 5 kg di droga, 3 mila euro in contanti e una pistola: arrestato per spaccio a Torino",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/in-casa-5-kg-droga-arrestato-spaccio-torino/",
+    "descrizione": "Le indagini hanno portato alla perquisizione di due appartamenti e di un box auto nella disponibilità del giovane L'articolo Trovato in casa con 5 kg di droga, 3 mila euro in contanti e una pistola: arrestato per spaccio a Torino proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T10:21:18+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "13badd013499",
+    "titolo": "Persona sui binari di Porta Susa blocca la circolazione per mezz’ora. Disagi per i pendolari",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/persona-binari-porta-susa-disagi-pendolari/",
+    "descrizione": "A causare l’interruzione è stato un uomo avvistato sui binari, circostanza che ha costretto a fermare temporaneamente il traffico ferroviario per motivi di sicurezza L'articolo Persona sui binari di Porta Susa blocca la circolazione per mezz’ora. Disagi per i pendolari proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T09:29:46+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "c481e8ed5b62",
+    "titolo": "Avvistato uno Stealth B-2 in volo a bassa quota sulle Valli di Lanzo a Cafasse. Il bombardiere invisibile ai radar che ci faceva in Piemonte?",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/avvistato-uno-stealth-b-2-in-volo-a-bassa-quota-sulle-valli-di-lanzo-a-cafasse-il-bombardiere-invisibile-ai-radar-che-ci-faceva-in-piemonte/",
+    "descrizione": "Si tratta di uno dei pochi esemplari del costosissimo bombardiere USA in grado di nascondersi ai radar L'articolo Avvistato uno Stealth B-2 in volo a bassa quota sulle Valli di Lanzo a Cafasse. Il bombardiere invisibile ai radar che ci faceva in Piemonte? proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T08:55:50+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "736ca89a9c14",
+    "titolo": "Allevamento abusivo di cani nel Chivassese: sei indagati, chiesto il rinvio a giudizio",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/allevamento-abusivo-cani-chivasso-sei-indagati/",
+    "descrizione": "Secondo gli investigatori molti animali si sarebbero ammalati a causa delle condizioni in cui vivevano L'articolo Allevamento abusivo di cani nel Chivassese: sei indagati, chiesto il rinvio a giudizio proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T08:18:28+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "1967ea4fb3ec",
+    "titolo": "Tortona, ruba in una macchina ma è ripreso dalle telecamere: fermato e denunciato per furto",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/tortona-furto-telecamere-fermato-denunciato/",
+    "descrizione": "Nel corso degli accertamenti i carabinieri hanno anche individuato il luogo dove, secondo quanto ricostruito, l’uomo aveva nascosto la refurtiva L'articolo Tortona, ruba in una macchina ma è ripreso dalle telecamere: fermato e denunciato per furto proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T07:46:57+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "ae13c8444de5",
+    "titolo": "Il Curie-Levi di Collegno ha vinto la KING Basket Torino School Cup 2026",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/il-curie-levi-di-collegno-ha-vinto-la-king-basket-torino-school-cup-2026/",
+    "descrizione": "L'IIS Curie-Levi di Collegno ha battuto nella finale L' IIS Primo Levi per 41-35 L'articolo Il Curie-Levi di Collegno ha vinto la KING Basket Torino School Cup 2026 proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T07:15:31+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "3bea09966a95",
+    "titolo": "Meteo Piemonte, instabilità da sud porta precipitazioni anche nevose: ecco dove",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/meteo-piemonte-precipitazioni-neve-martedi-10-marzo/",
+    "descrizione": "Una debole perturbazione sale gradualmente dalle Baleari verso la nostra regione L'articolo Meteo Piemonte, instabilità da sud porta precipitazioni anche nevose: ecco dove proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T06:55:17+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "9fe708f0ab9a",
+    "titolo": "E’ morto Umberto Allemandi, l’editore che ha cambiato il modo di raccontare l’arte",
+    "link": "https://www.quotidianopiemontese.it/2026/03/09/umberto-allemandi-morto-editore-arte/",
+    "descrizione": "Fondatore dell’omonima casa editrice e anima instancabile del mensile Il Giornale dell’Arte L'articolo E’ morto Umberto Allemandi, l’editore che ha cambiato il modo di raccontare l’arte proviene da Quotidiano Piemontese.",
+    "data": "2026-03-09T21:27:35+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "fe0ad05c5970",
+    "titolo": "Ospedali piemontesi fuori dalla top ten nazionale nella classifica mondiale di Newsweek",
+    "link": "https://www.quotidianopiemontese.it/2026/03/09/ospedali-piemontesi-2026-qualita-cure/",
+    "descrizione": "Il miglior risultato regionale è quello dell’Azienda Ospedaliero-Universitaria Città della Salute e della Scienza di Torino – Molinette, che si colloca al 13° posto in Italia e al 221° nel mondo L'articolo Ospedali piemontesi fuori dalla top ten nazionale nella classifica mondiale di Newsweek proviene da Quotidiano Piemontese.",
+    "data": "2026-03-09T19:58:13+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "7332df78ef41",
+    "titolo": "Bambina di 7 anni annegata nel biolago di Caraglio: chiesto il rinvio a giudizio per sei indagati",
+    "link": "https://www.quotidianopiemontese.it/2026/03/09/anisa-murati-processo-morte-biolago-acquaviva-caraglio/",
+    "descrizione": "Secondo quanto ricostruito dagli inquirenti, alla bambina sarebbe stato consegnato un braccialetto arancione, riservato ai nuotatori, invece del braccialetto verde destinato a chi non sa nuotare L'articolo Bambina di 7 anni annegata nel biolago di Caraglio: chiesto il rinvio a giudizio per sei indagati proviene da Quotidiano Piemontese.",
+    "data": "2026-03-09T19:50:14+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "4117d8ae7f5f",
+    "titolo": "Lear, possibile svolta: Zetronic pronta a riassorbire progressivamente i 368 lavoratori",
+    "link": "https://www.quotidianopiemontese.it/2026/03/09/lear-zetronic-riassorbimento-368-lavoratori-piemonte/",
+    "descrizione": "Nel corso dell’incontro l’impresa ha illustrato il proprio progetto industriale, presentandosi come una realtà solida e con una lunga tradizione produttiva L'articolo Lear, possibile svolta: Zetronic pronta a riassorbire progressivamente i 368 lavoratori proviene da Quotidiano Piemontese.",
+    "data": "2026-03-09T19:20:25+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
     "id": "e2f3d2783813",
     "titolo": "Gli ospedali piemontesi recuperano 45 posizioni nella classifica di Newsweek",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-ospedali-piemontesi-recuperano-45-posizioni-nella-classifica-newsweek",
@@ -18,6 +398,176 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
+  },
+  {
+    "id": "410fb49a0227",
+    "titolo": "Sindone di Torino, un nuovo studio riaccende il dibattito scientifico sul telo più enigmatico della storia",
+    "link": "https://www.quotidianopiemontese.it/2026/03/09/sindone-torino-nuovo-studio-ricerca-scientifica/",
+    "descrizione": "Il nuovo studio conclude che la ricerca sulla Sindone resta in una sorta di stallo scientifico. L'articolo Sindone di Torino, un nuovo studio riaccende il dibattito scientifico sul telo più enigmatico della storia proviene da Quotidiano Piemontese.",
+    "data": "2026-03-09T18:45:00+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "8e8ad7b9e470",
+    "titolo": "Occupazioni abusive, recuperato un altro alloggio nel complesso Atc di via Biglieri",
+    "link": "https://www.torinoclick.it/sicurezza/occupazioni-abusive-recuperato-un-altro-alloggio-nel-complesso-atc-di-via-biglieri/",
+    "descrizione": "Prosegue l’azione di contrasto alle occupazioni abusive da parte della Polizia Locale di Torino, coordinato dalla Prefettura di Torino e in collaborazione con l’Agenzia Territoriale per la Casa del Piemonte Centrale.",
+    "data": "2026-03-09T14:32:35+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "d3e3098fd23a",
+    "titolo": "Giardino Martini, messi a dimora 11 nuovi tigli per la riqualificazione del mercato di piazza Benefica",
+    "link": "https://www.torinoclick.it/territorio/giardino-martini-messi-a-dimora-11-nuovi-tigli-per-la-riqualificazione-del-mercato-di-piazza-benefica/",
+    "descrizione": "Nel giardino Luigi Martini di piazza Benefica, sede dello storico mercato di Cit Turin, sono stati messi a dimora undici nuovi tigli, nell’ambito del più ampio progetto di riqualificazione dell’area mercatale che , e cambieranno volto a uno dei mercati più amati dai torinesi.",
+    "data": "2026-03-09T14:13:06+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "eaaef1eaf670",
+    "titolo": "Sala Rossa: “Salvare i poliambulatori di Via del Ridotto e Via Le Chiuse”",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-salvare-poliambulatori-via-ridotto-via-chiuse",
+    "descrizione": "Il documento evidenzia come la riorganizzazione dell'ASL Città di Torino, penalizzi la popolazione della zona",
+    "data": "2026-03-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7cda35a8c651",
+    "titolo": "Un documento contro la modifica “Bongiorno” della legge sulla violenza sessuale",
+    "link": "https://www.comune.torino.it/novita/comunicati/un-documento-contro-modifica-bongiorno-della-legge-sulla-violenza-sessuale",
+    "descrizione": "Per il ritiro del disegno di legge nella formulazione riscritta da Giulia Bongiorno e sollecitare il pieno recepimento del modello già approvato alla Camera",
+    "data": "2026-03-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "35f336f4cbf1",
+    "titolo": "Torino esprime solidarietà al popolo cubano: approvata in Consiglio Comunale la mozione contro l’embargo petrolifero",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-esprime-solidarieta-al-popolo-cubano-approvata-consiglio-comunale-mozione-0",
+    "descrizione": "Oltre alla vicinanza al popolo cubano, la mozione prevede aiuti come atto di restituzione dopo l'intervento a Torino dei medici cubani, durante l'epidemia",
+    "data": "2026-03-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "224d40404e38",
+    "titolo": "Servizio Civile presso la rete dei Punti Informativi Unificati",
+    "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-rete-dei-punti-informativi-unificati",
+    "descrizione": "Aperte le candidature per il progetto \"Otto P.I.U. Uno: informazione in movimento\".",
+    "data": "2026-03-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "181f642621b2",
+    "titolo": "Torino esprime solidarietà al popolo cubano: approvata in Consiglio Comunale la mozione contro l’embargo petrolifero",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-esprime-solidarieta-al-popolo-cubano-approvata-consiglio-comunale-mozione",
+    "descrizione": "Oltre alla vicinanza al popolo cubano, il documento chiede raccolta di medicinali e altri aiuti, anche in cambio dell'aiuto medico ricevuto durante la pandemia",
+    "data": "2026-03-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4d3a4ca00596",
+    "titolo": "Gestione integrata servizi ausiliari al traffico affidata in house a 5T",
+    "link": "https://www.comune.torino.it/novita/comunicati/gestione-integrata-servizi-ausiliari-al-traffico-affidata-house-5t",
+    "descrizione": "La Sala Rossa approva il contratto di servizio, che avrà durata di cinque anni",
+    "data": "2026-03-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b1dd864c6e5a",
+    "titolo": "TARI 2026: Definite scadenze e modalità di pagamento",
+    "link": "https://www.comune.torino.it/novita/comunicati/tari-2026-definite-scadenze-modalita-pagamento-0",
+    "descrizione": "Il Consiglio comunale ha approvato il provvedimento che definisce le scadenze e le modalità di pagamento della TARI per l’anno 2026.",
+    "data": "2026-03-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "adc6ed55ae14",
+    "titolo": "Torneo EA Sports FC 25 – EduGaming Zone",
+    "link": "https://www.comune.torino.it/novita/notizie/torneo-ea-sports-fc-25-edugaming-zone",
+    "descrizione": "L'iniziativa, che si terrà presso la \"EduGaming Zone\" della Scuola Fermi, mira a coniugare sport digitale, socialità e nuove forme di cittadinanza attiva.",
+    "data": "2026-03-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4aecfdf3f268",
+    "titolo": "Semaforo antismog: da domani, martedì 10 marzo, torna il livello 0 (bianco)",
+    "link": "https://www.comune.torino.it/novita/comunicati/semaforo-antismog-domani-martedi-10-marzo-torna-livello-0-bianco",
+    "descrizione": "Da martedì 10 marzo e fino a mercoledì 11 marzo 2026 compreso le misure di limitazione del traffico torneranno al livello 0 (bianco).",
+    "data": "2026-03-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "91198eaab12e",
+    "titolo": "Ricercate per furto, arrestate dalla Polizia Locale",
+    "link": "https://www.comune.torino.it/novita/comunicati/ricercate-per-furto-arrestate-dalla-polizia-locale",
+    "descrizione": "Su di lei pendevano provvedimenti di restrizione in carcere emessi nel corso del 2025, tra cui uno per furto aggravato e utilizzo di carte di credito rubate.",
+    "data": "2026-03-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f07b2f93f45d",
+    "titolo": "Semaforo antismog: da domani, martedì 10 marzo, torna il livello 0 (bianco)",
+    "link": "https://www.torinoclick.it/trasporti/semaforo-antismog-da-domani-martedi-10-marzo-torna-il-livello-0-bianco/",
+    "descrizione": "Secondo i dati previsionali forniti oggi da Arpa Piemonte, da domani, martedì 10 marzo, e fino a mercoledì 11 marzo 2026 (prossimo giorno di controllo), le misure di limitazione del traffico torneranno al livello 0 (bianco), con le sole misure strutturali di limitazione del traffico previste del semaforo antismog.",
+    "data": "2026-03-09T11:37:54+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "0e13cf0964b3",
+    "titolo": "Cooperazione internazionale, il sindaco Lo Russo al Consiglio Nazionale per la Cooperazione allo Sviluppo",
+    "link": "https://www.torinoclick.it/relazioniinternazionali/cooperazione-internazionale-il-sindaco-lo-russo-al-consiglio-nazionale-per-la-cooperazione-allo-sviluppo/",
+    "descrizione": "“La cooperazione internazionale è oggi uno degli strumenti più concreti per costruire stabilità, sviluppo e opportunità condivise tra territori. In un contesto internazionale reso particolarmente complesso dal moltiplicarsi dei conflitti e delle tensioni geopolitiche, rafforzare i programmi di cooperazione allo sviluppo significa contribuire alla costruzione di pace, alla stabilità delle aree più fragili e alla crescita delle comunità locali”. Così il sindaco di Torino e vicepresidente Anci con ",
+    "data": "2026-03-09T11:06:25+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "51a59a1c81cc",
+    "titolo": "Ricercate per furto, arrestate dalla Polizia Locale",
+    "link": "https://www.torinoclick.it/sicurezza/ricercate-per-furto-arrestate-dalla-polizia-locale/",
+    "descrizione": "Su di lei pendevano più provvedimenti di restrizione in carcere emessi nel corso del 2025, tra cui uno per furto aggravato e utilizzo di carte di credito rubate. La Polizia Locale, nell’ambito dei numerosi servizi che da diverso tempo sta svolgendo nel quartiere San Paolo, l’ha trovata nei pressi di corso Racconigi, mentre tentava di nascondersi all’interno del vano di un camper parcheggiato. È stata arrestata in forza dell’ordine di esecuzione emesso dalla Procura Generale della Repubblica di T",
+    "data": "2026-03-09T11:05:53+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "d275f0fdc828",
+    "titolo": "La marea rosa della Just The Woman I Am attraversa Torino",
+    "link": "https://www.torinoclick.it/sport/la-marea-rosa-della-just-the-woman-i-am-attraversa-torino/",
+    "descrizione": "Una vera e propria marea rosa quella che ha attraversato oggi Torino per l’edizione 2026 della Just The Woman I Am, la camminata corsa non competitiva a sostegno della ricerca universitaria sul cancro.Complice la bella giornata di sole ha quest’anno l’iniziativa ha coinvolto migliaia di partecipanti confermando la sua capacità di unire sport, solidarietà e impegno per la parità di genere.",
+    "data": "2026-03-08T20:45:43+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
   },
   {
     "id": "4e10dcd7dfdc",
@@ -40,6 +590,26 @@
     "colore": "#2563eb"
   },
   {
+    "id": "853ef1a20981",
+    "titolo": "Taglio del nastro per il rinnovato campo da calcio Colletta",
+    "link": "https://www.torinoclick.it/territorio/taglio-del-nastro-per-il-rinnovato-campo-da-calcio-colletta/",
+    "descrizione": "Proseguono le inaugurazioni degli impianti sportivi riqualificati grazie ai fondi del PNRR. Questo pomeriggio è stato inaugurato il rinnovato campo da calcio a 11 all’interno del parco Colletta, oggetto di un intervento di completa riqualificazione con il rifacimento del terreno di gioco in erba sintetica, la nuova tracciatura del campo e l’installazione di nuove panchine.",
+    "data": "2026-03-07T15:25:05+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "06e1b2cb37dc",
+    "titolo": "Metro 2: al via i rilievi ambientali, si parte lunedì da via Pacini",
+    "link": "https://www.torinoclick.it/trasporti/metro-2-al-via-i-rilievi-ambientali-si-parte-lunedi-da-via-pacini/",
+    "descrizione": "Inizieranno lunedì prossimo 9 marzo da via Pacini 46/A le attività preliminari al monitoraggio ambientale legato alla realizzazione della futura Linea 2 della metropolitana di Torino. Tecnici incaricati effettueranno una serie di rilievi necessari per raccogliere dati sullo stato ambientale attuale, senza modifiche alla viabilità.",
+    "data": "2026-03-07T14:03:42+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
     "id": "f7ddb97dd399",
     "titolo": "Numeri positivi per i Servizi di prevenzione nel 2025",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/numeri-positivi-per-servizi-prevenzione-nel-2025",
@@ -50,6 +620,16 @@
     "colore": "#2563eb"
   },
   {
+    "id": "c5b836f81384",
+    "titolo": "Piazza della Repubblica, intervento di pulizia e sgombero nel complesso Atc",
+    "link": "https://www.torinoclick.it/sicurezza/piazza-della-repubblica-intervento-di-pulizia-e-sgombero-nel-complesso-atc/",
+    "descrizione": "Una nuova attività di sgombero e pulizia, dopo quella che ha interessato via Ghedini, è stata condotta questa mattina, 6 marzo, nel cortile del complesso di edilizia sociale di piazza della Repubblica, di proprietà della Città di Torino, in gestione all’Agenzia Territoriale per la Casa del Piemonte Centrale.",
+    "data": "2026-03-06T14:25:25+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
     "id": "82589d5765f1",
     "titolo": "Bando da 8 milioni per il welfare aziendale",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-8-milioni-per-welfare-aziendale",
@@ -58,6 +638,46 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
+  },
+  {
+    "id": "b4d1c1a67cda",
+    "titolo": "Da lunedì 9 marzo manutenzioni stradali in via San Domenico e strade limitrofe: previste modifiche alla viabilità",
+    "link": "https://www.comune.torino.it/novita/comunicati/lunedi-9-marzo-manutenzioni-stradali-via-san-domenico-strade-limitrofe-previste",
+    "descrizione": "Verranno realizzati interventi di manutenzione straordinaria su carreggiate e marciapiedi in alcune vie cittadine.",
+    "data": "2026-03-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "506e4fecb40b",
+    "titolo": "Semaforo antismog: da domani, sabato 7 marzo, scatta il livello 2 (rosso)",
+    "link": "https://www.comune.torino.it/novita/comunicati/semaforo-antismog-domani-sabato-7-marzo-scatta-livello-2-rosso",
+    "descrizione": "Da sabato 7 marzo e fino a lunedì 9 marzo compreso le misure di limitazione del traffico passeranno al livello 2 (rosso).",
+    "data": "2026-03-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "555d21abdcce",
+    "titolo": "Giovani, si ampliano le opportunità di protagonismo. Al lavoro per nuovi spazi e progetti in città",
+    "link": "https://www.comune.torino.it/novita/comunicati/giovani-si-ampliano-opportunita-protagonismo-al-lavoro-per-nuovi-spazi-progetti",
+    "descrizione": "La disponibilità manifestata apre la possibilità di avviare un percorso che consenta di valorizzare pienamente il progetto Ferrucci Hub.",
+    "data": "2026-03-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e21dbfbe22f8",
+    "titolo": "Just The Woman I Am, domenica 8 marzo la corsa-camminata non competitiva. Il percorso e le modifiche viabili",
+    "link": "https://www.comune.torino.it/novita/comunicati/just-the-woman-am-domenica-8-marzo-corsa-camminata-non-competitiva-percorso",
+    "descrizione": "Just The Woman I Am, domenica 8 marzo la corsa-camminata non competitiva. Il percorso e le modifiche viabili.",
+    "data": "2026-03-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
   },
   {
     "id": "5d9334359829",
@@ -80,6 +700,66 @@
     "colore": "#2563eb"
   },
   {
+    "id": "f606fbf8e961",
+    "titolo": "Polizia Locale, fermato un autista abusivo fuori da una discoteca",
+    "link": "https://www.comune.torino.it/novita/comunicati/polizia-locale-fermato-un-autista-abusivo-fuori-una-discoteca",
+    "descrizione": "È stato fermato dalla Polizia Locale dopo aver preso a bordo due ragazze e sanzionato per l'esercizio abusivo dell'attività di noleggio con conducente.",
+    "data": "2026-03-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3d425e88bb3d",
+    "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita in occasione di concerti, eventi - calendario eventi marzo 2026",
+    "link": "https://www.comune.torino.it/novita/avvisi/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per",
+    "descrizione": "Integrazione calendario eventi marzo 2026: aggiunta nuova data dell'artista Gigi D'Alessio",
+    "data": "2026-03-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "2445fc0a1b95",
+    "titolo": "Borgo San Paolo, nuovo edificio residenziale e aree verdi in via Issiglio",
+    "link": "https://www.comune.torino.it/novita/comunicati/borgo-san-paolo-nuovo-edificio-residenziale-aree-verdi-via-issiglio",
+    "descrizione": "Nuovo intervento di riconversione edilizia a pochi passi dal grattacielo Lancia, nel quartiere San Paolo.",
+    "data": "2026-03-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3924004ec1e1",
+    "titolo": "Concerto di Giorgia (13 marzo 2026) - aggiornamento modalità di rilascio delle concessioni temporanee",
+    "link": "https://www.comune.torino.it/novita/avvisi/concerto-giorgia-13-marzo-2026-aggiornamento-modalita-rilascio-delle-concessioni",
+    "descrizione": "Importante aggiornamento circa le modalità di rilascio delle concessioni temporanee in occasione del concerto dell'artista presso l'Inalpi Arena.",
+    "data": "2026-03-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d1449c6ed09b",
+    "titolo": "\"Intrepide\", storie e volti di donne a Palazzo Civico",
+    "link": "https://www.comune.torino.it/novita/comunicati/intrepide-storie-volti-donne-palazzo-civico",
+    "descrizione": "Resterà aperta sino al 13 marzo la mostra fotografica \"Intrepide\", con gli scatti di Marjan Moghaddam, presentata stamattina a Palazzo Civico",
+    "data": "2026-03-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "73d4b7b0054e",
+    "titolo": "Coabitazioni solidali rinnovate per 5 anni. I giovani condividono spazi e momenti di vita in 15 alloggi di proprietà pubblica",
+    "link": "https://www.comune.torino.it/novita/comunicati/coabitazioni-solidali-rinnovate-per-5-anni-giovani-condividono-spazi-momenti",
+    "descrizione": "Maggiore coesione e integrazione sociale. Questi i principali obiettivi della delibera presentata dall’Assessore Jacopo Rosatelli e approvata questa mattina.",
+    "data": "2026-03-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "8c596ef83a34",
     "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
@@ -88,6 +768,16 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
+  },
+  {
+    "id": "ba33cfcb6bba",
+    "titolo": "Una nuova vita per il Parco Europa: approvate le linee guida per valorizzarne le potenzialità culturali, sociali, economiche e turistiche",
+    "link": "https://www.comune.torino.it/novita/comunicati/una-nuova-vita-per-parco-europa-approvate-linee-guida-per-valorizzarne",
+    "descrizione": "L’obiettivo è attivare un percorso strutturato di rigenerazione urbana, in sinergia con soggetti pubblici e privati.",
+    "data": "2026-03-03T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
   },
   {
     "id": "7859a7d2a53c",
@@ -328,6 +1018,26 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
+  },
+  {
+    "id": "16aba4000ceb",
+    "titolo": "Giovani Escursioni",
+    "link": "https://www.comune.torino.it/novita/notizie/giovani-escursioni",
+    "descrizione": "Incontri divulgativi online aperti alla cittadinanza su temi inerenti il rapporto tra genitori e figli adolescenti.",
+    "data": "2026-02-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "80e737f3abc9",
+    "titolo": "Aggiornamento mappe del rischio alluvioni: le disposizioni dell’Autorità di bacino del Po",
+    "link": "https://www.comune.torino.it/novita/notizie/aggiornamento-mappe-rischio-alluvioni-disposizioni-dellautorita-bacino-po",
+    "descrizione": "Il progetto è disponibile al pubblico ai fini della consultazione e per la presentazione di eventuali osservazioni da parte degli interessati.",
+    "data": "2026-02-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
   },
   {
     "id": "8ea7abe4877f",

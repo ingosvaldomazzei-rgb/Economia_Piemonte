@@ -20,7 +20,7 @@ from lxml import etree
 sys.path.insert(0, os.path.dirname(__file__))
 from config import DATA_DIR, RSS_FEEDS
 
-MAX_NOTIZIE = 100
+MAX_NOTIZIE = 200
 REQUEST_TIMEOUT = 30
 
 # Namespace comuni nei feed RSS

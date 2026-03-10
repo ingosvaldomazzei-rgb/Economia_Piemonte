@@ -29,6 +29,46 @@ RSS_FEEDS = [
         'nome': 'ARPA Piemonte',
         'url': 'https://www.arpa.piemonte.it/rss.xml',
         'colore': '#16a34a'
+    },
+    {
+        'id': 'comune_torino',
+        'nome': 'Comune di Torino',
+        'url': 'https://www.comune.torino.it/novita/rss.xml',
+        'colore': '#dc2626'
+    },
+    {
+        'id': 'torinoclick',
+        'nome': 'TorinoClick',
+        'url': 'https://www.torinoclick.it/feed/',
+        'colore': '#ea580c'
+    },
+    {
+        'id': 'quotidiano_piemontese',
+        'nome': 'Quotidiano Piemontese',
+        'url': 'https://www.quotidianopiemontese.it/feed/',
+        'colore': '#0891b2'
+    }
+]
+
+# Fonti senza RSS (scraping)
+SCRAPE_SOURCES = [
+    {
+        'id': 'ires',
+        'nome': 'IRES Piemonte',
+        'urls': [
+            'https://www.ires.piemonte.it/categorie/news/',
+            'https://www.ires.piemonte.it/ultime-pubblicazioni/',
+        ],
+        'colore': '#6366f1'
+    },
+    {
+        'id': 'unioncamere',
+        'nome': 'Unioncamere Piemonte',
+        'urls': [
+            'https://pie.camcom.it/notizie',
+            'https://pie.camcom.it/comunicazione-e-stampa/comunicati-stampa',
+        ],
+        'colore': '#ca8a04'
     }
 ]
 
@@ -154,6 +194,25 @@ TEMA_KEYWORDS = {
         'gap salariale', 'conciliazione', 'diritti civili', 'lgbtq'
     ]
 }
+
+# Pesi per le fonti nel calcolo rilevanza briefing
+# Fonti istituzionali primarie pesano di più
+FONTE_WEIGHTS = {
+    'regione': 3,
+    'consiglio': 3,
+    'comune_torino': 2,
+    'torinoclick': 2,
+    'arpa': 2,
+    'ires': 2,
+    'unioncamere': 2,
+    'quotidiano_piemontese': 1,
+}
+
+# Temi "caldi" che pesano di più nel briefing
+TEMI_CALDI = [
+    'sanita-regionale', 'bilancio-regionale', 'lavoro-occupazione',
+    'crisi-automotive', 'fondi-europei'
+]
 
 # Stazioni ARPA per monitoraggio qualita aria
 ARPA_STAZIONI = [

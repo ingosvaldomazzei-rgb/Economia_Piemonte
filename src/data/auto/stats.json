@@ -1,51 +1,55 @@
 {
-  "totale_notizie": 53,
+  "totale_notizie": 124,
   "notizie_per_fonte": {
+    "unioncamere": 16,
+    "quotidiano_piemontese": 20,
+    "torinoclick": 10,
+    "comune_torino": 25,
     "regione": 33,
     "consiglio": 10,
     "arpa": 10
   },
   "temi_attivi": [
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 10
-    },
-    {
       "tema": "cultura-beni-culturali",
-      "conteggio": 8
-    },
-    {
-      "tema": "ambiente-qualita-aria",
-      "conteggio": 8
-    },
-    {
-      "tema": "sanita-regionale",
-      "conteggio": 6
+      "conteggio": 19
     },
     {
       "tema": "agricoltura",
-      "conteggio": 6
+      "conteggio": 12
+    },
+    {
+      "tema": "sanita-regionale",
+      "conteggio": 12
+    },
+    {
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 11
+    },
+    {
+      "tema": "ambiente-qualita-aria",
+      "conteggio": 11
     },
     {
       "tema": "attivita-produttive",
-      "conteggio": 4
-    },
-    {
-      "tema": "fondi-europei",
-      "conteggio": 3
-    },
-    {
-      "tema": "lavoro-occupazione",
-      "conteggio": 3
+      "conteggio": 10
     },
     {
       "tema": "sport",
-      "conteggio": 2
+      "conteggio": 9
     },
     {
-      "tema": "turismo",
-      "conteggio": 2
+      "tema": "fondi-europei",
+      "conteggio": 9
+    },
+    {
+      "tema": "lavoro-occupazione",
+      "conteggio": 8
+    },
+    {
+      "tema": "universita-ricerca",
+      "conteggio": 6
     }
   ],
-  "totale_temi_con_notizie": 22
+  "totale_temi_con_notizie": 25
 }
