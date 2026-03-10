@@ -1,1 +1,181 @@
-[]
+[
+  {
+    "titolo": "Briefing Settimanale",
+    "data_inizio": "3 marzo 2026",
+    "data_fine": "10 marzo 2026",
+    "data_inizio_iso": "2026-03-03T14:59:18.745346+00:00",
+    "data_fine_iso": "2026-03-10T14:59:18.745346+00:00",
+    "generato_il": "2026-03-10T14:59:18.745444+00:00",
+    "generato_il_it": "10/03/2026 ore 14:59",
+    "temi": [
+      {
+        "slug": "sanita-regionale",
+        "label": "Sanita",
+        "icon": "heart",
+        "notizie": [
+          {
+            "id": "e2f3d2783813",
+            "titolo": "Gli ospedali piemontesi recuperano 45 posizioni nella classifica di Newsweek",
+            "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-ospedali-piemontesi-recuperano-45-posizioni-nella-classifica-newsweek",
+            "descrizione": "Gli ospedali piemontesi salgono nella classifica «World’s Best Hospitals 2026», la graduatoria stilata ogni anno da Newsweek insieme alla società di analisi dati Statista sulla base delle opinioni di…",
+            "data": "2026-03-09T19:12:51+01:00",
+            "fonte": "Regione Piemonte",
+            "fonte_id": "regione",
+            "score": 7.5
+          },
+          {
+            "id": "35f336f4cbf1",
+            "titolo": "Torino esprime solidarietà al popolo cubano: approvata in Consiglio Comunale la mozione contro l’embargo petrolifero",
+            "link": "https://www.comune.torino.it/novita/comunicati/torino-esprime-solidarieta-al-popolo-cubano-approvata-consiglio-comunale-mozione-0",
+            "descrizione": "Oltre alla vicinanza al popolo cubano, la mozione prevede aiuti come atto di restituzione dopo l'intervento a Torino dei medici cubani, durante l'epidemia",
+            "data": "2026-03-09T12:00:00+00:00",
+            "fonte": "Comune di Torino",
+            "fonte_id": "comune_torino",
+            "score": 6.5
+          },
+          {
+            "id": "181f642621b2",
+            "titolo": "Torino esprime solidarietà al popolo cubano: approvata in Consiglio Comunale la mozione contro l’embargo petrolifero",
+            "link": "https://www.comune.torino.it/novita/comunicati/torino-esprime-solidarieta-al-popolo-cubano-approvata-consiglio-comunale-mozione",
+            "descrizione": "Oltre alla vicinanza al popolo cubano, il documento chiede raccolta di medicinali e altri aiuti, anche in cambio dell'aiuto medico ricevuto durante la pandemia",
+            "data": "2026-03-09T12:00:00+00:00",
+            "fonte": "Comune di Torino",
+            "fonte_id": "comune_torino",
+            "score": 6.5
+          },
+          {
+            "id": "fe0ad05c5970",
+            "titolo": "Ospedali piemontesi fuori dalla top ten nazionale nella classifica mondiale di Newsweek",
+            "link": "https://www.quotidianopiemontese.it/2026/03/09/ospedali-piemontesi-2026-qualita-cure/",
+            "descrizione": "Il miglior risultato regionale è quello dell’Azienda Ospedaliero-Universitaria Città della Salute e della Scienza di Torino – Molinette, che si colloca al 13° posto in Italia e al 221° nel mondo L'articolo Ospedali piemontesi fuori dalla top ten nazionale nella classifica mondiale di Newsweek proviene da Quotidiano Piemontese.",
+            "data": "2026-03-09T19:58:13+00:00",
+            "fonte": "Quotidiano Piemontese",
+            "fonte_id": "quotidiano_piemontese",
+            "score": 5.5
+          }
+        ]
+      },
+      {
+        "slug": "attivita-produttive",
+        "label": "Attivita Produttive",
+        "icon": "building",
+        "notizie": [
+          {
+            "id": "396e3cf651e7",
+            "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
+            "link": "https://pie.camcom.it/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
+            "descrizione": "",
+            "data": "2026-03-10T14:59:10.420234+00:00",
+            "fonte": "Unioncamere Piemonte",
+            "fonte_id": "unioncamere",
+            "score": 6.5
+          },
+          {
+            "id": "779c393fb0cd",
+            "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
+            "link": "https://pie.camcom.it/index.php/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
+            "descrizione": "Ven 05 Dic, 2025",
+            "data": "2026-03-10T14:59:07.277274+00:00",
+            "fonte": "Unioncamere Piemonte",
+            "fonte_id": "unioncamere",
+            "score": 6.5
+          }
+        ]
+      },
+      {
+        "slug": "bilancio-regionale",
+        "label": "Bilancio Regionale",
+        "icon": "banknotes",
+        "notizie": [
+          {
+            "id": "781ffead9831",
+            "titolo": "Nati-mortalità delle imprese: lievemente positivo il bilancio demografico nel 2025",
+            "link": "https://pie.camcom.it/notizie/nati-mortalita-delle-imprese-lievemente-positivo-il-bilancio-demografico-nel-2025",
+            "descrizione": "",
+            "data": "2026-03-10T14:59:10.419923+00:00",
+            "fonte": "Unioncamere Piemonte",
+            "fonte_id": "unioncamere",
+            "score": 6.5
+          },
+          {
+            "id": "0b3ed7158a10",
+            "titolo": "Nati-mortalità delle imprese: lievemente positivo il bilancio demografico nel 2025",
+            "link": "https://pie.camcom.it/index.php/notizie/nati-mortalita-delle-imprese-lievemente-positivo-il-bilancio-demografico-nel-2025",
+            "descrizione": "Ven 23 Gen, 2026",
+            "data": "2026-03-10T14:59:07.276828+00:00",
+            "fonte": "Unioncamere Piemonte",
+            "fonte_id": "unioncamere",
+            "score": 6.5
+          }
+        ]
+      },
+      {
+        "slug": "enti-locali-piccoli-comuni",
+        "label": "Enti Locali",
+        "icon": "newspaper",
+        "notizie": [
+          {
+            "id": "878cc21e2f8f",
+            "titolo": "Parte la firma degli accordi di programma dei Fondi di Sviluppo e Coesione",
+            "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parte-firma-degli-accordi-programma-dei-fondi-sviluppo-coesione",
+            "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di programma, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione sono pronti per essere sottoscritti con gli 805 Comuni beneficiari…",
+            "data": "2026-03-10T10:53:21+01:00",
+            "fonte": "Regione Piemonte",
+            "fonte_id": "regione",
+            "score": 6.5
+          }
+        ]
+      },
+      {
+        "slug": "agricoltura",
+        "label": "Agricoltura",
+        "icon": "newspaper",
+        "notizie": [
+          {
+            "id": "d275f0fdc828",
+            "titolo": "La marea rosa della Just The Woman I Am attraversa Torino",
+            "link": "https://www.torinoclick.it/sport/la-marea-rosa-della-just-the-woman-i-am-attraversa-torino/",
+            "descrizione": "Una vera e propria marea rosa quella che ha attraversato oggi Torino per l’edizione 2026 della Just The Woman I Am, la camminata corsa non competitiva a sostegno della ricerca universitaria sul cancro.Complice la bella giornata di sole ha quest’anno l’iniziativa ha coinvolto migliaia di partecipanti confermando la sua capacità di unire sport, solidarietà e impegno per la parità di genere.",
+            "data": "2026-03-08T20:45:43+00:00",
+            "fonte": "TorinoClick",
+            "fonte_id": "torinoclick",
+            "score": 6.5
+          }
+        ]
+      }
+    ],
+    "statistiche": {
+      "totale_notizie": 77,
+      "per_fonte": {
+        "Comune di Torino": 22,
+        "Quotidiano Piemontese": 20,
+        "Unioncamere Piemonte": 16,
+        "TorinoClick": 10,
+        "Regione Piemonte": 9
+      },
+      "per_tema": {
+        "Altro": 25,
+        "Cultura & Beni Culturali": 12,
+        "Attivita Produttive": 8,
+        "Sport": 8,
+        "Fondi Europei & PNRR": 8,
+        "Sanita": 8,
+        "Lavoro & Occupazione": 6,
+        "Agricoltura": 6,
+        "Universita & Ricerca": 6,
+        "Enti Locali": 4,
+        "Ambiente & Qualita Aria": 4,
+        "Bilancio Regionale": 3,
+        "Trasporti & Mobilita": 3,
+        "Giovani": 3,
+        "Sociale & Welfare": 3,
+        "Energia": 2,
+        "Commercio & Artigianato": 2,
+        "Edilizia & Opere Pubbliche": 2,
+        "Pianificazione Territoriale": 1,
+        "Istruzione & Formazione": 1,
+        "Turismo": 1
+      }
+    }
+  }
+]
