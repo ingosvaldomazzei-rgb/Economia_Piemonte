@@ -1,5 +1,85 @@
 [
   {
+    "id": "32807360227f",
+    "titolo": "Operativa entro il 2026 la gran parte di case e ospedali di comunità",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/operativa-entro-2026-gran-parte-case-ospedali-comunita",
+    "descrizione": "Prosegue l’attuazione della nuova rete di sanità territoriale prevista dal Pnrr. Rispondendo ad alcuni “question time” in Consiglio regionale, l’assessore alla Sanità Federico Riboldi ha ribadito che «49 case di comunità saranno operative entro maggio e…",
+    "data": "2026-03-10T18:52:31+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "1f9e3ea26460",
+    "titolo": "In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/lavori-sanita-piemonte-pnrr-riboldi/",
+    "descrizione": "Riboldi: «Il lavoro è in costante confronto con i Ministeri e con un monitoraggio da parte delle Aziende sanitarie, per il rispetto dei target del PNRR» L'articolo In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T18:16:51+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "b891ff0eec04",
+    "titolo": "Torino candidata a Capitale della Cultura 2033, il sindaco Lo Russo: «Stiamo costruendo il dossier, giochiamo per vincere»",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/torino-capitale-cultura-2033-lo-russo/",
+    "descrizione": "Nel frattempo proseguono i lavori lungo l'asse del Po: in ultimazione il parco del Valentino L'articolo Torino candidata a Capitale della Cultura 2033, il sindaco Lo Russo: «Stiamo costruendo il dossier, giochiamo per vincere» proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T17:44:17+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "a1baff6ce495",
+    "titolo": "Il Piemonte al Mipim 2026: oltre 6 milioni di metri quadri di opportunità. Riflettori puntati anche sul Piano Regolatore della Città di Torino",
+    "link": "https://www.torinoclick.it/territorio/il-piemonte-al-mipim-2026-oltre-6-milioni-di-metri-quadri-di-opportunita-riflettori-puntati-anche-sul-piano-regolatore-della-citta-di-torino/",
+    "descrizione": "Il Piemonte è al MIPIM di Cannes (9-13 marzo 2026), il principale appuntamento internazionale dedicato al real estate e alla trasformazione urbana, che riunisce ogni anno oltre 20mila delegati da circa 90 Paesi e punto di incontro tra capitali, visioni di sviluppo e progettualità territoriali. La partecipazione è organizzata da Ceipiemonte nell’ambito del Progetto Attrazione Investimenti promosso da Regione Piemonte e dal Sistema Camerale piemontese, del Progetto Integrato di Filiera (PIF) “Clea",
+    "data": "2026-03-10T16:42:02+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "6eb99110c45c",
+    "titolo": "Il Piemonte al MIPIM 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-mipim-2026",
+    "descrizione": "Al MIPIM di Cannes, il principale appuntamento internazionale dedicato al settore immobiliare e alla trasformazione urbana, il Piemonte offre oltre 6,5 milioni di metri quadri di opportunità agli investitori internazionali e…",
+    "data": "2026-03-10T16:31:35+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "c89d88d3f85b",
+    "titolo": "Torino, nell’area della Piscina Sempione sarà realizzato un nuovo complesso sportivo",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/torino-nellarea-della-piscina-sempione-sara-realizzato-un-nuovo-complesso-sportivo/",
+    "descrizione": "Si va verso la riqualificazione di un’area che attualmente versa in condizioni di forte degrado L'articolo Torino, nell’area della Piscina Sempione sarà realizzato un nuovo complesso sportivo proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T16:09:52+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "3b8e06467c09",
+    "titolo": "Rosario Berardi, il maresciallo ucciso dalle Brigate Rosse, ricordato dalla Città",
+    "link": "https://www.torinoclick.it/sicurezza/rosario-berardi-il-maresciallo-ucciso-dalle-brigate-rosse-ricordato-dalla-citta/",
+    "descrizione": "La Città ha reso omaggio, questa mattina, al maresciallo di Pubblica Sicurezza Rosario Berardi, ucciso dalle Brigate Rosse 48 anni fa, nella sede della Congregazione delle Suore Carmelitane di Santa Teresa di corso Farini, a due passi da Largo Berardi, luogo dell’uccisione del maresciallo. L’Assessore alla Sicurezza Marco Porcedda, insieme al Vice Presidente Vicario della Sala Rossa, Domenico Garcea, in rappresentanza della Città, hanno voluto sottolineare come la figura di Berardi sia patrimoni",
+    "data": "2026-03-10T15:52:25+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "e9365438dd51",
+    "titolo": "Il sindaco Lo Russo a Roma per l’incontro con il Coni: sul tavolo la candidatura di Torino alle Olimpiadi 2030",
+    "link": "https://www.quotidianopiemontese.it/2026/03/10/il-sindaco-lo-russo-a-roma-per-lincontro-con-il-coni-sul-tavolo-la-candidatura-di-torino-alle-olimpiadi-2030/",
+    "descrizione": "Torino in competizione con l'Olanda L'articolo Il sindaco Lo Russo a Roma per l’incontro con il Coni: sul tavolo la candidatura di Torino alle Olimpiadi 2030 proviene da Quotidiano Piemontese.",
+    "data": "2026-03-10T15:36:01+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
     "id": "a37e3b2db131",
     "titolo": "Transizione energetica cresce la spinta delle imprese piemontesi: quasi un'azienda manifatturiera su tre è già attiva  o pronta a investire",
     "link": "https://pie.camcom.it/notizie/transizione-energetica-cresce-la-spinta-delle-imprese-piemontesi-quasi-unazienda-manifatturiera-su",
