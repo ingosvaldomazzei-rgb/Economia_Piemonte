@@ -1,0 +1,15 @@
+{
+  "titolo": "Briefing Settimanale",
+  "data_inizio": "",
+  "data_fine": "",
+  "data_inizio_iso": "",
+  "data_fine_iso": "",
+  "generato_il": "",
+  "generato_il_it": "",
+  "temi": [],
+  "statistiche": {
+    "totale_notizie": 0,
+    "per_fonte": {},
+    "per_tema": {}
+  }
+}
