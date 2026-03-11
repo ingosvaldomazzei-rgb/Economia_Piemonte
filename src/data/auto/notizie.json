@@ -1,5 +1,45 @@
 [
   {
+    "id": "ef9524fe4a78",
+    "titolo": "Torino omaggia Gipo Farassino con una targa commemorativa sulla sua casa natale di via Cuneo 6",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-omaggia-gipo-farassino-una-targa-commemorativa-sulla-sua-casa-natale-via",
+    "descrizione": "Celebrato l'artista di Barriera di Miliano che ha lasciato un patrimonio di cultura capace di unire la città",
+    "data": "2026-03-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "855f2564d74f",
+    "titolo": "Servizio Civile all'Ufficio Beni comuni",
+    "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-allufficio-beni-comuni",
+    "descrizione": "Aperto il bando per il Servizio Civile Universale 2026",
+    "data": "2026-03-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3b8a487cb33c",
+    "titolo": "Concerti di OLLY (18 MARZO 2026), UMBERTO TOZZI (19 MARZO 2026), ANDRE' RIEU (20 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+    "link": "https://www.comune.torino.it/novita/notizie/concerti-olly-18-marzo-2026-umberto-tozzi-19-marzo-2026-andre-rieu-20-marzo-2026",
+    "descrizione": "Convocazione per LUNEDI' 16 MARZO ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali.",
+    "data": "2026-03-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "02c2483a154e",
+    "titolo": "Maltempo aprile 2025, dal Governo altri 45 milioni per il Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aprile-2025-dal-governo-altri-45-milioni-per-piemonte",
+    "descrizione": "Altri 45 milioni dal Governo al Piemonte per far fronte ai danni causati dall’evento alluvionale che ha colpito il territorio tra il 15 e il 17 aprile 2025. Come anticipato dall’assessore regionale alle Infrastrutture e Opere pubbliche Marco…",
+    "data": "2026-03-11T11:34:49+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "ecd38da57761",
     "titolo": "Il TGV arriva in Italia, nuove tratte alta velocità da Torino a Venezia e Roma",
     "link": "https://www.quotidianopiemontese.it/2026/03/11/nuovo-operatore-alta-velocita-torino-milano-roma-2027/",

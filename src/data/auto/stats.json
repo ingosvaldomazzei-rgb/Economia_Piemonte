@@ -1,11 +1,11 @@
 {
-  "totale_notizie": 138,
+  "totale_notizie": 142,
   "notizie_per_fonte": {
+    "comune_torino": 28,
+    "regione": 36,
     "quotidiano_piemontese": 30,
-    "regione": 35,
     "torinoclick": 12,
     "unioncamere": 16,
-    "comune_torino": 25,
     "consiglio": 10,
     "arpa": 10
   },
@@ -20,22 +20,22 @@
     },
     {
       "tema": "agricoltura",
+      "conteggio": 14
+    },
+    {
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 13
+    },
+    {
+      "tema": "fondi-europei",
+      "conteggio": 12
     },
     {
       "tema": "ambiente-qualita-aria",
       "conteggio": 12
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 12
-    },
-    {
       "tema": "lavoro-occupazione",
-      "conteggio": 11
-    },
-    {
-      "tema": "fondi-europei",
       "conteggio": 11
     },
     {
