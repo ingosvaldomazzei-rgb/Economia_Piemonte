@@ -1,21 +1,21 @@
 {
-  "totale_notizie": 195,
+  "totale_notizie": 200,
   "notizie_per_fonte": {
-    "quotidiano_piemontese": 67,
-    "comune_torino": 30,
-    "regione": 40,
-    "torinoclick": 22,
+    "regione": 41,
+    "quotidiano_piemontese": 75,
+    "torinoclick": 24,
+    "comune_torino": 31,
     "unioncamere": 16,
     "consiglio": 10,
-    "arpa": 10
+    "arpa": 3
   },
   "temi_attivi": [
     {
-      "tema": "cultura-beni-culturali",
+      "tema": "sanita-regionale",
       "conteggio": 20
     },
     {
-      "tema": "sanita-regionale",
+      "tema": "cultura-beni-culturali",
       "conteggio": 20
     },
     {
@@ -23,20 +23,20 @@
       "conteggio": 17
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 15
-    },
-    {
       "tema": "agricoltura",
-      "conteggio": 15
+      "conteggio": 16
     },
     {
       "tema": "attivita-produttive",
-      "conteggio": 14
+      "conteggio": 15
     },
     {
       "tema": "fondi-europei",
-      "conteggio": 14
+      "conteggio": 15
+    },
+    {
+      "tema": "lavoro-occupazione",
+      "conteggio": 15
     },
     {
       "tema": "sport",
@@ -44,7 +44,7 @@
     },
     {
       "tema": "ambiente-qualita-aria",
-      "conteggio": 13
+      "conteggio": 9
     },
     {
       "tema": "universita-ricerca",
