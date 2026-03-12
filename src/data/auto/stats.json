@@ -1,8 +1,8 @@
 {
-  "totale_notizie": 174,
+  "totale_notizie": 179,
   "notizie_per_fonte": {
-    "quotidiano_piemontese": 50,
-    "torinoclick": 21,
+    "quotidiano_piemontese": 54,
+    "torinoclick": 22,
     "regione": 38,
     "comune_torino": 29,
     "unioncamere": 16,
@@ -16,11 +16,15 @@
     },
     {
       "tema": "sanita-regionale",
-      "conteggio": 19
+      "conteggio": 20
     },
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 15
+      "conteggio": 16
+    },
+    {
+      "tema": "sport",
+      "conteggio": 14
     },
     {
       "tema": "agricoltura",
@@ -41,10 +45,6 @@
     {
       "tema": "fondi-europei",
       "conteggio": 13
-    },
-    {
-      "tema": "sport",
-      "conteggio": 12
     },
     {
       "tema": "universita-ricerca",
