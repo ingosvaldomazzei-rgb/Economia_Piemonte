@@ -2,11 +2,11 @@
   "totale_notizie": 200,
   "notizie_per_fonte": {
     "regione": 41,
-    "quotidiano_piemontese": 79,
+    "quotidiano_piemontese": 81,
     "torinoclick": 25,
     "comune_torino": 31,
     "unioncamere": 16,
-    "consiglio": 8
+    "consiglio": 6
   },
   "temi_attivi": [
     {
@@ -18,15 +18,15 @@
       "conteggio": 20
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 17
-    },
-    {
       "tema": "agricoltura",
       "conteggio": 16
     },
     {
       "tema": "attivita-produttive",
+      "conteggio": 16
+    },
+    {
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 16
     },
     {
