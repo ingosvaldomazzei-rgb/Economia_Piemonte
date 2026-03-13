@@ -1,5 +1,5 @@
 """
-Scarica e unifica le notizie dai 3 feed RSS istituzionali.
+Scarica e unifica le notizie dai feed RSS istituzionali configurati.
 
 Output: src/data/auto/notizie.json
 """
