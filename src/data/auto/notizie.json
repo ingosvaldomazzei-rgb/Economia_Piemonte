@@ -1,5 +1,95 @@
 [
   {
+    "id": "2edc01cba66c",
+    "titolo": "36 nuovi agenti di Polizia Locale prenderanno servizio in Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/36-nuovi-agenti-polizia-locale-prenderanno-servizio-piemonte",
+    "descrizione": "Al Teatro Alessandrino di Alessandria il 13 marzo si è tenuta la cerimonia conclusiva del 99° Corso Regionale di Formazione per Agenti di Polizia Locale, promosso dalla Regione Piemonte in collaborazione con la Città di Alessandria. Al…",
+    "data": "2026-03-13T13:47:55+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "76e79d438316",
+    "titolo": "Maltempo in Piemonte nel weekend: allerta gialla per neve e valanghe",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/allerta-meteo-piemonte-neve-piogge-valanghe/",
+    "descrizione": "La comunicazione di ARPA Piemonte: in arrivo piogge forti, neve fino a 500 metri e rischio valanghe soprattutto a nord L'articolo Maltempo in Piemonte nel weekend: allerta gialla per neve e valanghe proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T12:56:55+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "5335e6e3d422",
+    "titolo": "“Unit* contro le Mafie”: l’iniziativa di UniTo per il contrasto alla criminalità organizzata",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/unito-contro-mafie-incontro-torino-legalita/",
+    "descrizione": "A pochi giorni dal 21 marzo, \"Giornata nazionale della memoria e dell’impegno in ricordo delle vittime innocenti delle mafie\", l'iniziativa di UniTo L'articolo “Unit* contro le Mafie”: l’iniziativa di UniTo per il contrasto alla criminalità organizzata proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T12:46:41+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "495c081ec5d8",
+    "titolo": "Parco nazionale del Gran Paradiso, insediato il nuovo Direttivo",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/parco-nazionale-gran-paradiso-insediato-nuovo-direttivo/",
+    "descrizione": "Resta in carica per cinque anni e ha il compito di definire l'indirizzo programmatico del Parco e gestirne le attività L'articolo Parco nazionale del Gran Paradiso, insediato il nuovo Direttivo proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T12:25:46+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "65914cca9d58",
+    "titolo": "Finto carabiniere truffa una novantenne nel Biellese: arrestato un 37enne, recuperati gioielli e contanti",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/truffa-finto-carabiniere-biellese-arrestato-37enne/",
+    "descrizione": "L’anziana era stata convinta di essere collegata in videoconferenza con un magistrato, un ulteriore stratagemma per tenerla occupata mentre il falso carabiniere lasciava l’abitazione con il bottino L'articolo Finto carabiniere truffa una novantenne nel Biellese: arrestato un 37enne, recuperati gioielli e contanti proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T11:57:44+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "168303084a53",
+    "titolo": "Smog, fino a lunedì 16 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+    "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-16-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+    "descrizione": "Prosegue fino a lunedì 16 marzo compreso – prossimo giorno di controllo – l’applicazione delle sole misure strutturali di limitazione al traffico: sulla base dei dati previsionali sulla qualità dell’aria forniti oggi da Arpa Piemonte è stato infatti confermato il livello 0 (bianco) delle misure antismog.",
+    "data": "2026-03-13T11:30:14+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "79337cb38014",
+    "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
+    "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
+    "descrizione": "Le disuguaglianze attraversano la nostra società in ogni aspetto della vita quotidiana, dal lavoro alla scuola, dalla casa all’accesso alla tecnologia, influenzando profondamente le condizioni di vita e le opportunità delle persone. Per analizzarle e individuare possibili soluzioni torna a Torino, dal 16 al 20 marzo, la ‘Settimana del Lavoro’.",
+    "data": "2026-03-13T11:19:19+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "26b832f1da6e",
+    "titolo": "Mostra fotografica “L’eredità di Falcone e Borsellino”",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/mostra-fotografica-leredita-di-falcone-e-borsellino/",
+    "descrizione": "In occasione della Giornata contro le mafie che si celebra il 21 marzo, il Consiglio regionale del Piemonte ospita fino al 31 marzo la mostra itinerante “L’eredità di Falcone e Borsellino” nell’atrio di Palazzo Lascaris, in via Alfieri 15 a Torino. I pannelli bilingue, realizzati dai giornalisti Ansa Sicilia Franco Nuccio e Francesco Nicastro, in collaborazione con la Fondazione […] L'articolo Mostra fotografica “L’eredità di Falcone e Borsellino” proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T10:53:31+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "57bfac214d2a",
+    "titolo": "Giovani e violenza a Torino: non è un’emergenza di numeri, ma di “armi”. L’analisi del rapporto Save the Children",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/violenza-giovanile-torino-analisi/",
+    "descrizione": "I dati del dossier \"(Dis)armati\" scattano una fotografia nitida della realtà subalpina: calano le \"baby gang\" strutturate, ma cresce l’uso di coltelli e la rabbia tra i giovanissimi L'articolo Giovani e violenza a Torino: non è un’emergenza di numeri, ma di “armi”. L’analisi del rapporto Save the Children proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T10:19:55+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
     "id": "e2a697846627",
     "titolo": "Violenza di genere: dal Governo quasi 7 milioni di nuove risorse",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/violenza-genere-dal-governo-quasi-7-milioni-nuove-risorse",
@@ -8,6 +98,76 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
+  },
+  {
+    "id": "b5d7db845374",
+    "titolo": "Leonardo e il Piemonte: un motore di crescita tra difesa, aerospazio, cybersicurezza e intelligenza artificiale",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/leonardo-piemonte-difesa-aerospazio-ai/",
+    "descrizione": "Solo quest’anno l’azienda ha assunto 400 nuove persone, 800 dal 2024 L'articolo Leonardo e il Piemonte: un motore di crescita tra difesa, aerospazio, cybersicurezza e intelligenza artificiale proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T09:28:57+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "bd9aaf5c099f",
+    "titolo": "In vendita a Superga la villa che fu del Senatore Agnelli",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/villa-storica-superga-torino-sothebys/",
+    "descrizione": "In vendita alla modica cifra di 1.750.000 euro L'articolo In vendita a Superga la villa che fu del Senatore Agnelli proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T09:04:33+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "fc18c0c79483",
+    "titolo": "Reale Mutua Fenera Chieri ’76 sbanca Dresda e mette un piede nella finale di Coppa CEV",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/chieri-76-batte-dresda-semifinale-cev/",
+    "descrizione": "Il ritorno mercoledì a Torino L'articolo Reale Mutua Fenera Chieri ’76 sbanca Dresda e mette un piede nella finale di Coppa CEV proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T08:40:33+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "bb183f70e905",
+    "titolo": "Venaria Reale, avanti i lavori per il nuovo ponte sul Ceronda: varo delle travi e modifiche alla viabilità",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/nuovo-ponte-ceronda-venaria-lavori/",
+    "descrizione": "Le operazioni sono destinate a proseguire nei prossimi giorni con il varo della campata sul lato della Reggia di Venaria L'articolo Venaria Reale, avanti i lavori per il nuovo ponte sul Ceronda: varo delle travi e modifiche alla viabilità proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T08:13:12+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "8894a00e84cb",
+    "titolo": "Arriva sul Piemonte la più intensa perturbazione degli ultimi 5 mesi: tornano neve abbondante e pioggia",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/maltempo-piemonte-piogge-neve-weekend-marzo/",
+    "descrizione": "L’evento porterà anche la nevicata più abbondante della stagione sulle montagne dell’alto Piemonte, in particolare a nord del Gran Paradiso L'articolo Arriva sul Piemonte la più intensa perturbazione degli ultimi 5 mesi: tornano neve abbondante e pioggia proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T07:24:25+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "34c628f084ef",
+    "titolo": "Martina Tammaro racconta come sopravvivere Quando dentro piove",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/martina-tammaro-quando-dentro-piove-libro-depressione-intervista/",
+    "descrizione": "L'intervista con l'autrice, che racconta la fine del suo amore con Erika e la lotta alla depressione L'articolo Martina Tammaro racconta come sopravvivere Quando dentro piove proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T07:10:16+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
+  },
+  {
+    "id": "7bdf01411b84",
+    "titolo": "Si schianta con l’auto contro un mezzo di pulizia strade, morto a Villar Dora",
+    "link": "https://www.quotidianopiemontese.it/2026/03/13/incidente-villar-dora-morto-55-anni-auto-mezzo-pulizia-strade/",
+    "descrizione": "C'è anche un ferito L'articolo Si schianta con l’auto contro un mezzo di pulizia strade, morto a Villar Dora proviene da Quotidiano Piemontese.",
+    "data": "2026-03-13T06:59:48+00:00",
+    "fonte": "Quotidiano Piemontese",
+    "fonte_id": "quotidiano_piemontese",
+    "colore": "#0891b2"
   },
   {
     "id": "cbfd147943ee",
@@ -430,6 +590,16 @@
     "colore": "#2563eb"
   },
   {
+    "id": "6b354d940f54",
+    "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+    "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di collaborazione, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione, hanno iniziato ad essere sottoscritti con gli 805 Comuni…",
+    "data": "2026-03-11T17:53:21+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "da872e4b1a03",
     "titolo": "Accuse e difese al processo per i lavori vicino al ghiacciaio del Monte Rosa",
     "link": "https://www.quotidianopiemontese.it/2026/03/11/processo-lavori-ghiacciaio-macugnaga-ex-sindaco/",
@@ -543,7 +713,7 @@
     "id": "b9b65a529707",
     "titolo": "Festival della Felicità 2026, la terza edizione dal 13 al 17 marzo",
     "link": "https://www.torinoclick.it/societa/festival-della-felicita-2026-la-terza-edizione-dal-13-al-17-marzo/",
-    "descrizione": "Il Festival della Felicità arriva a Torino per la sua terza edizione, da venerdì 13 a domenica 17 marzo, con appuntamenti in piazza, negli ospedali e nelle carceri, oltre a uno show di chiusura all’Inalpi Arena. La manifestazione è realizzata con il Patrocinio di Regione Piemonte, Città di Torino, Città Metropolitana di Torino, Politecnico di Torino, Università di Torino, in collaborazione con il Consiglio Regionale del Piemonte e grazie al supporto di Generali Italia.",
+    "descrizione": "Il Festival della Felicità arriva a Torino per la sua terza edizione, da venerdì 13 a martedì 17 marzo, con appuntamenti in piazza, negli ospedali e nelle carceri, oltre a uno show di chiusura all’Inalpi Arena. La manifestazione è realizzata con il Patrocinio di Regione Piemonte, Città di Torino, Città Metropolitana di Torino, Politecnico di Torino, Università di Torino, in collaborazione con il Consiglio Regionale del Piemonte e grazie al supporto di Generali Italia.",
     "data": "2026-03-11T15:08:46+00:00",
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
@@ -1828,175 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "b8a442a320ef",
-    "titolo": "Autonomia differenziata: via libera del Consiglio dei ministri alle intese preliminari",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-via-libera-consiglio-dei-ministri-alle-intese-preliminari",
-    "descrizione": "Gli schemi di intesa preliminare sull’Autonomia differenziata tra il Governo e le Regioni Piemonte, Lombardia, Veneto e Liguria, che hanno avviato il negoziato con lo Stato, sono stati formalmente portati all’attenzione del Consiglio dei ministri…",
-    "data": "2026-02-18T19:05:44+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "c742e6f2901f",
-    "titolo": "Peste suina: il modello del Piemonte esempio per l’Europa",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-modello-piemonte-esempio-per-leuropa",
-    "descrizione": "La situazione nella lotta alla peste suina in Piemonte è stata analizzata nel corso di un incontro che il commissario straordinario Giovanni Filippini ha avuto al Grattacielo della Regione con l’assessore all’Agricoltura Paolo Bongioanni e le strutture coinvolte…",
-    "data": "2026-02-18T18:22:37+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "250a75067f2c",
-    "titolo": "Ritornano i contributi per i terreni del tartufo bianco",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ritornano-contributi-per-terreni-tartufo-bianco",
-    "descrizione": "La Regione Piemonte continua a sostenere le attività di salvaguardia e potenziamento delle tartufaie naturali di tartufo bianco: le associazione dei cercatori, anche in forma associata con soggetti pubblici o privati, i proprietari o gestori di terreni agricoli e forestali dove è presente questa…",
-    "data": "2026-02-18T14:21:58+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "41b34ba63c0a",
-    "titolo": "Incendi boschivi, le attività di contrasto previste nel 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-attivita-contrasto-previste-nel-2026",
-    "descrizione": "Riunioni operative su base provinciale, esercitazioni, addestramenti congiunti e momenti formativi dedicati: sono le novità delle attività di contrasto agli incendi boschivi per il 2026 programmate dalla Regione Piemonte ed emerse nell’incontro operativo di coordinamento, ospitato nella…",
-    "data": "2026-02-17T14:24:22+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "7c20b1edb210",
-    "titolo": "Aggiornato il reperimento dei materiali per la Pedemontana",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aggiornato-reperimento-dei-materiali-per-pedemontana",
-    "descrizione": "Semaforo verde della Giunta regionale all’aggiornamento del Piano di reperimento e gestione dei materiali litoidi necessari alla realizzazione della Pedemontana piemontese, il collegamento tra l’A4 Torino-Milano (all’altezza di Santhià, Biella e Gattinara) e l’A26 Genova Voltri-…",
-    "data": "2026-02-17T09:57:11+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "d2fdbf6860dd",
-    "titolo": "I vincitori di “Scatta il tuo Natale” 2025",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vincitori-scatta-tuo-natale-2025",
-    "descrizione": "Proclamati dalla Regione i vincitori del concorso \"Scatta il tuo Natale\", promosso dall'Assessorato regionale all'Istruzione e Merito guidato dal vicepresidente Elena Chiorino. Tra le 43 scuole primarie che hanno aderito sono state premiate quelle di…",
-    "data": "2026-02-16T17:13:18+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "57b84066322a",
-    "titolo": "Verso l’abrogazione di 42 leggi regionali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/verso-labrogazione-42-leggi-regionali",
-    "descrizione": "Si intitola “Interventi di razionalizzazione dell’ordinamento giuridico regionale” il disegno di legge che la Giunta ha approvato per snellire e rendere più chiara l’intera normativa piemontese mediante l’abrogazione di leggi e disposizioni ormai superate, non più finanziate o…",
-    "data": "2026-02-16T16:17:40+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "b7800b4795bd",
-    "titolo": "Il vino piemontese pronto ad affrontare nuovi mercati",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-pronto-ad-affrontare-nuovi-mercati",
-    "descrizione": "Nuovo impegno della Regione verso il mondo vitivinicolo piemontese: uno stanziamento di 18,8 milioni di euro consentirà di sostenere i diversi attori della filiera nel realizzare investimenti per rafforzare il comparto e promuoverlo…",
-    "data": "2026-02-16T15:31:01+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a2747c17b0f9",
-    "titolo": "Le celebrazioni per il centenario della morte di Piero Gobetti",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/celebrazioni-per-centenario-della-morte-piero-gobetti",
-    "descrizione": "Aperte le celebrazioni del centenario della morte di Piero Gobetti nel corso di un evento svoltosi nel Teatro Carignano di Torino alla presenza del presidente della…",
-    "data": "2026-02-16T14:14:24+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "16aba4000ceb",
-    "titolo": "Giovani Escursioni",
-    "link": "https://www.comune.torino.it/novita/notizie/giovani-escursioni",
-    "descrizione": "Incontri divulgativi online aperti alla cittadinanza su temi inerenti il rapporto tra genitori e figli adolescenti.",
-    "data": "2026-02-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "80e737f3abc9",
-    "titolo": "Aggiornamento mappe del rischio alluvioni: le disposizioni dell’Autorità di bacino del Po",
-    "link": "https://www.comune.torino.it/novita/notizie/aggiornamento-mappe-rischio-alluvioni-disposizioni-dellautorita-bacino-po",
-    "descrizione": "Il progetto è disponibile al pubblico ai fini della consultazione e per la presentazione di eventuali osservazioni da parte degli interessati.",
-    "data": "2026-02-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8ea7abe4877f",
-    "titolo": "SPECIALE REFERENDUM 22-23 MARZO 2026",
-    "link": "https://www.cr.piemonte.it/cms/corecom/articoli/corecom/speciale-referendum-22-23-marzo-2026",
-    "descrizione": "Tipologia articolo Corecom Data pubblicazione 15 Gennaio 2026 Nel prossimo mese di marzo domenica 22 e lunedì 23 marzo 2026, si svolgeranno le consultazioni del referendum popolare confermativo della legge costituzionale denominata \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\", approvata dal Parlamento e pubblicata nella Gazzetta Ufficiale n.253 del 30 ottobre 2025 (GU n.10 del 14-1-2026) Elenchi Fornitori di servizi di media audiovisivi e radiofonic",
-    "data": "2026-01-15T12:58:03+00:00",
-    "fonte": "Consiglio Regionale",
-    "fonte_id": "consiglio",
-    "colore": "#7c3aed"
-  },
-  {
-    "id": "2e47afc83b36",
-    "titolo": "Misura la tua velocità di internet con Ne.Me.Sys",
-    "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/misura-la-tua-velocita-di-internet-con-nemesys-0",
-    "descrizione": "Tipologia articolo Comunicati stampa Materia Corecom Data pubblicazione 15 Gennaio 2026 Il software Ne.Me.Sys. è il programma ufficiale del progetto Misura Internet dell’Autorità per le Garanzie nelle Comunicazioni (AGCOM) per la misura certificata della qualità dell'accesso ad Internet da postazione fissa. Ne.Me.Sys. è l'unico software che consente di ottenere un certificato attestante la qualità della connessione. Le caratteristiche di Ne.Me.Sys. Ne.Me.Sys. è: gratuito; disponibile per tutti i",
-    "data": "2026-01-15T10:21:03+00:00",
-    "fonte": "Consiglio Regionale",
-    "fonte_id": "consiglio",
-    "colore": "#7c3aed"
-  },
-  {
-    "id": "7241ec417a18",
-    "titolo": "Relazione 2025 in materia di alfabetizzazione digitale e mediatica",
-    "link": "https://www.cr.piemonte.it/cms/corecom/articoli/notizie/relazione-2025-materia-di-alfabetizzazione-digitale-e-mediatica",
-    "descrizione": "Tipologia articolo Notizie Data pubblicazione 30 Dicembre 2025 Il Consiglio dell’Autorità ha approvato la relazione annuale di monitoraggio sull’attività di promozione e sulle misure di sviluppo dell’alfabetizzazione mediatica e digitale in Italia per il 2025, predisposta ai sensi dell’art. 4 comma 4 del Testo Unico dei Servizi Media Audiovisivi. In linea con le indicazioni contenute nelle apposite Linee guida della Commissione Europea, la relazione contiene l’analisi delle misure strategiche, l",
-    "data": "2025-12-30T10:51:20+00:00",
-    "fonte": "Consiglio Regionale",
-    "fonte_id": "consiglio",
-    "colore": "#7c3aed"
-  },
-  {
-    "id": "3751ea9d16cb",
-    "titolo": "Il Corecom Piemonte a Cuneo illustra le sue attività",
-    "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/il-corecom-piemonte-cuneo-illustra-le-sue-attivita",
-    "descrizione": "Tipologia articolo Comunicati stampa Data pubblicazione 19 Novembre 2025 Continua il tour del Corecom tra le provincie piemontesi. Mercoledì 19 novembre presso il Palazzo Municipale della Città di Cuneo, i componenti del Comitato regionale per le Comunicazioni hanno illustrato ad amministratori, enti ed associazioni, le numerose attività che l’organo svolge da oltre 20 anni. Istituito presso il Consiglio regionale del Piemonte, il Corecom esercita funzioni di governo, di garanzia e di controllo ",
-    "data": "2025-11-19T15:14:06+00:00",
-    "fonte": "Consiglio Regionale",
-    "fonte_id": "consiglio",
-    "colore": "#7c3aed"
-  },
-  {
-    "id": "20b7132930de",
-    "titolo": "Problemi con l’operatore telefonico? Rivolgiti al Corecom Piemonte",
-    "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-loperatore-telefonico-rivolgiti-al-corecom-piemonte",
-    "descrizione": "Tipologia articolo Comunicati stampa Data pubblicazione 23 Ottobre 2025 Hai un problema con il tuo operatore telefonico? Nessun problema, puoi presentare sulla piattaforma ConciliaWeb una domanda di conciliazione, uno strumento di risoluzione delle controversie tra utenti e operatori delle comunicazioni elettroniche (telefonia mobile e fissa, internet) basato su una procedura nel corso della quale, alla presenza di un soggetto neutrale (il conciliatore), le parti cercano di trovare un componimen",
-    "data": "2025-10-23T08:49:37+00:00",
-    "fonte": "Consiglio Regionale",
-    "fonte_id": "consiglio",
-    "colore": "#7c3aed"
-  },
-  {
-    "id": "350de9ef0699",
-    "titolo": "Comunicazioni fraudolente rimborso AGCOM per disservizi telefonici",
-    "link": "https://www.cr.piemonte.it/cms/corecom/articoli/notizie/comunicazioni-fraudolente-rimborso-agcom-disservizi-telefonici",
-    "descrizione": "Tipologia articolo Notizie Data pubblicazione 23 Ottobre 2025 L’Autorità per le Garanzie nelle Comunicazioni mette in guardia cittadini ed utenti dai rischi connessi a comunicazioni fraudolente, recapitate via posta elettronica, che, a nome di AGCOM, promettono lauti rimborsi “per i danni derivanti da attivazioni di servizi di telefonia non richiesti o non utilizzati”. Nelle finte comunicazioni, “per procedere alla chiusura definitiva della pratica” e procedere al rimborso si richiede il pagamen",
-    "data": "2025-10-23T08:31:32+00:00",
-    "fonte": "Consiglio Regionale",
-    "fonte_id": "consiglio",
-    "colore": "#7c3aed"
   }
 ]
