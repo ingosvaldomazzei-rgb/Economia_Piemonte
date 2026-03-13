@@ -16,6 +16,26 @@ sys.path.insert(0, os.path.dirname(__file__))
 from config import DATA_DIR, FONTE_WEIGHTS, TEMA_KEYWORDS, TEMI_CALDI
 
 
+FONTE_TIER = {
+    'regione': 'istituzionale-primaria',
+    'consiglio': 'istituzionale-primaria',
+    'consiglio_sedute': 'istituzionale-primaria',
+    'arpa': 'istituzionale-secondaria',
+    'comune_torino': 'ente-locale',
+    'torinoclick': 'ente-locale',
+    'ires': 'ente-tecnico',
+    'unioncamere': 'ente-tecnico',
+}
+
+TIER_LABELS = {
+    'istituzionale-primaria': 'Istituzionale primaria',
+    'istituzionale-secondaria': 'Ente tecnico regionale',
+    'ente-locale': 'Ente locale',
+    'ente-tecnico': 'Ente tecnico/economico',
+    'altro': 'Altra fonte',
+}
+
+
 def get_week_range():
     """Calcola inizio e fine della settimana corrente (lunedì-domenica)."""
     now = datetime.now(timezone.utc)
@@ -34,6 +54,45 @@ def classify_notizia(notizia):
                 temi.append(tema)
                 break
     return temi
+
+
+
+
+def classify_source_tier(fonte_id):
+    """Classifica la fonte per affidabilità istituzionale."""
+    return FONTE_TIER.get(fonte_id, 'altro')
+
+
+def compute_institutional_impact(notizia, temi):
+    """Stima un punteggio di impatto istituzionale (0-10)."""
+    score = 0
+    fonte_id = notizia.get('fonte_id', '')
+    tier = classify_source_tier(fonte_id)
+
+    # 1) Peso istituzionale per tipologia fonte
+    if tier == 'istituzionale-primaria':
+        score += 5
+    elif tier == 'istituzionale-secondaria':
+        score += 4
+    elif tier == 'ente-locale':
+        score += 3
+    elif tier == 'ente-tecnico':
+        score += 3
+    else:
+        score += 1
+
+    # 2) Bonus per contenuti di processo istituzionale
+    testo = (notizia.get('titolo', '') + ' ' + notizia.get('descrizione', '')).lower()
+    if any(k in testo for k in ['seduta', 'resoconto', 'verbale', 'consiglio regionale', 'commissione']):
+        score += 3
+    if any(k in testo for k in ['delibera', 'mozione', 'interrogazione', 'ordine del giorno', 'proposta di legge']):
+        score += 2
+
+    # 3) Bonus leggero per temi caldi
+    if any(t in TEMI_CALDI for t in temi):
+        score += 1
+
+    return min(score, 10)
 
 
 def compute_relevance(notizia, temi, all_titles, now):
@@ -123,7 +182,9 @@ def generate_briefing_data(notizie, start_date, end_date):
     for i, n in enumerate(week_news):
         temi = classify_notizia(n)
         relevance = compute_relevance(n, temi, all_titles, now)
-        entry = {**n, '_score': relevance, '_temi': temi}
+        impact = compute_institutional_impact(n, temi)
+        tier = classify_source_tier(n.get('fonte_id', ''))
+        entry = {**n, '_score': relevance, '_temi': temi, '_institutional_impact': impact, '_source_tier': tier}
         scored_news.append(entry)
 
         if not temi:
@@ -215,8 +276,47 @@ def generate_briefing_data(notizie, start_date, end_date):
                 'fonte': n['fonte'],
                 'fonte_id': n['fonte_id'],
                 'score': round(n['_score'], 1),
+                'impatto_istituzionale': n['_institutional_impact'],
+                'source_tier': n['_source_tier'],
+                'source_tier_label': TIER_LABELS.get(n['_source_tier'], TIER_LABELS['altro']),
             } for n in news_list]
         })
+
+    # Sezione dedicata: atti e sedute del Consiglio
+    atti_sedute = []
+    atti_candidates = [
+        n for n in week_news
+        if n.get('fonte_id') in {'consiglio_sedute', 'consiglio'}
+        and any(k in (n.get('titolo', '').lower() + ' ' + n.get('descrizione', '').lower())
+                for k in ['seduta', 'resoconto', 'verbale', 'ordine del giorno', 'interrogazione', 'mozione'])
+    ]
+
+    def _safe_date(item):
+        try:
+            return datetime.fromisoformat(item.get('data', ''))
+        except (TypeError, ValueError):
+            return datetime.min
+
+    atti_candidates = sorted(atti_candidates, key=_safe_date, reverse=True)
+    seen_ids = set()
+    for n in atti_candidates:
+        if n.get('id') in seen_ids:
+            continue
+        seen_ids.add(n.get('id'))
+        tier = classify_source_tier(n.get('fonte_id', ''))
+        atti_sedute.append({
+            'id': n.get('id'),
+            'titolo': n.get('titolo'),
+            'link': n.get('link'),
+            'data': n.get('data'),
+            'fonte': n.get('fonte'),
+            'fonte_id': n.get('fonte_id'),
+            'source_tier': tier,
+            'source_tier_label': TIER_LABELS.get(tier, TIER_LABELS['altro']),
+            'impatto_istituzionale': compute_institutional_impact(n, classify_notizia(n)),
+        })
+        if len(atti_sedute) >= 8:
+            break
 
     # Statistiche
     per_fonte = Counter(n.get('fonte', 'Sconosciuto') for n in week_news)
@@ -240,10 +340,12 @@ def generate_briefing_data(notizie, start_date, end_date):
         'generato_il': now.isoformat(),
         'generato_il_it': now.strftime('%d/%m/%Y ore %H:%M'),
         'temi': temi_briefing,
+        'atti_sedute': atti_sedute,
         'statistiche': {
             'totale_notizie': len(week_news),
             'per_fonte': dict(per_fonte.most_common()),
             'per_tema': dict(sorted(per_tema_count.items(), key=lambda x: x[1], reverse=True)),
+            'per_tier_fonte': dict(Counter(TIER_LABELS.get(classify_source_tier(n.get('fonte_id', '')), TIER_LABELS['altro']) for n in week_news).most_common()),
         }
     }
 
@@ -296,7 +398,8 @@ def main():
             'generato_il': datetime.now(timezone.utc).isoformat(),
             'generato_il_it': datetime.now(timezone.utc).strftime('%d/%m/%Y ore %H:%M'),
             'temi': [],
-            'statistiche': {'totale_notizie': 0, 'per_fonte': {}, 'per_tema': {}}
+            'atti_sedute': [],
+            'statistiche': {'totale_notizie': 0, 'per_fonte': {}, 'per_tema': {}, 'per_tier_fonte': {}}
         }
 
     # Salva briefing corrente

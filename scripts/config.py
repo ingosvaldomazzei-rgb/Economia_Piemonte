@@ -41,12 +41,6 @@ RSS_FEEDS = [
         'nome': 'TorinoClick',
         'url': 'https://www.torinoclick.it/feed/',
         'colore': '#ea580c'
-    },
-    {
-        'id': 'quotidiano_piemontese',
-        'nome': 'Quotidiano Piemontese',
-        'url': 'https://www.quotidianopiemontese.it/feed/',
-        'colore': '#0891b2'
     }
 ]
 
@@ -69,6 +63,14 @@ SCRAPE_SOURCES = [
             'https://pie.camcom.it/comunicazione-e-stampa/comunicati-stampa',
         ],
         'colore': '#ca8a04'
+    },
+    {
+        'id': 'consiglio_sedute',
+        'nome': 'Resoconti sedute Consiglio Regionale',
+        'urls': [
+            'https://www.cr.piemonte.it/seduteconsiglio/appl/search/index.php',
+        ],
+        'colore': '#4f46e5'
     }
 ]
 
@@ -205,7 +207,7 @@ FONTE_WEIGHTS = {
     'arpa': 2,
     'ires': 2,
     'unioncamere': 2,
-    'quotidiano_piemontese': 1,
+    'consiglio_sedute': 3,
 }
 
 # Temi "caldi" che pesano di più nel briefing
