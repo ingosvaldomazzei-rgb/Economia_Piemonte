@@ -2,12 +2,11 @@
   "totale_notizie": 200,
   "notizie_per_fonte": {
     "regione": 41,
-    "quotidiano_piemontese": 75,
-    "torinoclick": 24,
+    "quotidiano_piemontese": 79,
+    "torinoclick": 25,
     "comune_torino": 31,
     "unioncamere": 16,
-    "consiglio": 10,
-    "arpa": 3
+    "consiglio": 8
   },
   "temi_attivi": [
     {
@@ -28,7 +27,7 @@
     },
     {
       "tema": "attivita-produttive",
-      "conteggio": 15
+      "conteggio": 16
     },
     {
       "tema": "fondi-europei",
@@ -43,13 +42,13 @@
       "conteggio": 14
     },
     {
-      "tema": "ambiente-qualita-aria",
+      "tema": "universita-ricerca",
       "conteggio": 9
     },
     {
-      "tema": "universita-ricerca",
+      "tema": "ambiente-qualita-aria",
       "conteggio": 8
     }
   ],
-  "totale_temi_con_notizie": 26
+  "totale_temi_con_notizie": 27
 }
