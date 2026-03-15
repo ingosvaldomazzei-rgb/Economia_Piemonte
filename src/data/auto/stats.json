@@ -1,20 +1,24 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 33,
+    "torinoclick": 30,
+    "regione": 31,
     "quotidiano_piemontese": 94,
-    "torinoclick": 28,
     "comune_torino": 29,
     "unioncamere": 16
   },
   "temi_attivi": [
     {
+      "tema": "sanita-regionale",
+      "conteggio": 20
+    },
+    {
       "tema": "cultura-beni-culturali",
       "conteggio": 20
     },
     {
-      "tema": "sanita-regionale",
-      "conteggio": 20
+      "tema": "lavoro-occupazione",
+      "conteggio": 16
     },
     {
       "tema": "fondi-europei",
@@ -22,10 +26,6 @@
     },
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 15
-    },
-    {
-      "tema": "lavoro-occupazione",
       "conteggio": 15
     },
     {

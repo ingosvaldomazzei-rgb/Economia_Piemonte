@@ -1,5 +1,25 @@
 [
   {
+    "id": "6f3546b5eb74",
+    "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
+    "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
+    "descrizione": "Si è svolta questa mattina al Teatro Alfieri la tradizionale festa dedicata ai valori del lavoro e dell’impegno professionale organizzata dalla Camera di commercio di Torino. Il presidente Massimiliano Cipolletta ha consegnato il 49° Premio “Torinese dell’Anno” alla professoressa Franca Fagioli, direttrice del Dipartimento di Patologia e Cura del Bambino dell’Ospedale Infantile Regina Margherita di Torino. “Alla sua dedizione e caparbietà – ha detto il presidente dell’ente camerale nel consegnar",
+    "data": "2026-03-15T11:20:34+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "bd57249923b3",
+    "titolo": "Torino tra i Comuni “Plastic Free 2026”",
+    "link": "https://www.torinoclick.it/economia/torino-tra-i-comuni-plastic-free-2026/",
+    "descrizione": "C’è anche Torino tra i Comuni italiani premiati con il riconoscimento “Plastic Free 2026”, assegnato dall’associazione Plastic Free Onlus alle amministrazioni che si distinguono per l’impegno nella riduzione dell’inquinamento da plastica e nella promozione di buone pratiche ambientali.",
+    "data": "2026-03-14T16:14:00+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
     "id": "2edc01cba66c",
     "titolo": "36 nuovi agenti di Polizia Locale prenderanno servizio in Piemonte",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/36-nuovi-agenti-polizia-locale-prenderanno-servizio-piemonte",
@@ -1975,26 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-confindustria-piemonte-insieme-sostegno-della-crescita",
     "descrizione": "L’annuale vertice bilaterale ha visto Regione e Confindustria Piemonte concordare di rispondere ad fase geopolitica complessa come quella attuale rafforzando la programmazione ed hanno aggiornato gli impegni per il 2026 partendo dall’analisi dei risultati…",
     "data": "2026-02-23T18:50:48+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "8afee01421cd",
-    "titolo": "Con GreenUP Piemonte 31 città coinvolte nella rigenerazione ambientale urbana",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/greenup-piemonte-31-citta-coinvolte-nella-rigenerazione-ambientale-urbana",
-    "descrizione": "Sono 31 i Comuni piemontesi coinvolti in GreenUP, il progetto presentato presso il Grattacielo Piemonte e promosso da Fondazione Agrion e Regione Piemonte insieme a Legambiente Piemonte e Valle d’Aosta e ANCI Piemonte e con la collaborazione…",
-    "data": "2026-02-23T16:28:56+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "f685853a5b43",
-    "titolo": "Disabilità: in un anno seguite 340 situazioni",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/disabilita-un-anno-seguite-340-situazioni",
-    "descrizione": "Sono state 340 le situazioni di persone con disabilità seguite in un anno da Massimiliano Caramazza, che il presidente della Regione Alberto Cirio ha voluto nel suo staff come collaboratore per affrontare i temi della disabilità e le difficoltà…",
-    "data": "2026-02-23T10:47:21+01:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
