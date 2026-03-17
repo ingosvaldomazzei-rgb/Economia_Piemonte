@@ -119,14 +119,72 @@
       "data": "2026-03-04T17:33:33+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    }
+  ],
+  "ambiente-qualita-aria": [
+    {
+      "id": "a47e8450ec77",
+      "titolo": "Smog, fino a mercoledì 18 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-mercoledi-18-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-16T13:22:00+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
     },
     {
-      "id": "ffef2c9d110d",
-      "titolo": "Tre nuovi centri antiviolenza e 10 sportelli territoriali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tre-nuovi-centri-antiviolenza-10-sportelli-territoriali",
-      "data": "2026-02-26T19:12:50+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
+      "id": "bd57249923b3",
+      "titolo": "Torino tra i Comuni “Plastic Free 2026”",
+      "link": "https://www.torinoclick.it/economia/torino-tra-i-comuni-plastic-free-2026/",
+      "data": "2026-03-14T16:14:00+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "168303084a53",
+      "titolo": "Smog, fino a lunedì 16 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-16-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-13T11:30:14+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "eb7b5b70bbe2",
+      "titolo": "Smog, fino a venerdì 13 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-venerdi-13-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-11T16:07:13+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "93e2a944ec1c",
+      "titolo": "Preoccupano i tagli del Governo sui fondi anti-inquinamento: il confronto in Consiglio regionale",
+      "link": "https://www.quotidianopiemontese.it/2026/03/10/consiglio-regionale-tagli-aria-governo/",
+      "data": "2026-03-10T21:38:29+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "4aecfdf3f268",
+      "titolo": "Semaforo antismog: da domani, martedì 10 marzo, torna il livello 0 (bianco)",
+      "link": "https://www.comune.torino.it/novita/comunicati/semaforo-antismog-domani-martedi-10-marzo-torna-livello-0-bianco",
+      "data": "2026-03-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f07b2f93f45d",
+      "titolo": "Semaforo antismog: da domani, martedì 10 marzo, torna il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/semaforo-antismog-da-domani-martedi-10-marzo-torna-il-livello-0-bianco/",
+      "data": "2026-03-09T11:37:54+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "506e4fecb40b",
+      "titolo": "Semaforo antismog: da domani, sabato 7 marzo, scatta il livello 2 (rosso)",
+      "link": "https://www.comune.torino.it/novita/comunicati/semaforo-antismog-domani-sabato-7-marzo-scatta-livello-2-rosso",
+      "data": "2026-03-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     }
   ],
   "cultura-beni-culturali": [
@@ -551,14 +609,6 @@
       "data": "2026-03-04T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fd99031fec9d",
-      "titolo": "Il fondo sanitario integrato con 203 milioni per servizi aggiuntivi e assunzioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondo-sanitario-integrato-203-milioni-per-servizi-aggiuntivi-assunzioni",
-      "data": "2026-03-02T18:45:47+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "pianificazione-territoriale": [
@@ -609,14 +659,6 @@
       "data": "2026-03-10T13:42:29+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "ba33cfcb6bba",
-      "titolo": "Una nuova vita per il Parco Europa: approvate le linee guida per valorizzarne le potenzialità culturali, sociali, economiche e turistiche",
-      "link": "https://www.comune.torino.it/novita/comunicati/una-nuova-vita-per-parco-europa-approvate-linee-guida-per-valorizzarne",
-      "data": "2026-03-03T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "sanita-regionale": [
@@ -781,72 +823,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "ambiente-qualita-aria": [
-    {
-      "id": "bd57249923b3",
-      "titolo": "Torino tra i Comuni “Plastic Free 2026”",
-      "link": "https://www.torinoclick.it/economia/torino-tra-i-comuni-plastic-free-2026/",
-      "data": "2026-03-14T16:14:00+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "168303084a53",
-      "titolo": "Smog, fino a lunedì 16 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-16-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-      "data": "2026-03-13T11:30:14+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "eb7b5b70bbe2",
-      "titolo": "Smog, fino a venerdì 13 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-venerdi-13-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-      "data": "2026-03-11T16:07:13+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "93e2a944ec1c",
-      "titolo": "Preoccupano i tagli del Governo sui fondi anti-inquinamento: il confronto in Consiglio regionale",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/consiglio-regionale-tagli-aria-governo/",
-      "data": "2026-03-10T21:38:29+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "4aecfdf3f268",
-      "titolo": "Semaforo antismog: da domani, martedì 10 marzo, torna il livello 0 (bianco)",
-      "link": "https://www.comune.torino.it/novita/comunicati/semaforo-antismog-domani-martedi-10-marzo-torna-livello-0-bianco",
-      "data": "2026-03-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f07b2f93f45d",
-      "titolo": "Semaforo antismog: da domani, martedì 10 marzo, torna il livello 0 (bianco)",
-      "link": "https://www.torinoclick.it/trasporti/semaforo-antismog-da-domani-martedi-10-marzo-torna-il-livello-0-bianco/",
-      "data": "2026-03-09T11:37:54+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "506e4fecb40b",
-      "titolo": "Semaforo antismog: da domani, sabato 7 marzo, scatta il livello 2 (rosso)",
-      "link": "https://www.comune.torino.it/novita/comunicati/semaforo-antismog-domani-sabato-7-marzo-scatta-livello-2-rosso",
-      "data": "2026-03-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8c596ef83a34",
-      "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
-      "data": "2026-03-03T16:13:17+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "enti-locali-piccoli-comuni": [
     {
       "id": "bd57249923b3",
@@ -977,14 +953,6 @@
       "data": "2026-03-12T13:50:57+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    },
-    {
-      "id": "8c596ef83a34",
-      "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
-      "data": "2026-03-03T16:13:17+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "montagna": [
@@ -1277,14 +1245,6 @@
       "data": "2026-03-07T14:03:42+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    },
-    {
-      "id": "fd99031fec9d",
-      "titolo": "Il fondo sanitario integrato con 203 milioni per servizi aggiuntivi e assunzioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondo-sanitario-integrato-203-milioni-per-servizi-aggiuntivi-assunzioni",
-      "data": "2026-03-02T18:45:47+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "organizzazione-regionale": [
@@ -1399,14 +1359,6 @@
       "titolo": "Bando da 8 milioni per il welfare aziendale",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-8-milioni-per-welfare-aziendale",
       "data": "2026-03-06T14:16:49+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8c596ef83a34",
-      "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
-      "data": "2026-03-03T16:13:17+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }

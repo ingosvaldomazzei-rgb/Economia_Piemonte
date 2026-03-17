@@ -1,5 +1,75 @@
 [
   {
+    "id": "96a3f31f0cea",
+    "titolo": "I 165 anni dell’Unità d’Italia che uniscono le nuove generazioni. Questa mattina la cerimonia per la Giornata dell’Unità Nazionale",
+    "link": "https://www.torinoclick.it/torinese/i-165-anni-dellunita-ditalia-che-uniscono-le-nuove-generazioni-questa-mattina-la-cerimonia-per-la-giornata-dellunita-nazionale/",
+    "descrizione": "“L’Italia è diventata la mia seconda casa e sento che i valori della Costituzione sono la base del nostro futuro”. Si è aperta così, con le parole del tredicenne, di origini egiziane, Eyad Eldisouky, sindaco del Consiglio comunale dei ragazzi, la Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera, nel 165° anniversario dell’Unità d’Italia, proclamata il 17 marzo 1861 a Torino e celebrata, questa mattina, in piazza Carlo Emanuele II.",
+    "data": "2026-03-17T13:08:48+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "3db17fafb7ce",
+    "titolo": "La Regione finanzia 241 nuovi progetti per l’irrigazione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-finanzia-241-nuovi-progetti-per-lirrigazione",
+    "descrizione": "Dalle cisterne e vasche di stoccaggio di acqua piovana all’impermeabilizzazione dei canali per ridurre la dispersione, dalle centraline di misurazione di portata ai meccanismi di erogazione: sono solo alcuni degli obiettivi che si pongono i 241 progetti che la Regione finanzia…",
+    "data": "2026-03-17T12:21:58+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "266144f8c6a4",
+    "titolo": "Referendum costituzionale 22 e 23 marzo 2026: informazioni utili, dati e numeri della macchina comunale",
+    "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-22-e-23-marzo-2026-informazioni-utili-dati-e-numeri-della-macchina-comunale/",
+    "descrizione": "Domenica 22 e lunedì 23 marzo 2026 i cittadini italiani sono chiamati alle urne per il referendum popolare confermativo della Legge costituzionale concernente “Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare”. I seggi saranno aperti domenica dalle ore 7 alle 23 e lunedì dalle ore 7 alle ore 15. Le operazioni di scrutinio inizieranno alle ore 15 di lunedì 23 marzo.",
+    "data": "2026-03-17T12:16:45+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "d64ade70b95d",
+    "titolo": "Referendum costituzionale del 22 e 23 marzo 2026. Informazioni utili, dati e numeri della macchina organizzativa comunale",
+    "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-22-23-marzo-2026-informazioni-utili-dati-numeri-della",
+    "descrizione": "Domenica 22 e lunedì 23 marzo 2026 i cittadini italiani sono chiamati alle urne per il referendum popolare confermativo.",
+    "data": "2026-03-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3f8111f3a2e2",
+    "titolo": "Garante diritti persone private della libertà - Pubblicazione Avviso contributi 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/garante-diritti-persone-private-della-liberta-pubblicazione-avviso-contributi",
+    "descrizione": "Sono aperti i termini per la presentazione di domande di contributo per progettualità da realizzare nell'anno 2026.",
+    "data": "2026-03-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "5309a5c02a9e",
+    "titolo": "Storie piccine 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/storie-piccine-2026",
+    "descrizione": "Una settimana di letture per i più piccoli nell’ambito del programma nazionale Nati per Leggere.",
+    "data": "2026-03-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e8b4415686a1",
+    "titolo": "Venaria Express: più corse e estensioni serali per ammirare i ciliegi in fiore alla Reggia",
+    "link": "https://www.torinoclick.it/trasporti/venaria-express-piu-corse-e-estensioni-serali-per-ammirare-i-ciliegi-in-fiore-alla-reggia/",
+    "descrizione": "Dal 21 marzo al 6 aprile, la Reggia di Venaria si tinge di rosa per la spettacolare fioritura dei ciliegi. Per l’occasione, il collegamento tra il centro di Torino e il complesso monumentale si rafforza: GTT potenzia il servizio del Venaria Express con corse diurne più frequenti e un’estensione straordinaria nelle ore serali, offrendo a cittadini e visitatori un’alternativa comoda e sostenibile all’auto privata.",
+    "data": "2026-03-17T11:18:45+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
     "id": "a140145b7ae7",
     "titolo": "“Semplifica Piemonte” per una Regione più moderna, snella e facile",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-per-una-regione-piu-moderna-snella-facile",
@@ -15,6 +85,16 @@
     "link": "https://www.torinoclick.it/trasporti/mercoledi-18-marzo-arrivo-alla-basilica-di-superga-della-corsa-ciclistica-milano-torino-previste-modifiche-viabili-e-deviazioni-del-trasporto-pubblico/",
     "descrizione": "La corsa ciclistica più antica del mondo, la Milano-Torino, torna con una nuova edizione mercoledì 18 marzo. Torino ospiterà l’arrivo alla Basilica di Superga, dopo una doppia salita al Colle.",
     "data": "2026-03-16T14:49:47+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "a47e8450ec77",
+    "titolo": "Smog, fino a mercoledì 18 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+    "link": "https://www.torinoclick.it/trasporti/smog-fino-a-mercoledi-18-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+    "descrizione": "Prosegue fino a mercoledì 18 marzo compreso – prossimo giorno di controllo – l’applicazione delle sole misure strutturali di limitazione al traffico: sulla base dei dati previsionali sulla qualità dell’aria forniti oggi da Arpa Piemonte è stato infatti confermato il livello 0 (bianco) delle misure antismog.",
+    "data": "2026-03-16T13:22:00+00:00",
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
@@ -1918,85 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "8c596ef83a34",
-    "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
-    "descrizione": "Innovazione, ambiente, cultura e turismo sono gli ambiti di applicazione dei 24 nuovi progetti finanziati dal Programma Interreg Francia-Italia Alcotra, che rafforzano la cooperazione tra i due…",
-    "data": "2026-03-03T16:13:17+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ba33cfcb6bba",
-    "titolo": "Una nuova vita per il Parco Europa: approvate le linee guida per valorizzarne le potenzialità culturali, sociali, economiche e turistiche",
-    "link": "https://www.comune.torino.it/novita/comunicati/una-nuova-vita-per-parco-europa-approvate-linee-guida-per-valorizzarne",
-    "descrizione": "L’obiettivo è attivare un percorso strutturato di rigenerazione urbana, in sinergia con soggetti pubblici e privati.",
-    "data": "2026-03-03T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7859a7d2a53c",
-    "titolo": "La Regione Piemonte entra in Federculture",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-entra-federculture",
-    "descrizione": "Rafforzare il sistema culturale e dare maggiore peso nazionale al Piemonte sono gli obiettivi che la Regione intende raggiungere entrando a far parte di Federculture. L’adesione alla federazione…",
-    "data": "2026-03-03T10:41:26+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "fd99031fec9d",
-    "titolo": "Il fondo sanitario integrato con 203 milioni per servizi aggiuntivi e assunzioni",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondo-sanitario-integrato-203-milioni-per-servizi-aggiuntivi-assunzioni",
-    "descrizione": "La Regione Piemonte ha deciso di integrare quest’anno con 203 milioni di euro le risorse del fondo sanitario nazionale approvando un disegno di legge che ora sarà sottoposto all’esame del Consiglio regionale. Si tratta di risorse che, come ogni anno, vengono …",
-    "data": "2026-03-02T18:45:47+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "5abfb53712cb",
-    "titolo": "Il Piemonte si è promosso a Sanremo nei giorni del Festival",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-si-promosso-sanremo-nei-giorni-festival",
-    "descrizione": "Da martedì 24 a sabato 28 febbraio, nei giorni del 76° Festival della Canzone italiana, il Piemonte è si raccontato a Sanremo con “Piemonte Is - Eccellenza Piemonte”.…",
-    "data": "2026-02-28T20:05:18+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "3817f4873835",
-    "titolo": "Donazioni e trapianti: il 2025 anno record",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/donazioni-trapianti-2025-anno-record",
-    "descrizione": "Il 2025 ha rappresentato un anno record per le donazioni e i trapianti di organi in Piemonte: le donazioni hanno raggiunto il secondo miglior risultato di sempre e hanno permesso di effettuare 536 trapianti, risultato a pari merito con il 2023,…",
-    "data": "2026-02-27T18:35:44+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "3c7fb196ed75",
-    "titolo": "Aerospazio: il Piemonte rafforza la propria rilevanza",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aerospazio-piemonte-rafforza-propria-rilevanza",
-    "descrizione": "Il Piemonte consolida sempre più il proprio ruolo di centro nazionale di riferimento dell’aerospazio. Il Rapporto “Cluster aerospaziale piemontese: caratteristiche e traiettorie di sviluppo”, realizzato da IRES Piemonte nell’ambito del servizio di…",
-    "data": "2026-02-27T18:24:18+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ffef2c9d110d",
-    "titolo": "Tre nuovi centri antiviolenza e 10 sportelli territoriali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tre-nuovi-centri-antiviolenza-10-sportelli-territoriali",
-    "descrizione": "La Regione accelera sulle politiche di contrasto alla violenza di genere: con un investimento complessivo di 360mila euro ha deciso di finanziare l’apertura di tre nuovi Centri antiviolenza a Torino, Romentino e Giaveno e dieci nuovi sportelli territoriali nelle…",
-    "data": "2026-02-26T19:12:50+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
