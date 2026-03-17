@@ -1,9 +1,9 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 27,
+    "regione": 26,
     "torinoclick": 31,
-    "comune_torino": 32,
+    "comune_torino": 33,
     "quotidiano_piemontese": 94,
     "unioncamere": 16
   },
@@ -17,11 +17,11 @@
       "conteggio": 20
     },
     {
-      "tema": "sport",
-      "conteggio": 16
+      "tema": "lavoro-occupazione",
+      "conteggio": 17
     },
     {
-      "tema": "lavoro-occupazione",
+      "tema": "sport",
       "conteggio": 16
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "tema": "ambiente-qualita-aria",
-      "conteggio": 9
+      "conteggio": 8
     }
   ],
   "totale_temi_con_notizie": 25

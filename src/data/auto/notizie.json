@@ -50,6 +50,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "aa8970f27ae0",
+    "titolo": "Il Consiglio comunale approva il progetto preliminare del nuovo Piano Regolatore",
+    "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-progetto-preliminare-nuovo-piano-regolatore",
+    "descrizione": "Con 24 voti a favore e 4 contrari, il Consiglio comunale ha approvato, dopo un serrato confronto, il progetto preliminare del nuovo Piano Regolatore Generale",
+    "data": "2026-03-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "6f3546b5eb74",
     "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
     "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
@@ -1985,16 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tre-nuovi-centri-antiviolenza-10-sportelli-territoriali",
     "descrizione": "La Regione accelera sulle politiche di contrasto alla violenza di genere: con un investimento complessivo di 360mila euro ha deciso di finanziare l’apertura di tre nuovi Centri antiviolenza a Torino, Romentino e Giaveno e dieci nuovi sportelli territoriali nelle…",
     "data": "2026-02-26T19:12:50+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "f49115a5f4d5",
-    "titolo": "Bonifica e messa in sicurezza di aree inquinate per 4,7 milioni",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bonifica-messa-sicurezza-aree-inquinate-per-47-milioni",
-    "descrizione": "Approvato dalla Giunta regionale del Piemonte su proposta dell’assessore all’Ambiente Matteo Marnati lo schema di atto integrativo per interventi di messa in sicurezza e bonifica di siti inquinati. «Si tratta di un passo fondamentale verso la tutela e la riqualificazione…",
-    "data": "2026-02-26T08:50:27+01:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
