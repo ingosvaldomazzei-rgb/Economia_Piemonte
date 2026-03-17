@@ -1,9 +1,39 @@
 [
   {
+    "id": "68b03c3b7a26",
+    "titolo": "I Subsonica festeggiano i 30 anni di attività con un nuovo album, un tour estivo e un programma di iniziative a Torino",
+    "link": "https://www.torinoclick.it/cultura/i-subsonica-festeggiano-i-30-anni-di-attivita-con-un-nuovo-album-un-tour-estivo-e-un-programma-di-iniziative-a-torino/",
+    "descrizione": "“Terre Rare” è il titolo del nuovo album dei Subsonica, undicesimo disco della band torinese, presentato questa mattina in conferenza stampa. Il gruppo celebra trent’anni di carriera con un programma di eventi nella città che li ha visti nascere, dal titolo “Cieli su Torino 96-26”, tra cui quattro concerti speciali alle OGR, tutti già sold out. I Subsonica saranno protagonisti anche quest’estate con il tour “Terre Rare 96-26”, al via dal 26 giugno nei principali festival italiani. Il programma d",
+    "data": "2026-03-17T16:16:24+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "c3fa31c5f44c",
+    "titolo": "Le scuole torinesi al Festival della Felicità",
+    "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
+    "descrizione": "Il sindaco Stefano Lo Russo e l’assessora alle Politiche Educative e Giovanili Carlotta Salerno hanno preso parte questa mattina all’Inalpi Arena ad uno degli eventi conclusi del Festival della Felicità. La mattinata, in particolare, è stata dedicata alle scuole. Insieme al fondatore del Festival Walter Rolfo sul palco si sono alternati il trasformista Arturo Brachetti e Mattia Villardita, noto come “Spider-Man” dei bambini per il suo impegno nei reparti pediatrici italiani. Con loro la divulgat",
+    "data": "2026-03-17T15:49:04+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "c2ad0e010d29",
+    "titolo": "L’assessore Carretta ha incontrato la campionessa mondiale di scherma paralimpica Andreea Mogos",
+    "link": "https://www.torinoclick.it/sport/lassessore-carretta-ha-incontrato-la-campionessa-mondiale-di-scherma-paralimpica-andreea-mogos/",
+    "descrizione": "Questo pomeriggio l’assessore allo Sport Domenico Carretta ha incontrato nel salone aulico dell’Assessorato la campionessa mondiale di fioretto paralimpico Andreea Mogos.",
+    "data": "2026-03-17T15:05:29+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
     "id": "96a3f31f0cea",
     "titolo": "I 165 anni dell’Unità d’Italia che uniscono le nuove generazioni. Questa mattina la cerimonia per la Giornata dell’Unità Nazionale",
     "link": "https://www.torinoclick.it/torinese/i-165-anni-dellunita-ditalia-che-uniscono-le-nuove-generazioni-questa-mattina-la-cerimonia-per-la-giornata-dellunita-nazionale/",
-    "descrizione": "“L’Italia è diventata la mia seconda casa e sento che i valori della Costituzione sono la base del nostro futuro”. Si è aperta così, con le parole del tredicenne, di origini egiziane, Eyad Eldisouky, sindaco del Consiglio comunale dei ragazzi, la Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera, nel 165° anniversario dell’Unità d’Italia, proclamata il 17 marzo 1861 a Torino e celebrata, questa mattina, in piazza Carlo Emanuele II.",
+    "descrizione": "“L’Italia è diventata la mia seconda casa e sento che i valori della Costituzione sono la base del nostro futuro”. Si è aperta così, con le parole del tredicenne, di origini egiziane, Eyad Eldisouky, sindaco del Consiglio comunale dei Ragazzi e delle Ragazze, la Giornata dell’Unità Nazionale, della Costituzione, dell’Inno e della Bandiera, nel 165° anniversario dell’Unità d’Italia, proclamata il 17 marzo 1861 a Torino e celebrata, questa mattina, in piazza Carlo Emanuele II.",
     "data": "2026-03-17T13:08:48+00:00",
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
@@ -1964,36 +1994,6 @@
     "titolo": "Borgo San Paolo, nuovo edificio residenziale e aree verdi in via Issiglio",
     "link": "https://www.comune.torino.it/novita/comunicati/borgo-san-paolo-nuovo-edificio-residenziale-aree-verdi-via-issiglio",
     "descrizione": "Nuovo intervento di riconversione edilizia a pochi passi dal grattacielo Lancia, nel quartiere San Paolo.",
-    "data": "2026-03-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "3924004ec1e1",
-    "titolo": "Concerto di Giorgia (13 marzo 2026) - aggiornamento modalità di rilascio delle concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/avvisi/concerto-giorgia-13-marzo-2026-aggiornamento-modalita-rilascio-delle-concessioni",
-    "descrizione": "Importante aggiornamento circa le modalità di rilascio delle concessioni temporanee in occasione del concerto dell'artista presso l'Inalpi Arena.",
-    "data": "2026-03-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d1449c6ed09b",
-    "titolo": "\"Intrepide\", storie e volti di donne a Palazzo Civico",
-    "link": "https://www.comune.torino.it/novita/comunicati/intrepide-storie-volti-donne-palazzo-civico",
-    "descrizione": "Resterà aperta sino al 13 marzo la mostra fotografica \"Intrepide\", con gli scatti di Marjan Moghaddam, presentata stamattina a Palazzo Civico",
-    "data": "2026-03-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "73d4b7b0054e",
-    "titolo": "Coabitazioni solidali rinnovate per 5 anni. I giovani condividono spazi e momenti di vita in 15 alloggi di proprietà pubblica",
-    "link": "https://www.comune.torino.it/novita/comunicati/coabitazioni-solidali-rinnovate-per-5-anni-giovani-condividono-spazi-momenti",
-    "descrizione": "Maggiore coesione e integrazione sociale. Questi i principali obiettivi della delibera presentata dall’Assessore Jacopo Rosatelli e approvata questa mattina.",
     "data": "2026-03-04T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
