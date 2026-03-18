@@ -1,5 +1,65 @@
 [
   {
+    "id": "c167efa28227",
+    "titolo": "Torino-Lione: insediato il Comitato di supporto della tratta nazionale",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-insediato-comitato-supporto-della-tratta-nazionale",
+    "descrizione": "Si è insediato oggi il Comitato di supporto alla realizzazione della nuova linea ferroviaria Torino-Lione tratta nazionale Avigliana-Orbassano. Questa prima seduta, dedicata al …",
+    "data": "2026-03-18T19:11:17+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "920e0ee4c78d",
+    "titolo": "Leggero aumento dei prezzi al consumo per l’intera collettività (Nic) a febbraio 2026",
+    "link": "https://www.torinoclick.it/societa/leggero-aumento-dei-prezzi-al-consumo-per-lintera-collettivita-nic-a-febbraio-2026/",
+    "descrizione": "Un aumento dello 0,5% rispetto al mese precedente e del +1,2% rispetto al mese di febbraio 2025. Questi i dati diffusi nel mese di febbraio 2026 a seguito della rilevazione dei prezzi effettuata dall’Ufficio di Statistica della Città. L’indice complessivo dei prezzi al consumo per l’intera collettività (NIC) è risultato pari al 100,9 (Base Anno 2025=100).",
+    "data": "2026-03-18T16:41:00+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "b209a0835f39",
+    "titolo": "Il 21 marzo la XXXI Giornata della memoria e dell’impegno in ricordo delle vittime innocenti delle mafie",
+    "link": "https://www.torinoclick.it/torinese/il-21-marzo-la-xxxi-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie/",
+    "descrizione": "I primi familiari arriveranno in aereo da Sicilia, Calabria e Puglia, in treno con partenza Napoli con Roma, Firenze, Bologna e Milano arriveranno gli altri familiari. La città di Torino è pronta ad accogliere in un grande abbraccio le centinaia di familiari di vittime innocenti provenienti da tutta Italia in occasione della 31ª Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie promossa da Libera, con il Patrocinio della Rai e della Città di Torino e sotto l’Al",
+    "data": "2026-03-18T15:29:24+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "c82cad4a63ba",
+    "titolo": "Sabato 21 marzo il corteo per la Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie, previste modifiche viabili",
+    "link": "https://www.torinoclick.it/trasporti/sabato-21-marzo-il-corteo-per-la-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie-previste-modifiche-viabili/",
+    "descrizione": "Sabato 21 marzo la Città di Torino ospiterà la 31ª Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie, promossa dall’associazione “Libera”. Per garantire il regolare svolgimento del corteo, saranno previsti alcuni provvedimenti viabili, che interesseranno le aree centrali della città.",
+    "data": "2026-03-18T15:26:24+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "ee101bd2305f",
+    "titolo": "Oggi Torino e l’amministrazione comunale ricordano le vittime del Bardo",
+    "link": "https://www.torinoclick.it/fotonotizia/oggi-torino-e-lamministrazione-comunale-ricordano-le-vittime-del-bardo/",
+    "descrizione": "Questa mattina piazza Palazzo di Città è piombata in un silenzio interrotto solo dalle note commemorative suonate da una tromba della banda della Polizia Locale. Il sindaco Stefano Lo Russo, insieme alla presidente del Consiglio Comunale Maria Grazia Grippo e ai consiglieri Claudio Cerrato e Pierino Crema, ha preso parte al ricordo delle vittime assassinate durante l’attentato al Museo del Bardo.",
+    "data": "2026-03-18T14:35:53+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "3a11b3c61b66",
+    "titolo": "Pasqua senza cantieri sulle autostrade piemontesi",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/pasqua-senza-cantieri-sulle-autostrade-piemontesi",
+    "descrizione": "Sospesi o ridotti i cantieri autostradali in vista dei ponti primaverili, da Pasqua, Festa della Liberazione, Primo maggio al ponte del 2 giugno. È questo l’obiettivo condiviso al tavolo di coordinamento promosso dalla Regione Piemonte, convocato dall’assessore regionale ai…",
+    "data": "2026-03-18T14:25:28+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "6b354d940f54",
     "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
@@ -1935,66 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/lunedi-9-marzo-manutenzioni-stradali-via-san-domenico-strade-limitrofe-previste",
     "descrizione": "Verranno realizzati interventi di manutenzione straordinaria su carreggiate e marciapiedi in alcune vie cittadine.",
     "data": "2026-03-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "506e4fecb40b",
-    "titolo": "Semaforo antismog: da domani, sabato 7 marzo, scatta il livello 2 (rosso)",
-    "link": "https://www.comune.torino.it/novita/comunicati/semaforo-antismog-domani-sabato-7-marzo-scatta-livello-2-rosso",
-    "descrizione": "Da sabato 7 marzo e fino a lunedì 9 marzo compreso le misure di limitazione del traffico passeranno al livello 2 (rosso).",
-    "data": "2026-03-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "555d21abdcce",
-    "titolo": "Giovani, si ampliano le opportunità di protagonismo. Al lavoro per nuovi spazi e progetti in città",
-    "link": "https://www.comune.torino.it/novita/comunicati/giovani-si-ampliano-opportunita-protagonismo-al-lavoro-per-nuovi-spazi-progetti",
-    "descrizione": "La disponibilità manifestata apre la possibilità di avviare un percorso che consenta di valorizzare pienamente il progetto Ferrucci Hub.",
-    "data": "2026-03-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e21dbfbe22f8",
-    "titolo": "Just The Woman I Am, domenica 8 marzo la corsa-camminata non competitiva. Il percorso e le modifiche viabili",
-    "link": "https://www.comune.torino.it/novita/comunicati/just-the-woman-am-domenica-8-marzo-corsa-camminata-non-competitiva-percorso",
-    "descrizione": "Just The Woman I Am, domenica 8 marzo la corsa-camminata non competitiva. Il percorso e le modifiche viabili.",
-    "data": "2026-03-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "5d9334359829",
-    "titolo": "41 nuovi capitreno in Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/41-nuovi-capitreno-piemonte",
-    "descrizione": "Quarantuno nuovi capitreno, pronti ad entrare in servizio sui convogli del Piemonte, hanno prestato giuramento oggi a Torino. Alla cerimonia, svoltasi nella Sala Colonne di Palazzo di città a Torino, hanno preso parte l’assessore ai Trasporti e alla viabilità…",
-    "data": "2026-03-04T17:33:33+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "77d4b4f9700b",
-    "titolo": "Focus sul progetto Esperti per il Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/focus-sul-progetto-esperti-per-piemonte",
-    "descrizione": "Il progetto 1000 Esperti, avviato nel 2022 dalla Regione Piemonte nell’ambito del Piano nazionale di ripresa e resilienza (Pnrr), ha coinvolto 111 amministrazioni piemontesi, tra Comuni, Province,…",
-    "data": "2026-03-04T14:46:58+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "f606fbf8e961",
-    "titolo": "Polizia Locale, fermato un autista abusivo fuori da una discoteca",
-    "link": "https://www.comune.torino.it/novita/comunicati/polizia-locale-fermato-un-autista-abusivo-fuori-una-discoteca",
-    "descrizione": "È stato fermato dalla Polizia Locale dopo aver preso a bordo due ragazze e sanzionato per l'esercizio abusivo dell'attività di noleggio con conducente.",
-    "data": "2026-03-04T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
