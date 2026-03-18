@@ -1,9 +1,9 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "torinoclick": 38,
     "regione": 20,
     "comune_torino": 32,
+    "torinoclick": 38,
     "quotidiano_piemontese": 94,
     "unioncamere": 16
   },
@@ -22,7 +22,7 @@
     },
     {
       "tema": "lavoro-occupazione",
-      "conteggio": 16
+      "conteggio": 15
     },
     {
       "tema": "enti-locali-piccoli-comuni",

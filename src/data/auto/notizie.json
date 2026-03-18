@@ -1,5 +1,35 @@
 [
   {
+    "id": "6b354d940f54",
+    "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+    "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di collaborazione, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione, hanno iniziato ad essere sottoscritti con gli 805 Comuni…",
+    "data": "2026-03-18T13:53:21+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "a030f17e2562",
+    "titolo": "Gruppo Genitorialmente Parlando",
+    "link": "https://www.comune.torino.it/novita/notizie/gruppo-genitorialmente-parlando",
+    "descrizione": "Percorso di gruppo per i genitori che stanno vivendo delle difficoltà nella gestione della relazione con i figli preadolescenti e adolescenti.",
+    "data": "2026-03-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "aab3cef83e28",
+    "titolo": "Nell’area dell’ex fonderia Roz un giardino e un nuovo edificio residenziale",
+    "link": "https://www.comune.torino.it/novita/notizie/nellarea-dellex-fonderia-roz-un-giardino-un-nuovo-edificio-residenziale",
+    "descrizione": "Intervento per una trasformazione dell’area con l’inserimento di nuove funzioni residenziali e la valorizzazione delle superfici a uso pubblico e del verde.",
+    "data": "2026-03-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "68b03c3b7a26",
     "titolo": "I Subsonica festeggiano i 30 anni di attività con un nuovo album, un tour estivo e un programma di iniziative a Torino",
     "link": "https://www.torinoclick.it/cultura/i-subsonica-festeggiano-i-30-anni-di-attivita-con-un-nuovo-album-un-tour-estivo-e-un-programma-di-iniziative-a-torino/",
@@ -783,16 +813,6 @@
     "id": "b822fbd8792b",
     "titolo": "Partita la firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partita-firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-    "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di collaborazione, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione, hanno iniziato ad essere sottoscritti con gli 805 Comuni…",
-    "data": "2026-03-11T17:53:21+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "6b354d940f54",
-    "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
     "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di collaborazione, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione, hanno iniziato ad essere sottoscritti con gli 805 Comuni…",
     "data": "2026-03-11T17:53:21+01:00",
     "fonte": "Regione Piemonte",
@@ -1974,26 +1994,6 @@
     "titolo": "Polizia Locale, fermato un autista abusivo fuori da una discoteca",
     "link": "https://www.comune.torino.it/novita/comunicati/polizia-locale-fermato-un-autista-abusivo-fuori-una-discoteca",
     "descrizione": "È stato fermato dalla Polizia Locale dopo aver preso a bordo due ragazze e sanzionato per l'esercizio abusivo dell'attività di noleggio con conducente.",
-    "data": "2026-03-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "3d425e88bb3d",
-    "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita in occasione di concerti, eventi - calendario eventi marzo 2026",
-    "link": "https://www.comune.torino.it/novita/avvisi/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per",
-    "descrizione": "Integrazione calendario eventi marzo 2026: aggiunta nuova data dell'artista Gigi D'Alessio",
-    "data": "2026-03-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2445fc0a1b95",
-    "titolo": "Borgo San Paolo, nuovo edificio residenziale e aree verdi in via Issiglio",
-    "link": "https://www.comune.torino.it/novita/comunicati/borgo-san-paolo-nuovo-edificio-residenziale-aree-verdi-via-issiglio",
-    "descrizione": "Nuovo intervento di riconversione edilizia a pochi passi dal grattacielo Lancia, nel quartiere San Paolo.",
     "data": "2026-03-04T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
