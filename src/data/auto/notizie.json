@@ -1,5 +1,55 @@
 [
   {
+    "id": "4414b22a6b56",
+    "titolo": "Corteo nazionale di Libera a Torino: modifiche alla viabilità e ai trasporti il 21 marzo",
+    "link": "https://www.torinoclick.it/trasporti/manifestazione-libera-bus-deviati-e-strade-chiuse-come-cambia-il-trasporto-pubblico-sabato-mattina/",
+    "descrizione": "Il corteo nazionale di Libera, in programma sabato 21 marzo, attraverserà il cuore di Torino collegando piazza Solferino a piazza Vittorio Veneto. Il percorso si snoderà lungo alcuni degli assi più centrali della città, tra cui via Cernaia, via Pietro Micca, piazza Castello e corso San Maurizio, e comporterà un impatto rilevante sulla viabilità.",
+    "data": "2026-03-19T15:04:26+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "9f5e5fd57491",
+    "titolo": "MaB CollinaPo. Dieci anni della Riserva della Biosfera MaB UNESCO che guarda al futuro del suo territorio",
+    "link": "https://www.torinoclick.it/territorio/buon-compleanno-collinapo-dieci-anni-di-riserva-della-biosfera-unesco/",
+    "descrizione": "Dieci anni di lavoro condiviso, progetti e visione. La Riserva della Biosfera MaB UNESCO CollinaPo ha celebrato oggi il suo decimo anniversario con una giornata di confronto istituzionale e l’annuncio della candidatura al riconoscimento UNESCO del primo e unico Urban MaB italiano",
+    "data": "2026-03-19T14:49:51+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "7974f3faca32",
+    "titolo": "Servizio Civile Universale 2026: 492 opportunità a Torino nei 48 progetti della Città",
+    "link": "https://www.torinoclick.it/incomune/servizio-civile-universale-2026-492-opportunita-a-torino-nei-48-progetti-della-citta/",
+    "descrizione": "È aperto il bando 2026 del Servizio Civile Universale, che su scala nazionale mette a disposizione 65.964 posti per giovani tra i 18 e i 28 anni, distribuiti in 2.635 progetti in Italia e 204 all’estero. Si tratta di un’esperienza di cittadinanza attiva che permette di dedicare un anno al servizio della comunità, offrendo al tempo stesso un percorso di crescita personale e professionale. La domanda può essere presentata entro l’8 aprile 2026 accedendo con identità digitale, tramite SPID oppure C",
+    "data": "2026-03-19T14:42:58+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "b1db65f58584",
+    "titolo": "Torino Jazz Festival 2026, “The sound of Surprise”. La XIV edizione, dal 25 aprile al 2 maggio",
+    "link": "https://www.torinoclick.it/cultura/torino-jazz-festival-2026-the-sound-of-surprise-la-xiv-edizione-dal-25-aprile-al-2-maggio/",
+    "descrizione": "Il Torino Jazz Festival, con la direzione artistica di Stefano Zenni, torna da sabato 25 aprile a sabato 2 maggio 2026, preceduto da un’anteprima nei jazz club cittadini dal 22 al 24 aprile. Il titolo scelto per la XIV edizione, The Sound of Surprise, riprende la celebre definizione del 1959 del critico americano Whitney Balliett e diventa chiave di lettura della programmazione: il jazz come suono della sorpresa, un’esperienza capace di spiazzare, emozionare e creare nuove connessioni tra artist",
+    "data": "2026-03-19T13:23:28+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "748e396f3d2f",
+    "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
+    "link": "https://www.torinoclick.it/cultura/torino-2033-con-leuropa-e-di-casa-torino-chiama-artisti-internazionali-e-cittadini-per-co-creare-8-proposte-per-il-dossier-di-candidatura/",
+    "descrizione": "Fare in modo che il dossier di candidatura di Torino a Capitale Europea della Cultura 2033 nasca anche con il contributo della cittadinanza e dei quartieri della città. È questa la scommessa di “L’Europa è di Casa”, progetto che prevede due open call, una per selezionare 8 artiste e artisti internazionali, disposti a lavorare non davanti a un pubblico, ma insieme ad esso,e a dare forma artistica alla creatività e alla visione collettiva e una seconda rivolta invece ai cittadini che vogliono esse",
+    "data": "2026-03-19T13:17:43+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
     "id": "3b9fecdfa498",
     "titolo": "Pedali Sociali, primi appuntamenti del progetto",
     "link": "https://www.comune.torino.it/novita/comunicati/pedali-sociali-primi-appuntamenti-progetto",
@@ -14,6 +64,46 @@
     "titolo": "La primavera accende Torino: tulipani gialli e muscari blu in fioritura",
     "link": "https://www.comune.torino.it/novita/notizie/primavera-accende-torino-tulipani-gialli-muscari-blu-fioritura-0",
     "descrizione": "Fioriscono i tulipani e i muscari blu piantati dai giardinieri per celebrare la primavera.",
+    "data": "2026-03-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0c542420ae56",
+    "titolo": "Referendum 22/23 marzo - Aperture straordinarie per il rilascio di tessere elettorali",
+    "link": "https://www.comune.torino.it/novita/avvisi/referendum-2223-marzo-aperture-straordinarie-per-rilascio-tessere-elettorali",
+    "descrizione": "In occasione del referendum costituzionali, gli uffici garantiranno aperture straordinarie per il rilascio di duplicati delle tessere elettorali.",
+    "data": "2026-03-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e301433094b0",
+    "titolo": "Referendum 22/23 marzo - Aperture straordinarie per il rilascio di carte d'identità",
+    "link": "https://www.comune.torino.it/novita/avvisi/referendum-2223-marzo-aperture-straordinarie-per-rilascio-carte-didentita",
+    "descrizione": "Aperture straordinarie dell'Anagrafe Centrale in occasione del referendum.",
+    "data": "2026-03-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6ebe251b53df",
+    "titolo": "Torino Jazz Festival 2026, “The sound of Surprise”. La XIV edizione, dal 25 aprile al 2 maggio",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-jazz-festival-2026-the-sound-of-surprise-xiv-edizione-25-aprile-al-2",
+    "descrizione": "Il Torino Jazz Festival torna da sabato 25 aprile a sabato 2 maggio 2026, preceduto da un’anteprima nei jazz club cittadini dal 22 al 24 aprile.",
+    "data": "2026-03-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4eb0c0077b9f",
+    "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-2033-leuropa-casa-torino-chiama-artisti-internazionali-cittadini-per-co",
+    "descrizione": "Fare in modo che il dossier di candidatura di Torino a Capitale Europea della Cultura 2033 nasca anche con il contributo della cittadinanza e dei quartieri.",
     "data": "2026-03-19T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -65,6 +155,16 @@
     "link": "https://www.torinoclick.it/societa/leggero-aumento-dei-prezzi-al-consumo-per-lintera-collettivita-nic-a-febbraio-2026/",
     "descrizione": "Un aumento dello 0,5% rispetto al mese precedente e del +1,2% rispetto al mese di febbraio 2025. Questi i dati diffusi nel mese di febbraio 2026 a seguito della rilevazione dei prezzi effettuata dall’Ufficio di Statistica della Città. L’indice complessivo dei prezzi al consumo per l’intera collettività (NIC) è risultato pari al 100,9 (Base Anno 2025=100).",
     "data": "2026-03-18T16:41:00+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "9b1cd38a477a",
+    "titolo": "Smog, fino a venerdì 20 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+    "link": "https://www.torinoclick.it/trasporti/smog-fino-a-venerdi-20-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+    "descrizione": "Prosegue fino a venerdì 20 marzo compreso – prossimo giorno di controllo – l’applicazione delle sole misure strutturali di limitazione al traffico: sulla base dei dati previsionali sulla qualità dell’aria forniti oggi da Arpa Piemonte è stato infatti confermato il livello 0 (bianco) delle misure antismog.",
+    "data": "2026-03-18T15:38:30+00:00",
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
@@ -1898,105 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "181f642621b2",
-    "titolo": "Torino esprime solidarietà al popolo cubano: approvata in Consiglio Comunale la mozione contro l’embargo petrolifero",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-esprime-solidarieta-al-popolo-cubano-approvata-consiglio-comunale-mozione",
-    "descrizione": "Oltre alla vicinanza al popolo cubano, il documento chiede raccolta di medicinali e altri aiuti, anche in cambio dell'aiuto medico ricevuto durante la pandemia",
-    "data": "2026-03-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4d3a4ca00596",
-    "titolo": "Gestione integrata servizi ausiliari al traffico affidata in house a 5T",
-    "link": "https://www.comune.torino.it/novita/comunicati/gestione-integrata-servizi-ausiliari-al-traffico-affidata-house-5t",
-    "descrizione": "La Sala Rossa approva il contratto di servizio, che avrà durata di cinque anni",
-    "data": "2026-03-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b1dd864c6e5a",
-    "titolo": "TARI 2026: Definite scadenze e modalità di pagamento",
-    "link": "https://www.comune.torino.it/novita/comunicati/tari-2026-definite-scadenze-modalita-pagamento-0",
-    "descrizione": "Il Consiglio comunale ha approvato il provvedimento che definisce le scadenze e le modalità di pagamento della TARI per l’anno 2026.",
-    "data": "2026-03-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "adc6ed55ae14",
-    "titolo": "Torneo EA Sports FC 25 – EduGaming Zone",
-    "link": "https://www.comune.torino.it/novita/notizie/torneo-ea-sports-fc-25-edugaming-zone",
-    "descrizione": "L'iniziativa, che si terrà presso la \"EduGaming Zone\" della Scuola Fermi, mira a coniugare sport digitale, socialità e nuove forme di cittadinanza attiva.",
-    "data": "2026-03-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4aecfdf3f268",
-    "titolo": "Semaforo antismog: da domani, martedì 10 marzo, torna il livello 0 (bianco)",
-    "link": "https://www.comune.torino.it/novita/comunicati/semaforo-antismog-domani-martedi-10-marzo-torna-livello-0-bianco",
-    "descrizione": "Da martedì 10 marzo e fino a mercoledì 11 marzo 2026 compreso le misure di limitazione del traffico torneranno al livello 0 (bianco).",
-    "data": "2026-03-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "91198eaab12e",
-    "titolo": "Ricercate per furto, arrestate dalla Polizia Locale",
-    "link": "https://www.comune.torino.it/novita/comunicati/ricercate-per-furto-arrestate-dalla-polizia-locale",
-    "descrizione": "Su di lei pendevano provvedimenti di restrizione in carcere emessi nel corso del 2025, tra cui uno per furto aggravato e utilizzo di carte di credito rubate.",
-    "data": "2026-03-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f07b2f93f45d",
-    "titolo": "Semaforo antismog: da domani, martedì 10 marzo, torna il livello 0 (bianco)",
-    "link": "https://www.torinoclick.it/trasporti/semaforo-antismog-da-domani-martedi-10-marzo-torna-il-livello-0-bianco/",
-    "descrizione": "Secondo i dati previsionali forniti oggi da Arpa Piemonte, da domani, martedì 10 marzo, e fino a mercoledì 11 marzo 2026 (prossimo giorno di controllo), le misure di limitazione del traffico torneranno al livello 0 (bianco), con le sole misure strutturali di limitazione del traffico previste del semaforo antismog.",
-    "data": "2026-03-09T11:37:54+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "0e13cf0964b3",
-    "titolo": "Cooperazione internazionale, il sindaco Lo Russo al Consiglio Nazionale per la Cooperazione allo Sviluppo",
-    "link": "https://www.torinoclick.it/relazioniinternazionali/cooperazione-internazionale-il-sindaco-lo-russo-al-consiglio-nazionale-per-la-cooperazione-allo-sviluppo/",
-    "descrizione": "“La cooperazione internazionale è oggi uno degli strumenti più concreti per costruire stabilità, sviluppo e opportunità condivise tra territori. In un contesto internazionale reso particolarmente complesso dal moltiplicarsi dei conflitti e delle tensioni geopolitiche, rafforzare i programmi di cooperazione allo sviluppo significa contribuire alla costruzione di pace, alla stabilità delle aree più fragili e alla crescita delle comunità locali”. Così il sindaco di Torino e vicepresidente Anci con ",
-    "data": "2026-03-09T11:06:25+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "51a59a1c81cc",
-    "titolo": "Ricercate per furto, arrestate dalla Polizia Locale",
-    "link": "https://www.torinoclick.it/sicurezza/ricercate-per-furto-arrestate-dalla-polizia-locale/",
-    "descrizione": "Su di lei pendevano più provvedimenti di restrizione in carcere emessi nel corso del 2025, tra cui uno per furto aggravato e utilizzo di carte di credito rubate. La Polizia Locale, nell’ambito dei numerosi servizi che da diverso tempo sta svolgendo nel quartiere San Paolo, l’ha trovata nei pressi di corso Racconigi, mentre tentava di nascondersi all’interno del vano di un camper parcheggiato. È stata arrestata in forza dell’ordine di esecuzione emesso dalla Procura Generale della Repubblica di T",
-    "data": "2026-03-09T11:05:53+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "d275f0fdc828",
-    "titolo": "La marea rosa della Just The Woman I Am attraversa Torino",
-    "link": "https://www.torinoclick.it/sport/la-marea-rosa-della-just-the-woman-i-am-attraversa-torino/",
-    "descrizione": "Una vera e propria marea rosa quella che ha attraversato oggi Torino per l’edizione 2026 della Just The Woman I Am, la camminata corsa non competitiva a sostegno della ricerca universitaria sul cancro.Complice la bella giornata di sole ha quest’anno l’iniziativa ha coinvolto migliaia di partecipanti confermando la sua capacità di unire sport, solidarietà e impegno per la parità di genere.",
-    "data": "2026-03-08T20:45:43+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
   }
 ]
