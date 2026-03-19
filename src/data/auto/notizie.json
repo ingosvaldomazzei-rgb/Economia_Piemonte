@@ -1,5 +1,55 @@
 [
   {
+    "id": "3b9fecdfa498",
+    "titolo": "Pedali Sociali, primi appuntamenti del progetto",
+    "link": "https://www.comune.torino.it/novita/comunicati/pedali-sociali-primi-appuntamenti-progetto",
+    "descrizione": "“Pedali Sociali” rappresenta una sperimentazione che punta a essere estesa e replicata in altri ambiti della città.",
+    "data": "2026-03-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "aa1e24a2c72d",
+    "titolo": "La primavera accende Torino: tulipani gialli e muscari blu in fioritura",
+    "link": "https://www.comune.torino.it/novita/notizie/primavera-accende-torino-tulipani-gialli-muscari-blu-fioritura-0",
+    "descrizione": "Fioriscono i tulipani e i muscari blu piantati dai giardinieri per celebrare la primavera.",
+    "data": "2026-03-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6b02065de5ee",
+    "titolo": "Mobilità sostenibile e inclusione: al via il progetto “Pedali Sociali” nelle case ATC",
+    "link": "https://www.torinoclick.it/territorio/mobilita-sostenibile-e-inclusione-al-via-il-progetto-pedali-sociali-nelle-case-atc/",
+    "descrizione": "Un percorso di co-progettazione con le persone residenti, attività di sensibilizzazione sulla mobilità ciclistica, formazione pratica e la realizzazione di oltre 350 posti bici, coperti e scoperti: sono queste le principali azioni del progetto “Pedali Sociali”, promosso dal Comune di Torino in partenariato con l’Agenzia Territoriale per la Casa (ATC) del Piemonte Centrale e FIAB Torino Bike Pride.",
+    "data": "2026-03-19T11:24:23+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "f6667946fdca",
+    "titolo": "Il grande ciclismo amatoriale pedala nella storia: presentata la Granfondo Torino 2026",
+    "link": "https://www.torinoclick.it/sport/il-grande-ciclismo-amatoriale-pedala-nella-storia-presentata-la-granfondo-torino-2026/",
+    "descrizione": "È stata presentata oggi al Motovelodromo Fausto Coppi l’undicesima edizione della Granfondo Torino – Memorial Luca Ferrero, uno degli appuntamenti più attesi del calendario ciclistico amatoriale. L’evento tornerà domenica 19 aprile, offrendo agli appassionati l’opportunità di pedalare nel cuore di Torino e del suo territorio, tra storia e paesaggi d’eccellenza.",
+    "data": "2026-03-19T11:04:50+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "dc1518fa81ab",
+    "titolo": "Torino-Lione: insediati i Comitati di supporto delle tratte nazionale e internazionale",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-insediati-comitati-supporto-delle-tratte-nazionale-internazionale",
+    "descrizione": "Si sono insediati i Comitati di supporto alla realizzazione della nuova linea ferroviaria Torino-Lione. Nel Grattacielo della Regione si è iniziato con la prima seduta del Comitato per la…",
+    "data": "2026-03-18T19:30:17+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "c167efa28227",
     "titolo": "Torino-Lione: insediato il Comitato di supporto della tratta nazionale",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-insediato-comitato-supporto-della-tratta-nazionale",
@@ -84,6 +134,26 @@
     "titolo": "Nell’area dell’ex fonderia Roz un giardino e un nuovo edificio residenziale",
     "link": "https://www.comune.torino.it/novita/notizie/nellarea-dellex-fonderia-roz-un-giardino-un-nuovo-edificio-residenziale",
     "descrizione": "Intervento per una trasformazione dell’area con l’inserimento di nuove funzioni residenziali e la valorizzazione delle superfici a uso pubblico e del verde.",
+    "data": "2026-03-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b7df38e8eaa3",
+    "titolo": "Leggero aumento dei prezzi al consumo per l’intera collettività (Nic) a febbraio 2026",
+    "link": "https://www.comune.torino.it/novita/comunicati/leggero-aumento-dei-prezzi-al-consumo-per-lintera-collettivita-nic-febbraio-2026",
+    "descrizione": "Nel mese di Febbraio 2026 l’indice complessivo dei prezzi al consumo per l’intera collettività è risultato pari al 100,9.",
+    "data": "2026-03-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d778c4b6102e",
+    "titolo": "Sabato 21 marzo il corteo per la Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie, previste modifiche viabili",
+    "link": "https://www.comune.torino.it/novita/comunicati/sabato-21-marzo-corteo-per-giornata-della-memoria-dellimpegno-ricordo-delle",
+    "descrizione": "Sabato 21 marzo la Città di Torino ospiterà la 31ª Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie, promossa da “Libera”.",
     "data": "2026-03-18T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1120,6 +1190,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "8b9f2f23ce6f",
+    "titolo": "29 nuovi alberi messi a dimora in piazza d’Armi e in via Filadelfia grazie a Suzuki e Torino FC",
+    "link": "https://www.comune.torino.it/novita/notizie/29-nuovi-alberi-messi-dimora-piazza-darmi-via-filadelfia-grazie-suzuki-torino-fc",
+    "descrizione": "In occasione della Giornata Nazionale degli Alberi 2025 Suzuki e Torino FC hanno donato 29 alberi.",
+    "data": "2026-03-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "02c2483a154e",
     "titolo": "Maltempo aprile 2025, dal Governo altri 45 milioni per il Piemonte",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aprile-2025-dal-governo-altri-45-milioni-per-piemonte",
@@ -1918,85 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "4e10dcd7dfdc",
-    "titolo": "Otto Marzo: più donne al lavoro",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/otto-marzo-piu-donne-al-lavoro",
-    "descrizione": "C’è un Piemonte che non si rassegna ai divari e che sceglie di investire sul lavoro femminile come leva di crescita economica e competitività. Un Piemonte che corre più della media nazionale e che dimostra, numeri alla mano, come politiche mirate e scelte chiare…",
-    "data": "2026-03-07T19:13:48+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a1122d52899d",
-    "titolo": "La Regione Piemonte scrive ai sindaci per intitolare spazi pubblici a donne che hanno fatto la storia",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-scrive-ai-sindaci-per-intitolare-spazi-pubblici-donne-che-hanno-fatto-storia",
-    "descrizione": "In occasione delle ricorrenze dell’8 marzo, Giornata internazionale della donna, e del 10 marzo 2026, in cui ricorre l’80° anniversario del riconoscimento del diritto di voto alle donne in Italia, la Regione Piemonte ha deciso di promuovere …",
-    "data": "2026-03-07T18:39:46+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "853ef1a20981",
-    "titolo": "Taglio del nastro per il rinnovato campo da calcio Colletta",
-    "link": "https://www.torinoclick.it/territorio/taglio-del-nastro-per-il-rinnovato-campo-da-calcio-colletta/",
-    "descrizione": "Proseguono le inaugurazioni degli impianti sportivi riqualificati grazie ai fondi del PNRR. Questo pomeriggio è stato inaugurato il rinnovato campo da calcio a 11 all’interno del parco Colletta, oggetto di un intervento di completa riqualificazione con il rifacimento del terreno di gioco in erba sintetica, la nuova tracciatura del campo e l’installazione di nuove panchine.",
-    "data": "2026-03-07T15:25:05+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "06e1b2cb37dc",
-    "titolo": "Metro 2: al via i rilievi ambientali, si parte lunedì da via Pacini",
-    "link": "https://www.torinoclick.it/trasporti/metro-2-al-via-i-rilievi-ambientali-si-parte-lunedi-da-via-pacini/",
-    "descrizione": "Inizieranno lunedì prossimo 9 marzo da via Pacini 46/A le attività preliminari al monitoraggio ambientale legato alla realizzazione della futura Linea 2 della metropolitana di Torino. Tecnici incaricati effettueranno una serie di rilievi necessari per raccogliere dati sullo stato ambientale attuale, senza modifiche alla viabilità.",
-    "data": "2026-03-07T14:03:42+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "f7ddb97dd399",
-    "titolo": "Numeri positivi per i Servizi di prevenzione nel 2025",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/numeri-positivi-per-servizi-prevenzione-nel-2025",
-    "descrizione": "È ancora aumentata nel 2025 l’attività di controllo svolta dai diversi Servizi di prevenzione delle aziende sanitarie della Regione Piemonte. \"Il bilancio ampiamente positivo conferma la volontà nel proseguire le attività con una …",
-    "data": "2026-03-06T19:13:23+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "c5b836f81384",
-    "titolo": "Piazza della Repubblica, intervento di pulizia e sgombero nel complesso Atc",
-    "link": "https://www.torinoclick.it/sicurezza/piazza-della-repubblica-intervento-di-pulizia-e-sgombero-nel-complesso-atc/",
-    "descrizione": "Una nuova attività di sgombero e pulizia, dopo quella che ha interessato via Ghedini, è stata condotta questa mattina, 6 marzo, nel cortile del complesso di edilizia sociale di piazza della Repubblica, di proprietà della Città di Torino, in gestione all’Agenzia Territoriale per la Casa del Piemonte Centrale.",
-    "data": "2026-03-06T14:25:25+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "82589d5765f1",
-    "titolo": "Bando da 8 milioni per il welfare aziendale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-8-milioni-per-welfare-aziendale",
-    "descrizione": "Sarà aperto dal 20 marzo al 19 giugno prossimi il bando che finanzia i piani integrati di welfare aziendale delle imprese…",
-    "data": "2026-03-06T14:16:49+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "b4d1c1a67cda",
-    "titolo": "Da lunedì 9 marzo manutenzioni stradali in via San Domenico e strade limitrofe: previste modifiche alla viabilità",
-    "link": "https://www.comune.torino.it/novita/comunicati/lunedi-9-marzo-manutenzioni-stradali-via-san-domenico-strade-limitrofe-previste",
-    "descrizione": "Verranno realizzati interventi di manutenzione straordinaria su carreggiate e marciapiedi in alcune vie cittadine.",
-    "data": "2026-03-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
