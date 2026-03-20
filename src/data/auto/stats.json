@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 32,
-    "torinoclick": 42,
-    "regione": 17,
-    "quotidiano_piemontese": 93,
+    "torinoclick": 47,
+    "regione": 18,
+    "comune_torino": 34,
+    "quotidiano_piemontese": 85,
     "unioncamere": 16
   },
   "temi_attivi": [
@@ -13,20 +13,20 @@
       "conteggio": 20
     },
     {
-      "tema": "sanita-regionale",
-      "conteggio": 17
-    },
-    {
       "tema": "lavoro-occupazione",
       "conteggio": 15
     },
     {
       "tema": "sport",
-      "conteggio": 13
+      "conteggio": 14
     },
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 12
+      "conteggio": 13
+    },
+    {
+      "tema": "sanita-regionale",
+      "conteggio": 13
     },
     {
       "tema": "attivita-produttive",
@@ -34,15 +34,15 @@
     },
     {
       "tema": "fondi-europei",
-      "conteggio": 10
+      "conteggio": 11
     },
     {
       "tema": "agricoltura",
-      "conteggio": 9
+      "conteggio": 10
     },
     {
       "tema": "pianificazione-territoriale",
-      "conteggio": 8
+      "conteggio": 9
     },
     {
       "tema": "ambiente-qualita-aria",
