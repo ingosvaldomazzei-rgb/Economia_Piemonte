@@ -1,5 +1,75 @@
 [
   {
+    "id": "c8db75d0be8f",
+    "titolo": "Servizio Civile all’Ufficio Gestione Tariffe - Servizi Educativi",
+    "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-allufficio-gestione-tariffe-servizi-educativi",
+    "descrizione": "Servizio Civile Universale 2026 all’Ufficio Tariffe dei Servizi Educativi del Comune di Torino",
+    "data": "2026-03-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "607f4c8f2124",
+    "titolo": "Incontri di presentazioni Centri estivi 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/incontri-presentazioni-centri-estivi-2026",
+    "descrizione": "Pubblicazione elenco incontri di presentazione dei centri di Estate ragazzi Torino 2026",
+    "data": "2026-03-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a2a1d1b155fd",
+    "titolo": "ToSeggio",
+    "link": "https://www.comune.torino.it/novita/notizie/toseggio",
+    "descrizione": "Cerca il tuo seggio elettorale",
+    "data": "2026-03-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "044d0b70e990",
+    "titolo": "Attestato sostitutivo di tessera elettorale",
+    "link": "https://www.comune.torino.it/novita/avvisi/attestato-sostitutivo-tessera-elettorale",
+    "descrizione": "Stampa dell'attestato sostitutivo da parte degli elettori sprovvisti della tessera elettorale per esaurimento degli spazi disponibili",
+    "data": "2026-03-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "929e33758cb8",
+    "titolo": "Gruppo Genitorialità al quadrato",
+    "link": "https://www.comune.torino.it/novita/notizie/gruppo-genitorialita-al-quadrato",
+    "descrizione": "Gruppo di confronto per genitori di gemelli.",
+    "data": "2026-03-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4d868c7ab449",
+    "titolo": "Concerti di ACHILLE LAURO (24 MARZO 2026), GIGI D'ALESSIO (25 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+    "link": "https://www.comune.torino.it/novita/notizie/concerti-achille-lauro-24-marzo-2026-gigi-dalessio-25-marzo-2026-convocazione",
+    "descrizione": "Convocazione per LUNEDI' 23 MARZO ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali.",
+    "data": "2026-03-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "58471fc25436",
+    "titolo": "Smog, fino a lunedì 23 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+    "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-23-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+    "descrizione": "Prosegue fino a lunedì 23 marzo compreso – prossimo giorno di controllo – l’applicazione delle sole misure strutturali di limitazione al traffico: sulla base dei dati previsionali sulla qualità dell’aria forniti oggi da Arpa Piemonte è stato infatti confermato il livello 0 (bianco) delle misure antismog.",
+    "data": "2026-03-20T11:11:07+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
     "id": "4414b22a6b56",
     "titolo": "Corteo nazionale di Libera a Torino: modifiche alla viabilità e ai trasporti il 21 marzo",
     "link": "https://www.torinoclick.it/trasporti/manifestazione-libera-bus-deviati-e-strade-chiuse-come-cambia-il-trasporto-pubblico-sabato-mattina/",
@@ -1928,75 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "410fb49a0227",
-    "titolo": "Sindone di Torino, un nuovo studio riaccende il dibattito scientifico sul telo più enigmatico della storia",
-    "link": "https://www.quotidianopiemontese.it/2026/03/09/sindone-torino-nuovo-studio-ricerca-scientifica/",
-    "descrizione": "Il nuovo studio conclude che la ricerca sulla Sindone resta in una sorta di stallo scientifico. L'articolo Sindone di Torino, un nuovo studio riaccende il dibattito scientifico sul telo più enigmatico della storia proviene da Quotidiano Piemontese.",
-    "data": "2026-03-09T18:45:00+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "8e8ad7b9e470",
-    "titolo": "Occupazioni abusive, recuperato un altro alloggio nel complesso Atc di via Biglieri",
-    "link": "https://www.torinoclick.it/sicurezza/occupazioni-abusive-recuperato-un-altro-alloggio-nel-complesso-atc-di-via-biglieri/",
-    "descrizione": "Prosegue l’azione di contrasto alle occupazioni abusive da parte della Polizia Locale di Torino, coordinato dalla Prefettura di Torino e in collaborazione con l’Agenzia Territoriale per la Casa del Piemonte Centrale.",
-    "data": "2026-03-09T14:32:35+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "d3e3098fd23a",
-    "titolo": "Giardino Martini, messi a dimora 11 nuovi tigli per la riqualificazione del mercato di piazza Benefica",
-    "link": "https://www.torinoclick.it/territorio/giardino-martini-messi-a-dimora-11-nuovi-tigli-per-la-riqualificazione-del-mercato-di-piazza-benefica/",
-    "descrizione": "Nel giardino Luigi Martini di piazza Benefica, sede dello storico mercato di Cit Turin, sono stati messi a dimora undici nuovi tigli, nell’ambito del più ampio progetto di riqualificazione dell’area mercatale che , e cambieranno volto a uno dei mercati più amati dai torinesi.",
-    "data": "2026-03-09T14:13:06+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "eaaef1eaf670",
-    "titolo": "Sala Rossa: “Salvare i poliambulatori di Via del Ridotto e Via Le Chiuse”",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-salvare-poliambulatori-via-ridotto-via-chiuse",
-    "descrizione": "Il documento evidenzia come la riorganizzazione dell'ASL Città di Torino, penalizzi la popolazione della zona",
-    "data": "2026-03-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7cda35a8c651",
-    "titolo": "Un documento contro la modifica “Bongiorno” della legge sulla violenza sessuale",
-    "link": "https://www.comune.torino.it/novita/comunicati/un-documento-contro-modifica-bongiorno-della-legge-sulla-violenza-sessuale",
-    "descrizione": "Per il ritiro del disegno di legge nella formulazione riscritta da Giulia Bongiorno e sollecitare il pieno recepimento del modello già approvato alla Camera",
-    "data": "2026-03-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "35f336f4cbf1",
-    "titolo": "Torino esprime solidarietà al popolo cubano: approvata in Consiglio Comunale la mozione contro l’embargo petrolifero",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-esprime-solidarieta-al-popolo-cubano-approvata-consiglio-comunale-mozione-0",
-    "descrizione": "Oltre alla vicinanza al popolo cubano, la mozione prevede aiuti come atto di restituzione dopo l'intervento a Torino dei medici cubani, durante l'epidemia",
-    "data": "2026-03-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "224d40404e38",
-    "titolo": "Servizio Civile presso la rete dei Punti Informativi Unificati",
-    "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-rete-dei-punti-informativi-unificati",
-    "descrizione": "Aperte le candidature per il progetto \"Otto P.I.U. Uno: informazione in movimento\".",
-    "data": "2026-03-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "torinoclick": 43,
-    "comune_torino": 30,
+    "comune_torino": 32,
+    "torinoclick": 42,
     "regione": 17,
-    "quotidiano_piemontese": 94,
+    "quotidiano_piemontese": 93,
     "unioncamere": 16
   },
   "temi_attivi": [
@@ -14,7 +14,7 @@
     },
     {
       "tema": "sanita-regionale",
-      "conteggio": 19
+      "conteggio": 17
     },
     {
       "tema": "lavoro-occupazione",
@@ -45,8 +45,8 @@
       "conteggio": 8
     },
     {
-      "tema": "universita-ricerca",
-      "conteggio": 8
+      "tema": "ambiente-qualita-aria",
+      "conteggio": 7
     }
   ],
   "totale_temi_con_notizie": 25
