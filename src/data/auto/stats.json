@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "torinoclick": 47,
+    "torinoclick": 48,
     "regione": 18,
     "comune_torino": 35,
-    "quotidiano_piemontese": 84,
+    "quotidiano_piemontese": 83,
     "unioncamere": 16
   },
   "temi_attivi": [
@@ -14,7 +14,7 @@
     },
     {
       "tema": "lavoro-occupazione",
-      "conteggio": 15
+      "conteggio": 16
     },
     {
       "tema": "sport",
@@ -45,7 +45,7 @@
       "conteggio": 9
     },
     {
-      "tema": "ambiente-qualita-aria",
+      "tema": "istruzione-formazione",
       "conteggio": 7
     }
   ],

@@ -1,4 +1,192 @@
 {
+  "lavoro-occupazione": [
+    {
+      "id": "430093233b20",
+      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
+      "link": "https://www.torinoclick.it/societa/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
+      "data": "2026-03-21T13:54:17+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "9f5e5fd57491",
+      "titolo": "MaB CollinaPo. Dieci anni della Riserva della Biosfera MaB UNESCO che guarda al futuro del suo territorio",
+      "link": "https://www.torinoclick.it/territorio/buon-compleanno-collinapo-dieci-anni-di-riserva-della-biosfera-unesco/",
+      "data": "2026-03-19T14:49:51+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "c82cad4a63ba",
+      "titolo": "Sabato 21 marzo il corteo per la Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie, previste modifiche viabili",
+      "link": "https://www.torinoclick.it/trasporti/sabato-21-marzo-il-corteo-per-la-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie-previste-modifiche-viabili/",
+      "data": "2026-03-18T15:26:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "aa8970f27ae0",
+      "titolo": "Il Consiglio comunale approva il progetto preliminare del nuovo Piano Regolatore",
+      "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-progetto-preliminare-nuovo-piano-regolatore",
+      "data": "2026-03-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6f3546b5eb74",
+      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
+      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
+      "data": "2026-03-15T11:20:34+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "79337cb38014",
+      "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
+      "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
+      "data": "2026-03-13T11:19:19+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "ae9f5515273e",
+      "titolo": "Valorizzare talento e merito con la certificazione delle competenze",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/valorizzare-talento-merito-certificazione-delle-competenze",
+      "data": "2026-03-12T10:36:04+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a13240cfbb96",
+      "titolo": "Cappuccino e brioche ballando col dj, la nuova moda della domenica mattina conquista Torino: locali e istituzioni si interrogano sulle regole",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/morning-club-torino-colazione-dj-set-regole/",
+      "data": "2026-03-12T07:43:35+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "708acf5aa1dc",
+      "titolo": "“Situazione insostenibile”, stato di agitazione del comparto sanitario della Città della Salute di Torino",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/situazione-insostenibile-stato-di-agitazione-del-comparto-sanitario-della-citta-della-salute-di-torino/",
+      "data": "2026-03-11T13:57:57+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "7ea97ff120e7",
+      "titolo": "Carcere di Vercelli: 47 provvedimenti disciplinari per agenti dopo il caso della detenuta incinta",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/provvedimenti-disciplinari-agenti-carcere-vercelli/",
+      "data": "2026-03-11T10:46:39+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "af01df47d1f0",
+      "titolo": "Operaio cade da ponteggio nel cantiere della chiesa di via San Lorenzo ad Alessandria: è grave",
+      "link": "https://www.quotidianopiemontese.it/2026/03/10/operaio-cade-ponteggio-cantiere-chiesa-san-lorenzo-alessandria/",
+      "data": "2026-03-10T20:09:01+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "1f9e3ea26460",
+      "titolo": "In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR",
+      "link": "https://www.quotidianopiemontese.it/2026/03/10/lavori-sanita-piemonte-pnrr-riboldi/",
+      "data": "2026-03-10T18:16:51+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "a1baff6ce495",
+      "titolo": "Il Piemonte al Mipim 2026: oltre 6 milioni di metri quadri di opportunità. Riflettori puntati anche sul Piano Regolatore della Città di Torino",
+      "link": "https://www.torinoclick.it/territorio/il-piemonte-al-mipim-2026-oltre-6-milioni-di-metri-quadri-di-opportunita-riflettori-puntati-anche-sul-piano-regolatore-della-citta-di-torino/",
+      "data": "2026-03-10T16:42:02+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "396e3cf651e7",
+      "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
+      "link": "https://pie.camcom.it/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
+      "data": "2026-03-10T14:59:10.420234+00:00",
+      "fonte": "Unioncamere Piemonte",
+      "fonte_id": "unioncamere"
+    },
+    {
+      "id": "779c393fb0cd",
+      "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
+      "link": "https://pie.camcom.it/index.php/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
+      "data": "2026-03-10T14:59:07.277274+00:00",
+      "fonte": "Unioncamere Piemonte",
+      "fonte_id": "unioncamere"
+    },
+    {
+      "id": "6abe928ff1a2",
+      "titolo": "Un contrassegno unico ZTL per gli agenti di commercio",
+      "link": "https://www.quotidianopiemontese.it/2026/03/10/un-contrassegno-unico-ztl-per-gli-agenti-di-commercio/",
+      "data": "2026-03-10T13:42:29+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "istruzione-formazione": [
+    {
+      "id": "430093233b20",
+      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
+      "link": "https://www.torinoclick.it/societa/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
+      "data": "2026-03-21T13:54:17+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "c1edcdd634be",
+      "titolo": "Anna Maria Viziale ricordata in un giardino a Mirafiori",
+      "link": "https://www.comune.torino.it/novita/comunicati/anna-maria-viziale-ricordata-un-giardino-mirafiori",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c3fa31c5f44c",
+      "titolo": "Le scuole torinesi al Festival della Felicità",
+      "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
+      "data": "2026-03-17T15:49:04+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "79337cb38014",
+      "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
+      "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
+      "data": "2026-03-13T11:19:19+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "080ff2eda1d5",
+      "titolo": "Colori, segnaletica intuitiva e spazi per le famiglie: cambia il volto dell’Anagrafe Centrale",
+      "link": "https://www.torinoclick.it/incomune/lanagrafe-di-torino-cambia-volto-nuovo-sistema-di-orientamento-e-informazione-inclusiva-con-spazi-a-misura-di-famiglia-al-lavoro-una-task-force-per-il-rinnovo-delle-carte-di-identita-carta/",
+      "data": "2026-03-13T10:56:49+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "29877cadbdb8",
+      "titolo": "A Novara Confindustria organizza un incontro di orientamento per gli studenti: incontreranno le aziende del territorio",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/novara-confindustria-orientamento-studenti-aziende/",
+      "data": "2026-03-12T18:02:24+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "e7b7f66ff66f",
+      "titolo": "Una fuga di gas, la scuola evacuata e 1400 studenti dell’istituto tecnico Grassi di Torino restano a casa",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/una-fuga-di-gas-la-scuola-evacuata-e-1400-studenti-dellistituto-tecnico-grassi-di-torino-restano-a-casa/",
+      "data": "2026-03-11T14:13:29+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
   "pianificazione-territoriale": [
     {
       "id": "ff92d8c1b298",
@@ -763,56 +951,6 @@
       "fonte_id": "quotidiano_piemontese"
     }
   ],
-  "istruzione-formazione": [
-    {
-      "id": "c1edcdd634be",
-      "titolo": "Anna Maria Viziale ricordata in un giardino a Mirafiori",
-      "link": "https://www.comune.torino.it/novita/comunicati/anna-maria-viziale-ricordata-un-giardino-mirafiori",
-      "data": "2026-03-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c3fa31c5f44c",
-      "titolo": "Le scuole torinesi al Festival della Felicità",
-      "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
-      "data": "2026-03-17T15:49:04+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "79337cb38014",
-      "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
-      "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
-      "data": "2026-03-13T11:19:19+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "080ff2eda1d5",
-      "titolo": "Colori, segnaletica intuitiva e spazi per le famiglie: cambia il volto dell’Anagrafe Centrale",
-      "link": "https://www.torinoclick.it/incomune/lanagrafe-di-torino-cambia-volto-nuovo-sistema-di-orientamento-e-informazione-inclusiva-con-spazi-a-misura-di-famiglia-al-lavoro-una-task-force-per-il-rinnovo-delle-carte-di-identita-carta/",
-      "data": "2026-03-13T10:56:49+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "29877cadbdb8",
-      "titolo": "A Novara Confindustria organizza un incontro di orientamento per gli studenti: incontreranno le aziende del territorio",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/novara-confindustria-orientamento-studenti-aziende/",
-      "data": "2026-03-12T18:02:24+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "e7b7f66ff66f",
-      "titolo": "Una fuga di gas, la scuola evacuata e 1400 studenti dell’istituto tecnico Grassi di Torino restano a casa",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/una-fuga-di-gas-la-scuola-evacuata-e-1400-studenti-dellistituto-tecnico-grassi-di-torino-restano-a-casa/",
-      "data": "2026-03-11T14:13:29+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    }
-  ],
   "ambiente-qualita-aria": [
     {
       "id": "58471fc25436",
@@ -901,136 +1039,6 @@
       "titolo": "Sulla SFM1 soppressi 1139 treni in un anno: l’inchiesta de L’Unica che fotografa il collasso del pendolarismo ferroviario a Torino",
       "link": "https://www.quotidianopiemontese.it/2026/03/11/disservizi-treni-torino-ritardi-cancellazioni-sfm1/",
       "data": "2026-03-11T09:53:26+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "13badd013499",
-      "titolo": "Persona sui binari di Porta Susa blocca la circolazione per mezz’ora. Disagi per i pendolari",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/persona-binari-porta-susa-disagi-pendolari/",
-      "data": "2026-03-10T09:29:46+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "9f5e5fd57491",
-      "titolo": "MaB CollinaPo. Dieci anni della Riserva della Biosfera MaB UNESCO che guarda al futuro del suo territorio",
-      "link": "https://www.torinoclick.it/territorio/buon-compleanno-collinapo-dieci-anni-di-riserva-della-biosfera-unesco/",
-      "data": "2026-03-19T14:49:51+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "c82cad4a63ba",
-      "titolo": "Sabato 21 marzo il corteo per la Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie, previste modifiche viabili",
-      "link": "https://www.torinoclick.it/trasporti/sabato-21-marzo-il-corteo-per-la-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie-previste-modifiche-viabili/",
-      "data": "2026-03-18T15:26:24+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "aa8970f27ae0",
-      "titolo": "Il Consiglio comunale approva il progetto preliminare del nuovo Piano Regolatore",
-      "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-progetto-preliminare-nuovo-piano-regolatore",
-      "data": "2026-03-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6f3546b5eb74",
-      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
-      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
-      "data": "2026-03-15T11:20:34+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "79337cb38014",
-      "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
-      "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
-      "data": "2026-03-13T11:19:19+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "ae9f5515273e",
-      "titolo": "Valorizzare talento e merito con la certificazione delle competenze",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/valorizzare-talento-merito-certificazione-delle-competenze",
-      "data": "2026-03-12T10:36:04+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a13240cfbb96",
-      "titolo": "Cappuccino e brioche ballando col dj, la nuova moda della domenica mattina conquista Torino: locali e istituzioni si interrogano sulle regole",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/morning-club-torino-colazione-dj-set-regole/",
-      "data": "2026-03-12T07:43:35+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "708acf5aa1dc",
-      "titolo": "“Situazione insostenibile”, stato di agitazione del comparto sanitario della Città della Salute di Torino",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/situazione-insostenibile-stato-di-agitazione-del-comparto-sanitario-della-citta-della-salute-di-torino/",
-      "data": "2026-03-11T13:57:57+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "7ea97ff120e7",
-      "titolo": "Carcere di Vercelli: 47 provvedimenti disciplinari per agenti dopo il caso della detenuta incinta",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/provvedimenti-disciplinari-agenti-carcere-vercelli/",
-      "data": "2026-03-11T10:46:39+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "af01df47d1f0",
-      "titolo": "Operaio cade da ponteggio nel cantiere della chiesa di via San Lorenzo ad Alessandria: è grave",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/operaio-cade-ponteggio-cantiere-chiesa-san-lorenzo-alessandria/",
-      "data": "2026-03-10T20:09:01+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "1f9e3ea26460",
-      "titolo": "In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/lavori-sanita-piemonte-pnrr-riboldi/",
-      "data": "2026-03-10T18:16:51+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "a1baff6ce495",
-      "titolo": "Il Piemonte al Mipim 2026: oltre 6 milioni di metri quadri di opportunità. Riflettori puntati anche sul Piano Regolatore della Città di Torino",
-      "link": "https://www.torinoclick.it/territorio/il-piemonte-al-mipim-2026-oltre-6-milioni-di-metri-quadri-di-opportunita-riflettori-puntati-anche-sul-piano-regolatore-della-citta-di-torino/",
-      "data": "2026-03-10T16:42:02+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "396e3cf651e7",
-      "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
-      "link": "https://pie.camcom.it/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
-      "data": "2026-03-10T14:59:10.420234+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "779c393fb0cd",
-      "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
-      "link": "https://pie.camcom.it/index.php/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
-      "data": "2026-03-10T14:59:07.277274+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "6abe928ff1a2",
-      "titolo": "Un contrassegno unico ZTL per gli agenti di commercio",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/un-contrassegno-unico-ztl-per-gli-agenti-di-commercio/",
-      "data": "2026-03-10T13:42:29+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
     }
