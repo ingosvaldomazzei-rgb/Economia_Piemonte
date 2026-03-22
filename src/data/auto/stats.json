@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 36,
+    "comune_torino": 37,
     "torinoclick": 50,
     "regione": 17,
-    "quotidiano_piemontese": 81,
+    "quotidiano_piemontese": 80,
     "unioncamere": 16
   },
   "temi_attivi": [
@@ -18,7 +18,7 @@
     },
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 14
+      "conteggio": 15
     },
     {
       "tema": "sport",

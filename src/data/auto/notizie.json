@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "7b05d5a8a08f",
+    "titolo": "Referendum Costituzionale, affluenza alle ore 19",
+    "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-alle-ore-19",
+    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze degli elettori nei seggi di Torino alle ore 19, che è stata pari al 40,15%.",
+    "data": "2026-03-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f0283703afa3",
     "titolo": "Referendum Costituzionale, affluenza alle ore 12",
     "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-alle-ore-12/",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "d09341bfbe60",
-    "titolo": "Minacce al sindaco di Collegno: Cavallone rende pubblica una lettera anonima",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/minacce-al-sindaco-di-collegno-cavallone-rende-pubblica-una-lettera-anonima/",
-    "descrizione": "Risalire agli autori della lettera potrebbe però essere complicato L'articolo Minacce al sindaco di Collegno: Cavallone rende pubblica una lettera anonima proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T11:33:55+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
   }
 ]
