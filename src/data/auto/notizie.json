@@ -1,9 +1,39 @@
 [
   {
+    "id": "582822a45ded",
+    "titolo": "Referendum Costituzionale, affluenza alle ore 12",
+    "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-alle-ore-12",
+    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze degli elettori nei seggi di Torino alle ore 12.",
+    "data": "2026-03-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f0283703afa3",
+    "titolo": "Referendum Costituzionale, affluenza alle ore 12",
+    "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-alle-ore-12/",
+    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze degli elettori nei seggi di Torino alle ore 12 per il quesito referendario:",
+    "data": "2026-03-22T11:40:49+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
     "id": "430093233b20",
     "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
     "link": "https://www.torinoclick.it/societa/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
     "descrizione": "“Oggi abbiamo fame di verità”. Ha scelto di iniziare con questa semplice, ma significativa frase, il suo discorso Don Luigi Ciotti, rivolgendosi alle 50mila persone assiepate in una piazza Vittorio Veneto stracolma di persone, in occasione della 31ª edizione della Giornata della memoria e dell’impegno in ricordo delle vittime innocenti delle mafie, promossa da Libera. La rete nazionale di associazioni, cooperative sociali, movimenti e gruppi, scuole, sindacati, diocesi e parrocchie, gruppi scout",
+    "data": "2026-03-21T13:54:17+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "63330a2a5c41",
+    "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
+    "link": "https://www.torinoclick.it/incomune/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
+    "descrizione": "“Oggi abbiamo fame di verità”. Ha scelto di iniziare con questa semplice, ma significativa frase, il suo discorso Don Luigi Ciotti, rivolgendosi alle 50mila persone assiepate in una piazza Vittorio Veneto gremita di persone, in occasione della 31ª edizione della Giornata della memoria e dell’impegno in ricordo delle vittime innocenti delle mafie, promossa da Libera. La rete nazionale di associazioni, cooperative sociali, movimenti e gruppi, scuole, sindacati, diocesi e parrocchie, gruppi scout, ",
     "data": "2026-03-21T13:54:17+00:00",
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
@@ -1965,36 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/10/minacce-al-sindaco-di-collegno-cavallone-rende-pubblica-una-lettera-anonima/",
     "descrizione": "Risalire agli autori della lettera potrebbe però essere complicato L'articolo Minacce al sindaco di Collegno: Cavallone rende pubblica una lettera anonima proviene da Quotidiano Piemontese.",
     "data": "2026-03-10T11:33:55+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "878cc21e2f8f",
-    "titolo": "Parte la firma degli accordi di programma dei Fondi di Sviluppo e Coesione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parte-firma-degli-accordi-programma-dei-fondi-sviluppo-coesione",
-    "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di programma, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione sono pronti per essere sottoscritti con gli 805 Comuni beneficiari…",
-    "data": "2026-03-10T10:53:21+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "6ba9005b646a",
-    "titolo": "Unito, scoperto il meccanismo molecolare alla base di una sindrome del neurosviluppo",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/unito-meccanismo-molecolare-sindrome-del-neurosviluppo/",
-    "descrizione": "I ricercatori hanno studiato gli effetti delle mutazioni del gene IRF2BPL nella sindrome NEDAMSS L'articolo Unito, scoperto il meccanismo molecolare alla base di una sindrome del neurosviluppo proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T10:51:32+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "313043db04d0",
-    "titolo": "Trovato in casa con 5 kg di droga, 3 mila euro in contanti e una pistola: arrestato per spaccio a Torino",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/in-casa-5-kg-droga-arrestato-spaccio-torino/",
-    "descrizione": "Le indagini hanno portato alla perquisizione di due appartamenti e di un box auto nella disponibilità del giovane L'articolo Trovato in casa con 5 kg di droga, 3 mila euro in contanti e una pistola: arrestato per spaccio a Torino proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T10:21:18+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
