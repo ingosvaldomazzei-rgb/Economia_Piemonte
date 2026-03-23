@@ -1,20 +1,20 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
+    "torinoclick": 52,
     "regione": 18,
-    "comune_torino": 40,
-    "torinoclick": 51,
-    "quotidiano_piemontese": 75,
-    "unioncamere": 16
+    "comune_torino": 43,
+    "quotidiano_piemontese": 74,
+    "unioncamere": 13
   },
   "temi_attivi": [
     {
-      "tema": "cultura-beni-culturali",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 20
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 18
+      "tema": "cultura-beni-culturali",
+      "conteggio": 20
     },
     {
       "tema": "lavoro-occupazione",
@@ -30,7 +30,7 @@
     },
     {
       "tema": "attivita-produttive",
-      "conteggio": 12
+      "conteggio": 11
     },
     {
       "tema": "fondi-europei",

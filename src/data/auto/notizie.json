@@ -1,5 +1,15 @@
 [
   {
+    "id": "4eae4c0b5a19",
+    "titolo": "Referendum costituzionale, 63,88% l’affluenza finale a Torino",
+    "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-finale/",
+    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze finali degli elettori di Torino alla chiusura dei seggi, che è stata pari al 63,88% (votanti 403.449 su 631.560).",
+    "data": "2026-03-23T15:27:41+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
     "id": "659bfa1af468",
     "titolo": "Ritornano i treni del mare",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ritornano-treni-mare-0",
@@ -34,6 +44,36 @@
     "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi aprile 2026",
     "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico",
     "descrizione": "Integrazione calendario eventi aprile 2026: anticipo a sabato 11 aprile della partita TORINO FC - HELLAS VERONA",
+    "data": "2026-03-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "803c6111eb5d",
+    "titolo": "Referendum Costituzionale, affluenza finale alle ore 15",
+    "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-finale-alle-ore-15",
+    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze finali degli elettori di Torino alla chiusura dei seggi, che è stata pari al 63,88%.",
+    "data": "2026-03-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "54a999783a2a",
+    "titolo": "Successo delle Giornate del FAI a Palazzo Civico, la presidente Grippo ringrazia personale e volontari",
+    "link": "https://www.comune.torino.it/novita/comunicati/successo-delle-giornate-fai-palazzo-civico-presidente-grippo-ringrazia-personale",
+    "descrizione": "2.000 visitatori in due giorni, cresce l'interesse della cittadinanza per la storica sede comunale",
+    "data": "2026-03-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0d6d6e26fe1e",
+    "titolo": "Servizio Civile Universale",
+    "link": "https://www.comune.torino.it/novita/avvisi/servizio-civile-universale",
+    "descrizione": "Scadenza del bando alle ore 14 dell'8 aprile 2026.",
     "data": "2026-03-23T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1958,45 +1998,5 @@
     "fonte": "Unioncamere Piemonte",
     "fonte_id": "unioncamere",
     "colore": "#ca8a04"
-  },
-  {
-    "id": "3c3d141d0327",
-    "titolo": "Chiusura uffici per la pausa natalizia",
-    "link": "https://pie.camcom.it/notizie/chiusura-uffici-la-pausa-natalizia",
-    "descrizione": "Mar 23 Dic, 2025",
-    "data": "2026-03-10T14:59:07.276993+00:00",
-    "fonte": "Unioncamere Piemonte",
-    "fonte_id": "unioncamere",
-    "colore": "#ca8a04"
-  },
-  {
-    "id": "0b3ed7158a10",
-    "titolo": "Nati-mortalità delle imprese: lievemente positivo il bilancio demografico nel 2025",
-    "link": "https://pie.camcom.it/index.php/notizie/nati-mortalita-delle-imprese-lievemente-positivo-il-bilancio-demografico-nel-2025",
-    "descrizione": "Ven 23 Gen, 2026",
-    "data": "2026-03-10T14:59:07.276828+00:00",
-    "fonte": "Unioncamere Piemonte",
-    "fonte_id": "unioncamere",
-    "colore": "#ca8a04"
-  },
-  {
-    "id": "e30cd6a4da9d",
-    "titolo": "Multinazionali estere in Piemonte",
-    "link": "https://pie.camcom.it/index.php/notizie/multinazionali-estere-piemonte",
-    "descrizione": "Lun 26 Gen, 2026",
-    "data": "2026-03-10T14:59:07.276685+00:00",
-    "fonte": "Unioncamere Piemonte",
-    "fonte_id": "unioncamere",
-    "colore": "#ca8a04"
-  },
-  {
-    "id": "7ac0b2a70a77",
-    "titolo": "15enne invalido torturato per ore a Torino la notte di Halloween, messa alla prova per l’indagata minorenne",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/15enne-invalido-torturato-per-ore-a-torino-la-notte-di-halloween-messa-alla-prova-per-lindagata-minorenne/",
-    "descrizione": "L'indagata è accusata di violenza privata e sequestro di persona L'articolo 15enne invalido torturato per ore a Torino la notte di Halloween, messa alla prova per l’indagata minorenne proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T14:16:58+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
   }
 ]
