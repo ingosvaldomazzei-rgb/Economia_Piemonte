@@ -1,5 +1,45 @@
 [
   {
+    "id": "659bfa1af468",
+    "titolo": "Ritornano i treni del mare",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ritornano-treni-mare-0",
+    "descrizione": "Da giovedì 2 aprile in occasione delle festività pasquali e poi nei fine settimana fino al 13 settembre riprenderà il servizio dei “treni del mare” o “Ponente Line”, i collegamenti ferroviari di…",
+    "data": "2026-03-23T12:33:18+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "0f4524368088",
+    "titolo": "MERCATO NITTI. SPOSTAMENTO TEMPORANEO DEI CONCESSIONARI IN CONSEGUENZA DEI LAVORI DI RIFACIMENTO DEI MARCIAPIEDI NELLE GIORNATE DI 25 E 27 MARZO 2026 E FINO A CESSATE ESIGENZE",
+    "link": "https://www.comune.torino.it/novita/avvisi/mercato-nitti-spostamento-temporaneo-dei-concessionari-conseguenza-dei-lavori",
+    "descrizione": "Mercoledì 25 marzo 2026 e venerdì 27 marzo 2026 e, comunque fino a fine lavori.",
+    "data": "2026-03-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6b455cc6362e",
+    "titolo": "Domani un Diritto di Tribuna sulla sicurezza in San Donato",
+    "link": "https://www.comune.torino.it/novita/comunicati/domani-un-diritto-tribuna-sulla-sicurezza-san-donato",
+    "descrizione": "Domani, 24 marzo, alle ore 11,30 in piazza Peyron, i firmatari della petizione incontrano i giornalisti",
+    "data": "2026-03-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d41b4ff0050c",
+    "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi aprile 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico",
+    "descrizione": "Integrazione calendario eventi aprile 2026: anticipo a sabato 11 aprile della partita TORINO FC - HELLAS VERONA",
+    "data": "2026-03-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "d7f217ba0c5a",
     "titolo": "Referendum, l’affluenza alle ore 23",
     "link": "https://www.torinoclick.it/incomune/referendum-laffluenza-alle-ore-23/",
@@ -53,7 +93,7 @@
     "id": "686c2d8b148c",
     "titolo": "Referendum, l’affluenza alle ore 23",
     "link": "https://www.comune.torino.it/novita/comunicati/referendum-laffluenza-alle-ore-23",
-    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze degli elettori nei seggi di Torino alle ore 23, che è stata pari al 49,94%",
+    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze degli elettori nei seggi di Torino alle ore 23, che è stata pari al 49,94%.",
     "data": "2026-03-22T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1955,46 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/10/15enne-invalido-torturato-per-ore-a-torino-la-notte-di-halloween-messa-alla-prova-per-lindagata-minorenne/",
     "descrizione": "L'indagata è accusata di violenza privata e sequestro di persona L'articolo 15enne invalido torturato per ore a Torino la notte di Halloween, messa alla prova per l’indagata minorenne proviene da Quotidiano Piemontese.",
     "data": "2026-03-10T14:16:58+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "3bdd4f16b372",
-    "titolo": "Torino, previsioni meteo del 11 marzo 2026",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/torino-previsioni-meteo-del-11-marzo-2026/",
-    "descrizione": "Meteo Torino 11 marzo: nebbie al mattino e cielo variabile nel pomeriggio. Temperature fino a 15°C. Sabato possibile pioggia. L'articolo Torino, previsioni meteo del 11 marzo 2026 proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T14:00:52+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "6abe928ff1a2",
-    "titolo": "Un contrassegno unico ZTL per gli agenti di commercio",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/un-contrassegno-unico-ztl-per-gli-agenti-di-commercio/",
-    "descrizione": "Gli agenti di commercio potranno richiedere il rilascio di un contrassegno unico per accedere alle Zone a traffico limitato presenti sul territorio regionale per svolgere la propria attività professionale. È quanto prevede la proposta di legge – primo firmatario Fabrizio Ricca (Lega). La legge permette agli agenti di commercio regolarmente iscritti presso le Camere di commercio di […] L'articolo Un contrassegno unico ZTL per gli agenti di commercio proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T13:42:29+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "e0a5b1577abc",
-    "titolo": "Project financing per un nuovo complesso sportivo nell’area della Piscina Sempione: dalla Giunta il riconoscimento di pubblico interesse",
-    "link": "https://www.torinoclick.it/territorio/project-financing-per-un-nuovo-complesso-sportivo-nellarea-della-piscina-sempione-dalla-giunta-il-riconoscimento-di-pubblico-interesse/",
-    "descrizione": "La Giunta comunale ha approvato oggi, su proposta degli assessori al Verde Francesco Tresso e allo Sport Domenico Carretta, il riconoscimento di pubblico interesse per la proposta di project financing relativa alla progettazione, realizzazione e gestione di un nuovo complesso sportivo nell’area della Piscina Sempione, in via Gottardo.",
-    "data": "2026-03-10T13:31:21+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "956122db8a16",
-    "titolo": "A Torino recuperato un altro alloggio occupato abusivamente dal 2022",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/torino-recuperato-alloggio-occupato-abusivamente/",
-    "descrizione": "L’appartamento, occupato nel 2022, è stato messo in sicurezza da Atc L'articolo A Torino recuperato un altro alloggio occupato abusivamente dal 2022 proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T13:29:51+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
