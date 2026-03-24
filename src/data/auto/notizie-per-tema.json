@@ -1,4 +1,354 @@
 {
+  "lavoro-occupazione": [
+    {
+      "id": "1c331d3b432b",
+      "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
+      "link": "https://www.torinoclick.it/incomune/appalti-badge-nei-cantieri-stop-ai-subappalti-a-cascata-citta-e-sindacati-firmano-il-nuovo-protocollo-su-sicurezza-e-lavoro-giusto/",
+      "data": "2026-03-24T12:07:25+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "d41b4ff0050c",
+      "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi aprile 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico",
+      "data": "2026-03-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "430093233b20",
+      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
+      "link": "https://www.torinoclick.it/societa/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
+      "data": "2026-03-21T13:54:17+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "63330a2a5c41",
+      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
+      "link": "https://www.torinoclick.it/incomune/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
+      "data": "2026-03-21T13:54:17+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "9f5e5fd57491",
+      "titolo": "MaB CollinaPo. Dieci anni della Riserva della Biosfera MaB UNESCO che guarda al futuro del suo territorio",
+      "link": "https://www.torinoclick.it/territorio/buon-compleanno-collinapo-dieci-anni-di-riserva-della-biosfera-unesco/",
+      "data": "2026-03-19T14:49:51+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "c82cad4a63ba",
+      "titolo": "Sabato 21 marzo il corteo per la Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie, previste modifiche viabili",
+      "link": "https://www.torinoclick.it/trasporti/sabato-21-marzo-il-corteo-per-la-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie-previste-modifiche-viabili/",
+      "data": "2026-03-18T15:26:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "aa8970f27ae0",
+      "titolo": "Il Consiglio comunale approva il progetto preliminare del nuovo Piano Regolatore",
+      "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-progetto-preliminare-nuovo-piano-regolatore",
+      "data": "2026-03-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6f3546b5eb74",
+      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
+      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
+      "data": "2026-03-15T11:20:34+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "79337cb38014",
+      "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
+      "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
+      "data": "2026-03-13T11:19:19+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "ae9f5515273e",
+      "titolo": "Valorizzare talento e merito con la certificazione delle competenze",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/valorizzare-talento-merito-certificazione-delle-competenze",
+      "data": "2026-03-12T10:36:04+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a13240cfbb96",
+      "titolo": "Cappuccino e brioche ballando col dj, la nuova moda della domenica mattina conquista Torino: locali e istituzioni si interrogano sulle regole",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/morning-club-torino-colazione-dj-set-regole/",
+      "data": "2026-03-12T07:43:35+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "708acf5aa1dc",
+      "titolo": "“Situazione insostenibile”, stato di agitazione del comparto sanitario della Città della Salute di Torino",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/situazione-insostenibile-stato-di-agitazione-del-comparto-sanitario-della-citta-della-salute-di-torino/",
+      "data": "2026-03-11T13:57:57+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "7ea97ff120e7",
+      "titolo": "Carcere di Vercelli: 47 provvedimenti disciplinari per agenti dopo il caso della detenuta incinta",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/provvedimenti-disciplinari-agenti-carcere-vercelli/",
+      "data": "2026-03-11T10:46:39+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "af01df47d1f0",
+      "titolo": "Operaio cade da ponteggio nel cantiere della chiesa di via San Lorenzo ad Alessandria: è grave",
+      "link": "https://www.quotidianopiemontese.it/2026/03/10/operaio-cade-ponteggio-cantiere-chiesa-san-lorenzo-alessandria/",
+      "data": "2026-03-10T20:09:01+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "1f9e3ea26460",
+      "titolo": "In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR",
+      "link": "https://www.quotidianopiemontese.it/2026/03/10/lavori-sanita-piemonte-pnrr-riboldi/",
+      "data": "2026-03-10T18:16:51+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "a1baff6ce495",
+      "titolo": "Il Piemonte al Mipim 2026: oltre 6 milioni di metri quadri di opportunità. Riflettori puntati anche sul Piano Regolatore della Città di Torino",
+      "link": "https://www.torinoclick.it/territorio/il-piemonte-al-mipim-2026-oltre-6-milioni-di-metri-quadri-di-opportunita-riflettori-puntati-anche-sul-piano-regolatore-della-citta-di-torino/",
+      "data": "2026-03-10T16:42:02+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "396e3cf651e7",
+      "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
+      "link": "https://pie.camcom.it/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
+      "data": "2026-03-10T14:59:10.420234+00:00",
+      "fonte": "Unioncamere Piemonte",
+      "fonte_id": "unioncamere"
+    }
+  ],
+  "edilizia-opere-pubbliche": [
+    {
+      "id": "1c331d3b432b",
+      "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
+      "link": "https://www.torinoclick.it/incomune/appalti-badge-nei-cantieri-stop-ai-subappalti-a-cascata-citta-e-sindacati-firmano-il-nuovo-protocollo-su-sicurezza-e-lavoro-giusto/",
+      "data": "2026-03-24T12:07:25+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "3a11b3c61b66",
+      "titolo": "Pasqua senza cantieri sulle autostrade piemontesi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/pasqua-senza-cantieri-sulle-autostrade-piemontesi",
+      "data": "2026-03-18T14:25:28+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e88cfda5087c",
+      "titolo": "La demolizione di tre fabbricati porta in dote nuove aree commerciali e residenziali che rigenerano il tessuto urbano di tre quartieri",
+      "link": "https://www.torinoclick.it/territorio/la-demolizione-di-tre-fabbricati-porta-in-dote-nuove-aree-commerciali-e-residenziali-che-rigenerano-il-tessuto-urbano-di-tre-quartieri/",
+      "data": "2026-03-12T13:50:57+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "82e0e70069c5",
+      "titolo": "Nell’area dell’ex fonderia Roz un giardino e un nuovo edificio residenziale",
+      "link": "https://www.torinoclick.it/societa/nellarea-dellex-fonderia-roz-un-giardino-e-un-nuovo-edificio-residenziale/",
+      "data": "2026-03-11T16:40:04+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "b2c014574a27",
+      "titolo": "Nell’area dell’ex fonderia Roz un giardino e un nuovo edificio residenziale",
+      "link": "https://www.torinoclick.it/territorio/nellarea-dellex-fonderia-roz-un-giardino-e-un-nuovo-edificio-residenziale/",
+      "data": "2026-03-11T16:40:04+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "02c2483a154e",
+      "titolo": "Maltempo aprile 2025, dal Governo altri 45 milioni per il Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aprile-2025-dal-governo-altri-45-milioni-per-piemonte",
+      "data": "2026-03-11T11:34:49+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "cultura-beni-culturali": [
+    {
+      "id": "0588ff23550b",
+      "titolo": "Domenica 29 marzo la Deejay Ten riparte da Torino",
+      "link": "https://www.torinoclick.it/sport/domenica-29-marzo-la-deejay-ten-riparte-da-torino/",
+      "data": "2026-03-24T10:37:20+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "4b20657a411a",
+      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
+      "link": "https://www.torinoclick.it/incomune/palazzo-civico-riapre-la-sala-carpanini-dopo-gli-interventi-di-restauro-sara-una-sala-di-rappresentanza/",
+      "data": "2026-03-20T16:54:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "60da1e092469",
+      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
+      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
+      "data": "2026-03-20T16:03:01+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "044d0b70e990",
+      "titolo": "Attestato sostitutivo di tessera elettorale",
+      "link": "https://www.comune.torino.it/novita/avvisi/attestato-sostitutivo-tessera-elettorale",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ccc250495c4c",
+      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
+      "link": "https://www.comune.torino.it/novita/comunicati/palazzo-civico-riapre-sala-carpanini-dopo-interventi-restauro-sara-una-sala",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "748e396f3d2f",
+      "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
+      "link": "https://www.torinoclick.it/cultura/torino-2033-con-leuropa-e-di-casa-torino-chiama-artisti-internazionali-e-cittadini-per-co-creare-8-proposte-per-il-dossier-di-candidatura/",
+      "data": "2026-03-19T13:17:43+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "e301433094b0",
+      "titolo": "Referendum 22/23 marzo - Aperture straordinarie per il rilascio di carte d'identità",
+      "link": "https://www.comune.torino.it/novita/avvisi/referendum-2223-marzo-aperture-straordinarie-per-rilascio-carte-didentita",
+      "data": "2026-03-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4eb0c0077b9f",
+      "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-2033-leuropa-casa-torino-chiama-artisti-internazionali-cittadini-per-co",
+      "data": "2026-03-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6b02065de5ee",
+      "titolo": "Mobilità sostenibile e inclusione: al via il progetto “Pedali Sociali” nelle case ATC",
+      "link": "https://www.torinoclick.it/territorio/mobilita-sostenibile-e-inclusione-al-via-il-progetto-pedali-sociali-nelle-case-atc/",
+      "data": "2026-03-19T11:24:23+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "b209a0835f39",
+      "titolo": "Il 21 marzo la XXXI Giornata della memoria e dell’impegno in ricordo delle vittime innocenti delle mafie",
+      "link": "https://www.torinoclick.it/torinese/il-21-marzo-la-xxxi-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie/",
+      "data": "2026-03-18T15:29:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "ee101bd2305f",
+      "titolo": "Oggi Torino e l’amministrazione comunale ricordano le vittime del Bardo",
+      "link": "https://www.torinoclick.it/fotonotizia/oggi-torino-e-lamministrazione-comunale-ricordano-le-vittime-del-bardo/",
+      "data": "2026-03-18T14:35:53+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "c3fa31c5f44c",
+      "titolo": "Le scuole torinesi al Festival della Felicità",
+      "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
+      "data": "2026-03-17T15:49:04+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "8ca03da56e01",
+      "titolo": "CFM: cercasi DJ professionista per progetto. Avviso pubblicato",
+      "link": "https://www.comune.torino.it/novita/avvisi/cfm-cercasi-dj-professionista-per-progetto-avviso-pubblicato",
+      "data": "2026-03-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6f3546b5eb74",
+      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
+      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
+      "data": "2026-03-15T11:20:34+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "2edc01cba66c",
+      "titolo": "36 nuovi agenti di Polizia Locale prenderanno servizio in Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/36-nuovi-agenti-polizia-locale-prenderanno-servizio-piemonte",
+      "data": "2026-03-13T13:47:55+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cbd5024a7227",
+      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
+      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
+      "data": "2026-03-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c93f0a59deac",
+      "titolo": "“In between places you can find me”: all’Accademia Albertina si dialoga con arte e natura",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/mostra-pav-torino-in-between-places-you-can-find-me/",
+      "data": "2026-03-11T19:42:24+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "b8ebc1741e23",
+      "titolo": "Milano-Torino, 150 anni della corsa ciclistica più antica al mondo: al via le celebrazioni",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/150-anni-milano-torino-corsa-ciclistica-antica/",
+      "data": "2026-03-11T18:48:34+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "8a41b639dd88",
+      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
+      "link": "https://www.torinoclick.it/societa/stampe-latelier-di-comunita-laboratorio-sociale-per-larte-e-limprenditoria-sostenibile/",
+      "data": "2026-03-11T18:17:52+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "b9b65a529707",
+      "titolo": "Festival della Felicità 2026, la terza edizione dal 13 al 17 marzo",
+      "link": "https://www.torinoclick.it/societa/festival-della-felicita-2026-la-terza-edizione-dal-13-al-17-marzo/",
+      "data": "2026-03-11T15:08:46+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
   "enti-locali-piccoli-comuni": [
     {
       "id": "4eae4c0b5a19",
@@ -201,144 +551,6 @@
       "data": "2026-03-11T09:53:26+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "d41b4ff0050c",
-      "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi aprile 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico",
-      "data": "2026-03-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "430093233b20",
-      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
-      "link": "https://www.torinoclick.it/societa/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
-      "data": "2026-03-21T13:54:17+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "63330a2a5c41",
-      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
-      "link": "https://www.torinoclick.it/incomune/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
-      "data": "2026-03-21T13:54:17+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "9f5e5fd57491",
-      "titolo": "MaB CollinaPo. Dieci anni della Riserva della Biosfera MaB UNESCO che guarda al futuro del suo territorio",
-      "link": "https://www.torinoclick.it/territorio/buon-compleanno-collinapo-dieci-anni-di-riserva-della-biosfera-unesco/",
-      "data": "2026-03-19T14:49:51+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "c82cad4a63ba",
-      "titolo": "Sabato 21 marzo il corteo per la Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie, previste modifiche viabili",
-      "link": "https://www.torinoclick.it/trasporti/sabato-21-marzo-il-corteo-per-la-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie-previste-modifiche-viabili/",
-      "data": "2026-03-18T15:26:24+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "aa8970f27ae0",
-      "titolo": "Il Consiglio comunale approva il progetto preliminare del nuovo Piano Regolatore",
-      "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-progetto-preliminare-nuovo-piano-regolatore",
-      "data": "2026-03-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6f3546b5eb74",
-      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
-      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
-      "data": "2026-03-15T11:20:34+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "79337cb38014",
-      "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
-      "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
-      "data": "2026-03-13T11:19:19+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "ae9f5515273e",
-      "titolo": "Valorizzare talento e merito con la certificazione delle competenze",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/valorizzare-talento-merito-certificazione-delle-competenze",
-      "data": "2026-03-12T10:36:04+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a13240cfbb96",
-      "titolo": "Cappuccino e brioche ballando col dj, la nuova moda della domenica mattina conquista Torino: locali e istituzioni si interrogano sulle regole",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/morning-club-torino-colazione-dj-set-regole/",
-      "data": "2026-03-12T07:43:35+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "708acf5aa1dc",
-      "titolo": "“Situazione insostenibile”, stato di agitazione del comparto sanitario della Città della Salute di Torino",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/situazione-insostenibile-stato-di-agitazione-del-comparto-sanitario-della-citta-della-salute-di-torino/",
-      "data": "2026-03-11T13:57:57+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "7ea97ff120e7",
-      "titolo": "Carcere di Vercelli: 47 provvedimenti disciplinari per agenti dopo il caso della detenuta incinta",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/provvedimenti-disciplinari-agenti-carcere-vercelli/",
-      "data": "2026-03-11T10:46:39+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "af01df47d1f0",
-      "titolo": "Operaio cade da ponteggio nel cantiere della chiesa di via San Lorenzo ad Alessandria: è grave",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/operaio-cade-ponteggio-cantiere-chiesa-san-lorenzo-alessandria/",
-      "data": "2026-03-10T20:09:01+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "1f9e3ea26460",
-      "titolo": "In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/lavori-sanita-piemonte-pnrr-riboldi/",
-      "data": "2026-03-10T18:16:51+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "a1baff6ce495",
-      "titolo": "Il Piemonte al Mipim 2026: oltre 6 milioni di metri quadri di opportunità. Riflettori puntati anche sul Piano Regolatore della Città di Torino",
-      "link": "https://www.torinoclick.it/territorio/il-piemonte-al-mipim-2026-oltre-6-milioni-di-metri-quadri-di-opportunita-riflettori-puntati-anche-sul-piano-regolatore-della-citta-di-torino/",
-      "data": "2026-03-10T16:42:02+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "396e3cf651e7",
-      "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
-      "link": "https://pie.camcom.it/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
-      "data": "2026-03-10T14:59:10.420234+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "779c393fb0cd",
-      "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
-      "link": "https://pie.camcom.it/index.php/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
-      "data": "2026-03-10T14:59:07.277274+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
     }
   ],
   "giovani": [
@@ -671,168 +883,6 @@
       "fonte_id": "quotidiano_piemontese"
     }
   ],
-  "cultura-beni-culturali": [
-    {
-      "id": "4b20657a411a",
-      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
-      "link": "https://www.torinoclick.it/incomune/palazzo-civico-riapre-la-sala-carpanini-dopo-gli-interventi-di-restauro-sara-una-sala-di-rappresentanza/",
-      "data": "2026-03-20T16:54:24+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "60da1e092469",
-      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
-      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
-      "data": "2026-03-20T16:03:01+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "044d0b70e990",
-      "titolo": "Attestato sostitutivo di tessera elettorale",
-      "link": "https://www.comune.torino.it/novita/avvisi/attestato-sostitutivo-tessera-elettorale",
-      "data": "2026-03-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ccc250495c4c",
-      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
-      "link": "https://www.comune.torino.it/novita/comunicati/palazzo-civico-riapre-sala-carpanini-dopo-interventi-restauro-sara-una-sala",
-      "data": "2026-03-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "748e396f3d2f",
-      "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
-      "link": "https://www.torinoclick.it/cultura/torino-2033-con-leuropa-e-di-casa-torino-chiama-artisti-internazionali-e-cittadini-per-co-creare-8-proposte-per-il-dossier-di-candidatura/",
-      "data": "2026-03-19T13:17:43+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "e301433094b0",
-      "titolo": "Referendum 22/23 marzo - Aperture straordinarie per il rilascio di carte d'identità",
-      "link": "https://www.comune.torino.it/novita/avvisi/referendum-2223-marzo-aperture-straordinarie-per-rilascio-carte-didentita",
-      "data": "2026-03-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4eb0c0077b9f",
-      "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-2033-leuropa-casa-torino-chiama-artisti-internazionali-cittadini-per-co",
-      "data": "2026-03-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6b02065de5ee",
-      "titolo": "Mobilità sostenibile e inclusione: al via il progetto “Pedali Sociali” nelle case ATC",
-      "link": "https://www.torinoclick.it/territorio/mobilita-sostenibile-e-inclusione-al-via-il-progetto-pedali-sociali-nelle-case-atc/",
-      "data": "2026-03-19T11:24:23+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "b209a0835f39",
-      "titolo": "Il 21 marzo la XXXI Giornata della memoria e dell’impegno in ricordo delle vittime innocenti delle mafie",
-      "link": "https://www.torinoclick.it/torinese/il-21-marzo-la-xxxi-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie/",
-      "data": "2026-03-18T15:29:24+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "ee101bd2305f",
-      "titolo": "Oggi Torino e l’amministrazione comunale ricordano le vittime del Bardo",
-      "link": "https://www.torinoclick.it/fotonotizia/oggi-torino-e-lamministrazione-comunale-ricordano-le-vittime-del-bardo/",
-      "data": "2026-03-18T14:35:53+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "c3fa31c5f44c",
-      "titolo": "Le scuole torinesi al Festival della Felicità",
-      "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
-      "data": "2026-03-17T15:49:04+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "8ca03da56e01",
-      "titolo": "CFM: cercasi DJ professionista per progetto. Avviso pubblicato",
-      "link": "https://www.comune.torino.it/novita/avvisi/cfm-cercasi-dj-professionista-per-progetto-avviso-pubblicato",
-      "data": "2026-03-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6f3546b5eb74",
-      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
-      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
-      "data": "2026-03-15T11:20:34+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "2edc01cba66c",
-      "titolo": "36 nuovi agenti di Polizia Locale prenderanno servizio in Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/36-nuovi-agenti-polizia-locale-prenderanno-servizio-piemonte",
-      "data": "2026-03-13T13:47:55+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cbd5024a7227",
-      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
-      "data": "2026-03-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c93f0a59deac",
-      "titolo": "“In between places you can find me”: all’Accademia Albertina si dialoga con arte e natura",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/mostra-pav-torino-in-between-places-you-can-find-me/",
-      "data": "2026-03-11T19:42:24+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "b8ebc1741e23",
-      "titolo": "Milano-Torino, 150 anni della corsa ciclistica più antica al mondo: al via le celebrazioni",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/150-anni-milano-torino-corsa-ciclistica-antica/",
-      "data": "2026-03-11T18:48:34+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "8a41b639dd88",
-      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-      "link": "https://www.torinoclick.it/societa/stampe-latelier-di-comunita-laboratorio-sociale-per-larte-e-limprenditoria-sostenibile/",
-      "data": "2026-03-11T18:17:52+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "b9b65a529707",
-      "titolo": "Festival della Felicità 2026, la terza edizione dal 13 al 17 marzo",
-      "link": "https://www.torinoclick.it/societa/festival-della-felicita-2026-la-terza-edizione-dal-13-al-17-marzo/",
-      "data": "2026-03-11T15:08:46+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "7a71cc68d48b",
-      "titolo": "Giornata mondiale contro l’islamofobia. A Torino il convegno Uniti contro l’Islamofobia e visite alle moschee",
-      "link": "https://www.torinoclick.it/societa/giornata-mondiale-contro-lislamofobia-a-torino-un-convegno-e-moschee-aperte/",
-      "data": "2026-03-11T14:50:11+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
   "trasparenza": [
     {
       "id": "60da1e092469",
@@ -945,14 +995,6 @@
       "titolo": "Esportazioni piemontesi: nei primi nove mesi del 2025 tornano in positivo (+1,7% rispetto allo stesso periodo del 2024)",
       "link": "https://pie.camcom.it/notizie/esportazioni-piemontesi-nei-primi-nove-mesi-del-2025-tornano-positivo-17-rispetto-allo-stesso",
       "data": "2026-03-10T14:59:10.420093+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "f60f0bf1e8c2",
-      "titolo": "Esportazioni piemontesi: nei primi nove mesi del 2025 tornano in positivo (+1,7% rispetto allo stesso periodo del 2024)",
-      "link": "https://pie.camcom.it/index.php/notizie/esportazioni-piemontesi-nei-primi-nove-mesi-del-2025-tornano-positivo-17-rispetto-allo-stesso",
-      "data": "2026-03-10T14:59:07.277135+00:00",
       "fonte": "Unioncamere Piemonte",
       "fonte_id": "unioncamere"
     }
@@ -1107,48 +1149,6 @@
       "data": "2026-03-11T14:35:51+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    }
-  ],
-  "edilizia-opere-pubbliche": [
-    {
-      "id": "3a11b3c61b66",
-      "titolo": "Pasqua senza cantieri sulle autostrade piemontesi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/pasqua-senza-cantieri-sulle-autostrade-piemontesi",
-      "data": "2026-03-18T14:25:28+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e88cfda5087c",
-      "titolo": "La demolizione di tre fabbricati porta in dote nuove aree commerciali e residenziali che rigenerano il tessuto urbano di tre quartieri",
-      "link": "https://www.torinoclick.it/territorio/la-demolizione-di-tre-fabbricati-porta-in-dote-nuove-aree-commerciali-e-residenziali-che-rigenerano-il-tessuto-urbano-di-tre-quartieri/",
-      "data": "2026-03-12T13:50:57+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "82e0e70069c5",
-      "titolo": "Nell’area dell’ex fonderia Roz un giardino e un nuovo edificio residenziale",
-      "link": "https://www.torinoclick.it/societa/nellarea-dellex-fonderia-roz-un-giardino-e-un-nuovo-edificio-residenziale/",
-      "data": "2026-03-11T16:40:04+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "b2c014574a27",
-      "titolo": "Nell’area dell’ex fonderia Roz un giardino e un nuovo edificio residenziale",
-      "link": "https://www.torinoclick.it/territorio/nellarea-dellex-fonderia-roz-un-giardino-e-un-nuovo-edificio-residenziale/",
-      "data": "2026-03-11T16:40:04+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "02c2483a154e",
-      "titolo": "Maltempo aprile 2025, dal Governo altri 45 milioni per il Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aprile-2025-dal-governo-altri-45-milioni-per-piemonte",
-      "data": "2026-03-11T11:34:49+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "universita-ricerca": [
@@ -1457,14 +1457,6 @@
       "titolo": "Imprese femminili: sono 93.489 nel 2025, il 22,4% del totale",
       "link": "https://pie.camcom.it/notizie/imprese-femminili-sono-93489-nel-2025-il-224-del-totale",
       "data": "2026-03-10T14:59:10.419416+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "779c393fb0cd",
-      "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
-      "link": "https://pie.camcom.it/index.php/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
-      "data": "2026-03-10T14:59:07.277274+00:00",
       "fonte": "Unioncamere Piemonte",
       "fonte_id": "unioncamere"
     }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "a0eb57d7b6b6",
+    "titolo": "Sosta: la Città riorganizza l’area camper Caio Mario e introduce nuove agevolazioni per residenti e persone con disabilità",
+    "link": "https://www.torinoclick.it/trasporti/sosta-la-citta-riorganizza-larea-camper-caio-mario-e-introduce-nuove-agevolazioni-per-residenti-e-persone-con-disabilita/",
+    "descrizione": "Torino migliora l’accoglienza nell’area camper di Caio Mario e la gestione dei parcheggi in struttura attraverso un piano di interventi volto a garantire decoro, facilità di parcheggio e nuove agevolazioni per i cittadini. Il provvedimento è stato approvato questa mattina dalla Giunta comunale su proposta dell’assessora alla Mobilità Chiara Foglietta.",
+    "data": "2026-03-24T12:16:34+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "1c331d3b432b",
+    "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
+    "link": "https://www.torinoclick.it/incomune/appalti-badge-nei-cantieri-stop-ai-subappalti-a-cascata-citta-e-sindacati-firmano-il-nuovo-protocollo-su-sicurezza-e-lavoro-giusto/",
+    "descrizione": "È stato siglato questa mattina, nella sala Colonne di Palazzo Civico, il nuovo “Protocollo d’intesa sulla sicurezza e legalità nel settore degli appalti di lavori pubblici e subappalti nei contratti del Comune di Torino”. Il documento è stato approvato nel corso della Giunta Comunale su proposta della vicesindaca con delega al Lavoro Michela Favaro e poi sottoscritto con i rappresentanti delle sigle sindacali CGIL, CISL e UIL e con l’assessore alla Legalità Marco Porcedda.",
+    "data": "2026-03-24T12:07:25+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "0588ff23550b",
+    "titolo": "Domenica 29 marzo la Deejay Ten riparte da Torino",
+    "link": "https://www.torinoclick.it/sport/domenica-29-marzo-la-deejay-ten-riparte-da-torino/",
+    "descrizione": "Tutto pronto a Torino per il ritorno della Deejay Ten, che domenica 29 marzo alle ore 9.30 inaugura l’edizione 2026 con una tappa già sold out. Dopo il successo dello scorso anno, con oltre 60mila partecipanti, la corsa itinerante non agonistica ideata da Linus si conferma uno degli appuntamenti più attesi per gli amanti della corsa e del divertimento all’aria aperta.",
+    "data": "2026-03-24T10:37:20+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
     "id": "4eae4c0b5a19",
     "titolo": "Referendum costituzionale, 63,88% l’affluenza finale a Torino",
     "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-finale/",
@@ -1965,36 +1995,6 @@
     "link": "https://pie.camcom.it/notizie/imprese-femminili-sono-93489-nel-2025-il-224-del-totale",
     "descrizione": "",
     "data": "2026-03-10T14:59:10.419416+00:00",
-    "fonte": "Unioncamere Piemonte",
-    "fonte_id": "unioncamere",
-    "colore": "#ca8a04"
-  },
-  {
-    "id": "76dd66113497",
-    "titolo": "Le cifre chiave del Nord Ovest:  Piemonte, Liguria e Valle d’Aosta polo strategico europeo",
-    "link": "https://pie.camcom.it/index.php/notizie/le-cifre-chiave-del-nord-ovest-piemonte-liguria-e-valle-daosta-polo-strategico-europeo",
-    "descrizione": "Lun 01 Dic, 2025",
-    "data": "2026-03-10T14:59:07.277421+00:00",
-    "fonte": "Unioncamere Piemonte",
-    "fonte_id": "unioncamere",
-    "colore": "#ca8a04"
-  },
-  {
-    "id": "779c393fb0cd",
-    "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
-    "link": "https://pie.camcom.it/index.php/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
-    "descrizione": "Ven 05 Dic, 2025",
-    "data": "2026-03-10T14:59:07.277274+00:00",
-    "fonte": "Unioncamere Piemonte",
-    "fonte_id": "unioncamere",
-    "colore": "#ca8a04"
-  },
-  {
-    "id": "f60f0bf1e8c2",
-    "titolo": "Esportazioni piemontesi: nei primi nove mesi del 2025 tornano in positivo (+1,7% rispetto allo stesso periodo del 2024)",
-    "link": "https://pie.camcom.it/index.php/notizie/esportazioni-piemontesi-nei-primi-nove-mesi-del-2025-tornano-positivo-17-rispetto-allo-stesso",
-    "descrizione": "Ven 12 Dic, 2025",
-    "data": "2026-03-10T14:59:07.277135+00:00",
     "fonte": "Unioncamere Piemonte",
     "fonte_id": "unioncamere",
     "colore": "#ca8a04"
