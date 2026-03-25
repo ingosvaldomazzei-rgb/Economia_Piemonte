@@ -44,6 +44,21 @@ def get_week_range():
     return start, now
 
 
+def get_latest_news_datetime(notizie):
+    """Restituisce la data più recente disponibile nel dataset notizie."""
+    latest = None
+    for n in notizie:
+        try:
+            dt = datetime.fromisoformat(n.get('data', ''))
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            if latest is None or dt > latest:
+                latest = dt
+        except (ValueError, TypeError):
+            continue
+    return latest
+
+
 def classify_notizia(notizia):
     """Classifica una notizia restituendo i temi associati."""
     testo = (notizia.get('titolo', '') + ' ' + notizia.get('descrizione', '')).lower()
@@ -364,9 +379,19 @@ def main():
         notizie = json.load(f)
 
     start_date, end_date = get_week_range()
-    print(f"  Periodo: {start_date.strftime('%d/%m/%Y')} - {end_date.strftime('%d/%m/%Y')}")
+    print(f"  Periodo iniziale: {start_date.strftime('%d/%m/%Y')} - {end_date.strftime('%d/%m/%Y')}")
 
     briefing = generate_briefing_data(notizie, start_date, end_date)
+
+    # Fallback: se non ci sono notizie nell'ultima settimana, usa la finestra
+    # più recente disponibile nel dataset per evitare briefing vuoti.
+    if not briefing:
+        latest_news_dt = get_latest_news_datetime(notizie)
+        if latest_news_dt:
+            end_date = latest_news_dt
+            start_date = end_date - timedelta(days=7)
+            print(f"  Fallback periodo dati: {start_date.strftime('%d/%m/%Y')} - {end_date.strftime('%d/%m/%Y')}")
+            briefing = generate_briefing_data(notizie, start_date, end_date)
 
     # Carica archivio briefing precedenti
     archivio_path = os.path.join(DATA_DIR, 'briefing-archivio.json')
