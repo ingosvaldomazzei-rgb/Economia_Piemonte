@@ -156,6 +156,81 @@ def scrape_unioncamere_page(url, source_config):
     return notizie
 
 
+def scrape_consiglio_sedute_page(url, source_config):
+    """Scrape resoconti sedute del Consiglio Regionale."""
+    notizie = []
+    try:
+        resp = requests.get(url, timeout=REQUEST_TIMEOUT, headers=HEADERS)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, 'html.parser')
+
+        selectors = [
+            '.results .item', '.result', '.search-result',
+            'table tr', 'article', '.elenco-sedute li', '.list-group-item'
+        ]
+        items = []
+        for sel in selectors:
+            items = soup.select(sel)
+            if items:
+                break
+
+        if not items:
+            items = soup.select('a[href*="seduta"], a[href*="resoconto"], a[href*="verbale"]')
+
+        for item in items[:40]:
+            link_el = item if getattr(item, 'name', None) == 'a' else item.find('a', href=True)
+            if not link_el:
+                continue
+
+            titolo = link_el.get_text(' ', strip=True)
+            href = (link_el.get('href') or '').strip()
+            if not titolo or len(titolo) < 8 or not href:
+                continue
+
+            if href.startswith('/'):
+                link = 'https://www.cr.piemonte.it' + href
+            elif href.startswith('http'):
+                link = href
+            else:
+                continue
+
+            titolo_l = titolo.lower()
+            if not any(k in titolo_l for k in ['seduta', 'resoconto', 'verbale', 'consiglio']):
+                continue
+
+            descrizione = ''
+            desc_el = item.find(['p', 'td', 'div', 'span']) if getattr(item, 'name', None) != 'a' else None
+            if desc_el:
+                descrizione = desc_el.get_text(' ', strip=True)[:500]
+
+            data = datetime.now(timezone.utc).isoformat()
+            date_candidates = []
+            if getattr(item, 'name', None) != 'a':
+                date_candidates.extend(item.find_all(['time', 'span', 'td']))
+            for date_el in date_candidates[:4]:
+                parsed = _try_parse_date(date_el.get_text(' ', strip=True))
+                if parsed:
+                    data = parsed
+                    break
+
+            notizia_id = md5(link.encode()).hexdigest()[:12]
+            notizie.append({
+                'id': notizia_id,
+                'titolo': titolo,
+                'link': link,
+                'descrizione': descrizione,
+                'data': data,
+                'fonte': source_config['nome'],
+                'fonte_id': source_config['id'],
+                'colore': source_config['colore']
+            })
+
+    except Exception as e:
+        print(f"  ERRORE scraping {url}: {e}")
+
+    return notizie
+
+
 def _try_parse_date(text):
     """Prova a parsare una data da testo italiano o formato ISO."""
     if not text:
@@ -227,6 +302,8 @@ def main():
                 notizie = scrape_ires_page(url, source)
             elif source['id'] == 'unioncamere':
                 notizie = scrape_unioncamere_page(url, source)
+            elif source['id'] == 'consiglio_sedute':
+                notizie = scrape_consiglio_sedute_page(url, source)
             else:
                 notizie = []
 
