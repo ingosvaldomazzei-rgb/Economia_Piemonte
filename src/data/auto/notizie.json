@@ -1,5 +1,35 @@
 [
   {
+    "id": "077cd0ede812",
+    "titolo": "Biennale Tecnologia 2026 cerca “Soluzioni”",
+    "link": "https://www.torinoclick.it/economia/biennale-tecnologia-2026-cerca-soluzioni/",
+    "descrizione": "“In che modo la tecnologia può essere messa al servizio dell’interesse collettivo?” È questa la domanda al centro della quinta edizione della Biennale Tecnologia, presentata questa mattina alle Gallerie d’Italia in Piazza San Carlo. La manifestazione, per la quale quest’anno è stato scelto il titolo ‘Soluzioni’, dal 15 al 19 aprile trasformerà Torino in un vero e proprio laboratorio diffuso di idee, visioni e confronto.",
+    "data": "2026-03-25T11:59:01+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "295b4c32d297",
+    "titolo": "Peste suina: Novara e Vercelli tornano in zona indenne con parte di Alessandria e Asti",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-novara-vercelli-tornano-zona-indenne-parte-alessandria-asti",
+    "descrizione": "I territori compresi nelle province di Novara e Vercelli e nelle province di Asti e Alessandria al di sopra dell’asse dell’A21 Torino-Piacenza escono dalla zona di restrizione 2 riguardante la peste suina africana, in quanto da oltre 6 mesi non si sono più…",
+    "data": "2026-03-25T11:55:15+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "5ab6811e56f5",
+    "titolo": "Torino accoglie gli studenti di Nagoya. A Palazzo Civico un incontro tra cultura, giovani e amicizia internazionale",
+    "link": "https://www.torinoclick.it/relazioniinternazionali/torino-accoglie-gli-studenti-di-nagoya-a-palazzo-civico-un-incontro-tra-cultura-giovani-e-amicizia-internazionale/",
+    "descrizione": "Questa mattina Palazzo Civico di Torino ha accolto una delegazione di studentesse e studenti provenienti da Nagoya, in visita in città dal 21 al 27 marzo nell’ambito di uno scambio educativo con il Convitto Nazionale Umberto I, che dal 2023 ospita con continuità gruppi di studenti giapponesi.",
+    "data": "2026-03-25T11:05:29+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
     "id": "466654996775",
     "titolo": "ZTL Valentino: la Città amplia l’area a traffico limitato per valorizzare il parco",
     "link": "https://www.torinoclick.it/territorio/ztl-valentino-la-citta-amplia-larea-a-traffico-limitato-per-valorizzare-il-parco/",
@@ -161,7 +191,7 @@
   },
   {
     "id": "0f4524368088",
-    "titolo": "MERCATO NITTI. SPOSTAMENTO TEMPORANEO DEI CONCESSIONARI IN CONSEGUENZA DEI LAVORI DI RIFACIMENTO DEI MARCIAPIEDI NELLE GIORNATE DI 25 E 27 MARZO 2026 E FINO A CESSATE ESIGENZE",
+    "titolo": "Mercato Nitti. Spostamento temporaneo dei concessionari in conseguenza dei lavori di rifacimento dei marciapiedi nelle giornate del 25 e del 27 marzo 2026 e fino a cessate esigenze",
     "link": "https://www.comune.torino.it/novita/avvisi/mercato-nitti-spostamento-temporaneo-dei-concessionari-conseguenza-dei-lavori",
     "descrizione": "Mercoledì 25 marzo 2026 e venerdì 27 marzo 2026 e, comunque fino a fine lavori.",
     "data": "2026-03-23T12:00:00+00:00",
@@ -474,6 +504,16 @@
     "titolo": "Anna Maria Viziale ricordata in un giardino a Mirafiori",
     "link": "https://www.comune.torino.it/novita/comunicati/anna-maria-viziale-ricordata-un-giardino-mirafiori",
     "descrizione": "Un giardino in strada del Drosso è stato intitolato alla memoria dell'assessora all'istruzione negli anni del boom demografico dovuto all'immigrazione dal Sud",
+    "data": "2026-03-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fe57f8586445",
+    "titolo": "Incontri di presentazione Centri estivi 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/incontri-presentazione-centri-estivi-2026",
+    "descrizione": "Pubblicazione elenco incontri di presentazione dei centri di Estate Ragazzi Torino 2026",
     "data": "2026-03-20T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1958,45 +1998,5 @@
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
-  },
-  {
-    "id": "a1baff6ce495",
-    "titolo": "Il Piemonte al Mipim 2026: oltre 6 milioni di metri quadri di opportunità. Riflettori puntati anche sul Piano Regolatore della Città di Torino",
-    "link": "https://www.torinoclick.it/territorio/il-piemonte-al-mipim-2026-oltre-6-milioni-di-metri-quadri-di-opportunita-riflettori-puntati-anche-sul-piano-regolatore-della-citta-di-torino/",
-    "descrizione": "Il Piemonte è al MIPIM di Cannes (9-13 marzo 2026), il principale appuntamento internazionale dedicato al real estate e alla trasformazione urbana, che riunisce ogni anno oltre 20mila delegati da circa 90 Paesi e punto di incontro tra capitali, visioni di sviluppo e progettualità territoriali. La partecipazione è organizzata da Ceipiemonte nell’ambito del Progetto Attrazione Investimenti promosso da Regione Piemonte e dal Sistema Camerale piemontese, del Progetto Integrato di Filiera (PIF) “Clea",
-    "data": "2026-03-10T16:42:02+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "6eb99110c45c",
-    "titolo": "Il Piemonte al MIPIM 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-mipim-2026",
-    "descrizione": "Al MIPIM di Cannes, il principale appuntamento internazionale dedicato al settore immobiliare e alla trasformazione urbana, il Piemonte offre oltre 6,5 milioni di metri quadri di opportunità agli investitori internazionali e…",
-    "data": "2026-03-10T16:31:35+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "c89d88d3f85b",
-    "titolo": "Torino, nell’area della Piscina Sempione sarà realizzato un nuovo complesso sportivo",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/torino-nellarea-della-piscina-sempione-sara-realizzato-un-nuovo-complesso-sportivo/",
-    "descrizione": "Si va verso la riqualificazione di un’area che attualmente versa in condizioni di forte degrado L'articolo Torino, nell’area della Piscina Sempione sarà realizzato un nuovo complesso sportivo proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T16:09:52+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "3b8e06467c09",
-    "titolo": "Rosario Berardi, il maresciallo ucciso dalle Brigate Rosse, ricordato dalla Città",
-    "link": "https://www.torinoclick.it/sicurezza/rosario-berardi-il-maresciallo-ucciso-dalle-brigate-rosse-ricordato-dalla-citta/",
-    "descrizione": "La Città ha reso omaggio, questa mattina, al maresciallo di Pubblica Sicurezza Rosario Berardi, ucciso dalle Brigate Rosse 48 anni fa, nella sede della Congregazione delle Suore Carmelitane di Santa Teresa di corso Farini, a due passi da Largo Berardi, luogo dell’uccisione del maresciallo. L’Assessore alla Sicurezza Marco Porcedda, insieme al Vice Presidente Vicario della Sala Rossa, Domenico Garcea, in rappresentanza della Città, hanno voluto sottolineare come la figura di Berardi sia patrimoni",
-    "data": "2026-03-10T15:52:25+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
   }
 ]

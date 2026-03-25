@@ -3,25 +3,25 @@
   "notizie_per_fonte": {
     "torinoclick": 58,
     "regione": 19,
-    "comune_torino": 50,
-    "quotidiano_piemontese": 73
+    "comune_torino": 51,
+    "quotidiano_piemontese": 72
   },
   "temi_attivi": [
-    {
-      "tema": "cultura-beni-culturali",
-      "conteggio": 20
-    },
     {
       "tema": "enti-locali-piccoli-comuni",
       "conteggio": 20
     },
     {
+      "tema": "cultura-beni-culturali",
+      "conteggio": 20
+    },
+    {
       "tema": "lavoro-occupazione",
-      "conteggio": 17
+      "conteggio": 16
     },
     {
       "tema": "sanita-regionale",
-      "conteggio": 13
+      "conteggio": 12
     },
     {
       "tema": "istruzione-formazione",
@@ -29,10 +29,6 @@
     },
     {
       "tema": "sport",
-      "conteggio": 10
-    },
-    {
-      "tema": "pianificazione-territoriale",
       "conteggio": 9
     },
     {
@@ -44,7 +40,11 @@
       "conteggio": 9
     },
     {
-      "tema": "ambiente-qualita-aria",
+      "tema": "giovani",
+      "conteggio": 8
+    },
+    {
+      "tema": "pianificazione-territoriale",
       "conteggio": 8
     }
   ],
