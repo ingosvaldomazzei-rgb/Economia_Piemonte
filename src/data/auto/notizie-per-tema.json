@@ -1,5 +1,903 @@
 {
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "295b4c32d297",
+      "titolo": "Peste suina: Novara e Vercelli tornano in zona indenne con parte di Alessandria e Asti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-novara-vercelli-tornano-zona-indenne-parte-alessandria-asti",
+      "data": "2026-03-25T11:55:15+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4eae4c0b5a19",
+      "titolo": "Referendum costituzionale, 63,88% l’affluenza finale a Torino",
+      "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-finale/",
+      "data": "2026-03-23T15:27:41+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "803c6111eb5d",
+      "titolo": "Referendum Costituzionale, affluenza finale alle ore 15",
+      "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-finale-alle-ore-15",
+      "data": "2026-03-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d7f217ba0c5a",
+      "titolo": "Referendum, l’affluenza alle ore 23",
+      "link": "https://www.torinoclick.it/incomune/referendum-laffluenza-alle-ore-23/",
+      "data": "2026-03-22T22:00:39+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "7850a869068b",
+      "titolo": "Referendum, l’affluenza alle ore 19",
+      "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-laffluenza-alle-ore-19/",
+      "data": "2026-03-22T18:48:17+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "582822a45ded",
+      "titolo": "Referendum Costituzionale, affluenza alle ore 12",
+      "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-alle-ore-12",
+      "data": "2026-03-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7b05d5a8a08f",
+      "titolo": "Referendum Costituzionale, affluenza alle ore 19",
+      "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-alle-ore-19",
+      "data": "2026-03-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "686c2d8b148c",
+      "titolo": "Referendum, l’affluenza alle ore 23",
+      "link": "https://www.comune.torino.it/novita/comunicati/referendum-laffluenza-alle-ore-23",
+      "data": "2026-03-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f0283703afa3",
+      "titolo": "Referendum Costituzionale, affluenza alle ore 12",
+      "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-alle-ore-12/",
+      "data": "2026-03-22T11:40:49+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "60da1e092469",
+      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
+      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
+      "data": "2026-03-20T16:03:01+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "7974f3faca32",
+      "titolo": "Servizio Civile Universale 2026: 492 opportunità a Torino nei 48 progetti della Città",
+      "link": "https://www.torinoclick.it/incomune/servizio-civile-universale-2026-492-opportunita-a-torino-nei-48-progetti-della-citta/",
+      "data": "2026-03-19T14:42:58+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "6b354d940f54",
+      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-03-18T13:53:21+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bd57249923b3",
+      "titolo": "Torino tra i Comuni “Plastic Free 2026”",
+      "link": "https://www.torinoclick.it/economia/torino-tra-i-comuni-plastic-free-2026/",
+      "data": "2026-03-14T16:14:00+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "76e79d438316",
+      "titolo": "Maltempo in Piemonte nel weekend: allerta gialla per neve e valanghe",
+      "link": "https://www.quotidianopiemontese.it/2026/03/13/allerta-meteo-piemonte-neve-piogge-valanghe/",
+      "data": "2026-03-13T12:56:55+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "080ff2eda1d5",
+      "titolo": "Colori, segnaletica intuitiva e spazi per le famiglie: cambia il volto dell’Anagrafe Centrale",
+      "link": "https://www.torinoclick.it/incomune/lanagrafe-di-torino-cambia-volto-nuovo-sistema-di-orientamento-e-informazione-inclusiva-con-spazi-a-misura-di-famiglia-al-lavoro-una-task-force-per-il-rinnovo-delle-carte-di-identita-carta/",
+      "data": "2026-03-13T10:56:49+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "cbd5024a7227",
+      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
+      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
+      "data": "2026-03-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0de8b5635256",
+      "titolo": "Gli scacchi ti fanno ridere, piangere, emozionare: la nuova campagna di FSI anche a Torino",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/scacchi-italia-ridere-emozionare-campagna/",
+      "data": "2026-03-11T20:47:22+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "8a41b639dd88",
+      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
+      "link": "https://www.torinoclick.it/societa/stampe-latelier-di-comunita-laboratorio-sociale-per-larte-e-limprenditoria-sostenibile/",
+      "data": "2026-03-11T18:17:52+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "b822fbd8792b",
+      "titolo": "Partita la firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partita-firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-03-11T17:53:21+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "855f2564d74f",
+      "titolo": "Servizio Civile all'Ufficio Beni comuni",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-allufficio-beni-comuni",
+      "data": "2026-03-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "cultura-beni-culturali": [
+    {
+      "id": "295b4c32d297",
+      "titolo": "Peste suina: Novara e Vercelli tornano in zona indenne con parte di Alessandria e Asti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-novara-vercelli-tornano-zona-indenne-parte-alessandria-asti",
+      "data": "2026-03-25T11:55:15+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5ab6811e56f5",
+      "titolo": "Torino accoglie gli studenti di Nagoya. A Palazzo Civico un incontro tra cultura, giovani e amicizia internazionale",
+      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-accoglie-gli-studenti-di-nagoya-a-palazzo-civico-un-incontro-tra-cultura-giovani-e-amicizia-internazionale/",
+      "data": "2026-03-25T11:05:29+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "2d482794f268",
+      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
+      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0588ff23550b",
+      "titolo": "Domenica 29 marzo la Deejay Ten riparte da Torino",
+      "link": "https://www.torinoclick.it/sport/domenica-29-marzo-la-deejay-ten-riparte-da-torino/",
+      "data": "2026-03-24T10:37:20+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "4b20657a411a",
+      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
+      "link": "https://www.torinoclick.it/incomune/palazzo-civico-riapre-la-sala-carpanini-dopo-gli-interventi-di-restauro-sara-una-sala-di-rappresentanza/",
+      "data": "2026-03-20T16:54:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "60da1e092469",
+      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
+      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
+      "data": "2026-03-20T16:03:01+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "044d0b70e990",
+      "titolo": "Attestato sostitutivo di tessera elettorale",
+      "link": "https://www.comune.torino.it/novita/avvisi/attestato-sostitutivo-tessera-elettorale",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ccc250495c4c",
+      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
+      "link": "https://www.comune.torino.it/novita/comunicati/palazzo-civico-riapre-sala-carpanini-dopo-interventi-restauro-sara-una-sala",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "748e396f3d2f",
+      "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
+      "link": "https://www.torinoclick.it/cultura/torino-2033-con-leuropa-e-di-casa-torino-chiama-artisti-internazionali-e-cittadini-per-co-creare-8-proposte-per-il-dossier-di-candidatura/",
+      "data": "2026-03-19T13:17:43+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "e301433094b0",
+      "titolo": "Referendum 22/23 marzo - Aperture straordinarie per il rilascio di carte d'identità",
+      "link": "https://www.comune.torino.it/novita/avvisi/referendum-2223-marzo-aperture-straordinarie-per-rilascio-carte-didentita",
+      "data": "2026-03-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4eb0c0077b9f",
+      "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-2033-leuropa-casa-torino-chiama-artisti-internazionali-cittadini-per-co",
+      "data": "2026-03-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6b02065de5ee",
+      "titolo": "Mobilità sostenibile e inclusione: al via il progetto “Pedali Sociali” nelle case ATC",
+      "link": "https://www.torinoclick.it/territorio/mobilita-sostenibile-e-inclusione-al-via-il-progetto-pedali-sociali-nelle-case-atc/",
+      "data": "2026-03-19T11:24:23+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "b209a0835f39",
+      "titolo": "Il 21 marzo la XXXI Giornata della memoria e dell’impegno in ricordo delle vittime innocenti delle mafie",
+      "link": "https://www.torinoclick.it/torinese/il-21-marzo-la-xxxi-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie/",
+      "data": "2026-03-18T15:29:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "ee101bd2305f",
+      "titolo": "Oggi Torino e l’amministrazione comunale ricordano le vittime del Bardo",
+      "link": "https://www.torinoclick.it/fotonotizia/oggi-torino-e-lamministrazione-comunale-ricordano-le-vittime-del-bardo/",
+      "data": "2026-03-18T14:35:53+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "c3fa31c5f44c",
+      "titolo": "Le scuole torinesi al Festival della Felicità",
+      "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
+      "data": "2026-03-17T15:49:04+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "8ca03da56e01",
+      "titolo": "CFM: cercasi DJ professionista per progetto. Avviso pubblicato",
+      "link": "https://www.comune.torino.it/novita/avvisi/cfm-cercasi-dj-professionista-per-progetto-avviso-pubblicato",
+      "data": "2026-03-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6f3546b5eb74",
+      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
+      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
+      "data": "2026-03-15T11:20:34+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "2edc01cba66c",
+      "titolo": "36 nuovi agenti di Polizia Locale prenderanno servizio in Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/36-nuovi-agenti-polizia-locale-prenderanno-servizio-piemonte",
+      "data": "2026-03-13T13:47:55+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cbd5024a7227",
+      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
+      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
+      "data": "2026-03-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c93f0a59deac",
+      "titolo": "“In between places you can find me”: all’Accademia Albertina si dialoga con arte e natura",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/mostra-pav-torino-in-between-places-you-can-find-me/",
+      "data": "2026-03-11T19:42:24+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "giovani": [
+    {
+      "id": "5ab6811e56f5",
+      "titolo": "Torino accoglie gli studenti di Nagoya. A Palazzo Civico un incontro tra cultura, giovani e amicizia internazionale",
+      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-accoglie-gli-studenti-di-nagoya-a-palazzo-civico-un-incontro-tra-cultura-giovani-e-amicizia-internazionale/",
+      "data": "2026-03-25T11:05:29+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "0d6d6e26fe1e",
+      "titolo": "Servizio Civile Universale",
+      "link": "https://www.comune.torino.it/novita/avvisi/servizio-civile-universale",
+      "data": "2026-03-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c8db75d0be8f",
+      "titolo": "Servizio Civile all’Ufficio Gestione Tariffe - Servizi Educativi",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-allufficio-gestione-tariffe-servizi-educativi",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7974f3faca32",
+      "titolo": "Servizio Civile Universale 2026: 492 opportunità a Torino nei 48 progetti della Città",
+      "link": "https://www.torinoclick.it/incomune/servizio-civile-universale-2026-492-opportunita-a-torino-nei-48-progetti-della-citta/",
+      "data": "2026-03-19T14:42:58+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "c3fa31c5f44c",
+      "titolo": "Le scuole torinesi al Festival della Felicità",
+      "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
+      "data": "2026-03-17T15:49:04+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "57bfac214d2a",
+      "titolo": "Giovani e violenza a Torino: non è un’emergenza di numeri, ma di “armi”. L’analisi del rapporto Save the Children",
+      "link": "https://www.quotidianopiemontese.it/2026/03/13/violenza-giovanile-torino-analisi/",
+      "data": "2026-03-13T10:19:55+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "c93f0a59deac",
+      "titolo": "“In between places you can find me”: all’Accademia Albertina si dialoga con arte e natura",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/mostra-pav-torino-in-between-places-you-can-find-me/",
+      "data": "2026-03-11T19:42:24+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "855f2564d74f",
+      "titolo": "Servizio Civile all'Ufficio Beni comuni",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-allufficio-beni-comuni",
+      "data": "2026-03-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "sport": [
+    {
+      "id": "466654996775",
+      "titolo": "ZTL Valentino: la Città amplia l’area a traffico limitato per valorizzare il parco",
+      "link": "https://www.torinoclick.it/territorio/ztl-valentino-la-citta-amplia-larea-a-traffico-limitato-per-valorizzare-il-parco/",
+      "data": "2026-03-24T15:11:45+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "39416859e35c",
+      "titolo": "NCC, fermato un abusivo. Veicolo confiscato e patente ritirata",
+      "link": "https://www.torinoclick.it/sicurezza/ncc-fermato-un-abusivo-veicolo-in-confisca-e-patente-ritirata/",
+      "data": "2026-03-20T14:33:21+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "4414b22a6b56",
+      "titolo": "Corteo nazionale di Libera a Torino: modifiche alla viabilità e ai trasporti il 21 marzo",
+      "link": "https://www.torinoclick.it/trasporti/manifestazione-libera-bus-deviati-e-strade-chiuse-come-cambia-il-trasporto-pubblico-sabato-mattina/",
+      "data": "2026-03-19T15:04:26+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "c2ad0e010d29",
+      "titolo": "L’assessore Carretta ha incontrato la campionessa mondiale di scherma paralimpica Andreea Mogos",
+      "link": "https://www.torinoclick.it/sport/lassessore-carretta-ha-incontrato-la-campionessa-mondiale-di-scherma-paralimpica-andreea-mogos/",
+      "data": "2026-03-17T15:05:29+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "3b865d86ce72",
+      "titolo": "Mercoledì 18 marzo arrivo alla Basilica di Superga della corsa ciclistica Milano – Torino. Previste modifiche viabili e deviazioni del trasporto pubblico",
+      "link": "https://www.torinoclick.it/trasporti/mercoledi-18-marzo-arrivo-alla-basilica-di-superga-della-corsa-ciclistica-milano-torino-previste-modifiche-viabili-e-deviazioni-del-trasporto-pubblico/",
+      "data": "2026-03-16T14:49:47+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "55013cdd7f66",
+      "titolo": "Mercoledì 18 marzo arrivo alla Basilica di Superga della corsa ciclistica Milano – Torino. Previste modifiche viabili e deviazioni del trasporto pubblico",
+      "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-18-marzo-arrivo-alla-basilica-superga-della-corsa-ciclistica-milano",
+      "data": "2026-03-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0de8b5635256",
+      "titolo": "Gli scacchi ti fanno ridere, piangere, emozionare: la nuova campagna di FSI anche a Torino",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/scacchi-italia-ridere-emozionare-campagna/",
+      "data": "2026-03-11T20:47:22+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "afa957b017a5",
+      "titolo": "Maxi rissa in piazza Sofia a Torino: volano sassi, poi la fuga",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/rissa-piazza-sofia-torino-sassi-feriti/",
+      "data": "2026-03-11T19:15:52+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "7037d72111c4",
+      "titolo": "Accoltellamento a Pinerolo: l’aggressore colpisce un uomo alla nuca e fugge",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/accoltellamento-a-pinerolo-laggressore-colpisce-un-uomo-alla-nuca-e-fugge/",
+      "data": "2026-03-11T18:02:46+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "istruzione-formazione": [
+    {
+      "id": "9ea695a0170f",
+      "titolo": "Torino continua a investire sulle scuole: 260mila euro per la palestra dell’Istituto Vittorino Da Feltre",
+      "link": "https://www.torinoclick.it/territorio/torino-continua-a-investire-sulle-scuole-260mila-euro-per-la-palestra-dellistituto-vittorino-da-feltre/",
+      "data": "2026-03-24T13:59:31+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "3d4e5840e33b",
+      "titolo": "Torino continua a investire sulle scuole: 260mila euro per la palestra dell’Istituto Vittorino Da Feltre",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-continua-investire-sulle-scuole-260mila-euro-per-palestra-dellistituto",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "72f3f222bb76",
+      "titolo": "Community Driven Regeneration in Turin: Insights from the IMPATTO Project Visits",
+      "link": "https://www.comune.torino.it/novita/notizie/community-driven-regeneration-turin-insights-from-the-impatto-project-visits",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "430093233b20",
+      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
+      "link": "https://www.torinoclick.it/societa/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
+      "data": "2026-03-21T13:54:17+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "63330a2a5c41",
+      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
+      "link": "https://www.torinoclick.it/incomune/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
+      "data": "2026-03-21T13:54:17+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "c1edcdd634be",
+      "titolo": "Anna Maria Viziale ricordata in un giardino a Mirafiori",
+      "link": "https://www.comune.torino.it/novita/comunicati/anna-maria-viziale-ricordata-un-giardino-mirafiori",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c3fa31c5f44c",
+      "titolo": "Le scuole torinesi al Festival della Felicità",
+      "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
+      "data": "2026-03-17T15:49:04+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "79337cb38014",
+      "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
+      "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
+      "data": "2026-03-13T11:19:19+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "080ff2eda1d5",
+      "titolo": "Colori, segnaletica intuitiva e spazi per le famiglie: cambia il volto dell’Anagrafe Centrale",
+      "link": "https://www.torinoclick.it/incomune/lanagrafe-di-torino-cambia-volto-nuovo-sistema-di-orientamento-e-informazione-inclusiva-con-spazi-a-misura-di-famiglia-al-lavoro-una-task-force-per-il-rinnovo-delle-carte-di-identita-carta/",
+      "data": "2026-03-13T10:56:49+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "29877cadbdb8",
+      "titolo": "A Novara Confindustria organizza un incontro di orientamento per gli studenti: incontreranno le aziende del territorio",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/novara-confindustria-orientamento-studenti-aziende/",
+      "data": "2026-03-12T18:02:24+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "e7b7f66ff66f",
+      "titolo": "Una fuga di gas, la scuola evacuata e 1400 studenti dell’istituto tecnico Grassi di Torino restano a casa",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/una-fuga-di-gas-la-scuola-evacuata-e-1400-studenti-dellistituto-tecnico-grassi-di-torino-restano-a-casa/",
+      "data": "2026-03-11T14:13:29+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "lavoro-occupazione": [
+    {
+      "id": "1c331d3b432b",
+      "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
+      "link": "https://www.torinoclick.it/incomune/appalti-badge-nei-cantieri-stop-ai-subappalti-a-cascata-citta-e-sindacati-firmano-il-nuovo-protocollo-su-sicurezza-e-lavoro-giusto/",
+      "data": "2026-03-24T12:07:25+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "0d075a929acd",
+      "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
+      "link": "https://www.comune.torino.it/novita/comunicati/appalti-badge-nei-cantieri-stop-ai-subappalti-cascata-citta-sindacati-firmano",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d41b4ff0050c",
+      "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi aprile 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico",
+      "data": "2026-03-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "430093233b20",
+      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
+      "link": "https://www.torinoclick.it/societa/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
+      "data": "2026-03-21T13:54:17+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "63330a2a5c41",
+      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
+      "link": "https://www.torinoclick.it/incomune/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
+      "data": "2026-03-21T13:54:17+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "9f5e5fd57491",
+      "titolo": "MaB CollinaPo. Dieci anni della Riserva della Biosfera MaB UNESCO che guarda al futuro del suo territorio",
+      "link": "https://www.torinoclick.it/territorio/buon-compleanno-collinapo-dieci-anni-di-riserva-della-biosfera-unesco/",
+      "data": "2026-03-19T14:49:51+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "c82cad4a63ba",
+      "titolo": "Sabato 21 marzo il corteo per la Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie, previste modifiche viabili",
+      "link": "https://www.torinoclick.it/trasporti/sabato-21-marzo-il-corteo-per-la-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie-previste-modifiche-viabili/",
+      "data": "2026-03-18T15:26:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "aa8970f27ae0",
+      "titolo": "Il Consiglio comunale approva il progetto preliminare del nuovo Piano Regolatore",
+      "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-progetto-preliminare-nuovo-piano-regolatore",
+      "data": "2026-03-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6f3546b5eb74",
+      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
+      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
+      "data": "2026-03-15T11:20:34+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "79337cb38014",
+      "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
+      "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
+      "data": "2026-03-13T11:19:19+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "ae9f5515273e",
+      "titolo": "Valorizzare talento e merito con la certificazione delle competenze",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/valorizzare-talento-merito-certificazione-delle-competenze",
+      "data": "2026-03-12T10:36:04+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a13240cfbb96",
+      "titolo": "Cappuccino e brioche ballando col dj, la nuova moda della domenica mattina conquista Torino: locali e istituzioni si interrogano sulle regole",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/morning-club-torino-colazione-dj-set-regole/",
+      "data": "2026-03-12T07:43:35+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "708acf5aa1dc",
+      "titolo": "“Situazione insostenibile”, stato di agitazione del comparto sanitario della Città della Salute di Torino",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/situazione-insostenibile-stato-di-agitazione-del-comparto-sanitario-della-citta-della-salute-di-torino/",
+      "data": "2026-03-11T13:57:57+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "7ea97ff120e7",
+      "titolo": "Carcere di Vercelli: 47 provvedimenti disciplinari per agenti dopo il caso della detenuta incinta",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/provvedimenti-disciplinari-agenti-carcere-vercelli/",
+      "data": "2026-03-11T10:46:39+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "af01df47d1f0",
+      "titolo": "Operaio cade da ponteggio nel cantiere della chiesa di via San Lorenzo ad Alessandria: è grave",
+      "link": "https://www.quotidianopiemontese.it/2026/03/10/operaio-cade-ponteggio-cantiere-chiesa-san-lorenzo-alessandria/",
+      "data": "2026-03-10T20:09:01+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "1f9e3ea26460",
+      "titolo": "In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR",
+      "link": "https://www.quotidianopiemontese.it/2026/03/10/lavori-sanita-piemonte-pnrr-riboldi/",
+      "data": "2026-03-10T18:16:51+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "edilizia-opere-pubbliche": [
+    {
+      "id": "1c331d3b432b",
+      "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
+      "link": "https://www.torinoclick.it/incomune/appalti-badge-nei-cantieri-stop-ai-subappalti-a-cascata-citta-e-sindacati-firmano-il-nuovo-protocollo-su-sicurezza-e-lavoro-giusto/",
+      "data": "2026-03-24T12:07:25+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "0d075a929acd",
+      "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
+      "link": "https://www.comune.torino.it/novita/comunicati/appalti-badge-nei-cantieri-stop-ai-subappalti-cascata-citta-sindacati-firmano",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "3a11b3c61b66",
+      "titolo": "Pasqua senza cantieri sulle autostrade piemontesi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/pasqua-senza-cantieri-sulle-autostrade-piemontesi",
+      "data": "2026-03-18T14:25:28+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e88cfda5087c",
+      "titolo": "La demolizione di tre fabbricati porta in dote nuove aree commerciali e residenziali che rigenerano il tessuto urbano di tre quartieri",
+      "link": "https://www.torinoclick.it/territorio/la-demolizione-di-tre-fabbricati-porta-in-dote-nuove-aree-commerciali-e-residenziali-che-rigenerano-il-tessuto-urbano-di-tre-quartieri/",
+      "data": "2026-03-12T13:50:57+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "82e0e70069c5",
+      "titolo": "Nell’area dell’ex fonderia Roz un giardino e un nuovo edificio residenziale",
+      "link": "https://www.torinoclick.it/societa/nellarea-dellex-fonderia-roz-un-giardino-e-un-nuovo-edificio-residenziale/",
+      "data": "2026-03-11T16:40:04+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "b2c014574a27",
+      "titolo": "Nell’area dell’ex fonderia Roz un giardino e un nuovo edificio residenziale",
+      "link": "https://www.torinoclick.it/territorio/nellarea-dellex-fonderia-roz-un-giardino-e-un-nuovo-edificio-residenziale/",
+      "data": "2026-03-11T16:40:04+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "02c2483a154e",
+      "titolo": "Maltempo aprile 2025, dal Governo altri 45 milioni per il Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aprile-2025-dal-governo-altri-45-milioni-per-piemonte",
+      "data": "2026-03-11T11:34:49+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "pianificazione-territoriale": [
+    {
+      "id": "0d075a929acd",
+      "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
+      "link": "https://www.comune.torino.it/novita/comunicati/appalti-badge-nei-cantieri-stop-ai-subappalti-cascata-citta-sindacati-firmano",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ff92d8c1b298",
+      "titolo": "Il Salone del Libro presenta il programma della 38esima edizione, Il mondo salvato dai ragazzini",
+      "link": "https://www.torinoclick.it/cultura/il-salone-del-libro-presenta-il-programma-della-38esima-edizione-il-mondo-salvato-dai-ragazzini/",
+      "data": "2026-03-20T18:33:16+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "9f5e5fd57491",
+      "titolo": "MaB CollinaPo. Dieci anni della Riserva della Biosfera MaB UNESCO che guarda al futuro del suo territorio",
+      "link": "https://www.torinoclick.it/territorio/buon-compleanno-collinapo-dieci-anni-di-riserva-della-biosfera-unesco/",
+      "data": "2026-03-19T14:49:51+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "f6667946fdca",
+      "titolo": "Il grande ciclismo amatoriale pedala nella storia: presentata la Granfondo Torino 2026",
+      "link": "https://www.torinoclick.it/sport/il-grande-ciclismo-amatoriale-pedala-nella-storia-presentata-la-granfondo-torino-2026/",
+      "data": "2026-03-19T11:04:50+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "aa8970f27ae0",
+      "titolo": "Il Consiglio comunale approva il progetto preliminare del nuovo Piano Regolatore",
+      "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-progetto-preliminare-nuovo-piano-regolatore",
+      "data": "2026-03-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "29877cadbdb8",
+      "titolo": "A Novara Confindustria organizza un incontro di orientamento per gli studenti: incontreranno le aziende del territorio",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/novara-confindustria-orientamento-studenti-aziende/",
+      "data": "2026-03-12T18:02:24+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "1589ff043ee9",
+      "titolo": "29 nuovi alberi messi a dimora in piazza d’Armi e in via Filadelfia grazie a Suzuki e Torino FC",
+      "link": "https://www.torinoclick.it/territorio/29-nuovi-alberi-messi-a-dimora-in-piazza-darmi-e-in-via-filadelfia-grazie-a-suzuki-e-torino-fc/",
+      "data": "2026-03-11T15:30:02+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "02c2483a154e",
+      "titolo": "Maltempo aprile 2025, dal Governo altri 45 milioni per il Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aprile-2025-dal-governo-altri-45-milioni-per-piemonte",
+      "data": "2026-03-11T11:34:49+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "sociale-welfare": [
+    {
+      "id": "72f3f222bb76",
+      "titolo": "Community Driven Regeneration in Turin: Insights from the IMPATTO Project Visits",
+      "link": "https://www.comune.torino.it/novita/notizie/community-driven-regeneration-turin-insights-from-the-impatto-project-visits",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "86a6b4150f14",
+      "titolo": "Fondo Sociale 2026: sostegno alle famiglie delle case popolari",
+      "link": "https://www.comune.torino.it/novita/avvisi/fondo-sociale-2026-sostegno-alle-famiglie-delle-case-popolari",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6b02065de5ee",
+      "titolo": "Mobilità sostenibile e inclusione: al via il progetto “Pedali Sociali” nelle case ATC",
+      "link": "https://www.torinoclick.it/territorio/mobilita-sostenibile-e-inclusione-al-via-il-progetto-pedali-sociali-nelle-case-atc/",
+      "data": "2026-03-19T11:24:23+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "080ff2eda1d5",
+      "titolo": "Colori, segnaletica intuitiva e spazi per le famiglie: cambia il volto dell’Anagrafe Centrale",
+      "link": "https://www.torinoclick.it/incomune/lanagrafe-di-torino-cambia-volto-nuovo-sistema-di-orientamento-e-informazione-inclusiva-con-spazi-a-misura-di-famiglia-al-lavoro-una-task-force-per-il-rinnovo-delle-carte-di-identita-carta/",
+      "data": "2026-03-13T10:56:49+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "cbd5024a7227",
+      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
+      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
+      "data": "2026-03-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8a41b639dd88",
+      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
+      "link": "https://www.torinoclick.it/societa/stampe-latelier-di-comunita-laboratorio-sociale-per-larte-e-limprenditoria-sostenibile/",
+      "data": "2026-03-11T18:17:52+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "3d757ceea578",
+      "titolo": "Salvare lo Stato Sociale, a ottobre la quinta edizione del Festival internazionale dell’Economia",
+      "link": "https://www.torinoclick.it/economia/salvare-lo-stato-sociale-a-ottobre-la-quinta-edizione-del-festival-internazionale-delleconomia/",
+      "data": "2026-03-11T14:35:51+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
   "agricoltura": [
+    {
+      "id": "2d482794f268",
+      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
+      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4dc927d09bcf",
+      "titolo": "Confronto sulla nuova Pac 2028-2034",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/confronto-sulla-nuova-pac-2028-2034",
+      "data": "2026-03-20T17:29:38+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "071a379166d2",
+      "titolo": "Le foreste piemontesi sempre più al centro delle politiche della Regione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/foreste-piemontesi-sempre-piu-al-centro-delle-politiche-della-regione",
+      "data": "2026-03-20T16:52:13+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b1db65f58584",
+      "titolo": "Torino Jazz Festival 2026, “The sound of Surprise”. La XIV edizione, dal 25 aprile al 2 maggio",
+      "link": "https://www.torinoclick.it/cultura/torino-jazz-festival-2026-the-sound-of-surprise-la-xiv-edizione-dal-25-aprile-al-2-maggio/",
+      "data": "2026-03-19T13:23:28+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
     {
       "id": "e2a697846627",
       "titolo": "Violenza di genere: dal Governo quasi 7 milioni di nuove risorse",
@@ -39,107 +937,345 @@
       "data": "2026-03-10T22:09:28+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "80d92dbdad8f",
-      "titolo": "Guerra in Medio Oriente e aumento del gasolio agricolo: Coldiretti presenta esposto in Procura contro le speculazioni",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/guerra-in-medio-oriente-e-aumento-del-gasolio-agricolo-coldiretti-presenta-esposto-in-procura-contro-le-speculazioni/",
-      "data": "2026-03-10T12:54:51+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "313043db04d0",
-      "titolo": "Trovato in casa con 5 kg di droga, 3 mila euro in contanti e una pistola: arrestato per spaccio a Torino",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/in-casa-5-kg-droga-arrestato-spaccio-torino/",
-      "data": "2026-03-10T10:21:18+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "736ca89a9c14",
-      "titolo": "Allevamento abusivo di cani nel Chivassese: sei indagati, chiesto il rinvio a giudizio",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/allevamento-abusivo-cani-chivasso-sei-indagati/",
-      "data": "2026-03-10T08:18:28+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "0e13cf0964b3",
-      "titolo": "Cooperazione internazionale, il sindaco Lo Russo al Consiglio Nazionale per la Cooperazione allo Sviluppo",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/cooperazione-internazionale-il-sindaco-lo-russo-al-consiglio-nazionale-per-la-cooperazione-allo-sviluppo/",
-      "data": "2026-03-09T11:06:25+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "d275f0fdc828",
-      "titolo": "La marea rosa della Just The Woman I Am attraversa Torino",
-      "link": "https://www.torinoclick.it/sport/la-marea-rosa-della-just-the-woman-i-am-attraversa-torino/",
-      "data": "2026-03-08T20:45:43+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "06e1b2cb37dc",
-      "titolo": "Metro 2: al via i rilievi ambientali, si parte lunedì da via Pacini",
-      "link": "https://www.torinoclick.it/trasporti/metro-2-al-via-i-rilievi-ambientali-si-parte-lunedi-da-via-pacini/",
-      "data": "2026-03-07T14:03:42+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "fd99031fec9d",
-      "titolo": "Il fondo sanitario integrato con 203 milioni per servizi aggiuntivi e assunzioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondo-sanitario-integrato-203-milioni-per-servizi-aggiuntivi-assunzioni",
-      "data": "2026-03-02T18:45:47+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8480ae51fea5",
-      "titolo": "Il Piemonte attrattivo anche nella nuova classifica del Financial Times",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-attrattivo-anche-nella-nuova-classifica-financial-times",
-      "data": "2026-02-24T12:38:10+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c742e6f2901f",
-      "titolo": "Peste suina: il modello del Piemonte esempio per l’Europa",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-modello-piemonte-esempio-per-leuropa",
-      "data": "2026-02-18T18:22:37+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b7800b4795bd",
-      "titolo": "Il vino piemontese pronto ad affrontare nuovi mercati",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-pronto-ad-affrontare-nuovi-mercati",
-      "data": "2026-02-16T15:31:01+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "20b7132930de",
-      "titolo": "Problemi con l’operatore telefonico? Rivolgiti al Corecom Piemonte",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-loperatore-telefonico-rivolgiti-al-corecom-piemonte",
-      "data": "2025-10-23T08:49:37+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
     }
   ],
-  "organizzazione-regionale": [
+  "trasparenza": [
     {
-      "id": "64b911bc14e3",
-      "titolo": "Rinviate a giugno le udienze preliminari del processo ai dirigenti Solvay ad Alessandria",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/rinviate-udienze-solvay-processo/",
-      "data": "2026-03-12T19:08:01+00:00",
+      "id": "2d482794f268",
+      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
+      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "60da1e092469",
+      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
+      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
+      "data": "2026-03-20T16:03:01+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "7a71cc68d48b",
+      "titolo": "Giornata mondiale contro l’islamofobia. A Torino il convegno Uniti contro l’Islamofobia e visite alle moschee",
+      "link": "https://www.torinoclick.it/societa/giornata-mondiale-contro-lislamofobia-a-torino-un-convegno-e-moschee-aperte/",
+      "data": "2026-03-11T14:50:11+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
+  "energia": [
+    {
+      "id": "86a6b4150f14",
+      "titolo": "Fondo Sociale 2026: sostegno alle famiglie delle case popolari",
+      "link": "https://www.comune.torino.it/novita/avvisi/fondo-sociale-2026-sostegno-alle-famiglie-delle-case-popolari",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e7b7f66ff66f",
+      "titolo": "Una fuga di gas, la scuola evacuata e 1400 studenti dell’istituto tecnico Grassi di Torino restano a casa",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/una-fuga-di-gas-la-scuola-evacuata-e-1400-studenti-dellistituto-tecnico-grassi-di-torino-restano-a-casa/",
+      "data": "2026-03-11T14:13:29+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "c99f98d4ee93",
+      "titolo": "Aumento prezzi carburante per il conflitto in Iran: Confagricoltura chiede interventi per aiutare gli agricoltori",
+      "link": "https://www.quotidianopiemontese.it/2026/03/10/aumento-prezzi-carburante-confagricoltura/",
+      "data": "2026-03-10T22:09:28+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "trasporti-mobilita": [
+    {
+      "id": "659bfa1af468",
+      "titolo": "Ritornano i treni del mare",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ritornano-treni-mare-0",
+      "data": "2026-03-23T12:33:18+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4414b22a6b56",
+      "titolo": "Corteo nazionale di Libera a Torino: modifiche alla viabilità e ai trasporti il 21 marzo",
+      "link": "https://www.torinoclick.it/trasporti/manifestazione-libera-bus-deviati-e-strade-chiuse-come-cambia-il-trasporto-pubblico-sabato-mattina/",
+      "data": "2026-03-19T15:04:26+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "3a11b3c61b66",
+      "titolo": "Pasqua senza cantieri sulle autostrade piemontesi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/pasqua-senza-cantieri-sulle-autostrade-piemontesi",
+      "data": "2026-03-18T14:25:28+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b9b65a529707",
+      "titolo": "Festival della Felicità 2026, la terza edizione dal 13 al 17 marzo",
+      "link": "https://www.torinoclick.it/societa/festival-della-felicita-2026-la-terza-edizione-dal-13-al-17-marzo/",
+      "data": "2026-03-11T15:08:46+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "191c269b33ae",
+      "titolo": "Sulla SFM1 soppressi 1139 treni in un anno: l’inchiesta de L’Unica che fotografa il collasso del pendolarismo ferroviario a Torino",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/disservizi-treni-torino-ritardi-cancellazioni-sfm1/",
+      "data": "2026-03-11T09:53:26+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "ambiente-qualita-aria": [
+    {
+      "id": "085f1456a75b",
+      "titolo": "Smog, fino a mercoledì 25marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-mercoledi-25marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-23T11:16:00+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "58471fc25436",
+      "titolo": "Smog, fino a lunedì 23 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-23-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-20T11:11:07+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "9b1cd38a477a",
+      "titolo": "Smog, fino a venerdì 20 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-venerdi-20-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-18T15:38:30+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "a47e8450ec77",
+      "titolo": "Smog, fino a mercoledì 18 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-mercoledi-18-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-16T13:22:00+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "bd57249923b3",
+      "titolo": "Torino tra i Comuni “Plastic Free 2026”",
+      "link": "https://www.torinoclick.it/economia/torino-tra-i-comuni-plastic-free-2026/",
+      "data": "2026-03-14T16:14:00+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "168303084a53",
+      "titolo": "Smog, fino a lunedì 16 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-16-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-13T11:30:14+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "eb7b5b70bbe2",
+      "titolo": "Smog, fino a venerdì 13 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-venerdi-13-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-11T16:07:13+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "93e2a944ec1c",
+      "titolo": "Preoccupano i tagli del Governo sui fondi anti-inquinamento: il confronto in Consiglio regionale",
+      "link": "https://www.quotidianopiemontese.it/2026/03/10/consiglio-regionale-tagli-aria-governo/",
+      "data": "2026-03-10T21:38:29+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "fondi-europei": [
+    {
+      "id": "4dc927d09bcf",
+      "titolo": "Confronto sulla nuova Pac 2028-2034",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/confronto-sulla-nuova-pac-2028-2034",
+      "data": "2026-03-20T17:29:38+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b1db65f58584",
+      "titolo": "Torino Jazz Festival 2026, “The sound of Surprise”. La XIV edizione, dal 25 aprile al 2 maggio",
+      "link": "https://www.torinoclick.it/cultura/torino-jazz-festival-2026-the-sound-of-surprise-la-xiv-edizione-dal-25-aprile-al-2-maggio/",
+      "data": "2026-03-19T13:23:28+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "6b354d940f54",
+      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-03-18T13:53:21+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "346eccfc15a2",
+      "titolo": "Falso dentista eseguiva abusivamente la professione nel Casalese: denunciato insieme alla (vera) dentista che lo copriva",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/falso-dentista-denunciato-casalese/",
+      "data": "2026-03-12T14:38:41+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "1ac3d8bc5402",
+      "titolo": "Un chilo di cocaina nascosto in auto: arrestata donna a Novi Ligure",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/arresto-cocaina-novi-ligure-guardia-di-finanza/",
+      "data": "2026-03-12T07:06:54+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "b822fbd8792b",
+      "titolo": "Partita la firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partita-firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-03-11T17:53:21+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ef9524fe4a78",
+      "titolo": "Torino omaggia Gipo Farassino con una targa commemorativa sulla sua casa natale di via Cuneo 6",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-omaggia-gipo-farassino-una-targa-commemorativa-sulla-sua-casa-natale-via",
+      "data": "2026-03-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "32807360227f",
+      "titolo": "Operativa entro il 2026 la gran parte di case e ospedali di comunità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/operativa-entro-2026-gran-parte-case-ospedali-comunita",
+      "data": "2026-03-10T18:52:31+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1f9e3ea26460",
+      "titolo": "In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR",
+      "link": "https://www.quotidianopiemontese.it/2026/03/10/lavori-sanita-piemonte-pnrr-riboldi/",
+      "data": "2026-03-10T18:16:51+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "commercio-artigianato": [
+    {
+      "id": "4d868c7ab449",
+      "titolo": "Concerti di ACHILLE LAURO (24 MARZO 2026), GIGI D'ALESSIO (25 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/concerti-achille-lauro-24-marzo-2026-gigi-dalessio-25-marzo-2026-convocazione",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cc7e37b8bbe0",
+      "titolo": "Concerti di LUCHE' (21 MARZO 2026), OLLY (22 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/concerti-luche-21-marzo-2026-olly-22-marzo-2026-convocazione-per-assegnazione",
+      "data": "2026-03-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6f3546b5eb74",
+      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
+      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
+      "data": "2026-03-15T11:20:34+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "3b8a487cb33c",
+      "titolo": "Concerti di OLLY (18 MARZO 2026), UMBERTO TOZZI (19 MARZO 2026), ANDRE' RIEU (20 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/concerti-olly-18-marzo-2026-umberto-tozzi-19-marzo-2026-andre-rieu-20-marzo-2026",
+      "data": "2026-03-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "crisi-automotive": [
+    {
+      "id": "c1edcdd634be",
+      "titolo": "Anna Maria Viziale ricordata in un giardino a Mirafiori",
+      "link": "https://www.comune.torino.it/novita/comunicati/anna-maria-viziale-ricordata-un-giardino-mirafiori",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a77e42ab566b",
+      "titolo": "A Mirafiori 400 interinali per la nuova 500 ibrida, ma 121 operai lasciano lo stabilimento",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/mirafiori-500-ibrida-interinali-uscite/",
+      "data": "2026-03-12T08:40:01+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "universita-ricerca": [
+    {
+      "id": "8ca03da56e01",
+      "titolo": "CFM: cercasi DJ professionista per progetto. Avviso pubblicato",
+      "link": "https://www.comune.torino.it/novita/avvisi/cfm-cercasi-dj-professionista-per-progetto-avviso-pubblicato",
+      "data": "2026-03-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5335e6e3d422",
+      "titolo": "“Unit* contro le Mafie”: l’iniziativa di UniTo per il contrasto alla criminalità organizzata",
+      "link": "https://www.quotidianopiemontese.it/2026/03/13/unito-contro-mafie-incontro-torino-legalita/",
+      "data": "2026-03-13T12:46:41+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "6a70aabe9eed",
+      "titolo": "Torino, l’AI Hub accelera la collaborazione tra Africa ed Europa sull’intelligenza artificiale",
+      "link": "https://www.torinoclick.it/economia/torino-lai-hub-accelera-la-collaborazione-tra-africa-ed-europa-sullintelligenza-artificiale/",
+      "data": "2026-03-12T19:06:01+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "bc8222c5a472",
+      "titolo": "Intelligenza artificiale e cooperazione internazionale: a Torino “Shaping AI Futures Across Africa and Europe”",
+      "link": "https://www.torinoclick.it/economia/intelligenza-artificiale-e-cooperazione-internazionale-a-torino-shaping-ai-futures-across-africa-and-europe/",
+      "data": "2026-03-11T15:23:03+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "b9b65a529707",
+      "titolo": "Festival della Felicità 2026, la terza edizione dal 13 al 17 marzo",
+      "link": "https://www.torinoclick.it/societa/festival-della-felicita-2026-la-terza-edizione-dal-13-al-17-marzo/",
+      "data": "2026-03-11T15:08:46+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
     }
   ],
   "sanita-regionale": [
+    {
+      "id": "6f3546b5eb74",
+      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
+      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
+      "data": "2026-03-15T11:20:34+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
     {
       "id": "6a70aabe9eed",
       "titolo": "Torino, l’AI Hub accelera la collaborazione tra Africa ed Europa sull’intelligenza artificiale",
@@ -227,78 +1363,86 @@
       "data": "2026-03-10T18:16:51+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "turismo": [
+    {
+      "id": "76e79d438316",
+      "titolo": "Maltempo in Piemonte nel weekend: allerta gialla per neve e valanghe",
+      "link": "https://www.quotidianopiemontese.it/2026/03/13/allerta-meteo-piemonte-neve-piogge-valanghe/",
+      "data": "2026-03-13T12:56:55+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
     },
     {
-      "id": "a1baff6ce495",
-      "titolo": "Il Piemonte al Mipim 2026: oltre 6 milioni di metri quadri di opportunità. Riflettori puntati anche sul Piano Regolatore della Città di Torino",
-      "link": "https://www.torinoclick.it/territorio/il-piemonte-al-mipim-2026-oltre-6-milioni-di-metri-quadri-di-opportunita-riflettori-puntati-anche-sul-piano-regolatore-della-citta-di-torino/",
-      "data": "2026-03-10T16:42:02+00:00",
+      "id": "e88cfda5087c",
+      "titolo": "La demolizione di tre fabbricati porta in dote nuove aree commerciali e residenziali che rigenerano il tessuto urbano di tre quartieri",
+      "link": "https://www.torinoclick.it/territorio/la-demolizione-di-tre-fabbricati-porta-in-dote-nuove-aree-commerciali-e-residenziali-che-rigenerano-il-tessuto-urbano-di-tre-quartieri/",
+      "data": "2026-03-12T13:50:57+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    },
+    }
+  ],
+  "montagna": [
     {
-      "id": "3bea09966a95",
-      "titolo": "Meteo Piemonte, instabilità da sud porta precipitazioni anche nevose: ecco dove",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/meteo-piemonte-precipitazioni-neve-martedi-10-marzo/",
-      "data": "2026-03-10T06:55:17+00:00",
+      "id": "76e79d438316",
+      "titolo": "Maltempo in Piemonte nel weekend: allerta gialla per neve e valanghe",
+      "link": "https://www.quotidianopiemontese.it/2026/03/13/allerta-meteo-piemonte-neve-piogge-valanghe/",
+      "data": "2026-03-13T12:56:55+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
     },
     {
-      "id": "fe0ad05c5970",
-      "titolo": "Ospedali piemontesi fuori dalla top ten nazionale nella classifica mondiale di Newsweek",
-      "link": "https://www.quotidianopiemontese.it/2026/03/09/ospedali-piemontesi-2026-qualita-cure/",
-      "data": "2026-03-09T19:58:13+00:00",
+      "id": "8894a00e84cb",
+      "titolo": "Arriva sul Piemonte la più intensa perturbazione degli ultimi 5 mesi: tornano neve abbondante e pioggia",
+      "link": "https://www.quotidianopiemontese.it/2026/03/13/maltempo-piemonte-piogge-neve-weekend-marzo/",
+      "data": "2026-03-13T07:24:25+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
     },
     {
-      "id": "4117d8ae7f5f",
-      "titolo": "Lear, possibile svolta: Zetronic pronta a riassorbire progressivamente i 368 lavoratori",
-      "link": "https://www.quotidianopiemontese.it/2026/03/09/lear-zetronic-riassorbimento-368-lavoratori-piemonte/",
-      "data": "2026-03-09T19:20:25+00:00",
+      "id": "9252b3d248d5",
+      "titolo": "Precipitazioni intense e neve anche a quote basse in Piemonte: ecco quando",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/precipitazioni-intense-e-neve-anche-a-quote-basse-in-piemonte-ecco-quando/",
+      "data": "2026-03-12T12:19:01+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
     },
     {
-      "id": "e2f3d2783813",
-      "titolo": "Gli ospedali piemontesi recuperano 45 posizioni nella classifica di Newsweek",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-ospedali-piemontesi-recuperano-45-posizioni-nella-classifica-newsweek",
-      "data": "2026-03-09T19:12:51+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
+      "id": "44944c9cce2e",
+      "titolo": "La mega-talpa della Torino-Lione arriva in Italia: un gigante sotto la montagna",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/prima-tbm-italiana-tunnel-torino-lione/",
+      "data": "2026-03-12T11:23:36+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "protezione-civile": [
+    {
+      "id": "57bfac214d2a",
+      "titolo": "Giovani e violenza a Torino: non è un’emergenza di numeri, ma di “armi”. L’analisi del rapporto Save the Children",
+      "link": "https://www.quotidianopiemontese.it/2026/03/13/violenza-giovanile-torino-analisi/",
+      "data": "2026-03-13T10:19:55+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
     },
     {
-      "id": "eaaef1eaf670",
-      "titolo": "Sala Rossa: “Salvare i poliambulatori di Via del Ridotto e Via Le Chiuse”",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-salvare-poliambulatori-via-ridotto-via-chiuse",
-      "data": "2026-03-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
+      "id": "535a5ef5c852",
+      "titolo": "Piemonte, dal Governo altri 45 milioni di euro per i danni causati dall’alluvione di aprile 2025",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/piemonte-dal-governo-altri-45-milioni-di-euro-per-i-danni-causati-dallalluvione-di-aprile-2025/",
+      "data": "2026-03-12T16:19:54+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
+  "organizzazione-regionale": [
     {
-      "id": "35f336f4cbf1",
-      "titolo": "Torino esprime solidarietà al popolo cubano: approvata in Consiglio Comunale la mozione contro l’embargo petrolifero",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-esprime-solidarieta-al-popolo-cubano-approvata-consiglio-comunale-mozione-0",
-      "data": "2026-03-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "181f642621b2",
-      "titolo": "Torino esprime solidarietà al popolo cubano: approvata in Consiglio Comunale la mozione contro l’embargo petrolifero",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-esprime-solidarieta-al-popolo-cubano-approvata-consiglio-comunale-mozione",
-      "data": "2026-03-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f7ddb97dd399",
-      "titolo": "Numeri positivi per i Servizi di prevenzione nel 2025",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/numeri-positivi-per-servizi-prevenzione-nel-2025",
-      "data": "2026-03-06T19:13:23+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
+      "id": "64b911bc14e3",
+      "titolo": "Rinviate a giugno le udienze preliminari del processo ai dirigenti Solvay ad Alessandria",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/rinviate-udienze-solvay-processo/",
+      "data": "2026-03-12T19:08:01+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
     }
   ],
   "attivita-produttive": [
@@ -341,1372 +1485,6 @@
       "data": "2026-03-11T15:23:03+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    },
-    {
-      "id": "a1baff6ce495",
-      "titolo": "Il Piemonte al Mipim 2026: oltre 6 milioni di metri quadri di opportunità. Riflettori puntati anche sul Piano Regolatore della Città di Torino",
-      "link": "https://www.torinoclick.it/territorio/il-piemonte-al-mipim-2026-oltre-6-milioni-di-metri-quadri-di-opportunita-riflettori-puntati-anche-sul-piano-regolatore-della-citta-di-torino/",
-      "data": "2026-03-10T16:42:02+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "a37e3b2db131",
-      "titolo": "Transizione energetica cresce la spinta delle imprese piemontesi: quasi un'azienda manifatturiera su tre è già attiva  o pronta a investire",
-      "link": "https://pie.camcom.it/notizie/transizione-energetica-cresce-la-spinta-delle-imprese-piemontesi-quasi-unazienda-manifatturiera-su",
-      "data": "2026-03-10T14:59:10.420795+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "396e3cf651e7",
-      "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
-      "link": "https://pie.camcom.it/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
-      "data": "2026-03-10T14:59:10.420234+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "781ffead9831",
-      "titolo": "Nati-mortalità delle imprese: lievemente positivo il bilancio demografico nel 2025",
-      "link": "https://pie.camcom.it/notizie/nati-mortalita-delle-imprese-lievemente-positivo-il-bilancio-demografico-nel-2025",
-      "data": "2026-03-10T14:59:10.419923+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "93d9eca659f4",
-      "titolo": "Imprese femminili: sono 93.489 nel 2025, il 22,4% del totale",
-      "link": "https://pie.camcom.it/notizie/imprese-femminili-sono-93489-nel-2025-il-224-del-totale",
-      "data": "2026-03-10T14:59:10.419416+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "779c393fb0cd",
-      "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
-      "link": "https://pie.camcom.it/index.php/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
-      "data": "2026-03-10T14:59:07.277274+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "0b3ed7158a10",
-      "titolo": "Nati-mortalità delle imprese: lievemente positivo il bilancio demografico nel 2025",
-      "link": "https://pie.camcom.it/index.php/notizie/nati-mortalita-delle-imprese-lievemente-positivo-il-bilancio-demografico-nel-2025",
-      "data": "2026-03-10T14:59:07.276828+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "82589d5765f1",
-      "titolo": "Bando da 8 milioni per il welfare aziendale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-8-milioni-per-welfare-aziendale",
-      "data": "2026-03-06T14:16:49+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8c596ef83a34",
-      "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
-      "data": "2026-03-03T16:13:17+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8480ae51fea5",
-      "titolo": "Il Piemonte attrattivo anche nella nuova classifica del Financial Times",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-attrattivo-anche-nella-nuova-classifica-financial-times",
-      "data": "2026-02-24T12:38:10+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b7800b4795bd",
-      "titolo": "Il vino piemontese pronto ad affrontare nuovi mercati",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-pronto-ad-affrontare-nuovi-mercati",
-      "data": "2026-02-16T15:31:01+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "universita-ricerca": [
-    {
-      "id": "6a70aabe9eed",
-      "titolo": "Torino, l’AI Hub accelera la collaborazione tra Africa ed Europa sull’intelligenza artificiale",
-      "link": "https://www.torinoclick.it/economia/torino-lai-hub-accelera-la-collaborazione-tra-africa-ed-europa-sullintelligenza-artificiale/",
-      "data": "2026-03-12T19:06:01+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "bc8222c5a472",
-      "titolo": "Intelligenza artificiale e cooperazione internazionale: a Torino “Shaping AI Futures Across Africa and Europe”",
-      "link": "https://www.torinoclick.it/economia/intelligenza-artificiale-e-cooperazione-internazionale-a-torino-shaping-ai-futures-across-africa-and-europe/",
-      "data": "2026-03-11T15:23:03+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "b9b65a529707",
-      "titolo": "Festival della Felicità 2026, la terza edizione dal 13 al 17 marzo",
-      "link": "https://www.torinoclick.it/societa/festival-della-felicita-2026-la-terza-edizione-dal-13-al-17-marzo/",
-      "data": "2026-03-11T15:08:46+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "6ba9005b646a",
-      "titolo": "Unito, scoperto il meccanismo molecolare alla base di una sindrome del neurosviluppo",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/unito-meccanismo-molecolare-sindrome-del-neurosviluppo/",
-      "data": "2026-03-10T10:51:32+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "fe0ad05c5970",
-      "titolo": "Ospedali piemontesi fuori dalla top ten nazionale nella classifica mondiale di Newsweek",
-      "link": "https://www.quotidianopiemontese.it/2026/03/09/ospedali-piemontesi-2026-qualita-cure/",
-      "data": "2026-03-09T19:58:13+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "410fb49a0227",
-      "titolo": "Sindone di Torino, un nuovo studio riaccende il dibattito scientifico sul telo più enigmatico della storia",
-      "link": "https://www.quotidianopiemontese.it/2026/03/09/sindone-torino-nuovo-studio-ricerca-scientifica/",
-      "data": "2026-03-09T18:45:00+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "91198eaab12e",
-      "titolo": "Ricercate per furto, arrestate dalla Polizia Locale",
-      "link": "https://www.comune.torino.it/novita/comunicati/ricercate-per-furto-arrestate-dalla-polizia-locale",
-      "data": "2026-03-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "51a59a1c81cc",
-      "titolo": "Ricercate per furto, arrestate dalla Polizia Locale",
-      "link": "https://www.torinoclick.it/sicurezza/ricercate-per-furto-arrestate-dalla-polizia-locale/",
-      "data": "2026-03-09T11:05:53+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "d275f0fdc828",
-      "titolo": "La marea rosa della Just The Woman I Am attraversa Torino",
-      "link": "https://www.torinoclick.it/sport/la-marea-rosa-della-just-the-woman-i-am-attraversa-torino/",
-      "data": "2026-03-08T20:45:43+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
-  "istruzione-formazione": [
-    {
-      "id": "29877cadbdb8",
-      "titolo": "A Novara Confindustria organizza un incontro di orientamento per gli studenti: incontreranno le aziende del territorio",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/novara-confindustria-orientamento-studenti-aziende/",
-      "data": "2026-03-12T18:02:24+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "e7b7f66ff66f",
-      "titolo": "Una fuga di gas, la scuola evacuata e 1400 studenti dell’istituto tecnico Grassi di Torino restano a casa",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/una-fuga-di-gas-la-scuola-evacuata-e-1400-studenti-dellistituto-tecnico-grassi-di-torino-restano-a-casa/",
-      "data": "2026-03-11T14:13:29+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "adc6ed55ae14",
-      "titolo": "Torneo EA Sports FC 25 – EduGaming Zone",
-      "link": "https://www.comune.torino.it/novita/notizie/torneo-ea-sports-fc-25-edugaming-zone",
-      "data": "2026-03-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d2fdbf6860dd",
-      "titolo": "I vincitori di “Scatta il tuo Natale” 2025",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vincitori-scatta-tuo-natale-2025",
-      "data": "2026-02-16T17:13:18+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "pianificazione-territoriale": [
-    {
-      "id": "29877cadbdb8",
-      "titolo": "A Novara Confindustria organizza un incontro di orientamento per gli studenti: incontreranno le aziende del territorio",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/novara-confindustria-orientamento-studenti-aziende/",
-      "data": "2026-03-12T18:02:24+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "1589ff043ee9",
-      "titolo": "29 nuovi alberi messi a dimora in piazza d’Armi e in via Filadelfia grazie a Suzuki e Torino FC",
-      "link": "https://www.torinoclick.it/territorio/29-nuovi-alberi-messi-a-dimora-in-piazza-darmi-e-in-via-filadelfia-grazie-a-suzuki-e-torino-fc/",
-      "data": "2026-03-11T15:30:02+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "02c2483a154e",
-      "titolo": "Maltempo aprile 2025, dal Governo altri 45 milioni per il Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aprile-2025-dal-governo-altri-45-milioni-per-piemonte",
-      "data": "2026-03-11T11:34:49+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a1baff6ce495",
-      "titolo": "Il Piemonte al Mipim 2026: oltre 6 milioni di metri quadri di opportunità. Riflettori puntati anche sul Piano Regolatore della Città di Torino",
-      "link": "https://www.torinoclick.it/territorio/il-piemonte-al-mipim-2026-oltre-6-milioni-di-metri-quadri-di-opportunita-riflettori-puntati-anche-sul-piano-regolatore-della-citta-di-torino/",
-      "data": "2026-03-10T16:42:02+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "6abe928ff1a2",
-      "titolo": "Un contrassegno unico ZTL per gli agenti di commercio",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/un-contrassegno-unico-ztl-per-gli-agenti-di-commercio/",
-      "data": "2026-03-10T13:42:29+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "ba33cfcb6bba",
-      "titolo": "Una nuova vita per il Parco Europa: approvate le linee guida per valorizzarne le potenzialità culturali, sociali, economiche e turistiche",
-      "link": "https://www.comune.torino.it/novita/comunicati/una-nuova-vita-per-parco-europa-approvate-linee-guida-per-valorizzarne",
-      "data": "2026-03-03T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "protezione-civile": [
-    {
-      "id": "535a5ef5c852",
-      "titolo": "Piemonte, dal Governo altri 45 milioni di euro per i danni causati dall’alluvione di aprile 2025",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/piemonte-dal-governo-altri-45-milioni-di-euro-per-i-danni-causati-dallalluvione-di-aprile-2025/",
-      "data": "2026-03-12T16:19:54+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "41b34ba63c0a",
-      "titolo": "Incendi boschivi, le attività di contrasto previste nel 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-attivita-contrasto-previste-nel-2026",
-      "data": "2026-02-17T14:24:22+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "fondi-europei": [
-    {
-      "id": "346eccfc15a2",
-      "titolo": "Falso dentista eseguiva abusivamente la professione nel Casalese: denunciato insieme alla (vera) dentista che lo copriva",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/falso-dentista-denunciato-casalese/",
-      "data": "2026-03-12T14:38:41+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "1ac3d8bc5402",
-      "titolo": "Un chilo di cocaina nascosto in auto: arrestata donna a Novi Ligure",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/arresto-cocaina-novi-ligure-guardia-di-finanza/",
-      "data": "2026-03-12T07:06:54+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "b822fbd8792b",
-      "titolo": "Partita la firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partita-firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-      "data": "2026-03-11T17:53:21+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ef9524fe4a78",
-      "titolo": "Torino omaggia Gipo Farassino con una targa commemorativa sulla sua casa natale di via Cuneo 6",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-omaggia-gipo-farassino-una-targa-commemorativa-sulla-sua-casa-natale-via",
-      "data": "2026-03-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "32807360227f",
-      "titolo": "Operativa entro il 2026 la gran parte di case e ospedali di comunità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/operativa-entro-2026-gran-parte-case-ospedali-comunita",
-      "data": "2026-03-10T18:52:31+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1f9e3ea26460",
-      "titolo": "In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/lavori-sanita-piemonte-pnrr-riboldi/",
-      "data": "2026-03-10T18:16:51+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "878cc21e2f8f",
-      "titolo": "Parte la firma degli accordi di programma dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parte-firma-degli-accordi-programma-dei-fondi-sviluppo-coesione",
-      "data": "2026-03-10T10:53:21+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "313043db04d0",
-      "titolo": "Trovato in casa con 5 kg di droga, 3 mila euro in contanti e una pistola: arrestato per spaccio a Torino",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/in-casa-5-kg-droga-arrestato-spaccio-torino/",
-      "data": "2026-03-10T10:21:18+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "0e13cf0964b3",
-      "titolo": "Cooperazione internazionale, il sindaco Lo Russo al Consiglio Nazionale per la Cooperazione allo Sviluppo",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/cooperazione-internazionale-il-sindaco-lo-russo-al-consiglio-nazionale-per-la-cooperazione-allo-sviluppo/",
-      "data": "2026-03-09T11:06:25+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "d275f0fdc828",
-      "titolo": "La marea rosa della Just The Woman I Am attraversa Torino",
-      "link": "https://www.torinoclick.it/sport/la-marea-rosa-della-just-the-woman-i-am-attraversa-torino/",
-      "data": "2026-03-08T20:45:43+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "853ef1a20981",
-      "titolo": "Taglio del nastro per il rinnovato campo da calcio Colletta",
-      "link": "https://www.torinoclick.it/territorio/taglio-del-nastro-per-il-rinnovato-campo-da-calcio-colletta/",
-      "data": "2026-03-07T15:25:05+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "06e1b2cb37dc",
-      "titolo": "Metro 2: al via i rilievi ambientali, si parte lunedì da via Pacini",
-      "link": "https://www.torinoclick.it/trasporti/metro-2-al-via-i-rilievi-ambientali-si-parte-lunedi-da-via-pacini/",
-      "data": "2026-03-07T14:03:42+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "77d4b4f9700b",
-      "titolo": "Focus sul progetto Esperti per il Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/focus-sul-progetto-esperti-per-piemonte",
-      "data": "2026-03-04T14:46:58+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "73d4b7b0054e",
-      "titolo": "Coabitazioni solidali rinnovate per 5 anni. I giovani condividono spazi e momenti di vita in 15 alloggi di proprietà pubblica",
-      "link": "https://www.comune.torino.it/novita/comunicati/coabitazioni-solidali-rinnovate-per-5-anni-giovani-condividono-spazi-momenti",
-      "data": "2026-03-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8480ae51fea5",
-      "titolo": "Il Piemonte attrattivo anche nella nuova classifica del Financial Times",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-attrattivo-anche-nella-nuova-classifica-financial-times",
-      "data": "2026-02-24T12:38:10+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "turismo": [
-    {
-      "id": "e88cfda5087c",
-      "titolo": "La demolizione di tre fabbricati porta in dote nuove aree commerciali e residenziali che rigenerano il tessuto urbano di tre quartieri",
-      "link": "https://www.torinoclick.it/territorio/la-demolizione-di-tre-fabbricati-porta-in-dote-nuove-aree-commerciali-e-residenziali-che-rigenerano-il-tessuto-urbano-di-tre-quartieri/",
-      "data": "2026-03-12T13:50:57+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "8c596ef83a34",
-      "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
-      "data": "2026-03-03T16:13:17+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "edilizia-opere-pubbliche": [
-    {
-      "id": "e88cfda5087c",
-      "titolo": "La demolizione di tre fabbricati porta in dote nuove aree commerciali e residenziali che rigenerano il tessuto urbano di tre quartieri",
-      "link": "https://www.torinoclick.it/territorio/la-demolizione-di-tre-fabbricati-porta-in-dote-nuove-aree-commerciali-e-residenziali-che-rigenerano-il-tessuto-urbano-di-tre-quartieri/",
-      "data": "2026-03-12T13:50:57+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "82e0e70069c5",
-      "titolo": "Nell’area dell’ex fonderia Roz un giardino e un nuovo edificio residenziale",
-      "link": "https://www.torinoclick.it/societa/nellarea-dellex-fonderia-roz-un-giardino-e-un-nuovo-edificio-residenziale/",
-      "data": "2026-03-11T16:40:04+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "b2c014574a27",
-      "titolo": "Nell’area dell’ex fonderia Roz un giardino e un nuovo edificio residenziale",
-      "link": "https://www.torinoclick.it/territorio/nellarea-dellex-fonderia-roz-un-giardino-e-un-nuovo-edificio-residenziale/",
-      "data": "2026-03-11T16:40:04+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "02c2483a154e",
-      "titolo": "Maltempo aprile 2025, dal Governo altri 45 milioni per il Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aprile-2025-dal-governo-altri-45-milioni-per-piemonte",
-      "data": "2026-03-11T11:34:49+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c5b836f81384",
-      "titolo": "Piazza della Repubblica, intervento di pulizia e sgombero nel complesso Atc",
-      "link": "https://www.torinoclick.it/sicurezza/piazza-della-repubblica-intervento-di-pulizia-e-sgombero-nel-complesso-atc/",
-      "data": "2026-03-06T14:25:25+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "2445fc0a1b95",
-      "titolo": "Borgo San Paolo, nuovo edificio residenziale e aree verdi in via Issiglio",
-      "link": "https://www.comune.torino.it/novita/comunicati/borgo-san-paolo-nuovo-edificio-residenziale-aree-verdi-via-issiglio",
-      "data": "2026-03-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "montagna": [
-    {
-      "id": "9252b3d248d5",
-      "titolo": "Precipitazioni intense e neve anche a quote basse in Piemonte: ecco quando",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/precipitazioni-intense-e-neve-anche-a-quote-basse-in-piemonte-ecco-quando/",
-      "data": "2026-03-12T12:19:01+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "44944c9cce2e",
-      "titolo": "La mega-talpa della Torino-Lione arriva in Italia: un gigante sotto la montagna",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/prima-tbm-italiana-tunnel-torino-lione/",
-      "data": "2026-03-12T11:23:36+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    }
-  ],
-  "sociale-welfare": [
-    {
-      "id": "cbd5024a7227",
-      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
-      "data": "2026-03-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8a41b639dd88",
-      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-      "link": "https://www.torinoclick.it/societa/stampe-latelier-di-comunita-laboratorio-sociale-per-larte-e-limprenditoria-sostenibile/",
-      "data": "2026-03-11T18:17:52+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "3d757ceea578",
-      "titolo": "Salvare lo Stato Sociale, a ottobre la quinta edizione del Festival internazionale dell’Economia",
-      "link": "https://www.torinoclick.it/economia/salvare-lo-stato-sociale-a-ottobre-la-quinta-edizione-del-festival-internazionale-delleconomia/",
-      "data": "2026-03-11T14:35:51+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "c5b836f81384",
-      "titolo": "Piazza della Repubblica, intervento di pulizia e sgombero nel complesso Atc",
-      "link": "https://www.torinoclick.it/sicurezza/piazza-della-repubblica-intervento-di-pulizia-e-sgombero-nel-complesso-atc/",
-      "data": "2026-03-06T14:25:25+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "82589d5765f1",
-      "titolo": "Bando da 8 milioni per il welfare aziendale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-8-milioni-per-welfare-aziendale",
-      "data": "2026-03-06T14:16:49+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "73d4b7b0054e",
-      "titolo": "Coabitazioni solidali rinnovate per 5 anni. I giovani condividono spazi e momenti di vita in 15 alloggi di proprietà pubblica",
-      "link": "https://www.comune.torino.it/novita/comunicati/coabitazioni-solidali-rinnovate-per-5-anni-giovani-condividono-spazi-momenti",
-      "data": "2026-03-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "cbd5024a7227",
-      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
-      "data": "2026-03-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0de8b5635256",
-      "titolo": "Gli scacchi ti fanno ridere, piangere, emozionare: la nuova campagna di FSI anche a Torino",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/scacchi-italia-ridere-emozionare-campagna/",
-      "data": "2026-03-11T20:47:22+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "8a41b639dd88",
-      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-      "link": "https://www.torinoclick.it/societa/stampe-latelier-di-comunita-laboratorio-sociale-per-larte-e-limprenditoria-sostenibile/",
-      "data": "2026-03-11T18:17:52+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "b822fbd8792b",
-      "titolo": "Partita la firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partita-firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-      "data": "2026-03-11T17:53:21+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "855f2564d74f",
-      "titolo": "Servizio Civile all'Ufficio Beni comuni",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-allufficio-beni-comuni",
-      "data": "2026-03-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "32807360227f",
-      "titolo": "Operativa entro il 2026 la gran parte di case e ospedali di comunità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/operativa-entro-2026-gran-parte-case-ospedali-comunita",
-      "data": "2026-03-10T18:52:31+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "878cc21e2f8f",
-      "titolo": "Parte la firma degli accordi di programma dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parte-firma-degli-accordi-programma-dei-fondi-sviluppo-coesione",
-      "data": "2026-03-10T10:53:21+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0e13cf0964b3",
-      "titolo": "Cooperazione internazionale, il sindaco Lo Russo al Consiglio Nazionale per la Cooperazione allo Sviluppo",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/cooperazione-internazionale-il-sindaco-lo-russo-al-consiglio-nazionale-per-la-cooperazione-allo-sviluppo/",
-      "data": "2026-03-09T11:06:25+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "a1122d52899d",
-      "titolo": "La Regione Piemonte scrive ai sindaci per intitolare spazi pubblici a donne che hanno fatto la storia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-scrive-ai-sindaci-per-intitolare-spazi-pubblici-donne-che-hanno-fatto-storia",
-      "data": "2026-03-07T18:39:46+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "77d4b4f9700b",
-      "titolo": "Focus sul progetto Esperti per il Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/focus-sul-progetto-esperti-per-piemonte",
-      "data": "2026-03-04T14:46:58+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "04f139391e55",
-      "titolo": "Ferrovia Rivarolo–Pont: lavori di elettrificazione conclusi entro il 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ferrovia-rivarolo-pont-lavori-elettrificazione-conclusi-entro-2026",
-      "data": "2026-02-24T11:51:44+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8afee01421cd",
-      "titolo": "Con GreenUP Piemonte 31 città coinvolte nella rigenerazione ambientale urbana",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/greenup-piemonte-31-citta-coinvolte-nella-rigenerazione-ambientale-urbana",
-      "data": "2026-02-23T16:28:56+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2e47afc83b36",
-      "titolo": "Misura la tua velocità di internet con Ne.Me.Sys",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/misura-la-tua-velocita-di-internet-con-nemesys-0",
-      "data": "2026-01-15T10:21:03+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "3751ea9d16cb",
-      "titolo": "Il Corecom Piemonte a Cuneo illustra le sue attività",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/il-corecom-piemonte-cuneo-illustra-le-sue-attivita",
-      "data": "2025-11-19T15:14:06+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "20b7132930de",
-      "titolo": "Problemi con l’operatore telefonico? Rivolgiti al Corecom Piemonte",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-loperatore-telefonico-rivolgiti-al-corecom-piemonte",
-      "data": "2025-10-23T08:49:37+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "350de9ef0699",
-      "titolo": "Comunicazioni fraudolente rimborso AGCOM per disservizi telefonici",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/notizie/comunicazioni-fraudolente-rimborso-agcom-disservizi-telefonici",
-      "data": "2025-10-23T08:31:32+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    }
-  ],
-  "cultura-beni-culturali": [
-    {
-      "id": "cbd5024a7227",
-      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
-      "data": "2026-03-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c93f0a59deac",
-      "titolo": "“In between places you can find me”: all’Accademia Albertina si dialoga con arte e natura",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/mostra-pav-torino-in-between-places-you-can-find-me/",
-      "data": "2026-03-11T19:42:24+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "b8ebc1741e23",
-      "titolo": "Milano-Torino, 150 anni della corsa ciclistica più antica al mondo: al via le celebrazioni",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/150-anni-milano-torino-corsa-ciclistica-antica/",
-      "data": "2026-03-11T18:48:34+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "8a41b639dd88",
-      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-      "link": "https://www.torinoclick.it/societa/stampe-latelier-di-comunita-laboratorio-sociale-per-larte-e-limprenditoria-sostenibile/",
-      "data": "2026-03-11T18:17:52+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "7a71cc68d48b",
-      "titolo": "Giornata mondiale contro l’islamofobia. A Torino il convegno Uniti contro l’Islamofobia e visite alle moschee",
-      "link": "https://www.torinoclick.it/societa/giornata-mondiale-contro-lislamofobia-a-torino-un-convegno-e-moschee-aperte/",
-      "data": "2026-03-11T14:50:11+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "ef9524fe4a78",
-      "titolo": "Torino omaggia Gipo Farassino con una targa commemorativa sulla sua casa natale di via Cuneo 6",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-omaggia-gipo-farassino-una-targa-commemorativa-sulla-sua-casa-natale-via",
-      "data": "2026-03-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "32807360227f",
-      "titolo": "Operativa entro il 2026 la gran parte di case e ospedali di comunità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/operativa-entro-2026-gran-parte-case-ospedali-comunita",
-      "data": "2026-03-10T18:52:31+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1f9e3ea26460",
-      "titolo": "In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/lavori-sanita-piemonte-pnrr-riboldi/",
-      "data": "2026-03-10T18:16:51+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "b891ff0eec04",
-      "titolo": "Torino candidata a Capitale della Cultura 2033, il sindaco Lo Russo: «Stiamo costruendo il dossier, giochiamo per vincere»",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/torino-capitale-cultura-2033-lo-russo/",
-      "data": "2026-03-10T17:44:17+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "a1baff6ce495",
-      "titolo": "Il Piemonte al Mipim 2026: oltre 6 milioni di metri quadri di opportunità. Riflettori puntati anche sul Piano Regolatore della Città di Torino",
-      "link": "https://www.torinoclick.it/territorio/il-piemonte-al-mipim-2026-oltre-6-milioni-di-metri-quadri-di-opportunita-riflettori-puntati-anche-sul-piano-regolatore-della-citta-di-torino/",
-      "data": "2026-03-10T16:42:02+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "fb7524301b55",
-      "titolo": "Il 1945 a teatro in Sala Rossa",
-      "link": "https://www.comune.torino.it/novita/comunicati/1945-teatro-sala-rossa",
-      "data": "2026-03-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "878cc21e2f8f",
-      "titolo": "Parte la firma degli accordi di programma dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parte-firma-degli-accordi-programma-dei-fondi-sviluppo-coesione",
-      "data": "2026-03-10T10:53:21+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9fe708f0ab9a",
-      "titolo": "E’ morto Umberto Allemandi, l’editore che ha cambiato il modo di raccontare l’arte",
-      "link": "https://www.quotidianopiemontese.it/2026/03/09/umberto-allemandi-morto-editore-arte/",
-      "data": "2026-03-09T21:27:35+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "8e8ad7b9e470",
-      "titolo": "Occupazioni abusive, recuperato un altro alloggio nel complesso Atc di via Biglieri",
-      "link": "https://www.torinoclick.it/sicurezza/occupazioni-abusive-recuperato-un-altro-alloggio-nel-complesso-atc-di-via-biglieri/",
-      "data": "2026-03-09T14:32:35+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "4aecfdf3f268",
-      "titolo": "Semaforo antismog: da domani, martedì 10 marzo, torna il livello 0 (bianco)",
-      "link": "https://www.comune.torino.it/novita/comunicati/semaforo-antismog-domani-martedi-10-marzo-torna-livello-0-bianco",
-      "data": "2026-03-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "91198eaab12e",
-      "titolo": "Ricercate per furto, arrestate dalla Polizia Locale",
-      "link": "https://www.comune.torino.it/novita/comunicati/ricercate-per-furto-arrestate-dalla-polizia-locale",
-      "data": "2026-03-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f07b2f93f45d",
-      "titolo": "Semaforo antismog: da domani, martedì 10 marzo, torna il livello 0 (bianco)",
-      "link": "https://www.torinoclick.it/trasporti/semaforo-antismog-da-domani-martedi-10-marzo-torna-il-livello-0-bianco/",
-      "data": "2026-03-09T11:37:54+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "51a59a1c81cc",
-      "titolo": "Ricercate per furto, arrestate dalla Polizia Locale",
-      "link": "https://www.torinoclick.it/sicurezza/ricercate-per-furto-arrestate-dalla-polizia-locale/",
-      "data": "2026-03-09T11:05:53+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "d275f0fdc828",
-      "titolo": "La marea rosa della Just The Woman I Am attraversa Torino",
-      "link": "https://www.torinoclick.it/sport/la-marea-rosa-della-just-the-woman-i-am-attraversa-torino/",
-      "data": "2026-03-08T20:45:43+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "06e1b2cb37dc",
-      "titolo": "Metro 2: al via i rilievi ambientali, si parte lunedì da via Pacini",
-      "link": "https://www.torinoclick.it/trasporti/metro-2-al-via-i-rilievi-ambientali-si-parte-lunedi-da-via-pacini/",
-      "data": "2026-03-07T14:03:42+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "ae9f5515273e",
-      "titolo": "Valorizzare talento e merito con la certificazione delle competenze",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/valorizzare-talento-merito-certificazione-delle-competenze",
-      "data": "2026-03-12T10:36:04+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a13240cfbb96",
-      "titolo": "Cappuccino e brioche ballando col dj, la nuova moda della domenica mattina conquista Torino: locali e istituzioni si interrogano sulle regole",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/morning-club-torino-colazione-dj-set-regole/",
-      "data": "2026-03-12T07:43:35+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "708acf5aa1dc",
-      "titolo": "“Situazione insostenibile”, stato di agitazione del comparto sanitario della Città della Salute di Torino",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/situazione-insostenibile-stato-di-agitazione-del-comparto-sanitario-della-citta-della-salute-di-torino/",
-      "data": "2026-03-11T13:57:57+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "7ea97ff120e7",
-      "titolo": "Carcere di Vercelli: 47 provvedimenti disciplinari per agenti dopo il caso della detenuta incinta",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/provvedimenti-disciplinari-agenti-carcere-vercelli/",
-      "data": "2026-03-11T10:46:39+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "af01df47d1f0",
-      "titolo": "Operaio cade da ponteggio nel cantiere della chiesa di via San Lorenzo ad Alessandria: è grave",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/operaio-cade-ponteggio-cantiere-chiesa-san-lorenzo-alessandria/",
-      "data": "2026-03-10T20:09:01+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "1f9e3ea26460",
-      "titolo": "In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/lavori-sanita-piemonte-pnrr-riboldi/",
-      "data": "2026-03-10T18:16:51+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "a1baff6ce495",
-      "titolo": "Il Piemonte al Mipim 2026: oltre 6 milioni di metri quadri di opportunità. Riflettori puntati anche sul Piano Regolatore della Città di Torino",
-      "link": "https://www.torinoclick.it/territorio/il-piemonte-al-mipim-2026-oltre-6-milioni-di-metri-quadri-di-opportunita-riflettori-puntati-anche-sul-piano-regolatore-della-citta-di-torino/",
-      "data": "2026-03-10T16:42:02+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "396e3cf651e7",
-      "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
-      "link": "https://pie.camcom.it/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
-      "data": "2026-03-10T14:59:10.420234+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "779c393fb0cd",
-      "titolo": "Previsioni occupazionali: 20.580 le assunzioni previste dalle imprese piemontesi per dicembre 2025",
-      "link": "https://pie.camcom.it/index.php/notizie/previsioni-occupazionali-20580-le-assunzioni-previste-dalle-imprese-piemontesi-dicembre-2025",
-      "data": "2026-03-10T14:59:07.277274+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "6abe928ff1a2",
-      "titolo": "Un contrassegno unico ZTL per gli agenti di commercio",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/un-contrassegno-unico-ztl-per-gli-agenti-di-commercio/",
-      "data": "2026-03-10T13:42:29+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "4e10dcd7dfdc",
-      "titolo": "Otto Marzo: più donne al lavoro",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/otto-marzo-piu-donne-al-lavoro",
-      "data": "2026-03-07T19:13:48+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "555d21abdcce",
-      "titolo": "Giovani, si ampliano le opportunità di protagonismo. Al lavoro per nuovi spazi e progetti in città",
-      "link": "https://www.comune.torino.it/novita/comunicati/giovani-si-ampliano-opportunita-protagonismo-al-lavoro-per-nuovi-spazi-progetti",
-      "data": "2026-03-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "3d425e88bb3d",
-      "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita in occasione di concerti, eventi - calendario eventi marzo 2026",
-      "link": "https://www.comune.torino.it/novita/avvisi/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per",
-      "data": "2026-03-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fd99031fec9d",
-      "titolo": "Il fondo sanitario integrato con 203 milioni per servizi aggiuntivi e assunzioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondo-sanitario-integrato-203-milioni-per-servizi-aggiuntivi-assunzioni",
-      "data": "2026-03-02T18:45:47+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "71a9d8281453",
-      "titolo": "La partecipazione delle donne alla crescita dell'Italia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partecipazione-delle-donne-alla-crescita-dellitalia",
-      "data": "2026-02-19T17:43:52+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "crisi-automotive": [
-    {
-      "id": "a77e42ab566b",
-      "titolo": "A Mirafiori 400 interinali per la nuova 500 ibrida, ma 121 operai lasciano lo stabilimento",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/mirafiori-500-ibrida-interinali-uscite/",
-      "data": "2026-03-12T08:40:01+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    }
-  ],
-  "sport": [
-    {
-      "id": "0de8b5635256",
-      "titolo": "Gli scacchi ti fanno ridere, piangere, emozionare: la nuova campagna di FSI anche a Torino",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/scacchi-italia-ridere-emozionare-campagna/",
-      "data": "2026-03-11T20:47:22+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "afa957b017a5",
-      "titolo": "Maxi rissa in piazza Sofia a Torino: volano sassi, poi la fuga",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/rissa-piazza-sofia-torino-sassi-feriti/",
-      "data": "2026-03-11T19:15:52+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "7037d72111c4",
-      "titolo": "Accoltellamento a Pinerolo: l’aggressore colpisce un uomo alla nuca e fugge",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/accoltellamento-a-pinerolo-laggressore-colpisce-un-uomo-alla-nuca-e-fugge/",
-      "data": "2026-03-11T18:02:46+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "c89d88d3f85b",
-      "titolo": "Torino, nell’area della Piscina Sempione sarà realizzato un nuovo complesso sportivo",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/torino-nellarea-della-piscina-sempione-sara-realizzato-un-nuovo-complesso-sportivo/",
-      "data": "2026-03-10T16:09:52+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "e9365438dd51",
-      "titolo": "Il sindaco Lo Russo a Roma per l’incontro con il Coni: sul tavolo la candidatura di Torino alle Olimpiadi 2030",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/il-sindaco-lo-russo-a-roma-per-lincontro-con-il-coni-sul-tavolo-la-candidatura-di-torino-alle-olimpiadi-2030/",
-      "data": "2026-03-10T15:36:01+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "66461f8dcf25",
-      "titolo": "Esportazioni piemontesi: nei primi nove mesi del 2025 tornano in positivo (+1,7% rispetto allo stesso periodo del 2024)",
-      "link": "https://pie.camcom.it/notizie/esportazioni-piemontesi-nei-primi-nove-mesi-del-2025-tornano-positivo-17-rispetto-allo-stesso",
-      "data": "2026-03-10T14:59:10.420093+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "f60f0bf1e8c2",
-      "titolo": "Esportazioni piemontesi: nei primi nove mesi del 2025 tornano in positivo (+1,7% rispetto allo stesso periodo del 2024)",
-      "link": "https://pie.camcom.it/index.php/notizie/esportazioni-piemontesi-nei-primi-nove-mesi-del-2025-tornano-positivo-17-rispetto-allo-stesso",
-      "data": "2026-03-10T14:59:07.277135+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "e0a5b1577abc",
-      "titolo": "Project financing per un nuovo complesso sportivo nell’area della Piscina Sempione: dalla Giunta il riconoscimento di pubblico interesse",
-      "link": "https://www.torinoclick.it/territorio/project-financing-per-un-nuovo-complesso-sportivo-nellarea-della-piscina-sempione-dalla-giunta-il-riconoscimento-di-pubblico-interesse/",
-      "data": "2026-03-10T13:31:21+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "c2613d49df6f",
-      "titolo": "Project financing per un nuovo complesso sportivo nell’area della Piscina Sempione: dalla Giunta il riconoscimento di pubblico interesse",
-      "link": "https://www.comune.torino.it/novita/comunicati/project-financing-per-un-nuovo-complesso-sportivo-nellarea-della-piscina",
-      "data": "2026-03-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "adc6ed55ae14",
-      "titolo": "Torneo EA Sports FC 25 – EduGaming Zone",
-      "link": "https://www.comune.torino.it/novita/notizie/torneo-ea-sports-fc-25-edugaming-zone",
-      "data": "2026-03-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d275f0fdc828",
-      "titolo": "La marea rosa della Just The Woman I Am attraversa Torino",
-      "link": "https://www.torinoclick.it/sport/la-marea-rosa-della-just-the-woman-i-am-attraversa-torino/",
-      "data": "2026-03-08T20:45:43+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "853ef1a20981",
-      "titolo": "Taglio del nastro per il rinnovato campo da calcio Colletta",
-      "link": "https://www.torinoclick.it/territorio/taglio-del-nastro-per-il-rinnovato-campo-da-calcio-colletta/",
-      "data": "2026-03-07T15:25:05+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "5d9334359829",
-      "titolo": "41 nuovi capitreno in Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/41-nuovi-capitreno-piemonte",
-      "data": "2026-03-04T17:33:33+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ffef2c9d110d",
-      "titolo": "Tre nuovi centri antiviolenza e 10 sportelli territoriali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tre-nuovi-centri-antiviolenza-10-sportelli-territoriali",
-      "data": "2026-02-26T19:12:50+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "giovani": [
-    {
-      "id": "c93f0a59deac",
-      "titolo": "“In between places you can find me”: all’Accademia Albertina si dialoga con arte e natura",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/mostra-pav-torino-in-between-places-you-can-find-me/",
-      "data": "2026-03-11T19:42:24+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "855f2564d74f",
-      "titolo": "Servizio Civile all'Ufficio Beni comuni",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-allufficio-beni-comuni",
-      "data": "2026-03-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "224d40404e38",
-      "titolo": "Servizio Civile presso la rete dei Punti Informativi Unificati",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-rete-dei-punti-informativi-unificati",
-      "data": "2026-03-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "555d21abdcce",
-      "titolo": "Giovani, si ampliano le opportunità di protagonismo. Al lavoro per nuovi spazi e progetti in città",
-      "link": "https://www.comune.torino.it/novita/comunicati/giovani-si-ampliano-opportunita-protagonismo-al-lavoro-per-nuovi-spazi-progetti",
-      "data": "2026-03-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "73d4b7b0054e",
-      "titolo": "Coabitazioni solidali rinnovate per 5 anni. I giovani condividono spazi e momenti di vita in 15 alloggi di proprietà pubblica",
-      "link": "https://www.comune.torino.it/novita/comunicati/coabitazioni-solidali-rinnovate-per-5-anni-giovani-condividono-spazi-momenti",
-      "data": "2026-03-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "16aba4000ceb",
-      "titolo": "Giovani Escursioni",
-      "link": "https://www.comune.torino.it/novita/notizie/giovani-escursioni",
-      "data": "2026-02-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "ambiente-qualita-aria": [
-    {
-      "id": "eb7b5b70bbe2",
-      "titolo": "Smog, fino a venerdì 13 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-venerdi-13-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-      "data": "2026-03-11T16:07:13+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "93e2a944ec1c",
-      "titolo": "Preoccupano i tagli del Governo sui fondi anti-inquinamento: il confronto in Consiglio regionale",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/consiglio-regionale-tagli-aria-governo/",
-      "data": "2026-03-10T21:38:29+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "4aecfdf3f268",
-      "titolo": "Semaforo antismog: da domani, martedì 10 marzo, torna il livello 0 (bianco)",
-      "link": "https://www.comune.torino.it/novita/comunicati/semaforo-antismog-domani-martedi-10-marzo-torna-livello-0-bianco",
-      "data": "2026-03-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f07b2f93f45d",
-      "titolo": "Semaforo antismog: da domani, martedì 10 marzo, torna il livello 0 (bianco)",
-      "link": "https://www.torinoclick.it/trasporti/semaforo-antismog-da-domani-martedi-10-marzo-torna-il-livello-0-bianco/",
-      "data": "2026-03-09T11:37:54+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "506e4fecb40b",
-      "titolo": "Semaforo antismog: da domani, sabato 7 marzo, scatta il livello 2 (rosso)",
-      "link": "https://www.comune.torino.it/novita/comunicati/semaforo-antismog-domani-sabato-7-marzo-scatta-livello-2-rosso",
-      "data": "2026-03-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8c596ef83a34",
-      "titolo": "Da Alcotra oltre 5,5 milioni di euro per 24 nuovi progetti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-oltre-55-milioni-euro-per-24-nuovi-progetti",
-      "data": "2026-03-03T16:13:17+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f49115a5f4d5",
-      "titolo": "Bonifica e messa in sicurezza di aree inquinate per 4,7 milioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bonifica-messa-sicurezza-aree-inquinate-per-47-milioni",
-      "data": "2026-02-26T08:50:27+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8afee01421cd",
-      "titolo": "Con GreenUP Piemonte 31 città coinvolte nella rigenerazione ambientale urbana",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/greenup-piemonte-31-citta-coinvolte-nella-rigenerazione-ambientale-urbana",
-      "data": "2026-02-23T16:28:56+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "trasporti-mobilita": [
-    {
-      "id": "b9b65a529707",
-      "titolo": "Festival della Felicità 2026, la terza edizione dal 13 al 17 marzo",
-      "link": "https://www.torinoclick.it/societa/festival-della-felicita-2026-la-terza-edizione-dal-13-al-17-marzo/",
-      "data": "2026-03-11T15:08:46+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "191c269b33ae",
-      "titolo": "Sulla SFM1 soppressi 1139 treni in un anno: l’inchiesta de L’Unica che fotografa il collasso del pendolarismo ferroviario a Torino",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/disservizi-treni-torino-ritardi-cancellazioni-sfm1/",
-      "data": "2026-03-11T09:53:26+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "13badd013499",
-      "titolo": "Persona sui binari di Porta Susa blocca la circolazione per mezz’ora. Disagi per i pendolari",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/persona-binari-porta-susa-disagi-pendolari/",
-      "data": "2026-03-10T09:29:46+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "06e1b2cb37dc",
-      "titolo": "Metro 2: al via i rilievi ambientali, si parte lunedì da via Pacini",
-      "link": "https://www.torinoclick.it/trasporti/metro-2-al-via-i-rilievi-ambientali-si-parte-lunedi-da-via-pacini/",
-      "data": "2026-03-07T14:03:42+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "5d9334359829",
-      "titolo": "41 nuovi capitreno in Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/41-nuovi-capitreno-piemonte",
-      "data": "2026-03-04T17:33:33+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "trasparenza": [
-    {
-      "id": "7a71cc68d48b",
-      "titolo": "Giornata mondiale contro l’islamofobia. A Torino il convegno Uniti contro l’Islamofobia e visite alle moschee",
-      "link": "https://www.torinoclick.it/societa/giornata-mondiale-contro-lislamofobia-a-torino-un-convegno-e-moschee-aperte/",
-      "data": "2026-03-11T14:50:11+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "a1baff6ce495",
-      "titolo": "Il Piemonte al Mipim 2026: oltre 6 milioni di metri quadri di opportunità. Riflettori puntati anche sul Piano Regolatore della Città di Torino",
-      "link": "https://www.torinoclick.it/territorio/il-piemonte-al-mipim-2026-oltre-6-milioni-di-metri-quadri-di-opportunita-riflettori-puntati-anche-sul-piano-regolatore-della-citta-di-torino/",
-      "data": "2026-03-10T16:42:02+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "71a9d8281453",
-      "titolo": "La partecipazione delle donne alla crescita dell'Italia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partecipazione-delle-donne-alla-crescita-dellitalia",
-      "data": "2026-02-19T17:43:52+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "energia": [
-    {
-      "id": "e7b7f66ff66f",
-      "titolo": "Una fuga di gas, la scuola evacuata e 1400 studenti dell’istituto tecnico Grassi di Torino restano a casa",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/una-fuga-di-gas-la-scuola-evacuata-e-1400-studenti-dellistituto-tecnico-grassi-di-torino-restano-a-casa/",
-      "data": "2026-03-11T14:13:29+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "c99f98d4ee93",
-      "titolo": "Aumento prezzi carburante per il conflitto in Iran: Confagricoltura chiede interventi per aiutare gli agricoltori",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/aumento-prezzi-carburante-confagricoltura/",
-      "data": "2026-03-10T22:09:28+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "a37e3b2db131",
-      "titolo": "Transizione energetica cresce la spinta delle imprese piemontesi: quasi un'azienda manifatturiera su tre è già attiva  o pronta a investire",
-      "link": "https://pie.camcom.it/notizie/transizione-energetica-cresce-la-spinta-delle-imprese-piemontesi-quasi-unazienda-manifatturiera-su",
-      "data": "2026-03-10T14:59:10.420795+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "80d92dbdad8f",
-      "titolo": "Guerra in Medio Oriente e aumento del gasolio agricolo: Coldiretti presenta esposto in Procura contro le speculazioni",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/guerra-in-medio-oriente-e-aumento-del-gasolio-agricolo-coldiretti-presenta-esposto-in-procura-contro-le-speculazioni/",
-      "data": "2026-03-10T12:54:51+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    }
-  ],
-  "commercio-artigianato": [
-    {
-      "id": "3b8a487cb33c",
-      "titolo": "Concerti di OLLY (18 MARZO 2026), UMBERTO TOZZI (19 MARZO 2026), ANDRE' RIEU (20 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/concerti-olly-18-marzo-2026-umberto-tozzi-19-marzo-2026-andre-rieu-20-marzo-2026",
-      "data": "2026-03-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6abe928ff1a2",
-      "titolo": "Un contrassegno unico ZTL per gli agenti di commercio",
-      "link": "https://www.quotidianopiemontese.it/2026/03/10/un-contrassegno-unico-ztl-per-gli-agenti-di-commercio/",
-      "data": "2026-03-10T13:42:29+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "d3e3098fd23a",
-      "titolo": "Giardino Martini, messi a dimora 11 nuovi tigli per la riqualificazione del mercato di piazza Benefica",
-      "link": "https://www.torinoclick.it/territorio/giardino-martini-messi-a-dimora-11-nuovi-tigli-per-la-riqualificazione-del-mercato-di-piazza-benefica/",
-      "data": "2026-03-09T14:13:06+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "b8a442a320ef",
-      "titolo": "Autonomia differenziata: via libera del Consiglio dei ministri alle intese preliminari",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-via-libera-consiglio-dei-ministri-alle-intese-preliminari",
-      "data": "2026-02-18T19:05:44+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b7800b4795bd",
-      "titolo": "Il vino piemontese pronto ad affrontare nuovi mercati",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-pronto-ad-affrontare-nuovi-mercati",
-      "data": "2026-02-16T15:31:01+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "bilancio-regionale": [
-    {
-      "id": "781ffead9831",
-      "titolo": "Nati-mortalità delle imprese: lievemente positivo il bilancio demografico nel 2025",
-      "link": "https://pie.camcom.it/notizie/nati-mortalita-delle-imprese-lievemente-positivo-il-bilancio-demografico-nel-2025",
-      "data": "2026-03-10T14:59:10.419923+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "0b3ed7158a10",
-      "titolo": "Nati-mortalità delle imprese: lievemente positivo il bilancio demografico nel 2025",
-      "link": "https://pie.camcom.it/index.php/notizie/nati-mortalita-delle-imprese-lievemente-positivo-il-bilancio-demografico-nel-2025",
-      "data": "2026-03-10T14:59:07.276828+00:00",
-      "fonte": "Unioncamere Piemonte",
-      "fonte_id": "unioncamere"
-    },
-    {
-      "id": "f7ddb97dd399",
-      "titolo": "Numeri positivi per i Servizi di prevenzione nel 2025",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/numeri-positivi-per-servizi-prevenzione-nel-2025",
-      "data": "2026-03-06T19:13:23+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "autonomia-differenziata": [
-    {
-      "id": "b8a442a320ef",
-      "titolo": "Autonomia differenziata: via libera del Consiglio dei ministri alle intese preliminari",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-via-libera-consiglio-dei-ministri-alle-intese-preliminari",
-      "data": "2026-02-18T19:05:44+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "pari-opportunita": [
-    {
-      "id": "20b7132930de",
-      "titolo": "Problemi con l’operatore telefonico? Rivolgiti al Corecom Piemonte",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-loperatore-telefonico-rivolgiti-al-corecom-piemonte",
-      "data": "2025-10-23T08:49:37+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
     }
   ]
 }

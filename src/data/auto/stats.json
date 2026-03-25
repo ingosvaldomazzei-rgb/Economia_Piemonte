@@ -1,16 +1,14 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 41,
-    "quotidiano_piemontese": 81,
-    "torinoclick": 25,
-    "comune_torino": 31,
-    "unioncamere": 16,
-    "consiglio": 6
+    "torinoclick": 58,
+    "regione": 19,
+    "comune_torino": 51,
+    "quotidiano_piemontese": 72
   },
   "temi_attivi": [
     {
-      "tema": "sanita-regionale",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 20
     },
     {
@@ -18,37 +16,37 @@
       "conteggio": 20
     },
     {
-      "tema": "agricoltura",
-      "conteggio": 16
-    },
-    {
-      "tema": "attivita-produttive",
-      "conteggio": 16
-    },
-    {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 16
-    },
-    {
-      "tema": "fondi-europei",
-      "conteggio": 15
-    },
-    {
       "tema": "lavoro-occupazione",
-      "conteggio": 15
+      "conteggio": 16
+    },
+    {
+      "tema": "sanita-regionale",
+      "conteggio": 12
+    },
+    {
+      "tema": "istruzione-formazione",
+      "conteggio": 11
     },
     {
       "tema": "sport",
-      "conteggio": 14
-    },
-    {
-      "tema": "universita-ricerca",
       "conteggio": 9
     },
     {
-      "tema": "ambiente-qualita-aria",
+      "tema": "agricoltura",
+      "conteggio": 9
+    },
+    {
+      "tema": "fondi-europei",
+      "conteggio": 9
+    },
+    {
+      "tema": "giovani",
+      "conteggio": 8
+    },
+    {
+      "tema": "pianificazione-territoriale",
       "conteggio": 8
     }
   ],
-  "totale_temi_con_notizie": 27
+  "totale_temi_con_notizie": 24
 }
