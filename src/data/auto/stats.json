@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "torinoclick": 58,
     "regione": 19,
-    "comune_torino": 51,
-    "quotidiano_piemontese": 72
+    "torinoclick": 62,
+    "comune_torino": 56,
+    "quotidiano_piemontese": 63
   },
   "temi_attivi": [
     {
@@ -17,30 +17,30 @@
     },
     {
       "tema": "lavoro-occupazione",
-      "conteggio": 16
-    },
-    {
-      "tema": "sanita-regionale",
-      "conteggio": 12
+      "conteggio": 14
     },
     {
       "tema": "istruzione-formazione",
       "conteggio": 11
     },
     {
-      "tema": "sport",
-      "conteggio": 9
+      "tema": "giovani",
+      "conteggio": 10
+    },
+    {
+      "tema": "sanita-regionale",
+      "conteggio": 10
     },
     {
       "tema": "agricoltura",
       "conteggio": 9
     },
     {
-      "tema": "fondi-europei",
+      "tema": "sport",
       "conteggio": 9
     },
     {
-      "tema": "giovani",
+      "tema": "fondi-europei",
       "conteggio": 8
     },
     {

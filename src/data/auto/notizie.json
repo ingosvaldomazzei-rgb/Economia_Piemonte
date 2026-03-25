@@ -1,5 +1,105 @@
 [
   {
+    "id": "d4c0b8619728",
+    "titolo": "Un nuovo assetto per la Giunta regionale del Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-nuovo-assetto-per-giunta-regionale-piemonte",
+    "descrizione": "Alla luce delle ultime vicende, nella giornata di oggi Elena Chiorino ha rappresentato al presidente Alberto Cirio la volontà di restituire la delega alla vicepresidenza della Regione Piemonte. Con il presidente si è quindi condivisa l’opportunità che, in…",
+    "data": "2026-03-25T19:11:00+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "ea7ca8a3eb7c",
+    "titolo": "Torino-Regno Unito: a Palazzo di Città un incontro tra innovazione, atenei e gemellaggi",
+    "link": "https://www.torinoclick.it/relazioniinternazionali/torino-regno-unito-a-palazzo-di-citta-un-incontro-tra-innovazione-atenei-e-gemellaggi/",
+    "descrizione": "Si è tenuto oggi a Palazzo di Città un incontro tra la vicesindaca di Torino, Michela Favaro, e i vertici della diplomazia britannica: il Chargé d’Affaires del Regno Unito in Italia e San Marino, David Burton, e il Console Generale a Milano, Kassim Ramji.",
+    "data": "2026-03-25T15:30:36+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "ad6be72d454a",
+    "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
+    "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
+    "descrizione": "Due cortili a Barriera di Milano offriranno nuove opportunità educative e servizi di presidio di prossimità per tutti i giovani del quartiere, indipendentemente dalla loro religione o provenienza. Con il progetto “Cortili che Curano”, Fondazione AIEF, l’Associazione Oratorio Maria Regina della Pace e l’Associazione Alla…Mano hanno rinnovato gli spazi dei due oratori, potenziandoli come presìdi educativi e comunitari.L’iniziativa è sostenuta dalla Città di Torino nell’ambito del progetto “Bella S",
+    "data": "2026-03-25T14:58:13+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "cc6887cb1974",
+    "titolo": "Dal 2 al 6 aprile Torino è capitale del tango: l’edizione 24 del Tango Torino Festival presentata oggi a Palazzo Civico",
+    "link": "https://www.torinoclick.it/societa/dal-2-al-6-aprile-torino-e-capitale-del-tango-ledizione-24-del-tango-torino-festival-presentata-oggi-a-palazzo-civico/",
+    "descrizione": "Presentata oggi nella Sala Colonne di Palazzo Civico, alla presenza dell’assessore Domenico Carretta, la 24ª edizione dell’International Tango Torino Festival, che dal 2 al 6 aprile riporterà in città l’atmosfera unica delle milonghe pasquali, tra spettacoli, didattica e migliaia di appassionati provenienti da tutto il mondo.",
+    "data": "2026-03-25T13:45:54+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "986d83919a53",
+    "titolo": "Dallo specchietto rotto al finto investimento, la Città di Torino collabora con tassisti e Prefettura per contrastare le truffe al volante",
+    "link": "https://www.torinoclick.it/sicurezza/dallo-specchietto-rotto-al-finto-investimento-la-citta-di-torino-collabora-con-tassisti-e-prefettura-per-contrastare-le-truffe-al-volante/",
+    "descrizione": "Si sono moltiplicate le segnalazioni degli automobilisti alla Polizia Locale per truffe, o tentativi di truffe, con il metodo del falso pedone investito o dello specchietto rotto. Nell’ultimo anno circa 880mila italiani hanno ammesso di essere caduti nel tranello e di aver pagato in contanti il presunto danno. E anche a Torino i dati delle denunce sono in aumento.",
+    "data": "2026-03-25T13:37:32+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "879e8643d260",
+    "titolo": "Un impegno per valorizzare la presenza Rai a Torino",
+    "link": "https://www.comune.torino.it/novita/comunicati/un-impegno-per-valorizzare-presenza-rai-torino",
+    "descrizione": "La Sala Rossa approva una mozione (primo firmatario: Claudio Cerrato - PD) che chiede di valorizzare e tutelare la presenza della Rai in città",
+    "data": "2026-03-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "82809b1a0848",
+    "titolo": "Una mozione per aderire alla definizione agevolata",
+    "link": "https://www.comune.torino.it/novita/comunicati/una-mozione-per-aderire-alla-definizione-agevolata",
+    "descrizione": "La Sala Rossa ha approvato una proposta di mozione riguardante la possibilità, per la Città, di aderire alla procedura di definizione agevolata",
+    "data": "2026-03-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4d5da6eca184",
+    "titolo": "Solidarietà della Sala Rossa al consigliere Abdullahi Ahmed per gli attacchi razzisti ricevuti",
+    "link": "https://www.comune.torino.it/novita/comunicati/solidarieta-della-sala-rossa-al-consigliere-abdullahi-ahmed-per-attacchi",
+    "descrizione": "Unanime la condanna delle forze politiche",
+    "data": "2026-03-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ff6712745379",
+    "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
+    "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-cortile-della-musica-barriera-milano",
+    "descrizione": "Due cortili a Barriera di Milano offriranno nuove opportunità educative e servizi di presidio di prossimità per tutti i giovani del quartiere.",
+    "data": "2026-03-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d29e055f151d",
+    "titolo": "Dallo specchietto rotto al finto investimento, la Città di Torino collabora con tassisti e Prefettura per contrastare le truffe al volante",
+    "link": "https://www.comune.torino.it/novita/comunicati/dallo-specchietto-rotto-al-finto-investimento-citta-torino-collabora-tassisti",
+    "descrizione": "Si sono moltiplicate le segnalazioni degli automobilisti alla Polizia Locale per truffe, o tentativi di truffe.",
+    "data": "2026-03-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "077cd0ede812",
     "titolo": "Biennale Tecnologia 2026 cerca “Soluzioni”",
     "link": "https://www.torinoclick.it/economia/biennale-tecnologia-2026-cerca-soluzioni/",
@@ -133,7 +233,7 @@
     "id": "72f3f222bb76",
     "titolo": "Community Driven Regeneration in Turin: Insights from the IMPATTO Project Visits",
     "link": "https://www.comune.torino.it/novita/notizie/community-driven-regeneration-turin-insights-from-the-impatto-project-visits",
-    "descrizione": "Sintesi delle visite ai progetti IMPATTO a Torino, evidenziando inclusione, sostenibilità e qualità degli spazi pubblici secondo i principi NEB.",
+    "descrizione": "Stakeholder meeting del progetto Interreg Europe NEBA a Torino: le iniziative finanziate dalla misura IMPATTO, rilette in chiave New European Bauhaus",
     "data": "2026-03-24T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1895,106 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/11/lettera-aperta-cairo-torino-marengo-vendita-torino-fc/",
     "descrizione": "Il documento si presenta come la voce di un “mondo granata” sempre più distante dalla proprietà L'articolo L’avvocato Marengo scrive a Cairo: lascia il Toro con più stile di quando lo acquistasti proviene da Quotidiano Piemontese.",
     "data": "2026-03-11T08:47:29+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "105f91b3dc71",
-    "titolo": "Arrestato in Venezuela l’imprenditore pinerolese Elmo Bianciotto: era latitante dal 2024",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/arrestato-venezuela-elmo-bianciotto-pinerolo/",
-    "descrizione": "Nel corso delle inchieste la magistratura aveva disposto il sequestro di un ingente patrimonio riconducibile all’imprenditore L'articolo Arrestato in Venezuela l’imprenditore pinerolese Elmo Bianciotto: era latitante dal 2024 proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T08:18:24+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "ecd38da57761",
-    "titolo": "Il TGV arriva in Italia, nuove tratte alta velocità da Torino a Venezia e Roma",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/nuovo-operatore-alta-velocita-torino-milano-roma-2027/",
-    "descrizione": "L’obiettivo è avviare i nuovi servizi a partire dal 2027 L'articolo Il TGV arriva in Italia, nuove tratte alta velocità da Torino a Venezia e Roma proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T06:43:47+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "63943e47bb91",
-    "titolo": "Narcotraffico dal Brasile a Torino: 18 anni per Ciccio Salsiccia e altre sette condanne nel processo “Samba”",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/processo-samba-narcotraffico-brasile-torino-condanne/",
-    "descrizione": "Le indagini hanno ricostruito un imponente traffico internazionale: circa 1.600 chilogrammi di cocaina partiti dal Brasile L'articolo Narcotraffico dal Brasile a Torino: 18 anni per Ciccio Salsiccia e altre sette condanne nel processo “Samba” proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T06:24:56+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "c99f98d4ee93",
-    "titolo": "Aumento prezzi carburante per il conflitto in Iran: Confagricoltura chiede interventi per aiutare gli agricoltori",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/aumento-prezzi-carburante-confagricoltura/",
-    "descrizione": "Il comparto agricolo si trova ad affrontare la salita dei costi di benzina e gasolio, della bolletta e dei fertilizzanti, nel momento di avviare produzione L'articolo Aumento prezzi carburante per il conflitto in Iran: Confagricoltura chiede interventi per aiutare gli agricoltori proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T22:09:28+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "93e2a944ec1c",
-    "titolo": "Preoccupano i tagli del Governo sui fondi anti-inquinamento: il confronto in Consiglio regionale",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/consiglio-regionale-tagli-aria-governo/",
-    "descrizione": "Calderoni (Pd): qualità dell'aria padana tra le peggiori d'Europa. Assessore Vignale: in corso un confronto con il Governo L'articolo Preoccupano i tagli del Governo sui fondi anti-inquinamento: il confronto in Consiglio regionale proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T21:38:29+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "a382828221e0",
-    "titolo": "Occupazioni abusive, l’Atc recupera altri due appartamenti a Torino",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/occupazioni-abusive-atc-due-appartamenti/",
-    "descrizione": "Si tratta di un alloggio in corso Farini e di uno in corso Grosseto L'articolo Occupazioni abusive, l’Atc recupera altri due appartamenti a Torino proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T20:23:22+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "af01df47d1f0",
-    "titolo": "Operaio cade da ponteggio nel cantiere della chiesa di via San Lorenzo ad Alessandria: è grave",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/operaio-cade-ponteggio-cantiere-chiesa-san-lorenzo-alessandria/",
-    "descrizione": "I sindacati rimarcano l'importanza del rispetto delle norme di sicurezza L'articolo Operaio cade da ponteggio nel cantiere della chiesa di via San Lorenzo ad Alessandria: è grave proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T20:09:01+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "32807360227f",
-    "titolo": "Operativa entro il 2026 la gran parte di case e ospedali di comunità",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/operativa-entro-2026-gran-parte-case-ospedali-comunita",
-    "descrizione": "Prosegue l’attuazione della nuova rete di sanità territoriale prevista dal Pnrr. Rispondendo ad alcuni “question time” in Consiglio regionale, l’assessore alla Sanità Federico Riboldi ha ribadito che «49 case di comunità saranno operative entro maggio e…",
-    "data": "2026-03-10T18:52:31+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "1f9e3ea26460",
-    "titolo": "In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/lavori-sanita-piemonte-pnrr-riboldi/",
-    "descrizione": "Riboldi: «Il lavoro è in costante confronto con i Ministeri e con un monitoraggio da parte delle Aziende sanitarie, per il rispetto dei target del PNRR» L'articolo In via di conclusione i lavori per la nuova rete della sanità piemontese, grazie al PNRR proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T18:16:51+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "b891ff0eec04",
-    "titolo": "Torino candidata a Capitale della Cultura 2033, il sindaco Lo Russo: «Stiamo costruendo il dossier, giochiamo per vincere»",
-    "link": "https://www.quotidianopiemontese.it/2026/03/10/torino-capitale-cultura-2033-lo-russo/",
-    "descrizione": "Nel frattempo proseguono i lavori lungo l'asse del Po: in ultimazione il parco del Valentino L'articolo Torino candidata a Capitale della Cultura 2033, il sindaco Lo Russo: «Stiamo costruendo il dossier, giochiamo per vincere» proviene da Quotidiano Piemontese.",
-    "data": "2026-03-10T17:44:17+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
