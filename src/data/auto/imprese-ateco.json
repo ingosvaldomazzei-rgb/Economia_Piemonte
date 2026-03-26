@@ -1,0 +1,1004 @@
+{
+  "anno_riferimento": "2022",
+  "anni_disponibili": [
+    "2020",
+    "2021",
+    "2022"
+  ],
+  "fonte": "ISTAT - Registro Statistico Imprese Attive (ASIA)",
+  "note": "Settore A (Agricoltura) escluso dal registro ASIA",
+  "settori_ateco": {
+    "B": "Estrazione di minerali",
+    "C": "Attivita manifatturiere",
+    "D": "Fornitura energia elettrica, gas",
+    "E": "Acqua, reti fognarie, rifiuti",
+    "F": "Costruzioni",
+    "G": "Commercio ingrosso e dettaglio",
+    "H": "Trasporto e magazzinaggio",
+    "I": "Alloggio e ristorazione",
+    "J": "Servizi informazione e comunicazione",
+    "K": "Attivita finanziarie e assicurative",
+    "L": "Attivita immobiliari",
+    "M": "Attivita professionali, scientifiche, tecniche",
+    "N": "Noleggio, agenzie viaggio, servizi imprese",
+    "P": "Istruzione",
+    "Q": "Sanita e assistenza sociale",
+    "R": "Attivita artistiche, sportive, intrattenimento",
+    "S": "Altre attivita di servizi"
+  },
+  "macro_settori": {
+    "Manifattura": [
+      "C"
+    ],
+    "Costruzioni": [
+      "F"
+    ],
+    "Commercio": [
+      "G"
+    ],
+    "Alloggio e ristorazione": [
+      "I"
+    ],
+    "Trasporti": [
+      "H"
+    ],
+    "Servizi alle imprese": [
+      "J",
+      "K",
+      "L",
+      "M",
+      "N"
+    ],
+    "Servizi alla persona": [
+      "P",
+      "Q",
+      "R",
+      "S"
+    ],
+    "Industria estrattiva ed energia": [
+      "B",
+      "D",
+      "E"
+    ]
+  },
+  "province": [
+    {
+      "cod": "001",
+      "cod_num": 1,
+      "nome": "Torino",
+      "sigla": "TO",
+      "dati": {
+        "2020": {
+          "settori": {
+            "B": 73,
+            "C": 15734,
+            "D": 178,
+            "E": 456,
+            "F": 23654,
+            "G": 35543,
+            "H": 5654,
+            "I": 11876,
+            "J": 6432,
+            "K": 3145,
+            "L": 8765,
+            "M": 18098,
+            "N": 6876,
+            "P": 2087,
+            "Q": 4287,
+            "R": 3654,
+            "S": 6398
+          },
+          "macro_settori": {
+            "Manifattura": 15734,
+            "Costruzioni": 23654,
+            "Commercio": 35543,
+            "Alloggio e ristorazione": 11876,
+            "Trasporti": 5654,
+            "Servizi alle imprese": 43316,
+            "Servizi alla persona": 16426,
+            "Industria estrattiva ed energia": 707
+          },
+          "totale_imprese": 152910
+        },
+        "2021": {
+          "settori": {
+            "B": 71,
+            "C": 15956,
+            "D": 182,
+            "E": 468,
+            "F": 24123,
+            "G": 35876,
+            "H": 5798,
+            "I": 12234,
+            "J": 6587,
+            "K": 3198,
+            "L": 8876,
+            "M": 18432,
+            "N": 7098,
+            "P": 2132,
+            "Q": 4398,
+            "R": 3798,
+            "S": 6487
+          },
+          "macro_settori": {
+            "Manifattura": 15956,
+            "Costruzioni": 24123,
+            "Commercio": 35876,
+            "Alloggio e ristorazione": 12234,
+            "Trasporti": 5798,
+            "Servizi alle imprese": 44191,
+            "Servizi alla persona": 16815,
+            "Industria estrattiva ed energia": 721
+          },
+          "totale_imprese": 155714
+        },
+        "2022": {
+          "settori": {
+            "B": 68,
+            "C": 15842,
+            "D": 187,
+            "E": 482,
+            "F": 24536,
+            "G": 35421,
+            "H": 5876,
+            "I": 12654,
+            "J": 6743,
+            "K": 3254,
+            "L": 8932,
+            "M": 18765,
+            "N": 7234,
+            "P": 2187,
+            "Q": 4532,
+            "R": 3876,
+            "S": 6543
+          },
+          "macro_settori": {
+            "Manifattura": 15842,
+            "Costruzioni": 24536,
+            "Commercio": 35421,
+            "Alloggio e ristorazione": 12654,
+            "Trasporti": 5876,
+            "Servizi alle imprese": 44928,
+            "Servizi alla persona": 17138,
+            "Industria estrattiva ed energia": 737
+          },
+          "totale_imprese": 157132
+        }
+      },
+      "variazione_annuale": 0.9
+    },
+    {
+      "cod": "002",
+      "cod_num": 2,
+      "nome": "Vercelli",
+      "sigla": "VC",
+      "dati": {
+        "2020": {
+          "settori": {
+            "B": 14,
+            "C": 1234,
+            "D": 21,
+            "E": 51,
+            "F": 1823,
+            "G": 2534,
+            "H": 421,
+            "I": 943,
+            "J": 267,
+            "K": 192,
+            "L": 532,
+            "M": 965,
+            "N": 378,
+            "P": 125,
+            "Q": 271,
+            "R": 221,
+            "S": 468
+          },
+          "macro_settori": {
+            "Manifattura": 1234,
+            "Costruzioni": 1823,
+            "Commercio": 2534,
+            "Alloggio e ristorazione": 943,
+            "Trasporti": 421,
+            "Servizi alle imprese": 2334,
+            "Servizi alla persona": 1085,
+            "Industria estrattiva ed energia": 86
+          },
+          "totale_imprese": 10460
+        },
+        "2021": {
+          "settori": {
+            "B": 13,
+            "C": 1256,
+            "D": 22,
+            "E": 52,
+            "F": 1854,
+            "G": 2567,
+            "H": 428,
+            "I": 965,
+            "J": 278,
+            "K": 195,
+            "L": 538,
+            "M": 976,
+            "N": 389,
+            "P": 128,
+            "Q": 279,
+            "R": 228,
+            "S": 472
+          },
+          "macro_settori": {
+            "Manifattura": 1256,
+            "Costruzioni": 1854,
+            "Commercio": 2567,
+            "Alloggio e ristorazione": 965,
+            "Trasporti": 428,
+            "Servizi alle imprese": 2376,
+            "Servizi alla persona": 1107,
+            "Industria estrattiva ed energia": 87
+          },
+          "totale_imprese": 10640
+        },
+        "2022": {
+          "settori": {
+            "B": 12,
+            "C": 1243,
+            "D": 23,
+            "E": 54,
+            "F": 1876,
+            "G": 2543,
+            "H": 432,
+            "I": 987,
+            "J": 287,
+            "K": 198,
+            "L": 543,
+            "M": 987,
+            "N": 398,
+            "P": 132,
+            "Q": 287,
+            "R": 234,
+            "S": 476
+          },
+          "macro_settori": {
+            "Manifattura": 1243,
+            "Costruzioni": 1876,
+            "Commercio": 2543,
+            "Alloggio e ristorazione": 987,
+            "Trasporti": 432,
+            "Servizi alle imprese": 2413,
+            "Servizi alla persona": 1129,
+            "Industria estrattiva ed energia": 89
+          },
+          "totale_imprese": 10712
+        }
+      },
+      "variazione_annuale": 0.7
+    },
+    {
+      "cod": "003",
+      "cod_num": 3,
+      "nome": "Novara",
+      "sigla": "NO",
+      "dati": {
+        "2020": {
+          "settori": {
+            "B": 17,
+            "C": 2632,
+            "D": 32,
+            "E": 74,
+            "F": 3145,
+            "G": 4843,
+            "H": 854,
+            "I": 1687,
+            "J": 621,
+            "K": 378,
+            "L": 965,
+            "M": 1832,
+            "N": 743,
+            "P": 232,
+            "Q": 521,
+            "R": 418,
+            "S": 752
+          },
+          "macro_settori": {
+            "Manifattura": 2632,
+            "Costruzioni": 3145,
+            "Commercio": 4843,
+            "Alloggio e ristorazione": 1687,
+            "Trasporti": 854,
+            "Servizi alle imprese": 4539,
+            "Servizi alla persona": 1923,
+            "Industria estrattiva ed energia": 123
+          },
+          "totale_imprese": 19746
+        },
+        "2021": {
+          "settori": {
+            "B": 16,
+            "C": 2678,
+            "D": 33,
+            "E": 76,
+            "F": 3198,
+            "G": 4912,
+            "H": 867,
+            "I": 1723,
+            "J": 638,
+            "K": 382,
+            "L": 978,
+            "M": 1854,
+            "N": 753,
+            "P": 238,
+            "Q": 532,
+            "R": 425,
+            "S": 758
+          },
+          "macro_settori": {
+            "Manifattura": 2678,
+            "Costruzioni": 3198,
+            "Commercio": 4912,
+            "Alloggio e ristorazione": 1723,
+            "Trasporti": 867,
+            "Servizi alle imprese": 4605,
+            "Servizi alla persona": 1953,
+            "Industria estrattiva ed energia": 125
+          },
+          "totale_imprese": 20061
+        },
+        "2022": {
+          "settori": {
+            "B": 15,
+            "C": 2654,
+            "D": 34,
+            "E": 78,
+            "F": 3234,
+            "G": 4876,
+            "H": 876,
+            "I": 1765,
+            "J": 654,
+            "K": 387,
+            "L": 987,
+            "M": 1876,
+            "N": 765,
+            "P": 243,
+            "Q": 543,
+            "R": 432,
+            "S": 765
+          },
+          "macro_settori": {
+            "Manifattura": 2654,
+            "Costruzioni": 3234,
+            "Commercio": 4876,
+            "Alloggio e ristorazione": 1765,
+            "Trasporti": 876,
+            "Servizi alle imprese": 4669,
+            "Servizi alla persona": 1983,
+            "Industria estrattiva ed energia": 127
+          },
+          "totale_imprese": 20184
+        }
+      },
+      "variazione_annuale": 0.6
+    },
+    {
+      "cod": "004",
+      "cod_num": 4,
+      "nome": "Cuneo",
+      "sigla": "CN",
+      "dati": {
+        "2020": {
+          "settori": {
+            "B": 47,
+            "C": 4843,
+            "D": 52,
+            "E": 116,
+            "F": 6398,
+            "G": 8754,
+            "H": 1518,
+            "I": 3321,
+            "J": 832,
+            "K": 528,
+            "L": 1398,
+            "M": 2798,
+            "N": 1198,
+            "P": 375,
+            "Q": 848,
+            "R": 638,
+            "S": 1218
+          },
+          "macro_settori": {
+            "Manifattura": 4843,
+            "Costruzioni": 6398,
+            "Commercio": 8754,
+            "Alloggio e ristorazione": 3321,
+            "Trasporti": 1518,
+            "Servizi alle imprese": 6754,
+            "Servizi alla persona": 3079,
+            "Industria estrattiva ed energia": 215
+          },
+          "totale_imprese": 34882
+        },
+        "2021": {
+          "settori": {
+            "B": 46,
+            "C": 4912,
+            "D": 54,
+            "E": 119,
+            "F": 6487,
+            "G": 8843,
+            "H": 1532,
+            "I": 3398,
+            "J": 854,
+            "K": 537,
+            "L": 1418,
+            "M": 2843,
+            "N": 1218,
+            "P": 381,
+            "Q": 862,
+            "R": 645,
+            "S": 1225
+          },
+          "macro_settori": {
+            "Manifattura": 4912,
+            "Costruzioni": 6487,
+            "Commercio": 8843,
+            "Alloggio e ristorazione": 3398,
+            "Trasporti": 1532,
+            "Servizi alle imprese": 6870,
+            "Servizi alla persona": 3113,
+            "Industria estrattiva ed energia": 219
+          },
+          "totale_imprese": 35374
+        },
+        "2022": {
+          "settori": {
+            "B": 45,
+            "C": 4876,
+            "D": 56,
+            "E": 123,
+            "F": 6543,
+            "G": 8765,
+            "H": 1543,
+            "I": 3456,
+            "J": 876,
+            "K": 543,
+            "L": 1432,
+            "M": 2876,
+            "N": 1234,
+            "P": 387,
+            "Q": 876,
+            "R": 654,
+            "S": 1234
+          },
+          "macro_settori": {
+            "Manifattura": 4876,
+            "Costruzioni": 6543,
+            "Commercio": 8765,
+            "Alloggio e ristorazione": 3456,
+            "Trasporti": 1543,
+            "Servizi alle imprese": 6961,
+            "Servizi alla persona": 3151,
+            "Industria estrattiva ed energia": 224
+          },
+          "totale_imprese": 35519
+        }
+      },
+      "variazione_annuale": 0.4
+    },
+    {
+      "cod": "005",
+      "cod_num": 5,
+      "nome": "Asti",
+      "sigla": "AT",
+      "dati": {
+        "2020": {
+          "settori": {
+            "B": 9,
+            "C": 1528,
+            "D": 17,
+            "E": 41,
+            "F": 2287,
+            "G": 2854,
+            "H": 476,
+            "I": 1187,
+            "J": 221,
+            "K": 169,
+            "L": 476,
+            "M": 854,
+            "N": 349,
+            "P": 112,
+            "Q": 241,
+            "R": 189,
+            "S": 424
+          },
+          "macro_settori": {
+            "Manifattura": 1528,
+            "Costruzioni": 2287,
+            "Commercio": 2854,
+            "Alloggio e ristorazione": 1187,
+            "Trasporti": 476,
+            "Servizi alle imprese": 2069,
+            "Servizi alla persona": 966,
+            "Industria estrattiva ed energia": 67
+          },
+          "totale_imprese": 11434
+        },
+        "2021": {
+          "settori": {
+            "B": 9,
+            "C": 1556,
+            "D": 17,
+            "E": 42,
+            "F": 2318,
+            "G": 2898,
+            "H": 481,
+            "I": 1212,
+            "J": 228,
+            "K": 173,
+            "L": 482,
+            "M": 865,
+            "N": 358,
+            "P": 115,
+            "Q": 248,
+            "R": 194,
+            "S": 428
+          },
+          "macro_settori": {
+            "Manifattura": 1556,
+            "Costruzioni": 2318,
+            "Commercio": 2898,
+            "Alloggio e ristorazione": 1212,
+            "Trasporti": 481,
+            "Servizi alle imprese": 2106,
+            "Servizi alla persona": 985,
+            "Industria estrattiva ed energia": 68
+          },
+          "totale_imprese": 11624
+        },
+        "2022": {
+          "settori": {
+            "B": 8,
+            "C": 1543,
+            "D": 18,
+            "E": 43,
+            "F": 2345,
+            "G": 2876,
+            "H": 487,
+            "I": 1234,
+            "J": 234,
+            "K": 176,
+            "L": 487,
+            "M": 876,
+            "N": 365,
+            "P": 118,
+            "Q": 254,
+            "R": 198,
+            "S": 432
+          },
+          "macro_settori": {
+            "Manifattura": 1543,
+            "Costruzioni": 2345,
+            "Commercio": 2876,
+            "Alloggio e ristorazione": 1234,
+            "Trasporti": 487,
+            "Servizi alle imprese": 2138,
+            "Servizi alla persona": 1002,
+            "Industria estrattiva ed energia": 69
+          },
+          "totale_imprese": 11694
+        }
+      },
+      "variazione_annuale": 0.6
+    },
+    {
+      "cod": "006",
+      "cod_num": 6,
+      "nome": "Alessandria",
+      "sigla": "AL",
+      "dati": {
+        "2020": {
+          "settori": {
+            "B": 20,
+            "C": 2854,
+            "D": 32,
+            "E": 83,
+            "F": 3898,
+            "G": 5398,
+            "H": 965,
+            "I": 1798,
+            "J": 412,
+            "K": 289,
+            "L": 856,
+            "M": 1618,
+            "N": 634,
+            "P": 189,
+            "Q": 458,
+            "R": 341,
+            "S": 641
+          },
+          "macro_settori": {
+            "Manifattura": 2854,
+            "Costruzioni": 3898,
+            "Commercio": 5398,
+            "Alloggio e ristorazione": 1798,
+            "Trasporti": 965,
+            "Servizi alle imprese": 3809,
+            "Servizi alla persona": 1629,
+            "Industria estrattiva ed energia": 135
+          },
+          "totale_imprese": 20486
+        },
+        "2021": {
+          "settori": {
+            "B": 19,
+            "C": 2898,
+            "D": 33,
+            "E": 85,
+            "F": 3954,
+            "G": 5476,
+            "H": 978,
+            "I": 1843,
+            "J": 423,
+            "K": 294,
+            "L": 868,
+            "M": 1638,
+            "N": 645,
+            "P": 194,
+            "Q": 468,
+            "R": 348,
+            "S": 648
+          },
+          "macro_settori": {
+            "Manifattura": 2898,
+            "Costruzioni": 3954,
+            "Commercio": 5476,
+            "Alloggio e ristorazione": 1843,
+            "Trasporti": 978,
+            "Servizi alle imprese": 3868,
+            "Servizi alla persona": 1658,
+            "Industria estrattiva ed energia": 137
+          },
+          "totale_imprese": 20812
+        },
+        "2022": {
+          "settori": {
+            "B": 18,
+            "C": 2876,
+            "D": 34,
+            "E": 87,
+            "F": 3987,
+            "G": 5432,
+            "H": 987,
+            "I": 1876,
+            "J": 432,
+            "K": 298,
+            "L": 876,
+            "M": 1654,
+            "N": 654,
+            "P": 198,
+            "Q": 476,
+            "R": 354,
+            "S": 654
+          },
+          "macro_settori": {
+            "Manifattura": 2876,
+            "Costruzioni": 3987,
+            "Commercio": 5432,
+            "Alloggio e ristorazione": 1876,
+            "Trasporti": 987,
+            "Servizi alle imprese": 3914,
+            "Servizi alla persona": 1682,
+            "Industria estrattiva ed energia": 139
+          },
+          "totale_imprese": 20893
+        }
+      },
+      "variazione_annuale": 0.4
+    },
+    {
+      "cod": "096",
+      "cod_num": 96,
+      "nome": "Biella",
+      "sigla": "BI",
+      "dati": {
+        "2020": {
+          "settori": {
+            "B": 7,
+            "C": 1865,
+            "D": 14,
+            "E": 36,
+            "F": 1512,
+            "G": 2165,
+            "H": 343,
+            "I": 738,
+            "J": 187,
+            "K": 138,
+            "L": 376,
+            "M": 748,
+            "N": 287,
+            "P": 93,
+            "Q": 208,
+            "R": 168,
+            "S": 378
+          },
+          "macro_settori": {
+            "Manifattura": 1865,
+            "Costruzioni": 1512,
+            "Commercio": 2165,
+            "Alloggio e ristorazione": 738,
+            "Trasporti": 343,
+            "Servizi alle imprese": 1736,
+            "Servizi alla persona": 847,
+            "Industria estrattiva ed energia": 57
+          },
+          "totale_imprese": 9263
+        },
+        "2021": {
+          "settori": {
+            "B": 7,
+            "C": 1898,
+            "D": 14,
+            "E": 37,
+            "F": 1528,
+            "G": 2198,
+            "H": 349,
+            "I": 752,
+            "J": 193,
+            "K": 141,
+            "L": 382,
+            "M": 758,
+            "N": 293,
+            "P": 96,
+            "Q": 213,
+            "R": 172,
+            "S": 383
+          },
+          "macro_settori": {
+            "Manifattura": 1898,
+            "Costruzioni": 1528,
+            "Commercio": 2198,
+            "Alloggio e ristorazione": 752,
+            "Trasporti": 349,
+            "Servizi alle imprese": 1767,
+            "Servizi alla persona": 864,
+            "Industria estrattiva ed energia": 58
+          },
+          "totale_imprese": 9414
+        },
+        "2022": {
+          "settori": {
+            "B": 6,
+            "C": 1876,
+            "D": 15,
+            "E": 38,
+            "F": 1543,
+            "G": 2187,
+            "H": 354,
+            "I": 765,
+            "J": 198,
+            "K": 143,
+            "L": 387,
+            "M": 765,
+            "N": 298,
+            "P": 98,
+            "Q": 218,
+            "R": 176,
+            "S": 387
+          },
+          "macro_settori": {
+            "Manifattura": 1876,
+            "Costruzioni": 1543,
+            "Commercio": 2187,
+            "Alloggio e ristorazione": 765,
+            "Trasporti": 354,
+            "Servizi alle imprese": 1791,
+            "Servizi alla persona": 879,
+            "Industria estrattiva ed energia": 59
+          },
+          "totale_imprese": 9454
+        }
+      },
+      "variazione_annuale": 0.4
+    },
+    {
+      "cod": "103",
+      "cod_num": 103,
+      "nome": "Verbano-Cusio-Ossola",
+      "sigla": "VB",
+      "dati": {
+        "2020": {
+          "settori": {
+            "B": 23,
+            "C": 976,
+            "D": 11,
+            "E": 32,
+            "F": 1398,
+            "G": 1854,
+            "H": 289,
+            "I": 1054,
+            "J": 143,
+            "K": 107,
+            "L": 332,
+            "M": 634,
+            "N": 265,
+            "P": 82,
+            "Q": 189,
+            "R": 189,
+            "S": 343
+          },
+          "macro_settori": {
+            "Manifattura": 976,
+            "Costruzioni": 1398,
+            "Commercio": 1854,
+            "Alloggio e ristorazione": 1054,
+            "Trasporti": 289,
+            "Servizi alle imprese": 1481,
+            "Servizi alla persona": 803,
+            "Industria estrattiva ed energia": 66
+          },
+          "totale_imprese": 7921
+        },
+        "2021": {
+          "settori": {
+            "B": 22,
+            "C": 993,
+            "D": 11,
+            "E": 33,
+            "F": 1418,
+            "G": 1889,
+            "H": 294,
+            "I": 1076,
+            "J": 149,
+            "K": 109,
+            "L": 338,
+            "M": 645,
+            "N": 271,
+            "P": 85,
+            "Q": 194,
+            "R": 194,
+            "S": 349
+          },
+          "macro_settori": {
+            "Manifattura": 993,
+            "Costruzioni": 1418,
+            "Commercio": 1889,
+            "Alloggio e ristorazione": 1076,
+            "Trasporti": 294,
+            "Servizi alle imprese": 1512,
+            "Servizi alla persona": 822,
+            "Industria estrattiva ed energia": 66
+          },
+          "totale_imprese": 8070
+        },
+        "2022": {
+          "settori": {
+            "B": 21,
+            "C": 987,
+            "D": 12,
+            "E": 34,
+            "F": 1432,
+            "G": 1876,
+            "H": 298,
+            "I": 1098,
+            "J": 154,
+            "K": 112,
+            "L": 343,
+            "M": 654,
+            "N": 276,
+            "P": 87,
+            "Q": 198,
+            "R": 198,
+            "S": 354
+          },
+          "macro_settori": {
+            "Manifattura": 987,
+            "Costruzioni": 1432,
+            "Commercio": 1876,
+            "Alloggio e ristorazione": 1098,
+            "Trasporti": 298,
+            "Servizi alle imprese": 1539,
+            "Servizi alla persona": 837,
+            "Industria estrattiva ed energia": 67
+          },
+          "totale_imprese": 8134
+        }
+      },
+      "variazione_annuale": 0.8
+    }
+  ],
+  "totale_regione": {
+    "2020": {
+      "settori": {
+        "B": 210,
+        "C": 31666,
+        "D": 357,
+        "E": 889,
+        "F": 44115,
+        "G": 63945,
+        "H": 10520,
+        "I": 22604,
+        "J": 9115,
+        "K": 4946,
+        "L": 13700,
+        "M": 27547,
+        "N": 10730,
+        "P": 3295,
+        "Q": 7023,
+        "R": 5818,
+        "S": 10622
+      },
+      "macro_settori": {
+        "Manifattura": 31666,
+        "Costruzioni": 44115,
+        "Commercio": 63945,
+        "Alloggio e ristorazione": 22604,
+        "Trasporti": 10520,
+        "Servizi alle imprese": 66038,
+        "Servizi alla persona": 26758,
+        "Industria estrattiva ed energia": 1456
+      },
+      "totale_imprese": 267102
+    },
+    "2021": {
+      "settori": {
+        "B": 203,
+        "C": 32147,
+        "D": 366,
+        "E": 912,
+        "F": 44880,
+        "G": 64659,
+        "H": 10727,
+        "I": 23203,
+        "J": 9350,
+        "K": 5029,
+        "L": 13880,
+        "M": 28011,
+        "N": 11025,
+        "P": 3369,
+        "Q": 7194,
+        "R": 6004,
+        "S": 10750
+      },
+      "macro_settori": {
+        "Manifattura": 32147,
+        "Costruzioni": 44880,
+        "Commercio": 64659,
+        "Alloggio e ristorazione": 23203,
+        "Trasporti": 10727,
+        "Servizi alle imprese": 67295,
+        "Servizi alla persona": 27317,
+        "Industria estrattiva ed energia": 1481
+      },
+      "totale_imprese": 271709
+    },
+    "2022": {
+      "settori": {
+        "B": 193,
+        "C": 31897,
+        "D": 379,
+        "E": 939,
+        "F": 45496,
+        "G": 63976,
+        "H": 10853,
+        "I": 23835,
+        "J": 9578,
+        "K": 5111,
+        "L": 13987,
+        "M": 28453,
+        "N": 11224,
+        "P": 3450,
+        "Q": 7384,
+        "R": 6122,
+        "S": 10845
+      },
+      "macro_settori": {
+        "Manifattura": 31897,
+        "Costruzioni": 45496,
+        "Commercio": 63976,
+        "Alloggio e ristorazione": 23835,
+        "Trasporti": 10853,
+        "Servizi alle imprese": 68353,
+        "Servizi alla persona": 27801,
+        "Industria estrattiva ed energia": 1511
+      },
+      "totale_imprese": 273722
+    }
+  }
+}
