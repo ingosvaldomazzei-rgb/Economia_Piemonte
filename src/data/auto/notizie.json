@@ -1,5 +1,65 @@
 [
   {
+    "id": "165ed4752a14",
+    "titolo": "Domenica 29 marzo si corre la Deejay Ten. Previste modifiche viabili",
+    "link": "https://www.torinoclick.it/trasporti/domenica-29-marzo-si-corre-la-deejay-ten-previste-modifiche-viabili/",
+    "descrizione": "Domenica 29 marzo torna a Torino la Deejay Ten, gara podistica non agonistica organizzata dall’emittente radiofonica Radio Deejay. Saranno due i percorsi possibili, da 10 km e da 5 km con partenza e arrivo in piazza Castello, dove sarà allestito anche il Deejay Village (lato Prefettura).",
+    "data": "2026-03-26T18:36:50+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "9e96ba49e0f6",
+    "titolo": "La cooperazione internazionale parte dai Comuni. Il Sindaco alla missione istituzionale in Kenya del Ministero degli Affari Esteri e della Cooperazione Internazionale",
+    "link": "https://www.torinoclick.it/relazioniinternazionali/la-cooperazione-internazionale-parte-dai-comuni-il-sindaco-alla-missione-istituzionale-in-kenya-del-ministero-degli-affari-esteri-e-della-cooperazione-internazionale/",
+    "descrizione": "“Questa missione ha evidenziato possibili nuovi spazi di collaborazione. Anci ha partecipato anche in virtù della credibilità che i Comuni italiani hanno quale parte integrante del sistema-Paese: per mettere a disposizione il nostro know-how nella gestione delle sfide urbane, dalla pianificazione urbanistica ai servizi anagrafici, fino alla digitalizzazione della Pa, e così costruire partenariati territoriali forti e stabili”. Lo evidenzia Stefano Lo Russo, vicepresidente Anci e sindaco di Torin",
+    "data": "2026-03-26T17:55:03+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "ee8d49bb3786",
+    "titolo": "In Piemonte la seduta del Comitato permanente della Conferenza delle Alpi",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-seduta-comitato-permanente-della-conferenza-delle-alpi",
+    "descrizione": "La Regione Piemonte ha ospitato il 25 e 26 marzo l’83ª seduta del Comitato permanente della Conferenza delle Alpi, organismo inserito nell’ambito della Convenzione sottoscritta nel…",
+    "data": "2026-03-26T16:09:29+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "359d7659425d",
+    "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
+    "link": "https://www.torinoclick.it/societa/grandi-eventi-il-concerto-torino-time-per-la-fondazione-molinette/",
+    "descrizione": "Si è tenuta questa mattina la consegna ufficiale alla Fondazione Ricerca Molinette di una donazione di 12.272 euro, raccolti nell’ambito del concerto “Torino Time”, organizzato dalla Città di Torino in occasione del Capodanno. A consegnare il maxi-assegno simbolico, all’Ospedale Molinette di Torino, l’assessore ai Grandi eventi e Turismo Domenico Carretta.",
+    "data": "2026-03-26T15:54:39+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "9e5944492bc2",
+    "titolo": "Truffe e raggiri, un incontro formativo della Polizia Locale per le persone con disabilità",
+    "link": "https://www.torinoclick.it/sicurezza/truffe-e-raggiri-un-incontro-formativo-della-polizia-locale-per-le-persone-con-disabilita/",
+    "descrizione": "Un incontro di educazione civica per conoscere il ruolo delle forze dell’ordine, i diritti e i doveri del cittadino e le principali strategie per evitare truffe e prevenire i rischi.",
+    "data": "2026-03-26T15:45:24+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
+    "id": "eb56f535d378",
+    "titolo": "In via Lagrange una installazione per riflettere sullo spreco alimentare",
+    "link": "https://www.torinoclick.it/societa/in-via-lagrange-una-installazione-per-riflettere-sullo-spreco-alimentare/",
+    "descrizione": "Fa tappa in via Lagrange a partire da oggi e fino al 9 aprile l’installazione artistica del Grand Tour del Libro del Risparmio, iniziativa della Fondazione Barilla per riflettere su come un uso più consapevole del cibo parta dai gesti quotidiani e possa avere un impatto concreto sull’ambiente e sul bilancio familiare.",
+    "data": "2026-03-26T13:54:24+00:00",
+    "fonte": "TorinoClick",
+    "fonte_id": "torinoclick",
+    "colore": "#ea580c"
+  },
+  {
     "id": "5081aaea336d",
     "titolo": "Un pomeriggio per imparare, condividere e fare la differenza",
     "link": "https://www.torinoclick.it/territorio/un-pomeriggio-per-imparare-condividere-e-fare-la-differenza/",
@@ -13,6 +73,46 @@
     "id": "99cc5a3d0ed9",
     "titolo": "Tariffe ridotte per studenti universitari under 26",
     "link": "https://www.comune.torino.it/novita/notizie/tariffe-ridotte-per-studenti-universitari-under-26",
+    "descrizione": "L'Amministrazione Comunale ha esteso l'agevolazione per l'ingresso ridotto agli impianti sportivi cittadini anche agli studenti universitari non residenti.",
+    "data": "2026-03-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "82f8a879cdef",
+    "titolo": "Domenica 29 marzo si corre la Deejay Ten. Previste modifiche viabili",
+    "link": "https://www.comune.torino.it/novita/comunicati/domenica-29-marzo-si-corre-deejay-ten-previste-modifiche-viabili",
+    "descrizione": "Domenica 29 marzo torna a Torino la Deejay Ten, gara podistica non agonistica organizzata dall’emittente radiofonica Radio Deejay.",
+    "data": "2026-03-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b24ef49e807c",
+    "titolo": "Polizia Locale, pattuglie in bicicletta in alcune aree verdi di Torino",
+    "link": "https://www.comune.torino.it/novita/comunicati/polizia-locale-pattuglie-bicicletta-alcune-aree-verdi-torino",
+    "descrizione": "Agenti della Polizia Locale pattugliano parchi, aree verdi e piste ciclabili su due ruote.",
+    "data": "2026-03-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "59ba852de2ba",
+    "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
+    "link": "https://www.comune.torino.it/novita/comunicati/grandi-eventi-concerto-torino-time-per-fondazione-molinette",
+    "descrizione": "Si è tenuta questa mattina la consegna ufficiale alla Fondazione Ricerca Molinette di una donazione di 12.272 euro, raccolti nell’ambito di “Torino Time\".",
+    "data": "2026-03-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fe7d9c4c77f8",
+    "titolo": "Tariffe ridotte per studenti universitari, anche fuori sede, under 26",
+    "link": "https://www.comune.torino.it/novita/notizie/tariffe-ridotte-per-studenti-universitari-anche-fuori-sede-under-26",
     "descrizione": "L'Amministrazione Comunale ha esteso l'agevolazione per l'ingresso ridotto agli impianti sportivi cittadini anche agli studenti universitari non residenti.",
     "data": "2026-03-26T12:00:00+00:00",
     "fonte": "Comune di Torino",
@@ -1895,106 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/11/giada-simeone-di-leini-muore-a-24-anni-lappello-del-padre-a-max-pezzali-avverare-il-suo-ultimo-desiderio/",
     "descrizione": "Il suo desiderio era andare al concerto di Max Pezzali L'articolo Giada Simeone di Leinì muore a 24 anni, l’appello del padre a Max Pezzali: avverare il suo ultimo desiderio proviene da Quotidiano Piemontese.",
     "data": "2026-03-11T12:21:24+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "ef9524fe4a78",
-    "titolo": "Torino omaggia Gipo Farassino con una targa commemorativa sulla sua casa natale di via Cuneo 6",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-omaggia-gipo-farassino-una-targa-commemorativa-sulla-sua-casa-natale-via",
-    "descrizione": "Celebrato l'artista di Barriera di Miliano che ha lasciato un patrimonio di cultura capace di unire la città",
-    "data": "2026-03-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "855f2564d74f",
-    "titolo": "Servizio Civile all'Ufficio Beni comuni",
-    "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-allufficio-beni-comuni",
-    "descrizione": "Aperto il bando per il Servizio Civile Universale 2026",
-    "data": "2026-03-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "3b8a487cb33c",
-    "titolo": "Concerti di OLLY (18 MARZO 2026), UMBERTO TOZZI (19 MARZO 2026), ANDRE' RIEU (20 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/notizie/concerti-olly-18-marzo-2026-umberto-tozzi-19-marzo-2026-andre-rieu-20-marzo-2026",
-    "descrizione": "Convocazione per LUNEDI' 16 MARZO ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali.",
-    "data": "2026-03-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "88d26cf8f917",
-    "titolo": "Intelligenza artificiale e cooperazione internazionale: a Torino “Shaping AI Futures Across Africa and Europe”",
-    "link": "https://www.comune.torino.it/novita/comunicati/intelligenza-artificiale-cooperazione-internazionale-torino-shaping-ai-futures",
-    "descrizione": "Torino ospiterà domani 12 marzo 2026 presso l’International Training Centre dell’ILO l’evento internazionale “Shaping AI Futures Across Africa and Europe”.",
-    "data": "2026-03-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8b9f2f23ce6f",
-    "titolo": "29 nuovi alberi messi a dimora in piazza d’Armi e in via Filadelfia grazie a Suzuki e Torino FC",
-    "link": "https://www.comune.torino.it/novita/notizie/29-nuovi-alberi-messi-dimora-piazza-darmi-via-filadelfia-grazie-suzuki-torino-fc",
-    "descrizione": "In occasione della Giornata Nazionale degli Alberi 2025 Suzuki e Torino FC hanno donato 29 alberi.",
-    "data": "2026-03-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "02c2483a154e",
-    "titolo": "Maltempo aprile 2025, dal Governo altri 45 milioni per il Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aprile-2025-dal-governo-altri-45-milioni-per-piemonte",
-    "descrizione": "Altri 45 milioni dal Governo al Piemonte per far fronte ai danni causati dall’evento alluvionale che ha colpito il territorio tra il 15 e il 17 aprile 2025. Come anticipato dall’assessore regionale alle Infrastrutture e Opere pubbliche Marco…",
-    "data": "2026-03-11T11:34:49+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "2b432c8a1f16",
-    "titolo": "Bambina di 3 anni morsa al volto da un cane a Boves: ricoverata in gravi condizioni a Torino",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/bambina-3-anni-aggressione-pitbull-boves/",
-    "descrizione": "Le autorità locali hanno avviato accertamenti sull’accaduto per chiarire le dinamiche dell’aggressione e verificare eventuali responsabilità L'articolo Bambina di 3 anni morsa al volto da un cane a Boves: ricoverata in gravi condizioni a Torino proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T11:12:33+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "7ea97ff120e7",
-    "titolo": "Carcere di Vercelli: 47 provvedimenti disciplinari per agenti dopo il caso della detenuta incinta",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/provvedimenti-disciplinari-agenti-carcere-vercelli/",
-    "descrizione": "Il sindacato Sappe ha espresso preoccupazione per quella che definisce “apprensione diffusa” tra gli agenti L'articolo Carcere di Vercelli: 47 provvedimenti disciplinari per agenti dopo il caso della detenuta incinta proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T10:46:39+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "191c269b33ae",
-    "titolo": "Sulla SFM1 soppressi 1139 treni in un anno: l’inchiesta de L’Unica che fotografa il collasso del pendolarismo ferroviario a Torino",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/disservizi-treni-torino-ritardi-cancellazioni-sfm1/",
-    "descrizione": "Sulla linea SFM1 (Rivarolo–Torino–Chieri) sono state cancellate oltre mille corse nel 2025 L'articolo Sulla SFM1 soppressi 1139 treni in un anno: l’inchiesta de L’Unica che fotografa il collasso del pendolarismo ferroviario a Torino proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T09:53:26+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "4445a0833593",
-    "titolo": "Aggredita per strada a Torino, consigliera di FdI finisce in ospedale",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/aggressione-verangela-marino-torino/",
-    "descrizione": "Non è la prima volta che la consigliera Marino si trova coinvolta in episodi di violenza L'articolo Aggredita per strada a Torino, consigliera di FdI finisce in ospedale proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T09:32:55+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
