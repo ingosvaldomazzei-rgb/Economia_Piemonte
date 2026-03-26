@@ -6,7 +6,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "fetch-data": "python3 scripts/fetch_rss.py && python3 scripts/fetch_scrape.py && python3 scripts/classify_news.py && python3 scripts/generate_stats.py && python3 scripts/generate_briefing.py"
+    "fetch-data": "python3 scripts/fetch_rss.py && python3 scripts/fetch_scrape.py && python3 scripts/classify_news.py && python3 scripts/generate_stats.py && python3 scripts/generate_briefing.py && python3 scripts/fetch_istat_imprese.py && cp src/data/auto/province-piemonte.geojson public/data/auto/province-piemonte.geojson"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.0",
