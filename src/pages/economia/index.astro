@@ -8,19 +8,54 @@ try {
 } catch {
   impreseData = null;
 }
+
+// Build optgroups for ATECO divisions from data
+const divisioni = impreseData?.divisioni_ateco || {};
+const settori = impreseData?.settori_ateco || {};
+
+// Group divisions by section letter
+const divisioniPerSezione: Record<string, Array<{cod: string, desc: string}>> = {};
+for (const [cod, desc] of Object.entries(divisioni)) {
+  // Find which section this division belongs to
+  const codNum = parseInt(cod);
+  let sezione = '';
+  if (codNum >= 5 && codNum <= 9) sezione = 'B';
+  else if (codNum >= 10 && codNum <= 33) sezione = 'C';
+  else if (codNum === 35) sezione = 'D';
+  else if (codNum >= 36 && codNum <= 39) sezione = 'E';
+  else if (codNum >= 41 && codNum <= 43) sezione = 'F';
+  else if (codNum >= 45 && codNum <= 47) sezione = 'G';
+  else if (codNum >= 49 && codNum <= 53) sezione = 'H';
+  else if (codNum >= 55 && codNum <= 56) sezione = 'I';
+  else if (codNum >= 58 && codNum <= 63) sezione = 'J';
+  else if (codNum >= 64 && codNum <= 66) sezione = 'K';
+  else if (codNum === 68) sezione = 'L';
+  else if (codNum >= 69 && codNum <= 75) sezione = 'M';
+  else if (codNum >= 77 && codNum <= 82) sezione = 'N';
+  else if (codNum === 85) sezione = 'P';
+  else if (codNum >= 86 && codNum <= 88) sezione = 'Q';
+  else if (codNum >= 90 && codNum <= 93) sezione = 'R';
+  else if (codNum >= 94 && codNum <= 96) sezione = 'S';
+
+  if (sezione) {
+    if (!divisioniPerSezione[sezione]) divisioniPerSezione[sezione] = [];
+    divisioniPerSezione[sezione].push({ cod, desc: desc as string });
+  }
+}
+
+const annoRif = impreseData?.anno_riferimento || '2023';
+const anniDisponibili = impreseData?.anni_disponibili || ['2021','2022','2023'];
 ---
 
 <BaseLayout title="Mappa Economia Piemonte" description="Mappa interattiva delle attivita economiche e produttive del Piemonte per settore ATECO e provincia">
-  <!-- Hero compatto -->
   <section class="bg-gradient-to-br from-primary-900 via-primary-800 to-primary-700 text-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <Breadcrumb items={[{ label: 'Mappa Economia' }]} />
       <h1 class="text-2xl md:text-3xl font-extrabold mt-3 mb-1">Mappa Economia Piemonte</h1>
-      <p class="text-sm text-white/70">Imprese attive per settore ATECO e provincia &mdash; Fonte ISTAT ASIA</p>
+      <p class="text-sm text-white/70">Imprese attive per settore ATECO e provincia &mdash; Fonte ISTAT ASIA {annoRif}</p>
     </div>
   </section>
 
-  <!-- Contenuto principale -->
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
     {!impreseData ? (
       <div class="text-center py-16 text-gray-400">
@@ -34,7 +69,7 @@ try {
           <!-- Controlli -->
           <div class="bg-white rounded-xl border border-gray-200 p-4">
             <div class="flex flex-wrap gap-4 items-end">
-              <div class="flex-1 min-w-[180px]">
+              <div class="flex-1 min-w-[200px]">
                 <label for="select-settore" class="block text-xs font-semibold text-gray-500 uppercase mb-1">Settore ATECO</label>
                 <select id="select-settore" class="w-full rounded-lg border border-gray-300 px-3 py-2 text-sm focus:ring-2 focus:ring-primary-500 focus:border-primary-500">
                   <option value="totale">Tutti i settori</option>
@@ -48,33 +83,26 @@ try {
                     <option value="macro_Servizi alla persona">Servizi alla persona</option>
                     <option value="macro_Industria estrattiva ed energia">Industria estrattiva ed energia</option>
                   </optgroup>
-                  <optgroup label="Settori ATECO dettagliati">
-                    <option value="B">B - Estrazione di minerali</option>
-                    <option value="C">C - Attivita manifatturiere</option>
-                    <option value="D">D - Fornitura energia</option>
-                    <option value="E">E - Acqua, rifiuti</option>
-                    <option value="F">F - Costruzioni</option>
-                    <option value="G">G - Commercio</option>
-                    <option value="H">H - Trasporto e magazzinaggio</option>
-                    <option value="I">I - Alloggio e ristorazione</option>
-                    <option value="J">J - Informazione e comunicazione</option>
-                    <option value="K">K - Attivita finanziarie</option>
-                    <option value="L">L - Attivita immobiliari</option>
-                    <option value="M">M - Attivita professionali</option>
-                    <option value="N">N - Noleggio, servizi imprese</option>
-                    <option value="P">P - Istruzione</option>
-                    <option value="Q">Q - Sanita e assistenza</option>
-                    <option value="R">R - Attivita artistiche, sport</option>
-                    <option value="S">S - Altre attivita di servizi</option>
+                  <optgroup label="Sezioni ATECO (lettere)">
+                    {Object.entries(settori).map(([cod, desc]) => (
+                      <option value={cod}>{cod} - {desc}</option>
+                    ))}
                   </optgroup>
+                  {Object.entries(divisioniPerSezione).map(([sez, divs]) => (
+                    <optgroup label={`Divisioni sez. ${sez} - ${settori[sez] || sez}`}>
+                      {divs.sort((a,b) => a.cod.localeCompare(b.cod)).map(d => (
+                        <option value={`div_${d.cod}`}>{d.cod} - {d.desc}</option>
+                      ))}
+                    </optgroup>
+                  ))}
                 </select>
               </div>
-              <div class="min-w-[120px]">
+              <div class="min-w-[100px]">
                 <label for="select-anno" class="block text-xs font-semibold text-gray-500 uppercase mb-1">Anno</label>
                 <select id="select-anno" class="w-full rounded-lg border border-gray-300 px-3 py-2 text-sm focus:ring-2 focus:ring-primary-500 focus:border-primary-500">
-                  <option value="2022" selected>2022</option>
-                  <option value="2021">2021</option>
-                  <option value="2020">2020</option>
+                  {anniDisponibili.slice().reverse().map((a: string) => (
+                    <option value={a} selected={a === annoRif}>{a}</option>
+                  ))}
                 </select>
               </div>
             </div>
@@ -91,18 +119,24 @@ try {
               <span class="text-xs font-semibold text-gray-500 uppercase">Legenda: numero imprese</span>
               <span id="legenda-label" class="text-xs text-gray-400">Tutti i settori</span>
             </div>
-            <div class="flex items-center gap-0">
-              <div id="legenda-bar" class="flex flex-1 h-4 rounded-lg overflow-hidden"></div>
-            </div>
+            <div id="legenda-bar" class="flex h-4 rounded-lg overflow-hidden"></div>
             <div id="legenda-labels" class="flex justify-between mt-1 text-[10px] text-gray-400"></div>
+          </div>
+
+          <!-- Grafico a barre province (COMPATTO, sotto la mappa) -->
+          <div class="bg-white rounded-xl border border-gray-200 p-4">
+            <h3 class="text-sm font-bold text-gray-900 mb-2">Confronto province</h3>
+            <div style="height: 220px;">
+              <canvas id="chart-province"></canvas>
+            </div>
           </div>
         </div>
 
-        <!-- Colonna destra: Dettagli + Grafico (1/3) -->
+        <!-- Colonna destra: KPI + Dettagli + Composizione (1/3) -->
         <div class="space-y-4">
           <!-- KPI regionali -->
           <div class="bg-white rounded-xl border border-gray-200 p-5">
-            <h3 class="text-sm font-bold text-gray-900 mb-3">Piemonte <span id="kpi-anno" class="text-gray-400 font-normal">2022</span></h3>
+            <h3 class="text-sm font-bold text-gray-900 mb-3">Piemonte <span id="kpi-anno" class="text-gray-400 font-normal"></span></h3>
             <div class="grid grid-cols-2 gap-3">
               <div class="text-center">
                 <div id="kpi-totale" class="text-2xl font-extrabold text-primary-600">-</div>
@@ -131,24 +165,20 @@ try {
                 <div class="text-[10px] text-gray-500">Var. annua</div>
               </div>
             </div>
-            <div id="detail-settori" class="space-y-1.5"></div>
-          </div>
-
-          <!-- Grafico a barre province -->
-          <div class="bg-white rounded-xl border border-gray-200 p-5">
-            <h3 class="text-sm font-bold text-gray-900 mb-3">Confronto province</h3>
-            <canvas id="chart-province" height="300"></canvas>
+            <div id="detail-settori" class="space-y-1.5 max-h-64 overflow-y-auto"></div>
           </div>
 
           <!-- Grafico composizione settoriale -->
           <div class="bg-white rounded-xl border border-gray-200 p-5">
-            <h3 class="text-sm font-bold text-gray-900 mb-3">Composizione settoriale</h3>
-            <canvas id="chart-settori" height="260"></canvas>
+            <h3 class="text-sm font-bold text-gray-900 mb-3" id="chart-settori-title">Composizione settoriale</h3>
+            <div style="height: 280px;">
+              <canvas id="chart-settori"></canvas>
+            </div>
           </div>
 
           <!-- Fonte -->
-          <div class="text-[10px] text-gray-400 text-center">
-            Fonte: ISTAT &mdash; Registro Statistico Imprese Attive (ASIA)<br/>
+          <div class="text-[10px] text-gray-400 text-center leading-relaxed">
+            Fonte: <a href="https://www.istat.it/tavole-di-dati/registro-statistico-delle-imprese-attive-anno-2023/" target="_blank" rel="noopener" class="underline">ISTAT &mdash; Registro Statistico Imprese Attive (ASIA)</a><br/>
             Settore A (Agricoltura) escluso dal campo di osservazione ASIA
           </div>
         </div>
@@ -157,10 +187,8 @@ try {
   </div>
 </BaseLayout>
 
-<!-- Leaflet CSS + JS -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<!-- Chart.js -->
 <script is:inline src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 
 <script is:inline define:vars={{ impreseDataJson: JSON.stringify(impreseData) }}>
@@ -168,7 +196,6 @@ try {
   const DATA = JSON.parse(impreseDataJson);
   if (!DATA) return;
 
-  // Colori per macro settori
   const MACRO_COLORS = {
     'Manifattura': '#3b82f6',
     'Costruzioni': '#f59e0b',
@@ -180,23 +207,23 @@ try {
     'Industria estrattiva ed energia': '#6b7280',
   };
 
-  // Palette coropleta (7 livelli)
   const PALETTE = ['#eff6ff', '#bfdbfe', '#93c5fd', '#60a5fa', '#3b82f6', '#2563eb', '#1d4ed8'];
 
-  let map, geojsonLayer;
+  let map, geojsonLayer, cachedGeojson;
   let chartProvince, chartSettori;
   let currentSettore = 'totale';
-  let currentAnno = '2022';
+  let currentAnno = DATA.anno_riferimento || '2023';
   let selectedProvince = null;
 
-  // ==== UTILITA ====
   function getProvinceValue(prov, settore, anno) {
     const annoData = prov.dati[anno];
     if (!annoData) return 0;
     if (settore === 'totale') return annoData.totale_imprese;
     if (settore.startsWith('macro_')) {
-      const macroName = settore.replace('macro_', '');
-      return annoData.macro_settori[macroName] || 0;
+      return annoData.macro_settori[settore.replace('macro_', '')] || 0;
+    }
+    if (settore.startsWith('div_')) {
+      return (annoData.divisioni || {})[settore.replace('div_', '')] || 0;
     }
     return annoData.settori[settore] || 0;
   }
@@ -206,95 +233,65 @@ try {
     if (!annoData) return 0;
     if (settore === 'totale') return annoData.totale_imprese;
     if (settore.startsWith('macro_')) {
-      const macroName = settore.replace('macro_', '');
-      return annoData.macro_settori[macroName] || 0;
+      return annoData.macro_settori[settore.replace('macro_', '')] || 0;
+    }
+    if (settore.startsWith('div_')) {
+      return (annoData.divisioni || {})[settore.replace('div_', '')] || 0;
     }
     return annoData.settori[settore] || 0;
   }
 
-  function formatNumber(n) {
-    return n.toLocaleString('it-IT');
-  }
+  function fmt(n) { return n.toLocaleString('it-IT'); }
 
   function getColor(value, min, max) {
     if (max === min) return PALETTE[3];
     const ratio = (value - min) / (max - min);
-    const idx = Math.min(Math.floor(ratio * PALETTE.length), PALETTE.length - 1);
-    return PALETTE[idx];
+    return PALETTE[Math.min(Math.floor(ratio * PALETTE.length), PALETTE.length - 1)];
   }
 
-  // ==== MAPPA ====
+  // ==== MAP ====
   async function initMap() {
-    map = L.map('map-economia', {
-      zoomControl: true,
-      scrollWheelZoom: true,
-    }).setView([45.07, 7.68], 7);
-
+    map = L.map('map-economia', { zoomControl: true, scrollWheelZoom: true }).setView([45.07, 7.68], 7);
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_noscale/{z}/{x}/{y}{r}.png', {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
-      maxZoom: 12,
+      attribution: '&copy; OSM &copy; CARTO', maxZoom: 12,
     }).addTo(map);
 
-    // Carica GeoJSON
     try {
       const resp = await fetch('/data/auto/province-piemonte.geojson');
-      const geojsonData = await resp.json();
-      updateMapLayer(geojsonData);
-    } catch (e) {
-      console.error('Errore caricamento GeoJSON:', e);
-    }
+      cachedGeojson = await resp.json();
+      updateMapLayer();
+    } catch (e) { console.error('GeoJSON error:', e); }
   }
 
-  function updateMapLayer(geojsonData) {
+  function updateMapLayer() {
+    if (!cachedGeojson) return;
     if (geojsonLayer) map.removeLayer(geojsonLayer);
 
-    // Calcola min/max per la scala colori
     const values = DATA.province.map(p => getProvinceValue(p, currentSettore, currentAnno));
-    const min = Math.min(...values);
-    const max = Math.max(...values);
+    const min = Math.min(...values), max = Math.max(...values);
 
-    geojsonLayer = L.geoJSON(geojsonData, {
+    geojsonLayer = L.geoJSON(cachedGeojson, {
       style: function(feature) {
-        const provCode = feature.properties.prov_istat_code;
-        const prov = DATA.province.find(p => p.cod === provCode);
+        const prov = DATA.province.find(p => p.cod === feature.properties.prov_istat_code);
         const value = prov ? getProvinceValue(prov, currentSettore, currentAnno) : 0;
-        return {
-          fillColor: getColor(value, min, max),
-          weight: 2,
-          opacity: 1,
-          color: '#fff',
-          fillOpacity: 0.85,
-        };
+        return { fillColor: getColor(value, min, max), weight: 2, opacity: 1, color: '#fff', fillOpacity: 0.85 };
       },
       onEachFeature: function(feature, layer) {
-        const provCode = feature.properties.prov_istat_code;
-        const prov = DATA.province.find(p => p.cod === provCode);
+        const prov = DATA.province.find(p => p.cod === feature.properties.prov_istat_code);
         if (!prov) return;
-
         const value = getProvinceValue(prov, currentSettore, currentAnno);
-        layer.bindTooltip(
-          `<strong>${prov.nome}</strong><br/>${formatNumber(value)} imprese`,
-          { sticky: true, className: 'leaflet-tooltip-custom' }
-        );
+        layer.bindTooltip(`<strong>${prov.nome}</strong><br/>${fmt(value)} imprese`, { sticky: true, className: 'leaflet-tooltip-custom' });
 
         layer.on('click', function() {
           selectedProvince = prov;
           showProvinceDetail(prov);
-          // Evidenzia
           geojsonLayer.eachLayer(l => l.setStyle({ weight: 2, color: '#fff' }));
           layer.setStyle({ weight: 3, color: '#1e40af' });
           layer.bringToFront();
         });
-
-        layer.on('mouseover', function() {
-          layer.setStyle({ weight: 3, fillOpacity: 0.95 });
-          layer.bringToFront();
-        });
-
+        layer.on('mouseover', function() { layer.setStyle({ weight: 3, fillOpacity: 0.95 }); layer.bringToFront(); });
         layer.on('mouseout', function() {
-          if (selectedProvince !== prov) {
-            layer.setStyle({ weight: 2, fillOpacity: 0.85, color: '#fff' });
-          }
+          if (selectedProvince !== prov) layer.setStyle({ weight: 2, fillOpacity: 0.85, color: '#fff' });
         });
       }
     }).addTo(map);
@@ -304,128 +301,104 @@ try {
   }
 
   function updateLegend(min, max) {
-    const bar = document.getElementById('legenda-bar');
-    const labels = document.getElementById('legenda-labels');
-    const label = document.getElementById('legenda-label');
-
-    bar.innerHTML = PALETTE.map(c => `<div style="background:${c}" class="flex-1"></div>`).join('');
-
+    document.getElementById('legenda-bar').innerHTML = PALETTE.map(c => `<div style="background:${c}" class="flex-1"></div>`).join('');
     const steps = [min, Math.round(min + (max-min)*0.33), Math.round(min + (max-min)*0.66), max];
-    labels.innerHTML = steps.map(v => `<span>${formatNumber(v)}</span>`).join('');
-
-    const selectEl = document.getElementById('select-settore');
-    label.textContent = selectEl.options[selectEl.selectedIndex].text;
+    document.getElementById('legenda-labels').innerHTML = steps.map(v => `<span>${fmt(v)}</span>`).join('');
+    const sel = document.getElementById('select-settore');
+    document.getElementById('legenda-label').textContent = sel.options[sel.selectedIndex].text;
   }
 
-  // ==== DETTAGLIO PROVINCIA ====
+  // ==== PROVINCE DETAIL ====
   function showProvinceDetail(prov) {
-    const panel = document.getElementById('provincia-detail');
-    panel.classList.remove('hidden');
-
+    document.getElementById('provincia-detail').classList.remove('hidden');
     document.getElementById('detail-nome').textContent = prov.nome + ' (' + prov.sigla + ')';
+    document.getElementById('detail-totale').textContent = fmt(getProvinceValue(prov, currentSettore, currentAnno));
 
-    const value = getProvinceValue(prov, currentSettore, currentAnno);
-    document.getElementById('detail-totale').textContent = formatNumber(value);
-
-    const var_el = document.getElementById('detail-variazione');
-    if (prov.variazione_annuale !== null && prov.variazione_annuale !== undefined) {
+    const varEl = document.getElementById('detail-variazione');
+    if (prov.variazione_annuale != null) {
       const v = prov.variazione_annuale;
-      var_el.textContent = (v > 0 ? '+' : '') + v + '%';
-      var_el.className = 'text-xl font-bold ' + (v >= 0 ? 'text-green-600' : 'text-red-600');
+      varEl.textContent = (v > 0 ? '+' : '') + v + '%';
+      varEl.className = 'text-xl font-bold ' + (v >= 0 ? 'text-green-600' : 'text-red-600');
     } else {
-      var_el.textContent = 'n/d';
-      var_el.className = 'text-xl font-bold text-gray-400';
+      varEl.textContent = 'n/d';
+      varEl.className = 'text-xl font-bold text-gray-400';
     }
 
-    // Top settori
     const annoData = prov.dati[currentAnno];
     if (annoData) {
       const settoriDiv = document.getElementById('detail-settori');
-      const sorted = Object.entries(annoData.macro_settori)
-        .sort((a, b) => b[1] - a[1]);
-
+      const sorted = Object.entries(annoData.macro_settori).sort((a, b) => b[1] - a[1]);
       settoriDiv.innerHTML = sorted.map(([nome, val]) => {
         const pct = annoData.totale_imprese > 0 ? (val / annoData.totale_imprese * 100).toFixed(1) : 0;
-        const color = MACRO_COLORS[nome] || '#6b7280';
-        return `
-          <div class="flex items-center gap-2 text-xs">
-            <span class="w-2 h-2 rounded-full shrink-0" style="background:${color}"></span>
-            <span class="flex-1 text-gray-600 truncate">${nome}</span>
-            <span class="font-semibold text-gray-900">${formatNumber(val)}</span>
-            <span class="text-gray-400 w-10 text-right">${pct}%</span>
-          </div>
-        `;
+        return `<div class="flex items-center gap-2 text-xs">
+          <span class="w-2 h-2 rounded-full shrink-0" style="background:${MACRO_COLORS[nome] || '#6b7280'}"></span>
+          <span class="flex-1 text-gray-600 truncate">${nome}</span>
+          <span class="font-semibold text-gray-900">${fmt(val)}</span>
+          <span class="text-gray-400 w-10 text-right">${pct}%</span>
+        </div>`;
       }).join('');
     }
+
+    // Update donut title
+    document.getElementById('chart-settori-title').textContent = 'Composizione: ' + prov.nome;
+    updateCharts();
   }
 
-  // ==== GRAFICI ====
+  // ==== CHARTS ====
   function initCharts() {
-    const ctxProv = document.getElementById('chart-province').getContext('2d');
-    chartProvince = new Chart(ctxProv, {
+    chartProvince = new Chart(document.getElementById('chart-province').getContext('2d'), {
       type: 'bar',
       data: { labels: [], datasets: [{ data: [], backgroundColor: [] }] },
       options: {
         indexAxis: 'y',
         responsive: true,
         maintainAspectRatio: false,
-        plugins: { legend: { display: false } },
+        plugins: { legend: { display: false },
+          tooltip: { callbacks: { label: ctx => fmt(ctx.parsed.x) + ' imprese' } }
+        },
         scales: {
-          x: {
-            ticks: { callback: v => v.toLocaleString('it-IT'), font: { size: 10 } },
-            grid: { color: '#f3f4f6' }
-          },
-          y: { ticks: { font: { size: 11 } }, grid: { display: false } }
+          x: { ticks: { callback: v => v >= 1000 ? (v/1000).toFixed(0) + 'k' : v, font: { size: 10 } }, grid: { color: '#f3f4f6' } },
+          y: { ticks: { font: { size: 11, weight: 'bold' } }, grid: { display: false } }
         }
       }
     });
 
-    const ctxSett = document.getElementById('chart-settori').getContext('2d');
-    chartSettori = new Chart(ctxSett, {
+    chartSettori = new Chart(document.getElementById('chart-settori').getContext('2d'), {
       type: 'doughnut',
       data: { labels: [], datasets: [{ data: [], backgroundColor: [] }] },
       options: {
         responsive: true,
         maintainAspectRatio: false,
         plugins: {
-          legend: { position: 'bottom', labels: { boxWidth: 10, font: { size: 10 }, padding: 8 } },
-          tooltip: {
-            callbacks: {
-              label: function(ctx) {
-                return ctx.label + ': ' + ctx.parsed.toLocaleString('it-IT') + ' imprese';
-              }
-            }
-          }
+          legend: { position: 'bottom', labels: { boxWidth: 8, font: { size: 9 }, padding: 6 } },
+          tooltip: { callbacks: { label: ctx => ctx.label + ': ' + fmt(ctx.parsed) + ' imprese' } }
         }
       }
     });
   }
 
   function updateCharts() {
-    // Grafico province
+    // Bar chart - compact horizontal
     const sorted = [...DATA.province]
       .map(p => ({ nome: p.sigla, value: getProvinceValue(p, currentSettore, currentAnno) }))
       .sort((a, b) => b.value - a.value);
-
     const values = sorted.map(p => p.value);
-    const maxVal = Math.max(...values);
+    const minV = Math.min(...values), maxV = Math.max(...values);
 
     chartProvince.data.labels = sorted.map(p => p.nome);
     chartProvince.data.datasets[0].data = values;
-    chartProvince.data.datasets[0].backgroundColor = values.map(v =>
-      getColor(v, Math.min(...values), maxVal)
-    );
+    chartProvince.data.datasets[0].backgroundColor = values.map(v => getColor(v, minV, maxV));
     chartProvince.update();
 
-    // Grafico composizione settoriale (ciambella) - usa dati regionali o provincia selezionata
+    // Donut chart
     const target = selectedProvince || null;
     let macroData;
     if (target && target.dati[currentAnno]) {
       macroData = target.dati[currentAnno].macro_settori;
     } else {
       macroData = DATA.totale_regione[currentAnno]?.macro_settori || {};
+      document.getElementById('chart-settori-title').textContent = 'Composizione settoriale';
     }
-
     const macroSorted = Object.entries(macroData).sort((a, b) => b[1] - a[1]);
     chartSettori.data.labels = macroSorted.map(([k]) => k);
     chartSettori.data.datasets[0].data = macroSorted.map(([, v]) => v);
@@ -436,40 +409,27 @@ try {
   // ==== KPI ====
   function updateKPI() {
     const total = getRegionValue(currentSettore, currentAnno);
-    document.getElementById('kpi-totale').textContent = formatNumber(total);
+    document.getElementById('kpi-totale').textContent = fmt(total);
     document.getElementById('kpi-anno').textContent = currentAnno;
 
     const prevAnno = String(parseInt(currentAnno) - 1);
     const prevTotal = getRegionValue(currentSettore, prevAnno);
     const varEl = document.getElementById('kpi-variazione');
-
     if (prevTotal > 0) {
-      const variazione = ((total - prevTotal) / prevTotal * 100).toFixed(1);
-      varEl.textContent = (variazione > 0 ? '+' : '') + variazione + '%';
-      varEl.className = 'text-2xl font-extrabold ' + (variazione >= 0 ? 'text-green-600' : 'text-red-600');
+      const v = ((total - prevTotal) / prevTotal * 100).toFixed(1);
+      varEl.textContent = (v > 0 ? '+' : '') + v + '%';
+      varEl.className = 'text-2xl font-extrabold ' + (v >= 0 ? 'text-green-600' : 'text-red-600');
     } else {
       varEl.textContent = 'n/d';
       varEl.className = 'text-2xl font-extrabold text-gray-400';
     }
   }
 
-  // ==== UPDATE GLOBALE ====
-  async function updateAll() {
+  function updateAll() {
     updateKPI();
+    updateMapLayer();
     updateCharts();
-
-    // Ricarica layer mappa
-    try {
-      const resp = await fetch('/data/auto/province-piemonte.geojson');
-      const geojsonData = await resp.json();
-      updateMapLayer(geojsonData);
-    } catch (e) {
-      console.error('Errore aggiornamento mappa:', e);
-    }
-
-    if (selectedProvince) {
-      showProvinceDetail(selectedProvince);
-    }
+    if (selectedProvince) showProvinceDetail(selectedProvince);
   }
 
   // ==== INIT ====
@@ -479,23 +439,18 @@ try {
     updateKPI();
     updateCharts();
 
-    // Event listeners
     document.getElementById('select-settore').addEventListener('change', function() {
       currentSettore = this.value;
       updateAll();
     });
-
     document.getElementById('select-anno').addEventListener('change', function() {
       currentAnno = this.value;
       updateAll();
     });
-
     document.getElementById('detail-close').addEventListener('click', function() {
       document.getElementById('provincia-detail').classList.add('hidden');
       selectedProvince = null;
-      if (geojsonLayer) {
-        geojsonLayer.eachLayer(l => l.setStyle({ weight: 2, color: '#fff' }));
-      }
+      if (geojsonLayer) geojsonLayer.eachLayer(l => l.setStyle({ weight: 2, color: '#fff' }));
       updateCharts();
     });
   });
