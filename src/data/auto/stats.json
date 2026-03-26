@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
+    "torinoclick": 63,
+    "comune_torino": 57,
     "regione": 19,
-    "torinoclick": 62,
-    "comune_torino": 56,
-    "quotidiano_piemontese": 63
+    "quotidiano_piemontese": 61
   },
   "temi_attivi": [
     {
@@ -21,7 +21,11 @@
     },
     {
       "tema": "istruzione-formazione",
-      "conteggio": 11
+      "conteggio": 12
+    },
+    {
+      "tema": "sport",
+      "conteggio": 10
     },
     {
       "tema": "giovani",
@@ -36,15 +40,11 @@
       "conteggio": 9
     },
     {
-      "tema": "sport",
-      "conteggio": 9
-    },
-    {
-      "tema": "fondi-europei",
+      "tema": "ambiente-qualita-aria",
       "conteggio": 8
     },
     {
-      "tema": "pianificazione-territoriale",
+      "tema": "fondi-europei",
       "conteggio": 8
     }
   ],
