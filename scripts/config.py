@@ -36,18 +36,6 @@ RSS_FEEDS = [
         'url': 'https://www.comune.torino.it/novita/rss.xml',
         'colore': '#dc2626'
     },
-    {
-        'id': 'torinoclick',
-        'nome': 'TorinoClick',
-        'url': 'https://www.torinoclick.it/feed/',
-        'colore': '#ea580c'
-    },
-    {
-        'id': 'quotidiano_piemontese',
-        'nome': 'Quotidiano Piemontese',
-        'url': 'https://www.quotidianopiemontese.it/feed/',
-        'colore': '#0891b2'
-    }
 ]
 
 # Fonti senza RSS (scraping)
@@ -201,11 +189,9 @@ FONTE_WEIGHTS = {
     'regione': 3,
     'consiglio': 3,
     'comune_torino': 2,
-    'torinoclick': 2,
     'arpa': 2,
     'ires': 2,
     'unioncamere': 2,
-    'quotidiano_piemontese': 1,
 }
 
 # Temi "caldi" che pesano di più nel briefing

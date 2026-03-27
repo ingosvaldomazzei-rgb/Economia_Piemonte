@@ -1,0 +1,283 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+let consiglio: any = null;
+try {
+  consiglio = (await import('../../data/auto/consiglio.json')).default;
+} catch {
+  consiglio = null;
+}
+
+const sedute = consiglio?.sedute || [];
+const interrogazioni = consiglio?.interrogazioni || [];
+const mozioni = consiglio?.mozioni || [];
+const stats = consiglio?.statistiche || {};
+const aggiornamento = consiglio?.ultimo_aggiornamento || '';
+
+function formatDate(iso: string) {
+  try {
+    return new Date(iso).toLocaleDateString('it-IT', { day: 'numeric', month: 'short', year: 'numeric' });
+  } catch { return iso; }
+}
+
+function truncate(text: string, max: number) {
+  if (!text || text.length <= max) return text || '';
+  return text.slice(0, max) + '...';
+}
+
+// Colori per stato mozioni
+const statoColors: Record<string, string> = {
+  'Approvato': 'bg-green-100 text-green-800',
+  'Respinto': 'bg-red-100 text-red-800',
+  'Ritirato': 'bg-yellow-100 text-yellow-800',
+  'Non votato': 'bg-gray-100 text-gray-600',
+  'Decaduto': 'bg-orange-100 text-orange-700',
+};
+---
+
+<BaseLayout title="Consiglio Regionale - Osservatorio Politico Piemonte">
+  <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Consiglio Regionale' }]} />
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <!-- Header -->
+    <div class="mb-8">
+      <h1 class="text-3xl font-bold text-gray-900">Consiglio Regionale del Piemonte</h1>
+      <p class="mt-2 text-gray-600">Monitoraggio sedute, interrogazioni, interpellanze, mozioni e ordini del giorno — XII Legislatura</p>
+      {aggiornamento && (
+        <p class="mt-1 text-xs text-gray-400">Ultimo aggiornamento: {formatDate(aggiornamento)}</p>
+      )}
+    </div>
+
+    <!-- Statistiche riepilogative -->
+    <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-3 mb-8">
+      <div class="bg-purple-50 rounded-lg p-3 text-center">
+        <div class="text-2xl font-bold text-purple-700">{stats.totale_sedute || 0}</div>
+        <div class="text-xs text-purple-600">Sedute</div>
+      </div>
+      <div class="bg-blue-50 rounded-lg p-3 text-center">
+        <div class="text-2xl font-bold text-blue-700">{stats.totale_interrogazioni || 0}</div>
+        <div class="text-xs text-blue-600">Interrogazioni</div>
+      </div>
+      <div class="bg-indigo-50 rounded-lg p-3 text-center">
+        <div class="text-2xl font-bold text-indigo-700">{stats.totale_interpellanze || 0}</div>
+        <div class="text-xs text-indigo-600">Interpellanze</div>
+      </div>
+      <div class="bg-amber-50 rounded-lg p-3 text-center">
+        <div class="text-2xl font-bold text-amber-700">{stats.totale_mozioni || 0}</div>
+        <div class="text-xs text-amber-600">Mozioni</div>
+      </div>
+      <div class="bg-teal-50 rounded-lg p-3 text-center">
+        <div class="text-2xl font-bold text-teal-700">{stats.totale_odg || 0}</div>
+        <div class="text-xs text-teal-600">Ordini d.G.</div>
+      </div>
+      <div class="bg-green-50 rounded-lg p-3 text-center">
+        <div class="text-2xl font-bold text-green-700">{stats.mozioni_approvate || 0}</div>
+        <div class="text-xs text-green-600">Approvate</div>
+      </div>
+      <div class="bg-red-50 rounded-lg p-3 text-center">
+        <div class="text-2xl font-bold text-red-700">{stats.mozioni_respinte || 0}</div>
+        <div class="text-xs text-red-600">Respinte</div>
+      </div>
+    </div>
+
+    <!-- Tab navigation -->
+    <div class="border-b border-gray-200 mb-6">
+      <nav class="flex gap-4" id="tab-nav">
+        <button data-tab="sedute" class="tab-btn px-4 py-2 text-sm font-medium border-b-2 border-purple-600 text-purple-700">
+          Sedute ({sedute.length})
+        </button>
+        <button data-tab="interrogazioni" class="tab-btn px-4 py-2 text-sm font-medium border-b-2 border-transparent text-gray-500 hover:text-gray-700">
+          Interrogazioni ({interrogazioni.length})
+        </button>
+        <button data-tab="mozioni" class="tab-btn px-4 py-2 text-sm font-medium border-b-2 border-transparent text-gray-500 hover:text-gray-700">
+          Mozioni e OdG ({mozioni.length})
+        </button>
+      </nav>
+    </div>
+
+    <!-- Tab: Sedute del Consiglio -->
+    <div id="tab-sedute" class="tab-content">
+      {sedute.length === 0 ? (
+        <p class="text-gray-500 text-center py-8">Nessuna seduta disponibile.</p>
+      ) : (
+        <div class="space-y-4">
+          {sedute.map((s: any) => (
+            <div class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+              <div class="flex items-start justify-between gap-4">
+                <div class="flex-1">
+                  <div class="flex items-center gap-2 mb-1">
+                    <span class="bg-purple-100 text-purple-700 text-xs font-semibold px-2 py-0.5 rounded">
+                      Seduta n. {s.numero}
+                    </span>
+                    <time class="text-xs text-gray-400">{formatDate(s.data)}</time>
+                  </div>
+                  <a href={s.link} target="_blank" rel="noopener" class="text-sm font-medium text-gray-900 hover:text-purple-600">
+                    {s.titolo}
+                  </a>
+                  {s.sintesi_testo && (
+                    <p class="mt-2 text-xs text-gray-600 leading-relaxed bg-gray-50 rounded p-3">
+                      {truncate(s.sintesi_testo, 800)}
+                    </p>
+                  )}
+                </div>
+                <div class="flex gap-2 shrink-0">
+                  {s.sintesi_url && (
+                    <a href={s.sintesi_url} target="_blank" rel="noopener"
+                       class="inline-flex items-center gap-1 text-xs bg-purple-600 text-white px-3 py-1.5 rounded hover:bg-purple-700">
+                      <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                      </svg>
+                      Sintesi PDF
+                    </a>
+                  )}
+                  <a href={s.link} target="_blank" rel="noopener"
+                     class="inline-flex items-center gap-1 text-xs bg-gray-100 text-gray-700 px-3 py-1.5 rounded hover:bg-gray-200">
+                    <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                    Dettagli
+                  </a>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+
+    <!-- Tab: Interrogazioni e Interpellanze -->
+    <div id="tab-interrogazioni" class="tab-content hidden">
+      {interrogazioni.length === 0 ? (
+        <p class="text-gray-500 text-center py-8">Nessuna interrogazione disponibile.</p>
+      ) : (
+        <div class="overflow-x-auto">
+          <table class="w-full text-sm">
+            <thead class="bg-gray-50">
+              <tr>
+                <th class="text-left px-3 py-2 text-xs font-semibold text-gray-500">N.</th>
+                <th class="text-left px-3 py-2 text-xs font-semibold text-gray-500">Tipo</th>
+                <th class="text-left px-3 py-2 text-xs font-semibold text-gray-500">Oggetto</th>
+                <th class="text-left px-3 py-2 text-xs font-semibold text-gray-500">Data</th>
+                <th class="text-left px-3 py-2 text-xs font-semibold text-gray-500">Stato</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-100">
+              {interrogazioni.map((a: any) => (
+                <tr class="hover:bg-gray-50">
+                  <td class="px-3 py-2 text-xs text-gray-500 whitespace-nowrap">{a.numero}</td>
+                  <td class="px-3 py-2 whitespace-nowrap">
+                    <span class={`text-xs font-medium px-1.5 py-0.5 rounded ${a.tipo === 'interpellanza' ? 'bg-indigo-100 text-indigo-700' : 'bg-blue-100 text-blue-700'}`}>
+                      {a.tipo === 'interpellanza' ? 'Interpellanza' : 'Interrogazione'}
+                    </span>
+                  </td>
+                  <td class="px-3 py-2">
+                    <a href={a.link} target="_blank" rel="noopener" class="text-gray-900 hover:text-blue-600 line-clamp-2">
+                      {truncate(a.titolo, 120)}
+                    </a>
+                  </td>
+                  <td class="px-3 py-2 text-xs text-gray-400 whitespace-nowrap">{formatDate(a.data)}</td>
+                  <td class="px-3 py-2">
+                    {a.stato && (
+                      <span class="text-xs px-1.5 py-0.5 rounded bg-gray-100 text-gray-600">{a.stato}</span>
+                    )}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </div>
+
+    <!-- Tab: Mozioni e Ordini del Giorno -->
+    <div id="tab-mozioni" class="tab-content hidden">
+      {mozioni.length === 0 ? (
+        <p class="text-gray-500 text-center py-8">Nessuna mozione disponibile.</p>
+      ) : (
+        <div class="overflow-x-auto">
+          <table class="w-full text-sm">
+            <thead class="bg-gray-50">
+              <tr>
+                <th class="text-left px-3 py-2 text-xs font-semibold text-gray-500">N.</th>
+                <th class="text-left px-3 py-2 text-xs font-semibold text-gray-500">Tipo</th>
+                <th class="text-left px-3 py-2 text-xs font-semibold text-gray-500">Oggetto</th>
+                <th class="text-left px-3 py-2 text-xs font-semibold text-gray-500">Data</th>
+                <th class="text-left px-3 py-2 text-xs font-semibold text-gray-500">Esito</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-100">
+              {mozioni.map((a: any) => (
+                <tr class="hover:bg-gray-50">
+                  <td class="px-3 py-2 text-xs text-gray-500 whitespace-nowrap">{a.numero}</td>
+                  <td class="px-3 py-2 whitespace-nowrap">
+                    <span class={`text-xs font-medium px-1.5 py-0.5 rounded ${a.tipo === 'mozione' ? 'bg-amber-100 text-amber-700' : 'bg-teal-100 text-teal-700'}`}>
+                      {a.tipo === 'mozione' ? 'Mozione' : 'OdG'}
+                    </span>
+                  </td>
+                  <td class="px-3 py-2">
+                    <a href={a.link} target="_blank" rel="noopener" class="text-gray-900 hover:text-blue-600 line-clamp-2">
+                      {truncate(a.titolo, 120)}
+                    </a>
+                  </td>
+                  <td class="px-3 py-2 text-xs text-gray-400 whitespace-nowrap">{formatDate(a.data)}</td>
+                  <td class="px-3 py-2">
+                    {a.stato ? (
+                      <span class={`text-xs font-medium px-1.5 py-0.5 rounded ${statoColors[a.stato] || 'bg-gray-100 text-gray-600'}`}>
+                        {a.stato}
+                      </span>
+                    ) : (
+                      <span class="text-xs text-gray-400">-</span>
+                    )}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </div>
+
+    <!-- Link fonte originale -->
+    <div class="mt-8 p-4 bg-gray-50 rounded-lg text-sm text-gray-600">
+      <p class="font-medium mb-2">Fonti istituzionali:</p>
+      <ul class="space-y-1 text-xs">
+        <li><a href="https://www.cr.piemonte.it/seduteconsiglio/appl/search/index.php" target="_blank" rel="noopener" class="text-blue-600 hover:underline">Archivio Sedute del Consiglio</a></li>
+        <li><a href="https://www.cr.piemonte.it/interfo/legislatura/12/anno/2026/pagina/1" target="_blank" rel="noopener" class="text-blue-600 hover:underline">Interrogazioni e Interpellanze - XII Legislatura</a></li>
+        <li><a href="https://www.cr.piemonte.it/mzodgfo/legislatura/12/anno/2026/pagina/1" target="_blank" rel="noopener" class="text-blue-600 hover:underline">Mozioni e Ordini del Giorno - XII Legislatura</a></li>
+      </ul>
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  // Tab switching
+  const tabs = document.querySelectorAll('.tab-btn');
+  const contents = document.querySelectorAll('.tab-content');
+
+  tabs.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const target = btn.getAttribute('data-tab');
+
+      // Reset all tabs
+      tabs.forEach(t => {
+        t.classList.remove('border-purple-600', 'text-purple-700');
+        t.classList.add('border-transparent', 'text-gray-500');
+      });
+
+      // Activate clicked tab
+      btn.classList.remove('border-transparent', 'text-gray-500');
+      btn.classList.add('border-purple-600', 'text-purple-700');
+
+      // Show/hide content
+      contents.forEach(c => {
+        const el = c as HTMLElement;
+        if (el.id === `tab-${target}`) {
+          el.classList.remove('hidden');
+        } else {
+          el.classList.add('hidden');
+        }
+      });
+    });
+  });
+</script>
