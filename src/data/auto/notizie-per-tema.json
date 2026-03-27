@@ -1,6 +1,14 @@
 {
   "cultura-beni-culturali": [
     {
+      "id": "743f8d3eab16",
+      "titolo": "Piemonte e Liguria per la governance condivisa dei porti di Genova e Savona",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-liguria-per-governance-condivisa-dei-porti-genova-savona",
+      "data": "2026-03-26T18:43:17+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "165ed4752a14",
       "titolo": "Domenica 29 marzo si corre la Deejay Ten. Previste modifiche viabili",
       "link": "https://www.torinoclick.it/trasporti/domenica-29-marzo-si-corre-la-deejay-ten-previste-modifiche-viabili/",
@@ -151,14 +159,6 @@
       "data": "2026-03-15T11:20:34+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    },
-    {
-      "id": "2edc01cba66c",
-      "titolo": "36 nuovi agenti di Polizia Locale prenderanno servizio in Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/36-nuovi-agenti-polizia-locale-prenderanno-servizio-piemonte",
-      "data": "2026-03-13T13:47:55+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "edilizia-opere-pubbliche": [

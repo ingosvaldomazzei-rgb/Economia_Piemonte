@@ -1,5 +1,25 @@
 [
   {
+    "id": "fb1e70df3669",
+    "titolo": "Processionaria, come riconoscere l'insetto e quali strategie adottare",
+    "link": "https://www.comune.torino.it/novita/notizie/processionaria-come-riconoscere-linsetto-quali-strategie-adottare",
+    "descrizione": "La processionaria del pino: un insetto diffuso nei nostri territori, conosciuto per i bruchi urticanti che scendono dai nidi in fila indiana.",
+    "data": "2026-03-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "743f8d3eab16",
+    "titolo": "Piemonte e Liguria per la governance condivisa dei porti di Genova e Savona",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-liguria-per-governance-condivisa-dei-porti-genova-savona",
+    "descrizione": "I presidenti della Regioni Piemonte Alberto Cirio e Liguria Marco Bucci hanno condiviso nel corso di un evento svoltosi a Vado Ligure l’opportunità che in futuro il Piemonte entri a far parte della governance dei porti di Genova e Savona-Vado…",
+    "data": "2026-03-26T18:43:17+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "165ed4752a14",
     "titolo": "Domenica 29 marzo si corre la Deejay Ten. Previste modifiche viabili",
     "link": "https://www.torinoclick.it/trasporti/domenica-29-marzo-si-corre-la-deejay-ten-previste-modifiche-viabili/",
@@ -114,6 +134,16 @@
     "titolo": "Tariffe ridotte per studenti universitari, anche fuori sede, under 26",
     "link": "https://www.comune.torino.it/novita/notizie/tariffe-ridotte-per-studenti-universitari-anche-fuori-sede-under-26",
     "descrizione": "L'Amministrazione Comunale ha esteso l'agevolazione per l'ingresso ridotto agli impianti sportivi cittadini anche agli studenti universitari non residenti.",
+    "data": "2026-03-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3d435d75cf72",
+    "titolo": "Festa di Primavera a Cascina Falchera",
+    "link": "https://www.comune.torino.it/novita/notizie/festa-primavera-cascina-falchera",
+    "descrizione": "28 marzo 2026 Festa di Primavera – III Edizione",
     "data": "2026-03-26T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1965,36 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/11/situazione-insostenibile-stato-di-agitazione-del-comparto-sanitario-della-citta-della-salute-di-torino/",
     "descrizione": "Tra le principali criticità segnalate vi sono la carenza di personale, il sovraccarico di lavoro, la difficoltà nel garantire i riposi e il mancato pagamento delle prestazioni aggiuntive L'articolo “Situazione insostenibile”, stato di agitazione del comparto sanitario della Città della Salute di Torino proviene da Quotidiano Piemontese.",
     "data": "2026-03-11T13:57:57+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "0d172513cd84",
-    "titolo": "Lanciano pietre contro due tir sulla A4, sfondato un parabrezza: indagini in corso",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/lanciano-pietre-contro-due-tir-sulla-a4-sfondato-un-parabrezza-indagini-in-corso/",
-    "descrizione": "I conducenti non hanno riportato ferite, ma i mezzi sono stati pesantemente danneggiati L'articolo Lanciano pietre contro due tir sulla A4, sfondato un parabrezza: indagini in corso proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T13:32:18+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "b620d4b2708d",
-    "titolo": "Dicevano di servire salsiccia di Bra, ma non era vero: 14 indagati nel Cuneese",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/dicevano-di-servire-salsiccia-di-bra-ma-non-era-vero-14-indagati-nel-cuneese/",
-    "descrizione": "Ciò che veniva realmente servito ai clienti era tutto tranne che vera salsiccia di Bra L'articolo Dicevano di servire salsiccia di Bra, ma non era vero: 14 indagati nel Cuneese proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T12:55:40+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "5e134cf03560",
-    "titolo": "Giada Simeone di Leinì muore a 24 anni, l’appello del padre a Max Pezzali: avverare il suo ultimo desiderio",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/giada-simeone-di-leini-muore-a-24-anni-lappello-del-padre-a-max-pezzali-avverare-il-suo-ultimo-desiderio/",
-    "descrizione": "Il suo desiderio era andare al concerto di Max Pezzali L'articolo Giada Simeone di Leinì muore a 24 anni, l’appello del padre a Max Pezzali: avverare il suo ultimo desiderio proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T12:21:24+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"

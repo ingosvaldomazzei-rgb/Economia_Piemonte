@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
+    "comune_torino": 58,
+    "regione": 20,
     "torinoclick": 68,
-    "regione": 19,
-    "comune_torino": 56,
-    "quotidiano_piemontese": 57
+    "quotidiano_piemontese": 54
   },
   "temi_attivi": [
     {
