@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "28c8654089f9",
+    "titolo": "Lunedì 30 marzo il sigillo civico a Don Luigi Ciotti",
+    "link": "https://www.comune.torino.it/novita/comunicati/lunedi-30-marzo-sigillo-civico-don-luigi-ciotti",
+    "descrizione": "Lunedì 30 marzo 2026, alle ore 15, la Sala Rossa di Palazzo Civico ospiterà la cerimonia per il conferimento del Sigillo civico a Don Luigi Ciotti",
+    "data": "2026-03-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "743f8d3eab16",
     "titolo": "Piemonte e Liguria per la governance condivisa dei porti di Genova e Savona",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-liguria-per-governance-condivisa-dei-porti-genova-savona",
@@ -1985,16 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/11/torino-previsioni-meteo-del-12-marzo-2026/",
     "descrizione": "Meteo Torino domani 12 marzo: sole e temperature fino a 18°C grazie all’alta pressione. Nuvole venerdì, mentre nel weekend torna la pioggia. L'articolo Torino, previsioni meteo del 12 marzo 2026 proviene da Quotidiano Piemontese.",
     "data": "2026-03-11T14:00:16+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "708acf5aa1dc",
-    "titolo": "“Situazione insostenibile”, stato di agitazione del comparto sanitario della Città della Salute di Torino",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/situazione-insostenibile-stato-di-agitazione-del-comparto-sanitario-della-citta-della-salute-di-torino/",
-    "descrizione": "Tra le principali criticità segnalate vi sono la carenza di personale, il sovraccarico di lavoro, la difficoltà nel garantire i riposi e il mancato pagamento delle prestazioni aggiuntive L'articolo “Situazione insostenibile”, stato di agitazione del comparto sanitario della Città della Salute di Torino proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T13:57:57+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
