@@ -57,6 +57,14 @@ SCRAPE_SOURCES = [
             'https://pie.camcom.it/comunicazione-e-stampa/comunicati-stampa',
         ],
         'colore': '#ca8a04'
+    },
+    {
+        'id': 'consiglio_sedute',
+        'nome': 'Resoconti sedute Consiglio Regionale',
+        'urls': [
+            'https://www.cr.piemonte.it/seduteconsiglio/appl/search/index.php',
+        ],
+        'colore': '#4f46e5'
     }
 ]
 

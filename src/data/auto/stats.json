@@ -1,54 +1,51 @@
 {
-  "totale_notizie": 124,
+  "totale_notizie": 200,
   "notizie_per_fonte": {
-    "unioncamere": 16,
-    "quotidiano_piemontese": 20,
-    "torinoclick": 10,
-    "comune_torino": 25,
-    "regione": 33,
-    "consiglio": 10,
-    "arpa": 10
+    "comune_torino": 58,
+    "regione": 20,
+    "torinoclick": 68,
+    "quotidiano_piemontese": 54
   },
   "temi_attivi": [
     {
       "tema": "cultura-beni-culturali",
-      "conteggio": 19
-    },
-    {
-      "tema": "agricoltura",
-      "conteggio": 12
-    },
-    {
-      "tema": "sanita-regionale",
-      "conteggio": 12
+      "conteggio": 20
     },
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 11
-    },
-    {
-      "tema": "ambiente-qualita-aria",
-      "conteggio": 11
-    },
-    {
-      "tema": "attivita-produttive",
-      "conteggio": 10
-    },
-    {
-      "tema": "sport",
-      "conteggio": 9
-    },
-    {
-      "tema": "fondi-europei",
-      "conteggio": 9
+      "conteggio": 20
     },
     {
       "tema": "lavoro-occupazione",
-      "conteggio": 8
+      "conteggio": 13
+    },
+    {
+      "tema": "istruzione-formazione",
+      "conteggio": 12
+    },
+    {
+      "tema": "sport",
+      "conteggio": 11
+    },
+    {
+      "tema": "sanita-regionale",
+      "conteggio": 10
     },
     {
       "tema": "universita-ricerca",
-      "conteggio": 6
+      "conteggio": 10
+    },
+    {
+      "tema": "ambiente-qualita-aria",
+      "conteggio": 9
+    },
+    {
+      "tema": "giovani",
+      "conteggio": 9
+    },
+    {
+      "tema": "agricoltura",
+      "conteggio": 8
     }
   ],
   "totale_temi_con_notizie": 25
