@@ -1,5 +1,15 @@
 [
   {
+    "id": "50a8e14b7872",
+    "titolo": "Riqualificazione, continuità e apertura al territorio: al via una nuova gestione per la palestra della scuola primaria Manzoni",
+    "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-continuita-apertura-al-territorio-al-via-una-nuova-gestione-per",
+    "descrizione": "La Circoscrizione Quattro ha approvato una delibera che avvia un percorso innovativo per la concessione dell'impianto.",
+    "data": "2026-03-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "fb1e70df3669",
     "titolo": "Processionaria, come riconoscere l'insetto e quali strategie adottare",
     "link": "https://www.comune.torino.it/novita/notizie/processionaria-come-riconoscere-linsetto-quali-strategie-adottare",
@@ -14,6 +24,16 @@
     "titolo": "Lunedì 30 marzo il sigillo civico a Don Luigi Ciotti",
     "link": "https://www.comune.torino.it/novita/comunicati/lunedi-30-marzo-sigillo-civico-don-luigi-ciotti",
     "descrizione": "Lunedì 30 marzo 2026, alle ore 15, la Sala Rossa di Palazzo Civico ospiterà la cerimonia per il conferimento del Sigillo civico a Don Luigi Ciotti",
+    "data": "2026-03-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7b8505f9fe3d",
+    "titolo": "Un nuovo infopoint con biglietteria per le manifestazioni culturali della Città",
+    "link": "https://www.comune.torino.it/novita/comunicati/un-nuovo-infopoint-biglietteria-per-manifestazioni-culturali-della-citta",
+    "descrizione": "È stato inaugurato oggi, alla presenza del sindaco Stefano Lo Russo, il nuovo punto informativo della Fondazione per la Cultura Torino.",
     "data": "2026-03-27T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1978,25 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "e7b7f66ff66f",
-    "titolo": "Una fuga di gas, la scuola evacuata e 1400 studenti dell’istituto tecnico Grassi di Torino restano a casa",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/una-fuga-di-gas-la-scuola-evacuata-e-1400-studenti-dellistituto-tecnico-grassi-di-torino-restano-a-casa/",
-    "descrizione": "Non si registrano feriti o intossicati L'articolo Una fuga di gas, la scuola evacuata e 1400 studenti dell’istituto tecnico Grassi di Torino restano a casa proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T14:13:29+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "5bb3c7ffca6e",
-    "titolo": "Torino, previsioni meteo del 12 marzo 2026",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/torino-previsioni-meteo-del-12-marzo-2026/",
-    "descrizione": "Meteo Torino domani 12 marzo: sole e temperature fino a 18°C grazie all’alta pressione. Nuvole venerdì, mentre nel weekend torna la pioggia. L'articolo Torino, previsioni meteo del 12 marzo 2026 proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T14:00:16+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
   }
 ]
