@@ -1,5 +1,25 @@
 [
   {
+    "id": "5feb3d3c0933",
+    "titolo": "Nuovo Piano Regolatore Generale",
+    "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
+    "descrizione": "Avviso adozione nuovo Piano Regolatore Generale e nuovi Addensamenti Commerciali",
+    "data": "2026-03-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7bf165093bd1",
+    "titolo": "La Regione Piemonte rilancia il genio di Alessandro Antonelli",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-rilancia-genio-alessandro-antonelli",
+    "descrizione": "“Rete Antonelliana. Cultura che unisce” è il progetto con il quale la Regione Piemonte fa sistema e investe sulla propria identità culturale trasformando le architetture di Alessandro Antonelli in un unico grande…",
+    "data": "2026-03-30T11:04:26+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "136bd735edff",
     "titolo": "Inaugurata la nuova area pedonale di via Coazze: più alberi, panchine e spazi per i cittadini",
     "link": "https://www.comune.torino.it/novita/comunicati/inaugurata-nuova-area-pedonale-via-coazze-piu-alberi-panchine-spazi-per",
@@ -1975,26 +1995,6 @@
     "link": "https://www.torinoclick.it/economia/intelligenza-artificiale-e-cooperazione-internazionale-a-torino-shaping-ai-futures-across-africa-and-europe/",
     "descrizione": "Torino ospiterà domani giovedì 12 marzo 2026 presso l’International Training Centre dell’ILO l’evento internazionale “Shaping AI Futures Across Africa and Europe”, un appuntamento dedicato al confronto tra startup africane, imprese europee, centri di ricerca e istituzioni per promuovere nuove collaborazioni nel campo dell’intelligenza artificiale applicata allo sviluppo sostenibile.",
     "data": "2026-03-11T15:23:03+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "b9b65a529707",
-    "titolo": "Festival della Felicità 2026, la terza edizione dal 13 al 17 marzo",
-    "link": "https://www.torinoclick.it/societa/festival-della-felicita-2026-la-terza-edizione-dal-13-al-17-marzo/",
-    "descrizione": "Il Festival della Felicità arriva a Torino per la sua terza edizione, da venerdì 13 a martedì 17 marzo, con appuntamenti in piazza, negli ospedali e nelle carceri, oltre a uno show di chiusura all’Inalpi Arena. La manifestazione è realizzata con il Patrocinio di Regione Piemonte, Città di Torino, Città Metropolitana di Torino, Politecnico di Torino, Università di Torino, in collaborazione con il Consiglio Regionale del Piemonte e grazie al supporto di Generali Italia.",
-    "data": "2026-03-11T15:08:46+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "7a71cc68d48b",
-    "titolo": "Giornata mondiale contro l’islamofobia. A Torino il convegno Uniti contro l’Islamofobia e visite alle moschee",
-    "link": "https://www.torinoclick.it/societa/giornata-mondiale-contro-lislamofobia-a-torino-un-convegno-e-moschee-aperte/",
-    "descrizione": "In occasione della Giornata Mondiale contro l’islamofobia, venerdì 13 marzo il Coordinamento Centri Islamici di Torino, in collaborazione con la Città di Torino e con il organizza due momenti pubblici dedicati al dialogo, alla conoscenza reciproca e alla condivisione. Venerdì 13 marzo alle ore 9.15, nella Sala Colonne di Palazzo Civico, si terrà un convegno dedicato al tema dell’islamofobia, con la partecipazione della Vicesindaca della Città di Torino Michela Favaro. Domenica 15 marzo, sono pre",
-    "data": "2026-03-11T14:50:11+00:00",
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"

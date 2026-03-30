@@ -1,9 +1,9 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 62,
-    "regione": 20,
-    "torinoclick": 67,
+    "comune_torino": 63,
+    "regione": 21,
+    "torinoclick": 65,
     "quotidiano_piemontese": 51
   },
   "temi_attivi": [
@@ -16,11 +16,11 @@
       "conteggio": 20
     },
     {
-      "tema": "istruzione-formazione",
-      "conteggio": 12
+      "tema": "lavoro-occupazione",
+      "conteggio": 13
     },
     {
-      "tema": "lavoro-occupazione",
+      "tema": "istruzione-formazione",
       "conteggio": 12
     },
     {
@@ -28,11 +28,11 @@
       "conteggio": 11
     },
     {
-      "tema": "universita-ricerca",
-      "conteggio": 10
+      "tema": "pianificazione-territoriale",
+      "conteggio": 9
     },
     {
-      "tema": "sanita-regionale",
+      "tema": "universita-ricerca",
       "conteggio": 9
     },
     {
@@ -44,7 +44,7 @@
       "conteggio": 9
     },
     {
-      "tema": "pianificazione-territoriale",
+      "tema": "sanita-regionale",
       "conteggio": 8
     }
   ],
