@@ -1,9 +1,49 @@
 [
   {
+    "id": "d1d6f9f50bed",
+    "titolo": "Il punto sui bilanci 2026 delle aziende sanitarie piemontesi",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/punto-sui-bilanci-2026-delle-aziende-sanitarie-piemontesi",
+    "descrizione": "L’assessore alla Sanità Federico Riboldi ha fatto il punto davanti alla Quarta Commissione del Consiglio regionale sulla reale situazione dei conti delle aziende sanitarie piemontesi. “I bilanci preventivi per il 2026, come ogni anno, rappresentano una…",
+    "data": "2026-03-30T18:34:16+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "5feb3d3c0933",
     "titolo": "Nuovo Piano Regolatore Generale",
     "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
     "descrizione": "Avviso adozione nuovo Piano Regolatore Generale e nuovi Addensamenti Commerciali",
+    "data": "2026-03-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f8fdf2ad03fb",
+    "titolo": "Consegnato il Sigillo Civico a don Luigi Ciotti",
+    "link": "https://www.comune.torino.it/novita/comunicati/consegnato-sigillo-civico-don-luigi-ciotti",
+    "descrizione": "La Sala Rossa di Palazzo Civico ha ospitato la cerimonia per il conferimento del Sigillo civico a don Luigi Ciotti, fondatore del Gruppo Abele e di Libera",
+    "data": "2026-03-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3098597744fc",
+    "titolo": "Approvata seconda variazione al Bilancio di previsione finanziario 2026-2028",
+    "link": "https://www.comune.torino.it/novita/comunicati/approvata-seconda-variazione-al-bilancio-previsione-finanziario-2026-2028",
+    "descrizione": "Fondi per arretrati stipendiali e nuova biblioteca civica",
+    "data": "2026-03-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "dc06925efe56",
+    "titolo": "Mobilità autonoma: il futuro si disegna a Torino. Una giornata per toccare con mano l’innovazione",
+    "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-futuro-si-disegna-torino-una-giornata-per-toccare-mano",
+    "descrizione": "Una navetta senza conducente che si muove tra gli spazi urbani, dialoga con le infrastrutture e trasporta passeggeri in sicurezza.",
     "data": "2026-03-30T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -34,6 +74,16 @@
     "titolo": "Riqualificazione, continuità e apertura al territorio: al via una nuova gestione per la palestra della scuola primaria Manzoni",
     "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-continuita-apertura-al-territorio-al-via-una-nuova-gestione-per",
     "descrizione": "La Circoscrizione Quattro ha approvato una delibera che avvia un percorso innovativo per la concessione dell'impianto.",
+    "data": "2026-03-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "48acff1db1ac",
+    "titolo": "Apertura dell'Orto Botanico",
+    "link": "https://www.comune.torino.it/novita/notizie/apertura-dellorto-botanico",
+    "descrizione": "L'Orto Botanico dell'Università di Torino sarà visitabile sabato, domenica e giorni festivi a partire dal 28 marzo 2026.",
     "data": "2026-03-28T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1948,55 +1998,5 @@
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
-  },
-  {
-    "id": "eb7b5b70bbe2",
-    "titolo": "Smog, fino a venerdì 13 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-    "link": "https://www.torinoclick.it/trasporti/smog-fino-a-venerdi-13-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-    "descrizione": "Prosegue fino a venerdì 13 marzo compreso – prossimo giorno di controllo – l’applicazione delle sole misure strutturali di limitazione al traffico: sulla base dei dati previsionali sulla qualità dell’aria forniti oggi da Arpa Piemonte è stato infatti confermato il livello 0 (bianco) delle misure antismog.",
-    "data": "2026-03-11T16:07:13+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "36c54489bfa6",
-    "titolo": "Gabriela Madalina Popescu scomparsa da Racconigi è stata ritrovata a Nizza",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/gabriela-madalina-popescu-scomparsa-da-racconigi-e-stata-ritrovata-a-nizza/",
-    "descrizione": "Una buona notizia L'articolo Gabriela Madalina Popescu scomparsa da Racconigi è stata ritrovata a Nizza proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T15:52:12+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "79c7bc327fc4",
-    "titolo": "Muore la quindicenne Ludovica Visciglia, sbalzata dalla giostra Tagadà: chieste condanne fino a 4 anni",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/muore-la-quindicenne-ludovica-visciglia-sbalzata-dalla-giostra-tagada-chieste-condanne-fino-a-4-anni/",
-    "descrizione": "Tra gli imputati il comandante della polizia locale e l'ex sindaco L'articolo Muore la quindicenne Ludovica Visciglia, sbalzata dalla giostra Tagadà: chieste condanne fino a 4 anni proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T15:37:30+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "1589ff043ee9",
-    "titolo": "29 nuovi alberi messi a dimora in piazza d’Armi e in via Filadelfia grazie a Suzuki e Torino FC",
-    "link": "https://www.torinoclick.it/territorio/29-nuovi-alberi-messi-a-dimora-in-piazza-darmi-e-in-via-filadelfia-grazie-a-suzuki-e-torino-fc/",
-    "descrizione": "Questo pomeriggio nel Parco Cavalieri di Vittorio Veneto di piazza d’Armi si è tenuta la cerimonia di messa a dimora degli alberi donati da Suzuki alla Città di Torino in occasione della Giornata Nazionale degli Alberi 2025, che contribuiranno alla crescita del “Bosco diffuso Suzuki” sul territorio.",
-    "data": "2026-03-11T15:30:02+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "bc8222c5a472",
-    "titolo": "Intelligenza artificiale e cooperazione internazionale: a Torino “Shaping AI Futures Across Africa and Europe”",
-    "link": "https://www.torinoclick.it/economia/intelligenza-artificiale-e-cooperazione-internazionale-a-torino-shaping-ai-futures-across-africa-and-europe/",
-    "descrizione": "Torino ospiterà domani giovedì 12 marzo 2026 presso l’International Training Centre dell’ILO l’evento internazionale “Shaping AI Futures Across Africa and Europe”, un appuntamento dedicato al confronto tra startup africane, imprese europee, centri di ricerca e istituzioni per promuovere nuove collaborazioni nel campo dell’intelligenza artificiale applicata allo sviluppo sostenibile.",
-    "data": "2026-03-11T15:23:03+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
   }
 ]
