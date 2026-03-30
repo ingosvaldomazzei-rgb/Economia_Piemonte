@@ -1,5 +1,15 @@
 [
   {
+    "id": "136bd735edff",
+    "titolo": "Inaugurata la nuova area pedonale di via Coazze: più alberi, panchine e spazi per i cittadini",
+    "link": "https://www.comune.torino.it/novita/comunicati/inaugurata-nuova-area-pedonale-via-coazze-piu-alberi-panchine-spazi-per",
+    "descrizione": "L’intervento restituisce alla cittadinanza uno spazio urbano rinnovato, più accessibile e pensato come luogo di incontro per i residenti.",
+    "data": "2026-03-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "50a8e14b7872",
     "titolo": "Riqualificazione, continuità e apertura al territorio: al via una nuova gestione per la palestra della scuola primaria Manzoni",
     "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-continuita-apertura-al-territorio-al-via-una-nuova-gestione-per",
@@ -1985,16 +1995,6 @@
     "link": "https://www.torinoclick.it/societa/giornata-mondiale-contro-lislamofobia-a-torino-un-convegno-e-moschee-aperte/",
     "descrizione": "In occasione della Giornata Mondiale contro l’islamofobia, venerdì 13 marzo il Coordinamento Centri Islamici di Torino, in collaborazione con la Città di Torino e con il organizza due momenti pubblici dedicati al dialogo, alla conoscenza reciproca e alla condivisione. Venerdì 13 marzo alle ore 9.15, nella Sala Colonne di Palazzo Civico, si terrà un convegno dedicato al tema dell’islamofobia, con la partecipazione della Vicesindaca della Città di Torino Michela Favaro. Domenica 15 marzo, sono pre",
     "data": "2026-03-11T14:50:11+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "3d757ceea578",
-    "titolo": "Salvare lo Stato Sociale, a ottobre la quinta edizione del Festival internazionale dell’Economia",
-    "link": "https://www.torinoclick.it/economia/salvare-lo-stato-sociale-a-ottobre-la-quinta-edizione-del-festival-internazionale-delleconomia/",
-    "descrizione": "“Salvare lo stato sociale” è il titolo della quinta edizione del Festival Internazionale dell’Economia, a cura di Editori Laterza e Collegio Carlo Alberto – Torino Local Committee, con la direzione scientifica di Tito Boeri. L’appuntamento si terrà a Torino dal 22 al 25 ottobre con una novità importante: da quest’anno il festival si sposta stabilmente in autunno. La scelta di collocare la manifestazione nel mese di ottobre punta a rafforzare il coinvolgimento del pubblico più giovane, in partico",
-    "data": "2026-03-11T14:35:51+00:00",
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
