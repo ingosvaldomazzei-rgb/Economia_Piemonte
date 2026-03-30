@@ -69,6 +69,8 @@ const tesiCollection = defineCollection({
     slug: z.string(),
     status: z.enum(['placeholder', 'draft', 'published']).default('placeholder'),
     macroArea: z.string().optional(),
+    description: z.string().optional(),
+    pdfFile: z.string().optional(),
     lastUpdated: z.string()
   })
 });

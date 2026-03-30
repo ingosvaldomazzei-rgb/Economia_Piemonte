@@ -1,0 +1,104 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import categorie from '../../data/categorie.json';
+
+export async function getStaticPaths() {
+  const allTesi = await getCollection('tesi');
+  return allTesi
+    .filter(t => t.data.status !== 'placeholder')
+    .map(tesi => ({
+      params: { slug: tesi.data.slug },
+      props: { tesi }
+    }));
+}
+
+const { tesi } = Astro.props;
+const { Content } = await render(tesi);
+
+const macroArea = categorie.find(c => c.id === tesi.data.macroArea);
+
+function formatDate(iso: string) {
+  try {
+    return new Date(iso).toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' });
+  } catch { return iso; }
+}
+---
+
+<BaseLayout title={`${tesi.data.title} - Tesi ORA!`}>
+  <Breadcrumb items={[
+    { label: 'Tesi ORA!', href: '/tesi/' },
+    { label: tesi.data.title }
+  ]} />
+
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <!-- Header -->
+    <div class="mb-8">
+      <div class="flex items-center gap-3 mb-3">
+        {macroArea && (
+          <span class="text-xs font-semibold px-2.5 py-1 rounded-full" style={`background:${macroArea.coloreBg}; color:${macroArea.colore}`}>
+            {macroArea.nome}
+          </span>
+        )}
+        {tesi.data.status === 'draft' && (
+          <span class="text-xs font-semibold px-2.5 py-1 rounded-full bg-yellow-100 text-yellow-800">
+            Bozza
+          </span>
+        )}
+        <time class="text-xs text-gray-400">Aggiornato: {formatDate(tesi.data.lastUpdated)}</time>
+      </div>
+
+      <h1 class="text-3xl font-bold text-gray-900 mb-4">{tesi.data.title}</h1>
+
+      {tesi.data.description && (
+        <div class="bg-amber-50 border-l-4 border-amber-400 p-4 rounded-r-lg mb-6">
+          <p class="text-sm font-medium text-amber-900 mb-1">Sintesi</p>
+          <p class="text-sm text-amber-800 leading-relaxed">{tesi.data.description}</p>
+        </div>
+      )}
+
+      {tesi.data.pdfFile && (
+        <a href={`/tesi/${tesi.data.pdfFile}`} target="_blank" rel="noopener"
+           class="inline-flex items-center gap-2 text-sm bg-primary-600 text-white px-4 py-2 rounded-lg hover:bg-primary-700 transition-colors">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+          </svg>
+          Scarica PDF
+        </a>
+      )}
+    </div>
+
+    <!-- Contenuto della tesi -->
+    <article class="prose prose-sm sm:prose max-w-none
+      prose-headings:text-gray-900 prose-headings:font-bold
+      prose-h2:text-xl prose-h2:mt-8 prose-h2:mb-4 prose-h2:border-b prose-h2:border-gray-200 prose-h2:pb-2
+      prose-h3:text-lg prose-h3:mt-6 prose-h3:mb-3
+      prose-p:text-gray-700 prose-p:leading-relaxed
+      prose-li:text-gray-700
+      prose-a:text-primary-600 prose-a:no-underline hover:prose-a:underline
+      prose-strong:text-gray-900
+      prose-blockquote:border-primary-300 prose-blockquote:bg-primary-50/50 prose-blockquote:rounded-r-lg prose-blockquote:py-1">
+      <Content />
+    </article>
+
+    <!-- Footer navigazione -->
+    <div class="mt-12 pt-6 border-t border-gray-200 flex items-center justify-between">
+      <a href="/tesi/" class="inline-flex items-center gap-2 text-sm text-gray-600 hover:text-primary-600">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+        </svg>
+        Tutte le Tesi
+      </a>
+      {tesi.data.pdfFile && (
+        <a href={`/tesi/${tesi.data.pdfFile}`} target="_blank" rel="noopener"
+           class="inline-flex items-center gap-2 text-sm text-gray-600 hover:text-primary-600">
+          Scarica PDF
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3" />
+          </svg>
+        </a>
+      )}
+    </div>
+  </div>
+</BaseLayout>
