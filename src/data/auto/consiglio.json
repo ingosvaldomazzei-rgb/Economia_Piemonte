@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-03-30T19:09:19.998265+00:00",
+  "ultimo_aggiornamento": "2026-03-31T02:53:42.030571+00:00",
   "sedute": [
     {
       "id": "2438f195f152",
@@ -149,6 +149,16 @@
       "data": "2025-12-18T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=072&data_seduta=18-12-2025",
       "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=88970&nome_file=Sintesi%20n.%2072_18dicembre2025.pdf&tipo=sintesi",
+      "sintesi_testo": ""
+    },
+    {
+      "id": "4b8e7fa2a460",
+      "tipo": "seduta",
+      "numero": "071",
+      "titolo": "Seduta n. 071 del 17/12/2025",
+      "data": "2025-12-17T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=071&data_seduta=17-12-2025",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=88969&nome_file=Sintesi%20n.%2071_17dicembre2025.pdf&tipo=sintesi",
       "sintesi_testo": ""
     }
   ],
@@ -1957,7 +1967,7 @@
     }
   ],
   "statistiche": {
-    "totale_sedute": 15,
+    "totale_sedute": 16,
     "totale_interrogazioni": 199,
     "totale_interpellanze": 1,
     "totale_mozioni": 9,

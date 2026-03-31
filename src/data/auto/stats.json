@@ -1,18 +1,18 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 22,
+    "regione": 23,
     "comune_torino": 67,
     "torinoclick": 62,
-    "quotidiano_piemontese": 49
+    "quotidiano_piemontese": 48
   },
   "temi_attivi": [
     {
-      "tema": "cultura-beni-culturali",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 20
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
+      "tema": "cultura-beni-culturali",
       "conteggio": 20
     },
     {

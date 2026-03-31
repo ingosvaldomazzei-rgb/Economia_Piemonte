@@ -1,4 +1,166 @@
 {
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "3e48d0484d39",
+      "titolo": "Le dimissioni da assessore di Elena Chiorino",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dimissioni-assessore-elena-chiorino",
+      "data": "2026-03-30T20:59:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9e96ba49e0f6",
+      "titolo": "La cooperazione internazionale parte dai Comuni. Il Sindaco alla missione istituzionale in Kenya del Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "link": "https://www.torinoclick.it/relazioniinternazionali/la-cooperazione-internazionale-parte-dai-comuni-il-sindaco-alla-missione-istituzionale-in-kenya-del-ministero-degli-affari-esteri-e-della-cooperazione-internazionale/",
+      "data": "2026-03-26T17:55:03+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "ad6be72d454a",
+      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
+      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
+      "data": "2026-03-25T14:58:13+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "295b4c32d297",
+      "titolo": "Peste suina: Novara e Vercelli tornano in zona indenne con parte di Alessandria e Asti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-novara-vercelli-tornano-zona-indenne-parte-alessandria-asti",
+      "data": "2026-03-25T11:55:15+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4eae4c0b5a19",
+      "titolo": "Referendum costituzionale, 63,88% l’affluenza finale a Torino",
+      "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-finale/",
+      "data": "2026-03-23T15:27:41+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "803c6111eb5d",
+      "titolo": "Referendum Costituzionale, affluenza finale alle ore 15",
+      "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-finale-alle-ore-15",
+      "data": "2026-03-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d7f217ba0c5a",
+      "titolo": "Referendum, l’affluenza alle ore 23",
+      "link": "https://www.torinoclick.it/incomune/referendum-laffluenza-alle-ore-23/",
+      "data": "2026-03-22T22:00:39+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "7850a869068b",
+      "titolo": "Referendum, l’affluenza alle ore 19",
+      "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-laffluenza-alle-ore-19/",
+      "data": "2026-03-22T18:48:17+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "582822a45ded",
+      "titolo": "Referendum Costituzionale, affluenza alle ore 12",
+      "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-alle-ore-12",
+      "data": "2026-03-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7b05d5a8a08f",
+      "titolo": "Referendum Costituzionale, affluenza alle ore 19",
+      "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-alle-ore-19",
+      "data": "2026-03-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "686c2d8b148c",
+      "titolo": "Referendum, l’affluenza alle ore 23",
+      "link": "https://www.comune.torino.it/novita/comunicati/referendum-laffluenza-alle-ore-23",
+      "data": "2026-03-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f0283703afa3",
+      "titolo": "Referendum Costituzionale, affluenza alle ore 12",
+      "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-alle-ore-12/",
+      "data": "2026-03-22T11:40:49+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "60da1e092469",
+      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
+      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
+      "data": "2026-03-20T16:03:01+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "7974f3faca32",
+      "titolo": "Servizio Civile Universale 2026: 492 opportunità a Torino nei 48 progetti della Città",
+      "link": "https://www.torinoclick.it/incomune/servizio-civile-universale-2026-492-opportunita-a-torino-nei-48-progetti-della-citta/",
+      "data": "2026-03-19T14:42:58+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "6b354d940f54",
+      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-03-18T13:53:21+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bd57249923b3",
+      "titolo": "Torino tra i Comuni “Plastic Free 2026”",
+      "link": "https://www.torinoclick.it/economia/torino-tra-i-comuni-plastic-free-2026/",
+      "data": "2026-03-14T16:14:00+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "76e79d438316",
+      "titolo": "Maltempo in Piemonte nel weekend: allerta gialla per neve e valanghe",
+      "link": "https://www.quotidianopiemontese.it/2026/03/13/allerta-meteo-piemonte-neve-piogge-valanghe/",
+      "data": "2026-03-13T12:56:55+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "080ff2eda1d5",
+      "titolo": "Colori, segnaletica intuitiva e spazi per le famiglie: cambia il volto dell’Anagrafe Centrale",
+      "link": "https://www.torinoclick.it/incomune/lanagrafe-di-torino-cambia-volto-nuovo-sistema-di-orientamento-e-informazione-inclusiva-con-spazi-a-misura-di-famiglia-al-lavoro-una-task-force-per-il-rinnovo-delle-carte-di-identita-carta/",
+      "data": "2026-03-13T10:56:49+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "cbd5024a7227",
+      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
+      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
+      "data": "2026-03-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0de8b5635256",
+      "titolo": "Gli scacchi ti fanno ridere, piangere, emozionare: la nuova campagna di FSI anche a Torino",
+      "link": "https://www.quotidianopiemontese.it/2026/03/11/scacchi-italia-ridere-emozionare-campagna/",
+      "data": "2026-03-11T20:47:22+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
   "sanita-regionale": [
     {
       "id": "d1d6f9f50bed",
@@ -735,168 +897,6 @@
       "data": "2026-03-12T18:02:24+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
-    }
-  ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "9e96ba49e0f6",
-      "titolo": "La cooperazione internazionale parte dai Comuni. Il Sindaco alla missione istituzionale in Kenya del Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/la-cooperazione-internazionale-parte-dai-comuni-il-sindaco-alla-missione-istituzionale-in-kenya-del-ministero-degli-affari-esteri-e-della-cooperazione-internazionale/",
-      "data": "2026-03-26T17:55:03+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "ad6be72d454a",
-      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
-      "data": "2026-03-25T14:58:13+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "295b4c32d297",
-      "titolo": "Peste suina: Novara e Vercelli tornano in zona indenne con parte di Alessandria e Asti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-novara-vercelli-tornano-zona-indenne-parte-alessandria-asti",
-      "data": "2026-03-25T11:55:15+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4eae4c0b5a19",
-      "titolo": "Referendum costituzionale, 63,88% l’affluenza finale a Torino",
-      "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-finale/",
-      "data": "2026-03-23T15:27:41+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "803c6111eb5d",
-      "titolo": "Referendum Costituzionale, affluenza finale alle ore 15",
-      "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-finale-alle-ore-15",
-      "data": "2026-03-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d7f217ba0c5a",
-      "titolo": "Referendum, l’affluenza alle ore 23",
-      "link": "https://www.torinoclick.it/incomune/referendum-laffluenza-alle-ore-23/",
-      "data": "2026-03-22T22:00:39+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "7850a869068b",
-      "titolo": "Referendum, l’affluenza alle ore 19",
-      "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-laffluenza-alle-ore-19/",
-      "data": "2026-03-22T18:48:17+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "582822a45ded",
-      "titolo": "Referendum Costituzionale, affluenza alle ore 12",
-      "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-alle-ore-12",
-      "data": "2026-03-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7b05d5a8a08f",
-      "titolo": "Referendum Costituzionale, affluenza alle ore 19",
-      "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-alle-ore-19",
-      "data": "2026-03-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "686c2d8b148c",
-      "titolo": "Referendum, l’affluenza alle ore 23",
-      "link": "https://www.comune.torino.it/novita/comunicati/referendum-laffluenza-alle-ore-23",
-      "data": "2026-03-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f0283703afa3",
-      "titolo": "Referendum Costituzionale, affluenza alle ore 12",
-      "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-alle-ore-12/",
-      "data": "2026-03-22T11:40:49+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "60da1e092469",
-      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
-      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
-      "data": "2026-03-20T16:03:01+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "7974f3faca32",
-      "titolo": "Servizio Civile Universale 2026: 492 opportunità a Torino nei 48 progetti della Città",
-      "link": "https://www.torinoclick.it/incomune/servizio-civile-universale-2026-492-opportunita-a-torino-nei-48-progetti-della-citta/",
-      "data": "2026-03-19T14:42:58+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "6b354d940f54",
-      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-      "data": "2026-03-18T13:53:21+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bd57249923b3",
-      "titolo": "Torino tra i Comuni “Plastic Free 2026”",
-      "link": "https://www.torinoclick.it/economia/torino-tra-i-comuni-plastic-free-2026/",
-      "data": "2026-03-14T16:14:00+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "76e79d438316",
-      "titolo": "Maltempo in Piemonte nel weekend: allerta gialla per neve e valanghe",
-      "link": "https://www.quotidianopiemontese.it/2026/03/13/allerta-meteo-piemonte-neve-piogge-valanghe/",
-      "data": "2026-03-13T12:56:55+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "080ff2eda1d5",
-      "titolo": "Colori, segnaletica intuitiva e spazi per le famiglie: cambia il volto dell’Anagrafe Centrale",
-      "link": "https://www.torinoclick.it/incomune/lanagrafe-di-torino-cambia-volto-nuovo-sistema-di-orientamento-e-informazione-inclusiva-con-spazi-a-misura-di-famiglia-al-lavoro-una-task-force-per-il-rinnovo-delle-carte-di-identita-carta/",
-      "data": "2026-03-13T10:56:49+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "cbd5024a7227",
-      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
-      "data": "2026-03-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0de8b5635256",
-      "titolo": "Gli scacchi ti fanno ridere, piangere, emozionare: la nuova campagna di FSI anche a Torino",
-      "link": "https://www.quotidianopiemontese.it/2026/03/11/scacchi-italia-ridere-emozionare-campagna/",
-      "data": "2026-03-11T20:47:22+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "8a41b639dd88",
-      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-      "link": "https://www.torinoclick.it/societa/stampe-latelier-di-comunita-laboratorio-sociale-per-larte-e-limprenditoria-sostenibile/",
-      "data": "2026-03-11T18:17:52+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
     }
   ],
   "turismo": [

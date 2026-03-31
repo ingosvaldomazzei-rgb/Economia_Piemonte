@@ -1,5 +1,15 @@
 [
   {
+    "id": "3e48d0484d39",
+    "titolo": "Le dimissioni da assessore di Elena Chiorino",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dimissioni-assessore-elena-chiorino",
+    "descrizione": "Elena Chiorino ha rassegnato questa sera le sue «dimissioni irrevocabili» da assessore della Giunta regionale del Piemonte. Dopo averle comunicate al presidente Alberto Cirio, Chiorino ha diffuso una nota nella quale parla di «una…",
+    "data": "2026-03-30T20:59:58+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "d1d6f9f50bed",
     "titolo": "Il punto sui bilanci 2026 delle aziende sanitarie piemontesi",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/punto-sui-bilanci-2026-delle-aziende-sanitarie-piemontesi",
@@ -1988,15 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "3b2f8e9514ee",
-    "titolo": "Con Wizz Air da Torino 8 rotte e un milione di posti disponibili nel 2026",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/con-wizz-air-da-torino-8-rotte-e-un-milione-di-posti-disponibili-nel-2026/",
-    "descrizione": "Il network della stagione estiva da Torino oggi conta 8 rotte totali verso 6 Paesi L'articolo Con Wizz Air da Torino 8 rotte e un milione di posti disponibili nel 2026 proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T16:26:41+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
   }
 ]
