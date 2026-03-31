@@ -50,6 +50,56 @@
     "colore": "#dc2626"
   },
   {
+    "id": "d57aec91d2d6",
+    "titolo": "Il centro pedonale si allarga: dopo via Roma tocca a via Viotti. Reale Immobili dona alla Città i progetti per la riqualificazione",
+    "link": "https://www.comune.torino.it/novita/comunicati/centro-pedonale-si-allarga-dopo-via-roma-tocca-via-viotti-reale-immobili-dona",
+    "descrizione": "L’Amministrazione Comunale prosegue con un nuovo intervento di valorizzazione dello spazio pubblico nel centro storico.",
+    "data": "2026-03-31T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "581042620384",
+    "titolo": "Inclusione sociale, Torino rafforza accoglienza e sostegno all’abitare: riaperti i bandi per la coprogettazione",
+    "link": "https://www.comune.torino.it/novita/comunicati/inclusione-sociale-torino-rafforza-accoglienza-sostegno-allabitare-riaperti",
+    "descrizione": "La Città di Torino rafforza il proprio impegno nel contrasto alla povertà abitativa e alla marginalità estrema.",
+    "data": "2026-03-31T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e3774ae495eb",
+    "titolo": "Mobilità autonoma, a Torino si chiude la sperimentazione AuToMove: oltre 1100 chilometri percorsi e 450 corse",
+    "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-torino-si-chiude-sperimentazione-automove-oltre-1100",
+    "descrizione": "Sono i numeri che segnano oggi la conclusione della sperimentazione della navetta autonoma AuToMove a Torino nell’ambito del “Living Lab ToMove”.",
+    "data": "2026-03-31T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ac562704b122",
+    "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
+    "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
+    "descrizione": "Il progetto Abbiamo un mondo in comune del servizio Cooperazione e relazioni internazionali della Città candida n. 4 posizioni per svolgere il Servizio Civile",
+    "data": "2026-03-31T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8bd02fe49c05",
+    "titolo": "Aperte le iscrizioni per corso di formazione Assistente Familiare (200 ore) per disoccupati - profilati GOL 102-103-104",
+    "link": "https://www.comune.torino.it/novita/avvisi/aperte-iscrizioni-per-corso-formazione-assistente-familiare-200-ore-per",
+    "descrizione": "Il corso per Assistente Familiare prepara a prendersi cura di una persona nella sua casa.",
+    "data": "2026-03-31T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "ce097a975ddb",
     "titolo": "Tpl su gomma, approvato protocollo per la tutela dei lavoratori nelle gare",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tpl-gomma-approvato-protocollo-per-tutela-dei-lavoratori-nelle-gare",
@@ -1948,55 +1998,5 @@
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
-  },
-  {
-    "id": "0de8b5635256",
-    "titolo": "Gli scacchi ti fanno ridere, piangere, emozionare: la nuova campagna di FSI anche a Torino",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/scacchi-italia-ridere-emozionare-campagna/",
-    "descrizione": "La nuova campagna di comunicazione che promuove il gioco degli scacchi e acclama la crescita dell'interesse per questo sport accessibile L'articolo Gli scacchi ti fanno ridere, piangere, emozionare: la nuova campagna di FSI anche a Torino proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T20:47:22+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "c93f0a59deac",
-    "titolo": "“In between places you can find me”: all’Accademia Albertina si dialoga con arte e natura",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/mostra-pav-torino-in-between-places-you-can-find-me/",
-    "descrizione": "Dal 23 aprile la mostra dove studenti e giovani artisti sperimentano spazi dell'arte e dimensioni non umane L'articolo “In between places you can find me”: all’Accademia Albertina si dialoga con arte e natura proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T19:42:24+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "afa957b017a5",
-    "titolo": "Maxi rissa in piazza Sofia a Torino: volano sassi, poi la fuga",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/rissa-piazza-sofia-torino-sassi-feriti/",
-    "descrizione": "Tre feriti, di cui uno trasportato all’ospedale San Giovanni Bosco L'articolo Maxi rissa in piazza Sofia a Torino: volano sassi, poi la fuga proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T19:15:52+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "b8ebc1741e23",
-    "titolo": "Milano-Torino, 150 anni della corsa ciclistica più antica al mondo: al via le celebrazioni",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/150-anni-milano-torino-corsa-ciclistica-antica/",
-    "descrizione": "La prima edizione organizzata il 25 maggio 1876, vivrà la sua rievocazione sabato 14 marzo con una corsa in partenza da Magenta L'articolo Milano-Torino, 150 anni della corsa ciclistica più antica al mondo: al via le celebrazioni proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T18:48:34+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "8a41b639dd88",
-    "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-    "link": "https://www.torinoclick.it/societa/stampe-latelier-di-comunita-laboratorio-sociale-per-larte-e-limprenditoria-sostenibile/",
-    "descrizione": "Una vetrina per le imprese sociali che sostengono i percorsi formativi e gli inserimenti occupazionali. Si tratta di Stampè – Galleria in Circolo, l’Atelier di Comunità inaugurato oggi in via Stampatori 5. A tagliare il nastro sono stati il sindaco della Città di Torino Stefano Lo Russo e l’assessore alle Politiche sociali Jacopo Rosatelli con il presidente della Fondazione Compagnia di San Paolo Marco Gilli, la presidente di Stampatori 5 Maria Antonietta Paganelli, il vicepresidente di Arci Tor",
-    "data": "2026-03-11T18:17:52+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
   }
 ]
