@@ -1,9 +1,69 @@
 [
   {
+    "id": "f4c2d160346f",
+    "titolo": "Inizia la fase operativa per lo stabilimento di Silicon Box a Novara",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inizia-fase-operativa-per-stabilimento-silicon-box-novara",
+    "descrizione": "La Regione Piemonte ha accolto con soddisfazione la firma apposta a Roma da Ministero delle Imprese e del Made in Italy, Invitalia e Silicon Box sull’accordo di sviluppo che fa entrare nel vivo l’investimento della multinazionale di Singapore a Novara per…",
+    "data": "2026-03-31T15:07:22+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "9e33c2cb6e81",
+    "titolo": "Arriva Star Plus: a Torino debutta la mobilità notturna a chiamata",
+    "link": "https://www.comune.torino.it/novita/comunicati/arriva-star-plus-torino-debutta-mobilita-notturna-chiamata",
+    "descrizione": "Torino si conferma capofila nella sperimentazione della mobilità del futuro.",
+    "data": "2026-03-31T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a679cc76270c",
+    "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
+    "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
+    "descrizione": "Il progetto Abbiamo un mondo in comune del servizio Cooperazione e relazioni internazionali della Città candida n. 4 posizioni per svolgere il Servizio Civile",
+    "data": "2026-03-31T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bef0c22e23c9",
+    "titolo": "Concerto di TAME IMPALA (12 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+    "link": "https://www.comune.torino.it/novita/notizie/concerto-tame-impala-12-aprile-2026-convocazione-per-assegnazione-posteggi",
+    "descrizione": "Convocazione per GIOVEDI' 09 APRILE 2026 ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali",
+    "data": "2026-03-31T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "738e92843ded",
+    "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa religiosa di Santa Rita",
+    "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della",
+    "descrizione": "Termini di presentazione delle istanze : 1°aprile - 30 aprile 2026, tramite il portale Impresainungiorno.",
+    "data": "2026-03-31T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ce097a975ddb",
+    "titolo": "Tpl su gomma, approvato protocollo per la tutela dei lavoratori nelle gare",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tpl-gomma-approvato-protocollo-per-tutela-dei-lavoratori-nelle-gare",
+    "descrizione": "La Regione Piemonte approva il protocollo d’intesa che tutela il personale impegnato nei servizi di trasporto pubblico locale su gomma, dopo un confronto con l’Agenzia della Mobilità Piemontese e con le principali organizzazioni sindacali del settore. La Giunta regionale, su proposta dell’…",
+    "data": "2026-03-31T11:02:12+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "3e48d0484d39",
     "titolo": "Le dimissioni da assessore di Elena Chiorino",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dimissioni-assessore-elena-chiorino",
-    "descrizione": "Elena Chiorino ha rassegnato questa sera le sue «dimissioni irrevocabili» da assessore della Giunta regionale del Piemonte. Dopo averle comunicate al presidente Alberto Cirio, Chiorino ha diffuso una nota nella quale parla di «una…",
+    "descrizione": "Elena Chiorino ha rassegnato la sera del 30 marzo le sue «dimissioni irrevocabili» da assessore della Giunta regionale del Piemonte. Dopo averle comunicate al presidente Alberto Cirio, Chiorino ha diffuso una nota nella…",
     "data": "2026-03-30T20:59:58+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
@@ -54,6 +114,16 @@
     "titolo": "Mobilità autonoma: il futuro si disegna a Torino. Una giornata per toccare con mano l’innovazione",
     "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-futuro-si-disegna-torino-una-giornata-per-toccare-mano",
     "descrizione": "Una navetta senza conducente che si muove tra gli spazi urbani, dialoga con le infrastrutture e trasporta passeggeri in sicurezza.",
+    "data": "2026-03-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "93a8e30409a6",
+    "titolo": "Nuovi addensamenti commerciali - Piano Regolatore Generale",
+    "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
+    "descrizione": "Avviso adozione nuovo Piano Regolatore Generale e nuovi Addensamenti Commerciali",
     "data": "2026-03-30T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1928,75 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "7037d72111c4",
-    "titolo": "Accoltellamento a Pinerolo: l’aggressore colpisce un uomo alla nuca e fugge",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/accoltellamento-a-pinerolo-laggressore-colpisce-un-uomo-alla-nuca-e-fugge/",
-    "descrizione": "L'uomo ferito alla nuca è stato trasportato in ospedale, non è grave L'articolo Accoltellamento a Pinerolo: l’aggressore colpisce un uomo alla nuca e fugge proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T18:02:46+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "b822fbd8792b",
-    "titolo": "Partita la firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/partita-firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-    "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di collaborazione, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione, hanno iniziato ad essere sottoscritti con gli 805 Comuni…",
-    "data": "2026-03-11T17:53:21+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "da872e4b1a03",
-    "titolo": "Accuse e difese al processo per i lavori vicino al ghiacciaio del Monte Rosa",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/processo-lavori-ghiacciaio-macugnaga-ex-sindaco/",
-    "descrizione": "L'inchiesta risale al 2023, quando furono intercettati lavori in corso non dichiarati sul ghiacciaio L'articolo Accuse e difese al processo per i lavori vicino al ghiacciaio del Monte Rosa proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T17:41:17+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "90e1260f9570",
-    "titolo": "Torino ricorda Gipo Farassino con una targa nella casa di via Cuneo",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/targa-gipo-farassino-torino-via-cuneo/",
-    "descrizione": "Noto anche con lo pseudonimo di Tony D'Angelo, il cantautore è stato interprete e 'custode' della lingua piemontese L'articolo Torino ricorda Gipo Farassino con una targa nella casa di via Cuneo proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T17:15:29+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "82e0e70069c5",
-    "titolo": "Nell’area dell’ex fonderia Roz un giardino e un nuovo edificio residenziale",
-    "link": "https://www.torinoclick.it/societa/nellarea-dellex-fonderia-roz-un-giardino-e-un-nuovo-edificio-residenziale/",
-    "descrizione": "La Giunta ha approvato la delibera presentata dall’assessore all’Urbanistica Paolo Mazzoleni che approva il progetto di riqualificazione dell’area dell’ex Fonderia Roz, compresa tra via Bagnasco, corso Lione, via Spalato e piazza Marmolada, nella Circoscrizione 3. L’intervento prevede una trasformazione dell’area dismessa con l’inserimento di nuove funzioni residenziali e la valorizzazione delle superfici a uso pubblico e del verde.",
-    "data": "2026-03-11T16:40:04+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "b2c014574a27",
-    "titolo": "Nell’area dell’ex fonderia Roz un giardino e un nuovo edificio residenziale",
-    "link": "https://www.torinoclick.it/territorio/nellarea-dellex-fonderia-roz-un-giardino-e-un-nuovo-edificio-residenziale/",
-    "descrizione": "La Giunta ha approvato la delibera presentata dall’assessore all’Urbanistica Paolo Mazzoleni che approva il progetto di riqualificazione dell’area dell’ex Fonderia Roz, compresa tra via Bagnasco, corso Lione, via Spalato e piazza Marmolada, nella Circoscrizione 3. L’intervento prevede una trasformazione dell’area dismessa con l’inserimento di nuove funzioni residenziali e la valorizzazione delle superfici a uso pubblico e del verde.",
-    "data": "2026-03-11T16:40:04+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "dfa30cc6a373",
-    "titolo": "Torino-Lione: svelata la prima fresa per lo scavo del tunnel di base in Italia",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-svelata-prima-fresa-per-scavo-tunnel-base-italia",
-    "descrizione": "Consegna ufficiale della prima delle due maxi frese destinate al versante italiano del tunnel di base del Moncenisio, cuore della futura linea ferroviaria Torino-Lione. La cerimonia si è svolta nello stabilimento Herrenknecht in Germania, dove la fresa è stata costruita dal…",
-    "data": "2026-03-11T16:32:41+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

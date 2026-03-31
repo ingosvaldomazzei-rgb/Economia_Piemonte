@@ -2,9 +2,9 @@
   "totale_notizie": 200,
   "notizie_per_fonte": {
     "regione": 23,
-    "comune_torino": 67,
-    "torinoclick": 62,
-    "quotidiano_piemontese": 48
+    "comune_torino": 72,
+    "torinoclick": 60,
+    "quotidiano_piemontese": 45
   },
   "temi_attivi": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "tema": "lavoro-occupazione",
-      "conteggio": 13
+      "conteggio": 14
     },
     {
       "tema": "sport",
@@ -28,19 +28,19 @@
       "conteggio": 12
     },
     {
-      "tema": "sanita-regionale",
-      "conteggio": 9
+      "tema": "giovani",
+      "conteggio": 10
     },
     {
-      "tema": "giovani",
+      "tema": "agricoltura",
       "conteggio": 9
     },
     {
       "tema": "pianificazione-territoriale",
-      "conteggio": 8
+      "conteggio": 9
     },
     {
-      "tema": "edilizia-opere-pubbliche",
+      "tema": "sanita-regionale",
       "conteggio": 8
     },
     {
