@@ -1,4 +1,62 @@
 {
+  "sociale-welfare": [
+    {
+      "id": "0f56183d1b70",
+      "titolo": "Inclusione e lingua italiana, la Città di Torino rinnova l’accordo con i CPIA per il triennio 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/inclusione-lingua-italiana-citta-torino-rinnova-laccordo-cpia-per-triennio-2026",
+      "data": "2026-04-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "581042620384",
+      "titolo": "Inclusione sociale, Torino rafforza accoglienza e sostegno all’abitare: riaperti i bandi per la coprogettazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/inclusione-sociale-torino-rafforza-accoglienza-sostegno-allabitare-riaperti",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5081aaea336d",
+      "titolo": "Un pomeriggio per imparare, condividere e fare la differenza",
+      "link": "https://www.torinoclick.it/territorio/un-pomeriggio-per-imparare-condividere-e-fare-la-differenza/",
+      "data": "2026-03-26T12:31:29+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "86a6b4150f14",
+      "titolo": "Fondo Sociale 2026: sostegno alle famiglie delle case popolari",
+      "link": "https://www.comune.torino.it/novita/avvisi/fondo-sociale-2026-sostegno-alle-famiglie-delle-case-popolari",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6b02065de5ee",
+      "titolo": "Mobilità sostenibile e inclusione: al via il progetto “Pedali Sociali” nelle case ATC",
+      "link": "https://www.torinoclick.it/territorio/mobilita-sostenibile-e-inclusione-al-via-il-progetto-pedali-sociali-nelle-case-atc/",
+      "data": "2026-03-19T11:24:23+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "080ff2eda1d5",
+      "titolo": "Colori, segnaletica intuitiva e spazi per le famiglie: cambia il volto dell’Anagrafe Centrale",
+      "link": "https://www.torinoclick.it/incomune/lanagrafe-di-torino-cambia-volto-nuovo-sistema-di-orientamento-e-informazione-inclusiva-con-spazi-a-misura-di-famiglia-al-lavoro-una-task-force-per-il-rinnovo-delle-carte-di-identita-carta/",
+      "data": "2026-03-13T10:56:49+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "cbd5024a7227",
+      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
+      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
+      "data": "2026-03-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "attivita-produttive": [
     {
       "id": "f4c2d160346f",
@@ -319,56 +377,6 @@
       "data": "2026-03-15T11:20:34+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    }
-  ],
-  "sociale-welfare": [
-    {
-      "id": "581042620384",
-      "titolo": "Inclusione sociale, Torino rafforza accoglienza e sostegno all’abitare: riaperti i bandi per la coprogettazione",
-      "link": "https://www.comune.torino.it/novita/comunicati/inclusione-sociale-torino-rafforza-accoglienza-sostegno-allabitare-riaperti",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5081aaea336d",
-      "titolo": "Un pomeriggio per imparare, condividere e fare la differenza",
-      "link": "https://www.torinoclick.it/territorio/un-pomeriggio-per-imparare-condividere-e-fare-la-differenza/",
-      "data": "2026-03-26T12:31:29+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "86a6b4150f14",
-      "titolo": "Fondo Sociale 2026: sostegno alle famiglie delle case popolari",
-      "link": "https://www.comune.torino.it/novita/avvisi/fondo-sociale-2026-sostegno-alle-famiglie-delle-case-popolari",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6b02065de5ee",
-      "titolo": "Mobilità sostenibile e inclusione: al via il progetto “Pedali Sociali” nelle case ATC",
-      "link": "https://www.torinoclick.it/territorio/mobilita-sostenibile-e-inclusione-al-via-il-progetto-pedali-sociali-nelle-case-atc/",
-      "data": "2026-03-19T11:24:23+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "080ff2eda1d5",
-      "titolo": "Colori, segnaletica intuitiva e spazi per le famiglie: cambia il volto dell’Anagrafe Centrale",
-      "link": "https://www.torinoclick.it/incomune/lanagrafe-di-torino-cambia-volto-nuovo-sistema-di-orientamento-e-informazione-inclusiva-con-spazi-a-misura-di-famiglia-al-lavoro-una-task-force-per-il-rinnovo-delle-carte-di-identita-carta/",
-      "data": "2026-03-13T10:56:49+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "cbd5024a7227",
-      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
-      "data": "2026-03-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "lavoro-occupazione": [

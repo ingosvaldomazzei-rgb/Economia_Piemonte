@@ -1,5 +1,35 @@
 [
   {
+    "id": "045f6889596f",
+    "titolo": "Il calendario di aprile è arrivato!",
+    "link": "https://www.comune.torino.it/novita/notizie/calendario-aprile-arrivato",
+    "descrizione": "Il tratto di Po tra il Borgo Medievale ed il ponte Isabella è la scelta di questo mese.",
+    "data": "2026-04-01T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e7d0cfac4e97",
+    "titolo": "Chiusura Magazzino REMIDA",
+    "link": "https://www.comune.torino.it/novita/notizie/chiusura-magazzino-remida",
+    "descrizione": "Chiusura del Magazzino dei materiali REMIDA.",
+    "data": "2026-04-01T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0f56183d1b70",
+    "titolo": "Inclusione e lingua italiana, la Città di Torino rinnova l’accordo con i CPIA per il triennio 2026-2028",
+    "link": "https://www.comune.torino.it/novita/comunicati/inclusione-lingua-italiana-citta-torino-rinnova-laccordo-cpia-per-triennio-2026",
+    "descrizione": "Un’iniziativa che consolida una collaborazione strategica per garantire percorsi strutturati di apprendimento della lingua italiana.",
+    "data": "2026-04-01T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f4c2d160346f",
     "titolo": "Inizia la fase operativa per lo stabilimento di Silicon Box a Novara",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inizia-fase-operativa-per-stabilimento-silicon-box-novara",
@@ -1965,36 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/12/arresto-cocaina-novi-ligure-guardia-di-finanza/",
     "descrizione": "La sostanza stupefacente, se immessa sul mercato dello spaccio al dettaglio, avrebbe potuto generare proventi per circa 90 mila euro L'articolo Un chilo di cocaina nascosto in auto: arrestata donna a Novi Ligure proviene da Quotidiano Piemontese.",
     "data": "2026-03-12T07:06:54+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "ff375a6ef51b",
-    "titolo": "Torino, droga e un arsenale in casa: arrestato un 49enne in zona Regio Parco",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/torino-droga-arsenale-arrestato-49enne-regio-parco/",
-    "descrizione": "L’operazione della polizia è partita da alcune indagini su un presunto traffico di droga nella zona L'articolo Torino, droga e un arsenale in casa: arrestato un 49enne in zona Regio Parco proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T06:55:29+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "1522728358c5",
-    "titolo": "Juventus Women, colpo in trasferta: 0-2 alla Fiorentina nella semifinale d’andata di Coppa Italia",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/juventus-women-fiorentina-0-2-coppa-italia-semifinale-andata/",
-    "descrizione": "Juventus Women grazie alle reti di Chiara Beccari nel primo tempo e di Ana Capeta nella ripresa L'articolo Juventus Women, colpo in trasferta: 0-2 alla Fiorentina nella semifinale d’andata di Coppa Italia proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T06:37:53+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "8fe3860aef4f",
-    "titolo": "Torino candida il “chilometro quadrato della carità” a Patrimonio Unesco",
-    "link": "https://www.quotidianopiemontese.it/2026/03/11/chilometro-quadrato-della-carita-torino-unesco/",
-    "descrizione": "Don Bosco, Cottolengo, Di Barolo, e molti altri coloro che concentrarono a Torino le opere di bene. La loro attività potrebbe essere riconosciuta a livello internazionale per il suo messaggio universale di carità L'articolo Torino candida il “chilometro quadrato della carità” a Patrimonio Unesco proviene da Quotidiano Piemontese.",
-    "data": "2026-03-11T21:28:16+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
