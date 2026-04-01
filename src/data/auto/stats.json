@@ -1,19 +1,19 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 80,
-    "regione": 23,
+    "regione": 24,
+    "comune_torino": 81,
     "torinoclick": 59,
-    "quotidiano_piemontese": 38
+    "quotidiano_piemontese": 36
   },
   "temi_attivi": [
     {
-      "tema": "cultura-beni-culturali",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 20
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 19
+      "tema": "cultura-beni-culturali",
+      "conteggio": 20
     },
     {
       "tema": "lavoro-occupazione",
@@ -24,10 +24,6 @@
       "conteggio": 12
     },
     {
-      "tema": "agricoltura",
-      "conteggio": 10
-    },
-    {
       "tema": "giovani",
       "conteggio": 10
     },
@@ -36,15 +32,19 @@
       "conteggio": 10
     },
     {
+      "tema": "universita-ricerca",
+      "conteggio": 9
+    },
+    {
+      "tema": "agricoltura",
+      "conteggio": 9
+    },
+    {
       "tema": "pianificazione-territoriale",
       "conteggio": 9
     },
     {
-      "tema": "fondi-europei",
-      "conteggio": 8
-    },
-    {
-      "tema": "universita-ricerca",
+      "tema": "ambiente-qualita-aria",
       "conteggio": 8
     }
   ],
