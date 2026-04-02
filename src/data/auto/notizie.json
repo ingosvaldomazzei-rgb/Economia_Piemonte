@@ -1,10 +1,50 @@
 [
   {
+    "id": "0c840b526147",
+    "titolo": "Mamre ets e Ordine degli ingegneri di Torino insieme per i giovani: accordo per la riqualificazione di uno spazio della Città",
+    "link": "https://www.comune.torino.it/novita/comunicati/mamre-ets-ordine-degli-ingegneri-torino-insieme-per-giovani-accordo-per",
+    "descrizione": "Accordo tra Fondazione MAMRE e Ordine degli Ingegneri di Torino per la riqualificazione di uno stabile di proprietà della Città da destinare ai giovani",
+    "data": "2026-04-02T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "22ad28084bb9",
+    "titolo": "Nidi d’estate, Bimbi Estate ed Estate Ragazzi: dal 13 aprile al via le iscrizioni",
+    "link": "https://www.comune.torino.it/novita/comunicati/nidi-destate-bimbi-estate-estate-ragazzi-13-aprile-al-via-iscrizioni",
+    "descrizione": "Anche per l’estate 2026 le bambine e i bambini torinesi potranno contare su un’ampia offerta di attività ricreative ed educative.",
+    "data": "2026-04-02T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f34d0db03ec2",
     "titolo": "Piemove si estende alle realtà accademiche",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-alle-realta-accademiche",
     "descrizione": "Al via la fase 2 di Piemove, la tessera voluta dalla Regione che consente agli studenti universitari under 26 di viaggiare gratis a bordo dei mezzi pubblici nei Comuni capoluogo del Piemonte. In particolare Piemove si allarga a 14 nuove realtà, tra Accademie e Istituzioni di…",
     "data": "2026-04-01T19:25:29+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "b93c7a93822e",
+    "titolo": "Piemove si estende a 14 realtà accademiche",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-14-realta-accademiche",
+    "descrizione": "Al via la fase 2 di Piemove, la tessera voluta dalla Regione che consente agli studenti universitari under26 di viaggiare gratis a bordo dei mezzi pubblici nei Comuni capoluogo del Piemonte. La novità è l'allargamento della platea dei possibili fruitori…",
+    "data": "2026-04-01T19:25:29+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "6b354d940f54",
+    "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+    "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di collaborazione, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione, hanno iniziato ad essere sottoscritti con gli 805 Comuni…",
+    "data": "2026-04-01T17:53:21+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
@@ -1280,16 +1320,6 @@
     "colore": "#2563eb"
   },
   {
-    "id": "6b354d940f54",
-    "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-    "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di collaborazione, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione, hanno iniziato ad essere sottoscritti con gli 805 Comuni…",
-    "data": "2026-03-18T13:53:21+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
     "id": "a030f17e2562",
     "titolo": "Gruppo Genitorialmente Parlando",
     "link": "https://www.comune.torino.it/novita/notizie/gruppo-genitorialmente-parlando",
@@ -1965,36 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/12/b2-spirit-piemonte-avvistamento-voli-militari/",
     "descrizione": "Facciamo il punto sul tema che sta appassionando i piemontesi e gli italiani L'articolo Quello che sappiamo sull’avvistamento del B-2 Spirit Stealth nei cieli del Piemonte proviene da Quotidiano Piemontese.",
     "data": "2026-03-12T08:56:22+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "a77e42ab566b",
-    "titolo": "A Mirafiori 400 interinali per la nuova 500 ibrida, ma 121 operai lasciano lo stabilimento",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/mirafiori-500-ibrida-interinali-uscite/",
-    "descrizione": "Al momento, su 400 interinali annunciati, circa 90 hanno ottenuto la stabilizzazione, mentre il gruppo ha deciso di non procedere oltre L'articolo A Mirafiori 400 interinali per la nuova 500 ibrida, ma 121 operai lasciano lo stabilimento proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T08:40:01+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "c7c25805a843",
-    "titolo": "Parole d’acqua, le fontane di Torino si raccontano",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/fontane-torino-storie-leggende/",
-    "descrizione": "L'intervista con Franca Rizzi Martini L'articolo Parole d’acqua, le fontane di Torino si raccontano proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T08:27:50+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "a13240cfbb96",
-    "titolo": "Cappuccino e brioche ballando col dj, la nuova moda della domenica mattina conquista Torino: locali e istituzioni si interrogano sulle regole",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/morning-club-torino-colazione-dj-set-regole/",
-    "descrizione": "Il fenomeno del morning club potrebbe rappresentare un nuovo capitolo nella trasformazione delle abitudini del divertimento urbano L'articolo Cappuccino e brioche ballando col dj, la nuova moda della domenica mattina conquista Torino: locali e istituzioni si interrogano sulle regole proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T07:43:35+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"

@@ -1,9 +1,107 @@
 {
+  "giovani": [
+    {
+      "id": "0c840b526147",
+      "titolo": "Mamre ets e Ordine degli ingegneri di Torino insieme per i giovani: accordo per la riqualificazione di uno spazio della Città",
+      "link": "https://www.comune.torino.it/novita/comunicati/mamre-ets-ordine-degli-ingegneri-torino-insieme-per-giovani-accordo-per",
+      "data": "2026-04-02T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a679cc76270c",
+      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ac562704b122",
+      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ad6be72d454a",
+      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
+      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
+      "data": "2026-03-25T14:58:13+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "ff6712745379",
+      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-cortile-della-musica-barriera-milano",
+      "data": "2026-03-25T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5ab6811e56f5",
+      "titolo": "Torino accoglie gli studenti di Nagoya. A Palazzo Civico un incontro tra cultura, giovani e amicizia internazionale",
+      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-accoglie-gli-studenti-di-nagoya-a-palazzo-civico-un-incontro-tra-cultura-giovani-e-amicizia-internazionale/",
+      "data": "2026-03-25T11:05:29+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "0d6d6e26fe1e",
+      "titolo": "Servizio Civile Universale",
+      "link": "https://www.comune.torino.it/novita/avvisi/servizio-civile-universale",
+      "data": "2026-03-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c8db75d0be8f",
+      "titolo": "Servizio Civile all’Ufficio Gestione Tariffe - Servizi Educativi",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-allufficio-gestione-tariffe-servizi-educativi",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7974f3faca32",
+      "titolo": "Servizio Civile Universale 2026: 492 opportunità a Torino nei 48 progetti della Città",
+      "link": "https://www.torinoclick.it/incomune/servizio-civile-universale-2026-492-opportunita-a-torino-nei-48-progetti-della-citta/",
+      "data": "2026-03-19T14:42:58+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "c3fa31c5f44c",
+      "titolo": "Le scuole torinesi al Festival della Felicità",
+      "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
+      "data": "2026-03-17T15:49:04+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "57bfac214d2a",
+      "titolo": "Giovani e violenza a Torino: non è un’emergenza di numeri, ma di “armi”. L’analisi del rapporto Save the Children",
+      "link": "https://www.quotidianopiemontese.it/2026/03/13/violenza-giovanile-torino-analisi/",
+      "data": "2026-03-13T10:19:55+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
   "trasporti-mobilita": [
     {
       "id": "f34d0db03ec2",
       "titolo": "Piemove si estende alle realtà accademiche",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-alle-realta-accademiche",
+      "data": "2026-04-01T19:25:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b93c7a93822e",
+      "titolo": "Piemove si estende a 14 realtà accademiche",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-14-realta-accademiche",
       "data": "2026-04-01T19:25:29+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
@@ -47,6 +145,22 @@
       "titolo": "Piemove si estende alle realtà accademiche",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-alle-realta-accademiche",
       "data": "2026-04-01T19:25:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b93c7a93822e",
+      "titolo": "Piemove si estende a 14 realtà accademiche",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-14-realta-accademiche",
+      "data": "2026-04-01T19:25:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6b354d940f54",
+      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-04-01T17:53:21+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -163,14 +277,6 @@
       "fonte_id": "torinoclick"
     },
     {
-      "id": "6b354d940f54",
-      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-      "data": "2026-03-18T13:53:21+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
       "id": "bd57249923b3",
       "titolo": "Torino tra i Comuni “Plastic Free 2026”",
       "link": "https://www.torinoclick.it/economia/torino-tra-i-comuni-plastic-free-2026/",
@@ -193,14 +299,6 @@
       "data": "2026-03-13T10:56:49+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    },
-    {
-      "id": "cbd5024a7227",
-      "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-      "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
-      "data": "2026-03-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "universita-ricerca": [
@@ -208,6 +306,14 @@
       "id": "f34d0db03ec2",
       "titolo": "Piemove si estende alle realtà accademiche",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-alle-realta-accademiche",
+      "data": "2026-04-01T19:25:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b93c7a93822e",
+      "titolo": "Piemove si estende a 14 realtà accademiche",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-14-realta-accademiche",
       "data": "2026-04-01T19:25:29+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
@@ -275,6 +381,64 @@
       "data": "2026-03-12T19:06:01+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
+    }
+  ],
+  "fondi-europei": [
+    {
+      "id": "6b354d940f54",
+      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-04-01T17:53:21+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a679cc76270c",
+      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ac562704b122",
+      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ad6be72d454a",
+      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
+      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
+      "data": "2026-03-25T14:58:13+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "4dc927d09bcf",
+      "titolo": "Confronto sulla nuova Pac 2028-2034",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/confronto-sulla-nuova-pac-2028-2034",
+      "data": "2026-03-20T17:29:38+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b1db65f58584",
+      "titolo": "Torino Jazz Festival 2026, “The sound of Surprise”. La XIV edizione, dal 25 aprile al 2 maggio",
+      "link": "https://www.torinoclick.it/cultura/torino-jazz-festival-2026-the-sound-of-surprise-la-xiv-edizione-dal-25-aprile-al-2-maggio/",
+      "data": "2026-03-19T13:23:28+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "346eccfc15a2",
+      "titolo": "Falso dentista eseguiva abusivamente la professione nel Casalese: denunciato insieme alla (vera) dentista che lo copriva",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/falso-dentista-denunciato-casalese/",
+      "data": "2026-03-12T14:38:41+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
     }
   ],
   "sociale-welfare": [
@@ -459,146 +623,6 @@
       "fonte_id": "quotidiano_piemontese"
     }
   ],
-  "fondi-europei": [
-    {
-      "id": "a679cc76270c",
-      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ac562704b122",
-      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ad6be72d454a",
-      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
-      "data": "2026-03-25T14:58:13+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "4dc927d09bcf",
-      "titolo": "Confronto sulla nuova Pac 2028-2034",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/confronto-sulla-nuova-pac-2028-2034",
-      "data": "2026-03-20T17:29:38+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b1db65f58584",
-      "titolo": "Torino Jazz Festival 2026, “The sound of Surprise”. La XIV edizione, dal 25 aprile al 2 maggio",
-      "link": "https://www.torinoclick.it/cultura/torino-jazz-festival-2026-the-sound-of-surprise-la-xiv-edizione-dal-25-aprile-al-2-maggio/",
-      "data": "2026-03-19T13:23:28+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "6b354d940f54",
-      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-      "data": "2026-03-18T13:53:21+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "346eccfc15a2",
-      "titolo": "Falso dentista eseguiva abusivamente la professione nel Casalese: denunciato insieme alla (vera) dentista che lo copriva",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/falso-dentista-denunciato-casalese/",
-      "data": "2026-03-12T14:38:41+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    }
-  ],
-  "giovani": [
-    {
-      "id": "a679cc76270c",
-      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ac562704b122",
-      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ad6be72d454a",
-      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
-      "data": "2026-03-25T14:58:13+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "ff6712745379",
-      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-cortile-della-musica-barriera-milano",
-      "data": "2026-03-25T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5ab6811e56f5",
-      "titolo": "Torino accoglie gli studenti di Nagoya. A Palazzo Civico un incontro tra cultura, giovani e amicizia internazionale",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-accoglie-gli-studenti-di-nagoya-a-palazzo-civico-un-incontro-tra-cultura-giovani-e-amicizia-internazionale/",
-      "data": "2026-03-25T11:05:29+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "0d6d6e26fe1e",
-      "titolo": "Servizio Civile Universale",
-      "link": "https://www.comune.torino.it/novita/avvisi/servizio-civile-universale",
-      "data": "2026-03-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c8db75d0be8f",
-      "titolo": "Servizio Civile all’Ufficio Gestione Tariffe - Servizi Educativi",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-allufficio-gestione-tariffe-servizi-educativi",
-      "data": "2026-03-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7974f3faca32",
-      "titolo": "Servizio Civile Universale 2026: 492 opportunità a Torino nei 48 progetti della Città",
-      "link": "https://www.torinoclick.it/incomune/servizio-civile-universale-2026-492-opportunita-a-torino-nei-48-progetti-della-citta/",
-      "data": "2026-03-19T14:42:58+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "c3fa31c5f44c",
-      "titolo": "Le scuole torinesi al Festival della Felicità",
-      "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
-      "data": "2026-03-17T15:49:04+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "57bfac214d2a",
-      "titolo": "Giovani e violenza a Torino: non è un’emergenza di numeri, ma di “armi”. L’analisi del rapporto Save the Children",
-      "link": "https://www.quotidianopiemontese.it/2026/03/13/violenza-giovanile-torino-analisi/",
-      "data": "2026-03-13T10:19:55+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    }
-  ],
   "commercio-artigianato": [
     {
       "id": "bef0c22e23c9",
@@ -753,14 +777,6 @@
       "data": "2026-03-12T10:36:04+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "a13240cfbb96",
-      "titolo": "Cappuccino e brioche ballando col dj, la nuova moda della domenica mattina conquista Torino: locali e istituzioni si interrogano sulle regole",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/morning-club-torino-colazione-dj-set-regole/",
-      "data": "2026-03-12T07:43:35+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
     }
   ],
   "sport": [
@@ -1433,14 +1449,6 @@
       "data": "2026-03-20T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a77e42ab566b",
-      "titolo": "A Mirafiori 400 interinali per la nuova 500 ibrida, ma 121 operai lasciano lo stabilimento",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/mirafiori-500-ibrida-interinali-uscite/",
-      "data": "2026-03-12T08:40:01+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
     }
   ],
   "montagna": [
