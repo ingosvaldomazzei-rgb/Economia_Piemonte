@@ -1,4 +1,30 @@
 {
+  "protezione-civile": [
+    {
+      "id": "8d864abfea66",
+      "titolo": "Alluvione aprile 2025: 679 interventi per 45,4 milioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alluvione-aprile-2025-679-interventi-per-454-milioni",
+      "data": "2026-04-02T16:56:05+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "57bfac214d2a",
+      "titolo": "Giovani e violenza a Torino: non è un’emergenza di numeri, ma di “armi”. L’analisi del rapporto Save the Children",
+      "link": "https://www.quotidianopiemontese.it/2026/03/13/violenza-giovanile-torino-analisi/",
+      "data": "2026-03-13T10:19:55+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    },
+    {
+      "id": "535a5ef5c852",
+      "titolo": "Piemonte, dal Governo altri 45 milioni di euro per i danni causati dall’alluvione di aprile 2025",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/piemonte-dal-governo-altri-45-milioni-di-euro-per-i-danni-causati-dallalluvione-di-aprile-2025/",
+      "data": "2026-03-12T16:19:54+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
   "giovani": [
     {
       "id": "0c840b526147",
@@ -909,14 +935,6 @@
       "data": "2026-03-12T13:16:28+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "a657bc0a1abb",
-      "titolo": "Sciatore inglese operato d’urgenza in Val di Susa dopo la rottura di un tumore benigno",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/sciatore-salvato-intervento-val-di-susa/",
-      "data": "2026-03-12T09:25:07+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
     }
   ],
   "pianificazione-territoriale": [
@@ -1051,6 +1069,14 @@
       "data": "2026-03-18T14:25:28+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    },
+    {
+      "id": "8270d8571b6b",
+      "titolo": "Regime di salvaguardia urbanistica",
+      "link": "https://www.comune.torino.it/novita/avvisi/regime-salvaguardia-urbanistica",
+      "data": "2026-03-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     },
     {
       "id": "e88cfda5087c",
@@ -1481,24 +1507,6 @@
       "titolo": "La mega-talpa della Torino-Lione arriva in Italia: un gigante sotto la montagna",
       "link": "https://www.quotidianopiemontese.it/2026/03/12/prima-tbm-italiana-tunnel-torino-lione/",
       "data": "2026-03-12T11:23:36+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    }
-  ],
-  "protezione-civile": [
-    {
-      "id": "57bfac214d2a",
-      "titolo": "Giovani e violenza a Torino: non è un’emergenza di numeri, ma di “armi”. L’analisi del rapporto Save the Children",
-      "link": "https://www.quotidianopiemontese.it/2026/03/13/violenza-giovanile-torino-analisi/",
-      "data": "2026-03-13T10:19:55+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "535a5ef5c852",
-      "titolo": "Piemonte, dal Governo altri 45 milioni di euro per i danni causati dall’alluvione di aprile 2025",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/piemonte-dal-governo-altri-45-milioni-di-euro-per-i-danni-causati-dallalluvione-di-aprile-2025/",
-      "data": "2026-03-12T16:19:54+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
     }
