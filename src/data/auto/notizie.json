@@ -1,5 +1,15 @@
 [
   {
+    "id": "6125cb7c47ba",
+    "titolo": "Musei aperti a Pasqua",
+    "link": "https://www.comune.torino.it/novita/notizie/musei-aperti-pasqua",
+    "descrizione": "I principali musei cittadini rimangono aperti per le festività pasquali.",
+    "data": "2026-04-03T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "8d864abfea66",
     "titolo": "Alluvione aprile 2025: 679 interventi per 45,4 milioni",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alluvione-aprile-2025-679-interventi-per-454-milioni",
@@ -1988,15 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "ee50ecb03a41",
-    "titolo": "Ragazzo di 23 anni cade dal quinto piano a Moncalieri, è grave",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/tentato-suicidio-moncalieri-23enne/",
-    "descrizione": "Non ci sono dubbi sulla volontarietà del gesto L'articolo Ragazzo di 23 anni cade dal quinto piano a Moncalieri, è grave proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T10:10:24+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
   }
 ]
