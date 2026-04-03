@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
+    "regione": 27,
     "comune_torino": 85,
-    "regione": 26,
     "torinoclick": 59,
-    "quotidiano_piemontese": 30
+    "quotidiano_piemontese": 29
   },
   "temi_attivi": [
     {
@@ -24,11 +24,15 @@
       "conteggio": 12
     },
     {
+      "tema": "universita-ricerca",
+      "conteggio": 11
+    },
+    {
       "tema": "giovani",
       "conteggio": 11
     },
     {
-      "tema": "universita-ricerca",
+      "tema": "agricoltura",
       "conteggio": 10
     },
     {
@@ -36,15 +40,11 @@
       "conteggio": 10
     },
     {
-      "tema": "agricoltura",
-      "conteggio": 9
-    },
-    {
       "tema": "pianificazione-territoriale",
       "conteggio": 9
     },
     {
-      "tema": "ambiente-qualita-aria",
+      "tema": "attivita-produttive",
       "conteggio": 8
     }
   ],

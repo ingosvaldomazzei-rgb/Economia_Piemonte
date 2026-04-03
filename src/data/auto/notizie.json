@@ -1,5 +1,35 @@
 [
   {
+    "id": "e8773137c2ed",
+    "titolo": "Parco della Salute: chiusura positiva della conferenza dei servizi",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-chiusura-positiva-della-conferenza-dei-servizi",
+    "descrizione": "Si è conclusa con parere positivo la conferenza dei servizi per la realizzazione del Parco della Salute, della Ricerca e dell’Innovazione di Torino. Il presidente della Regione …",
+    "data": "2026-04-03T18:56:23+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "a3d1222b666e",
+    "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
+    "descrizione": "La mostra “Made in Italy impresa al femminile”, organizzata dal Ministero delle Imprese e del Made in Italy in collaborazione con la Federazione dei Cavalieri del Lavoro e della Fondazione Marisa Bellisario, prosegue il suo viaggio arrivando a Torino, al Grattacielo…",
+    "data": "2026-04-03T16:26:55+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "1a566b741a8a",
+    "titolo": "È l’Asti Docg il vino piemontese dell’anno 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-docg-vino-piemontese-dellanno-2026",
+    "descrizione": "La Giunta regionale ha scelto l’Asti Docg come Vino piemontese dell’anno 2026. Sarà quindi il testimonial che accompagnerà le iniziative promozionali rivolte al grande pubblico e agli operatori, quali fiere, borse, presentazioni, manifestazioni istituzionali…",
+    "data": "2026-04-03T15:36:51+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "6125cb7c47ba",
     "titolo": "Musei aperti a Pasqua",
     "link": "https://www.comune.torino.it/novita/notizie/musei-aperti-pasqua",
@@ -1968,35 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "749cca38e06a",
-    "titolo": "A Torino il Jec Forum Italy 2027",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-jec-forum-italy-2027",
-    "descrizione": "La prossima sede del JEC Forum Italy sarà Torino: l’evento internazionale dedicato ai materiali compositi e alle loro applicazioni industriali si terrà l’8 e 9 giugno 2027 alle OGR (Officine Grandi…",
-    "data": "2026-03-12T11:59:01+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "44944c9cce2e",
-    "titolo": "La mega-talpa della Torino-Lione arriva in Italia: un gigante sotto la montagna",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/prima-tbm-italiana-tunnel-torino-lione/",
-    "descrizione": "La TBM ha una lunghezza complessiva di 235 metri e una testa di diametro di 10,16 metri L'articolo La mega-talpa della Torino-Lione arriva in Italia: un gigante sotto la montagna proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T11:23:36+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "ae9f5515273e",
-    "titolo": "Valorizzare talento e merito con la certificazione delle competenze",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/valorizzare-talento-merito-certificazione-delle-competenze",
-    "descrizione": "Avviato dalla Regione Piemonte il nuovo servizio di certificazione delle competenze, che si propone di valorizzare il talento e riconoscere il merito trasformando le esperienze maturate nel corso della vita in opportunità concrete di lavoro. Un servizio gratuito,…",
-    "data": "2026-03-12T10:36:04+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
