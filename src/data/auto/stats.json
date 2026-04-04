@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 27,
     "comune_torino": 85,
+    "regione": 27,
     "torinoclick": 59,
     "quotidiano_piemontese": 29
   },
@@ -20,15 +20,15 @@
       "conteggio": 14
     },
     {
+      "tema": "giovani",
+      "conteggio": 12
+    },
+    {
       "tema": "istruzione-formazione",
       "conteggio": 12
     },
     {
       "tema": "universita-ricerca",
-      "conteggio": 11
-    },
-    {
-      "tema": "giovani",
       "conteggio": 11
     },
     {
