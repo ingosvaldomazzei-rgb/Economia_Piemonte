@@ -1,5 +1,15 @@
 [
   {
+    "id": "2beb37c1fb89",
+    "titolo": "Buona Pasqua!",
+    "link": "https://www.comune.torino.it/novita/avvisi/buona-pasqua",
+    "descrizione": "Tanti auguri di buona Pasqua dalla Città di Torino.",
+    "data": "2026-04-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "83923956bd5b",
     "titolo": "Pagella Live 2026, nuove categorie e opportunità per i giovani talenti della musica. Al via le iscrizioni",
     "link": "https://www.comune.torino.it/novita/comunicati/pagella-live-2026-nuove-categorie-opportunita-per-giovani-talenti-della-musica",
@@ -1988,15 +1998,5 @@
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
-  },
-  {
-    "id": "cbd5024a7227",
-    "titolo": "Stampè, l’atelier di comunità laboratorio sociale per l’arte e l’imprenditoria sostenibile",
-    "link": "https://www.comune.torino.it/novita/comunicati/stampe-latelier-comunita-laboratorio-sociale-per-larte-limprenditoria",
-    "descrizione": "Una vetrina per le imprese sociali che sostengono i percorsi formativi e gli inserimenti occupazionali.",
-    "data": "2026-03-12T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
