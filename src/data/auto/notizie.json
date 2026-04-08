@@ -1,9 +1,49 @@
 [
   {
+    "id": "6b354d940f54",
+    "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+    "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di collaborazione, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione, hanno iniziato ad essere sottoscritti con gli 805 Comuni…",
+    "data": "2026-04-08T16:53:21+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "b93f4e67aa82",
     "titolo": "Nuova vita per quattro ex istituti scolastici di Torino",
     "link": "https://www.comune.torino.it/novita/comunicati/nuova-vita-per-quattro-ex-istituti-scolastici-torino",
     "descrizione": "Quattro ex scuole per l’infanzia, dismesse a causa del calo demografico, tornano a vivere con nuove funzioni sociali, educative e inclusive.",
+    "data": "2026-04-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0c0a3633da3f",
+    "titolo": "Un giardino per Rodolfo Amprino",
+    "link": "https://www.comune.torino.it/novita/comunicati/un-giardino-per-rodolfo-amprino",
+    "descrizione": "Il giardino compreso tra corso Lancia e viale Curreno verrà intitolato a ricordo di Rodolfo Amprino",
+    "data": "2026-04-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8eeb36d1033c",
+    "titolo": "Commercio al dettaglio in sede fissa - decadenza cessata attività",
+    "link": "https://www.comune.torino.it/novita/avvisi/commercio-al-dettaglio-sede-fissa-decadenza-cessata-attivita-0",
+    "descrizione": "Attività di commercio al dettaglio in sede fissa - decadenza per cessata attività",
+    "data": "2026-04-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6e5c9d6b58e2",
+    "titolo": "“Spazi che uniscono”: al via i lavori di rinnovo del manto stradale in Strada Traforo Del Pino",
+    "link": "https://www.comune.torino.it/novita/comunicati/spazi-che-uniscono-al-via-lavori-rinnovo-manto-stradale-strada-traforo-pino",
+    "descrizione": "Prenderanno il via domani, giovedì 9 aprile, i lavori di manutenzione straordinaria del manto stradale di strada Traforo del Pino.",
     "data": "2026-04-08T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -135,16 +175,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-14-realta-accademiche",
     "descrizione": "Al via la fase 2 di Piemove, la tessera voluta dalla Regione che consente agli studenti universitari under26 di viaggiare gratis a bordo dei mezzi pubblici nei Comuni capoluogo del Piemonte. La novità è l'allargamento della platea dei possibili fruitori…",
     "data": "2026-04-01T19:25:29+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "6b354d940f54",
-    "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-    "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di collaborazione, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione, hanno iniziato ad essere sottoscritti con gli 805 Comuni…",
-    "data": "2026-04-01T17:53:21+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
@@ -1968,35 +1998,5 @@
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
-  },
-  {
-    "id": "b6ef1d990141",
-    "titolo": "Torino, previsioni meteo del 13 marzo 2026",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/torino-previsioni-meteo-del-13-marzo-2026/",
-    "descrizione": "Meteo Torino 13 marzo: mattino stabile con nubi sparse, pomeriggio con aumento della copertura. Weekend con piogge e sole L'articolo Torino, previsioni meteo del 13 marzo 2026 proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T14:00:37+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "e88cfda5087c",
-    "titolo": "La demolizione di tre fabbricati porta in dote nuove aree commerciali e residenziali che rigenerano il tessuto urbano di tre quartieri",
-    "link": "https://www.torinoclick.it/territorio/la-demolizione-di-tre-fabbricati-porta-in-dote-nuove-aree-commerciali-e-residenziali-che-rigenerano-il-tessuto-urbano-di-tre-quartieri/",
-    "descrizione": "Un edificio residenziale e due fabbricati a destinazione commerciale. Progetti frutto delle tre delibere presentate dall’assessore all’Urbanistica Paolo Mazzoleni e approvate in Giunta questa settimana con l’obiettivo comune di offrire nuovi spazi e servizi a disposizione dei cittadini e rigenerare il tessuto urbano circostante.",
-    "data": "2026-03-12T13:50:57+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "db53ce4682b0",
-    "titolo": "Sul bus con una bottiglia di vetro rotta, arrestato dalla Polizia Locale e condannato per direttissima a 4 mesi",
-    "link": "https://www.torinoclick.it/sicurezza/sul-bus-con-una-bottiglia-di-vetro-rotta-arrestato-dalla-polizia-locale-e-condannato-per-direttissima-a-4-mesi/",
-    "descrizione": "Con una bottiglia di vetro rotta è salito sul bus Gtt della linea 10 creando timore nei passeggeri. Un uomo 20enne, senza fissa dimora, di origine senegalese, è stato fermato da un agente della Polizia Locale e poi condannato per direttissima a 4 mesi e 20 giorni. È successo lunedì 9 marzo nelle vicinanze di corso Grosseto.",
-    "data": "2026-03-12T13:24:57+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
   }
 ]
