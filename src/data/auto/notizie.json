@@ -1,5 +1,15 @@
 [
   {
+    "id": "b93f4e67aa82",
+    "titolo": "Nuova vita per quattro ex istituti scolastici di Torino",
+    "link": "https://www.comune.torino.it/novita/comunicati/nuova-vita-per-quattro-ex-istituti-scolastici-torino",
+    "descrizione": "Quattro ex scuole per l’infanzia, dismesse a causa del calo demografico, tornano a vivere con nuove funzioni sociali, educative e inclusive.",
+    "data": "2026-04-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f08b3c70d7d6",
     "titolo": "Vesta 2026: il click day il 21 aprile",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vesta-2026-click-day-21-aprile",
@@ -1988,15 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "a36b888f5702",
-    "titolo": "Un gruppo di antagonisti ha assaltato la sede dell’Asl di Torino, messi a soqquadro gli uffici",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/un-gruppo-di-antagonisti-ha-assaltato-la-sede-dellasl-di-torino-messi-a-soqquadro-gli-uffici/",
-    "descrizione": "Un assalto del genere era già avvenuto a novembre. La protesta contro il Cpr L'articolo Un gruppo di antagonisti ha assaltato la sede dell’Asl di Torino, messi a soqquadro gli uffici proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T13:16:28+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
   }
 ]

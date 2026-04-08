@@ -1,4 +1,110 @@
 {
+  "istruzione-formazione": [
+    {
+      "id": "b93f4e67aa82",
+      "titolo": "Nuova vita per quattro ex istituti scolastici di Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/nuova-vita-per-quattro-ex-istituti-scolastici-torino",
+      "data": "2026-04-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "50a8e14b7872",
+      "titolo": "Riqualificazione, continuità e apertura al territorio: al via una nuova gestione per la palestra della scuola primaria Manzoni",
+      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-continuita-apertura-al-territorio-al-via-una-nuova-gestione-per",
+      "data": "2026-03-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5081aaea336d",
+      "titolo": "Un pomeriggio per imparare, condividere e fare la differenza",
+      "link": "https://www.torinoclick.it/territorio/un-pomeriggio-per-imparare-condividere-e-fare-la-differenza/",
+      "data": "2026-03-26T12:31:29+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "9ea695a0170f",
+      "titolo": "Torino continua a investire sulle scuole: 260mila euro per la palestra dell’Istituto Vittorino Da Feltre",
+      "link": "https://www.torinoclick.it/territorio/torino-continua-a-investire-sulle-scuole-260mila-euro-per-la-palestra-dellistituto-vittorino-da-feltre/",
+      "data": "2026-03-24T13:59:31+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "3d4e5840e33b",
+      "titolo": "Torino continua a investire sulle scuole: 260mila euro per la palestra dell’Istituto Vittorino Da Feltre",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-continua-investire-sulle-scuole-260mila-euro-per-palestra-dellistituto",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "72f3f222bb76",
+      "titolo": "Community Driven Regeneration in Turin: Insights from the IMPATTO Project Visits",
+      "link": "https://www.comune.torino.it/novita/notizie/community-driven-regeneration-turin-insights-from-the-impatto-project-visits",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "430093233b20",
+      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
+      "link": "https://www.torinoclick.it/societa/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
+      "data": "2026-03-21T13:54:17+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "63330a2a5c41",
+      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
+      "link": "https://www.torinoclick.it/incomune/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
+      "data": "2026-03-21T13:54:17+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "c1edcdd634be",
+      "titolo": "Anna Maria Viziale ricordata in un giardino a Mirafiori",
+      "link": "https://www.comune.torino.it/novita/comunicati/anna-maria-viziale-ricordata-un-giardino-mirafiori",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c3fa31c5f44c",
+      "titolo": "Le scuole torinesi al Festival della Felicità",
+      "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
+      "data": "2026-03-17T15:49:04+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "79337cb38014",
+      "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
+      "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
+      "data": "2026-03-13T11:19:19+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "080ff2eda1d5",
+      "titolo": "Colori, segnaletica intuitiva e spazi per le famiglie: cambia il volto dell’Anagrafe Centrale",
+      "link": "https://www.torinoclick.it/incomune/lanagrafe-di-torino-cambia-volto-nuovo-sistema-di-orientamento-e-informazione-inclusiva-con-spazi-a-misura-di-famiglia-al-lavoro-una-task-force-per-il-rinnovo-delle-carte-di-identita-carta/",
+      "data": "2026-03-13T10:56:49+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "29877cadbdb8",
+      "titolo": "A Novara Confindustria organizza un incontro di orientamento per gli studenti: incontreranno le aziende del territorio",
+      "link": "https://www.quotidianopiemontese.it/2026/03/12/novara-confindustria-orientamento-studenti-aziende/",
+      "data": "2026-03-12T18:02:24+00:00",
+      "fonte": "Quotidiano Piemontese",
+      "fonte_id": "quotidiano_piemontese"
+    }
+  ],
   "giovani": [
     {
       "id": "83923956bd5b",
@@ -1121,14 +1227,6 @@
       "data": "2026-03-12T17:33:36+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "a36b888f5702",
-      "titolo": "Un gruppo di antagonisti ha assaltato la sede dell’Asl di Torino, messi a soqquadro gli uffici",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/un-gruppo-di-antagonisti-ha-assaltato-la-sede-dellasl-di-torino-messi-a-soqquadro-gli-uffici/",
-      "data": "2026-03-12T13:16:28+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
     }
   ],
   "pianificazione-territoriale": [
@@ -1279,104 +1377,6 @@
       "data": "2026-03-12T13:50:57+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    }
-  ],
-  "istruzione-formazione": [
-    {
-      "id": "50a8e14b7872",
-      "titolo": "Riqualificazione, continuità e apertura al territorio: al via una nuova gestione per la palestra della scuola primaria Manzoni",
-      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-continuita-apertura-al-territorio-al-via-una-nuova-gestione-per",
-      "data": "2026-03-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5081aaea336d",
-      "titolo": "Un pomeriggio per imparare, condividere e fare la differenza",
-      "link": "https://www.torinoclick.it/territorio/un-pomeriggio-per-imparare-condividere-e-fare-la-differenza/",
-      "data": "2026-03-26T12:31:29+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "9ea695a0170f",
-      "titolo": "Torino continua a investire sulle scuole: 260mila euro per la palestra dell’Istituto Vittorino Da Feltre",
-      "link": "https://www.torinoclick.it/territorio/torino-continua-a-investire-sulle-scuole-260mila-euro-per-la-palestra-dellistituto-vittorino-da-feltre/",
-      "data": "2026-03-24T13:59:31+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "3d4e5840e33b",
-      "titolo": "Torino continua a investire sulle scuole: 260mila euro per la palestra dell’Istituto Vittorino Da Feltre",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-continua-investire-sulle-scuole-260mila-euro-per-palestra-dellistituto",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "72f3f222bb76",
-      "titolo": "Community Driven Regeneration in Turin: Insights from the IMPATTO Project Visits",
-      "link": "https://www.comune.torino.it/novita/notizie/community-driven-regeneration-turin-insights-from-the-impatto-project-visits",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "430093233b20",
-      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
-      "link": "https://www.torinoclick.it/societa/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
-      "data": "2026-03-21T13:54:17+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "63330a2a5c41",
-      "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
-      "link": "https://www.torinoclick.it/incomune/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
-      "data": "2026-03-21T13:54:17+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "c1edcdd634be",
-      "titolo": "Anna Maria Viziale ricordata in un giardino a Mirafiori",
-      "link": "https://www.comune.torino.it/novita/comunicati/anna-maria-viziale-ricordata-un-giardino-mirafiori",
-      "data": "2026-03-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c3fa31c5f44c",
-      "titolo": "Le scuole torinesi al Festival della Felicità",
-      "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
-      "data": "2026-03-17T15:49:04+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "79337cb38014",
-      "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
-      "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
-      "data": "2026-03-13T11:19:19+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "080ff2eda1d5",
-      "titolo": "Colori, segnaletica intuitiva e spazi per le famiglie: cambia il volto dell’Anagrafe Centrale",
-      "link": "https://www.torinoclick.it/incomune/lanagrafe-di-torino-cambia-volto-nuovo-sistema-di-orientamento-e-informazione-inclusiva-con-spazi-a-misura-di-famiglia-al-lavoro-una-task-force-per-il-rinnovo-delle-carte-di-identita-carta/",
-      "data": "2026-03-13T10:56:49+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "29877cadbdb8",
-      "titolo": "A Novara Confindustria organizza un incontro di orientamento per gli studenti: incontreranno le aziende del territorio",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/novara-confindustria-orientamento-studenti-aziende/",
-      "data": "2026-03-12T18:02:24+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
     }
   ],
   "turismo": [

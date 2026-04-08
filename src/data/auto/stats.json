@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
+    "comune_torino": 87,
     "regione": 28,
-    "comune_torino": 86,
     "torinoclick": 59,
-    "quotidiano_piemontese": 27
+    "quotidiano_piemontese": 26
   },
   "temi_attivi": [
     {
@@ -20,11 +20,11 @@
       "conteggio": 14
     },
     {
-      "tema": "giovani",
-      "conteggio": 12
+      "tema": "istruzione-formazione",
+      "conteggio": 13
     },
     {
-      "tema": "istruzione-formazione",
+      "tema": "giovani",
       "conteggio": 12
     },
     {
