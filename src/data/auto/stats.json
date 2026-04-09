@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 28,
-    "comune_torino": 90,
+    "comune_torino": 91,
+    "regione": 29,
     "torinoclick": 57,
-    "quotidiano_piemontese": 25
+    "quotidiano_piemontese": 23
   },
   "temi_attivi": [
     {
@@ -32,7 +32,7 @@
       "conteggio": 11
     },
     {
-      "tema": "agricoltura",
+      "tema": "pianificazione-territoriale",
       "conteggio": 10
     },
     {
@@ -40,11 +40,11 @@
       "conteggio": 10
     },
     {
-      "tema": "pianificazione-territoriale",
+      "tema": "agricoltura",
       "conteggio": 9
     },
     {
-      "tema": "ambiente-qualita-aria",
+      "tema": "commercio-artigianato",
       "conteggio": 8
     }
   ],

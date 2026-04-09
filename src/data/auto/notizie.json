@@ -1,5 +1,25 @@
 [
   {
+    "id": "854704bf0dd4",
+    "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
+    "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
+    "descrizione": "La Città di Torino e il Comune di Settimo Torinese avviano un tavolo congiunto per valutare interventi di rigenerazione urbana.",
+    "data": "2026-04-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "5674f8377026",
+    "titolo": "Il Piemonte al Vinitaly 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
+    "descrizione": "Il Piemonte torna a proporre le sue eccellenze vitivinicole e suoi prodotti enograstronimici di qualità all'edizione 2026 di Vinitaly, a Verona Fiere da domenica 12 a mercoledì 15 aprile. Allestito per l’occasione un grande spazio di 700 m2 nel…",
+    "data": "2026-04-09T11:21:02+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "6b354d940f54",
     "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
@@ -1975,26 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/12/il-piemontese-giancarlo-devasini-e-il-piu-ricco-ditalia-superato-ferrero/",
     "descrizione": "Devasini è ora la 22esima persona più ricca del mondo L'articolo Il piemontese Giancarlo Devasini è il più ricco d’Italia, superato Ferrero proviene da Quotidiano Piemontese.",
     "data": "2026-03-12T15:10:09+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "346eccfc15a2",
-    "titolo": "Falso dentista eseguiva abusivamente la professione nel Casalese: denunciato insieme alla (vera) dentista che lo copriva",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/falso-dentista-denunciato-casalese/",
-    "descrizione": "I Carabinieri hanno fatto irruzione dopo lunghi accertamenti, e hanno sorpreso l'odontotecnico che si spacciava per dentista operare una donna L'articolo Falso dentista eseguiva abusivamente la professione nel Casalese: denunciato insieme alla (vera) dentista che lo copriva proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T14:38:41+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "e5aa9f74bde8",
-    "titolo": "Sul bus Gtt con una bottiglia di vetro rotta, panico tra i passeggeri: arrestato 20enne a Torino",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/sul-bus-gtt-con-una-bottiglia-di-vetro-rotta-panico-tra-i-passeggeri-arrestato-20enne-a-torino/",
-    "descrizione": "L'uomo ha inveito e minacciato l'agente di polizia intervenuto L'articolo Sul bus Gtt con una bottiglia di vetro rotta, panico tra i passeggeri: arrestato 20enne a Torino proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T14:04:01+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
