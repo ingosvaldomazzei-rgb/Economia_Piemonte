@@ -1,18 +1,18 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 91,
-    "regione": 29,
-    "torinoclick": 57,
-    "quotidiano_piemontese": 23
+    "regione": 30,
+    "comune_torino": 95,
+    "torinoclick": 56,
+    "quotidiano_piemontese": 19
   },
   "temi_attivi": [
     {
-      "tema": "enti-locali-piccoli-comuni",
+      "tema": "cultura-beni-culturali",
       "conteggio": 20
     },
     {
-      "tema": "cultura-beni-culturali",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 20
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "tema": "istruzione-formazione",
-      "conteggio": 13
+      "conteggio": 12
     },
     {
       "tema": "giovani",
@@ -29,15 +29,15 @@
     },
     {
       "tema": "universita-ricerca",
-      "conteggio": 11
-    },
-    {
-      "tema": "pianificazione-territoriale",
       "conteggio": 10
     },
     {
       "tema": "sport",
       "conteggio": 10
+    },
+    {
+      "tema": "pianificazione-territoriale",
+      "conteggio": 9
     },
     {
       "tema": "agricoltura",

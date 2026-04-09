@@ -1,9 +1,59 @@
 [
   {
+    "id": "6c251e485f05",
+    "titolo": "Ancora in crescita il turismo in Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ancora-crescita-turismo-piemonte",
+    "descrizione": "Continua a crescere il turismo in Piemonte. Anche il 2025 si è chiuso numeri positivi: gli arrivi hanno superato quota 6.730.000 e le presenze sono state 18.170.000. Dati che indicano un…",
+    "data": "2026-04-09T15:40:07+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "854704bf0dd4",
     "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
     "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
     "descrizione": "La Città di Torino e il Comune di Settimo Torinese avviano un tavolo congiunto per valutare interventi di rigenerazione urbana.",
+    "data": "2026-04-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "91675fefd0d5",
+    "titolo": "Modifiche alla viabilità in corso Mediterraneo per lavori sull’illuminazione pubblica",
+    "link": "https://www.comune.torino.it/novita/comunicati/modifiche-alla-viabilita-corso-mediterraneo-per-lavori-sullilluminazione",
+    "descrizione": "Per consentire l’esecuzione di un intervento di miglioramento strutturale degli impianti di illuminazione pubblica da parte di Iren.",
+    "data": "2026-04-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ef0da0a42525",
+    "titolo": "Consegna pergamena a Claudio Baglioni",
+    "link": "https://www.comune.torino.it/novita/notizie/consegna-pergamena-claudio-baglioni",
+    "descrizione": "Diretta streaming da Sala Rossa venerdì 10 aprile dalle ore 15:30",
+    "data": "2026-04-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "baa9e48ece91",
+    "titolo": "Repubblica del Perù - Elezioni presidenziali del 12 aprile 2026",
+    "link": "https://www.comune.torino.it/novita/avvisi/repubblica-peru-elezioni-presidenziali-12-aprile-2026",
+    "descrizione": "Elezioni presidenziali per la Repubblica del Perù",
+    "data": "2026-04-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6f035ed056e8",
+    "titolo": "Tentativo di truffa via SMS su pagamento TARI",
+    "link": "https://www.comune.torino.it/novita/avvisi/tentativo-truffa-via-sms-pagamento-tari",
+    "descrizione": "Segnaliamo una possibile truffa in corso tramite messaggi ingannevoli ricevuti sul telefono.",
     "data": "2026-04-09T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1945,56 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/12/rinviate-udienze-solvay-processo/",
     "descrizione": "Davanti al tribunale, il presidio del Comitato Stop Solvay: «Chiediamo da anni una bonifica del sito, che non può avvenire» L'articolo Rinviate a giugno le udienze preliminari del processo ai dirigenti Solvay ad Alessandria proviene da Quotidiano Piemontese.",
     "data": "2026-03-12T19:08:01+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "6a70aabe9eed",
-    "titolo": "Torino, l’AI Hub accelera la collaborazione tra Africa ed Europa sull’intelligenza artificiale",
-    "link": "https://www.torinoclick.it/economia/torino-lai-hub-accelera-la-collaborazione-tra-africa-ed-europa-sullintelligenza-artificiale/",
-    "descrizione": "Torino è stata oggi il palcoscenico di un importante evento internazionale dedicato all’innovazione e alla cooperazione nel campo dell’intelligenza artificiale tra Africa ed Europa. L’iniziativa, intitolata “Shaping AI Futures Across Africa and Europe”, ha riunito innovatori africani dell’AI, leader industriali italiani ed europei e rappresentanti istituzionali, con l’obiettivo di costruire nuove partnership per lo sviluppo sostenibile delle tecnologie digitali.",
-    "data": "2026-03-12T19:06:01+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "29877cadbdb8",
-    "titolo": "A Novara Confindustria organizza un incontro di orientamento per gli studenti: incontreranno le aziende del territorio",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/novara-confindustria-orientamento-studenti-aziende/",
-    "descrizione": "Oltre duemila ragazzi delle superiori ascolteranno gli interventi delle imprese e si confronteranno con gli enti formativi presenti L'articolo A Novara Confindustria organizza un incontro di orientamento per gli studenti: incontreranno le aziende del territorio proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T18:02:24+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "1f87860e2c3e",
-    "titolo": "Assalto all’Asl di Torino, Cirio e Riboldi: «Gesto grave e inaccettabile, solidarietà ai dipendenti»",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/assalto-asl-torino-cirio-riboldi/",
-    "descrizione": "Il blitz è avvenuto questa mattina, in via San Secondo. Le immagini delle videocamere di sorveglianza potrebbero permettere di identificare i responsabili L'articolo Assalto all’Asl di Torino, Cirio e Riboldi: «Gesto grave e inaccettabile, solidarietà ai dipendenti» proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T17:33:36+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "535a5ef5c852",
-    "titolo": "Piemonte, dal Governo altri 45 milioni di euro per i danni causati dall’alluvione di aprile 2025",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/piemonte-dal-governo-altri-45-milioni-di-euro-per-i-danni-causati-dallalluvione-di-aprile-2025/",
-    "descrizione": "Diventano quindi circa 90 i milioni totali assegnati al Piemonte L'articolo Piemonte, dal Governo altri 45 milioni di euro per i danni causati dall’alluvione di aprile 2025 proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T16:19:54+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "33f713732e28",
-    "titolo": "Il piemontese Giancarlo Devasini è il più ricco d’Italia, superato Ferrero",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/il-piemontese-giancarlo-devasini-e-il-piu-ricco-ditalia-superato-ferrero/",
-    "descrizione": "Devasini è ora la 22esima persona più ricca del mondo L'articolo Il piemontese Giancarlo Devasini è il più ricco d’Italia, superato Ferrero proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T15:10:09+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
