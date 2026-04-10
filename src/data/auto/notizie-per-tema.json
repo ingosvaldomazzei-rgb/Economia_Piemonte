@@ -1,4 +1,240 @@
 {
+  "commercio-artigianato": [
+    {
+      "id": "79b96f376bc9",
+      "titolo": "NABANA SHOW di Angelo Pintus (17-18 APRILE 2026), concerti di GIANNI MORANDI (19 APRILE 2026), FRAH QUINTALE (21 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/nabana-show-angelo-pintus-17-18-aprile-2026-concerti-gianni-morandi-19-aprile",
+      "data": "2026-04-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5674f8377026",
+      "titolo": "Il Piemonte al Vinitaly 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
+      "data": "2026-04-09T11:21:02+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8eeb36d1033c",
+      "titolo": "Commercio al dettaglio in sede fissa - decadenza cessata attività",
+      "link": "https://www.comune.torino.it/novita/avvisi/commercio-al-dettaglio-sede-fissa-decadenza-cessata-attivita-0",
+      "data": "2026-04-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1a566b741a8a",
+      "titolo": "È l’Asti Docg il vino piemontese dell’anno 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-docg-vino-piemontese-dellanno-2026",
+      "data": "2026-04-03T15:36:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bef0c22e23c9",
+      "titolo": "Concerto di TAME IMPALA (12 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/concerto-tame-impala-12-aprile-2026-convocazione-per-assegnazione-posteggi",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "738e92843ded",
+      "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa religiosa di Santa Rita",
+      "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4d868c7ab449",
+      "titolo": "Concerti di ACHILLE LAURO (24 MARZO 2026), GIGI D'ALESSIO (25 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/concerti-achille-lauro-24-marzo-2026-gigi-dalessio-25-marzo-2026-convocazione",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cc7e37b8bbe0",
+      "titolo": "Concerti di LUCHE' (21 MARZO 2026), OLLY (22 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/concerti-luche-21-marzo-2026-olly-22-marzo-2026-convocazione-per-assegnazione",
+      "data": "2026-03-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6f3546b5eb74",
+      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
+      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
+      "data": "2026-03-15T11:20:34+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
+  "cultura-beni-culturali": [
+    {
+      "id": "79b96f376bc9",
+      "titolo": "NABANA SHOW di Angelo Pintus (17-18 APRILE 2026), concerti di GIANNI MORANDI (19 APRILE 2026), FRAH QUINTALE (21 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/nabana-show-angelo-pintus-17-18-aprile-2026-concerti-gianni-morandi-19-aprile",
+      "data": "2026-04-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "91675fefd0d5",
+      "titolo": "Modifiche alla viabilità in corso Mediterraneo per lavori sull’illuminazione pubblica",
+      "link": "https://www.comune.torino.it/novita/comunicati/modifiche-alla-viabilita-corso-mediterraneo-per-lavori-sullilluminazione",
+      "data": "2026-04-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6125cb7c47ba",
+      "titolo": "Musei aperti a Pasqua",
+      "link": "https://www.comune.torino.it/novita/notizie/musei-aperti-pasqua",
+      "data": "2026-04-03T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7bf165093bd1",
+      "titolo": "La Regione Piemonte rilancia il genio di Alessandro Antonelli",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-rilancia-genio-alessandro-antonelli",
+      "data": "2026-03-30T11:04:26+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7b8505f9fe3d",
+      "titolo": "Un nuovo infopoint con biglietteria per le manifestazioni culturali della Città",
+      "link": "https://www.comune.torino.it/novita/comunicati/un-nuovo-infopoint-biglietteria-per-manifestazioni-culturali-della-citta",
+      "data": "2026-03-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "743f8d3eab16",
+      "titolo": "Piemonte e Liguria per la governance condivisa dei porti di Genova e Savona",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-liguria-per-governance-condivisa-dei-porti-genova-savona",
+      "data": "2026-03-26T18:43:17+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "165ed4752a14",
+      "titolo": "Domenica 29 marzo si corre la Deejay Ten. Previste modifiche viabili",
+      "link": "https://www.torinoclick.it/trasporti/domenica-29-marzo-si-corre-la-deejay-ten-previste-modifiche-viabili/",
+      "data": "2026-03-26T18:36:50+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "9e96ba49e0f6",
+      "titolo": "La cooperazione internazionale parte dai Comuni. Il Sindaco alla missione istituzionale in Kenya del Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "link": "https://www.torinoclick.it/relazioniinternazionali/la-cooperazione-internazionale-parte-dai-comuni-il-sindaco-alla-missione-istituzionale-in-kenya-del-ministero-degli-affari-esteri-e-della-cooperazione-internazionale/",
+      "data": "2026-03-26T17:55:03+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "295b4c32d297",
+      "titolo": "Peste suina: Novara e Vercelli tornano in zona indenne con parte di Alessandria e Asti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-novara-vercelli-tornano-zona-indenne-parte-alessandria-asti",
+      "data": "2026-03-25T11:55:15+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5ab6811e56f5",
+      "titolo": "Torino accoglie gli studenti di Nagoya. A Palazzo Civico un incontro tra cultura, giovani e amicizia internazionale",
+      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-accoglie-gli-studenti-di-nagoya-a-palazzo-civico-un-incontro-tra-cultura-giovani-e-amicizia-internazionale/",
+      "data": "2026-03-25T11:05:29+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "2d482794f268",
+      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
+      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0588ff23550b",
+      "titolo": "Domenica 29 marzo la Deejay Ten riparte da Torino",
+      "link": "https://www.torinoclick.it/sport/domenica-29-marzo-la-deejay-ten-riparte-da-torino/",
+      "data": "2026-03-24T10:37:20+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "4b20657a411a",
+      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
+      "link": "https://www.torinoclick.it/incomune/palazzo-civico-riapre-la-sala-carpanini-dopo-gli-interventi-di-restauro-sara-una-sala-di-rappresentanza/",
+      "data": "2026-03-20T16:54:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "60da1e092469",
+      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
+      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
+      "data": "2026-03-20T16:03:01+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "044d0b70e990",
+      "titolo": "Attestato sostitutivo di tessera elettorale",
+      "link": "https://www.comune.torino.it/novita/avvisi/attestato-sostitutivo-tessera-elettorale",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ccc250495c4c",
+      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
+      "link": "https://www.comune.torino.it/novita/comunicati/palazzo-civico-riapre-sala-carpanini-dopo-interventi-restauro-sara-una-sala",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "748e396f3d2f",
+      "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
+      "link": "https://www.torinoclick.it/cultura/torino-2033-con-leuropa-e-di-casa-torino-chiama-artisti-internazionali-e-cittadini-per-co-creare-8-proposte-per-il-dossier-di-candidatura/",
+      "data": "2026-03-19T13:17:43+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "e301433094b0",
+      "titolo": "Referendum 22/23 marzo - Aperture straordinarie per il rilascio di carte d'identità",
+      "link": "https://www.comune.torino.it/novita/avvisi/referendum-2223-marzo-aperture-straordinarie-per-rilascio-carte-didentita",
+      "data": "2026-03-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4eb0c0077b9f",
+      "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-2033-leuropa-casa-torino-chiama-artisti-internazionali-cittadini-per-co",
+      "data": "2026-03-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6b02065de5ee",
+      "titolo": "Mobilità sostenibile e inclusione: al via il progetto “Pedali Sociali” nelle case ATC",
+      "link": "https://www.torinoclick.it/territorio/mobilita-sostenibile-e-inclusione-al-via-il-progetto-pedali-sociali-nelle-case-atc/",
+      "data": "2026-03-19T11:24:23+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
   "turismo": [
     {
       "id": "6c251e485f05",
@@ -213,234 +449,6 @@
       "data": "2026-03-16T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "cultura-beni-culturali": [
-    {
-      "id": "91675fefd0d5",
-      "titolo": "Modifiche alla viabilità in corso Mediterraneo per lavori sull’illuminazione pubblica",
-      "link": "https://www.comune.torino.it/novita/comunicati/modifiche-alla-viabilita-corso-mediterraneo-per-lavori-sullilluminazione",
-      "data": "2026-04-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6125cb7c47ba",
-      "titolo": "Musei aperti a Pasqua",
-      "link": "https://www.comune.torino.it/novita/notizie/musei-aperti-pasqua",
-      "data": "2026-04-03T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7bf165093bd1",
-      "titolo": "La Regione Piemonte rilancia il genio di Alessandro Antonelli",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-rilancia-genio-alessandro-antonelli",
-      "data": "2026-03-30T11:04:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7b8505f9fe3d",
-      "titolo": "Un nuovo infopoint con biglietteria per le manifestazioni culturali della Città",
-      "link": "https://www.comune.torino.it/novita/comunicati/un-nuovo-infopoint-biglietteria-per-manifestazioni-culturali-della-citta",
-      "data": "2026-03-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "743f8d3eab16",
-      "titolo": "Piemonte e Liguria per la governance condivisa dei porti di Genova e Savona",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-liguria-per-governance-condivisa-dei-porti-genova-savona",
-      "data": "2026-03-26T18:43:17+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "165ed4752a14",
-      "titolo": "Domenica 29 marzo si corre la Deejay Ten. Previste modifiche viabili",
-      "link": "https://www.torinoclick.it/trasporti/domenica-29-marzo-si-corre-la-deejay-ten-previste-modifiche-viabili/",
-      "data": "2026-03-26T18:36:50+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "9e96ba49e0f6",
-      "titolo": "La cooperazione internazionale parte dai Comuni. Il Sindaco alla missione istituzionale in Kenya del Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/la-cooperazione-internazionale-parte-dai-comuni-il-sindaco-alla-missione-istituzionale-in-kenya-del-ministero-degli-affari-esteri-e-della-cooperazione-internazionale/",
-      "data": "2026-03-26T17:55:03+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "295b4c32d297",
-      "titolo": "Peste suina: Novara e Vercelli tornano in zona indenne con parte di Alessandria e Asti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-novara-vercelli-tornano-zona-indenne-parte-alessandria-asti",
-      "data": "2026-03-25T11:55:15+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5ab6811e56f5",
-      "titolo": "Torino accoglie gli studenti di Nagoya. A Palazzo Civico un incontro tra cultura, giovani e amicizia internazionale",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-accoglie-gli-studenti-di-nagoya-a-palazzo-civico-un-incontro-tra-cultura-giovani-e-amicizia-internazionale/",
-      "data": "2026-03-25T11:05:29+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "2d482794f268",
-      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
-      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0588ff23550b",
-      "titolo": "Domenica 29 marzo la Deejay Ten riparte da Torino",
-      "link": "https://www.torinoclick.it/sport/domenica-29-marzo-la-deejay-ten-riparte-da-torino/",
-      "data": "2026-03-24T10:37:20+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "4b20657a411a",
-      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
-      "link": "https://www.torinoclick.it/incomune/palazzo-civico-riapre-la-sala-carpanini-dopo-gli-interventi-di-restauro-sara-una-sala-di-rappresentanza/",
-      "data": "2026-03-20T16:54:24+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "60da1e092469",
-      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
-      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
-      "data": "2026-03-20T16:03:01+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "044d0b70e990",
-      "titolo": "Attestato sostitutivo di tessera elettorale",
-      "link": "https://www.comune.torino.it/novita/avvisi/attestato-sostitutivo-tessera-elettorale",
-      "data": "2026-03-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ccc250495c4c",
-      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
-      "link": "https://www.comune.torino.it/novita/comunicati/palazzo-civico-riapre-sala-carpanini-dopo-interventi-restauro-sara-una-sala",
-      "data": "2026-03-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "748e396f3d2f",
-      "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
-      "link": "https://www.torinoclick.it/cultura/torino-2033-con-leuropa-e-di-casa-torino-chiama-artisti-internazionali-e-cittadini-per-co-creare-8-proposte-per-il-dossier-di-candidatura/",
-      "data": "2026-03-19T13:17:43+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "e301433094b0",
-      "titolo": "Referendum 22/23 marzo - Aperture straordinarie per il rilascio di carte d'identità",
-      "link": "https://www.comune.torino.it/novita/avvisi/referendum-2223-marzo-aperture-straordinarie-per-rilascio-carte-didentita",
-      "data": "2026-03-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4eb0c0077b9f",
-      "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-2033-leuropa-casa-torino-chiama-artisti-internazionali-cittadini-per-co",
-      "data": "2026-03-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6b02065de5ee",
-      "titolo": "Mobilità sostenibile e inclusione: al via il progetto “Pedali Sociali” nelle case ATC",
-      "link": "https://www.torinoclick.it/territorio/mobilita-sostenibile-e-inclusione-al-via-il-progetto-pedali-sociali-nelle-case-atc/",
-      "data": "2026-03-19T11:24:23+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "b209a0835f39",
-      "titolo": "Il 21 marzo la XXXI Giornata della memoria e dell’impegno in ricordo delle vittime innocenti delle mafie",
-      "link": "https://www.torinoclick.it/torinese/il-21-marzo-la-xxxi-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie/",
-      "data": "2026-03-18T15:29:24+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
-  "commercio-artigianato": [
-    {
-      "id": "5674f8377026",
-      "titolo": "Il Piemonte al Vinitaly 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
-      "data": "2026-04-09T11:21:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8eeb36d1033c",
-      "titolo": "Commercio al dettaglio in sede fissa - decadenza cessata attività",
-      "link": "https://www.comune.torino.it/novita/avvisi/commercio-al-dettaglio-sede-fissa-decadenza-cessata-attivita-0",
-      "data": "2026-04-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1a566b741a8a",
-      "titolo": "È l’Asti Docg il vino piemontese dell’anno 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-docg-vino-piemontese-dellanno-2026",
-      "data": "2026-04-03T15:36:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bef0c22e23c9",
-      "titolo": "Concerto di TAME IMPALA (12 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/concerto-tame-impala-12-aprile-2026-convocazione-per-assegnazione-posteggi",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "738e92843ded",
-      "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa religiosa di Santa Rita",
-      "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4d868c7ab449",
-      "titolo": "Concerti di ACHILLE LAURO (24 MARZO 2026), GIGI D'ALESSIO (25 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/concerti-achille-lauro-24-marzo-2026-gigi-dalessio-25-marzo-2026-convocazione",
-      "data": "2026-03-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cc7e37b8bbe0",
-      "titolo": "Concerti di LUCHE' (21 MARZO 2026), OLLY (22 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/concerti-luche-21-marzo-2026-olly-22-marzo-2026-convocazione-per-assegnazione",
-      "data": "2026-03-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6f3546b5eb74",
-      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
-      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
-      "data": "2026-03-15T11:20:34+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
     }
   ],
   "enti-locali-piccoli-comuni": [
@@ -1475,16 +1483,6 @@
       "titolo": "Arriva sul Piemonte la più intensa perturbazione degli ultimi 5 mesi: tornano neve abbondante e pioggia",
       "link": "https://www.quotidianopiemontese.it/2026/03/13/maltempo-piemonte-piogge-neve-weekend-marzo/",
       "data": "2026-03-13T07:24:25+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    }
-  ],
-  "organizzazione-regionale": [
-    {
-      "id": "64b911bc14e3",
-      "titolo": "Rinviate a giugno le udienze preliminari del processo ai dirigenti Solvay ad Alessandria",
-      "link": "https://www.quotidianopiemontese.it/2026/03/12/rinviate-udienze-solvay-processo/",
-      "data": "2026-03-12T19:08:01+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
     }
