@@ -1,5 +1,15 @@
 [
   {
+    "id": "73d8536b1897",
+    "titolo": "Le iniziative per il futuro del sistema neve",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iniziative-per-futuro-sistema-neve",
+    "descrizione": "Due le novità della delibera della Giunta regionale che definisce gli indirizzi per l'avvio di un percorso partecipato volto al potenziamento del sistema neve piemontese: una nuova cabina di regia con Province e gestori per progettarne il miglioramento e l’…",
+    "data": "2026-04-10T12:25:01+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "79b96f376bc9",
     "titolo": "NABANA SHOW di Angelo Pintus (17-18 APRILE 2026), concerti di GIANNI MORANDI (19 APRILE 2026), FRAH QUINTALE (21 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
     "link": "https://www.comune.torino.it/novita/notizie/nabana-show-angelo-pintus-17-18-aprile-2026-concerti-gianni-morandi-19-aprile",
@@ -8,6 +18,26 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "244c83b8abd0",
+    "titolo": "Intitolato un giardino a Rodolfo Amprino, il “Kant della Medicina”",
+    "link": "https://www.comune.torino.it/novita/comunicati/intitolato-un-giardino-rodolfo-amprino-kant-della-medicina",
+    "descrizione": "La Città di Torino ha dedicato a Rodolfo Amprino, professore di Anatomia, un giardino tra corso Lanza e viale Curreno, tra Borgo Po e Borgo Crimea",
+    "data": "2026-04-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "5674f8377026",
+    "titolo": "Il Piemonte al Vinitaly 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
+    "descrizione": "Il Piemonte torna a proporre le sue eccellenze vitivinicole e suoi prodotti enograstronimici di qualità all'edizione 2026 di Vinitaly, a Verona Fiere da domenica 12 a mercoledì 15 aprile. Allestito per l’occasione un grande spazio di 700 m2 nel…",
+    "data": "2026-04-10T11:21:02+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "6c251e485f05",
@@ -43,7 +73,7 @@
     "id": "ef0da0a42525",
     "titolo": "Consegna pergamena a Claudio Baglioni",
     "link": "https://www.comune.torino.it/novita/notizie/consegna-pergamena-claudio-baglioni",
-    "descrizione": "Diretta streaming da Sala Rossa venerdì 10 aprile dalle ore 15:30",
+    "descrizione": "Diretta streaming dalla Sala Rossa di Palazzo Civico venerdì 10 aprile dalle ore 15:30.",
     "data": "2026-04-09T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -68,16 +98,6 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "5674f8377026",
-    "titolo": "Il Piemonte al Vinitaly 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
-    "descrizione": "Il Piemonte torna a proporre le sue eccellenze vitivinicole e suoi prodotti enograstronimici di qualità all'edizione 2026 di Vinitaly, a Verona Fiere da domenica 12 a mercoledì 15 aprile. Allestito per l’occasione un grande spazio di 700 m2 nel…",
-    "data": "2026-04-09T11:21:02+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   },
   {
     "id": "6b354d940f54",
@@ -1975,26 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/12/miniere-talco-prali-visite/",
     "descrizione": "Erano motore economico della zona, ora sono un ecomuseo: il percorso conduce i visitatori attraverso gli anfratti, le gallerie e le strutture L'articolo A Prali riprendono le visite guidate sottoterra nelle ex miniere di talco – FOTO proviene da Quotidiano Piemontese.",
     "data": "2026-03-12T21:31:35+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "8bbaa7745ac4",
-    "titolo": "Truffavano i passanti chiedendo fondi per un’associazione benefica inesistente: denunciate due donne a Cuneo",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/truffa-associazione-benefica-inesistente-cuneo/",
-    "descrizione": "Le due truffatrici erano già gravate da numerosi precedenti per analoghi fatti illeciti L'articolo Truffavano i passanti chiedendo fondi per un’associazione benefica inesistente: denunciate due donne a Cuneo proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T21:07:04+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "b176f74c9fda",
-    "titolo": "28 anarchici a processo per le violenze durante il corteo per Cospito a Torino del marzo 2023",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/28-anarchici-a-processo-per-le-violenze-durante-il-corteo-per-cospito-a-torino-del-marzo-2023/",
-    "descrizione": "Gli imputati sono accusati a vario titolo di devastazione, resistenza e lesioni. Prima udienza fissata per l'11 novembre L'articolo 28 anarchici a processo per le violenze durante il corteo per Cospito a Torino del marzo 2023 proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T20:26:31+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
