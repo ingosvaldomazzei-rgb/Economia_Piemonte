@@ -1,5 +1,25 @@
 [
   {
+    "id": "38f0bd1fd19c",
+    "titolo": "Daniela Cameroni è il nuovo assessore regionale",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/daniela-cameroni-nuovo-assessore-regionale",
+    "descrizione": "Il presidente Alberto Cirio ha designato Daniela Cameroni quale assessore della Giunta regionale e le ha assegnato le deleghe a Istruzione, merito e diritto allo studio universitario, Formazione professionale e Rapporti con le società a partecipazione regionale. Al…",
+    "data": "2026-04-10T20:37:04+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "46a058fd537e",
+    "titolo": "La Settimana della pertosse",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/settimana-della-pertosse",
+    "descrizione": "Dal 13 aprile al 17 aprile si terrà in Piemonte una settimana di informazione e divulgazione vaccinale dedicata alla pertosse, minaccia emergente nel panorama sanitario. Nonostante la presenza di una vaccinazione efficace, infatti, è…",
+    "data": "2026-04-10T18:07:42+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "73d8536b1897",
     "titolo": "Le iniziative per il futuro del sistema neve",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iniziative-per-futuro-sistema-neve",
@@ -123,7 +143,7 @@
     "id": "0c0a3633da3f",
     "titolo": "Un giardino per Rodolfo Amprino",
     "link": "https://www.comune.torino.it/novita/comunicati/un-giardino-per-rodolfo-amprino",
-    "descrizione": "Il giardino compreso tra corso Lancia e viale Curreno verrà intitolato a ricordo di Rodolfo Amprino",
+    "descrizione": "Il giardino compreso tra corso Lanza e viale Curreno verrà intitolato a ricordo di Rodolfo Amprino",
     "data": "2026-04-08T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1975,26 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/13/torino-tre-progetti-riqualificazione-commerciale-residenziale/",
     "descrizione": "Due nuovi centri commerciali e un palazzo residenziale al posto di tre capannoni dismessi L'articolo Torino, tre interventi di riqualificazione urbana: nuovi spazi commerciali e un edificio residenziale proviene da Quotidiano Piemontese.",
     "data": "2026-03-13T06:42:36+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "51ca89ba4ec7",
-    "titolo": "Crollo del ponteggio a Rivoli, nuovo rinvio per il processo: udienza spostata al 29 giugno",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/crollo-ponteggio-rivoli-processo-rinviato-29-giugno-2026/",
-    "descrizione": "Il procedimento ha già subito diversi rinvii. La prima udienza preliminare era stata celebrata il 7 aprile 2025, seguita da nuovi slittamenti L'articolo Crollo del ponteggio a Rivoli, nuovo rinvio per il processo: udienza spostata al 29 giugno proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T06:29:03+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "3242fc075160",
-    "titolo": "A Prali riprendono le visite guidate sottoterra nelle ex miniere di talco – FOTO",
-    "link": "https://www.quotidianopiemontese.it/2026/03/12/miniere-talco-prali-visite/",
-    "descrizione": "Erano motore economico della zona, ora sono un ecomuseo: il percorso conduce i visitatori attraverso gli anfratti, le gallerie e le strutture L'articolo A Prali riprendono le visite guidate sottoterra nelle ex miniere di talco – FOTO proviene da Quotidiano Piemontese.",
-    "data": "2026-03-12T21:31:35+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
