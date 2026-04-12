@@ -1,5 +1,15 @@
 [
   {
+    "id": "5674f8377026",
+    "titolo": "Il Piemonte al Vinitaly 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
+    "descrizione": "Il Piemonte torna a proporre le sue eccellenze vitivinicole e suoi prodotti enograstronimici di qualità all'edizione 2026 di Vinitaly, a Verona Fiere da domenica 12 a mercoledì 15 aprile. Allestito per l’occasione un grande spazio di 700 m2 nel…",
+    "data": "2026-04-12T14:21:02+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "38f0bd1fd19c",
     "titolo": "Daniela Cameroni è il nuovo assessore regionale",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/daniela-cameroni-nuovo-assessore-regionale",
@@ -48,16 +58,6 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "5674f8377026",
-    "titolo": "Il Piemonte al Vinitaly 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
-    "descrizione": "Il Piemonte torna a proporre le sue eccellenze vitivinicole e suoi prodotti enograstronimici di qualità all'edizione 2026 di Vinitaly, a Verona Fiere da domenica 12 a mercoledì 15 aprile. Allestito per l’occasione un grande spazio di 700 m2 nel…",
-    "data": "2026-04-10T11:21:02+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   },
   {
     "id": "6c251e485f05",
