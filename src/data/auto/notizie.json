@@ -1,5 +1,15 @@
 [
   {
+    "id": "67fd4ffdb2c7",
+    "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
+    "descrizione": "Attrarre nuovi investimenti, rafforzare il posizionamento internazionale del comparto produttivo con le sue eccellenze, consolidare le relazioni con uno dei mercati più avanzati e strutturalmente affini alle filiere europee ad alta specializzazione, in particolare aerospazio, scienze della vita…",
+    "data": "2026-04-12T18:02:06+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "5674f8377026",
     "titolo": "Il Piemonte al Vinitaly 2026",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
@@ -1985,16 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/13/incidente-villar-dora-morto-55-anni-auto-mezzo-pulizia-strade/",
     "descrizione": "C'è anche un ferito L'articolo Si schianta con l’auto contro un mezzo di pulizia strade, morto a Villar Dora proviene da Quotidiano Piemontese.",
     "data": "2026-03-13T06:59:48+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "cbfd147943ee",
-    "titolo": "Torino, tre interventi di riqualificazione urbana: nuovi spazi commerciali e un edificio residenziale",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/torino-tre-progetti-riqualificazione-commerciale-residenziale/",
-    "descrizione": "Due nuovi centri commerciali e un palazzo residenziale al posto di tre capannoni dismessi L'articolo Torino, tre interventi di riqualificazione urbana: nuovi spazi commerciali e un edificio residenziale proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T06:42:36+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
