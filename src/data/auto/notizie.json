@@ -70,6 +70,66 @@
     "colore": "#dc2626"
   },
   {
+    "id": "6696de63ae5f",
+    "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
+    "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
+    "descrizione": "Le difficoltà del sistema scolastico nelle periferie sono una sfida da raccogliere per promuovere inclusione e coesione sociale, afferma il Consiglio comunale",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "29c368b77d34",
+    "titolo": "La solidarietà della Sala Rossa alla popolazione del Rojava",
+    "link": "https://www.comune.torino.it/novita/comunicati/solidarieta-della-sala-rossa-alla-popolazione-rojava",
+    "descrizione": "Il Consiglio comunale esprime la propria solidarietà alla popolazione del Rojava, regione nel nord della Siria.",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "5487da6826dd",
+    "titolo": "Un appello a Governo e Parlamento per estendere i benefici della Legge Smuraglia",
+    "link": "https://www.comune.torino.it/novita/comunicati/un-appello-governo-parlamento-per-estendere-benefici-della-legge-smuraglia",
+    "descrizione": "Approvata dal Consiglio Comunale di Torino all’unanimità una mozione proposta da Maria Grazia Grippo - PD",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "43cb4d4d4c8f",
+    "titolo": "Sala Rossa: approvati tre atti di indirizzo per l'adesione della Città di Torino alla piattaforma unica nazionale dei contrassegni disabili CUDE",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvati-tre-atti-indirizzo-per-ladesione-della-citta-torino-alla",
+    "descrizione": "L'adesione consentirebbe a persone con disabiità una più agevole mobilità sul territorio nazionale con il contrassegno CUDE",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "c873ccac26db",
+    "titolo": "Crisi industriale torinese, la proposta della Sala Rossa",
+    "link": "https://www.comune.torino.it/novita/comunicati/crisi-industriale-torinese-proposta-della-sala-rossa",
+    "descrizione": "Approvata dal Consiglio Comunale di Torino all’unanimità la mozione proposta da Pino Iannò (Torino Libero Pensiero)",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3ac068d9fd74",
+    "titolo": "Coinvolgere gli umarell nei cantieri",
+    "link": "https://www.comune.torino.it/novita/comunicati/coinvolgere-umarell-nei-cantieri",
+    "descrizione": "Il Consiglio comunale invita la giunta a promuovere un progetto che preveda il coinvolgimento degli umarell nel monitoraggio dei cantieri civici",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "67fd4ffdb2c7",
     "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
@@ -1935,66 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/13/parco-nazionale-gran-paradiso-insediato-nuovo-direttivo/",
     "descrizione": "Resta in carica per cinque anni e ha il compito di definire l'indirizzo programmatico del Parco e gestirne le attività L'articolo Parco nazionale del Gran Paradiso, insediato il nuovo Direttivo proviene da Quotidiano Piemontese.",
     "data": "2026-03-13T12:25:46+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "65914cca9d58",
-    "titolo": "Finto carabiniere truffa una novantenne nel Biellese: arrestato un 37enne, recuperati gioielli e contanti",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/truffa-finto-carabiniere-biellese-arrestato-37enne/",
-    "descrizione": "L’anziana era stata convinta di essere collegata in videoconferenza con un magistrato, un ulteriore stratagemma per tenerla occupata mentre il falso carabiniere lasciava l’abitazione con il bottino L'articolo Finto carabiniere truffa una novantenne nel Biellese: arrestato un 37enne, recuperati gioielli e contanti proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T11:57:44+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "168303084a53",
-    "titolo": "Smog, fino a lunedì 16 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-    "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-16-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-    "descrizione": "Prosegue fino a lunedì 16 marzo compreso – prossimo giorno di controllo – l’applicazione delle sole misure strutturali di limitazione al traffico: sulla base dei dati previsionali sulla qualità dell’aria forniti oggi da Arpa Piemonte è stato infatti confermato il livello 0 (bianco) delle misure antismog.",
-    "data": "2026-03-13T11:30:14+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "79337cb38014",
-    "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
-    "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
-    "descrizione": "Le disuguaglianze attraversano la nostra società in ogni aspetto della vita quotidiana, dal lavoro alla scuola, dalla casa all’accesso alla tecnologia, influenzando profondamente le condizioni di vita e le opportunità delle persone. Per analizzarle e individuare possibili soluzioni torna a Torino, dal 16 al 20 marzo, la ‘Settimana del Lavoro’.",
-    "data": "2026-03-13T11:19:19+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "080ff2eda1d5",
-    "titolo": "Colori, segnaletica intuitiva e spazi per le famiglie: cambia il volto dell’Anagrafe Centrale",
-    "link": "https://www.torinoclick.it/incomune/lanagrafe-di-torino-cambia-volto-nuovo-sistema-di-orientamento-e-informazione-inclusiva-con-spazi-a-misura-di-famiglia-al-lavoro-una-task-force-per-il-rinnovo-delle-carte-di-identita-carta/",
-    "descrizione": "Facilitare l’accesso alle informazioni e l’orientamento negli uffici, abbattere le barriere sensoriali e rendere gli spazi più accoglienti: sono questi gli obiettivi del nuovo progetto di comunicazione e di wayfinding che ha preso il via dall’Anagrafe Centrale di Torino.",
-    "data": "2026-03-13T10:56:49+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "26b832f1da6e",
-    "titolo": "Mostra fotografica “L’eredità di Falcone e Borsellino”",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/mostra-fotografica-leredita-di-falcone-e-borsellino/",
-    "descrizione": "In occasione della Giornata contro le mafie che si celebra il 21 marzo, il Consiglio regionale del Piemonte ospita fino al 31 marzo la mostra itinerante “L’eredità di Falcone e Borsellino” nell’atrio di Palazzo Lascaris, in via Alfieri 15 a Torino. I pannelli bilingue, realizzati dai giornalisti Ansa Sicilia Franco Nuccio e Francesco Nicastro, in collaborazione con la Fondazione […] L'articolo Mostra fotografica “L’eredità di Falcone e Borsellino” proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T10:53:31+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "57bfac214d2a",
-    "titolo": "Giovani e violenza a Torino: non è un’emergenza di numeri, ma di “armi”. L’analisi del rapporto Save the Children",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/violenza-giovanile-torino-analisi/",
-    "descrizione": "I dati del dossier \"(Dis)armati\" scattano una fotografia nitida della realtà subalpina: calano le \"baby gang\" strutturate, ma cresce l’uso di coltelli e la rabbia tra i giovanissimi L'articolo Giovani e violenza a Torino: non è un’emergenza di numeri, ma di “armi”. L’analisi del rapporto Save the Children proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T10:19:55+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
