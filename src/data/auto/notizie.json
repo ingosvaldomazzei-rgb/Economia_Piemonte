@@ -1,5 +1,15 @@
 [
   {
+    "id": "68112c870caa",
+    "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – maggio 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-1",
+    "descrizione": "Pubblicazione del calendario eventi programmati nei pressi dello Stadio Olimpico – Inalpi Arena nel prossimo mese di maggio 2026.",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "67fd4ffdb2c7",
     "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
@@ -1985,16 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/13/martina-tammaro-quando-dentro-piove-libro-depressione-intervista/",
     "descrizione": "L'intervista con l'autrice, che racconta la fine del suo amore con Erika e la lotta alla depressione L'articolo Martina Tammaro racconta come sopravvivere Quando dentro piove proviene da Quotidiano Piemontese.",
     "data": "2026-03-13T07:10:16+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "7bdf01411b84",
-    "titolo": "Si schianta con l’auto contro un mezzo di pulizia strade, morto a Villar Dora",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/incidente-villar-dora-morto-55-anni-auto-mezzo-pulizia-strade/",
-    "descrizione": "C'è anche un ferito L'articolo Si schianta con l’auto contro un mezzo di pulizia strade, morto a Villar Dora proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T06:59:48+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"
