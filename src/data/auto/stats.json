@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 98,
-    "regione": 34,
+    "regione": 35,
+    "comune_torino": 103,
     "torinoclick": 56,
-    "quotidiano_piemontese": 12
+    "quotidiano_piemontese": 6
   },
   "temi_attivi": [
     {
@@ -40,11 +40,11 @@
       "conteggio": 10
     },
     {
-      "tema": "pianificazione-territoriale",
+      "tema": "agricoltura",
       "conteggio": 9
     },
     {
-      "tema": "agricoltura",
+      "tema": "ambiente-qualita-aria",
       "conteggio": 9
     }
   ],

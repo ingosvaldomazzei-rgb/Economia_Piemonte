@@ -1,9 +1,69 @@
 [
   {
+    "id": "cf4a4dced20c",
+    "titolo": "Un sostegno di 14,4 milioni alle aziende agricole montane",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-sostegno-144-milioni-alle-aziende-agricole-montane",
+    "descrizione": "È di 14,4 milioni di euro la dotazione finanziaria del bando della Regione Piemonte, in via di pubblicazione, che si pone come un sostegno concreto per garantire la continuità delle migliaia di aziende…",
+    "data": "2026-04-13T15:09:05+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "86a3a1f9744c",
+    "titolo": "Stop al consumo di suolo agricolo per l'energia pulita",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stop-al-consumo-suolo-agricolo-per-lenergia-pulita",
+    "descrizione": "Con un disegno di legge approvato su proposta dell’assessore all’Ambiente Matteo Marnati, che passa ora all’esame del Consiglio, la Regione Piemonte intende disciplinare l’individuazione di ulteriori aree idonee all’installazione di impianti da fonti rinnovabili. …",
+    "data": "2026-04-13T12:22:42+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "68112c870caa",
     "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – maggio 2026",
     "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-1",
     "descrizione": "Pubblicazione del calendario eventi programmati nei pressi dello Stadio Olimpico – Inalpi Arena nel prossimo mese di maggio 2026.",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "943cba30791d",
+    "titolo": "Il Consiglio Comunale ricorda il genocidio del popolo curdo",
+    "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-ricorda-genocidio-popolo-curdo",
+    "descrizione": "Un anno fa un atto approvato all'unanimità chiedeva di ricordare il genocidio il 14 aprile",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "cfad5c117e86",
+    "titolo": "Iscrizioni Estate Ragazzi 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/iscrizioni-estate-ragazzi-2026",
+    "descrizione": "Apertura iscrizioni Estate Ragazzi 2026",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "11614d696663",
+    "titolo": "\"Provaci ancora, Sam!\": avviso pubblico per revisione e aggiornamento annuale dell'albo per organismi non a scopo di lucro, ETS, oratori e parrocchie",
+    "link": "https://www.comune.torino.it/novita/avvisi/provaci-ancora-sam-avviso-pubblico-per-revisione-aggiornamento-annuale-dellalbo",
+    "descrizione": "Bando e modulistica per la realizzazione del progetto \"Provaci ancora, Sam!\" per l'anno scolastico 2026-2027",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4ac5d5a3c387",
+    "titolo": "Come iscriversi alla Festa dei Vicini 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/come-iscriversi-alla-festa-dei-vicini-2026",
+    "descrizione": "Entro il 30 aprile è possibile iscriversi per organizzare una festa nel proprio quartiere; partecipa giovedì 16 aprile all'incontro online di presentazione.",
     "data": "2026-04-13T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -74,6 +134,16 @@
     "titolo": "Intitolato un giardino a Rodolfo Amprino, il “Kant della Medicina”",
     "link": "https://www.comune.torino.it/novita/comunicati/intitolato-un-giardino-rodolfo-amprino-kant-della-medicina",
     "descrizione": "La Città di Torino ha dedicato a Rodolfo Amprino, professore di Anatomia, un giardino tra corso Lanza e viale Curreno, tra Borgo Po e Borgo Crimea",
+    "data": "2026-04-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8df93cd19787",
+    "titolo": "Claudio Baglioni a Palazzo Civico. La Città di Torino omaggia l’artista, che a settembre concluderà il suo tour di concerti in piazza San Carlo",
+    "link": "https://www.comune.torino.it/novita/comunicati/claudio-baglioni-palazzo-civico-citta-torino-omaggia-lartista-che-settembre",
+    "descrizione": "Si chiuderà a Torino, venerdì 18 settembre in piazza San Carlo, il GrandTour di Claudio Baglioni.",
     "data": "2026-04-10T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1925,76 +1995,6 @@
     "link": "https://www.quotidianopiemontese.it/2026/03/13/violenza-giovanile-torino-analisi/",
     "descrizione": "I dati del dossier \"(Dis)armati\" scattano una fotografia nitida della realtà subalpina: calano le \"baby gang\" strutturate, ma cresce l’uso di coltelli e la rabbia tra i giovanissimi L'articolo Giovani e violenza a Torino: non è un’emergenza di numeri, ma di “armi”. L’analisi del rapporto Save the Children proviene da Quotidiano Piemontese.",
     "data": "2026-03-13T10:19:55+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "e2a697846627",
-    "titolo": "Violenza di genere: dal Governo quasi 7 milioni di nuove risorse",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/violenza-genere-dal-governo-quasi-7-milioni-nuove-risorse",
-    "descrizione": "Arrivano nuove risorse per rafforzare la rete di prevenzione e contrasto alla violenza di genere in Piemonte: si tratta di 6,8 milioni di euro assegnati dal Governo con il riparto del Dpcm del 29 dicembre 2025. Come anticipa …",
-    "data": "2026-03-13T10:06:59+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "b5d7db845374",
-    "titolo": "Leonardo e il Piemonte: un motore di crescita tra difesa, aerospazio, cybersicurezza e intelligenza artificiale",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/leonardo-piemonte-difesa-aerospazio-ai/",
-    "descrizione": "Solo quest’anno l’azienda ha assunto 400 nuove persone, 800 dal 2024 L'articolo Leonardo e il Piemonte: un motore di crescita tra difesa, aerospazio, cybersicurezza e intelligenza artificiale proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T09:28:57+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "bd9aaf5c099f",
-    "titolo": "In vendita a Superga la villa che fu del Senatore Agnelli",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/villa-storica-superga-torino-sothebys/",
-    "descrizione": "In vendita alla modica cifra di 1.750.000 euro L'articolo In vendita a Superga la villa che fu del Senatore Agnelli proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T09:04:33+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "fc18c0c79483",
-    "titolo": "Reale Mutua Fenera Chieri ’76 sbanca Dresda e mette un piede nella finale di Coppa CEV",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/chieri-76-batte-dresda-semifinale-cev/",
-    "descrizione": "Il ritorno mercoledì a Torino L'articolo Reale Mutua Fenera Chieri ’76 sbanca Dresda e mette un piede nella finale di Coppa CEV proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T08:40:33+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "bb183f70e905",
-    "titolo": "Venaria Reale, avanti i lavori per il nuovo ponte sul Ceronda: varo delle travi e modifiche alla viabilità",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/nuovo-ponte-ceronda-venaria-lavori/",
-    "descrizione": "Le operazioni sono destinate a proseguire nei prossimi giorni con il varo della campata sul lato della Reggia di Venaria L'articolo Venaria Reale, avanti i lavori per il nuovo ponte sul Ceronda: varo delle travi e modifiche alla viabilità proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T08:13:12+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "8894a00e84cb",
-    "titolo": "Arriva sul Piemonte la più intensa perturbazione degli ultimi 5 mesi: tornano neve abbondante e pioggia",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/maltempo-piemonte-piogge-neve-weekend-marzo/",
-    "descrizione": "L’evento porterà anche la nevicata più abbondante della stagione sulle montagne dell’alto Piemonte, in particolare a nord del Gran Paradiso L'articolo Arriva sul Piemonte la più intensa perturbazione degli ultimi 5 mesi: tornano neve abbondante e pioggia proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T07:24:25+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "34c628f084ef",
-    "titolo": "Martina Tammaro racconta come sopravvivere Quando dentro piove",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/martina-tammaro-quando-dentro-piove-libro-depressione-intervista/",
-    "descrizione": "L'intervista con l'autrice, che racconta la fine del suo amore con Erika e la lotta alla depressione L'articolo Martina Tammaro racconta come sopravvivere Quando dentro piove proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T07:10:16+00:00",
     "fonte": "Quotidiano Piemontese",
     "fonte_id": "quotidiano_piemontese",
     "colore": "#0891b2"

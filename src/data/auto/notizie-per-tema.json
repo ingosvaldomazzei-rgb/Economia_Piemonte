@@ -1,4 +1,196 @@
 {
+  "bilancio-regionale": [
+    {
+      "id": "cf4a4dced20c",
+      "titolo": "Un sostegno di 14,4 milioni alle aziende agricole montane",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-sostegno-144-milioni-alle-aziende-agricole-montane",
+      "data": "2026-04-13T15:09:05+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3098597744fc",
+      "titolo": "Approvata seconda variazione al Bilancio di previsione finanziario 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/approvata-seconda-variazione-al-bilancio-previsione-finanziario-2026-2028",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "eb56f535d378",
+      "titolo": "In via Lagrange una installazione per riflettere sullo spreco alimentare",
+      "link": "https://www.torinoclick.it/societa/in-via-lagrange-una-installazione-per-riflettere-sullo-spreco-alimentare/",
+      "data": "2026-03-26T13:54:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
+  "agricoltura": [
+    {
+      "id": "86a3a1f9744c",
+      "titolo": "Stop al consumo di suolo agricolo per l'energia pulita",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stop-al-consumo-suolo-agricolo-per-lenergia-pulita",
+      "data": "2026-04-13T12:22:42+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1a566b741a8a",
+      "titolo": "È l’Asti Docg il vino piemontese dell’anno 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-docg-vino-piemontese-dellanno-2026",
+      "data": "2026-04-03T15:36:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a679cc76270c",
+      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ac562704b122",
+      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ad6be72d454a",
+      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
+      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
+      "data": "2026-03-25T14:58:13+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "2d482794f268",
+      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
+      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4dc927d09bcf",
+      "titolo": "Confronto sulla nuova Pac 2028-2034",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/confronto-sulla-nuova-pac-2028-2034",
+      "data": "2026-03-20T17:29:38+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "071a379166d2",
+      "titolo": "Le foreste piemontesi sempre più al centro delle politiche della Regione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/foreste-piemontesi-sempre-piu-al-centro-delle-politiche-della-regione",
+      "data": "2026-03-20T16:52:13+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b1db65f58584",
+      "titolo": "Torino Jazz Festival 2026, “The sound of Surprise”. La XIV edizione, dal 25 aprile al 2 maggio",
+      "link": "https://www.torinoclick.it/cultura/torino-jazz-festival-2026-the-sound-of-surprise-la-xiv-edizione-dal-25-aprile-al-2-maggio/",
+      "data": "2026-03-19T13:23:28+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
+  "energia": [
+    {
+      "id": "86a3a1f9744c",
+      "titolo": "Stop al consumo di suolo agricolo per l'energia pulita",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stop-al-consumo-suolo-agricolo-per-lenergia-pulita",
+      "data": "2026-04-13T12:22:42+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "86a6b4150f14",
+      "titolo": "Fondo Sociale 2026: sostegno alle famiglie delle case popolari",
+      "link": "https://www.comune.torino.it/novita/avvisi/fondo-sociale-2026-sostegno-alle-famiglie-delle-case-popolari",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "ambiente-qualita-aria": [
+    {
+      "id": "86a3a1f9744c",
+      "titolo": "Stop al consumo di suolo agricolo per l'energia pulita",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stop-al-consumo-suolo-agricolo-per-lenergia-pulita",
+      "data": "2026-04-13T12:22:42+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "eb56f535d378",
+      "titolo": "In via Lagrange una installazione per riflettere sullo spreco alimentare",
+      "link": "https://www.torinoclick.it/societa/in-via-lagrange-una-installazione-per-riflettere-sullo-spreco-alimentare/",
+      "data": "2026-03-26T13:54:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "5081aaea336d",
+      "titolo": "Un pomeriggio per imparare, condividere e fare la differenza",
+      "link": "https://www.torinoclick.it/territorio/un-pomeriggio-per-imparare-condividere-e-fare-la-differenza/",
+      "data": "2026-03-26T12:31:29+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "085f1456a75b",
+      "titolo": "Smog, fino a mercoledì 25marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-mercoledi-25marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-23T11:16:00+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "58471fc25436",
+      "titolo": "Smog, fino a lunedì 23 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-23-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-20T11:11:07+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "9b1cd38a477a",
+      "titolo": "Smog, fino a venerdì 20 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-venerdi-20-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-18T15:38:30+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "a47e8450ec77",
+      "titolo": "Smog, fino a mercoledì 18 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-mercoledi-18-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-16T13:22:00+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "bd57249923b3",
+      "titolo": "Torino tra i Comuni “Plastic Free 2026”",
+      "link": "https://www.torinoclick.it/economia/torino-tra-i-comuni-plastic-free-2026/",
+      "data": "2026-03-14T16:14:00+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "168303084a53",
+      "titolo": "Smog, fino a lunedì 16 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
+      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-16-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
+      "data": "2026-03-13T11:30:14+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
   "lavoro-occupazione": [
     {
       "id": "68112c870caa",
@@ -117,6 +309,168 @@
       "titolo": "Settimana del Lavoro 2026: cinque giorni per riflettere sulle disuguaglianze",
       "link": "https://www.torinoclick.it/economia/settimana-del-lavoro-2026-cinque-giorni-per-riflettere-sulle-disuguaglianze/",
       "data": "2026-03-13T11:19:19+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
+  "cultura-beni-culturali": [
+    {
+      "id": "4ac5d5a3c387",
+      "titolo": "Come iscriversi alla Festa dei Vicini 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/come-iscriversi-alla-festa-dei-vicini-2026",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "38f0bd1fd19c",
+      "titolo": "Daniela Cameroni è il nuovo assessore regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/daniela-cameroni-nuovo-assessore-regionale",
+      "data": "2026-04-10T20:37:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "73d8536b1897",
+      "titolo": "Le iniziative per il futuro del sistema neve",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iniziative-per-futuro-sistema-neve",
+      "data": "2026-04-10T12:25:01+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "79b96f376bc9",
+      "titolo": "NABANA SHOW di Angelo Pintus (17-18 APRILE 2026), concerti di GIANNI MORANDI (19 APRILE 2026), FRAH QUINTALE (21 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/nabana-show-angelo-pintus-17-18-aprile-2026-concerti-gianni-morandi-19-aprile",
+      "data": "2026-04-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "91675fefd0d5",
+      "titolo": "Modifiche alla viabilità in corso Mediterraneo per lavori sull’illuminazione pubblica",
+      "link": "https://www.comune.torino.it/novita/comunicati/modifiche-alla-viabilita-corso-mediterraneo-per-lavori-sullilluminazione",
+      "data": "2026-04-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6125cb7c47ba",
+      "titolo": "Musei aperti a Pasqua",
+      "link": "https://www.comune.torino.it/novita/notizie/musei-aperti-pasqua",
+      "data": "2026-04-03T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7bf165093bd1",
+      "titolo": "La Regione Piemonte rilancia il genio di Alessandro Antonelli",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-rilancia-genio-alessandro-antonelli",
+      "data": "2026-03-30T11:04:26+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7b8505f9fe3d",
+      "titolo": "Un nuovo infopoint con biglietteria per le manifestazioni culturali della Città",
+      "link": "https://www.comune.torino.it/novita/comunicati/un-nuovo-infopoint-biglietteria-per-manifestazioni-culturali-della-citta",
+      "data": "2026-03-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "743f8d3eab16",
+      "titolo": "Piemonte e Liguria per la governance condivisa dei porti di Genova e Savona",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-liguria-per-governance-condivisa-dei-porti-genova-savona",
+      "data": "2026-03-26T18:43:17+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "165ed4752a14",
+      "titolo": "Domenica 29 marzo si corre la Deejay Ten. Previste modifiche viabili",
+      "link": "https://www.torinoclick.it/trasporti/domenica-29-marzo-si-corre-la-deejay-ten-previste-modifiche-viabili/",
+      "data": "2026-03-26T18:36:50+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "9e96ba49e0f6",
+      "titolo": "La cooperazione internazionale parte dai Comuni. Il Sindaco alla missione istituzionale in Kenya del Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "link": "https://www.torinoclick.it/relazioniinternazionali/la-cooperazione-internazionale-parte-dai-comuni-il-sindaco-alla-missione-istituzionale-in-kenya-del-ministero-degli-affari-esteri-e-della-cooperazione-internazionale/",
+      "data": "2026-03-26T17:55:03+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "295b4c32d297",
+      "titolo": "Peste suina: Novara e Vercelli tornano in zona indenne con parte di Alessandria e Asti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-novara-vercelli-tornano-zona-indenne-parte-alessandria-asti",
+      "data": "2026-03-25T11:55:15+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5ab6811e56f5",
+      "titolo": "Torino accoglie gli studenti di Nagoya. A Palazzo Civico un incontro tra cultura, giovani e amicizia internazionale",
+      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-accoglie-gli-studenti-di-nagoya-a-palazzo-civico-un-incontro-tra-cultura-giovani-e-amicizia-internazionale/",
+      "data": "2026-03-25T11:05:29+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "2d482794f268",
+      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
+      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0588ff23550b",
+      "titolo": "Domenica 29 marzo la Deejay Ten riparte da Torino",
+      "link": "https://www.torinoclick.it/sport/domenica-29-marzo-la-deejay-ten-riparte-da-torino/",
+      "data": "2026-03-24T10:37:20+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "4b20657a411a",
+      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
+      "link": "https://www.torinoclick.it/incomune/palazzo-civico-riapre-la-sala-carpanini-dopo-gli-interventi-di-restauro-sara-una-sala-di-rappresentanza/",
+      "data": "2026-03-20T16:54:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "60da1e092469",
+      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
+      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
+      "data": "2026-03-20T16:03:01+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "044d0b70e990",
+      "titolo": "Attestato sostitutivo di tessera elettorale",
+      "link": "https://www.comune.torino.it/novita/avvisi/attestato-sostitutivo-tessera-elettorale",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ccc250495c4c",
+      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
+      "link": "https://www.comune.torino.it/novita/comunicati/palazzo-civico-riapre-sala-carpanini-dopo-interventi-restauro-sara-una-sala",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "748e396f3d2f",
+      "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
+      "link": "https://www.torinoclick.it/cultura/torino-2033-con-leuropa-e-di-casa-torino-chiama-artisti-internazionali-e-cittadini-per-co-creare-8-proposte-per-il-dossier-di-candidatura/",
+      "data": "2026-03-19T13:17:43+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
     }
@@ -483,168 +837,6 @@
       "fonte_id": "torinoclick"
     }
   ],
-  "cultura-beni-culturali": [
-    {
-      "id": "38f0bd1fd19c",
-      "titolo": "Daniela Cameroni è il nuovo assessore regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/daniela-cameroni-nuovo-assessore-regionale",
-      "data": "2026-04-10T20:37:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "73d8536b1897",
-      "titolo": "Le iniziative per il futuro del sistema neve",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iniziative-per-futuro-sistema-neve",
-      "data": "2026-04-10T12:25:01+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "79b96f376bc9",
-      "titolo": "NABANA SHOW di Angelo Pintus (17-18 APRILE 2026), concerti di GIANNI MORANDI (19 APRILE 2026), FRAH QUINTALE (21 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/nabana-show-angelo-pintus-17-18-aprile-2026-concerti-gianni-morandi-19-aprile",
-      "data": "2026-04-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "91675fefd0d5",
-      "titolo": "Modifiche alla viabilità in corso Mediterraneo per lavori sull’illuminazione pubblica",
-      "link": "https://www.comune.torino.it/novita/comunicati/modifiche-alla-viabilita-corso-mediterraneo-per-lavori-sullilluminazione",
-      "data": "2026-04-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6125cb7c47ba",
-      "titolo": "Musei aperti a Pasqua",
-      "link": "https://www.comune.torino.it/novita/notizie/musei-aperti-pasqua",
-      "data": "2026-04-03T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7bf165093bd1",
-      "titolo": "La Regione Piemonte rilancia il genio di Alessandro Antonelli",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-rilancia-genio-alessandro-antonelli",
-      "data": "2026-03-30T11:04:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7b8505f9fe3d",
-      "titolo": "Un nuovo infopoint con biglietteria per le manifestazioni culturali della Città",
-      "link": "https://www.comune.torino.it/novita/comunicati/un-nuovo-infopoint-biglietteria-per-manifestazioni-culturali-della-citta",
-      "data": "2026-03-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "743f8d3eab16",
-      "titolo": "Piemonte e Liguria per la governance condivisa dei porti di Genova e Savona",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-liguria-per-governance-condivisa-dei-porti-genova-savona",
-      "data": "2026-03-26T18:43:17+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "165ed4752a14",
-      "titolo": "Domenica 29 marzo si corre la Deejay Ten. Previste modifiche viabili",
-      "link": "https://www.torinoclick.it/trasporti/domenica-29-marzo-si-corre-la-deejay-ten-previste-modifiche-viabili/",
-      "data": "2026-03-26T18:36:50+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "9e96ba49e0f6",
-      "titolo": "La cooperazione internazionale parte dai Comuni. Il Sindaco alla missione istituzionale in Kenya del Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/la-cooperazione-internazionale-parte-dai-comuni-il-sindaco-alla-missione-istituzionale-in-kenya-del-ministero-degli-affari-esteri-e-della-cooperazione-internazionale/",
-      "data": "2026-03-26T17:55:03+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "295b4c32d297",
-      "titolo": "Peste suina: Novara e Vercelli tornano in zona indenne con parte di Alessandria e Asti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-novara-vercelli-tornano-zona-indenne-parte-alessandria-asti",
-      "data": "2026-03-25T11:55:15+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5ab6811e56f5",
-      "titolo": "Torino accoglie gli studenti di Nagoya. A Palazzo Civico un incontro tra cultura, giovani e amicizia internazionale",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-accoglie-gli-studenti-di-nagoya-a-palazzo-civico-un-incontro-tra-cultura-giovani-e-amicizia-internazionale/",
-      "data": "2026-03-25T11:05:29+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "2d482794f268",
-      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
-      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0588ff23550b",
-      "titolo": "Domenica 29 marzo la Deejay Ten riparte da Torino",
-      "link": "https://www.torinoclick.it/sport/domenica-29-marzo-la-deejay-ten-riparte-da-torino/",
-      "data": "2026-03-24T10:37:20+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "4b20657a411a",
-      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
-      "link": "https://www.torinoclick.it/incomune/palazzo-civico-riapre-la-sala-carpanini-dopo-gli-interventi-di-restauro-sara-una-sala-di-rappresentanza/",
-      "data": "2026-03-20T16:54:24+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "60da1e092469",
-      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
-      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
-      "data": "2026-03-20T16:03:01+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "044d0b70e990",
-      "titolo": "Attestato sostitutivo di tessera elettorale",
-      "link": "https://www.comune.torino.it/novita/avvisi/attestato-sostitutivo-tessera-elettorale",
-      "data": "2026-03-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ccc250495c4c",
-      "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
-      "link": "https://www.comune.torino.it/novita/comunicati/palazzo-civico-riapre-sala-carpanini-dopo-interventi-restauro-sara-una-sala",
-      "data": "2026-03-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "748e396f3d2f",
-      "titolo": "Torino 2033: Con “L’Europa è di Casa”, Torino chiama artisti internazionali e cittadini per co-creare 8 proposte per il dossier di candidatura",
-      "link": "https://www.torinoclick.it/cultura/torino-2033-con-leuropa-e-di-casa-torino-chiama-artisti-internazionali-e-cittadini-per-co-creare-8-proposte-per-il-dossier-di-candidatura/",
-      "data": "2026-03-19T13:17:43+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "e301433094b0",
-      "titolo": "Referendum 22/23 marzo - Aperture straordinarie per il rilascio di carte d'identità",
-      "link": "https://www.comune.torino.it/novita/avvisi/referendum-2223-marzo-aperture-straordinarie-per-rilascio-carte-didentita",
-      "data": "2026-03-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "sanita-regionale": [
     {
       "id": "46a058fd537e",
@@ -863,14 +1055,6 @@
       "titolo": "Maltempo in Piemonte nel weekend: allerta gialla per neve e valanghe",
       "link": "https://www.quotidianopiemontese.it/2026/03/13/allerta-meteo-piemonte-neve-piogge-valanghe/",
       "data": "2026-03-13T12:56:55+00:00",
-      "fonte": "Quotidiano Piemontese",
-      "fonte_id": "quotidiano_piemontese"
-    },
-    {
-      "id": "8894a00e84cb",
-      "titolo": "Arriva sul Piemonte la più intensa perturbazione degli ultimi 5 mesi: tornano neve abbondante e pioggia",
-      "link": "https://www.quotidianopiemontese.it/2026/03/13/maltempo-piemonte-piogge-neve-weekend-marzo/",
-      "data": "2026-03-13T07:24:25+00:00",
       "fonte": "Quotidiano Piemontese",
       "fonte_id": "quotidiano_piemontese"
     }
@@ -1239,80 +1423,6 @@
       "fonte_id": "quotidiano_piemontese"
     }
   ],
-  "agricoltura": [
-    {
-      "id": "1a566b741a8a",
-      "titolo": "È l’Asti Docg il vino piemontese dell’anno 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-docg-vino-piemontese-dellanno-2026",
-      "data": "2026-04-03T15:36:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a679cc76270c",
-      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ac562704b122",
-      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ad6be72d454a",
-      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
-      "data": "2026-03-25T14:58:13+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "2d482794f268",
-      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
-      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4dc927d09bcf",
-      "titolo": "Confronto sulla nuova Pac 2028-2034",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/confronto-sulla-nuova-pac-2028-2034",
-      "data": "2026-03-20T17:29:38+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "071a379166d2",
-      "titolo": "Le foreste piemontesi sempre più al centro delle politiche della Regione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/foreste-piemontesi-sempre-piu-al-centro-delle-politiche-della-regione",
-      "data": "2026-03-20T16:52:13+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b1db65f58584",
-      "titolo": "Torino Jazz Festival 2026, “The sound of Surprise”. La XIV edizione, dal 25 aprile al 2 maggio",
-      "link": "https://www.torinoclick.it/cultura/torino-jazz-festival-2026-the-sound-of-surprise-la-xiv-edizione-dal-25-aprile-al-2-maggio/",
-      "data": "2026-03-19T13:23:28+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "e2a697846627",
-      "titolo": "Violenza di genere: dal Governo quasi 7 milioni di nuove risorse",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/violenza-genere-dal-governo-quasi-7-milioni-nuove-risorse",
-      "data": "2026-03-13T10:06:59+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "protezione-civile": [
     {
       "id": "8d864abfea66",
@@ -1459,100 +1569,6 @@
       "titolo": "Mercoledì 18 marzo arrivo alla Basilica di Superga della corsa ciclistica Milano – Torino. Previste modifiche viabili e deviazioni del trasporto pubblico",
       "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-18-marzo-arrivo-alla-basilica-superga-della-corsa-ciclistica-milano",
       "data": "2026-03-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "bilancio-regionale": [
-    {
-      "id": "3098597744fc",
-      "titolo": "Approvata seconda variazione al Bilancio di previsione finanziario 2026-2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/approvata-seconda-variazione-al-bilancio-previsione-finanziario-2026-2028",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "eb56f535d378",
-      "titolo": "In via Lagrange una installazione per riflettere sullo spreco alimentare",
-      "link": "https://www.torinoclick.it/societa/in-via-lagrange-una-installazione-per-riflettere-sullo-spreco-alimentare/",
-      "data": "2026-03-26T13:54:24+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
-  "ambiente-qualita-aria": [
-    {
-      "id": "eb56f535d378",
-      "titolo": "In via Lagrange una installazione per riflettere sullo spreco alimentare",
-      "link": "https://www.torinoclick.it/societa/in-via-lagrange-una-installazione-per-riflettere-sullo-spreco-alimentare/",
-      "data": "2026-03-26T13:54:24+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "5081aaea336d",
-      "titolo": "Un pomeriggio per imparare, condividere e fare la differenza",
-      "link": "https://www.torinoclick.it/territorio/un-pomeriggio-per-imparare-condividere-e-fare-la-differenza/",
-      "data": "2026-03-26T12:31:29+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "085f1456a75b",
-      "titolo": "Smog, fino a mercoledì 25marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-mercoledi-25marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-      "data": "2026-03-23T11:16:00+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "58471fc25436",
-      "titolo": "Smog, fino a lunedì 23 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-23-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-      "data": "2026-03-20T11:11:07+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "9b1cd38a477a",
-      "titolo": "Smog, fino a venerdì 20 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-venerdi-20-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-      "data": "2026-03-18T15:38:30+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "a47e8450ec77",
-      "titolo": "Smog, fino a mercoledì 18 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-mercoledi-18-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-      "data": "2026-03-16T13:22:00+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "bd57249923b3",
-      "titolo": "Torino tra i Comuni “Plastic Free 2026”",
-      "link": "https://www.torinoclick.it/economia/torino-tra-i-comuni-plastic-free-2026/",
-      "data": "2026-03-14T16:14:00+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "168303084a53",
-      "titolo": "Smog, fino a lunedì 16 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-      "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-16-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-      "data": "2026-03-13T11:30:14+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
-  "energia": [
-    {
-      "id": "86a6b4150f14",
-      "titolo": "Fondo Sociale 2026: sostegno alle famiglie delle case popolari",
-      "link": "https://www.comune.torino.it/novita/avvisi/fondo-sociale-2026-sostegno-alle-famiglie-delle-case-popolari",
-      "data": "2026-03-24T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
