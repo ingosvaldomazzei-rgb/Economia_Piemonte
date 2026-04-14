@@ -1,5 +1,15 @@
 [
   {
+    "id": "5674f8377026",
+    "titolo": "Il Piemonte al Vinitaly 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
+    "descrizione": "Il Piemonte torna a proporre le sue eccellenze vitivinicole e suoi prodotti enograstronimici di qualità all'edizione 2026 di Vinitaly, a Verona Fiere da domenica 12 a mercoledì 15 aprile. Allestito per l’occasione un grande spazio di 700 m2 nel…",
+    "data": "2026-04-14T12:10:02+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "28a7a40da407",
     "titolo": "Olimpiadi estive: Torino, Milano, Genova, Piemonte, Lombardia e Liguria insieme per una candidatura olimpica del Nord-Ovest",
     "link": "https://www.comune.torino.it/novita/comunicati/olimpiadi-estive-torino-milano-genova-piemonte-lombardia-liguria-insieme-per-una",
@@ -8,6 +18,26 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "3e57dc811c41",
+    "titolo": "Domani riapre il sottopasso Spezia. In settimana manutenzione dei sottopassi Statuto, Repubblica e Grosseto",
+    "link": "https://www.comune.torino.it/novita/comunicati/domani-riapre-sottopasso-spezia-settimana-manutenzione-dei-sottopassi-statuto",
+    "descrizione": "Nella mattinata di domani verrà riaperto al transito il sottopasso Spezia. Questa settimana, inoltre, tre sottopassi saranno oggetto di manutenzione",
+    "data": "2026-04-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "61c4cb9dfb21",
+    "titolo": "Olimpiadi estive: si lavora per una candidatura del Nord-Ovest",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/olimpiadi-estive-si-lavora-per-una-candidatura-nord-ovest",
+    "descrizione": "Le Regioni Piemonte, Lombardia e Liguria, insieme alle Città di Torino, Milano e Genova, annunciano l’avvio di un percorso congiunto volto a valutare la possibilità di presentare una candidatura unitaria del Nord-Ovest italiano per ospitare una futura edizione dei Giochi olimpici e…",
+    "data": "2026-04-14T11:01:52+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "cf4a4dced20c",
@@ -145,16 +175,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
     "descrizione": "Attrarre nuovi investimenti, rafforzare il posizionamento internazionale del comparto produttivo con le sue eccellenze, consolidare le relazioni con uno dei mercati più avanzati e strutturalmente affini alle filiere europee ad alta specializzazione, in particolare aerospazio, scienze della vita…",
     "data": "2026-04-12T18:02:06+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "5674f8377026",
-    "titolo": "Il Piemonte al Vinitaly 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
-    "descrizione": "Il Piemonte torna a proporre le sue eccellenze vitivinicole e suoi prodotti enograstronimici di qualità all'edizione 2026 di Vinitaly, a Verona Fiere da domenica 12 a mercoledì 15 aprile. Allestito per l’occasione un grande spazio di 700 m2 nel…",
-    "data": "2026-04-12T14:21:02+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "76e79d438316",
-    "titolo": "Maltempo in Piemonte nel weekend: allerta gialla per neve e valanghe",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/allerta-meteo-piemonte-neve-piogge-valanghe/",
-    "descrizione": "La comunicazione di ARPA Piemonte: in arrivo piogge forti, neve fino a 500 metri e rischio valanghe soprattutto a nord L'articolo Maltempo in Piemonte nel weekend: allerta gialla per neve e valanghe proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T12:56:55+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
-  },
-  {
-    "id": "5335e6e3d422",
-    "titolo": "“Unit* contro le Mafie”: l’iniziativa di UniTo per il contrasto alla criminalità organizzata",
-    "link": "https://www.quotidianopiemontese.it/2026/03/13/unito-contro-mafie-incontro-torino-legalita/",
-    "descrizione": "A pochi giorni dal 21 marzo, \"Giornata nazionale della memoria e dell’impegno in ricordo delle vittime innocenti delle mafie\", l'iniziativa di UniTo L'articolo “Unit* contro le Mafie”: l’iniziativa di UniTo per il contrasto alla criminalità organizzata proviene da Quotidiano Piemontese.",
-    "data": "2026-03-13T12:46:41+00:00",
-    "fonte": "Quotidiano Piemontese",
-    "fonte_id": "quotidiano_piemontese",
-    "colore": "#0891b2"
   }
 ]
