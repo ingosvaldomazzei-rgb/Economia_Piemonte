@@ -30,6 +30,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "60cfaa3007a2",
+    "titolo": "Torino città dell’aerospazio: Thales Alenia Space propone la realizzazione di un nuovo edificio produttivo",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-citta-dellaerospazio-thales-alenia-space-propone-realizzazione-un-nuovo",
+    "descrizione": "La Città di Torino si conferma come polo industriale e tecnologico di rilevanza internazionale.",
+    "data": "2026-04-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "61c4cb9dfb21",
     "titolo": "Olimpiadi estive: si lavora per una candidatura del Nord-Ovest",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/olimpiadi-estive-si-lavora-per-una-candidatura-nord-ovest",
@@ -1988,15 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "2edc01cba66c",
-    "titolo": "36 nuovi agenti di Polizia Locale prenderanno servizio in Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/36-nuovi-agenti-polizia-locale-prenderanno-servizio-piemonte",
-    "descrizione": "Al Teatro Alessandrino di Alessandria il 13 marzo si è tenuta la cerimonia conclusiva del 99° Corso Regionale di Formazione per Agenti di Polizia Locale, promosso dalla Regione Piemonte in collaborazione con la Città di Alessandria. Al…",
-    "data": "2026-03-13T13:47:55+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

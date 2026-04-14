@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 36,
-    "comune_torino": 111,
+    "regione": 35,
+    "comune_torino": 112,
     "torinoclick": 53
   },
   "temi_attivi": [
@@ -39,12 +39,12 @@
       "conteggio": 10
     },
     {
-      "tema": "pianificazione-territoriale",
+      "tema": "agricoltura",
       "conteggio": 10
     },
     {
-      "tema": "agricoltura",
-      "conteggio": 9
+      "tema": "pianificazione-territoriale",
+      "conteggio": 10
     }
   ],
   "totale_temi_con_notizie": 24
