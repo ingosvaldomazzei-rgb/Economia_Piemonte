@@ -1,18 +1,92 @@
 {
+  "pianificazione-territoriale": [
+    {
+      "id": "f32cae34a418",
+      "titolo": "25 aprile, il programma completo delle iniziative per la Festa della Liberazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/25-aprile-programma-completo-delle-iniziative-per-festa-della-liberazione",
+      "data": "2026-04-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "43cb4d4d4c8f",
+      "titolo": "Sala Rossa: approvati tre atti di indirizzo per l'adesione della Città di Torino alla piattaforma unica nazionale dei contrassegni disabili CUDE",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvati-tre-atti-indirizzo-per-ladesione-della-citta-torino-alla",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "854704bf0dd4",
+      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
+      "data": "2026-04-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5feb3d3c0933",
+      "titolo": "Nuovo Piano Regolatore Generale",
+      "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "93a8e30409a6",
+      "titolo": "Nuovi addensamenti commerciali - Piano Regolatore Generale",
+      "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "50a8e14b7872",
+      "titolo": "Riqualificazione, continuità e apertura al territorio: al via una nuova gestione per la palestra della scuola primaria Manzoni",
+      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-continuita-apertura-al-territorio-al-via-una-nuova-gestione-per",
+      "data": "2026-03-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0d075a929acd",
+      "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
+      "link": "https://www.comune.torino.it/novita/comunicati/appalti-badge-nei-cantieri-stop-ai-subappalti-cascata-citta-sindacati-firmano",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ff92d8c1b298",
+      "titolo": "Il Salone del Libro presenta il programma della 38esima edizione, Il mondo salvato dai ragazzini",
+      "link": "https://www.torinoclick.it/cultura/il-salone-del-libro-presenta-il-programma-della-38esima-edizione-il-mondo-salvato-dai-ragazzini/",
+      "data": "2026-03-20T18:33:16+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "9f5e5fd57491",
+      "titolo": "MaB CollinaPo. Dieci anni della Riserva della Biosfera MaB UNESCO che guarda al futuro del suo territorio",
+      "link": "https://www.torinoclick.it/territorio/buon-compleanno-collinapo-dieci-anni-di-riserva-della-biosfera-unesco/",
+      "data": "2026-03-19T14:49:51+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "f6667946fdca",
+      "titolo": "Il grande ciclismo amatoriale pedala nella storia: presentata la Granfondo Torino 2026",
+      "link": "https://www.torinoclick.it/sport/il-grande-ciclismo-amatoriale-pedala-nella-storia-presentata-la-granfondo-torino-2026/",
+      "data": "2026-03-19T11:04:50+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
   "commercio-artigianato": [
     {
       "id": "5674f8377026",
       "titolo": "Il Piemonte al Vinitaly 2026",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
       "data": "2026-04-14T12:10:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "67fd4ffdb2c7",
-      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
-      "data": "2026-04-12T18:02:06+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -37,6 +111,14 @@
       "titolo": "È l’Asti Docg il vino piemontese dell’anno 2026",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-docg-vino-piemontese-dellanno-2026",
       "data": "2026-04-03T15:36:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "67fd4ffdb2c7",
+      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
+      "data": "2026-04-01T09:02:06+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -71,14 +153,6 @@
       "data": "2026-03-16T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6f3546b5eb74",
-      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
-      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
-      "data": "2026-03-15T11:20:34+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
     }
   ],
   "sport": [
@@ -525,22 +599,6 @@
       "data": "2026-03-18T15:26:24+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    },
-    {
-      "id": "aa8970f27ae0",
-      "titolo": "Il Consiglio comunale approva il progetto preliminare del nuovo Piano Regolatore",
-      "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-progetto-preliminare-nuovo-piano-regolatore",
-      "data": "2026-03-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6f3546b5eb74",
-      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
-      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
-      "data": "2026-03-15T11:20:34+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
     }
   ],
   "cultura-beni-culturali": [
@@ -861,93 +919,19 @@
       "fonte_id": "torinoclick"
     }
   ],
-  "pianificazione-territoriale": [
-    {
-      "id": "43cb4d4d4c8f",
-      "titolo": "Sala Rossa: approvati tre atti di indirizzo per l'adesione della Città di Torino alla piattaforma unica nazionale dei contrassegni disabili CUDE",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvati-tre-atti-indirizzo-per-ladesione-della-citta-torino-alla",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "854704bf0dd4",
-      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
-      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
-      "data": "2026-04-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5feb3d3c0933",
-      "titolo": "Nuovo Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "93a8e30409a6",
-      "titolo": "Nuovi addensamenti commerciali - Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "50a8e14b7872",
-      "titolo": "Riqualificazione, continuità e apertura al territorio: al via una nuova gestione per la palestra della scuola primaria Manzoni",
-      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-continuita-apertura-al-territorio-al-via-una-nuova-gestione-per",
-      "data": "2026-03-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0d075a929acd",
-      "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
-      "link": "https://www.comune.torino.it/novita/comunicati/appalti-badge-nei-cantieri-stop-ai-subappalti-cascata-citta-sindacati-firmano",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ff92d8c1b298",
-      "titolo": "Il Salone del Libro presenta il programma della 38esima edizione, Il mondo salvato dai ragazzini",
-      "link": "https://www.torinoclick.it/cultura/il-salone-del-libro-presenta-il-programma-della-38esima-edizione-il-mondo-salvato-dai-ragazzini/",
-      "data": "2026-03-20T18:33:16+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "9f5e5fd57491",
-      "titolo": "MaB CollinaPo. Dieci anni della Riserva della Biosfera MaB UNESCO che guarda al futuro del suo territorio",
-      "link": "https://www.torinoclick.it/territorio/buon-compleanno-collinapo-dieci-anni-di-riserva-della-biosfera-unesco/",
-      "data": "2026-03-19T14:49:51+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "f6667946fdca",
-      "titolo": "Il grande ciclismo amatoriale pedala nella storia: presentata la Granfondo Torino 2026",
-      "link": "https://www.torinoclick.it/sport/il-grande-ciclismo-amatoriale-pedala-nella-storia-presentata-la-granfondo-torino-2026/",
-      "data": "2026-03-19T11:04:50+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "aa8970f27ae0",
-      "titolo": "Il Consiglio comunale approva il progetto preliminare del nuovo Piano Regolatore",
-      "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-progetto-preliminare-nuovo-piano-regolatore",
-      "data": "2026-03-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "edilizia-opere-pubbliche": [
     {
       "id": "3ac068d9fd74",
       "titolo": "Coinvolgere gli umarell nei cantieri",
       "link": "https://www.comune.torino.it/novita/comunicati/coinvolgere-umarell-nei-cantieri",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "723d848d3752",
+      "titolo": "Edilizia Privata - Modifiche ai servizi di informazione",
+      "link": "https://www.comune.torino.it/novita/avvisi/edilizia-privata-modifiche-ai-servizi-informazione",
       "data": "2026-04-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -999,75 +983,35 @@
       "data": "2026-03-18T14:25:28+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "8270d8571b6b",
-      "titolo": "Regime di salvaguardia urbanistica",
-      "link": "https://www.comune.torino.it/novita/avvisi/regime-salvaguardia-urbanistica",
-      "data": "2026-03-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
-  "attivita-produttive": [
+  "trasparenza": [
     {
-      "id": "67fd4ffdb2c7",
-      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
-      "data": "2026-04-12T18:02:06+02:00",
+      "id": "38f0bd1fd19c",
+      "titolo": "Daniela Cameroni è il nuovo assessore regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/daniela-cameroni-nuovo-assessore-regionale",
+      "data": "2026-04-10T20:37:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "e8773137c2ed",
-      "titolo": "Parco della Salute: chiusura positiva della conferenza dei servizi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-chiusura-positiva-della-conferenza-dei-servizi",
-      "data": "2026-04-03T18:56:23+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a3d1222b666e",
-      "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
-      "data": "2026-04-03T16:26:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f4c2d160346f",
-      "titolo": "Inizia la fase operativa per lo stabilimento di Silicon Box a Novara",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inizia-fase-operativa-per-stabilimento-silicon-box-novara",
-      "data": "2026-03-31T15:07:22+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "dc06925efe56",
-      "titolo": "Mobilità autonoma: il futuro si disegna a Torino. Una giornata per toccare con mano l’innovazione",
-      "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-futuro-si-disegna-torino-una-giornata-per-toccare-mano",
-      "data": "2026-03-30T12:00:00+00:00",
+      "id": "2d482794f268",
+      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
+      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
+      "data": "2026-03-24T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
     {
-      "id": "ea7ca8a3eb7c",
-      "titolo": "Torino-Regno Unito: a Palazzo di Città un incontro tra innovazione, atenei e gemellaggi",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-regno-unito-a-palazzo-di-citta-un-incontro-tra-innovazione-atenei-e-gemellaggi/",
-      "data": "2026-03-25T15:30:36+00:00",
+      "id": "60da1e092469",
+      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
+      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
+      "data": "2026-03-20T16:03:01+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
     }
   ],
   "universita-ricerca": [
-    {
-      "id": "67fd4ffdb2c7",
-      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
-      "data": "2026-04-12T18:02:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
     {
       "id": "38f0bd1fd19c",
       "titolo": "Daniela Cameroni è il nuovo assessore regionale",
@@ -1097,6 +1041,14 @@
       "titolo": "Piemove si estende a 14 realtà accademiche",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-14-realta-accademiche",
       "data": "2026-04-01T19:25:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "67fd4ffdb2c7",
+      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
+      "data": "2026-04-01T09:02:06+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -1149,32 +1101,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "trasparenza": [
-    {
-      "id": "38f0bd1fd19c",
-      "titolo": "Daniela Cameroni è il nuovo assessore regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/daniela-cameroni-nuovo-assessore-regionale",
-      "data": "2026-04-10T20:37:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2d482794f268",
-      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
-      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "60da1e092469",
-      "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
-      "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
-      "data": "2026-03-20T16:03:01+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
   "sanita-regionale": [
     {
       "id": "46a058fd537e",
@@ -1205,14 +1131,6 @@
       "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
       "link": "https://www.torinoclick.it/societa/grandi-eventi-il-concerto-torino-time-per-la-fondazione-molinette/",
       "data": "2026-03-26T15:54:39+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "6f3546b5eb74",
-      "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
-      "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
-      "data": "2026-03-15T11:20:34+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
     }
@@ -1477,6 +1395,56 @@
       "titolo": "Le scuole torinesi al Festival della Felicità",
       "link": "https://www.torinoclick.it/societa/le-scuole-torinesi-al-festival-della-felicita/",
       "data": "2026-03-17T15:49:04+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
+  "attivita-produttive": [
+    {
+      "id": "e8773137c2ed",
+      "titolo": "Parco della Salute: chiusura positiva della conferenza dei servizi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-chiusura-positiva-della-conferenza-dei-servizi",
+      "data": "2026-04-03T18:56:23+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a3d1222b666e",
+      "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
+      "data": "2026-04-03T16:26:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "67fd4ffdb2c7",
+      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
+      "data": "2026-04-01T09:02:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f4c2d160346f",
+      "titolo": "Inizia la fase operativa per lo stabilimento di Silicon Box a Novara",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inizia-fase-operativa-per-stabilimento-silicon-box-novara",
+      "data": "2026-03-31T15:07:22+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "dc06925efe56",
+      "titolo": "Mobilità autonoma: il futuro si disegna a Torino. Una giornata per toccare con mano l’innovazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-futuro-si-disegna-torino-una-giornata-per-toccare-mano",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ea7ca8a3eb7c",
+      "titolo": "Torino-Regno Unito: a Palazzo di Città un incontro tra innovazione, atenei e gemellaggi",
+      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-regno-unito-a-palazzo-di-citta-un-incontro-tra-innovazione-atenei-e-gemellaggi/",
+      "data": "2026-03-25T15:30:36+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
     }

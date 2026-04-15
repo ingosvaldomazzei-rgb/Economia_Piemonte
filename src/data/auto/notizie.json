@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "f32cae34a418",
+    "titolo": "25 aprile, il programma completo delle iniziative per la Festa della Liberazione",
+    "link": "https://www.comune.torino.it/novita/comunicati/25-aprile-programma-completo-delle-iniziative-per-festa-della-liberazione",
+    "descrizione": "Anche quest’anno Torino si prepara a celebrare la Festa della Liberazione con un ricco programma di appuntamenti su tutto il territorio cittadino.",
+    "data": "2026-04-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "33cc21fb5000",
+    "titolo": "La Città di Torino mette in vendita 130 mezzi",
+    "link": "https://www.comune.torino.it/novita/avvisi/citta-torino-mette-vendita-130-mezzi",
+    "descrizione": "La vendita avverrà mediante asta pubblica aperta a tutti i cittadini.",
+    "data": "2026-04-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "5674f8377026",
     "titolo": "Il Piemonte al Vinitaly 2026",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
@@ -190,14 +210,14 @@
     "colore": "#dc2626"
   },
   {
-    "id": "67fd4ffdb2c7",
-    "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
-    "descrizione": "Attrarre nuovi investimenti, rafforzare il posizionamento internazionale del comparto produttivo con le sue eccellenze, consolidare le relazioni con uno dei mercati più avanzati e strutturalmente affini alle filiere europee ad alta specializzazione, in particolare aerospazio, scienze della vita…",
-    "data": "2026-04-12T18:02:06+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
+    "id": "723d848d3752",
+    "titolo": "Edilizia Privata - Modifiche ai servizi di informazione",
+    "link": "https://www.comune.torino.it/novita/avvisi/edilizia-privata-modifiche-ai-servizi-informazione",
+    "descrizione": "Rinnovo dei servizi di informazione forniti dalla Divisione Edilizia Privata",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
   },
   {
     "id": "38f0bd1fd19c",
@@ -538,6 +558,16 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "67fd4ffdb2c7",
+    "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
+    "descrizione": "Attrarre nuovi investimenti, rafforzare il posizionamento internazionale del comparto produttivo con le sue eccellenze, consolidare le relazioni con uno dei mercati più avanzati e strutturalmente affini alle filiere europee ad alta specializzazione, in particolare aerospazio, scienze della vita…",
+    "data": "2026-04-01T09:02:06+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "f4c2d160346f",
@@ -1968,35 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "aa8970f27ae0",
-    "titolo": "Il Consiglio comunale approva il progetto preliminare del nuovo Piano Regolatore",
-    "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-progetto-preliminare-nuovo-piano-regolatore",
-    "descrizione": "Con 24 voti a favore e 4 contrari, il Consiglio comunale ha approvato, dopo un serrato confronto, il progetto preliminare del nuovo Piano Regolatore Generale",
-    "data": "2026-03-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8270d8571b6b",
-    "titolo": "Regime di salvaguardia urbanistica",
-    "link": "https://www.comune.torino.it/novita/avvisi/regime-salvaguardia-urbanistica",
-    "descrizione": "Con l'adozione del Progetto Preliminare della Revisione del PRG vige il regime di salvaguardia urbanistica.",
-    "data": "2026-03-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6f3546b5eb74",
-    "titolo": "A Franca Fagioli il premio ‘Torinese dell’anno’",
-    "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
-    "descrizione": "Si è svolta questa mattina al Teatro Alfieri la tradizionale festa dedicata ai valori del lavoro e dell’impegno professionale organizzata dalla Camera di commercio di Torino. Il presidente Massimiliano Cipolletta ha consegnato il 49° Premio “Torinese dell’Anno” alla professoressa Franca Fagioli, direttrice del Dipartimento di Patologia e Cura del Bambino dell’Ospedale Infantile Regina Margherita di Torino. “Alla sua dedizione e caparbietà – ha detto il presidente dell’ente camerale nel consegnar",
-    "data": "2026-03-15T11:20:34+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
   }
 ]
