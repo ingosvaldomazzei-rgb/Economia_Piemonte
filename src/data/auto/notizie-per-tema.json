@@ -1,4 +1,70 @@
 {
+  "commercio-artigianato": [
+    {
+      "id": "5674f8377026",
+      "titolo": "Il Piemonte al Vinitaly 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
+      "data": "2026-04-15T17:10:02+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "79b96f376bc9",
+      "titolo": "NABANA SHOW di Angelo Pintus (17-18 APRILE 2026), concerti di GIANNI MORANDI (19 APRILE 2026), FRAH QUINTALE (21 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/nabana-show-angelo-pintus-17-18-aprile-2026-concerti-gianni-morandi-19-aprile",
+      "data": "2026-04-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8eeb36d1033c",
+      "titolo": "Commercio al dettaglio in sede fissa - decadenza cessata attività",
+      "link": "https://www.comune.torino.it/novita/avvisi/commercio-al-dettaglio-sede-fissa-decadenza-cessata-attivita-0",
+      "data": "2026-04-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1a566b741a8a",
+      "titolo": "È l’Asti Docg il vino piemontese dell’anno 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-docg-vino-piemontese-dellanno-2026",
+      "data": "2026-04-03T15:36:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "67fd4ffdb2c7",
+      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
+      "data": "2026-04-01T09:02:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bef0c22e23c9",
+      "titolo": "Concerto di TAME IMPALA (12 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/concerto-tame-impala-12-aprile-2026-convocazione-per-assegnazione-posteggi",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "738e92843ded",
+      "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa religiosa di Santa Rita",
+      "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4d868c7ab449",
+      "titolo": "Concerti di ACHILLE LAURO (24 MARZO 2026), GIGI D'ALESSIO (25 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/concerti-achille-lauro-24-marzo-2026-gigi-dalessio-25-marzo-2026-convocazione",
+      "data": "2026-03-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "pianificazione-territoriale": [
     {
       "id": "f32cae34a418",
@@ -79,80 +145,6 @@
       "data": "2026-03-19T11:04:50+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    }
-  ],
-  "commercio-artigianato": [
-    {
-      "id": "5674f8377026",
-      "titolo": "Il Piemonte al Vinitaly 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
-      "data": "2026-04-14T12:10:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "79b96f376bc9",
-      "titolo": "NABANA SHOW di Angelo Pintus (17-18 APRILE 2026), concerti di GIANNI MORANDI (19 APRILE 2026), FRAH QUINTALE (21 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/nabana-show-angelo-pintus-17-18-aprile-2026-concerti-gianni-morandi-19-aprile",
-      "data": "2026-04-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8eeb36d1033c",
-      "titolo": "Commercio al dettaglio in sede fissa - decadenza cessata attività",
-      "link": "https://www.comune.torino.it/novita/avvisi/commercio-al-dettaglio-sede-fissa-decadenza-cessata-attivita-0",
-      "data": "2026-04-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1a566b741a8a",
-      "titolo": "È l’Asti Docg il vino piemontese dell’anno 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-docg-vino-piemontese-dellanno-2026",
-      "data": "2026-04-03T15:36:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "67fd4ffdb2c7",
-      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
-      "data": "2026-04-01T09:02:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bef0c22e23c9",
-      "titolo": "Concerto di TAME IMPALA (12 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/concerto-tame-impala-12-aprile-2026-convocazione-per-assegnazione-posteggi",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "738e92843ded",
-      "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa religiosa di Santa Rita",
-      "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4d868c7ab449",
-      "titolo": "Concerti di ACHILLE LAURO (24 MARZO 2026), GIGI D'ALESSIO (25 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/concerti-achille-lauro-24-marzo-2026-gigi-dalessio-25-marzo-2026-convocazione",
-      "data": "2026-03-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cc7e37b8bbe0",
-      "titolo": "Concerti di LUCHE' (21 MARZO 2026), OLLY (22 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/concerti-luche-21-marzo-2026-olly-22-marzo-2026-convocazione-per-assegnazione",
-      "data": "2026-03-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "sport": [

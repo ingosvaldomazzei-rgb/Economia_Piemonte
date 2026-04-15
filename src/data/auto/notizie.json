@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "5674f8377026",
+    "titolo": "Il Piemonte al Vinitaly 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
+    "descrizione": "Il Piemonte è tornato a proporre le sue eccellenze vitivinicole e suoi prodotti enograstronimici di qualità all'edizione 2026 di Vinitaly, a Verona Fiere da domenica 12 a mercoledì 15 aprile. Allestito per l’occasione un grande spazio di 700 m2…",
+    "data": "2026-04-15T17:10:02+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "f32cae34a418",
     "titolo": "25 aprile, il programma completo delle iniziative per la Festa della Liberazione",
     "link": "https://www.comune.torino.it/novita/comunicati/25-aprile-programma-completo-delle-iniziative-per-festa-della-liberazione",
@@ -30,14 +40,14 @@
     "colore": "#dc2626"
   },
   {
-    "id": "5674f8377026",
-    "titolo": "Il Piemonte al Vinitaly 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
-    "descrizione": "Il Piemonte torna a proporre le sue eccellenze vitivinicole e suoi prodotti enograstronimici di qualità all'edizione 2026 di Vinitaly, a Verona Fiere da domenica 12 a mercoledì 15 aprile. Allestito per l’occasione un grande spazio di 700 m2 nel…",
-    "data": "2026-04-14T12:10:02+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
+    "id": "2c262a090bff",
+    "titolo": "Cantiere Piazza Baldissera: al via la posa degli scambi tramviari tra via Stradella e via Chiesa della Salute",
+    "link": "https://www.comune.torino.it/novita/comunicati/cantiere-piazza-baldissera-al-via-posa-degli-scambi-tramviari-via-stradella-via",
+    "descrizione": "Il cantiere di Piazza Baldissera entra ufficialmente nella sua ultima fase operativa.",
+    "data": "2026-04-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
   },
   {
     "id": "28a7a40da407",
@@ -1984,16 +1994,6 @@
     "titolo": "Mercoledì 18 marzo arrivo alla Basilica di Superga della corsa ciclistica Milano – Torino. Previste modifiche viabili e deviazioni del trasporto pubblico",
     "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-18-marzo-arrivo-alla-basilica-superga-della-corsa-ciclistica-milano",
     "descrizione": "La corsa ciclistica più antica del mondo, la Milano-Torino, torna con una nuova edizione mercoledì 18 marzo.",
-    "data": "2026-03-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "cc7e37b8bbe0",
-    "titolo": "Concerti di LUCHE' (21 MARZO 2026), OLLY (22 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/notizie/concerti-luche-21-marzo-2026-olly-22-marzo-2026-convocazione-per-assegnazione",
-    "descrizione": "Convocazione per GIOVEDI' 19 MARZO ore 14,00 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali.",
     "data": "2026-03-16T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
