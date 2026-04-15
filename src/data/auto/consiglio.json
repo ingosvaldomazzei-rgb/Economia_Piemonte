@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-04-15T03:22:39.899094+00:00",
+  "ultimo_aggiornamento": "2026-04-15T08:00:42.355901+00:00",
   "sedute": [
     {
       "id": "2438f195f152",
@@ -224,7 +224,7 @@
       "titolo": "Tramonto del progetto ¿Hydrogen Valley¿ di Gattinara: quali responsabilità e quali azioni della Regione Piemonte?",
       "data": "2026-02-19T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/interfo/legislatura/12/atto/930/",
-      "stato": ""
+      "stato": "Discussa"
     },
     {
       "id": "985477148e56",
@@ -1970,9 +1970,9 @@
     "totale_sedute": 16,
     "totale_interrogazioni": 100,
     "totale_interpellanze": 0,
-    "totale_mozioni": 2,
-    "totale_odg": 98,
-    "mozioni_approvate": 55,
-    "mozioni_respinte": 18
+    "totale_mozioni": 5,
+    "totale_odg": 145,
+    "mozioni_approvate": 73,
+    "mozioni_respinte": 31
   }
 }

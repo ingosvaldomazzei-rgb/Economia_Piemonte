@@ -1,9 +1,9 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
+    "comune_torino": 113,
     "regione": 35,
-    "comune_torino": 112,
-    "torinoclick": 53
+    "torinoclick": 52
   },
   "temi_attivi": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 19
+      "conteggio": 18
     },
     {
       "tema": "lavoro-occupazione",

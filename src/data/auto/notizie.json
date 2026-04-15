@@ -1,5 +1,15 @@
 [
   {
+    "id": "4b59b5eddb39",
+    "titolo": "L'Archivio Storico presenta una mostra sul cibo nella storia della Città: inaugurazione mercoledì 22 aprile con visite guidate",
+    "link": "https://www.comune.torino.it/novita/notizie/larchivio-storico-presenta-una-mostra-sul-cibo-nella-storia-della-citta",
+    "descrizione": "Apertura straordinaria dalle ore 17,00 alle ore 19,30 per: \"Il gusto nella storia. Torino il cibo nell'Archivio della Città\"",
+    "data": "2026-04-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "5674f8377026",
     "titolo": "Il Piemonte al Vinitaly 2026",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
@@ -1985,16 +1995,6 @@
     "link": "https://www.torinoclick.it/societa/a-franca-fagioli-il-premio-torinese-dellanno/",
     "descrizione": "Si è svolta questa mattina al Teatro Alfieri la tradizionale festa dedicata ai valori del lavoro e dell’impegno professionale organizzata dalla Camera di commercio di Torino. Il presidente Massimiliano Cipolletta ha consegnato il 49° Premio “Torinese dell’Anno” alla professoressa Franca Fagioli, direttrice del Dipartimento di Patologia e Cura del Bambino dell’Ospedale Infantile Regina Margherita di Torino. “Alla sua dedizione e caparbietà – ha detto il presidente dell’ente camerale nel consegnar",
     "data": "2026-03-15T11:20:34+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "bd57249923b3",
-    "titolo": "Torino tra i Comuni “Plastic Free 2026”",
-    "link": "https://www.torinoclick.it/economia/torino-tra-i-comuni-plastic-free-2026/",
-    "descrizione": "C’è anche Torino tra i Comuni italiani premiati con il riconoscimento “Plastic Free 2026”, assegnato dall’associazione Plastic Free Onlus alle amministrazioni che si distinguono per l’impegno nella riduzione dell’inquinamento da plastica e nella promozione di buone pratiche ambientali.",
-    "data": "2026-03-14T16:14:00+00:00",
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
