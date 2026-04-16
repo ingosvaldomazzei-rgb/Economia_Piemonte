@@ -1,9 +1,9 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 114,
+    "comune_torino": 115,
     "regione": 36,
-    "torinoclick": 50
+    "torinoclick": 49
   },
   "temi_attivi": [
     {
@@ -27,10 +27,6 @@
       "conteggio": 11
     },
     {
-      "tema": "sport",
-      "conteggio": 11
-    },
-    {
       "tema": "giovani",
       "conteggio": 11
     },
@@ -40,6 +36,10 @@
     },
     {
       "tema": "pianificazione-territoriale",
+      "conteggio": 10
+    },
+    {
+      "tema": "sport",
       "conteggio": 10
     },
     {

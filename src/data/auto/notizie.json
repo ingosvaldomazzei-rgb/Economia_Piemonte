@@ -20,6 +20,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "4661e7ee94c2",
+    "titolo": "Un giardino per Giuliana Fiorentino Tedeschi",
+    "link": "https://www.comune.torino.it/novita/comunicati/un-giardino-per-giuliana-fiorentino-tedeschi",
+    "descrizione": "Domani, venerdì 17 aprile 2026, alle ore 11, in piazza Bernini 12, si svolgerà la cerimonia per l’intitolazione a Giuliana Fiorentino Tedeschi",
+    "data": "2026-04-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "cd316bc7dfcb",
     "titolo": "Contributi per cinque nuove “infrastrutture blu”",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-cinque-nuove-infrastrutture-blu",
@@ -83,7 +93,7 @@
     "id": "a32fe2c6bbf9",
     "titolo": "Limitazioni alla circolazione veicolare valide tutto l'anno",
     "link": "https://www.comune.torino.it/novita/avvisi/limitazioni-alla-circolazione-veicolare-valide-tutto-lanno",
-    "descrizione": "Attive le sole limitazioni strutturali in vogire tutto l'anno",
+    "descrizione": "Attive le sole limitazioni strutturali in vigore tutto l'anno",
     "data": "2026-04-15T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1988,15 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "3b865d86ce72",
-    "titolo": "Mercoledì 18 marzo arrivo alla Basilica di Superga della corsa ciclistica Milano – Torino. Previste modifiche viabili e deviazioni del trasporto pubblico",
-    "link": "https://www.torinoclick.it/trasporti/mercoledi-18-marzo-arrivo-alla-basilica-di-superga-della-corsa-ciclistica-milano-torino-previste-modifiche-viabili-e-deviazioni-del-trasporto-pubblico/",
-    "descrizione": "La corsa ciclistica più antica del mondo, la Milano-Torino, torna con una nuova edizione mercoledì 18 marzo. Torino ospiterà l’arrivo alla Basilica di Superga, dopo una doppia salita al Colle.",
-    "data": "2026-03-16T14:49:47+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
   }
 ]
