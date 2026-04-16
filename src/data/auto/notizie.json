@@ -10,6 +10,36 @@
     "colore": "#dc2626"
   },
   {
+    "id": "0d253fd4c56a",
+    "titolo": "Poesie, letture e musica con papà e mamma",
+    "link": "https://www.comune.torino.it/novita/notizie/poesie-letture-musica-papa-mamma",
+    "descrizione": "In occasione della 𝐆𝐢𝐨𝐫𝐧𝐚𝐭𝐚 𝐌𝐨𝐧𝐝𝐢𝐚𝐥𝐞 𝐝𝐞𝐥 𝐋𝐢𝐛𝐫𝐨 𝐞 𝐝𝐞𝐥 𝐃𝐢𝐫𝐢𝐭𝐭𝐨 𝐝'𝐀𝐮𝐭𝐨𝐫𝐞.",
+    "data": "2026-04-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "cd316bc7dfcb",
+    "titolo": "Contributi per cinque nuove “infrastrutture blu”",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-cinque-nuove-infrastrutture-blu",
+    "descrizione": "Passa alla fase operativa la strategia della Regione Piemonte per la tutela della biodiversità e il miglioramento delle risorse idriche. Con una recente determinazione dirigenziale, la Direzione Ambiente ha infatti…",
+    "data": "2026-04-16T11:08:55+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "67fd4ffdb2c7",
+    "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
+    "descrizione": "Attrarre nuovi investimenti, rafforzare il posizionamento internazionale del comparto produttivo con le sue eccellenze, consolidare le relazioni con uno dei mercati più avanzati e strutturalmente affini alle filiere europee ad alta specializzazione, in particolare aerospazio, scienze della vita…",
+    "data": "2026-04-16T09:02:06+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "5674f8377026",
     "titolo": "Il Piemonte al Vinitaly 2026",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-vinitaly-2026",
@@ -44,6 +74,16 @@
     "titolo": "Cantiere Piazza Baldissera: al via la posa degli scambi tramviari tra via Stradella e via Chiesa della Salute",
     "link": "https://www.comune.torino.it/novita/comunicati/cantiere-piazza-baldissera-al-via-posa-degli-scambi-tramviari-via-stradella-via",
     "descrizione": "Il cantiere di Piazza Baldissera entra ufficialmente nella sua ultima fase operativa.",
+    "data": "2026-04-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a32fe2c6bbf9",
+    "titolo": "Limitazioni alla circolazione veicolare valide tutto l'anno",
+    "link": "https://www.comune.torino.it/novita/avvisi/limitazioni-alla-circolazione-veicolare-valide-tutto-lanno",
+    "descrizione": "Attive le sole limitazioni strutturali in vogire tutto l'anno",
     "data": "2026-04-15T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -153,7 +193,7 @@
     "id": "4ac5d5a3c387",
     "titolo": "Come iscriversi alla Festa dei Vicini 2026",
     "link": "https://www.comune.torino.it/novita/notizie/come-iscriversi-alla-festa-dei-vicini-2026",
-    "descrizione": "Entro il 30 aprile è possibile iscriversi per organizzare una festa nel proprio quartiere; partecipa giovedì 16 aprile all'incontro online di presentazione.",
+    "descrizione": "Entro il 30 aprile è possibile iscriversi per organizzare una festa nel proprio quartiere; è disponibile la registrazione della presentazione del 16 aprile.",
     "data": "2026-04-13T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -568,16 +608,6 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "67fd4ffdb2c7",
-    "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
-    "descrizione": "Attrarre nuovi investimenti, rafforzare il posizionamento internazionale del comparto produttivo con le sue eccellenze, consolidare le relazioni con uno dei mercati più avanzati e strutturalmente affini alle filiere europee ad alta specializzazione, in particolare aerospazio, scienze della vita…",
-    "data": "2026-04-01T09:02:06+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   },
   {
     "id": "f4c2d160346f",
@@ -1968,35 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "a47e8450ec77",
-    "titolo": "Smog, fino a mercoledì 18 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-    "link": "https://www.torinoclick.it/trasporti/smog-fino-a-mercoledi-18-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-    "descrizione": "Prosegue fino a mercoledì 18 marzo compreso – prossimo giorno di controllo – l’applicazione delle sole misure strutturali di limitazione al traffico: sulla base dei dati previsionali sulla qualità dell’aria forniti oggi da Arpa Piemonte è stato infatti confermato il livello 0 (bianco) delle misure antismog.",
-    "data": "2026-03-16T13:22:00+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "8ca03da56e01",
-    "titolo": "CFM: cercasi DJ professionista per progetto. Avviso pubblicato",
-    "link": "https://www.comune.torino.it/novita/avvisi/cfm-cercasi-dj-professionista-per-progetto-avviso-pubblicato",
-    "descrizione": "Il Centro, tramite la Fondazione per la Cultura Torino, partner del progetto, ricerca un DJ professionista per attivare un laboratorio di DJ.",
-    "data": "2026-03-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "55013cdd7f66",
-    "titolo": "Mercoledì 18 marzo arrivo alla Basilica di Superga della corsa ciclistica Milano – Torino. Previste modifiche viabili e deviazioni del trasporto pubblico",
-    "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-18-marzo-arrivo-alla-basilica-superga-della-corsa-ciclistica-milano",
-    "descrizione": "La corsa ciclistica più antica del mondo, la Milano-Torino, torna con una nuova edizione mercoledì 18 marzo.",
-    "data": "2026-03-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

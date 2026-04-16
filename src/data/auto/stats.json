@@ -2,8 +2,8 @@
   "totale_notizie": 200,
   "notizie_per_fonte": {
     "comune_torino": 114,
-    "regione": 35,
-    "torinoclick": 51
+    "regione": 36,
+    "torinoclick": 50
   },
   "temi_attivi": [
     {
@@ -15,10 +15,6 @@
       "conteggio": 18
     },
     {
-      "tema": "sport",
-      "conteggio": 12
-    },
-    {
       "tema": "lavoro-occupazione",
       "conteggio": 12
     },
@@ -27,7 +23,11 @@
       "conteggio": 12
     },
     {
-      "tema": "universita-ricerca",
+      "tema": "agricoltura",
+      "conteggio": 11
+    },
+    {
+      "tema": "sport",
       "conteggio": 11
     },
     {
@@ -35,16 +35,16 @@
       "conteggio": 11
     },
     {
+      "tema": "universita-ricerca",
+      "conteggio": 10
+    },
+    {
       "tema": "pianificazione-territoriale",
       "conteggio": 10
     },
     {
-      "tema": "agricoltura",
-      "conteggio": 10
-    },
-    {
-      "tema": "commercio-artigianato",
-      "conteggio": 8
+      "tema": "edilizia-opere-pubbliche",
+      "conteggio": 9
     }
   ],
   "totale_temi_con_notizie": 24
