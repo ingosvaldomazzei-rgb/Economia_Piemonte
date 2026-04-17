@@ -1,6 +1,16 @@
 {
-  "ultimo_aggiornamento": "2026-04-17T07:59:35.048999+00:00",
+  "ultimo_aggiornamento": "2026-04-17T13:44:59.701592+00:00",
   "sedute": [
+    {
+      "id": "19cb852d7e9d",
+      "tipo": "seduta",
+      "numero": "087",
+      "titolo": "Seduta n. 087 del 21/04/2026",
+      "data": "2026-04-21T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=087&data_seduta=21-04-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
     {
       "id": "2438f195f152",
       "tipo": "seduta",
@@ -1967,7 +1977,7 @@
     }
   ],
   "statistiche": {
-    "totale_sedute": 16,
+    "totale_sedute": 17,
     "totale_interrogazioni": 199,
     "totale_interpellanze": 1,
     "totale_mozioni": 9,
