@@ -20,6 +20,56 @@
     "colore": "#dc2626"
   },
   {
+    "id": "2b5ae33c40a3",
+    "titolo": "Mercoledì 22 aprile la cerimonia di intitolazione a Sandro Fiorio della “balconata” di via San Donato",
+    "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-22-aprile-cerimonia-intitolazione-sandro-fiorio-della-balconata-via",
+    "descrizione": "Alla cerimonia seguirà la proiezione del documentario \"La conceria Fiorio, una storia poco conosciuta\"",
+    "data": "2026-04-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fb3487dab6f1",
+    "titolo": "È in arrivo la Torino+Piemonte Congress Card",
+    "link": "https://www.comune.torino.it/novita/comunicati/arrivo-torino-piemonte-congress-card",
+    "descrizione": "Turismo Torino e Provincia Convention Bureau lancia un nuovo strumento di accoglienza e promozione: la Torino+Piemonte Congress Card.",
+    "data": "2026-04-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "823883b24e2a",
+    "titolo": "Giornata Mondiale del Gioco 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/giornata-mondiale-gioco-2026",
+    "descrizione": "Il 16 maggio 2026 si terrà la nuova edizione della Giornata Mondiale del Gioco a Centro Cultura Ludica.",
+    "data": "2026-04-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fafd88317ec7",
+    "titolo": "Minaccia di buttarsi dal quarto piano, salvato dalla Polizia Locale",
+    "link": "https://www.comune.torino.it/novita/comunicati/minaccia-buttarsi-quarto-piano-salvato-dalla-polizia-locale",
+    "descrizione": "Sono quasi le cinque di sabato pomeriggio, in una via del centro, quando alla centrale operativa della polizia locale arriva una chiamata.",
+    "data": "2026-04-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b9605381faae",
+    "titolo": "Il Sindaco festeggia gli sposi alle nozze d’oro",
+    "link": "https://www.comune.torino.it/novita/comunicati/sindaco-festeggia-sposi-alle-nozze-doro",
+    "descrizione": "Sono quasi mille le coppie di torinesi che festeggiano le nozze d’oro nel 2026. Il Sindaco Stefano Lo Russo ha incontrato e festeggiato le prime 240.",
+    "data": "2026-04-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "c3b3e9e860ea",
     "titolo": "Nuovo bando per le imprese audiovisive e cinematografiche",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-bando-per-imprese-audiovisive-cinematografiche",
@@ -1948,55 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "b209a0835f39",
-    "titolo": "Il 21 marzo la XXXI Giornata della memoria e dell’impegno in ricordo delle vittime innocenti delle mafie",
-    "link": "https://www.torinoclick.it/torinese/il-21-marzo-la-xxxi-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie/",
-    "descrizione": "I primi familiari arriveranno in aereo da Sicilia, Calabria e Puglia, in treno con partenza Napoli con Roma, Firenze, Bologna e Milano arriveranno gli altri familiari. La città di Torino è pronta ad accogliere in un grande abbraccio le centinaia di familiari di vittime innocenti provenienti da tutta Italia in occasione della 31ª Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie promossa da Libera, con il Patrocinio della Rai e della Città di Torino e sotto l’Al",
-    "data": "2026-03-18T15:29:24+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "c82cad4a63ba",
-    "titolo": "Sabato 21 marzo il corteo per la Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie, previste modifiche viabili",
-    "link": "https://www.torinoclick.it/trasporti/sabato-21-marzo-il-corteo-per-la-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie-previste-modifiche-viabili/",
-    "descrizione": "Sabato 21 marzo la Città di Torino ospiterà la 31ª Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie, promossa dall’associazione “Libera”. Per garantire il regolare svolgimento del corteo, saranno previsti alcuni provvedimenti viabili, che interesseranno le aree centrali della città.",
-    "data": "2026-03-18T15:26:24+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "ee101bd2305f",
-    "titolo": "Oggi Torino e l’amministrazione comunale ricordano le vittime del Bardo",
-    "link": "https://www.torinoclick.it/fotonotizia/oggi-torino-e-lamministrazione-comunale-ricordano-le-vittime-del-bardo/",
-    "descrizione": "Questa mattina piazza Palazzo di Città è piombata in un silenzio interrotto solo dalle note commemorative suonate da una tromba della banda della Polizia Locale. Il sindaco Stefano Lo Russo, insieme alla presidente del Consiglio Comunale Maria Grazia Grippo e ai consiglieri Claudio Cerrato e Pierino Crema, ha preso parte al ricordo delle vittime assassinate durante l’attentato al Museo del Bardo.",
-    "data": "2026-03-18T14:35:53+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "3a11b3c61b66",
-    "titolo": "Pasqua senza cantieri sulle autostrade piemontesi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/pasqua-senza-cantieri-sulle-autostrade-piemontesi",
-    "descrizione": "Sospesi o ridotti i cantieri autostradali in vista dei ponti primaverili, da Pasqua, Festa della Liberazione, Primo maggio al ponte del 2 giugno. È questo l’obiettivo condiviso al tavolo di coordinamento promosso dalla Regione Piemonte, convocato dall’assessore regionale ai…",
-    "data": "2026-03-18T14:25:28+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a030f17e2562",
-    "titolo": "Gruppo Genitorialmente Parlando",
-    "link": "https://www.comune.torino.it/novita/notizie/gruppo-genitorialmente-parlando",
-    "descrizione": "Percorso di gruppo per i genitori che stanno vivendo delle difficoltà nella gestione della relazione con i figli preadolescenti e adolescenti.",
-    "data": "2026-03-18T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
