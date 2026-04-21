@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "d07ffed479d2",
+    "titolo": "Scopri i concerti del CFM nel cartellone del Torino Jazz Festival",
+    "link": "https://www.comune.torino.it/novita/avvisi/scopri-concerti-cfm-nel-cartellone-torino-jazz-festival",
+    "descrizione": "Come tutti gli anni il Centro Civico di Formazione Musicale partecipa al Torino Jazz Festival proponendo alcune formazioni d'eccellenza.",
+    "data": "2026-04-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "cf0a8e00af52",
     "titolo": "Torino, un nuovo polo educativo e sociale per giovani e famiglie per l’ex asilo di via Alessandria",
     "link": "https://www.comune.torino.it/novita/comunicati/torino-un-nuovo-polo-educativo-sociale-per-giovani-famiglie-per-lex-asilo-via",
@@ -44,6 +54,16 @@
     "titolo": "“Il gusto della storia”. La nuova mostra dell’Archivio Storico della Città, che esplora il legame tra Torino e il cibo",
     "link": "https://www.comune.torino.it/novita/comunicati/gusto-della-storia-nuova-mostra-dellarchivio-storico-della-citta-che-esplora",
     "descrizione": "Inaugurerà domani, mercoledì 22 aprile alle ore 17, all’Archivio Storico della Città di Torino di via Barbaroux 32.",
+    "data": "2026-04-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d0ed92fd8a70",
+    "titolo": "Consulta di Torino e Città. Rigenerazione Urbana, progetti attuati e prossime realizzazioni",
+    "link": "https://www.comune.torino.it/novita/comunicati/consulta-torino-citta-rigenerazione-urbana-progetti-attuati-prossime",
+    "descrizione": "La Cultura è elemento identitario del nostro Paese e quella della Consulta è cultura imprenditoriale.",
     "data": "2026-04-21T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1974,26 +1994,6 @@
     "titolo": "Pedali Sociali, primi appuntamenti del progetto",
     "link": "https://www.comune.torino.it/novita/comunicati/pedali-sociali-primi-appuntamenti-progetto",
     "descrizione": "“Pedali Sociali” rappresenta una sperimentazione che punta a essere estesa e replicata in altri ambiti della città.",
-    "data": "2026-03-19T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "aa1e24a2c72d",
-    "titolo": "La primavera accende Torino: tulipani gialli e muscari blu in fioritura",
-    "link": "https://www.comune.torino.it/novita/notizie/primavera-accende-torino-tulipani-gialli-muscari-blu-fioritura-0",
-    "descrizione": "Fioriscono i tulipani e i muscari blu piantati dai giardinieri per celebrare la primavera.",
-    "data": "2026-03-19T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0c542420ae56",
-    "titolo": "Referendum 22/23 marzo - Aperture straordinarie per il rilascio di tessere elettorali",
-    "link": "https://www.comune.torino.it/novita/avvisi/referendum-2223-marzo-aperture-straordinarie-per-rilascio-tessere-elettorali",
-    "descrizione": "In occasione del referendum costituzionali, gli uffici garantiranno aperture straordinarie per il rilascio di duplicati delle tessere elettorali.",
     "data": "2026-03-19T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
