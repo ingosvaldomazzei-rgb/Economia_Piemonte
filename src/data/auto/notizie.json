@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "1c0d73adac64",
+    "titolo": "L’Asti-Cuneo aperta al traffico a quattro corsie",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-cuneo-aperta-al-traffico-quattro-corsie",
+    "descrizione": "É entrato oggi in piena operatività il collegamento autostradale tra Asti e Cuneo con l’apertura al traffico di due corsie per senso di marcia fra Cherasco e lo svincolo di Alba ovest (Roddi). Il risultato è il frutto di un cronoprogramma intenso…",
+    "data": "2026-04-20T16:39:43+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "98ee25a30f3d",
+    "titolo": "Speciale elezioni amministrative 2026. Domenica 24 e lunedì 25 maggio",
+    "link": "https://www.cr.piemonte.it/cms/corecom/articoli/corecom/speciale-elezioni-amministrative-2026-domenica-24-e-lunedi-25-maggio",
+    "descrizione": "Tipologia articolo Corecom Materia Corecom Data pubblicazione 20 Aprile 2026 Per le elezioni comunali del primo semestre 2026 si applicano le disposizioni contenute nella delibera 122/24/CONS di attuazione della legge 22 febbraio 2000, n. 28. Documenti, pubblicazioni e informazioni inerenti le operazioni elettorali e i vari adempimenti preparatori del procedimento elettorale riguardanti il turno annuale di elezioni amministrative nelle regioni a statuto ordinario per i giorni di domenica 24 e lu",
+    "data": "2026-04-20T14:26:56+00:00",
+    "fonte": "Consiglio Regionale",
+    "fonte_id": "consiglio",
+    "colore": "#7c3aed"
+  },
+  {
     "id": "06a9cf23ee8d",
     "titolo": "Presentazione Monitoraggio strutturale Garante dei diritti persone private libertà",
     "link": "https://www.comune.torino.it/novita/notizie/presentazione-monitoraggio-strutturale-garante-dei-diritti-persone-private",
@@ -1978,25 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "dc1518fa81ab",
-    "titolo": "Torino-Lione: insediati i Comitati di supporto delle tratte nazionale e internazionale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-insediati-comitati-supporto-delle-tratte-nazionale-internazionale",
-    "descrizione": "Si sono insediati i Comitati di supporto alla realizzazione della nuova linea ferroviaria Torino-Lione. Nel Grattacielo della Regione si è iniziato con la prima seduta del Comitato per la…",
-    "data": "2026-03-18T19:30:17+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "c167efa28227",
-    "titolo": "Torino-Lione: insediato il Comitato di supporto della tratta nazionale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-insediato-comitato-supporto-della-tratta-nazionale",
-    "descrizione": "Si è insediato oggi il Comitato di supporto alla realizzazione della nuova linea ferroviaria Torino-Lione tratta nazionale Avigliana-Orbassano. Questa prima seduta, dedicata al …",
-    "data": "2026-03-18T19:11:17+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

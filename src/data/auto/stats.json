@@ -2,7 +2,8 @@
   "totale_notizie": 200,
   "notizie_per_fonte": {
     "comune_torino": 127,
-    "regione": 35,
+    "regione": 34,
+    "consiglio": 1,
     "torinoclick": 38
   },
   "temi_attivi": [
