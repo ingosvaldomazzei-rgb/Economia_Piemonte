@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-04-22T03:26:27.474822+00:00",
+  "ultimo_aggiornamento": "2026-04-22T08:01:30.382086+00:00",
   "sedute": [
     {
       "id": "19cb852d7e9d",
@@ -1856,7 +1856,7 @@
       "titolo": "Disciplina degli aspetti igienico-sanitari per la costruzione, la manutenzione, la gestione e la vigilanza delle piscine ad uso natatorio. Importanza della formazione delle figure professionali del settore.",
       "data": "2026-01-23T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/mzodgfo/legislatura/12/atto/498/",
-      "stato": "Non votato"
+      "stato": "Approvato"
     },
     {
       "id": "ba6f29fc22f4",
@@ -1978,11 +1978,11 @@
   ],
   "statistiche": {
     "totale_sedute": 17,
-    "totale_interrogazioni": 149,
+    "totale_interrogazioni": 199,
     "totale_interpellanze": 1,
     "totale_mozioni": 2,
     "totale_odg": 98,
-    "mozioni_approvate": 56,
+    "mozioni_approvate": 57,
     "mozioni_respinte": 18
   }
 }
