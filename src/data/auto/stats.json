@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 37,
+    "regione": 38,
     "comune_torino": 130,
     "consiglio": 1,
-    "torinoclick": 32
+    "torinoclick": 31
   },
   "temi_attivi": [
     {
@@ -36,15 +36,15 @@
       "conteggio": 10
     },
     {
-      "tema": "sport",
-      "conteggio": 10
-    },
-    {
       "tema": "pianificazione-territoriale",
       "conteggio": 9
     },
     {
-      "tema": "attivita-produttive",
+      "tema": "sport",
+      "conteggio": 9
+    },
+    {
+      "tema": "sociale-welfare",
       "conteggio": 8
     }
   ],

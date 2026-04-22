@@ -1,4 +1,70 @@
 {
+  "sociale-welfare": [
+    {
+      "id": "773a32768d2e",
+      "titolo": "I risultati di Vesta 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/risultati-vesta-2026",
+      "data": "2026-04-22T17:41:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cf0a8e00af52",
+      "titolo": "Torino, un nuovo polo educativo e sociale per giovani e famiglie per l’ex asilo di via Alessandria",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-un-nuovo-polo-educativo-sociale-per-giovani-famiglie-per-lex-asilo-via",
+      "data": "2026-04-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6696de63ae5f",
+      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "854704bf0dd4",
+      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
+      "data": "2026-04-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0f56183d1b70",
+      "titolo": "Inclusione e lingua italiana, la Città di Torino rinnova l’accordo con i CPIA per il triennio 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/inclusione-lingua-italiana-citta-torino-rinnova-laccordo-cpia-per-triennio-2026",
+      "data": "2026-04-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "581042620384",
+      "titolo": "Inclusione sociale, Torino rafforza accoglienza e sostegno all’abitare: riaperti i bandi per la coprogettazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/inclusione-sociale-torino-rafforza-accoglienza-sostegno-allabitare-riaperti",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5081aaea336d",
+      "titolo": "Un pomeriggio per imparare, condividere e fare la differenza",
+      "link": "https://www.torinoclick.it/territorio/un-pomeriggio-per-imparare-condividere-e-fare-la-differenza/",
+      "data": "2026-03-26T12:31:29+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    },
+    {
+      "id": "86a6b4150f14",
+      "titolo": "Fondo Sociale 2026: sostegno alle famiglie delle case popolari",
+      "link": "https://www.comune.torino.it/novita/avvisi/fondo-sociale-2026-sostegno-alle-famiglie-delle-case-popolari",
+      "data": "2026-03-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "istruzione-formazione": [
     {
       "id": "b01acefd9bcd",
@@ -823,64 +889,6 @@
       "fonte_id": "regione"
     }
   ],
-  "sociale-welfare": [
-    {
-      "id": "cf0a8e00af52",
-      "titolo": "Torino, un nuovo polo educativo e sociale per giovani e famiglie per l’ex asilo di via Alessandria",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-un-nuovo-polo-educativo-sociale-per-giovani-famiglie-per-lex-asilo-via",
-      "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6696de63ae5f",
-      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "854704bf0dd4",
-      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
-      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
-      "data": "2026-04-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0f56183d1b70",
-      "titolo": "Inclusione e lingua italiana, la Città di Torino rinnova l’accordo con i CPIA per il triennio 2026-2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/inclusione-lingua-italiana-citta-torino-rinnova-laccordo-cpia-per-triennio-2026",
-      "data": "2026-04-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "581042620384",
-      "titolo": "Inclusione sociale, Torino rafforza accoglienza e sostegno all’abitare: riaperti i bandi per la coprogettazione",
-      "link": "https://www.comune.torino.it/novita/comunicati/inclusione-sociale-torino-rafforza-accoglienza-sostegno-allabitare-riaperti",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5081aaea336d",
-      "titolo": "Un pomeriggio per imparare, condividere e fare la differenza",
-      "link": "https://www.torinoclick.it/territorio/un-pomeriggio-per-imparare-condividere-e-fare-la-differenza/",
-      "data": "2026-03-26T12:31:29+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "86a6b4150f14",
-      "titolo": "Fondo Sociale 2026: sostegno alle famiglie delle case popolari",
-      "link": "https://www.comune.torino.it/novita/avvisi/fondo-sociale-2026-sostegno-alle-famiglie-delle-case-popolari",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "giovani": [
     {
       "id": "cf0a8e00af52",
@@ -1183,14 +1191,6 @@
       "titolo": "NCC, fermato un abusivo. Veicolo confiscato e patente ritirata",
       "link": "https://www.torinoclick.it/sicurezza/ncc-fermato-un-abusivo-veicolo-in-confisca-e-patente-ritirata/",
       "data": "2026-03-20T14:33:21+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "4414b22a6b56",
-      "titolo": "Corteo nazionale di Libera a Torino: modifiche alla viabilità e ai trasporti il 21 marzo",
-      "link": "https://www.torinoclick.it/trasporti/manifestazione-libera-bus-deviati-e-strade-chiuse-come-cambia-il-trasporto-pubblico-sabato-mattina/",
-      "data": "2026-03-19T15:04:26+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
     }
@@ -1547,14 +1547,6 @@
       "data": "2026-03-23T12:33:18+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "4414b22a6b56",
-      "titolo": "Corteo nazionale di Libera a Torino: modifiche alla viabilità e ai trasporti il 21 marzo",
-      "link": "https://www.torinoclick.it/trasporti/manifestazione-libera-bus-deviati-e-strade-chiuse-come-cambia-il-trasporto-pubblico-sabato-mattina/",
-      "data": "2026-03-19T15:04:26+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
     }
   ],
   "crisi-automotive": [

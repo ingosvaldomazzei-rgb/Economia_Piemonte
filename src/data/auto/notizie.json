@@ -1,5 +1,15 @@
 [
   {
+    "id": "773a32768d2e",
+    "titolo": "I risultati di Vesta 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/risultati-vesta-2026",
+    "descrizione": "Sono state 42.384 le domande pervenute durante il “click day” del 21 aprile di Vesta 2026, la misura della Regione Piemonte per il sostegno alle famiglie nelle spese di accesso ai servizi per l’infanzia. Dopo i rallentamenti registrati ieri nella prima…",
+    "data": "2026-04-22T17:41:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "b01acefd9bcd",
     "titolo": "I boschi aule a cielo aperto",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/boschi-aule-cielo-aperto",
@@ -1985,16 +1995,6 @@
     "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-23-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
     "descrizione": "Prosegue fino a lunedì 23 marzo compreso – prossimo giorno di controllo – l’applicazione delle sole misure strutturali di limitazione al traffico: sulla base dei dati previsionali sulla qualità dell’aria forniti oggi da Arpa Piemonte è stato infatti confermato il livello 0 (bianco) delle misure antismog.",
     "data": "2026-03-20T11:11:07+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "4414b22a6b56",
-    "titolo": "Corteo nazionale di Libera a Torino: modifiche alla viabilità e ai trasporti il 21 marzo",
-    "link": "https://www.torinoclick.it/trasporti/manifestazione-libera-bus-deviati-e-strade-chiuse-come-cambia-il-trasporto-pubblico-sabato-mattina/",
-    "descrizione": "Il corteo nazionale di Libera, in programma sabato 21 marzo, attraverserà il cuore di Torino collegando piazza Solferino a piazza Vittorio Veneto. Il percorso si snoderà lungo alcuni degli assi più centrali della città, tra cui via Cernaia, via Pietro Micca, piazza Castello e corso San Maurizio, e comporterà un impatto rilevante sulla viabilità.",
-    "data": "2026-03-19T15:04:26+00:00",
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
