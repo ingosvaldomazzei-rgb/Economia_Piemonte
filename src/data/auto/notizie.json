@@ -1,5 +1,15 @@
 [
   {
+    "id": "cdb5b8e86d19",
+    "titolo": "Domande per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (oggettistica) in Via Verdi – Via Sant'Ottavio",
+    "link": "https://www.comune.torino.it/novita/avvisi/domande-per-rilascio-autorizzazioni-stagionali-concessione-suolo-pubblico-per-0",
+    "descrizione": "È possibile inoltrare le domande per il rilascio delle autorizzazioni stagionali per l'attività di vendita di prodotti non alimentari (Oggettistica)",
+    "data": "2026-04-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "773a32768d2e",
     "titolo": "I risultati di Vesta 2026",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/risultati-vesta-2026",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "58471fc25436",
-    "titolo": "Smog, fino a lunedì 23 marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-    "link": "https://www.torinoclick.it/trasporti/smog-fino-a-lunedi-23-marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-    "descrizione": "Prosegue fino a lunedì 23 marzo compreso – prossimo giorno di controllo – l’applicazione delle sole misure strutturali di limitazione al traffico: sulla base dei dati previsionali sulla qualità dell’aria forniti oggi da Arpa Piemonte è stato infatti confermato il livello 0 (bianco) delle misure antismog.",
-    "data": "2026-03-20T11:11:07+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
   }
 ]
