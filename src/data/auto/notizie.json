@@ -1,5 +1,15 @@
 [
   {
+    "id": "0d27f14bc5ba",
+    "titolo": "Continua la riforma della burocrazia regionale",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-riforma-della-burocrazia-regionale",
+    "descrizione": "Meno norme inutili, meno sovrapposizioni e un sistema più semplice da applicare con la riforma della burocrazia regionale. Il Consiglio regionale ha approvato la legge di razionalizzazione dell’ordinamento giuridico, che avvia un intervento concreto di riordino della…",
+    "data": "2026-04-23T12:36:40+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "cdb5b8e86d19",
     "titolo": "Domande per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (oggettistica) in Via Verdi – Via Sant'Ottavio",
     "link": "https://www.comune.torino.it/novita/avvisi/domande-per-rilascio-autorizzazioni-stagionali-concessione-suolo-pubblico-per-0",
@@ -8,6 +18,16 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "41531385b38c",
+    "titolo": "Piemonte e Liguria a Bruxelles per rafforzare il ruolo delle Regioni in Europa",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-liguria-bruxelles-per-rafforzare-ruolo-delle-regioni-europa",
+    "descrizione": "Si stringe sempre di più, anche in ambito europeo, il legame tra la Liguria e il Piemonte. Una fitta agenda di appuntamenti a Bruxelles ha caratterizzato la giornata del 22 aprile per i presidenti delle due…",
+    "data": "2026-04-23T10:53:54+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "773a32768d2e",
@@ -644,6 +664,16 @@
     "titolo": "Edilizia Privata - Modifiche ai servizi di informazione",
     "link": "https://www.comune.torino.it/novita/avvisi/edilizia-privata-modifiche-ai-servizi-informazione",
     "descrizione": "Rinnovo dei servizi di informazione forniti dalla Divisione Edilizia Privata",
+    "data": "2026-04-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8cf3a17d4574",
+    "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi maggio 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico-0",
+    "descrizione": "Integrazione calendario per Concomitanza tra Partita della Storia e Coppa Italia Frecciarossa",
     "data": "2026-04-13T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1964,36 +1994,6 @@
     "titolo": "Furto al supermercato, fermati da un agente della Polizia locale fuori servizio",
     "link": "https://www.comune.torino.it/novita/comunicati/furto-al-supermercato-fermati-un-agente-della-polizia-locale-fuori-servizio",
     "descrizione": "In fuga dopo un furto al supermercato sono stati seguiti e fermati da un agente della Polizia Locale di Torino fuori servizio.",
-    "data": "2026-03-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "ccc250495c4c",
-    "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
-    "link": "https://www.comune.torino.it/novita/comunicati/palazzo-civico-riapre-sala-carpanini-dopo-interventi-restauro-sara-una-sala",
-    "descrizione": "Si sono conclusi i lavori di restauro e riqualificazione della sala al piano terreno di Palazzo Civico intitolata a Domenico Carpanini.",
-    "data": "2026-03-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c1edcdd634be",
-    "titolo": "Anna Maria Viziale ricordata in un giardino a Mirafiori",
-    "link": "https://www.comune.torino.it/novita/comunicati/anna-maria-viziale-ricordata-un-giardino-mirafiori",
-    "descrizione": "Un giardino in strada del Drosso è stato intitolato alla memoria dell'assessora all'istruzione negli anni del boom demografico dovuto all'immigrazione dal Sud",
-    "data": "2026-03-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "fe57f8586445",
-    "titolo": "Incontri di presentazione Centri estivi 2026",
-    "link": "https://www.comune.torino.it/novita/notizie/incontri-presentazione-centri-estivi-2026",
-    "descrizione": "Pubblicazione elenco incontri di presentazione dei centri di Estate Ragazzi Torino 2026",
     "data": "2026-03-20T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
