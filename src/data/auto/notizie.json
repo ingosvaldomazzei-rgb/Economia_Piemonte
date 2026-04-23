@@ -1,5 +1,15 @@
 [
   {
+    "id": "94ca8301e7ec",
+    "titolo": "Più di 14 milioni per la riduzione e il riciclo dei rifiuti",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-14-milioni-per-riduzione-riciclo-dei-rifiuti",
+    "descrizione": "Ridurre la produzione di rifiuti, promuovere la simbiosi industriale e migliorare le tecnologie di riciclaggio con uno stanziamento di oltre 14 milioni di euro sono gli obiettivi che si pone la Giunta regionale…",
+    "data": "2026-04-23T16:10:49+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "0d27f14bc5ba",
     "titolo": "Continua la riforma della burocrazia regionale",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-riforma-della-burocrazia-regionale",
@@ -1984,16 +1994,6 @@
     "titolo": "Concerti di ACHILLE LAURO (24 MARZO 2026), GIGI D'ALESSIO (25 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
     "link": "https://www.comune.torino.it/novita/notizie/concerti-achille-lauro-24-marzo-2026-gigi-dalessio-25-marzo-2026-convocazione",
     "descrizione": "Convocazione per LUNEDI' 23 MARZO ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali.",
-    "data": "2026-03-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8477109d290f",
-    "titolo": "Furto al supermercato, fermati da un agente della Polizia locale fuori servizio",
-    "link": "https://www.comune.torino.it/novita/comunicati/furto-al-supermercato-fermati-un-agente-della-polizia-locale-fuori-servizio",
-    "descrizione": "In fuga dopo un furto al supermercato sono stati seguiti e fermati da un agente della Polizia Locale di Torino fuori servizio.",
     "data": "2026-03-20T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
