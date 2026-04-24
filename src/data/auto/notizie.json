@@ -1,5 +1,65 @@
 [
   {
+    "id": "7b3be91aa480",
+    "titolo": "STADIO OLIMPICO GRANDE TORINO, FORMALIZZATA UNA MANIFESTAZIONE DI INTERESSE",
+    "link": "https://www.comune.torino.it/novita/comunicati/stadio-olimpico-grande-torino-formalizzata-una-manifestazione-interesse",
+    "descrizione": "La società Torino FC ha formalizzato alla Città di Torino una manifestazione di interesse preliminare finalizzata alla successiva presentazione di una proposta",
+    "data": "2026-04-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4c2f07cd220a",
+    "titolo": "Bando pubblico per l’individuazione del soggetto attuatore del mercato \"Antiquariato minore\" di piazza Vittorio Veneto",
+    "link": "https://www.comune.torino.it/novita/avvisi/bando-pubblico-per-lindividuazione-soggetto-attuatore-mercato-antiquariato",
+    "descrizione": "Per una durata biennale, la scadenza per la presentazione della domanda è entro le ore 13:00:00 del 25/05/2026.",
+    "data": "2026-04-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fd35e3a68ad4",
+    "titolo": "RETTIFICA - Domande per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (oggettistica) in Via Verdi – Via Sant'Ottavio",
+    "link": "https://www.comune.torino.it/novita/notizie/rettifica-domande-per-rilascio-autorizzazioni-stagionali-concessione-suolo",
+    "descrizione": "Rettificata data scadenza invio istanze di partecipazione",
+    "data": "2026-04-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0305df1c0e1f",
+    "titolo": "Seminario sul Sonno – Open Day all’Eduteca Agorà",
+    "link": "https://www.comune.torino.it/novita/notizie/seminario-sul-sonno-open-day-alleduteca-agora",
+    "descrizione": "Martedì 28 Aprile presso l’Eduteca Agorà si terrà un seminario gratuito sul sonno del bambino dai 4 ai 17 mesi con la consulente Stefania Farinasso",
+    "data": "2026-04-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "5894cd7e8113",
+    "titolo": "Concerti di ELISA (29 APRILE 2026), ANNALISA (30 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+    "link": "https://www.comune.torino.it/novita/notizie/concerti-elisa-29-aprile-2026-annalisa-30-aprile-2026-convocazione-per",
+    "descrizione": "Convocazione per LUNEDI' 27 APRILE ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali",
+    "data": "2026-04-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "642f7dac0707",
+    "titolo": "Al Macfrut 2026 il Piemonte della frutta di qualità",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-macfrut-2026-piemonte-della-frutta-qualita",
+    "descrizione": "Il comparto frutticolo del Piemonte si è presentato a Macfrut. Fruit & Veg Professional Show, una fra le più importanti fiere europee del settore in Europa tenutasi in programma al Rimini Expo Centre dal 21 al 23 aprile. Lo spazio…",
+    "data": "2026-04-24T11:38:16+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "94ca8301e7ec",
     "titolo": "Più di 14 milioni per la riduzione e il riciclo dei rifiuti",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-14-milioni-per-riduzione-riciclo-dei-rifiuti",
@@ -1938,65 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "c8db75d0be8f",
-    "titolo": "Servizio Civile all’Ufficio Gestione Tariffe - Servizi Educativi",
-    "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-allufficio-gestione-tariffe-servizi-educativi",
-    "descrizione": "Servizio Civile Universale 2026 all’Ufficio Tariffe dei Servizi Educativi del Comune di Torino",
-    "data": "2026-03-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "607f4c8f2124",
-    "titolo": "Incontri di presentazioni Centri estivi 2026",
-    "link": "https://www.comune.torino.it/novita/notizie/incontri-presentazioni-centri-estivi-2026",
-    "descrizione": "Pubblicazione elenco incontri di presentazione dei centri di Estate ragazzi Torino 2026",
-    "data": "2026-03-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a2a1d1b155fd",
-    "titolo": "ToSeggio",
-    "link": "https://www.comune.torino.it/novita/notizie/toseggio",
-    "descrizione": "Cerca il tuo seggio elettorale",
-    "data": "2026-03-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "044d0b70e990",
-    "titolo": "Attestato sostitutivo di tessera elettorale",
-    "link": "https://www.comune.torino.it/novita/avvisi/attestato-sostitutivo-tessera-elettorale",
-    "descrizione": "Stampa dell'attestato sostitutivo da parte degli elettori sprovvisti della tessera elettorale per esaurimento degli spazi disponibili",
-    "data": "2026-03-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "929e33758cb8",
-    "titolo": "Gruppo Genitorialità al quadrato",
-    "link": "https://www.comune.torino.it/novita/notizie/gruppo-genitorialita-al-quadrato",
-    "descrizione": "Gruppo di confronto per genitori di gemelli.",
-    "data": "2026-03-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4d868c7ab449",
-    "titolo": "Concerti di ACHILLE LAURO (24 MARZO 2026), GIGI D'ALESSIO (25 MARZO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/notizie/concerti-achille-lauro-24-marzo-2026-gigi-dalessio-25-marzo-2026-convocazione",
-    "descrizione": "Convocazione per LUNEDI' 23 MARZO ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali.",
-    "data": "2026-03-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
