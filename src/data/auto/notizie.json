@@ -1,9 +1,9 @@
 [
   {
     "id": "7b3be91aa480",
-    "titolo": "STADIO OLIMPICO GRANDE TORINO, FORMALIZZATA UNA MANIFESTAZIONE DI INTERESSE",
+    "titolo": "Stadio Olimpico Grande Torino, formalizzata una manifestazione di interesse",
     "link": "https://www.comune.torino.it/novita/comunicati/stadio-olimpico-grande-torino-formalizzata-una-manifestazione-interesse",
-    "descrizione": "La società Torino FC ha formalizzato alla Città di Torino una manifestazione di interesse preliminare finalizzata alla successiva presentazione di una proposta",
+    "descrizione": "La società Torino FC ha formalizzato alla Città di Torino una manifestazione di interesse preliminare finalizzata alla successiva presentazione di una proposta.",
     "data": "2026-04-24T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -44,6 +44,16 @@
     "titolo": "Concerti di ELISA (29 APRILE 2026), ANNALISA (30 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
     "link": "https://www.comune.torino.it/novita/notizie/concerti-elisa-29-aprile-2026-annalisa-30-aprile-2026-convocazione-per",
     "descrizione": "Convocazione per LUNEDI' 27 APRILE ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali",
+    "data": "2026-04-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d9562625d922",
+    "titolo": "Sicurezza urbana: Torino capofila del progetto europeo “Diverpol” per tutelare l’inclusività",
+    "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-torino-capofila-progetto-europeo-diverpol-per-tutelare",
+    "descrizione": "Torino sarà città capofila di “Diverpol\" il progetto europeo biennale che mira a promuovere un modello di sicurezza urbana inclusiva e basata sulla fiducia.",
     "data": "2026-04-24T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1985,16 +1995,6 @@
     "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
     "descrizione": "La prima rete europea di Enti locali con l’obiettivo di promuovere la cultura della trasparenza e dell’integrità, la lotta alla corruzione e alla criminalità organizzata. Nasce a Torino un sistema di collaborazione e scambio di buone pratiche tra città di diversi Stati membri dell’Unione Europea. Questa mattina, nella Sala Bobbio del Palazzo dell’ex Curia Maxima, si è svolta la conferenza finale del progetto Act Now – Active Citizens Together Now, finanziato dall’Unione Europea, in particolare d",
     "data": "2026-03-20T16:03:01+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "39416859e35c",
-    "titolo": "NCC, fermato un abusivo. Veicolo confiscato e patente ritirata",
-    "link": "https://www.torinoclick.it/sicurezza/ncc-fermato-un-abusivo-veicolo-in-confisca-e-patente-ritirata/",
-    "descrizione": "Aveva concordato un trasporto a pagamento con alcuni ragazzi fuori da una discoteca, configurando una attività abusiva di noleggio con conducente. Per questo motivo durante il controllo stradale effettuato dal Reparto Sicurezza Stradale Integrata nella zona di Porta Nuova, la notte tra sabato 14 e domenica 15 marzo per un conducente è scattato un verbale il cui importo sarà deciso dalla Prefettura tra un minimo di 1.812 e un massimo di 7.249 euro.",
-    "data": "2026-03-20T14:33:21+00:00",
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
