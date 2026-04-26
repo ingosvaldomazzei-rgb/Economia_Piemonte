@@ -1,5 +1,15 @@
 [
   {
+    "id": "cbd10ddb7cae",
+    "titolo": "Bella Storia, taglio del nastro per il Cortile del Gioco in Barriera",
+    "link": "https://www.comune.torino.it/novita/comunicati/bella-storia-taglio-nastro-per-cortile-gioco-barriera",
+    "descrizione": "Un nuovo spazio educativo, sicuro e inclusivo prende vita: è il “Cortile del Gioco”, lo spazio all’aperto rinnovato dell’Oratorio Maria Regina della Pace.",
+    "data": "2026-04-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "7b3be91aa480",
     "titolo": "Stadio Olimpico Grande Torino, formalizzata una manifestazione di interesse",
     "link": "https://www.comune.torino.it/novita/comunicati/stadio-olimpico-grande-torino-formalizzata-una-manifestazione-interesse",
@@ -1985,16 +1995,6 @@
     "link": "https://www.torinoclick.it/sicurezza/furto-al-supermercato-fermati-da-un-agente-della-polizia-locale-fuori-servizio/",
     "descrizione": "In fuga dopo un furto al supermercato sono stati seguiti e fermati da un agente della Polizia Locale di Torino fuori servizio. È accaduto nel primo pomeriggio di lunedì 16 marzo, in corso Sebastopoli.",
     "data": "2026-03-20T16:06:41+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "60da1e092469",
-    "titolo": "Nasce a Torino la rete europea di enti locali contro la corruzione e le frodi",
-    "link": "https://www.torinoclick.it/societa/nasce-a-torino-la-rete-europea-di-enti-locali-contro-la-corruzione-e-le-frodi/",
-    "descrizione": "La prima rete europea di Enti locali con l’obiettivo di promuovere la cultura della trasparenza e dell’integrità, la lotta alla corruzione e alla criminalità organizzata. Nasce a Torino un sistema di collaborazione e scambio di buone pratiche tra città di diversi Stati membri dell’Unione Europea. Questa mattina, nella Sala Bobbio del Palazzo dell’ex Curia Maxima, si è svolta la conferenza finale del progetto Act Now – Active Citizens Together Now, finanziato dall’Unione Europea, in particolare d",
-    "data": "2026-03-20T16:03:01+00:00",
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
