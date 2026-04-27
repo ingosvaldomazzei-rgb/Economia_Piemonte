@@ -1,5 +1,35 @@
 [
   {
+    "id": "f1b5461e854e",
+    "titolo": "Il piano generale del nuovo ospedale di Vercelli",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-generale-nuovo-ospedale-vercelli",
+    "descrizione": "Presentazione ufficiale per il piano generale del nuovo ospedale Sant’Andrea di Vercelli, intervento strategico che rinnova l’offerta sanitaria per il territorio con uno sguardo attento alla storia e all’identità di quello…",
+    "data": "2026-04-27T16:02:17+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "f2c70524ec52",
+    "titolo": "Continua il prolungamento orario dei nidi comunali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-prolungamento-orario-dei-nidi-comunali",
+    "descrizione": "La Regione Piemonte rinnova il proprio impegno concreto a sostegno delle famiglie, stanziando tre milioni di euro per il prolungamento dell’orario nei servizi per l’infanzia comunali per le annualità 2026-2027 e 2027-2028. Grazie a…",
+    "data": "2026-04-27T15:09:33+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "cdffac08195c",
+    "titolo": "Salone del Libro: con il “Buono da leggere” il Piemonte investe su giovani lettori e scuole",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-libro-buono-leggere-piemonte-investe-giovani-lettori-scuole",
+    "descrizione": "Se “Il mondo salvato dai ragazzini”, tema dell’edizione 2026 del Salone Internazionale del Libro di Torino 2026, richiama la responsabilità e la forza delle nuove generazioni, la Regione Piemonte sceglie di tradurre questa visione in un’azione concreta: investire nei giovani e nella…",
+    "data": "2026-04-27T12:39:46+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "cbb3821fb390",
     "titolo": "CFM - Saggi 2025/26",
     "link": "https://www.comune.torino.it/novita/notizie/cfm-saggi-202526",
@@ -14,6 +44,26 @@
     "titolo": "Chiusura temporanea biblioteca Centro Interculturale",
     "link": "https://www.comune.torino.it/novita/avvisi/chiusura-temporanea-biblioteca-centro-interculturale",
     "descrizione": "La biblioteca del Centro Interculturale sarà chiusa per lavori dal 27 aprile fino al 3 maggio. Riaprirà lunedì 4 maggio.",
+    "data": "2026-04-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1f2b991c16b6",
+    "titolo": "Città di Torino, al via la campagna straordinaria per l’affidamento familiare",
+    "link": "https://www.comune.torino.it/novita/comunicati/citta-torino-al-via-campagna-straordinaria-per-laffidamento-familiare",
+    "descrizione": "Sicuro, solido, gentile come l’affido. È da queste parole chiave che prende avvio la campagna straordinaria di sensibilizzazione sull’affidamento familiare.",
+    "data": "2026-04-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "c42c3fe3ba96",
+    "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
+    "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
+    "descrizione": "Due distinti Avvisi Pubblici a valenza biennale per l’individuazione di 7 spazi di comunità e di 8 istituzioni culturali.",
     "data": "2026-04-27T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -130,6 +180,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "040e2aec59d8",
+    "titolo": "Domande per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (oggettistica) in Via Verdi – Via Sant'Ottavio",
+    "link": "https://www.comune.torino.it/novita/notizie/domande-per-rilascio-autorizzazioni-stagionali-concessione-suolo-pubblico-per",
+    "descrizione": "È possibile inoltrare le domande per il rilascio delle autorizzazioni stagionali per l'attività di vendita di prodotti non alimentari (Oggettistica)",
+    "data": "2026-04-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "41531385b38c",
     "titolo": "Piemonte e Liguria a Bruxelles per rafforzare il ruolo delle Regioni in Europa",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-liguria-bruxelles-per-rafforzare-ruolo-delle-regioni-europa",
@@ -161,7 +221,7 @@
   },
   {
     "id": "4b28f8f49edd",
-    "titolo": "il capitale umano vero motore della competitività e della crescita",
+    "titolo": "Il capitale umano vero motore della competitività e della crescita",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/capitale-umano-vero-motore-della-competitivita-della-crescita",
     "descrizione": "L'appuntamento annuale del Fondo europeo di sviluppo 2021-2027, che il 22 aprile ha riunito istituzioni, imprese e mondo accademico nell'ITC ILO di Torino, ha ribadito con forza una convinzione: il capitale umano è il vero motore della competitività e della crescita. In un…",
     "data": "2026-04-22T14:21:58+02:00",
@@ -1938,65 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "f0283703afa3",
-    "titolo": "Referendum Costituzionale, affluenza alle ore 12",
-    "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-alle-ore-12/",
-    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze degli elettori nei seggi di Torino alle ore 12 per il quesito referendario:",
-    "data": "2026-03-22T11:40:49+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "430093233b20",
-    "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
-    "link": "https://www.torinoclick.it/societa/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
-    "descrizione": "“Oggi abbiamo fame di verità”. Ha scelto di iniziare con questa semplice, ma significativa frase, il suo discorso Don Luigi Ciotti, rivolgendosi alle 50mila persone assiepate in una piazza Vittorio Veneto stracolma di persone, in occasione della 31ª edizione della Giornata della memoria e dell’impegno in ricordo delle vittime innocenti delle mafie, promossa da Libera. La rete nazionale di associazioni, cooperative sociali, movimenti e gruppi, scuole, sindacati, diocesi e parrocchie, gruppi scout",
-    "data": "2026-03-21T13:54:17+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "63330a2a5c41",
-    "titolo": "Dopo 20 anni, la Giornata della memoria delle vittime innocenti delle mafie riempie strade e piazze di Torino",
-    "link": "https://www.torinoclick.it/incomune/dopo-20-anni-la-giornata-della-memoria-delle-vittime-innocenti-delle-mafie-riempie-strade-e-piazze-di-torino-50mila-persone-in-piazza-vittorio-veneto-hanno-ascoltato-le-parole-di-don-ciotti/",
-    "descrizione": "“Oggi abbiamo fame di verità”. Ha scelto di iniziare con questa semplice, ma significativa frase, il suo discorso Don Luigi Ciotti, rivolgendosi alle 50mila persone assiepate in una piazza Vittorio Veneto gremita di persone, in occasione della 31ª edizione della Giornata della memoria e dell’impegno in ricordo delle vittime innocenti delle mafie, promossa da Libera. La rete nazionale di associazioni, cooperative sociali, movimenti e gruppi, scuole, sindacati, diocesi e parrocchie, gruppi scout, ",
-    "data": "2026-03-21T13:54:17+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "ff92d8c1b298",
-    "titolo": "Il Salone del Libro presenta il programma della 38esima edizione, Il mondo salvato dai ragazzini",
-    "link": "https://www.torinoclick.it/cultura/il-salone-del-libro-presenta-il-programma-della-38esima-edizione-il-mondo-salvato-dai-ragazzini/",
-    "descrizione": "È stato presentato questa mattina, in occasione dell’apertura della Fiera Bookpride Milano, il programma completo del Salone del Libro di Torino 2026, dal titolo Il mondo salvato dai ragazzini. In programma 2700 eventi al Lingotto, tra incontri con gli autori, presentazioni di libri, dibattiti, convegni e laboratori, e oltre 500 eventi del Salone Off sul territorio. Annunciati i primi ospiti internazionali e alcune novità, tra cui il nuovo Padiglione 5 e la nuova sezione Il mondo salvato dai rag",
-    "data": "2026-03-20T18:33:16+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "4dc927d09bcf",
-    "titolo": "Confronto sulla nuova Pac 2028-2034",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/confronto-sulla-nuova-pac-2028-2034",
-    "descrizione": "Il seminario “Futura Pac. La Pac post-2027 alla prova dei fatti”, organizzato dalle Regioni Piemonte, Lombardia…",
-    "data": "2026-03-20T17:29:38+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "4b20657a411a",
-    "titolo": "Palazzo Civico, riapre la Sala Carpanini dopo gli interventi di restauro. Sarà una sala di rappresentanza",
-    "link": "https://www.torinoclick.it/incomune/palazzo-civico-riapre-la-sala-carpanini-dopo-gli-interventi-di-restauro-sara-una-sala-di-rappresentanza/",
-    "descrizione": "Si sono conclusi i lavori di restauro e riqualificazione della sala al piano terreno di Palazzo Civico intitolata a Domenico Carpanini, che ora ospiterà conferenze, convegni ed eventi aperti al pubblico. Alla sala, situata all’interno del cortile del Burro del palazzo comunale, si accederà dall’ingresso indipendente in via Corte d’Appello 1, rendendo più semplici l’accesso e la fruizione degli spazi e consentendo una maggiore accessibilità per le persone con disabilità.",
-    "data": "2026-03-20T16:54:24+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
   }
 ]
