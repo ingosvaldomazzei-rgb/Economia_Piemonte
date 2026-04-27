@@ -1,5 +1,25 @@
 [
   {
+    "id": "cbb3821fb390",
+    "titolo": "CFM - Saggi 2025/26",
+    "link": "https://www.comune.torino.it/novita/notizie/cfm-saggi-202526",
+    "descrizione": "Dal 16 maggio all'11 giugno",
+    "data": "2026-04-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a7f28d5d9043",
+    "titolo": "Chiusura temporanea biblioteca Centro Interculturale",
+    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-temporanea-biblioteca-centro-interculturale",
+    "descrizione": "La biblioteca del Centro Interculturale sarà chiusa per lavori dal 27 aprile fino al 3 maggio. Riaprirà lunedì 4 maggio.",
+    "data": "2026-04-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "cbd10ddb7cae",
     "titolo": "Bella Storia, taglio del nastro per il Cortile del Gioco in Barriera",
     "link": "https://www.comune.torino.it/novita/comunicati/bella-storia-taglio-nastro-per-cortile-gioco-barriera",
@@ -1975,26 +1995,6 @@
     "link": "https://www.torinoclick.it/incomune/palazzo-civico-riapre-la-sala-carpanini-dopo-gli-interventi-di-restauro-sara-una-sala-di-rappresentanza/",
     "descrizione": "Si sono conclusi i lavori di restauro e riqualificazione della sala al piano terreno di Palazzo Civico intitolata a Domenico Carpanini, che ora ospiterà conferenze, convegni ed eventi aperti al pubblico. Alla sala, situata all’interno del cortile del Burro del palazzo comunale, si accederà dall’ingresso indipendente in via Corte d’Appello 1, rendendo più semplici l’accesso e la fruizione degli spazi e consentendo una maggiore accessibilità per le persone con disabilità.",
     "data": "2026-03-20T16:54:24+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "071a379166d2",
-    "titolo": "Le foreste piemontesi sempre più al centro delle politiche della Regione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/foreste-piemontesi-sempre-piu-al-centro-delle-politiche-della-regione",
-    "descrizione": "In occasione della Giornata internazionale delle foreste, che si celebra il 21 marzo, la Regione Piemonte e l’Accademia dell’Agricoltura accendono i riflettori sul ruolo strategico delle foreste e sui cosiddetti servizi ecosistemici: tutti quei…",
-    "data": "2026-03-20T16:52:13+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "57678f7dfb9f",
-    "titolo": "Furto al supermercato, fermati da un agente della Polizia locale fuori servizio",
-    "link": "https://www.torinoclick.it/sicurezza/furto-al-supermercato-fermati-da-un-agente-della-polizia-locale-fuori-servizio/",
-    "descrizione": "In fuga dopo un furto al supermercato sono stati seguiti e fermati da un agente della Polizia Locale di Torino fuori servizio. È accaduto nel primo pomeriggio di lunedì 16 marzo, in corso Sebastopoli.",
-    "data": "2026-03-20T16:06:41+00:00",
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"

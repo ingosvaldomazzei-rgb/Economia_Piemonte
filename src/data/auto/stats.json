@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 129,
-    "regione": 42,
+    "comune_torino": 131,
+    "regione": 41,
     "consiglio": 1,
-    "torinoclick": 28
+    "torinoclick": 27
   },
   "temi_attivi": [
     {
@@ -16,12 +16,12 @@
       "conteggio": 18
     },
     {
-      "tema": "agricoltura",
+      "tema": "lavoro-occupazione",
       "conteggio": 14
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 14
+      "tema": "agricoltura",
+      "conteggio": 13
     },
     {
       "tema": "istruzione-formazione",
