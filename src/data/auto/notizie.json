@@ -1,5 +1,15 @@
 [
   {
+    "id": "8c27dfcd11c8",
+    "titolo": "Sala Rossa: via libera al rendiconto 2025",
+    "link": "https://www.comune.torino.it/novita/notizie/sala-rossa-via-libera-al-rendiconto-2025",
+    "descrizione": "Approvato dal Consiglio comunale il rendiconto 2025, dopo una maratona protrattasi sino alle cinque di questa mattina",
+    "data": "2026-04-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f1b5461e854e",
     "titolo": "Il piano generale del nuovo ospedale di Vercelli",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-generale-nuovo-ospedale-vercelli",
@@ -1984,16 +1994,6 @@
     "titolo": "Accredito compenso ai componenti di seggio",
     "link": "https://www.comune.torino.it/novita/avvisi/accredito-compenso-ai-componenti-seggio",
     "descrizione": "Pagamento del compenso spettante a Presidenti, Segretari e Scrutatori in occasione del Referendum Costituzionale 2026",
-    "data": "2026-03-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "686c2d8b148c",
-    "titolo": "Referendum, l’affluenza alle ore 23",
-    "link": "https://www.comune.torino.it/novita/comunicati/referendum-laffluenza-alle-ore-23",
-    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze degli elettori nei seggi di Torino alle ore 23, che è stata pari al 49,94%.",
     "data": "2026-03-22T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
