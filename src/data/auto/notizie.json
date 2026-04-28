@@ -10,6 +10,86 @@
     "colore": "#dc2626"
   },
   {
+    "id": "18d46dab5bb2",
+    "titolo": "Corsi prematrimoniali laici, approvato un Protocollo d'intesa con l’Ordine degli Avvocati di Torino e l’Ordine delle Psicologhe e degli Psicologi del Piemonte per l’avvio della sperimentazione",
+    "link": "https://www.comune.torino.it/novita/comunicati/corsi-prematrimoniali-laici-approvato-un-protocollo-dintesa-lordine-degli",
+    "descrizione": "La Giunta comunale ha approvato nella seduta odierna una delibera per dare avvio alla sperimentazione di un corso prematrimoniale laico, gratuito e facoltativo",
+    "data": "2026-04-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d8b0c843dbfb",
+    "titolo": "Controlli movida, 3500 euro di sanzioni della Polizia Locale",
+    "link": "https://www.comune.torino.it/novita/comunicati/controlli-movida-3500-euro-sanzioni-della-polizia-locale",
+    "descrizione": "Ammonta a 3.493 euro il totale delle sanzioni accertate nella notte tra il 24 e il 25 aprile nel corso dei controlli sulla movida svolti dalla Polizia Locale.",
+    "data": "2026-04-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e0eebe85ccc8",
+    "titolo": "Trasporto pubblico, Torino rende definitiva la Tessera Alias",
+    "link": "https://www.comune.torino.it/novita/comunicati/trasporto-pubblico-torino-rende-definitiva-tessera-alias",
+    "descrizione": "Muoversi sui mezzi pubblici in serenità, con un titolo di riconoscimento che rifletta la propria identità senza dover fornire spiegazioni personali.",
+    "data": "2026-04-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d6b7b8116e61",
+    "titolo": "Giovani e benessere psicologico, Torno fa rete. Approvato il protocollo con l’ordine degli psicologi per il Paranoia Festival",
+    "link": "https://www.comune.torino.it/novita/comunicati/giovani-benessere-psicologico-torno-fa-rete-approvato-protocollo-lordine-degli",
+    "descrizione": "La Città di Torino rafforza il proprio impegno a favore del benessere psicologico delle giovani generazioni attraverso un nuovo protocollo d’intesa.",
+    "data": "2026-04-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f24dbbcd021b",
+    "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
+    "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
+    "descrizione": "Il sindaco Stefano Lo Russo si trova in missione istituzionale a Tokyo per partecipare a due importanti appuntamenti, SusHi Tech Tokyo e G-NETS Leaders Summit.",
+    "data": "2026-04-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a08bd3cc2951",
+    "titolo": "Salone OFF 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/salone-off-2026",
+    "descrizione": "Ventiduesima edizione dell'iniziativa che porta la cultura fuori dalla Fiera Internazionale del Libro di Torino. Dall'8 al 19 maggio.",
+    "data": "2026-04-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "394ec8dbd5a1",
+    "titolo": "Campagna straordinaria per l’affidamento familiare",
+    "link": "https://www.comune.torino.it/novita/avvisi/campagna-straordinaria-per-laffidamento-familiare",
+    "descrizione": "Sicuro, solido, gentile come l’affido. È da queste parole chiave che prende avvio la campagna straordinaria di sensibilizzazione sull’affidamento familiare.",
+    "data": "2026-04-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9fa51c0c455d",
+    "titolo": "Gruppo di ascolto e di parola per la famiglia che cambia",
+    "link": "https://www.comune.torino.it/novita/notizie/gruppo-ascolto-parola-per-famiglia-che-cambia",
+    "descrizione": "Uno spazio gratuito per bambini e bambine figli/e di genitori separati.",
+    "data": "2026-04-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f1b5461e854e",
     "titolo": "Il piano generale del nuovo ospedale di Vercelli",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-generale-nuovo-ospedale-vercelli",
@@ -1915,86 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-finale-alle-ore-15",
     "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze finali degli elettori di Torino alla chiusura dei seggi, che è stata pari al 63,88%.",
     "data": "2026-03-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "54a999783a2a",
-    "titolo": "Successo delle Giornate del FAI a Palazzo Civico, la presidente Grippo ringrazia personale e volontari",
-    "link": "https://www.comune.torino.it/novita/comunicati/successo-delle-giornate-fai-palazzo-civico-presidente-grippo-ringrazia-personale",
-    "descrizione": "2.000 visitatori in due giorni, cresce l'interesse della cittadinanza per la storica sede comunale",
-    "data": "2026-03-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0d6d6e26fe1e",
-    "titolo": "Servizio Civile Universale",
-    "link": "https://www.comune.torino.it/novita/avvisi/servizio-civile-universale",
-    "descrizione": "Scadenza del bando alle ore 14 dell'8 aprile 2026.",
-    "data": "2026-03-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "085f1456a75b",
-    "titolo": "Smog, fino a mercoledì 25marzo in vigore le sole misure strutturali. Confermato il livello 0 (bianco)",
-    "link": "https://www.torinoclick.it/trasporti/smog-fino-a-mercoledi-25marzo-in-vigore-le-sole-misure-strutturali-confermato-il-livello-0-bianco/",
-    "descrizione": "Prosegue fino a mercoledì 25 marzo compreso – prossimo giorno di controllo – l’applicazione delle sole misure strutturali di limitazione al traffico: sulla base dei dati previsionali sulla qualità dell’aria forniti oggi da Arpa Piemonte è stato infatti confermato il livello 0 (bianco) delle misure antismog.",
-    "data": "2026-03-23T11:16:00+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "d7f217ba0c5a",
-    "titolo": "Referendum, l’affluenza alle ore 23",
-    "link": "https://www.torinoclick.it/incomune/referendum-laffluenza-alle-ore-23/",
-    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze degli elettori nei seggi di Torino alle ore 23, che è stata pari al 49,94% (votanti 315.386 su 631.560).",
-    "data": "2026-03-22T22:00:39+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "7850a869068b",
-    "titolo": "Referendum, l’affluenza alle ore 19",
-    "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-laffluenza-alle-ore-19/",
-    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze degli elettori nei seggi di Torino alle ore 19, che è stata pari al 40,15% (votanti 253.567 su 631.560).",
-    "data": "2026-03-22T18:48:17+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "582822a45ded",
-    "titolo": "Referendum Costituzionale, affluenza alle ore 12",
-    "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-alle-ore-12",
-    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze degli elettori nei seggi di Torino alle ore 12.",
-    "data": "2026-03-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7b05d5a8a08f",
-    "titolo": "Referendum Costituzionale, affluenza alle ore 19",
-    "link": "https://www.comune.torino.it/novita/comunicati/referendum-costituzionale-affluenza-alle-ore-19",
-    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze degli elettori nei seggi di Torino alle ore 19, che è stata pari al 40,15%.",
-    "data": "2026-03-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "902994b5193a",
-    "titolo": "Accredito compenso ai componenti di seggio",
-    "link": "https://www.comune.torino.it/novita/avvisi/accredito-compenso-ai-componenti-seggio",
-    "descrizione": "Pagamento del compenso spettante a Presidenti, Segretari e Scrutatori in occasione del Referendum Costituzionale 2026",
-    "data": "2026-03-22T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
