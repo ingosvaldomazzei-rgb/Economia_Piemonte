@@ -1,5 +1,35 @@
 [
   {
+    "id": "72c5c966ac2b",
+    "titolo": "Piemonte capofila della seconda edizione di Common Ground",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-capofila-della-seconda-edizione-common-ground",
+    "descrizione": "Con la firma della Convenzione di sovvenzione tra il Ministero del Lavoro e la Regione Piemonte, avvenuta il 27 aprile 2026, prende ufficialmente il via la seconda edizione del progetto multi-regionale “Common Ground”, finalizzato alla…",
+    "data": "2026-04-29T09:22:13+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "2487351c94cb",
+    "titolo": "Energia: prezzi in rialzo ma nessun problema di approvvigionamento",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/energia-prezzi-rialzo-ma-nessun-problema-approvvigionamento",
+    "descrizione": "“Non ci sono problemi di approvvigionamento di energia oggi in Piemonte”: lo ha garantito l’assessore all’Ambiente ed Energia Matteo Marnati presentando in Consiglio regionale la relazione informativa sulla situazione energetica e anticipando che “il 7 maggio…",
+    "data": "2026-04-28T16:20:40+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "ae488a0696d4",
+    "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
+    "descrizione": "Enti del terzo settore, amministrazioni pubbliche e reti territoriali con il coinvolgimento delle imprese come partner progettuali hanno tempo fino alle ore 12 dell’11 maggio prossimo per partecipare al …",
+    "data": "2026-04-28T12:14:08+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "8c27dfcd11c8",
     "titolo": "Sala Rossa: via libera al rendiconto 2025",
     "link": "https://www.comune.torino.it/novita/notizie/sala-rossa-via-libera-al-rendiconto-2025",
@@ -98,6 +128,16 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "e3950beeb9c4",
+    "titolo": "Ampliate le risorse per la difesa del suolo nelle aree protette",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ampliate-risorse-per-difesa-suolo-nelle-aree-protette",
+    "descrizione": "La Giunta regionale ha stanziato altri 4.220.000 euro per finanziare nuovi interventi di sistemazione idrogeologica nelle aree protette, nei siti della Rete Natura 2000 e sulla rete sentieristica di collegamento. L’operazione, che si inserisce nella…",
+    "data": "2026-04-28T11:36:13+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "f1b5461e854e",
@@ -1958,45 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "659bfa1af468",
-    "titolo": "Ritornano i treni del mare",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ritornano-treni-mare-0",
-    "descrizione": "Da giovedì 2 aprile in occasione delle festività pasquali e poi nei fine settimana fino al 13 settembre riprenderà il servizio dei “treni del mare” o “Ponente Line”, i collegamenti ferroviari di…",
-    "data": "2026-03-23T12:33:18+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "0f4524368088",
-    "titolo": "Mercato Nitti. Spostamento temporaneo dei concessionari in conseguenza dei lavori di rifacimento dei marciapiedi nelle giornate del 25 e del 27 marzo 2026 e fino a cessate esigenze",
-    "link": "https://www.comune.torino.it/novita/avvisi/mercato-nitti-spostamento-temporaneo-dei-concessionari-conseguenza-dei-lavori",
-    "descrizione": "Mercoledì 25 marzo 2026 e venerdì 27 marzo 2026 e, comunque fino a fine lavori.",
-    "data": "2026-03-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6b455cc6362e",
-    "titolo": "Domani un Diritto di Tribuna sulla sicurezza in San Donato",
-    "link": "https://www.comune.torino.it/novita/comunicati/domani-un-diritto-tribuna-sulla-sicurezza-san-donato",
-    "descrizione": "Domani, 24 marzo, alle ore 11,30 in piazza Peyron, i firmatari della petizione incontrano i giornalisti",
-    "data": "2026-03-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d41b4ff0050c",
-    "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi aprile 2026",
-    "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico",
-    "descrizione": "Integrazione calendario eventi aprile 2026: anticipo a sabato 11 aprile della partita TORINO FC - HELLAS VERONA",
-    "data": "2026-03-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
