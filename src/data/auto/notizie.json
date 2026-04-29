@@ -1,5 +1,25 @@
 [
   {
+    "id": "7b040dd08ef4",
+    "titolo": "Obiettivo Export: imprese e territori del Nord Italia",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/obiettivo-export-imprese-territori-nord-italia",
+    "descrizione": "Le Ogr di Torino hanno ospitato “Obiettivo Export: Imprese e territori del Nord Italia”, prima tappa di un ciclo di incontri sul sostegno dell’internazionalizzazione delle imprese. Promosso dalla Farnesina con il supporto della Regione Piemonte, l’evento è stato dedicato…",
+    "data": "2026-04-29T19:15:49+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "00ae42ca4365",
+    "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
+    "descrizione": "La Regione Piemonte attiva il nuovo ciclo dei Progetti integrati di Filiera (PIF) per gli anni 2026-2029, con una dotazione finanziaria di 27 milioni di euro, in crescita rispetto ai 17 milioni degli anni 2023-2025. Fino al 21 maggio…",
+    "data": "2026-04-29T15:15:04+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "1609ef7c7e0e",
     "titolo": "Tokyo, il sindaco Lo Russo incontra i vertici di Hitachi. L’azienda produrrà i veicoli della Linea 2 della metropolitana",
     "link": "https://www.comune.torino.it/novita/comunicati/tokyo-sindaco-russo-incontra-vertici-hitachi-lazienda-produrra-veicoli-della",
@@ -14,6 +34,36 @@
     "titolo": "In via Botticelli un edificio commerciale con nuovi parcheggi e aree verdi",
     "link": "https://www.comune.torino.it/novita/comunicati/via-botticelli-un-edificio-commerciale-nuovi-parcheggi-aree-verdi",
     "descrizione": "L’operazione prevede la demolizione di un fabbricato esistente e la realizzazione di un nuovo edificio a destinazione commerciale.",
+    "data": "2026-04-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4ef3f7aae02a",
+    "titolo": "Torino si conferma tra le città protagoniste del Youth Climate Action Fund: al via la nuova fase del programma di Bloomberg Philanthropies",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-si-conferma-citta-protagoniste-youth-climate-action-fund-al-via-nuova",
+    "descrizione": "Torino è tra le città selezionate per la nuova fase dello Youth Climate Action Fund, il programma promosso dalla fondazione filantropica Bloomberg che fornisce",
+    "data": "2026-04-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6dc1c8bc829a",
+    "titolo": "Corteo Primo Maggio: le modifiche viabili previste",
+    "link": "https://www.comune.torino.it/novita/comunicati/corteo-primo-maggio-modifiche-viabili-previste",
+    "descrizione": "In occasione della Festa dei Lavoratori 2026, venerdì 1° maggio saranno disposte modifiche alla viabilità.",
+    "data": "2026-04-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4ee4443b7179",
+    "titolo": "Spacca lo specchietto di un’auto in pieno pomeriggio di fronte alla chiesa. Fermato da un “civich” fuori servizio",
+    "link": "https://www.comune.torino.it/novita/comunicati/spacca-specchietto-unauto-pieno-pomeriggio-fronte-alla-chiesa-fermato-un-civich",
+    "descrizione": "Spacca lo specchietto di un’auto in pieno pomeriggio di fronte alla chiesa. Fermato da un “civich” fuori servizio",
     "data": "2026-04-29T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1944,56 +1994,6 @@
     "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
     "link": "https://www.comune.torino.it/novita/comunicati/appalti-badge-nei-cantieri-stop-ai-subappalti-cascata-citta-sindacati-firmano",
     "descrizione": "L'intesa mira a rafforzare i presidi di legalità in un settore strategico per lo sviluppo del territorio.",
-    "data": "2026-03-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c803cbd3be3b",
-    "titolo": "Sosta: la Città riorganizza l’area camper Caio Mario e introduce nuove agevolazioni per residenti e persone con disabilità",
-    "link": "https://www.comune.torino.it/novita/comunicati/sosta-citta-riorganizza-larea-camper-caio-mario-introduce-nuove-agevolazioni-per",
-    "descrizione": "Torino migliora l’accoglienza nell'area camper di Caio Mario e la gestione dei parcheggi in struttura.",
-    "data": "2026-03-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "3d4e5840e33b",
-    "titolo": "Torino continua a investire sulle scuole: 260mila euro per la palestra dell’Istituto Vittorino Da Feltre",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-continua-investire-sulle-scuole-260mila-euro-per-palestra-dellistituto",
-    "descrizione": "Un nuovo intervento interesserà la palestra dell’Istituto Comprensivo Vittorino Da Feltre di via Finalmarina a Torino.",
-    "data": "2026-03-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "72f3f222bb76",
-    "titolo": "Community Driven Regeneration in Turin: Insights from the IMPATTO Project Visits",
-    "link": "https://www.comune.torino.it/novita/notizie/community-driven-regeneration-turin-insights-from-the-impatto-project-visits",
-    "descrizione": "Stakeholder meeting del progetto Interreg Europe NEBA a Torino: le iniziative finanziate dalla misura IMPATTO, rilette in chiave New European Bauhaus",
-    "data": "2026-03-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2d482794f268",
-    "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
-    "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
-    "descrizione": "A Budapest presentati i risultati di CoFarm4Cities: Torino e Cascina Falchera rafforzano agricoltura urbana, sostenibilità e partecipazione.",
-    "data": "2026-03-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "86a6b4150f14",
-    "titolo": "Fondo Sociale 2026: sostegno alle famiglie delle case popolari",
-    "link": "https://www.comune.torino.it/novita/avvisi/fondo-sociale-2026-sostegno-alle-famiglie-delle-case-popolari",
-    "descrizione": "Contributo economico destinato agli inquilini delle case popolari che hanno avuto difficoltà a pagare le bollette del 2025.",
     "data": "2026-03-24T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

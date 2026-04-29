@@ -1,4 +1,144 @@
 {
+  "attivita-produttive": [
+    {
+      "id": "7b040dd08ef4",
+      "titolo": "Obiettivo Export: imprese e territori del Nord Italia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/obiettivo-export-imprese-territori-nord-italia",
+      "data": "2026-04-29T19:15:49+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "00ae42ca4365",
+      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
+      "data": "2026-04-29T15:15:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ae488a0696d4",
+      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
+      "data": "2026-04-28T12:14:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f24dbbcd021b",
+      "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
+      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
+      "data": "2026-04-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4b28f8f49edd",
+      "titolo": "Il capitale umano vero motore della competitività e della crescita",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/capitale-umano-vero-motore-della-competitivita-della-crescita",
+      "data": "2026-04-22T14:21:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c3b3e9e860ea",
+      "titolo": "Nuovo bando per le imprese audiovisive e cinematografiche",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-bando-per-imprese-audiovisive-cinematografiche",
+      "data": "2026-04-17T12:37:42+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "67fd4ffdb2c7",
+      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
+      "data": "2026-04-17T09:02:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e8773137c2ed",
+      "titolo": "Parco della Salute: chiusura positiva della conferenza dei servizi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-chiusura-positiva-della-conferenza-dei-servizi",
+      "data": "2026-04-03T18:56:23+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a3d1222b666e",
+      "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
+      "data": "2026-04-03T16:26:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f4c2d160346f",
+      "titolo": "Inizia la fase operativa per lo stabilimento di Silicon Box a Novara",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inizia-fase-operativa-per-stabilimento-silicon-box-novara",
+      "data": "2026-03-31T15:07:22+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "dc06925efe56",
+      "titolo": "Mobilità autonoma: il futuro si disegna a Torino. Una giornata per toccare con mano l’innovazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-futuro-si-disegna-torino-una-giornata-per-toccare-mano",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ea7ca8a3eb7c",
+      "titolo": "Torino-Regno Unito: a Palazzo di Città un incontro tra innovazione, atenei e gemellaggi",
+      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-regno-unito-a-palazzo-di-citta-un-incontro-tra-innovazione-atenei-e-gemellaggi/",
+      "data": "2026-03-25T15:30:36+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
+  "bilancio-regionale": [
+    {
+      "id": "00ae42ca4365",
+      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
+      "data": "2026-04-29T15:15:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2779a391d71c",
+      "titolo": "Controlli nell’area del giardino Tre lanterne, una denuncia e due sequestri da parte della Polizia Locale",
+      "link": "https://www.comune.torino.it/novita/comunicati/controlli-nellarea-giardino-tre-lanterne-una-denuncia-due-sequestri-parte-della",
+      "data": "2026-04-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cf4a4dced20c",
+      "titolo": "Un sostegno di 14,4 milioni alle aziende agricole montane",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-sostegno-144-milioni-alle-aziende-agricole-montane",
+      "data": "2026-04-13T15:09:05+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3098597744fc",
+      "titolo": "Approvata seconda variazione al Bilancio di previsione finanziario 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/approvata-seconda-variazione-al-bilancio-previsione-finanziario-2026-2028",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "eb56f535d378",
+      "titolo": "In via Lagrange una installazione per riflettere sullo spreco alimentare",
+      "link": "https://www.torinoclick.it/societa/in-via-lagrange-una-installazione-per-riflettere-sullo-spreco-alimentare/",
+      "data": "2026-03-26T13:54:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
   "trasporti-mobilita": [
     {
       "id": "1609ef7c7e0e",
@@ -79,6 +219,178 @@
       "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
       "link": "https://www.torinoclick.it/societa/grandi-eventi-il-concerto-torino-time-per-la-fondazione-molinette/",
       "data": "2026-03-26T15:54:39+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
+  "agricoltura": [
+    {
+      "id": "4ee4443b7179",
+      "titolo": "Spacca lo specchietto di un’auto in pieno pomeriggio di fronte alla chiesa. Fermato da un “civich” fuori servizio",
+      "link": "https://www.comune.torino.it/novita/comunicati/spacca-specchietto-unauto-pieno-pomeriggio-fronte-alla-chiesa-fermato-un-civich",
+      "data": "2026-04-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e3950beeb9c4",
+      "titolo": "Ampliate le risorse per la difesa del suolo nelle aree protette",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ampliate-risorse-per-difesa-suolo-nelle-aree-protette",
+      "data": "2026-04-28T11:36:13+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cbd10ddb7cae",
+      "titolo": "Bella Storia, taglio del nastro per il Cortile del Gioco in Barriera",
+      "link": "https://www.comune.torino.it/novita/comunicati/bella-storia-taglio-nastro-per-cortile-gioco-barriera",
+      "data": "2026-04-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e56d425f1656",
+      "titolo": "Gruppo Adolescenza e Adozione: sfide e risorse",
+      "link": "https://www.comune.torino.it/novita/notizie/gruppo-adolescenza-adozione-sfide-risorse",
+      "data": "2026-04-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "aae92810517d",
+      "titolo": "Accordo per recupero delle liste d’attesa, sistema 118 e meno esternalizzazioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-per-recupero-delle-liste-dattesa-sistema-118-meno-esternalizzazioni",
+      "data": "2026-04-20T18:43:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a1afeaa21932",
+      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
+      "data": "2026-04-17T11:31:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cd316bc7dfcb",
+      "titolo": "Contributi per cinque nuove “infrastrutture blu”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-cinque-nuove-infrastrutture-blu",
+      "data": "2026-04-16T11:08:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "60cfaa3007a2",
+      "titolo": "Torino città dell’aerospazio: Thales Alenia Space propone la realizzazione di un nuovo edificio produttivo",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-citta-dellaerospazio-thales-alenia-space-propone-realizzazione-un-nuovo",
+      "data": "2026-04-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "86a3a1f9744c",
+      "titolo": "Stop al consumo di suolo agricolo per l'energia pulita",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stop-al-consumo-suolo-agricolo-per-lenergia-pulita",
+      "data": "2026-04-13T12:22:42+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1a566b741a8a",
+      "titolo": "È l’Asti Docg il vino piemontese dell’anno 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-docg-vino-piemontese-dellanno-2026",
+      "data": "2026-04-03T15:36:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a679cc76270c",
+      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ac562704b122",
+      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ad6be72d454a",
+      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
+      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
+      "data": "2026-03-25T14:58:13+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
+  "fondi-europei": [
+    {
+      "id": "4ee4443b7179",
+      "titolo": "Spacca lo specchietto di un’auto in pieno pomeriggio di fronte alla chiesa. Fermato da un “civich” fuori servizio",
+      "link": "https://www.comune.torino.it/novita/comunicati/spacca-specchietto-unauto-pieno-pomeriggio-fronte-alla-chiesa-fermato-un-civich",
+      "data": "2026-04-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cbd10ddb7cae",
+      "titolo": "Bella Storia, taglio del nastro per il Cortile del Gioco in Barriera",
+      "link": "https://www.comune.torino.it/novita/comunicati/bella-storia-taglio-nastro-per-cortile-gioco-barriera",
+      "data": "2026-04-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "60cfaa3007a2",
+      "titolo": "Torino città dell’aerospazio: Thales Alenia Space propone la realizzazione di un nuovo edificio produttivo",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-citta-dellaerospazio-thales-alenia-space-propone-realizzazione-un-nuovo",
+      "data": "2026-04-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6696de63ae5f",
+      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6b354d940f54",
+      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-04-08T16:53:21+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a679cc76270c",
+      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ac562704b122",
+      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ad6be72d454a",
+      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
+      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
+      "data": "2026-03-25T14:58:13+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
     }
@@ -205,14 +517,6 @@
       "data": "2026-04-13T12:22:42+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "86a6b4150f14",
-      "titolo": "Fondo Sociale 2026: sostegno alle famiglie delle case popolari",
-      "link": "https://www.comune.torino.it/novita/avvisi/fondo-sociale-2026-sostegno-alle-famiglie-delle-case-popolari",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "ambiente-qualita-aria": [
@@ -261,88 +565,6 @@
       "titolo": "Un pomeriggio per imparare, condividere e fare la differenza",
       "link": "https://www.torinoclick.it/territorio/un-pomeriggio-per-imparare-condividere-e-fare-la-differenza/",
       "data": "2026-03-26T12:31:29+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
-  "attivita-produttive": [
-    {
-      "id": "ae488a0696d4",
-      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
-      "data": "2026-04-28T12:14:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f24dbbcd021b",
-      "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
-      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
-      "data": "2026-04-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4b28f8f49edd",
-      "titolo": "Il capitale umano vero motore della competitività e della crescita",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/capitale-umano-vero-motore-della-competitivita-della-crescita",
-      "data": "2026-04-22T14:21:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c3b3e9e860ea",
-      "titolo": "Nuovo bando per le imprese audiovisive e cinematografiche",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-bando-per-imprese-audiovisive-cinematografiche",
-      "data": "2026-04-17T12:37:42+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "67fd4ffdb2c7",
-      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
-      "data": "2026-04-17T09:02:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e8773137c2ed",
-      "titolo": "Parco della Salute: chiusura positiva della conferenza dei servizi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-chiusura-positiva-della-conferenza-dei-servizi",
-      "data": "2026-04-03T18:56:23+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a3d1222b666e",
-      "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
-      "data": "2026-04-03T16:26:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f4c2d160346f",
-      "titolo": "Inizia la fase operativa per lo stabilimento di Silicon Box a Novara",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inizia-fase-operativa-per-stabilimento-silicon-box-novara",
-      "data": "2026-03-31T15:07:22+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "dc06925efe56",
-      "titolo": "Mobilità autonoma: il futuro si disegna a Torino. Una giornata per toccare con mano l’innovazione",
-      "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-futuro-si-disegna-torino-una-giornata-per-toccare-mano",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ea7ca8a3eb7c",
-      "titolo": "Torino-Regno Unito: a Palazzo di Città un incontro tra innovazione, atenei e gemellaggi",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-regno-unito-a-palazzo-di-citta-un-incontro-tra-innovazione-atenei-e-gemellaggi/",
-      "data": "2026-03-25T15:30:36+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
     }
@@ -419,14 +641,6 @@
       "data": "2026-03-26T12:31:29+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    },
-    {
-      "id": "86a6b4150f14",
-      "titolo": "Fondo Sociale 2026: sostegno alle famiglie delle case popolari",
-      "link": "https://www.comune.torino.it/novita/avvisi/fondo-sociale-2026-sostegno-alle-famiglie-delle-case-popolari",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "cultura-beni-culturali": [
@@ -805,112 +1019,6 @@
       "fonte_id": "torinoclick"
     }
   ],
-  "agricoltura": [
-    {
-      "id": "e3950beeb9c4",
-      "titolo": "Ampliate le risorse per la difesa del suolo nelle aree protette",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ampliate-risorse-per-difesa-suolo-nelle-aree-protette",
-      "data": "2026-04-28T11:36:13+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cbd10ddb7cae",
-      "titolo": "Bella Storia, taglio del nastro per il Cortile del Gioco in Barriera",
-      "link": "https://www.comune.torino.it/novita/comunicati/bella-storia-taglio-nastro-per-cortile-gioco-barriera",
-      "data": "2026-04-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e56d425f1656",
-      "titolo": "Gruppo Adolescenza e Adozione: sfide e risorse",
-      "link": "https://www.comune.torino.it/novita/notizie/gruppo-adolescenza-adozione-sfide-risorse",
-      "data": "2026-04-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "aae92810517d",
-      "titolo": "Accordo per recupero delle liste d’attesa, sistema 118 e meno esternalizzazioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-per-recupero-delle-liste-dattesa-sistema-118-meno-esternalizzazioni",
-      "data": "2026-04-20T18:43:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a1afeaa21932",
-      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
-      "data": "2026-04-17T11:31:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cd316bc7dfcb",
-      "titolo": "Contributi per cinque nuove “infrastrutture blu”",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-cinque-nuove-infrastrutture-blu",
-      "data": "2026-04-16T11:08:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "60cfaa3007a2",
-      "titolo": "Torino città dell’aerospazio: Thales Alenia Space propone la realizzazione di un nuovo edificio produttivo",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-citta-dellaerospazio-thales-alenia-space-propone-realizzazione-un-nuovo",
-      "data": "2026-04-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "86a3a1f9744c",
-      "titolo": "Stop al consumo di suolo agricolo per l'energia pulita",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stop-al-consumo-suolo-agricolo-per-lenergia-pulita",
-      "data": "2026-04-13T12:22:42+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1a566b741a8a",
-      "titolo": "È l’Asti Docg il vino piemontese dell’anno 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-docg-vino-piemontese-dellanno-2026",
-      "data": "2026-04-03T15:36:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a679cc76270c",
-      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ac562704b122",
-      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ad6be72d454a",
-      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
-      "data": "2026-03-25T14:58:13+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "2d482794f268",
-      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
-      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "montagna": [
     {
       "id": "e3950beeb9c4",
@@ -1075,22 +1183,6 @@
       "data": "2026-03-24T13:59:31+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    },
-    {
-      "id": "3d4e5840e33b",
-      "titolo": "Torino continua a investire sulle scuole: 260mila euro per la palestra dell’Istituto Vittorino Da Feltre",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-continua-investire-sulle-scuole-260mila-euro-per-palestra-dellistituto",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "72f3f222bb76",
-      "titolo": "Community Driven Regeneration in Turin: Insights from the IMPATTO Project Visits",
-      "link": "https://www.comune.torino.it/novita/notizie/community-driven-regeneration-turin-insights-from-the-impatto-project-visits",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "enti-locali-piccoli-comuni": [
@@ -1183,64 +1275,6 @@
       "fonte_id": "regione"
     }
   ],
-  "fondi-europei": [
-    {
-      "id": "cbd10ddb7cae",
-      "titolo": "Bella Storia, taglio del nastro per il Cortile del Gioco in Barriera",
-      "link": "https://www.comune.torino.it/novita/comunicati/bella-storia-taglio-nastro-per-cortile-gioco-barriera",
-      "data": "2026-04-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "60cfaa3007a2",
-      "titolo": "Torino città dell’aerospazio: Thales Alenia Space propone la realizzazione di un nuovo edificio produttivo",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-citta-dellaerospazio-thales-alenia-space-propone-realizzazione-un-nuovo",
-      "data": "2026-04-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6696de63ae5f",
-      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6b354d940f54",
-      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-      "data": "2026-04-08T16:53:21+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a679cc76270c",
-      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ac562704b122",
-      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ad6be72d454a",
-      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
-      "data": "2026-03-25T14:58:13+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
   "trasparenza": [
     {
       "id": "fd35e3a68ad4",
@@ -1257,14 +1291,6 @@
       "data": "2026-04-10T20:37:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "2d482794f268",
-      "titolo": "Conferenza finale del progetto europeo CoFarm4Cities a Budapest",
-      "link": "https://www.comune.torino.it/novita/notizie/conferenza-finale-progetto-europeo-cofarm4cities-budapest",
-      "data": "2026-03-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "commercio-artigianato": [
@@ -1427,40 +1453,6 @@
       "titolo": "Torino-Regno Unito: a Palazzo di Città un incontro tra innovazione, atenei e gemellaggi",
       "link": "https://www.torinoclick.it/relazioniinternazionali/torino-regno-unito-a-palazzo-di-citta-un-incontro-tra-innovazione-atenei-e-gemellaggi/",
       "data": "2026-03-25T15:30:36+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
-  "bilancio-regionale": [
-    {
-      "id": "2779a391d71c",
-      "titolo": "Controlli nell’area del giardino Tre lanterne, una denuncia e due sequestri da parte della Polizia Locale",
-      "link": "https://www.comune.torino.it/novita/comunicati/controlli-nellarea-giardino-tre-lanterne-una-denuncia-due-sequestri-parte-della",
-      "data": "2026-04-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cf4a4dced20c",
-      "titolo": "Un sostegno di 14,4 milioni alle aziende agricole montane",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-sostegno-144-milioni-alle-aziende-agricole-montane",
-      "data": "2026-04-13T15:09:05+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3098597744fc",
-      "titolo": "Approvata seconda variazione al Bilancio di previsione finanziario 2026-2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/approvata-seconda-variazione-al-bilancio-previsione-finanziario-2026-2028",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "eb56f535d378",
-      "titolo": "In via Lagrange una installazione per riflettere sullo spreco alimentare",
-      "link": "https://www.torinoclick.it/societa/in-via-lagrange-una-installazione-per-riflettere-sullo-spreco-alimentare/",
-      "data": "2026-03-26T13:54:24+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
     }
