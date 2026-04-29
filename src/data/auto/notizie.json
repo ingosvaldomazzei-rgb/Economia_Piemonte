@@ -1,5 +1,25 @@
 [
   {
+    "id": "1609ef7c7e0e",
+    "titolo": "Tokyo, il sindaco Lo Russo incontra i vertici di Hitachi. L’azienda produrrà i veicoli della Linea 2 della metropolitana",
+    "link": "https://www.comune.torino.it/novita/comunicati/tokyo-sindaco-russo-incontra-vertici-hitachi-lazienda-produrra-veicoli-della",
+    "descrizione": "In missione istituzionale in Giappone, il sindaco Stefano Lo Russo ha incontrato a Tokyo i vertici di Hitachi.",
+    "data": "2026-04-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "c2d5264c2830",
+    "titolo": "In via Botticelli un edificio commerciale con nuovi parcheggi e aree verdi",
+    "link": "https://www.comune.torino.it/novita/comunicati/via-botticelli-un-edificio-commerciale-nuovi-parcheggi-aree-verdi",
+    "descrizione": "L’operazione prevede la demolizione di un fabbricato esistente e la realizzazione di un nuovo edificio a destinazione commerciale.",
+    "data": "2026-04-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "72c5c966ac2b",
     "titolo": "Piemonte capofila della seconda edizione di Common Ground",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-capofila-della-seconda-edizione-common-ground",
@@ -1978,25 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "0588ff23550b",
-    "titolo": "Domenica 29 marzo la Deejay Ten riparte da Torino",
-    "link": "https://www.torinoclick.it/sport/domenica-29-marzo-la-deejay-ten-riparte-da-torino/",
-    "descrizione": "Tutto pronto a Torino per il ritorno della Deejay Ten, che domenica 29 marzo alle ore 9.30 inaugura l’edizione 2026 con una tappa già sold out. Dopo il successo dello scorso anno, con oltre 60mila partecipanti, la corsa itinerante non agonistica ideata da Linus si conferma uno degli appuntamenti più attesi per gli amanti della corsa e del divertimento all’aria aperta.",
-    "data": "2026-03-24T10:37:20+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "4eae4c0b5a19",
-    "titolo": "Referendum costituzionale, 63,88% l’affluenza finale a Torino",
-    "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-finale/",
-    "descrizione": "L’Ufficio Elettorale ha comunicato le affluenze finali degli elettori di Torino alla chiusura dei seggi, che è stata pari al 63,88% (votanti 403.449 su 631.560).",
-    "data": "2026-03-23T15:27:41+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
   }
 ]

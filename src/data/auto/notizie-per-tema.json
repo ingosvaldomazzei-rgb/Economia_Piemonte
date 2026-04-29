@@ -1,4 +1,88 @@
 {
+  "trasporti-mobilita": [
+    {
+      "id": "1609ef7c7e0e",
+      "titolo": "Tokyo, il sindaco Lo Russo incontra i vertici di Hitachi. L’azienda produrrà i veicoli della Linea 2 della metropolitana",
+      "link": "https://www.comune.torino.it/novita/comunicati/tokyo-sindaco-russo-incontra-vertici-hitachi-lazienda-produrra-veicoli-della",
+      "data": "2026-04-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f34d0db03ec2",
+      "titolo": "Piemove si estende alle realtà accademiche",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-alle-realta-accademiche",
+      "data": "2026-04-01T19:25:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b93c7a93822e",
+      "titolo": "Piemove si estende a 14 realtà accademiche",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-14-realta-accademiche",
+      "data": "2026-04-01T19:25:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ce097a975ddb",
+      "titolo": "Tpl su gomma, approvato protocollo per la tutela dei lavoratori nelle gare",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tpl-gomma-approvato-protocollo-per-tutela-dei-lavoratori-nelle-gare",
+      "data": "2026-03-31T11:02:12+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "turismo": [
+    {
+      "id": "c2d5264c2830",
+      "titolo": "In via Botticelli un edificio commerciale con nuovi parcheggi e aree verdi",
+      "link": "https://www.comune.torino.it/novita/comunicati/via-botticelli-un-edificio-commerciale-nuovi-parcheggi-aree-verdi",
+      "data": "2026-04-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fb3487dab6f1",
+      "titolo": "È in arrivo la Torino+Piemonte Congress Card",
+      "link": "https://www.comune.torino.it/novita/comunicati/arrivo-torino-piemonte-congress-card",
+      "data": "2026-04-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "3ad42c34bf97",
+      "titolo": "Un ponte di luce tra Torino e Montréal: l’arte per unire Piemonte e Quebec",
+      "link": "https://www.comune.torino.it/novita/comunicati/un-ponte-luce-torino-montreal-larte-per-unire-piemonte-quebec",
+      "data": "2026-04-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a1afeaa21932",
+      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
+      "data": "2026-04-17T11:31:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6c251e485f05",
+      "titolo": "Ancora in crescita il turismo in Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ancora-crescita-turismo-piemonte",
+      "data": "2026-04-09T15:40:07+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "359d7659425d",
+      "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
+      "link": "https://www.torinoclick.it/societa/grandi-eventi-il-concerto-torino-time-per-la-fondazione-molinette/",
+      "data": "2026-03-26T15:54:39+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
   "lavoro-occupazione": [
     {
       "id": "72c5c966ac2b",
@@ -1097,14 +1181,6 @@
       "data": "2026-03-25T11:55:15+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "4eae4c0b5a19",
-      "titolo": "Referendum costituzionale, 63,88% l’affluenza finale a Torino",
-      "link": "https://www.torinoclick.it/incomune/referendum-costituzionale-affluenza-finale/",
-      "data": "2026-03-23T15:27:41+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
     }
   ],
   "fondi-europei": [
@@ -1355,48 +1431,6 @@
       "fonte_id": "torinoclick"
     }
   ],
-  "turismo": [
-    {
-      "id": "fb3487dab6f1",
-      "titolo": "È in arrivo la Torino+Piemonte Congress Card",
-      "link": "https://www.comune.torino.it/novita/comunicati/arrivo-torino-piemonte-congress-card",
-      "data": "2026-04-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "3ad42c34bf97",
-      "titolo": "Un ponte di luce tra Torino e Montréal: l’arte per unire Piemonte e Quebec",
-      "link": "https://www.comune.torino.it/novita/comunicati/un-ponte-luce-torino-montreal-larte-per-unire-piemonte-quebec",
-      "data": "2026-04-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a1afeaa21932",
-      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
-      "data": "2026-04-17T11:31:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6c251e485f05",
-      "titolo": "Ancora in crescita il turismo in Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ancora-crescita-turismo-piemonte",
-      "data": "2026-04-09T15:40:07+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "359d7659425d",
-      "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
-      "link": "https://www.torinoclick.it/societa/grandi-eventi-il-concerto-torino-time-per-la-fondazione-molinette/",
-      "data": "2026-03-26T15:54:39+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
   "bilancio-regionale": [
     {
       "id": "2779a391d71c",
@@ -1513,32 +1547,6 @@
       "data": "2026-03-24T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "trasporti-mobilita": [
-    {
-      "id": "f34d0db03ec2",
-      "titolo": "Piemove si estende alle realtà accademiche",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-alle-realta-accademiche",
-      "data": "2026-04-01T19:25:29+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b93c7a93822e",
-      "titolo": "Piemove si estende a 14 realtà accademiche",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-14-realta-accademiche",
-      "data": "2026-04-01T19:25:29+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ce097a975ddb",
-      "titolo": "Tpl su gomma, approvato protocollo per la tutela dei lavoratori nelle gare",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tpl-gomma-approvato-protocollo-per-tutela-dei-lavoratori-nelle-gare",
-      "data": "2026-03-31T11:02:12+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ]
 }

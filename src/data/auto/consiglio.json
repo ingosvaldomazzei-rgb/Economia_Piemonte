@@ -1,6 +1,16 @@
 {
-  "ultimo_aggiornamento": "2026-04-29T08:29:14.634366+00:00",
+  "ultimo_aggiornamento": "2026-04-29T14:16:22.559988+00:00",
   "sedute": [
+    {
+      "id": "e90cc33d3602",
+      "tipo": "seduta",
+      "numero": "089",
+      "titolo": "Seduta n. 089 del 05/05/2026",
+      "data": "2026-05-05T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=089&data_seduta=05-05-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
     {
       "id": "74b65cfd4053",
       "tipo": "seduta",
@@ -1987,12 +1997,12 @@
     }
   ],
   "statistiche": {
-    "totale_sedute": 18,
-    "totale_interrogazioni": 100,
-    "totale_interpellanze": 0,
-    "totale_mozioni": 2,
-    "totale_odg": 98,
-    "mozioni_approvate": 57,
-    "mozioni_respinte": 19
+    "totale_sedute": 19,
+    "totale_interrogazioni": 199,
+    "totale_interpellanze": 1,
+    "totale_mozioni": 9,
+    "totale_odg": 191,
+    "mozioni_approvate": 101,
+    "mozioni_respinte": 40
   }
 }
