@@ -1,5 +1,25 @@
 [
   {
+    "id": "fca2a546bdbd",
+    "titolo": "Un tavolo permanente per infermieri e servizi",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-tavolo-permanente-per-infermieri-servizi",
+    "descrizione": "Sottoscritto da Regione e organizzazioni sindacali un verbale di intesa che prevede l’attivazione di un tavolo permanente dedicato al rafforzamento del personale sanitario, con particolare attenzione al reclutamento degli infermieri e alla tenuta dei …",
+    "data": "2026-04-30T17:45:53+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "bc6132076b38",
+    "titolo": "Il Salone Off porta la cultura tra la gente",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-off-porta-cultura-gente",
+    "descrizione": "Oltre mille eventi in 12 giorni in 400 spazi di Torino e 40 centri dell'area metropolitana, con il coinvolgimento di altri 15 in tutto il Piemonte grazie al progetto Voltapagina: sono i numeri della 22esima edizione del…",
+    "data": "2026-04-30T16:27:39+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "b9e97e144cdc",
     "titolo": "Corteo del 1° maggio",
     "link": "https://www.comune.torino.it/novita/notizie/corteo-1deg-maggio",
@@ -34,6 +54,16 @@
     "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa patronale di S.Giovanni (24 giugno 2026)",
     "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della-0",
     "descrizione": "Termini di presentazione delle istanze : 1°maggio - 31 maggio 2026, tramite il portale Impresainungiorno.",
+    "data": "2026-04-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "dd0bd97a7cb0",
+    "titolo": "Protezione Civile, approvate le nuove linee di indirizzo per il funzionamento del Centro Operativo Comunale",
+    "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-approvate-nuove-linee-indirizzo-per-funzionamento-centro",
+    "descrizione": "La Giunta comunale ha approvato nella seduta di martedi scorso una delibera, proposta dall’assessore alla Protezione civile Francesco Tresso",
     "data": "2026-04-30T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1968,35 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "466654996775",
-    "titolo": "ZTL Valentino: la Città amplia l’area a traffico limitato per valorizzare il parco",
-    "link": "https://www.torinoclick.it/territorio/ztl-valentino-la-citta-amplia-larea-a-traffico-limitato-per-valorizzare-il-parco/",
-    "descrizione": "Un parco ancora più accessibile, con viali dedicati al passeggio, allo sport e allo studio nel verde: la Città estende il perimetro della ZTL Valentino per valorizzarne gli spazi come luogo di incontro e benessere. La Giunta Comunale ha approvato questa mattina, su proposta dell’assessora alla Mobilità Chiara Foglietta di concerto con l’assessore al Verde Francesco Tresso, la delibera che amplia l’area a traffico limitato e introduce nuovi varchi elettronici.",
-    "data": "2026-03-24T15:11:45+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "bbdbca7359d4",
-    "titolo": "Inaugurato il nuovo percorso di accesso a Cascina Falchera con il progetto “Green 4All”",
-    "link": "https://www.torinoclick.it/territorio/inaugurato-il-nuovo-percorso-di-accesso-a-cascina-falchera-con-il-progetto-green-4all/",
-    "descrizione": "È stato inaugurato oggi il nuovo percorso esterno di accesso a Cascina Falchera, realizzato dal Consorzio Kairos grazie al progetto “GREEN 4all: spazi aperti accessibili a tutti”, sostenuto da Intesa Sanpaolo, attraverso il Programma Formula, in collaborazione con CESVI.",
-    "data": "2026-03-24T14:24:01+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "a547763055af",
-    "titolo": "Aggiornata la banca del dna delle foreste piemontesi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aggiornata-banca-dna-delle-foreste-piemontesi",
-    "descrizione": "La Regione Piemonte ha aggiornato il Registro dei materiali di base per la vivaistica forestale, mappa strategica di 142 popolamenti da seme selezionati per la loro qualità, resilienza e adattabilità e che si…",
-    "data": "2026-03-24T14:21:40+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
