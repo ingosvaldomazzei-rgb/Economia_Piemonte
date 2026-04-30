@@ -1,5 +1,55 @@
 [
   {
+    "id": "b9e97e144cdc",
+    "titolo": "Corteo del 1° maggio",
+    "link": "https://www.comune.torino.it/novita/notizie/corteo-1deg-maggio",
+    "descrizione": "Previsto nel centro città: partenza dal ritrovo di corso Cairoli alle ore 9:00 ed arrivo in piazza Castello.",
+    "data": "2026-04-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6a5acd8f25e2",
+    "titolo": "Stati Generali del Rock – Arezzo Wave Contest & Festival edizione 2026 – il 4 maggio la chiusura delle iscrizioni",
+    "link": "https://www.comune.torino.it/novita/comunicati/stati-generali-rock-arezzo-wave-contest-festival-edizione-2026-4-maggio-chiusura",
+    "descrizione": "Ultimi giorni per iscriversi alla 40ª edizione del concorso che da quasi quarant’anni scopre i nuovi talenti della musica italiana.",
+    "data": "2026-04-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "78bfdbf62035",
+    "titolo": "Seminario sul Sonno – Open Day all’Eduteca Agorà",
+    "link": "https://www.comune.torino.it/novita/notizie/seminario-sul-sonno-open-day-alleduteca-agora-0",
+    "descrizione": "Martedì 5 Maggio presso l’Eduteca Agorà si terrà un seminario gratuito sul sonno del bambino dai 18 ai 36 mesi con la consulente Stefania Farinasso",
+    "data": "2026-04-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "136cfa3fa7ee",
+    "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa patronale di S.Giovanni (24 giugno 2026)",
+    "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della-0",
+    "descrizione": "Termini di presentazione delle istanze : 1°maggio - 31 maggio 2026, tramite il portale Impresainungiorno.",
+    "data": "2026-04-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e3e4094e6f3f",
+    "titolo": "Borsa di studio ad altri 729 studenti universitari",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/borsa-studio-ad-altri-729-studenti-universitari",
+    "descrizione": "A conferma del suo impegno per garantire il diritto allo studio universitario la Regione Piemonte ha assegnato a Edisu ulteriori 4 milioni di euro per garantire le borse di studio a 729 studenti che hanno maturato i requisiti dopo la scadenza del bando…",
+    "data": "2026-04-30T11:58:15+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "7b040dd08ef4",
     "titolo": "Obiettivo Export: imprese e territori del Nord Italia",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/obiettivo-export-imprese-territori-nord-italia",
@@ -103,7 +153,7 @@
     "id": "8c27dfcd11c8",
     "titolo": "Sala Rossa: via libera al rendiconto 2025",
     "link": "https://www.comune.torino.it/novita/notizie/sala-rossa-via-libera-al-rendiconto-2025",
-    "descrizione": "Approvato dal Consiglio comunale il rendiconto 2025, dopo una maratona protrattasi sino alle cinque di questa mattina",
+    "descrizione": "Approvato dal Consiglio comunale il rendiconto 2025, dopo una maratona protrattasi sino alle cinque di questa mattina.",
     "data": "2026-04-28T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1948,55 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "9ea695a0170f",
-    "titolo": "Torino continua a investire sulle scuole: 260mila euro per la palestra dell’Istituto Vittorino Da Feltre",
-    "link": "https://www.torinoclick.it/territorio/torino-continua-a-investire-sulle-scuole-260mila-euro-per-la-palestra-dellistituto-vittorino-da-feltre/",
-    "descrizione": "Un nuovo intervento volto a migliorare la sicurezza e la qualità degli spazi scolastici torinesi interesserà la palestra dell’Istituto Comprensivo Vittorino Da Feltre di via Finalmarina a Torino.",
-    "data": "2026-03-24T13:59:31+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "a0eb57d7b6b6",
-    "titolo": "Sosta: la Città riorganizza l’area camper Caio Mario e introduce nuove agevolazioni per residenti e persone con disabilità",
-    "link": "https://www.torinoclick.it/trasporti/sosta-la-citta-riorganizza-larea-camper-caio-mario-e-introduce-nuove-agevolazioni-per-residenti-e-persone-con-disabilita/",
-    "descrizione": "Torino migliora l’accoglienza nell’area camper di Caio Mario e la gestione dei parcheggi in struttura attraverso un piano di interventi volto a garantire decoro, facilità di parcheggio e nuove agevolazioni per i cittadini. Il provvedimento è stato approvato questa mattina dalla Giunta comunale su proposta dell’assessora alla Mobilità Chiara Foglietta.",
-    "data": "2026-03-24T12:16:34+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "1c331d3b432b",
-    "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
-    "link": "https://www.torinoclick.it/incomune/appalti-badge-nei-cantieri-stop-ai-subappalti-a-cascata-citta-e-sindacati-firmano-il-nuovo-protocollo-su-sicurezza-e-lavoro-giusto/",
-    "descrizione": "È stato siglato questa mattina, nella sala Colonne di Palazzo Civico, il nuovo “Protocollo d’intesa sulla sicurezza e legalità nel settore degli appalti di lavori pubblici e subappalti nei contratti del Comune di Torino”. Il documento è stato approvato nel corso della Giunta Comunale su proposta della vicesindaca con delega al Lavoro Michela Favaro e poi sottoscritto con i rappresentanti delle sigle sindacali CGIL, CISL e UIL e con l’assessore alla Legalità Marco Porcedda.",
-    "data": "2026-03-24T12:07:25+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "7cad1390460b",
-    "titolo": "ZTL Valentino: la Città amplia l’area a traffico limitato per valorizzare il parco",
-    "link": "https://www.comune.torino.it/novita/comunicati/ztl-valentino-citta-amplia-larea-traffico-limitato-per-valorizzare-parco",
-    "descrizione": "La Città estende il perimetro della ZTL Valentino per valorizzarne gli spazi come luogo di incontro e benessere.",
-    "data": "2026-03-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0d075a929acd",
-    "titolo": "Appalti, badge nei cantieri, stop ai subappalti a cascata: Città e Sindacati firmano il nuovo protocollo su sicurezza e lavoro giusto",
-    "link": "https://www.comune.torino.it/novita/comunicati/appalti-badge-nei-cantieri-stop-ai-subappalti-cascata-citta-sindacati-firmano",
-    "descrizione": "L'intesa mira a rafforzare i presidi di legalità in un settore strategico per lo sviluppo del territorio.",
-    "data": "2026-03-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

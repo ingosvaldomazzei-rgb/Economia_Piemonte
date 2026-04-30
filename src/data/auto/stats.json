@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 48,
-    "comune_torino": 134,
+    "comune_torino": 136,
+    "regione": 49,
     "consiglio": 1,
-    "torinoclick": 17
+    "torinoclick": 14
   },
   "temi_attivi": [
     {
@@ -16,20 +16,24 @@
       "conteggio": 13
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 13
+      "tema": "universita-ricerca",
+      "conteggio": 12
     },
     {
       "tema": "attivita-produttive",
       "conteggio": 12
     },
     {
+      "tema": "lavoro-occupazione",
+      "conteggio": 11
+    },
+    {
       "tema": "enti-locali-piccoli-comuni",
       "conteggio": 11
     },
     {
-      "tema": "universita-ricerca",
-      "conteggio": 11
+      "tema": "commercio-artigianato",
+      "conteggio": 10
     },
     {
       "tema": "giovani",
@@ -41,10 +45,6 @@
     },
     {
       "tema": "sport",
-      "conteggio": 9
-    },
-    {
-      "tema": "pianificazione-territoriale",
       "conteggio": 9
     }
   ],
