@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
+    "comune_torino": 138,
     "regione": 50,
-    "comune_torino": 137,
     "consiglio": 1,
-    "torinoclick": 12
+    "torinoclick": 11
   },
   "temi_attivi": [
     {
@@ -36,11 +36,11 @@
       "conteggio": 10
     },
     {
-      "tema": "giovani",
-      "conteggio": 10
+      "tema": "sociale-welfare",
+      "conteggio": 9
     },
     {
-      "tema": "sociale-welfare",
+      "tema": "giovani",
       "conteggio": 9
     },
     {
