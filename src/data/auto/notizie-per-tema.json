@@ -1,4 +1,112 @@
 {
+  "pianificazione-territoriale": [
+    {
+      "id": "83414edddfb4",
+      "titolo": "Al via il quarto programma di manutenzione dei corsi d’acqua",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-quarto-programma-manutenzione-dei-corsi-dacqua",
+      "data": "2026-05-04T16:03:48+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f1b5461e854e",
+      "titolo": "Il piano generale del nuovo ospedale di Vercelli",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-generale-nuovo-ospedale-vercelli",
+      "data": "2026-04-27T16:02:17+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d0ed92fd8a70",
+      "titolo": "Consulta di Torino e Città. Rigenerazione Urbana, progetti attuati e prossime realizzazioni",
+      "link": "https://www.comune.torino.it/novita/comunicati/consulta-torino-citta-rigenerazione-urbana-progetti-attuati-prossime",
+      "data": "2026-04-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f32cae34a418",
+      "titolo": "25 aprile, il programma completo delle iniziative per la Festa della Liberazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/25-aprile-programma-completo-delle-iniziative-per-festa-della-liberazione",
+      "data": "2026-04-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "43cb4d4d4c8f",
+      "titolo": "Sala Rossa: approvati tre atti di indirizzo per l'adesione della Città di Torino alla piattaforma unica nazionale dei contrassegni disabili CUDE",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvati-tre-atti-indirizzo-per-ladesione-della-citta-torino-alla",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "854704bf0dd4",
+      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
+      "data": "2026-04-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5feb3d3c0933",
+      "titolo": "Nuovo Piano Regolatore Generale",
+      "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "93a8e30409a6",
+      "titolo": "Nuovi addensamenti commerciali - Piano Regolatore Generale",
+      "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "50a8e14b7872",
+      "titolo": "Riqualificazione, continuità e apertura al territorio: al via una nuova gestione per la palestra della scuola primaria Manzoni",
+      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-continuita-apertura-al-territorio-al-via-una-nuova-gestione-per",
+      "data": "2026-03-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "protezione-civile": [
+    {
+      "id": "83414edddfb4",
+      "titolo": "Al via il quarto programma di manutenzione dei corsi d’acqua",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-quarto-programma-manutenzione-dei-corsi-dacqua",
+      "data": "2026-05-04T16:03:48+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "dd0bd97a7cb0",
+      "titolo": "Protezione Civile, approvate le nuove linee di indirizzo per il funzionamento del Centro Operativo Comunale",
+      "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-approvate-nuove-linee-indirizzo-per-funzionamento-centro",
+      "data": "2026-04-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a1afeaa21932",
+      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
+      "data": "2026-04-17T11:31:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8d864abfea66",
+      "titolo": "Alluvione aprile 2025: 679 interventi per 45,4 milioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alluvione-aprile-2025-679-interventi-per-454-milioni",
+      "data": "2026-04-02T16:56:05+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "sanita-regionale": [
     {
       "id": "fca2a546bdbd",
@@ -349,32 +457,6 @@
       "data": "2026-03-31T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "protezione-civile": [
-    {
-      "id": "dd0bd97a7cb0",
-      "titolo": "Protezione Civile, approvate le nuove linee di indirizzo per il funzionamento del Centro Operativo Comunale",
-      "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-approvate-nuove-linee-indirizzo-per-funzionamento-centro",
-      "data": "2026-04-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a1afeaa21932",
-      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
-      "data": "2026-04-17T11:31:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8d864abfea66",
-      "titolo": "Alluvione aprile 2025: 679 interventi per 45,4 milioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alluvione-aprile-2025-679-interventi-per-454-milioni",
-      "data": "2026-04-02T16:56:05+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "universita-ricerca": [
@@ -1235,72 +1317,6 @@
       "fonte_id": "regione"
     }
   ],
-  "pianificazione-territoriale": [
-    {
-      "id": "f1b5461e854e",
-      "titolo": "Il piano generale del nuovo ospedale di Vercelli",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-generale-nuovo-ospedale-vercelli",
-      "data": "2026-04-27T16:02:17+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d0ed92fd8a70",
-      "titolo": "Consulta di Torino e Città. Rigenerazione Urbana, progetti attuati e prossime realizzazioni",
-      "link": "https://www.comune.torino.it/novita/comunicati/consulta-torino-citta-rigenerazione-urbana-progetti-attuati-prossime",
-      "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f32cae34a418",
-      "titolo": "25 aprile, il programma completo delle iniziative per la Festa della Liberazione",
-      "link": "https://www.comune.torino.it/novita/comunicati/25-aprile-programma-completo-delle-iniziative-per-festa-della-liberazione",
-      "data": "2026-04-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "43cb4d4d4c8f",
-      "titolo": "Sala Rossa: approvati tre atti di indirizzo per l'adesione della Città di Torino alla piattaforma unica nazionale dei contrassegni disabili CUDE",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvati-tre-atti-indirizzo-per-ladesione-della-citta-torino-alla",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "854704bf0dd4",
-      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
-      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
-      "data": "2026-04-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5feb3d3c0933",
-      "titolo": "Nuovo Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "93a8e30409a6",
-      "titolo": "Nuovi addensamenti commerciali - Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "50a8e14b7872",
-      "titolo": "Riqualificazione, continuità e apertura al territorio: al via una nuova gestione per la palestra della scuola primaria Manzoni",
-      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-continuita-apertura-al-territorio-al-via-una-nuova-gestione-per",
-      "data": "2026-03-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "istruzione-formazione": [
     {
       "id": "cdffac08195c",
@@ -1439,14 +1455,6 @@
       "data": "2026-03-25T14:58:13+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
-    },
-    {
-      "id": "295b4c32d297",
-      "titolo": "Peste suina: Novara e Vercelli tornano in zona indenne con parte di Alessandria e Asti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-novara-vercelli-tornano-zona-indenne-parte-alessandria-asti",
-      "data": "2026-03-25T11:55:15+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "trasparenza": [

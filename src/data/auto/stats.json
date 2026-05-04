@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 138,
     "regione": 50,
+    "comune_torino": 139,
     "consiglio": 1,
-    "torinoclick": 11
+    "torinoclick": 10
   },
   "temi_attivi": [
     {
@@ -28,12 +28,16 @@
       "conteggio": 11
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 11
-    },
-    {
       "tema": "commercio-artigianato",
       "conteggio": 10
+    },
+    {
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 10
+    },
+    {
+      "tema": "pianificazione-territoriale",
+      "conteggio": 9
     },
     {
       "tema": "sociale-welfare",
@@ -42,10 +46,6 @@
     {
       "tema": "giovani",
       "conteggio": 9
-    },
-    {
-      "tema": "sanita-regionale",
-      "conteggio": 8
     }
   ],
   "totale_temi_con_notizie": 23

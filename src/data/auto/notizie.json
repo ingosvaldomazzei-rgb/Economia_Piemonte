@@ -1,9 +1,29 @@
 [
   {
+    "id": "83414edddfb4",
+    "titolo": "Al via il quarto programma di manutenzione dei corsi d’acqua",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-quarto-programma-manutenzione-dei-corsi-dacqua",
+    "descrizione": "La Giunta regionale ha approvato il quarto programma di interventi di manutenzione idraulica dei corsi d’acqua piemontesi, proseguendo un percorso strutturato che punta a rafforzare la sicurezza del territorio e la prevenzione del rischio idrogeologico. Previsti…",
+    "data": "2026-05-04T16:03:48+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "db3232d15ee4",
     "titolo": "La tua esperienza digitale conta: aiutaci a migliorare!",
     "link": "https://www.comune.torino.it/novita/notizie/tua-esperienza-digitale-conta-aiutaci-migliorare",
     "descrizione": "Rispondi al questionario di ICity Club per valutare i servizi digitali della Città.",
+    "data": "2026-05-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "5f292cf3abbb",
+    "titolo": "Equi.Voci – All Freaks Free",
+    "link": "https://www.comune.torino.it/novita/comunicati/equivoci-all-freaks-free",
+    "descrizione": "Via alla seconda edizione di “Equi.Voci - All Freaks Free”: l’evento gratuito di Fondazione Club Silencio per celebrare la diversità, l’equità e l’accessibilità",
     "data": "2026-05-04T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1978,25 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "077cd0ede812",
-    "titolo": "Biennale Tecnologia 2026 cerca “Soluzioni”",
-    "link": "https://www.torinoclick.it/economia/biennale-tecnologia-2026-cerca-soluzioni/",
-    "descrizione": "“In che modo la tecnologia può essere messa al servizio dell’interesse collettivo?” È questa la domanda al centro della quinta edizione della Biennale Tecnologia, presentata questa mattina alle Gallerie d’Italia in Piazza San Carlo. La manifestazione, per la quale quest’anno è stato scelto il titolo ‘Soluzioni’, dal 15 al 19 aprile trasformerà Torino in un vero e proprio laboratorio diffuso di idee, visioni e confronto.",
-    "data": "2026-03-25T11:59:01+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "295b4c32d297",
-    "titolo": "Peste suina: Novara e Vercelli tornano in zona indenne con parte di Alessandria e Asti",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-novara-vercelli-tornano-zona-indenne-parte-alessandria-asti",
-    "descrizione": "I territori compresi nelle province di Novara e Vercelli e nelle province di Asti e Alessandria al di sopra dell’asse dell’A21 Torino-Piacenza escono dalla zona di restrizione 2 riguardante la peste suina africana, in quanto da oltre 6 mesi non si sono più…",
-    "data": "2026-03-25T11:55:15+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
