@@ -1,5 +1,15 @@
 [
   {
+    "id": "b1a9a0110bd8",
+    "titolo": "Un bando per 5 nuovi Distretti del Commercio",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-bando-per-5-nuovi-distretti-commercio",
+    "descrizione": "In Piemonte aumenteranno i Distretti del Commercio: la Giunta regionale ha approvato uno stanziamento di 100mila euro per permetteranno di costituire e sostenere nelle spese d’avviamento 5 nuovi organismi, due dei quali potranno essere ubicati…",
+    "data": "2026-05-04T16:13:49+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "83414edddfb4",
     "titolo": "Al via il quarto programma di manutenzione dei corsi d’acqua",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-quarto-programma-manutenzione-dei-corsi-dacqua",
@@ -24,6 +34,36 @@
     "titolo": "Equi.Voci – All Freaks Free",
     "link": "https://www.comune.torino.it/novita/comunicati/equivoci-all-freaks-free",
     "descrizione": "Via alla seconda edizione di “Equi.Voci - All Freaks Free”: l’evento gratuito di Fondazione Club Silencio per celebrare la diversità, l’equità e l’accessibilità",
+    "data": "2026-05-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "23e980c39903",
+    "titolo": "Thales Alenia Space investe su Torino",
+    "link": "https://www.comune.torino.it/novita/comunicati/thales-alenia-space-investe-torino",
+    "descrizione": "Alenia: con un permesso di costruzione in deroga al P.R.G. il Consiglio comunale ha approvato la demolizione e la ricostruzione di un fabbricato produttivo.",
+    "data": "2026-05-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "decb1a2ba676",
+    "titolo": "Una mozione per la manutenzione e lo sviluppo dei percorsi ciclabili",
+    "link": "https://www.comune.torino.it/novita/comunicati/una-mozione-per-manutenzione-sviluppo-dei-percorsi-ciclabili",
+    "descrizione": "Approvato dal Consiglio comunale, con ampia maggioranza, un documento sulla manutenzione e il miglioramento della rete ciclabile torinese",
+    "data": "2026-05-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "670796de3fbe",
+    "titolo": "Cinema, mostre e danze. Torino accoglie la Grecia, paese ospite del Salone del Libro",
+    "link": "https://www.comune.torino.it/novita/comunicati/cinema-mostre-danze-torino-accoglie-grecia-paese-ospite-salone-libro",
+    "descrizione": "Torino si prepara ad accogliere un ricco calendario di iniziative dedicate alla cultura greca nell’ambito del Salone OFF.",
     "data": "2026-05-04T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1954,46 +1994,6 @@
     "titolo": "Un impegno per valorizzare la presenza Rai a Torino",
     "link": "https://www.comune.torino.it/novita/comunicati/un-impegno-per-valorizzare-presenza-rai-torino",
     "descrizione": "La Sala Rossa approva una mozione (primo firmatario: Claudio Cerrato - PD) che chiede di valorizzare e tutelare la presenza della Rai in città",
-    "data": "2026-03-25T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "82809b1a0848",
-    "titolo": "Una mozione per aderire alla definizione agevolata",
-    "link": "https://www.comune.torino.it/novita/comunicati/una-mozione-per-aderire-alla-definizione-agevolata",
-    "descrizione": "La Sala Rossa ha approvato una proposta di mozione riguardante la possibilità, per la Città, di aderire alla procedura di definizione agevolata",
-    "data": "2026-03-25T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4d5da6eca184",
-    "titolo": "Solidarietà della Sala Rossa al consigliere Abdullahi Ahmed per gli attacchi razzisti ricevuti",
-    "link": "https://www.comune.torino.it/novita/comunicati/solidarieta-della-sala-rossa-al-consigliere-abdullahi-ahmed-per-attacchi",
-    "descrizione": "Unanime la condanna delle forze politiche",
-    "data": "2026-03-25T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "ff6712745379",
-    "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-    "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-cortile-della-musica-barriera-milano",
-    "descrizione": "Due cortili a Barriera di Milano offriranno nuove opportunità educative e servizi di presidio di prossimità per tutti i giovani del quartiere.",
-    "data": "2026-03-25T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d29e055f151d",
-    "titolo": "Dallo specchietto rotto al finto investimento, la Città di Torino collabora con tassisti e Prefettura per contrastare le truffe al volante",
-    "link": "https://www.comune.torino.it/novita/comunicati/dallo-specchietto-rotto-al-finto-investimento-citta-torino-collabora-tassisti",
-    "descrizione": "Si sono moltiplicate le segnalazioni degli automobilisti alla Polizia Locale per truffe, o tentativi di truffe.",
     "data": "2026-03-25T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
