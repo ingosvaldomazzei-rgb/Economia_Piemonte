@@ -1,5 +1,65 @@
 [
   {
+    "id": "4d5c75e03b03",
+    "titolo": "Nuovi bandi per promuovere il vino piemontese",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-bandi-per-promuovere-vino-piemontese",
+    "descrizione": "Per andare alla conquista di nuovi mercati e rafforzare il legame fra turismo e territorio la Regione ha deciso un nuovo intervento a sostegno della promozione del vino piemontese nel mondo. Fino al 22 giugno prossimo è aperto un bando da 7,4…",
+    "data": "2026-05-05T14:21:16+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "c503ab663c6e",
+    "titolo": "Bollo auto: attiva la domiciliazione bancaria con riduzione del 5%",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bollo-auto-attiva-domiciliazione-bancaria-riduzione-5",
+    "descrizione": "È operativa in Piemonte la domiciliazione bancaria del bollo auto, che consente l’addebito diretto sul conto corrente evitando dimenticanze e riducendo il rischio di sanzioni. La nuova opzione, accessibile dal servizio “Domicilia il bollo” sul portale…",
+    "data": "2026-05-05T12:52:07+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "385f6cd22181",
+    "titolo": "Il nuovo piano triennale per la Formazione tecnica superiore",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-piano-triennale-per-formazione-tecnica-superiore",
+    "descrizione": "La Regione Piemonte rafforza il proprio impegno sulla formazione e sul lavoro approvando il nuovo atto di indirizzo per la programmazione triennale 2026-2029 dell’offerta di Formazione Tecnica Superiore, che comprende i percorsi e le attività…",
+    "data": "2026-05-05T12:14:56+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "c2ee4076f5bb",
+    "titolo": "Il cimitero informa",
+    "link": "https://www.comune.torino.it/novita/avvisi/cimitero-informa",
+    "descrizione": "Avvisi di scadenza delle spolture e delle concesioni cimiteriali",
+    "data": "2026-05-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6427eea9f00a",
+    "titolo": "Nuova vita per l’immobile di via Gorizia 116: più parcheggi per i pazienti e spazi per i ragazzi",
+    "link": "https://www.comune.torino.it/novita/comunicati/nuova-vita-per-limmobile-via-gorizia-116-piu-parcheggi-per-pazienti-spazi-per",
+    "descrizione": "Questa mattina la giunta comunale ha approvato una delibera con cui viene dato il via libera alla riqualificazione del complesso immobiliare di via Gorizia 116.",
+    "data": "2026-05-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e1cab42b8f91",
+    "titolo": "Fisco locale, Torino fa da apripista: via sanzioni e interessi e più tempo per pagare per chi estingue i debiti",
+    "link": "https://www.comune.torino.it/novita/comunicati/fisco-locale-torino-fa-apripista-via-sanzioni-interessi-piu-tempo-per-pagare-per",
+    "descrizione": "Il provvedimento sarà ora sottoposto al Consiglio Comunale per l’approvazione definitiva.",
+    "data": "2026-05-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "b1a9a0110bd8",
     "titolo": "Un bando per 5 nuovi Distretti del Commercio",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-bando-per-5-nuovi-distretti-commercio",
@@ -1935,66 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/notizie/festa-primavera-cascina-falchera",
     "descrizione": "28 marzo 2026 Festa di Primavera – III Edizione",
     "data": "2026-03-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d4c0b8619728",
-    "titolo": "Un nuovo assetto per la Giunta regionale del Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-nuovo-assetto-per-giunta-regionale-piemonte",
-    "descrizione": "Alla luce delle ultime vicende, nella giornata di oggi Elena Chiorino ha rappresentato al presidente Alberto Cirio la volontà di restituire la delega alla vicepresidenza della Regione Piemonte. Con il presidente si è quindi condivisa l’opportunità che, in…",
-    "data": "2026-03-25T19:11:00+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ea7ca8a3eb7c",
-    "titolo": "Torino-Regno Unito: a Palazzo di Città un incontro tra innovazione, atenei e gemellaggi",
-    "link": "https://www.torinoclick.it/relazioniinternazionali/torino-regno-unito-a-palazzo-di-citta-un-incontro-tra-innovazione-atenei-e-gemellaggi/",
-    "descrizione": "Si è tenuto oggi a Palazzo di Città un incontro tra la vicesindaca di Torino, Michela Favaro, e i vertici della diplomazia britannica: il Chargé d’Affaires del Regno Unito in Italia e San Marino, David Burton, e il Console Generale a Milano, Kassim Ramji.",
-    "data": "2026-03-25T15:30:36+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "ad6be72d454a",
-    "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-    "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
-    "descrizione": "Due cortili a Barriera di Milano offriranno nuove opportunità educative e servizi di presidio di prossimità per tutti i giovani del quartiere, indipendentemente dalla loro religione o provenienza. Con il progetto “Cortili che Curano”, Fondazione AIEF, l’Associazione Oratorio Maria Regina della Pace e l’Associazione Alla…Mano hanno rinnovato gli spazi dei due oratori, potenziandoli come presìdi educativi e comunitari.L’iniziativa è sostenuta dalla Città di Torino nell’ambito del progetto “Bella S",
-    "data": "2026-03-25T14:58:13+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "cc6887cb1974",
-    "titolo": "Dal 2 al 6 aprile Torino è capitale del tango: l’edizione 24 del Tango Torino Festival presentata oggi a Palazzo Civico",
-    "link": "https://www.torinoclick.it/societa/dal-2-al-6-aprile-torino-e-capitale-del-tango-ledizione-24-del-tango-torino-festival-presentata-oggi-a-palazzo-civico/",
-    "descrizione": "Presentata oggi nella Sala Colonne di Palazzo Civico, alla presenza dell’assessore Domenico Carretta, la 24ª edizione dell’International Tango Torino Festival, che dal 2 al 6 aprile riporterà in città l’atmosfera unica delle milonghe pasquali, tra spettacoli, didattica e migliaia di appassionati provenienti da tutto il mondo.",
-    "data": "2026-03-25T13:45:54+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "986d83919a53",
-    "titolo": "Dallo specchietto rotto al finto investimento, la Città di Torino collabora con tassisti e Prefettura per contrastare le truffe al volante",
-    "link": "https://www.torinoclick.it/sicurezza/dallo-specchietto-rotto-al-finto-investimento-la-citta-di-torino-collabora-con-tassisti-e-prefettura-per-contrastare-le-truffe-al-volante/",
-    "descrizione": "Si sono moltiplicate le segnalazioni degli automobilisti alla Polizia Locale per truffe, o tentativi di truffe, con il metodo del falso pedone investito o dello specchietto rotto. Nell’ultimo anno circa 880mila italiani hanno ammesso di essere caduti nel tranello e di aver pagato in contanti il presunto danno. E anche a Torino i dati delle denunce sono in aumento.",
-    "data": "2026-03-25T13:37:32+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "879e8643d260",
-    "titolo": "Un impegno per valorizzare la presenza Rai a Torino",
-    "link": "https://www.comune.torino.it/novita/comunicati/un-impegno-per-valorizzare-presenza-rai-torino",
-    "descrizione": "La Sala Rossa approva una mozione (primo firmatario: Claudio Cerrato - PD) che chiede di valorizzare e tutelare la presenza della Rai in città",
-    "data": "2026-03-25T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"

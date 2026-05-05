@@ -1,6 +1,14 @@
 {
   "commercio-artigianato": [
     {
+      "id": "4d5c75e03b03",
+      "titolo": "Nuovi bandi per promuovere il vino piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-bandi-per-promuovere-vino-piemontese",
+      "data": "2026-05-05T14:21:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "b1a9a0110bd8",
       "titolo": "Un bando per 5 nuovi Distretti del Commercio",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-bando-per-5-nuovi-distretti-commercio",
@@ -89,115 +97,15 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "pianificazione-territoriale": [
-    {
-      "id": "83414edddfb4",
-      "titolo": "Al via il quarto programma di manutenzione dei corsi d’acqua",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-quarto-programma-manutenzione-dei-corsi-dacqua",
-      "data": "2026-05-04T16:03:48+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f1b5461e854e",
-      "titolo": "Il piano generale del nuovo ospedale di Vercelli",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-generale-nuovo-ospedale-vercelli",
-      "data": "2026-04-27T16:02:17+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d0ed92fd8a70",
-      "titolo": "Consulta di Torino e Città. Rigenerazione Urbana, progetti attuati e prossime realizzazioni",
-      "link": "https://www.comune.torino.it/novita/comunicati/consulta-torino-citta-rigenerazione-urbana-progetti-attuati-prossime",
-      "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f32cae34a418",
-      "titolo": "25 aprile, il programma completo delle iniziative per la Festa della Liberazione",
-      "link": "https://www.comune.torino.it/novita/comunicati/25-aprile-programma-completo-delle-iniziative-per-festa-della-liberazione",
-      "data": "2026-04-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "43cb4d4d4c8f",
-      "titolo": "Sala Rossa: approvati tre atti di indirizzo per l'adesione della Città di Torino alla piattaforma unica nazionale dei contrassegni disabili CUDE",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvati-tre-atti-indirizzo-per-ladesione-della-citta-torino-alla",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "854704bf0dd4",
-      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
-      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
-      "data": "2026-04-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5feb3d3c0933",
-      "titolo": "Nuovo Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "93a8e30409a6",
-      "titolo": "Nuovi addensamenti commerciali - Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "50a8e14b7872",
-      "titolo": "Riqualificazione, continuità e apertura al territorio: al via una nuova gestione per la palestra della scuola primaria Manzoni",
-      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-continuita-apertura-al-territorio-al-via-una-nuova-gestione-per",
-      "data": "2026-03-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "protezione-civile": [
-    {
-      "id": "83414edddfb4",
-      "titolo": "Al via il quarto programma di manutenzione dei corsi d’acqua",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-quarto-programma-manutenzione-dei-corsi-dacqua",
-      "data": "2026-05-04T16:03:48+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "dd0bd97a7cb0",
-      "titolo": "Protezione Civile, approvate le nuove linee di indirizzo per il funzionamento del Centro Operativo Comunale",
-      "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-approvate-nuove-linee-indirizzo-per-funzionamento-centro",
-      "data": "2026-04-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a1afeaa21932",
-      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
-      "data": "2026-04-17T11:31:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8d864abfea66",
-      "titolo": "Alluvione aprile 2025: 679 interventi per 45,4 milioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alluvione-aprile-2025-679-interventi-per-454-milioni",
-      "data": "2026-04-02T16:56:05+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "agricoltura": [
+    {
+      "id": "4d5c75e03b03",
+      "titolo": "Nuovi bandi per promuovere il vino piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-bandi-per-promuovere-vino-piemontese",
+      "data": "2026-05-05T14:21:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "23e980c39903",
       "titolo": "Thales Alenia Space investe su Torino",
@@ -301,14 +209,328 @@
       "data": "2026-03-31T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "turismo": [
+    {
+      "id": "4d5c75e03b03",
+      "titolo": "Nuovi bandi per promuovere il vino piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-bandi-per-promuovere-vino-piemontese",
+      "data": "2026-05-05T14:21:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
-      "id": "ad6be72d454a",
-      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
-      "data": "2026-03-25T14:58:13+00:00",
+      "id": "c2d5264c2830",
+      "titolo": "In via Botticelli un edificio commerciale con nuovi parcheggi e aree verdi",
+      "link": "https://www.comune.torino.it/novita/comunicati/via-botticelli-un-edificio-commerciale-nuovi-parcheggi-aree-verdi",
+      "data": "2026-04-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fb3487dab6f1",
+      "titolo": "È in arrivo la Torino+Piemonte Congress Card",
+      "link": "https://www.comune.torino.it/novita/comunicati/arrivo-torino-piemonte-congress-card",
+      "data": "2026-04-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "3ad42c34bf97",
+      "titolo": "Un ponte di luce tra Torino e Montréal: l’arte per unire Piemonte e Quebec",
+      "link": "https://www.comune.torino.it/novita/comunicati/un-ponte-luce-torino-montreal-larte-per-unire-piemonte-quebec",
+      "data": "2026-04-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a1afeaa21932",
+      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
+      "data": "2026-04-17T11:31:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6c251e485f05",
+      "titolo": "Ancora in crescita il turismo in Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ancora-crescita-turismo-piemonte",
+      "data": "2026-04-09T15:40:07+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "359d7659425d",
+      "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
+      "link": "https://www.torinoclick.it/societa/grandi-eventi-il-concerto-torino-time-per-la-fondazione-molinette/",
+      "data": "2026-03-26T15:54:39+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
+    }
+  ],
+  "pianificazione-territoriale": [
+    {
+      "id": "4d5c75e03b03",
+      "titolo": "Nuovi bandi per promuovere il vino piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-bandi-per-promuovere-vino-piemontese",
+      "data": "2026-05-05T14:21:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "83414edddfb4",
+      "titolo": "Al via il quarto programma di manutenzione dei corsi d’acqua",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-quarto-programma-manutenzione-dei-corsi-dacqua",
+      "data": "2026-05-04T16:03:48+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f1b5461e854e",
+      "titolo": "Il piano generale del nuovo ospedale di Vercelli",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-generale-nuovo-ospedale-vercelli",
+      "data": "2026-04-27T16:02:17+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d0ed92fd8a70",
+      "titolo": "Consulta di Torino e Città. Rigenerazione Urbana, progetti attuati e prossime realizzazioni",
+      "link": "https://www.comune.torino.it/novita/comunicati/consulta-torino-citta-rigenerazione-urbana-progetti-attuati-prossime",
+      "data": "2026-04-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f32cae34a418",
+      "titolo": "25 aprile, il programma completo delle iniziative per la Festa della Liberazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/25-aprile-programma-completo-delle-iniziative-per-festa-della-liberazione",
+      "data": "2026-04-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "43cb4d4d4c8f",
+      "titolo": "Sala Rossa: approvati tre atti di indirizzo per l'adesione della Città di Torino alla piattaforma unica nazionale dei contrassegni disabili CUDE",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvati-tre-atti-indirizzo-per-ladesione-della-citta-torino-alla",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "854704bf0dd4",
+      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
+      "data": "2026-04-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5feb3d3c0933",
+      "titolo": "Nuovo Piano Regolatore Generale",
+      "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "93a8e30409a6",
+      "titolo": "Nuovi addensamenti commerciali - Piano Regolatore Generale",
+      "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "50a8e14b7872",
+      "titolo": "Riqualificazione, continuità e apertura al territorio: al via una nuova gestione per la palestra della scuola primaria Manzoni",
+      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-continuita-apertura-al-territorio-al-via-una-nuova-gestione-per",
+      "data": "2026-03-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "bilancio-regionale": [
+    {
+      "id": "c503ab663c6e",
+      "titolo": "Bollo auto: attiva la domiciliazione bancaria con riduzione del 5%",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bollo-auto-attiva-domiciliazione-bancaria-riduzione-5",
+      "data": "2026-05-05T12:52:07+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "00ae42ca4365",
+      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
+      "data": "2026-04-29T15:15:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2779a391d71c",
+      "titolo": "Controlli nell’area del giardino Tre lanterne, una denuncia e due sequestri da parte della Polizia Locale",
+      "link": "https://www.comune.torino.it/novita/comunicati/controlli-nellarea-giardino-tre-lanterne-una-denuncia-due-sequestri-parte-della",
+      "data": "2026-04-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cf4a4dced20c",
+      "titolo": "Un sostegno di 14,4 milioni alle aziende agricole montane",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-sostegno-144-milioni-alle-aziende-agricole-montane",
+      "data": "2026-04-13T15:09:05+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3098597744fc",
+      "titolo": "Approvata seconda variazione al Bilancio di previsione finanziario 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/approvata-seconda-variazione-al-bilancio-previsione-finanziario-2026-2028",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "eb56f535d378",
+      "titolo": "In via Lagrange una installazione per riflettere sullo spreco alimentare",
+      "link": "https://www.torinoclick.it/societa/in-via-lagrange-una-installazione-per-riflettere-sullo-spreco-alimentare/",
+      "data": "2026-03-26T13:54:24+00:00",
+      "fonte": "TorinoClick",
+      "fonte_id": "torinoclick"
+    }
+  ],
+  "lavoro-occupazione": [
+    {
+      "id": "385f6cd22181",
+      "titolo": "Il nuovo piano triennale per la Formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-piano-triennale-per-formazione-tecnica-superiore",
+      "data": "2026-05-05T12:14:56+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "72c5c966ac2b",
+      "titolo": "Piemonte capofila della seconda edizione di Common Ground",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-capofila-della-seconda-edizione-common-ground",
+      "data": "2026-04-29T09:22:13+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c42c3fe3ba96",
+      "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
+      "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
+      "data": "2026-04-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1da80c398078",
+      "titolo": "Torino rende omaggio all’imprenditore e antifascista Sandro Fiorio: intitolata la balconata alberata di via San Donato",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-rende-omaggio-allimprenditore-antifascista-sandro-fiorio-intitolata",
+      "data": "2026-04-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8145fac0bc64",
+      "titolo": "Videosorveglianza, prosegue il lavoro per implementare telecamere e sistemi di sicurezza",
+      "link": "https://www.comune.torino.it/novita/comunicati/videosorveglianza-prosegue-lavoro-per-implementare-telecamere-sistemi-sicurezza",
+      "data": "2026-04-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "aae92810517d",
+      "titolo": "Accordo per recupero delle liste d’attesa, sistema 118 e meno esternalizzazioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-per-recupero-delle-liste-dattesa-sistema-118-meno-esternalizzazioni",
+      "data": "2026-04-20T18:43:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "68112c870caa",
+      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – maggio 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-1",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8cf3a17d4574",
+      "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi maggio 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico-0",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a3d1222b666e",
+      "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
+      "data": "2026-04-03T16:26:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8bd02fe49c05",
+      "titolo": "Aperte le iscrizioni per corso di formazione Assistente Familiare (200 ore) per disoccupati - profilati GOL 102-103-104",
+      "link": "https://www.comune.torino.it/novita/avvisi/aperte-iscrizioni-per-corso-formazione-assistente-familiare-200-ore-per",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5feb3d3c0933",
+      "titolo": "Nuovo Piano Regolatore Generale",
+      "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "93a8e30409a6",
+      "titolo": "Nuovi addensamenti commerciali - Piano Regolatore Generale",
+      "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "protezione-civile": [
+    {
+      "id": "83414edddfb4",
+      "titolo": "Al via il quarto programma di manutenzione dei corsi d’acqua",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-quarto-programma-manutenzione-dei-corsi-dacqua",
+      "data": "2026-05-04T16:03:48+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "dd0bd97a7cb0",
+      "titolo": "Protezione Civile, approvate le nuove linee di indirizzo per il funzionamento del Centro Operativo Comunale",
+      "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-approvate-nuove-linee-indirizzo-per-funzionamento-centro",
+      "data": "2026-04-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a1afeaa21932",
+      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
+      "data": "2026-04-17T11:31:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8d864abfea66",
+      "titolo": "Alluvione aprile 2025: 679 interventi per 45,4 milioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alluvione-aprile-2025-679-interventi-per-454-milioni",
+      "data": "2026-04-02T16:56:05+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     }
   ],
   "fondi-europei": [
@@ -375,14 +597,6 @@
       "data": "2026-03-31T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ad6be72d454a",
-      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
-      "data": "2026-03-25T14:58:13+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
     }
   ],
   "cultura-beni-culturali": [
@@ -743,14 +957,6 @@
       "data": "2026-03-26T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ea7ca8a3eb7c",
-      "titolo": "Torino-Regno Unito: a Palazzo di Città un incontro tra innovazione, atenei e gemellaggi",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-regno-unito-a-palazzo-di-citta-un-incontro-tra-innovazione-atenei-e-gemellaggi/",
-      "data": "2026-03-25T15:30:36+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
     }
   ],
   "attivita-produttive": [
@@ -838,196 +1044,6 @@
       "id": "dc06925efe56",
       "titolo": "Mobilità autonoma: il futuro si disegna a Torino. Una giornata per toccare con mano l’innovazione",
       "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-futuro-si-disegna-torino-una-giornata-per-toccare-mano",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ea7ca8a3eb7c",
-      "titolo": "Torino-Regno Unito: a Palazzo di Città un incontro tra innovazione, atenei e gemellaggi",
-      "link": "https://www.torinoclick.it/relazioniinternazionali/torino-regno-unito-a-palazzo-di-citta-un-incontro-tra-innovazione-atenei-e-gemellaggi/",
-      "data": "2026-03-25T15:30:36+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
-  "bilancio-regionale": [
-    {
-      "id": "00ae42ca4365",
-      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
-      "data": "2026-04-29T15:15:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2779a391d71c",
-      "titolo": "Controlli nell’area del giardino Tre lanterne, una denuncia e due sequestri da parte della Polizia Locale",
-      "link": "https://www.comune.torino.it/novita/comunicati/controlli-nellarea-giardino-tre-lanterne-una-denuncia-due-sequestri-parte-della",
-      "data": "2026-04-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cf4a4dced20c",
-      "titolo": "Un sostegno di 14,4 milioni alle aziende agricole montane",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-sostegno-144-milioni-alle-aziende-agricole-montane",
-      "data": "2026-04-13T15:09:05+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3098597744fc",
-      "titolo": "Approvata seconda variazione al Bilancio di previsione finanziario 2026-2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/approvata-seconda-variazione-al-bilancio-previsione-finanziario-2026-2028",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "eb56f535d378",
-      "titolo": "In via Lagrange una installazione per riflettere sullo spreco alimentare",
-      "link": "https://www.torinoclick.it/societa/in-via-lagrange-una-installazione-per-riflettere-sullo-spreco-alimentare/",
-      "data": "2026-03-26T13:54:24+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
-  "turismo": [
-    {
-      "id": "c2d5264c2830",
-      "titolo": "In via Botticelli un edificio commerciale con nuovi parcheggi e aree verdi",
-      "link": "https://www.comune.torino.it/novita/comunicati/via-botticelli-un-edificio-commerciale-nuovi-parcheggi-aree-verdi",
-      "data": "2026-04-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fb3487dab6f1",
-      "titolo": "È in arrivo la Torino+Piemonte Congress Card",
-      "link": "https://www.comune.torino.it/novita/comunicati/arrivo-torino-piemonte-congress-card",
-      "data": "2026-04-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "3ad42c34bf97",
-      "titolo": "Un ponte di luce tra Torino e Montréal: l’arte per unire Piemonte e Quebec",
-      "link": "https://www.comune.torino.it/novita/comunicati/un-ponte-luce-torino-montreal-larte-per-unire-piemonte-quebec",
-      "data": "2026-04-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a1afeaa21932",
-      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
-      "data": "2026-04-17T11:31:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6c251e485f05",
-      "titolo": "Ancora in crescita il turismo in Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ancora-crescita-turismo-piemonte",
-      "data": "2026-04-09T15:40:07+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "359d7659425d",
-      "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
-      "link": "https://www.torinoclick.it/societa/grandi-eventi-il-concerto-torino-time-per-la-fondazione-molinette/",
-      "data": "2026-03-26T15:54:39+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "72c5c966ac2b",
-      "titolo": "Piemonte capofila della seconda edizione di Common Ground",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-capofila-della-seconda-edizione-common-ground",
-      "data": "2026-04-29T09:22:13+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c42c3fe3ba96",
-      "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
-      "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
-      "data": "2026-04-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1da80c398078",
-      "titolo": "Torino rende omaggio all’imprenditore e antifascista Sandro Fiorio: intitolata la balconata alberata di via San Donato",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-rende-omaggio-allimprenditore-antifascista-sandro-fiorio-intitolata",
-      "data": "2026-04-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8145fac0bc64",
-      "titolo": "Videosorveglianza, prosegue il lavoro per implementare telecamere e sistemi di sicurezza",
-      "link": "https://www.comune.torino.it/novita/comunicati/videosorveglianza-prosegue-lavoro-per-implementare-telecamere-sistemi-sicurezza",
-      "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "aae92810517d",
-      "titolo": "Accordo per recupero delle liste d’attesa, sistema 118 e meno esternalizzazioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-per-recupero-delle-liste-dattesa-sistema-118-meno-esternalizzazioni",
-      "data": "2026-04-20T18:43:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "68112c870caa",
-      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – maggio 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-1",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8cf3a17d4574",
-      "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi maggio 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico-0",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a3d1222b666e",
-      "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
-      "data": "2026-04-03T16:26:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8bd02fe49c05",
-      "titolo": "Aperte le iscrizioni per corso di formazione Assistente Familiare (200 ore) per disoccupati - profilati GOL 102-103-104",
-      "link": "https://www.comune.torino.it/novita/avvisi/aperte-iscrizioni-per-corso-formazione-assistente-familiare-200-ore-per",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5feb3d3c0933",
-      "titolo": "Nuovo Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "93a8e30409a6",
-      "titolo": "Nuovi addensamenti commerciali - Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
       "data": "2026-03-30T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -1297,14 +1313,6 @@
       "data": "2026-03-31T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ad6be72d454a",
-      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
-      "data": "2026-03-25T14:58:13+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
     }
   ],
   "montagna": [
@@ -1461,14 +1469,6 @@
       "titolo": "La cooperazione internazionale parte dai Comuni. Il Sindaco alla missione istituzionale in Kenya del Ministero degli Affari Esteri e della Cooperazione Internazionale",
       "link": "https://www.torinoclick.it/relazioniinternazionali/la-cooperazione-internazionale-parte-dai-comuni-il-sindaco-alla-missione-istituzionale-in-kenya-del-ministero-degli-affari-esteri-e-della-cooperazione-internazionale/",
       "data": "2026-03-26T17:55:03+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    },
-    {
-      "id": "ad6be72d454a",
-      "titolo": "Inaugurato il Cortile della Musica a Barriera di Milano",
-      "link": "https://www.torinoclick.it/territorio/inaugurato-il-cortile-della-musica-a-barriera-di-milano/",
-      "data": "2026-03-25T14:58:13+00:00",
       "fonte": "TorinoClick",
       "fonte_id": "torinoclick"
     }
