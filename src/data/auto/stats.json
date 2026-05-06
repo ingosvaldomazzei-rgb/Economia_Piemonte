@@ -1,10 +1,10 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 54,
+    "regione": 56,
     "comune_torino": 141,
     "consiglio": 1,
-    "torinoclick": 4
+    "torinoclick": 2
   },
   "temi_attivi": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "tema": "agricoltura",
-      "conteggio": 16
+      "conteggio": 17
     },
     {
       "tema": "lavoro-occupazione",
@@ -24,11 +24,11 @@
       "conteggio": 13
     },
     {
-      "tema": "pianificazione-territoriale",
-      "conteggio": 11
+      "tema": "attivita-produttive",
+      "conteggio": 12
     },
     {
-      "tema": "attivita-produttive",
+      "tema": "pianificazione-territoriale",
       "conteggio": 11
     },
     {
@@ -44,7 +44,7 @@
       "conteggio": 8
     },
     {
-      "tema": "sanita-regionale",
+      "tema": "sociale-welfare",
       "conteggio": 8
     }
   ],

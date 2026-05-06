@@ -1,5 +1,25 @@
 [
   {
+    "id": "07a73fbcb6f2",
+    "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
+    "descrizione": "L’esigenza di individuare i 209 milioni di risorse extra per i maggiori investimenti che la Regione Piemonte ha scelto di assegnare alla sanità per garantire servizi e cure ai piemontesi non determina alcun taglio al bilancio. Sono…",
+    "data": "2026-05-06T18:51:59+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "26726591c033",
+    "titolo": "Il Piemonte apre Cannes Classics con “L’age d’or”",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-apre-cannes-classics-lage-dor",
+    "descrizione": "Sarà il film “L’age d’or”, opera prima di Bérenger Thouin girato tra Piemonte e Francia con il sostegno del bando regionale Piemonte Film Tv Fund e di Film Commission Torino Piemonte, ad inaugurare la sezione del Festival…",
+    "data": "2026-05-06T16:40:16+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "5fe748bf20e0",
     "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "359d7659425d",
-    "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
-    "link": "https://www.torinoclick.it/societa/grandi-eventi-il-concerto-torino-time-per-la-fondazione-molinette/",
-    "descrizione": "Si è tenuta questa mattina la consegna ufficiale alla Fondazione Ricerca Molinette di una donazione di 12.272 euro, raccolti nell’ambito del concerto “Torino Time”, organizzato dalla Città di Torino in occasione del Capodanno. A consegnare il maxi-assegno simbolico, all’Ospedale Molinette di Torino, l’assessore ai Grandi eventi e Turismo Domenico Carretta.",
-    "data": "2026-03-26T15:54:39+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "9e5944492bc2",
-    "titolo": "Truffe e raggiri, un incontro formativo della Polizia Locale per le persone con disabilità",
-    "link": "https://www.torinoclick.it/sicurezza/truffe-e-raggiri-un-incontro-formativo-della-polizia-locale-per-le-persone-con-disabilita/",
-    "descrizione": "Un incontro di educazione civica per conoscere il ruolo delle forze dell’ordine, i diritti e i doveri del cittadino e le principali strategie per evitare truffe e prevenire i rischi.",
-    "data": "2026-03-26T15:45:24+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
   }
 ]

@@ -1,5 +1,161 @@
 {
+  "bilancio-regionale": [
+    {
+      "id": "07a73fbcb6f2",
+      "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
+      "data": "2026-05-06T18:51:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c503ab663c6e",
+      "titolo": "Bollo auto: attiva la domiciliazione bancaria con riduzione del 5%",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bollo-auto-attiva-domiciliazione-bancaria-riduzione-5",
+      "data": "2026-05-05T12:52:07+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "00ae42ca4365",
+      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
+      "data": "2026-04-29T15:15:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2779a391d71c",
+      "titolo": "Controlli nell’area del giardino Tre lanterne, una denuncia e due sequestri da parte della Polizia Locale",
+      "link": "https://www.comune.torino.it/novita/comunicati/controlli-nellarea-giardino-tre-lanterne-una-denuncia-due-sequestri-parte-della",
+      "data": "2026-04-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cf4a4dced20c",
+      "titolo": "Un sostegno di 14,4 milioni alle aziende agricole montane",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-sostegno-144-milioni-alle-aziende-agricole-montane",
+      "data": "2026-04-13T15:09:05+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3098597744fc",
+      "titolo": "Approvata seconda variazione al Bilancio di previsione finanziario 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/approvata-seconda-variazione-al-bilancio-previsione-finanziario-2026-2028",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "attivita-produttive": [
+    {
+      "id": "07a73fbcb6f2",
+      "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
+      "data": "2026-05-06T18:51:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7b040dd08ef4",
+      "titolo": "Obiettivo Export: imprese e territori del Nord Italia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/obiettivo-export-imprese-territori-nord-italia",
+      "data": "2026-04-29T19:15:49+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "00ae42ca4365",
+      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
+      "data": "2026-04-29T15:15:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ae488a0696d4",
+      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
+      "data": "2026-04-28T12:14:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f24dbbcd021b",
+      "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
+      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
+      "data": "2026-04-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4b28f8f49edd",
+      "titolo": "Il capitale umano vero motore della competitività e della crescita",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/capitale-umano-vero-motore-della-competitivita-della-crescita",
+      "data": "2026-04-22T14:21:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c3b3e9e860ea",
+      "titolo": "Nuovo bando per le imprese audiovisive e cinematografiche",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-bando-per-imprese-audiovisive-cinematografiche",
+      "data": "2026-04-17T12:37:42+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "67fd4ffdb2c7",
+      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
+      "data": "2026-04-17T09:02:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e8773137c2ed",
+      "titolo": "Parco della Salute: chiusura positiva della conferenza dei servizi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-chiusura-positiva-della-conferenza-dei-servizi",
+      "data": "2026-04-03T18:56:23+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a3d1222b666e",
+      "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
+      "data": "2026-04-03T16:26:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f4c2d160346f",
+      "titolo": "Inizia la fase operativa per lo stabilimento di Silicon Box a Novara",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inizia-fase-operativa-per-stabilimento-silicon-box-novara",
+      "data": "2026-03-31T15:07:22+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "dc06925efe56",
+      "titolo": "Mobilità autonoma: il futuro si disegna a Torino. Una giornata per toccare con mano l’innovazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-futuro-si-disegna-torino-una-giornata-per-toccare-mano",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "agricoltura": [
+    {
+      "id": "07a73fbcb6f2",
+      "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
+      "data": "2026-05-06T18:51:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "5fe748bf20e0",
       "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
@@ -741,56 +897,6 @@
       "data": "2026-04-09T15:40:07+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "359d7659425d",
-      "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
-      "link": "https://www.torinoclick.it/societa/grandi-eventi-il-concerto-torino-time-per-la-fondazione-molinette/",
-      "data": "2026-03-26T15:54:39+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
-  "bilancio-regionale": [
-    {
-      "id": "c503ab663c6e",
-      "titolo": "Bollo auto: attiva la domiciliazione bancaria con riduzione del 5%",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bollo-auto-attiva-domiciliazione-bancaria-riduzione-5",
-      "data": "2026-05-05T12:52:07+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "00ae42ca4365",
-      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
-      "data": "2026-04-29T15:15:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2779a391d71c",
-      "titolo": "Controlli nell’area del giardino Tre lanterne, una denuncia e due sequestri da parte della Polizia Locale",
-      "link": "https://www.comune.torino.it/novita/comunicati/controlli-nellarea-giardino-tre-lanterne-una-denuncia-due-sequestri-parte-della",
-      "data": "2026-04-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cf4a4dced20c",
-      "titolo": "Un sostegno di 14,4 milioni alle aziende agricole montane",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-sostegno-144-milioni-alle-aziende-agricole-montane",
-      "data": "2026-04-13T15:09:05+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3098597744fc",
-      "titolo": "Approvata seconda variazione al Bilancio di previsione finanziario 2026-2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/approvata-seconda-variazione-al-bilancio-previsione-finanziario-2026-2028",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "energia": [
@@ -975,14 +1081,6 @@
       "data": "2026-03-30T18:34:16+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "359d7659425d",
-      "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
-      "link": "https://www.torinoclick.it/societa/grandi-eventi-il-concerto-torino-time-per-la-fondazione-molinette/",
-      "data": "2026-03-26T15:54:39+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
     }
   ],
   "trasporti-mobilita": [
@@ -1083,104 +1181,6 @@
       "data": "2026-04-01T19:25:29+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "359d7659425d",
-      "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
-      "link": "https://www.torinoclick.it/societa/grandi-eventi-il-concerto-torino-time-per-la-fondazione-molinette/",
-      "data": "2026-03-26T15:54:39+00:00",
-      "fonte": "TorinoClick",
-      "fonte_id": "torinoclick"
-    }
-  ],
-  "attivita-produttive": [
-    {
-      "id": "7b040dd08ef4",
-      "titolo": "Obiettivo Export: imprese e territori del Nord Italia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/obiettivo-export-imprese-territori-nord-italia",
-      "data": "2026-04-29T19:15:49+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "00ae42ca4365",
-      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
-      "data": "2026-04-29T15:15:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ae488a0696d4",
-      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
-      "data": "2026-04-28T12:14:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f24dbbcd021b",
-      "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
-      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
-      "data": "2026-04-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4b28f8f49edd",
-      "titolo": "Il capitale umano vero motore della competitività e della crescita",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/capitale-umano-vero-motore-della-competitivita-della-crescita",
-      "data": "2026-04-22T14:21:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c3b3e9e860ea",
-      "titolo": "Nuovo bando per le imprese audiovisive e cinematografiche",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-bando-per-imprese-audiovisive-cinematografiche",
-      "data": "2026-04-17T12:37:42+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "67fd4ffdb2c7",
-      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
-      "data": "2026-04-17T09:02:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e8773137c2ed",
-      "titolo": "Parco della Salute: chiusura positiva della conferenza dei servizi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-chiusura-positiva-della-conferenza-dei-servizi",
-      "data": "2026-04-03T18:56:23+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a3d1222b666e",
-      "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
-      "data": "2026-04-03T16:26:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f4c2d160346f",
-      "titolo": "Inizia la fase operativa per lo stabilimento di Silicon Box a Novara",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inizia-fase-operativa-per-stabilimento-silicon-box-novara",
-      "data": "2026-03-31T15:07:22+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "dc06925efe56",
-      "titolo": "Mobilità autonoma: il futuro si disegna a Torino. Una giornata per toccare con mano l’innovazione",
-      "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-futuro-si-disegna-torino-una-giornata-per-toccare-mano",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "ambiente-qualita-aria": [
