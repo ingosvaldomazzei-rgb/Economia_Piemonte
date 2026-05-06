@@ -1,5 +1,75 @@
 [
   {
+    "id": "5fe748bf20e0",
+    "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
+    "descrizione": "La Regione Piemonte ha attivato un nuovo intervento a sostegno dei territori montani con un bando che destina 340 mila euro per l’anno scolastico 2026/2027 alla riorganizzazione delle pluriclassi nelle scuole primarie e…",
+    "data": "2026-05-06T14:51:04+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "c695661a3574",
+    "titolo": "Biblioteca civica centrale, al via la nuova fase verso il trasferimento a Torino Esposizioni",
+    "link": "https://www.comune.torino.it/novita/comunicati/biblioteca-civica-centrale-al-via-nuova-fase-verso-trasferimento-torino",
+    "descrizione": "Si apre una nuova fase del percorso di trasferimento della biblioteca civica Centrale di via della Cittadella nella nuova sede di Torino Esposizioni.",
+    "data": "2026-05-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3da4958976ba",
+    "titolo": "TuttaDritta 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/tuttadritta-2026",
+    "descrizione": "21ª edizione della TuttaDritta, una delle gare più iconiche del calendario cittadino.",
+    "data": "2026-05-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "30a69c9f56a8",
+    "titolo": "In panne con la carrozzina elettrica, gli agenti della Polizia Locale aiutano un’anziana in difficoltà",
+    "link": "https://www.comune.torino.it/novita/comunicati/panne-carrozzina-elettrica-agenti-della-polizia-locale-aiutano-unanziana",
+    "descrizione": "Rimasta senza batteria e con la carrozzina elettrica ferma, è stata aiutata dal personale GTT e della Polizia Locale.",
+    "data": "2026-05-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0733a678be47",
+    "titolo": "“Il futuro prende forma” a Urban Lab una mostra per raccontare il nuovo Piano Regolatore",
+    "link": "https://www.comune.torino.it/novita/comunicati/futuro-prende-forma-urban-lab-una-mostra-per-raccontare-nuovo-piano-regolatore",
+    "descrizione": "Torino è una città che ha vissuto e continua a vivere grandi trasformazioni.",
+    "data": "2026-05-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8d8ea9637077",
+    "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa religiosa di S.Rita (21 - 22 maggio 2026) - approvazione graduatoria provvisoria",
+    "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della-1",
+    "descrizione": "Con determinazione dirigenziale n. 2477 del 24/04/2026 è stata approvata la graduatoria provvisoria per l’assegnazione dei posteggi in occasione dell'evento.",
+    "data": "2026-05-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "92e0dd6ed6fb",
+    "titolo": "Riqualificazione dell’area del Valentino, 7 milioni da fondazione CRT a sostegno del progetto",
+    "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-dellarea-valentino-7-milioni-fondazione-crt-sostegno-progetto",
+    "descrizione": "Nuove risorse da parte della Fondazione CRT per finalizzare alcuni interventi collegati alla trasformazione del parco del Valentino.",
+    "data": "2026-05-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "4d5c75e03b03",
     "titolo": "Nuovi bandi per promuovere il vino piemontese",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-bandi-per-promuovere-vino-piemontese",
@@ -1928,75 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "eb56f535d378",
-    "titolo": "In via Lagrange una installazione per riflettere sullo spreco alimentare",
-    "link": "https://www.torinoclick.it/societa/in-via-lagrange-una-installazione-per-riflettere-sullo-spreco-alimentare/",
-    "descrizione": "Fa tappa in via Lagrange a partire da oggi e fino al 9 aprile l’installazione artistica del Grand Tour del Libro del Risparmio, iniziativa della Fondazione Barilla per riflettere su come un uso più consapevole del cibo parta dai gesti quotidiani e possa avere un impatto concreto sull’ambiente e sul bilancio familiare.",
-    "data": "2026-03-26T13:54:24+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "5081aaea336d",
-    "titolo": "Un pomeriggio per imparare, condividere e fare la differenza",
-    "link": "https://www.torinoclick.it/territorio/un-pomeriggio-per-imparare-condividere-e-fare-la-differenza/",
-    "descrizione": "Domani pomeriggio, 27 marzo, dalle ore 15.30 alle 17.30, via Cecchi si animerà con un’iniziativa dedicata all’ambiente: davanti alla scuola primaria Aurora, studenti, famiglie e cittadini si ritroveranno per scoprire insieme come migliorare, ogni giorno, le proprie abitudini nella raccolta dei rifiuti.",
-    "data": "2026-03-26T12:31:29+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "99cc5a3d0ed9",
-    "titolo": "Tariffe ridotte per studenti universitari under 26",
-    "link": "https://www.comune.torino.it/novita/notizie/tariffe-ridotte-per-studenti-universitari-under-26",
-    "descrizione": "L'Amministrazione Comunale ha esteso l'agevolazione per l'ingresso ridotto agli impianti sportivi cittadini anche agli studenti universitari non residenti.",
-    "data": "2026-03-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "82f8a879cdef",
-    "titolo": "Domenica 29 marzo si corre la Deejay Ten. Previste modifiche viabili",
-    "link": "https://www.comune.torino.it/novita/comunicati/domenica-29-marzo-si-corre-deejay-ten-previste-modifiche-viabili",
-    "descrizione": "Domenica 29 marzo torna a Torino la Deejay Ten, gara podistica non agonistica organizzata dall’emittente radiofonica Radio Deejay.",
-    "data": "2026-03-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b24ef49e807c",
-    "titolo": "Polizia Locale, pattuglie in bicicletta in alcune aree verdi di Torino",
-    "link": "https://www.comune.torino.it/novita/comunicati/polizia-locale-pattuglie-bicicletta-alcune-aree-verdi-torino",
-    "descrizione": "Agenti della Polizia Locale pattugliano parchi, aree verdi e piste ciclabili su due ruote.",
-    "data": "2026-03-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "59ba852de2ba",
-    "titolo": "Grandi eventi, il concerto “Torino Time” per la Fondazione Molinette",
-    "link": "https://www.comune.torino.it/novita/comunicati/grandi-eventi-concerto-torino-time-per-fondazione-molinette",
-    "descrizione": "Si è tenuta questa mattina la consegna ufficiale alla Fondazione Ricerca Molinette di una donazione di 12.272 euro, raccolti nell’ambito di “Torino Time\".",
-    "data": "2026-03-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "fe7d9c4c77f8",
-    "titolo": "Tariffe ridotte per studenti universitari, anche fuori sede, under 26",
-    "link": "https://www.comune.torino.it/novita/notizie/tariffe-ridotte-per-studenti-universitari-anche-fuori-sede-under-26",
-    "descrizione": "L'Amministrazione Comunale ha esteso l'agevolazione per l'ingresso ridotto agli impianti sportivi cittadini anche agli studenti universitari non residenti.",
-    "data": "2026-03-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
