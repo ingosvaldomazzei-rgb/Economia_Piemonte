@@ -1,5 +1,15 @@
 [
   {
+    "id": "344306872cb3",
+    "titolo": "CFM - Saggi di classe 2025/26",
+    "link": "https://www.comune.torino.it/novita/notizie/cfm-saggi-classe-202526",
+    "descrizione": "Dal 18 maggio all'11 giugno decine di appuntamenti con allievi e docenti dei corsi",
+    "data": "2026-05-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "07a73fbcb6f2",
     "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
@@ -1988,15 +1998,5 @@
     "fonte": "TorinoClick",
     "fonte_id": "torinoclick",
     "colore": "#ea580c"
-  },
-  {
-    "id": "ee8d49bb3786",
-    "titolo": "In Piemonte la seduta del Comitato permanente della Conferenza delle Alpi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-seduta-comitato-permanente-della-conferenza-delle-alpi",
-    "descrizione": "La Regione Piemonte ha ospitato il 25 e 26 marzo l’83ª seduta del Comitato permanente della Conferenza delle Alpi, organismo inserito nell’ambito della Convenzione sottoscritta nel…",
-    "data": "2026-03-26T16:09:29+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
