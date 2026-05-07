@@ -30,6 +30,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "447edd0ba015",
+    "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
+    "descrizione": "Una struttura rinnovata, più accessibile e capace di rispondere ai bisogni del territorio.",
+    "data": "2026-05-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "07a73fbcb6f2",
     "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "743f8d3eab16",
-    "titolo": "Piemonte e Liguria per la governance condivisa dei porti di Genova e Savona",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-liguria-per-governance-condivisa-dei-porti-genova-savona",
-    "descrizione": "I presidenti della Regioni Piemonte Alberto Cirio e Liguria Marco Bucci hanno condiviso nel corso di un evento svoltosi a Vado Ligure l’opportunità che in futuro il Piemonte entri a far parte della governance dei porti di Genova e Savona-Vado…",
-    "data": "2026-03-26T18:43:17+01:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
