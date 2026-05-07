@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "fc82c264e2ac",
+    "titolo": "Una Cittadella per Beatrice Naso e Stefania Fiorentino",
+    "link": "https://www.comune.torino.it/novita/comunicati/una-cittadella-per-beatrice-naso-stefania-fiorentino",
+    "descrizione": "È in programma venerdì 8 maggio 2026 alle ore 11 la cerimonia di intitolazione della Cittadella di via degli Ulivi 11 a Torino",
+    "data": "2026-05-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "5be4d7bc528c",
+    "titolo": "Final Four di CEV Champions League 2026 - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+    "link": "https://www.comune.torino.it/novita/notizie/final-four-cev-champions-league-2026-convocazione-per-assegnazione-posteggi",
+    "descrizione": "Convocazione in occasione dell'evento FINAL FOUR di CEV CHAMPIONS LEAGUE 2026. Leggere ATTENTAMENTE quanto riportato nel documento allegato.",
+    "data": "2026-05-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "07a73fbcb6f2",
     "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "165ed4752a14",
-    "titolo": "Domenica 29 marzo si corre la Deejay Ten. Previste modifiche viabili",
-    "link": "https://www.torinoclick.it/trasporti/domenica-29-marzo-si-corre-la-deejay-ten-previste-modifiche-viabili/",
-    "descrizione": "Domenica 29 marzo torna a Torino la Deejay Ten, gara podistica non agonistica organizzata dall’emittente radiofonica Radio Deejay. Saranno due i percorsi possibili, da 10 km e da 5 km con partenza e arrivo in piazza Castello, dove sarà allestito anche il Deejay Village (lato Prefettura).",
-    "data": "2026-03-26T18:36:50+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
-  },
-  {
-    "id": "9e96ba49e0f6",
-    "titolo": "La cooperazione internazionale parte dai Comuni. Il Sindaco alla missione istituzionale in Kenya del Ministero degli Affari Esteri e della Cooperazione Internazionale",
-    "link": "https://www.torinoclick.it/relazioniinternazionali/la-cooperazione-internazionale-parte-dai-comuni-il-sindaco-alla-missione-istituzionale-in-kenya-del-ministero-degli-affari-esteri-e-della-cooperazione-internazionale/",
-    "descrizione": "“Questa missione ha evidenziato possibili nuovi spazi di collaborazione. Anci ha partecipato anche in virtù della credibilità che i Comuni italiani hanno quale parte integrante del sistema-Paese: per mettere a disposizione il nostro know-how nella gestione delle sfide urbane, dalla pianificazione urbanistica ai servizi anagrafici, fino alla digitalizzazione della Pa, e così costruire partenariati territoriali forti e stabili”. Lo evidenzia Stefano Lo Russo, vicepresidente Anci e sindaco di Torin",
-    "data": "2026-03-26T17:55:03+00:00",
-    "fonte": "TorinoClick",
-    "fonte_id": "torinoclick",
-    "colore": "#ea580c"
   }
 ]
