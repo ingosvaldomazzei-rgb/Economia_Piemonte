@@ -1,5 +1,65 @@
 [
   {
+    "id": "69c891002757",
+    "titolo": "Inizia la formazione per i mobility manager aziendali e scolastici",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inizia-formazione-per-mobility-manager-aziendali-scolastici",
+    "descrizione": "Si svolgerà dall’11 maggio al 14 giugno il percorso predisposto dalla Regione Piemonte per la formazione di 55 mobility manager aziendali e scolastici. Il programma, di circa 20 ore, sarà articolato in moduli teorici e…",
+    "data": "2026-05-08T12:46:55+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "433135a0d226",
+    "titolo": "Contributi alle stazioni sciistiche per sicurezza sulle piste e gestione degli impianti",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-alle-stazioni-sciistiche-per-sicurezza-sulle-piste-gestione-degli-impianti",
+    "descrizione": "Assegnati dalla Regione Piemonte contributi per un importo complessivo di 4.484.000 euro destinati alla sicurezza delle aree sciabili e al sostegno della gestione degli impianti di risalita. Viene così…",
+    "data": "2026-05-08T12:19:43+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "b557ab764e10",
+    "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
+    "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
+    "descrizione": "Si è svolta l'8 maggio 2026 la cerimonia di intitolazione della Cittadella di via degli Ulivi 11 a Torino a ricordo di Beatrice Naso e Stefania Fiorentino",
+    "data": "2026-05-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b6ee83010bf2",
+    "titolo": "Dall’Umbria a Torino: domenica 17 maggio la Marcia per la pace attraversa la città",
+    "link": "https://www.comune.torino.it/novita/comunicati/dallumbria-torino-domenica-17-maggio-marcia-per-pace-attraversa-citta",
+    "descrizione": "La storica Marcia per la Pace Perugia-Assisi arriva a Torino in occasione del Salone Internazionale del Libro, che vede l’Umbria Regione ospite.",
+    "data": "2026-05-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0a7fc487fbfa",
+    "titolo": "Tuttadritta, manifestazione podistica domenica 10 maggio. Previste modifiche viabili",
+    "link": "https://www.comune.torino.it/novita/comunicati/tuttadritta-manifestazione-podistica-domenica-10-maggio-previste-modifiche",
+    "descrizione": "“TuttaDRITTA”, ritorna domenica 10 maggio a Torino la gara podistica di 10 km che si contraddistingue per il percorso pressoché rettilineo.",
+    "data": "2026-05-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "316f93a220b9",
+    "titolo": "Torino regala Torino: scarica la guida pocket Lonely Planet",
+    "link": "https://www.comune.torino.it/novita/notizie/torino-regala-torino-scarica-guida-pocket-lonely-planet",
+    "descrizione": "Dall'8 al 18 maggio 2026, in occasione del Salone Internazionale del Libro.",
+    "data": "2026-05-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "344306872cb3",
     "titolo": "CFM - Saggi di classe 2025/26",
     "link": "https://www.comune.torino.it/novita/notizie/cfm-saggi-classe-202526",
@@ -124,6 +184,16 @@
     "titolo": "Riqualificazione dell’area del Valentino, 7 milioni da fondazione CRT a sostegno del progetto",
     "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-dellarea-valentino-7-milioni-fondazione-crt-sostegno-progetto",
     "descrizione": "Nuove risorse da parte della Fondazione CRT per finalizzare alcuni interventi collegati alla trasformazione del parco del Valentino.",
+    "data": "2026-05-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "c5e08fdb2a86",
+    "titolo": "I centri di ITER alla Future week Torino",
+    "link": "https://www.comune.torino.it/novita/notizie/centri-iter-alla-future-week-torino",
+    "descrizione": "25-28-29 maggio: ITER partecipa alla Future Week Torino",
     "data": "2026-05-06T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1925,76 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
     "descrizione": "Avviso adozione nuovo Piano Regolatore Generale e nuovi Addensamenti Commerciali",
     "data": "2026-03-30T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7bf165093bd1",
-    "titolo": "La Regione Piemonte rilancia il genio di Alessandro Antonelli",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-rilancia-genio-alessandro-antonelli",
-    "descrizione": "“Rete Antonelliana. Cultura che unisce” è il progetto con il quale la Regione Piemonte fa sistema e investe sulla propria identità culturale trasformando le architetture di Alessandro Antonelli in un unico grande…",
-    "data": "2026-03-30T11:04:26+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "136bd735edff",
-    "titolo": "Inaugurata la nuova area pedonale di via Coazze: più alberi, panchine e spazi per i cittadini",
-    "link": "https://www.comune.torino.it/novita/comunicati/inaugurata-nuova-area-pedonale-via-coazze-piu-alberi-panchine-spazi-per",
-    "descrizione": "L’intervento restituisce alla cittadinanza uno spazio urbano rinnovato, più accessibile e pensato come luogo di incontro per i residenti.",
-    "data": "2026-03-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "50a8e14b7872",
-    "titolo": "Riqualificazione, continuità e apertura al territorio: al via una nuova gestione per la palestra della scuola primaria Manzoni",
-    "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-continuita-apertura-al-territorio-al-via-una-nuova-gestione-per",
-    "descrizione": "La Circoscrizione Quattro ha approvato una delibera che avvia un percorso innovativo per la concessione dell'impianto.",
-    "data": "2026-03-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "48acff1db1ac",
-    "titolo": "Apertura dell'Orto Botanico",
-    "link": "https://www.comune.torino.it/novita/notizie/apertura-dellorto-botanico",
-    "descrizione": "L'Orto Botanico dell'Università di Torino sarà visitabile sabato, domenica e giorni festivi a partire dal 28 marzo 2026.",
-    "data": "2026-03-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "fb1e70df3669",
-    "titolo": "Processionaria, come riconoscere l'insetto e quali strategie adottare",
-    "link": "https://www.comune.torino.it/novita/notizie/processionaria-come-riconoscere-linsetto-quali-strategie-adottare",
-    "descrizione": "La processionaria del pino: un insetto diffuso nei nostri territori, conosciuto per i bruchi urticanti che scendono dai nidi in fila indiana.",
-    "data": "2026-03-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "28c8654089f9",
-    "titolo": "Lunedì 30 marzo il sigillo civico a Don Luigi Ciotti",
-    "link": "https://www.comune.torino.it/novita/comunicati/lunedi-30-marzo-sigillo-civico-don-luigi-ciotti",
-    "descrizione": "Lunedì 30 marzo 2026, alle ore 15, la Sala Rossa di Palazzo Civico ospiterà la cerimonia per il conferimento del Sigillo civico a Don Luigi Ciotti",
-    "data": "2026-03-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7b8505f9fe3d",
-    "titolo": "Un nuovo infopoint con biglietteria per le manifestazioni culturali della Città",
-    "link": "https://www.comune.torino.it/novita/comunicati/un-nuovo-infopoint-biglietteria-per-manifestazioni-culturali-della-citta",
-    "descrizione": "È stato inaugurato oggi, alla presenza del sindaco Stefano Lo Russo, il nuovo punto informativo della Fondazione per la Cultura Torino.",
-    "data": "2026-03-27T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
