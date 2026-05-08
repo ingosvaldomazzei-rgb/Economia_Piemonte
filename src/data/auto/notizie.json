@@ -60,6 +60,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "66340fc08ede",
+    "titolo": "Manutenzioni stradali: nuovi cantieri in via Tripoli e corso Moncalieri. Lunedì 11 maggio chiusa al mattino l’intersezione tra corso Mortara e piazza Baldissera",
+    "link": "https://www.comune.torino.it/novita/comunicati/manutenzioni-stradali-nuovi-cantieri-via-tripoli-corso-moncalieri-lunedi-11",
+    "descrizione": "Per consentire le operazioni in sicurezza saranno attivi divieti di sosta nelle aree interessate dal cantiere.",
+    "data": "2026-05-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "344306872cb3",
     "titolo": "CFM - Saggi di classe 2025/26",
     "link": "https://www.comune.torino.it/novita/notizie/cfm-saggi-classe-202526",
@@ -1984,16 +1994,6 @@
     "titolo": "Mobilità autonoma: il futuro si disegna a Torino. Una giornata per toccare con mano l’innovazione",
     "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-futuro-si-disegna-torino-una-giornata-per-toccare-mano",
     "descrizione": "Una navetta senza conducente che si muove tra gli spazi urbani, dialoga con le infrastrutture e trasporta passeggeri in sicurezza.",
-    "data": "2026-03-30T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "93a8e30409a6",
-    "titolo": "Nuovi addensamenti commerciali - Piano Regolatore Generale",
-    "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
-    "descrizione": "Avviso adozione nuovo Piano Regolatore Generale e nuovi Addensamenti Commerciali",
     "data": "2026-03-30T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

@@ -15,10 +15,6 @@
       "conteggio": 19
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 13
-    },
-    {
       "tema": "commercio-artigianato",
       "conteggio": 13
     },
@@ -27,8 +23,8 @@
       "conteggio": 12
     },
     {
-      "tema": "pianificazione-territoriale",
-      "conteggio": 11
+      "tema": "lavoro-occupazione",
+      "conteggio": 12
     },
     {
       "tema": "sociale-welfare",
@@ -36,6 +32,10 @@
     },
     {
       "tema": "fondi-europei",
+      "conteggio": 10
+    },
+    {
+      "tema": "pianificazione-territoriale",
       "conteggio": 10
     },
     {

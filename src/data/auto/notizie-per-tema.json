@@ -417,6 +417,56 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "edilizia-opere-pubbliche": [
+    {
+      "id": "66340fc08ede",
+      "titolo": "Manutenzioni stradali: nuovi cantieri in via Tripoli e corso Moncalieri. Lunedì 11 maggio chiusa al mattino l’intersezione tra corso Mortara e piazza Baldissera",
+      "link": "https://www.comune.torino.it/novita/comunicati/manutenzioni-stradali-nuovi-cantieri-via-tripoli-corso-moncalieri-lunedi-11",
+      "data": "2026-05-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cd316bc7dfcb",
+      "titolo": "Contributi per cinque nuove “infrastrutture blu”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-cinque-nuove-infrastrutture-blu",
+      "data": "2026-04-16T11:08:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3ac068d9fd74",
+      "titolo": "Coinvolgere gli umarell nei cantieri",
+      "link": "https://www.comune.torino.it/novita/comunicati/coinvolgere-umarell-nei-cantieri",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "723d848d3752",
+      "titolo": "Edilizia Privata - Modifiche ai servizi di informazione",
+      "link": "https://www.comune.torino.it/novita/avvisi/edilizia-privata-modifiche-ai-servizi-informazione",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "854704bf0dd4",
+      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
+      "data": "2026-04-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "dc06925efe56",
+      "titolo": "Mobilità autonoma: il futuro si disegna a Torino. Una giornata per toccare con mano l’innovazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-futuro-si-disegna-torino-una-giornata-per-toccare-mano",
+      "data": "2026-03-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "sanita-regionale": [
     {
       "id": "5be4d7bc528c",
@@ -560,14 +610,6 @@
       "id": "5feb3d3c0933",
       "titolo": "Nuovo Piano Regolatore Generale",
       "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "93a8e30409a6",
-      "titolo": "Nuovi addensamenti commerciali - Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
       "data": "2026-03-30T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -938,14 +980,6 @@
       "id": "5feb3d3c0933",
       "titolo": "Nuovo Piano Regolatore Generale",
       "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "93a8e30409a6",
-      "titolo": "Nuovi addensamenti commerciali - Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/avvisi/nuovi-addensamenti-commerciali-piano-regolatore-generale",
       "data": "2026-03-30T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -1545,48 +1579,6 @@
       "data": "2026-04-10T20:37:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "edilizia-opere-pubbliche": [
-    {
-      "id": "cd316bc7dfcb",
-      "titolo": "Contributi per cinque nuove “infrastrutture blu”",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-cinque-nuove-infrastrutture-blu",
-      "data": "2026-04-16T11:08:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3ac068d9fd74",
-      "titolo": "Coinvolgere gli umarell nei cantieri",
-      "link": "https://www.comune.torino.it/novita/comunicati/coinvolgere-umarell-nei-cantieri",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "723d848d3752",
-      "titolo": "Edilizia Privata - Modifiche ai servizi di informazione",
-      "link": "https://www.comune.torino.it/novita/avvisi/edilizia-privata-modifiche-ai-servizi-informazione",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "854704bf0dd4",
-      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
-      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
-      "data": "2026-04-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "dc06925efe56",
-      "titolo": "Mobilità autonoma: il futuro si disegna a Torino. Una giornata per toccare con mano l’innovazione",
-      "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-futuro-si-disegna-torino-una-giornata-per-toccare-mano",
-      "data": "2026-03-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ]
 }
