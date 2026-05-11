@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 144,
-    "regione": 55,
+    "regione": 56,
+    "comune_torino": 143,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -39,11 +39,11 @@
       "conteggio": 10
     },
     {
-      "tema": "sanita-regionale",
+      "tema": "universita-ricerca",
       "conteggio": 8
     },
     {
-      "tema": "giovani",
+      "tema": "sanita-regionale",
       "conteggio": 8
     }
   ],
