@@ -1,5 +1,15 @@
 [
   {
+    "id": "5805c6a69759",
+    "titolo": "Il calendario scolastico 2026-2027",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/calendario-scolastico-2026-2027",
+    "descrizione": "Definito il calendario scolastico 2026-27 (lo si può scaricare qui): si inizierà lunedì 14 settembre per terminare giovedì 10 giugno (mercoledì 30 per scuole…",
+    "data": "2026-05-11T12:00:50+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "8f999487b447",
     "titolo": "Sottopasso Grosseto, il 12 e 13 maggio chiusura per lavori dalle 9.30 alle 16.30",
     "link": "https://www.comune.torino.it/novita/comunicati/sottopasso-grosseto-12-13-maggio-chiusura-per-lavori-dalle-930-alle-1630",
@@ -14,6 +24,26 @@
     "titolo": "Scuola primaria Allievo-Franchetti: conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria",
     "link": "https://www.comune.torino.it/novita/comunicati/scuola-primaria-allievo-franchetti-conclusi-interventi-riqualificazione",
     "descrizione": "Si sono conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria della scuola primaria Allievo-Franchetti.",
+    "data": "2026-05-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "2eecac69dcad",
+    "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
+    "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
+    "descrizione": "Approvati dalla Sala Rossa nella seduta dell’11 maggio 2026 tre documenti sull’educazione digitale e sull’uso consapevole di web e social network",
+    "data": "2026-05-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "01db432506e4",
+    "titolo": "Il Consiglio Comunale approva una mozione per la promozione del diritto all'informazione e il ricordo dei giornalisti e giornaliste vittime nei conflitti",
+    "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-una-mozione-per-promozione-diritto-allinformazione",
+    "descrizione": "L’approvazione coincide con la ricorrenza dell’uccisione della giornalista palestinese-americana Shireen Abu Akleh, l’11 maggio 2022 in Cisgiordania",
     "data": "2026-05-11T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1968,35 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "ce097a975ddb",
-    "titolo": "Tpl su gomma, approvato protocollo per la tutela dei lavoratori nelle gare",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tpl-gomma-approvato-protocollo-per-tutela-dei-lavoratori-nelle-gare",
-    "descrizione": "La Regione Piemonte approva il protocollo d’intesa che tutela il personale impegnato nei servizi di trasporto pubblico locale su gomma, dopo un confronto con l’Agenzia della Mobilità Piemontese e con le principali organizzazioni sindacali del settore. La Giunta regionale, su proposta dell’…",
-    "data": "2026-03-31T11:02:12+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "3e48d0484d39",
-    "titolo": "Le dimissioni da assessore di Elena Chiorino",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dimissioni-assessore-elena-chiorino",
-    "descrizione": "Elena Chiorino ha rassegnato la sera del 30 marzo le sue «dimissioni irrevocabili» da assessore della Giunta regionale del Piemonte. Dopo averle comunicate al presidente Alberto Cirio, Chiorino ha diffuso una nota nella…",
-    "data": "2026-03-30T20:59:58+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "d1d6f9f50bed",
-    "titolo": "Il punto sui bilanci 2026 delle aziende sanitarie piemontesi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/punto-sui-bilanci-2026-delle-aziende-sanitarie-piemontesi",
-    "descrizione": "L’assessore alla Sanità Federico Riboldi ha fatto il punto davanti alla Quarta Commissione del Consiglio regionale sulla reale situazione dei conti delle aziende sanitarie piemontesi. “I bilanci preventivi per il 2026, come ogni anno, rappresentano una…",
-    "data": "2026-03-30T18:34:16+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
