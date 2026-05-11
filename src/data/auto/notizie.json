@@ -1,5 +1,25 @@
 [
   {
+    "id": "8f999487b447",
+    "titolo": "Sottopasso Grosseto, il 12 e 13 maggio chiusura per lavori dalle 9.30 alle 16.30",
+    "link": "https://www.comune.torino.it/novita/comunicati/sottopasso-grosseto-12-13-maggio-chiusura-per-lavori-dalle-930-alle-1630",
+    "descrizione": "Nelle giornate di martedì 12 e mercoledì 13 maggio, dalle ore 9.30 alle 16.30, il sottopasso Grosseto sarà chiuso al transito veicolare in entrambe le direzioni",
+    "data": "2026-05-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9518f805e9ec",
+    "titolo": "Scuola primaria Allievo-Franchetti: conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria",
+    "link": "https://www.comune.torino.it/novita/comunicati/scuola-primaria-allievo-franchetti-conclusi-interventi-riqualificazione",
+    "descrizione": "Si sono conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria della scuola primaria Allievo-Franchetti.",
+    "data": "2026-05-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "11b945d2b707",
     "titolo": "Altri 6 sei stage retribuiti a Bruxelles per universitari e neolaureati",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altri-6-sei-stage-retribuiti-bruxelles-per-universitari-neolaureati",
@@ -13,7 +33,7 @@
     "id": "5c4268c8579c",
     "titolo": "\"Torino, 10 anni di unioni civili\": a Palazzo civico le celebrazioni del traguardo di diritti e riconoscimento",
     "link": "https://www.comune.torino.it/novita/comunicati/torino-10-anni-unioni-civili-palazzo-civico-celebrazioni-traguardo-diritti",
-    "descrizione": "A dieci anni dall’approvazione della Legge 76 dell’11/05/2016, la Città di Torino ha celebrato questa mattina a Palazzo Civico il traguardo delle unioni civili",
+    "descrizione": "A dieci anni dall’approvazione della Legge 76 dell’11/05/2016, la Città di Torino ha celebrato questa mattina a Palazzo Civico il traguardo delle unioni civili.",
     "data": "2026-05-09T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "5feb3d3c0933",
-    "titolo": "Nuovo Piano Regolatore Generale",
-    "link": "https://www.comune.torino.it/novita/avvisi/nuovo-piano-regolatore-generale",
-    "descrizione": "Avviso adozione nuovo Piano Regolatore Generale e nuovi Addensamenti Commerciali",
-    "data": "2026-03-30T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f8fdf2ad03fb",
-    "titolo": "Consegnato il Sigillo Civico a don Luigi Ciotti",
-    "link": "https://www.comune.torino.it/novita/comunicati/consegnato-sigillo-civico-don-luigi-ciotti",
-    "descrizione": "La Sala Rossa di Palazzo Civico ha ospitato la cerimonia per il conferimento del Sigillo civico a don Luigi Ciotti, fondatore del Gruppo Abele e di Libera",
-    "data": "2026-03-30T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

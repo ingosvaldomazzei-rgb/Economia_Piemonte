@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 56,
     "comune_torino": 143,
+    "regione": 56,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -19,11 +19,11 @@
       "conteggio": 13
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 12
+      "tema": "attivita-produttive",
+      "conteggio": 11
     },
     {
-      "tema": "attivita-produttive",
+      "tema": "lavoro-occupazione",
       "conteggio": 11
     },
     {
@@ -36,14 +36,14 @@
     },
     {
       "tema": "pianificazione-territoriale",
-      "conteggio": 10
+      "conteggio": 9
     },
     {
-      "tema": "universita-ricerca",
+      "tema": "istruzione-formazione",
       "conteggio": 8
     },
     {
-      "tema": "sanita-regionale",
+      "tema": "universita-ricerca",
       "conteggio": 8
     }
   ],
