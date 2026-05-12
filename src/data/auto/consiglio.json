@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-05-12T14:39:22.663272+00:00",
+  "ultimo_aggiornamento": "2026-05-12T20:03:18.148335+00:00",
   "sedute": [
     {
       "id": "ded115fdd8f4",
@@ -18,7 +18,7 @@
       "titolo": "Seduta n. 091 del 07/05/2026",
       "data": "2026-05-07T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=091&data_seduta=07-05-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89199&nome_file=Sintesi%20n.%2091_7maggio2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
@@ -28,7 +28,7 @@
       "titolo": "Seduta n. 090 del 06/05/2026",
       "data": "2026-05-06T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=090&data_seduta=06-05-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89198&nome_file=Sintesi%20n.%2090_6maggio2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
@@ -38,7 +38,7 @@
       "titolo": "Seduta n. 089 del 05/05/2026",
       "data": "2026-05-05T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=089&data_seduta=05-05-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89195&nome_file=Sintesi%20n.%2089_5maggio2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
