@@ -1,121 +1,13 @@
 {
-  "trasporti-mobilita": [
+  "cultura-beni-culturali": [
     {
-      "id": "549269f0c039",
-      "titolo": "Salone internazionale del Libro, tutti gli appuntamenti allo stand della Città di Torino e Città Metropolitana di Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/salone-internazionale-libro-tutti-appuntamenti-allo-stand-della-citta-torino",
+      "id": "1b65ed4d4db7",
+      "titolo": "Da Fondazione Compagnia di San Paolo una proposta di partenariato pubblico privato per il futuro del Borgo Medievale",
+      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-una-proposta-partenariato-pubblico-privato-per",
       "data": "2026-05-12T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
-    {
-      "id": "bc6132076b38",
-      "titolo": "Il Salone Off porta la cultura tra la gente",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-off-porta-cultura-gente",
-      "data": "2026-04-30T16:27:39+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1609ef7c7e0e",
-      "titolo": "Tokyo, il sindaco Lo Russo incontra i vertici di Hitachi. L’azienda produrrà i veicoli della Linea 2 della metropolitana",
-      "link": "https://www.comune.torino.it/novita/comunicati/tokyo-sindaco-russo-incontra-vertici-hitachi-lazienda-produrra-veicoli-della",
-      "data": "2026-04-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f34d0db03ec2",
-      "titolo": "Piemove si estende alle realtà accademiche",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-alle-realta-accademiche",
-      "data": "2026-04-01T19:25:29+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b93c7a93822e",
-      "titolo": "Piemove si estende a 14 realtà accademiche",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-14-realta-accademiche",
-      "data": "2026-04-01T19:25:29+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "istruzione-formazione": [
-    {
-      "id": "5805c6a69759",
-      "titolo": "Il calendario scolastico 2026-2027",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/calendario-scolastico-2026-2027",
-      "data": "2026-05-11T12:00:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9518f805e9ec",
-      "titolo": "Scuola primaria Allievo-Franchetti: conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-primaria-allievo-franchetti-conclusi-interventi-riqualificazione",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5fe748bf20e0",
-      "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
-      "data": "2026-05-06T14:51:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cd1636d2aaa4",
-      "titolo": "Efficientamento energetico, nuovi interventi negli immobili comunali. Lavori per oltre 3,5 milioni in 5 scuole",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-negli-immobili-comunali-lavori-per",
-      "data": "2026-05-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cdffac08195c",
-      "titolo": "Salone del Libro: con il “Buono da leggere” il Piemonte investe su giovani lettori e scuole",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-libro-buono-leggere-piemonte-investe-giovani-lettori-scuole",
-      "data": "2026-04-27T12:39:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b01acefd9bcd",
-      "titolo": "I boschi aule a cielo aperto",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/boschi-aule-cielo-aperto",
-      "data": "2026-04-22T15:23:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6696de63ae5f",
-      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "38f0bd1fd19c",
-      "titolo": "Daniela Cameroni è il nuovo assessore regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/daniela-cameroni-nuovo-assessore-regionale",
-      "data": "2026-04-10T20:37:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b93f4e67aa82",
-      "titolo": "Nuova vita per quattro ex istituti scolastici di Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/nuova-vita-per-quattro-ex-istituti-scolastici-torino",
-      "data": "2026-04-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "cultura-beni-culturali": [
     {
       "id": "8f999487b447",
       "titolo": "Sottopasso Grosseto, il 12 e 13 maggio chiusura per lavori dalle 9.30 alle 16.30",
@@ -267,14 +159,122 @@
       "data": "2026-04-20T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "istruzione-formazione": [
+    {
+      "id": "5805c6a69759",
+      "titolo": "Il calendario scolastico 2026-2027",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/calendario-scolastico-2026-2027",
+      "data": "2026-05-11T12:00:50+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
-      "id": "2779a391d71c",
-      "titolo": "Controlli nell’area del giardino Tre lanterne, una denuncia e due sequestri da parte della Polizia Locale",
-      "link": "https://www.comune.torino.it/novita/comunicati/controlli-nellarea-giardino-tre-lanterne-una-denuncia-due-sequestri-parte-della",
-      "data": "2026-04-17T12:00:00+00:00",
+      "id": "9518f805e9ec",
+      "titolo": "Scuola primaria Allievo-Franchetti: conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-primaria-allievo-franchetti-conclusi-interventi-riqualificazione",
+      "data": "2026-05-11T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5fe748bf20e0",
+      "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
+      "data": "2026-05-06T14:51:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cd1636d2aaa4",
+      "titolo": "Efficientamento energetico, nuovi interventi negli immobili comunali. Lavori per oltre 3,5 milioni in 5 scuole",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-negli-immobili-comunali-lavori-per",
+      "data": "2026-05-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cdffac08195c",
+      "titolo": "Salone del Libro: con il “Buono da leggere” il Piemonte investe su giovani lettori e scuole",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-libro-buono-leggere-piemonte-investe-giovani-lettori-scuole",
+      "data": "2026-04-27T12:39:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b01acefd9bcd",
+      "titolo": "I boschi aule a cielo aperto",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/boschi-aule-cielo-aperto",
+      "data": "2026-04-22T15:23:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6696de63ae5f",
+      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "38f0bd1fd19c",
+      "titolo": "Daniela Cameroni è il nuovo assessore regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/daniela-cameroni-nuovo-assessore-regionale",
+      "data": "2026-04-10T20:37:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b93f4e67aa82",
+      "titolo": "Nuova vita per quattro ex istituti scolastici di Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/nuova-vita-per-quattro-ex-istituti-scolastici-torino",
+      "data": "2026-04-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "trasporti-mobilita": [
+    {
+      "id": "549269f0c039",
+      "titolo": "Salone internazionale del Libro, tutti gli appuntamenti allo stand della Città di Torino e Città Metropolitana di Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/salone-internazionale-libro-tutti-appuntamenti-allo-stand-della-citta-torino",
+      "data": "2026-05-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bc6132076b38",
+      "titolo": "Il Salone Off porta la cultura tra la gente",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-off-porta-cultura-gente",
+      "data": "2026-04-30T16:27:39+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1609ef7c7e0e",
+      "titolo": "Tokyo, il sindaco Lo Russo incontra i vertici di Hitachi. L’azienda produrrà i veicoli della Linea 2 della metropolitana",
+      "link": "https://www.comune.torino.it/novita/comunicati/tokyo-sindaco-russo-incontra-vertici-hitachi-lazienda-produrra-veicoli-della",
+      "data": "2026-04-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f34d0db03ec2",
+      "titolo": "Piemove si estende alle realtà accademiche",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-alle-realta-accademiche",
+      "data": "2026-04-01T19:25:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b93c7a93822e",
+      "titolo": "Piemove si estende a 14 realtà accademiche",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-14-realta-accademiche",
+      "data": "2026-04-01T19:25:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     }
   ],
   "sociale-welfare": [
@@ -428,14 +428,6 @@
       "id": "a679cc76270c",
       "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
       "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ac562704b122",
-      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
       "data": "2026-03-31T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -735,14 +727,6 @@
       "data": "2026-03-31T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ac562704b122",
-      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "fondi-europei": [
@@ -814,14 +798,6 @@
       "id": "a679cc76270c",
       "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
       "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ac562704b122",
-      "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
       "data": "2026-03-31T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"

@@ -1,9 +1,19 @@
 [
   {
-    "id": "549269f0c039",
-    "titolo": "Salone internazionale del Libro, tutti gli appuntamenti allo stand della Città di Torino e Città Metropolitana di Torino",
-    "link": "https://www.comune.torino.it/novita/comunicati/salone-internazionale-libro-tutti-appuntamenti-allo-stand-della-citta-torino",
-    "descrizione": "Anche quest’anno la Città di Torino e la Città Metropolitana di Torino tornano al Salone Internazionale del Libro, da giovedì 14 a lunedì 18 maggio.",
+    "id": "1b65ed4d4db7",
+    "titolo": "Da Fondazione Compagnia di San Paolo una proposta di partenariato pubblico privato per il futuro del Borgo Medievale",
+    "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-una-proposta-partenariato-pubblico-privato-per",
+    "descrizione": "Valorizzare e rifunzionalizzare il Borgo Medievale, dando vita ad un hub culturale integrato nel più ampio progetto di rigenerazione del Parco del Valentino.",
+    "data": "2026-05-12T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "87ad2b1e5c96",
+    "titolo": "Torino aderisce alla giornata internazionale contro l’omolesbobitransfobia",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-aderisce-alla-giornata-internazionale-contro-lomolesbobitransfobia",
+    "descrizione": "La Città di Torino aderisce anche quest’anno alla Giornata internazionale contro l’omofobia, la lesbofobia, la transfobia e la bifobia (IDAHOBIT).",
     "data": "2026-05-12T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -18,6 +28,16 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
+  },
+  {
+    "id": "549269f0c039",
+    "titolo": "Salone internazionale del Libro, tutti gli appuntamenti allo stand della Città di Torino e Città Metropolitana di Torino",
+    "link": "https://www.comune.torino.it/novita/comunicati/salone-internazionale-libro-tutti-appuntamenti-allo-stand-della-citta-torino",
+    "descrizione": "Anche quest’anno la Città di Torino e la Città Metropolitana di Torino tornano al Salone Internazionale del Libro, da giovedì 14 a lunedì 18 maggio.",
+    "data": "2026-05-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
   },
   {
     "id": "8f999487b447",
@@ -1974,26 +1994,6 @@
     "titolo": "Inclusione sociale, Torino rafforza accoglienza e sostegno all’abitare: riaperti i bandi per la coprogettazione",
     "link": "https://www.comune.torino.it/novita/comunicati/inclusione-sociale-torino-rafforza-accoglienza-sostegno-allabitare-riaperti",
     "descrizione": "La Città di Torino rafforza il proprio impegno nel contrasto alla povertà abitativa e alla marginalità estrema.",
-    "data": "2026-03-31T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e3774ae495eb",
-    "titolo": "Mobilità autonoma, a Torino si chiude la sperimentazione AuToMove: oltre 1100 chilometri percorsi e 450 corse",
-    "link": "https://www.comune.torino.it/novita/comunicati/mobilita-autonoma-torino-si-chiude-sperimentazione-automove-oltre-1100",
-    "descrizione": "Sono i numeri che segnano oggi la conclusione della sperimentazione della navetta autonoma AuToMove a Torino nell’ambito del “Living Lab ToMove”.",
-    "data": "2026-03-31T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "ac562704b122",
-    "titolo": "Il Servizio Civile presso Cooperazione, relazioni internazionali e pace",
-    "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-presso-cooperazione-relazioni-internazionali-pace",
-    "descrizione": "Il progetto Abbiamo un mondo in comune del servizio Cooperazione e relazioni internazionali della Città candida n. 4 posizioni per svolgere il Servizio Civile",
     "data": "2026-03-31T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

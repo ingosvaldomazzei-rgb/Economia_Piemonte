@@ -12,7 +12,7 @@
     },
     {
       "tema": "agricoltura",
-      "conteggio": 19
+      "conteggio": 18
     },
     {
       "tema": "commercio-artigianato",
@@ -27,10 +27,6 @@
       "conteggio": 11
     },
     {
-      "tema": "fondi-europei",
-      "conteggio": 10
-    },
-    {
       "tema": "lavoro-occupazione",
       "conteggio": 10
     },
@@ -39,12 +35,16 @@
       "conteggio": 9
     },
     {
-      "tema": "giovani",
+      "tema": "fondi-europei",
       "conteggio": 9
     },
     {
       "tema": "pianificazione-territoriale",
       "conteggio": 9
+    },
+    {
+      "tema": "giovani",
+      "conteggio": 8
     }
   ],
   "totale_temi_con_notizie": 23
