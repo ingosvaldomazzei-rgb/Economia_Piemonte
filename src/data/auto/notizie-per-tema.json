@@ -1,5 +1,79 @@
 {
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "a1fbdde18be3",
+      "titolo": "Firmati tutti gli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmati-tutti-gli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-05-13T16:53:21+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c42c3fe3ba96",
+      "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
+      "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
+      "data": "2026-04-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b01acefd9bcd",
+      "titolo": "I boschi aule a cielo aperto",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/boschi-aule-cielo-aperto",
+      "data": "2026-04-22T15:23:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a1afeaa21932",
+      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
+      "data": "2026-04-17T11:31:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "73d8536b1897",
+      "titolo": "Le iniziative per il futuro del sistema neve",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iniziative-per-futuro-sistema-neve",
+      "data": "2026-04-10T12:25:01+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6b354d940f54",
+      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-04-08T16:53:21+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f34d0db03ec2",
+      "titolo": "Piemove si estende alle realtà accademiche",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-alle-realta-accademiche",
+      "data": "2026-04-01T19:25:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b93c7a93822e",
+      "titolo": "Piemove si estende a 14 realtà accademiche",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-14-realta-accademiche",
+      "data": "2026-04-01T19:25:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "fondi-europei": [
+    {
+      "id": "a1fbdde18be3",
+      "titolo": "Firmati tutti gli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmati-tutti-gli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-05-13T16:53:21+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "b03f0175defb",
       "titolo": "La Regione Piemonte al Salone del Libro 2026",
@@ -71,12 +145,266 @@
       "data": "2026-04-08T16:53:21+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    }
+  ],
+  "lavoro-occupazione": [
+    {
+      "id": "457dceaba4c0",
+      "titolo": "Lunedì 18 maggio sciopero generale nazionale",
+      "link": "https://www.comune.torino.it/novita/avvisi/lunedi-18-maggio-sciopero-generale-nazionale",
+      "data": "2026-05-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     },
     {
-      "id": "a679cc76270c",
-      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
+      "id": "0733a678be47",
+      "titolo": "“Il futuro prende forma” a Urban Lab una mostra per raccontare il nuovo Piano Regolatore",
+      "link": "https://www.comune.torino.it/novita/comunicati/futuro-prende-forma-urban-lab-una-mostra-per-raccontare-nuovo-piano-regolatore",
+      "data": "2026-05-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "385f6cd22181",
+      "titolo": "Il nuovo piano triennale per la Formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-piano-triennale-per-formazione-tecnica-superiore",
+      "data": "2026-05-05T12:14:56+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "72c5c966ac2b",
+      "titolo": "Piemonte capofila della seconda edizione di Common Ground",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-capofila-della-seconda-edizione-common-ground",
+      "data": "2026-04-29T09:22:13+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c42c3fe3ba96",
+      "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
+      "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
+      "data": "2026-04-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1da80c398078",
+      "titolo": "Torino rende omaggio all’imprenditore e antifascista Sandro Fiorio: intitolata la balconata alberata di via San Donato",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-rende-omaggio-allimprenditore-antifascista-sandro-fiorio-intitolata",
+      "data": "2026-04-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8145fac0bc64",
+      "titolo": "Videosorveglianza, prosegue il lavoro per implementare telecamere e sistemi di sicurezza",
+      "link": "https://www.comune.torino.it/novita/comunicati/videosorveglianza-prosegue-lavoro-per-implementare-telecamere-sistemi-sicurezza",
+      "data": "2026-04-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "aae92810517d",
+      "titolo": "Accordo per recupero delle liste d’attesa, sistema 118 e meno esternalizzazioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-per-recupero-delle-liste-dattesa-sistema-118-meno-esternalizzazioni",
+      "data": "2026-04-20T18:43:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "68112c870caa",
+      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – maggio 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-1",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8cf3a17d4574",
+      "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi maggio 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico-0",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a3d1222b666e",
+      "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
+      "data": "2026-04-03T16:26:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "attivita-produttive": [
+    {
+      "id": "a2c947cdfddc",
+      "titolo": "Torino accelera la mobilità del futuro: domani giovedì 14 maggio il ToMove Community Summit",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-accelera-mobilita-futuro-domani-giovedi-14-maggio-tomove-community-summit",
+      "data": "2026-05-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "07a73fbcb6f2",
+      "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
+      "data": "2026-05-06T18:51:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7b040dd08ef4",
+      "titolo": "Obiettivo Export: imprese e territori del Nord Italia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/obiettivo-export-imprese-territori-nord-italia",
+      "data": "2026-04-29T19:15:49+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "00ae42ca4365",
+      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
+      "data": "2026-04-29T15:15:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ae488a0696d4",
+      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
+      "data": "2026-04-28T12:14:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f24dbbcd021b",
+      "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
+      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
+      "data": "2026-04-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4b28f8f49edd",
+      "titolo": "Il capitale umano vero motore della competitività e della crescita",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/capitale-umano-vero-motore-della-competitivita-della-crescita",
+      "data": "2026-04-22T14:21:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c3b3e9e860ea",
+      "titolo": "Nuovo bando per le imprese audiovisive e cinematografiche",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-bando-per-imprese-audiovisive-cinematografiche",
+      "data": "2026-04-17T12:37:42+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "67fd4ffdb2c7",
+      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
+      "data": "2026-04-17T09:02:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e8773137c2ed",
+      "titolo": "Parco della Salute: chiusura positiva della conferenza dei servizi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-chiusura-positiva-della-conferenza-dei-servizi",
+      "data": "2026-04-03T18:56:23+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a3d1222b666e",
+      "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
+      "data": "2026-04-03T16:26:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "istruzione-formazione": [
+    {
+      "id": "343a9da2140e",
+      "titolo": "La Scuola dell'Infanzia Maria Teresa festeggia 150 anni con una riqualificazione da quasi 1 milione di euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-dellinfanzia-maria-teresa-festeggia-150-anni-una-riqualificazione-quasi-1",
+      "data": "2026-05-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5805c6a69759",
+      "titolo": "Il calendario scolastico 2026-2027",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/calendario-scolastico-2026-2027",
+      "data": "2026-05-11T12:00:50+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9518f805e9ec",
+      "titolo": "Scuola primaria Allievo-Franchetti: conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-primaria-allievo-franchetti-conclusi-interventi-riqualificazione",
+      "data": "2026-05-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5fe748bf20e0",
+      "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
+      "data": "2026-05-06T14:51:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cd1636d2aaa4",
+      "titolo": "Efficientamento energetico, nuovi interventi negli immobili comunali. Lavori per oltre 3,5 milioni in 5 scuole",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-negli-immobili-comunali-lavori-per",
+      "data": "2026-05-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cdffac08195c",
+      "titolo": "Salone del Libro: con il “Buono da leggere” il Piemonte investe su giovani lettori e scuole",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-libro-buono-leggere-piemonte-investe-giovani-lettori-scuole",
+      "data": "2026-04-27T12:39:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b01acefd9bcd",
+      "titolo": "I boschi aule a cielo aperto",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/boschi-aule-cielo-aperto",
+      "data": "2026-04-22T15:23:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6696de63ae5f",
+      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "38f0bd1fd19c",
+      "titolo": "Daniela Cameroni è il nuovo assessore regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/daniela-cameroni-nuovo-assessore-regionale",
+      "data": "2026-04-10T20:37:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b93f4e67aa82",
+      "titolo": "Nuova vita per quattro ex istituti scolastici di Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/nuova-vita-per-quattro-ex-istituti-scolastici-torino",
+      "data": "2026-04-08T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -239,80 +567,6 @@
       "titolo": "Consulta di Torino e Città. Rigenerazione Urbana, progetti attuati e prossime realizzazioni",
       "link": "https://www.comune.torino.it/novita/comunicati/consulta-torino-citta-rigenerazione-urbana-progetti-attuati-prossime",
       "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "istruzione-formazione": [
-    {
-      "id": "5805c6a69759",
-      "titolo": "Il calendario scolastico 2026-2027",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/calendario-scolastico-2026-2027",
-      "data": "2026-05-11T12:00:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9518f805e9ec",
-      "titolo": "Scuola primaria Allievo-Franchetti: conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-primaria-allievo-franchetti-conclusi-interventi-riqualificazione",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5fe748bf20e0",
-      "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
-      "data": "2026-05-06T14:51:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cd1636d2aaa4",
-      "titolo": "Efficientamento energetico, nuovi interventi negli immobili comunali. Lavori per oltre 3,5 milioni in 5 scuole",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-negli-immobili-comunali-lavori-per",
-      "data": "2026-05-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cdffac08195c",
-      "titolo": "Salone del Libro: con il “Buono da leggere” il Piemonte investe su giovani lettori e scuole",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-libro-buono-leggere-piemonte-investe-giovani-lettori-scuole",
-      "data": "2026-04-27T12:39:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b01acefd9bcd",
-      "titolo": "I boschi aule a cielo aperto",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/boschi-aule-cielo-aperto",
-      "data": "2026-04-22T15:23:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6696de63ae5f",
-      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "38f0bd1fd19c",
-      "titolo": "Daniela Cameroni è il nuovo assessore regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/daniela-cameroni-nuovo-assessore-regionale",
-      "data": "2026-04-10T20:37:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b93f4e67aa82",
-      "titolo": "Nuova vita per quattro ex istituti scolastici di Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/nuova-vita-per-quattro-ex-istituti-scolastici-torino",
-      "data": "2026-04-08T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -495,14 +749,6 @@
       "titolo": "Mamre ets e Ordine degli ingegneri di Torino insieme per i giovani: accordo per la riqualificazione di uno spazio della Città",
       "link": "https://www.comune.torino.it/novita/comunicati/mamre-ets-ordine-degli-ingegneri-torino-insieme-per-giovani-accordo-per",
       "data": "2026-04-02T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a679cc76270c",
-      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -793,14 +1039,6 @@
       "data": "2026-04-03T15:36:51+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "a679cc76270c",
-      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "edilizia-opere-pubbliche": [
@@ -1019,178 +1257,6 @@
       "fonte_id": "regione"
     }
   ],
-  "attivita-produttive": [
-    {
-      "id": "07a73fbcb6f2",
-      "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
-      "data": "2026-05-06T18:51:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7b040dd08ef4",
-      "titolo": "Obiettivo Export: imprese e territori del Nord Italia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/obiettivo-export-imprese-territori-nord-italia",
-      "data": "2026-04-29T19:15:49+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "00ae42ca4365",
-      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
-      "data": "2026-04-29T15:15:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ae488a0696d4",
-      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
-      "data": "2026-04-28T12:14:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f24dbbcd021b",
-      "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
-      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
-      "data": "2026-04-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4b28f8f49edd",
-      "titolo": "Il capitale umano vero motore della competitività e della crescita",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/capitale-umano-vero-motore-della-competitivita-della-crescita",
-      "data": "2026-04-22T14:21:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c3b3e9e860ea",
-      "titolo": "Nuovo bando per le imprese audiovisive e cinematografiche",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-bando-per-imprese-audiovisive-cinematografiche",
-      "data": "2026-04-17T12:37:42+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "67fd4ffdb2c7",
-      "titolo": "Missione del Piemonte in Canada su aerospazio, scienze della vita, ricerca e sanità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-piemonte-canada-aerospazio-scienze-della-vita-ricerca-sanita",
-      "data": "2026-04-17T09:02:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e8773137c2ed",
-      "titolo": "Parco della Salute: chiusura positiva della conferenza dei servizi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-chiusura-positiva-della-conferenza-dei-servizi",
-      "data": "2026-04-03T18:56:23+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a3d1222b666e",
-      "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
-      "data": "2026-04-03T16:26:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f4c2d160346f",
-      "titolo": "Inizia la fase operativa per lo stabilimento di Silicon Box a Novara",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inizia-fase-operativa-per-stabilimento-silicon-box-novara",
-      "data": "2026-03-31T15:07:22+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "0733a678be47",
-      "titolo": "“Il futuro prende forma” a Urban Lab una mostra per raccontare il nuovo Piano Regolatore",
-      "link": "https://www.comune.torino.it/novita/comunicati/futuro-prende-forma-urban-lab-una-mostra-per-raccontare-nuovo-piano-regolatore",
-      "data": "2026-05-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "385f6cd22181",
-      "titolo": "Il nuovo piano triennale per la Formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-piano-triennale-per-formazione-tecnica-superiore",
-      "data": "2026-05-05T12:14:56+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "72c5c966ac2b",
-      "titolo": "Piemonte capofila della seconda edizione di Common Ground",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-capofila-della-seconda-edizione-common-ground",
-      "data": "2026-04-29T09:22:13+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c42c3fe3ba96",
-      "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
-      "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
-      "data": "2026-04-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1da80c398078",
-      "titolo": "Torino rende omaggio all’imprenditore e antifascista Sandro Fiorio: intitolata la balconata alberata di via San Donato",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-rende-omaggio-allimprenditore-antifascista-sandro-fiorio-intitolata",
-      "data": "2026-04-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8145fac0bc64",
-      "titolo": "Videosorveglianza, prosegue il lavoro per implementare telecamere e sistemi di sicurezza",
-      "link": "https://www.comune.torino.it/novita/comunicati/videosorveglianza-prosegue-lavoro-per-implementare-telecamere-sistemi-sicurezza",
-      "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "aae92810517d",
-      "titolo": "Accordo per recupero delle liste d’attesa, sistema 118 e meno esternalizzazioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-per-recupero-delle-liste-dattesa-sistema-118-meno-esternalizzazioni",
-      "data": "2026-04-20T18:43:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "68112c870caa",
-      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – maggio 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-1",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8cf3a17d4574",
-      "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi maggio 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico-0",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a3d1222b666e",
-      "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
-      "data": "2026-04-03T16:26:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "commercio-artigianato": [
     {
       "id": "8d8ea9637077",
@@ -1279,22 +1345,6 @@
       "data": "2026-04-03T15:36:51+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "bef0c22e23c9",
-      "titolo": "Concerto di TAME IMPALA (12 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/concerto-tame-impala-12-aprile-2026-convocazione-per-assegnazione-posteggi",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "738e92843ded",
-      "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa religiosa di Santa Rita",
-      "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "turismo": [
@@ -1437,64 +1487,6 @@
       "titolo": "Stop al consumo di suolo agricolo per l'energia pulita",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stop-al-consumo-suolo-agricolo-per-lenergia-pulita",
       "data": "2026-04-13T12:22:42+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "c42c3fe3ba96",
-      "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
-      "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
-      "data": "2026-04-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b01acefd9bcd",
-      "titolo": "I boschi aule a cielo aperto",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/boschi-aule-cielo-aperto",
-      "data": "2026-04-22T15:23:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a1afeaa21932",
-      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
-      "data": "2026-04-17T11:31:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "73d8536b1897",
-      "titolo": "Le iniziative per il futuro del sistema neve",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iniziative-per-futuro-sistema-neve",
-      "data": "2026-04-10T12:25:01+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6b354d940f54",
-      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-      "data": "2026-04-08T16:53:21+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f34d0db03ec2",
-      "titolo": "Piemove si estende alle realtà accademiche",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-alle-realta-accademiche",
-      "data": "2026-04-01T19:25:29+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b93c7a93822e",
-      "titolo": "Piemove si estende a 14 realtà accademiche",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemove-si-estende-14-realta-accademiche",
-      "data": "2026-04-01T19:25:29+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }

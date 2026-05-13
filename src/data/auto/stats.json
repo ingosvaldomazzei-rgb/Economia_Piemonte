@@ -12,14 +12,18 @@
     },
     {
       "tema": "agricoltura",
-      "conteggio": 18
+      "conteggio": 17
     },
     {
-      "tema": "commercio-artigianato",
-      "conteggio": 13
+      "tema": "lavoro-occupazione",
+      "conteggio": 11
     },
     {
       "tema": "attivita-produttive",
+      "conteggio": 11
+    },
+    {
+      "tema": "commercio-artigianato",
       "conteggio": 11
     },
     {
@@ -27,23 +31,19 @@
       "conteggio": 10
     },
     {
+      "tema": "istruzione-formazione",
+      "conteggio": 10
+    },
+    {
       "tema": "sociale-welfare",
       "conteggio": 10
-    },
-    {
-      "tema": "lavoro-occupazione",
-      "conteggio": 10
-    },
-    {
-      "tema": "istruzione-formazione",
-      "conteggio": 9
     },
     {
       "tema": "pianificazione-territoriale",
       "conteggio": 9
     },
     {
-      "tema": "giovani",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 8
     }
   ],

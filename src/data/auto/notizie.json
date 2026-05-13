@@ -1,5 +1,55 @@
 [
   {
+    "id": "a1fbdde18be3",
+    "titolo": "Firmati tutti gli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmati-tutti-gli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+    "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di collaborazione, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione, hanno iniziato ad essere sottoscritti con gli 805 Comuni…",
+    "data": "2026-05-13T16:53:21+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "7264cd9e80d1",
+    "titolo": "Torino ha un nuovo City Brand",
+    "link": "https://www.comune.torino.it/novita/notizie/torino-ha-un-nuovo-city-brand",
+    "descrizione": "Torino duepunti è l’idea alla base del nuovo City Brand: un invito a cominciare un percorso, e scrivere una nuova storia.",
+    "data": "2026-05-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "457dceaba4c0",
+    "titolo": "Lunedì 18 maggio sciopero generale nazionale",
+    "link": "https://www.comune.torino.it/novita/avvisi/lunedi-18-maggio-sciopero-generale-nazionale",
+    "descrizione": "Non si garantisce il regolare servizio al pubblico.",
+    "data": "2026-05-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a2c947cdfddc",
+    "titolo": "Torino accelera la mobilità del futuro: domani giovedì 14 maggio il ToMove Community Summit",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-accelera-mobilita-futuro-domani-giovedi-14-maggio-tomove-community-summit",
+    "descrizione": "Trasformare la sperimentazione in nuove soluzioni per la mobilità, mettendo in connessione startup, imprese, investitori e pubblica amministrazione.",
+    "data": "2026-05-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "343a9da2140e",
+    "titolo": "La Scuola dell'Infanzia Maria Teresa festeggia 150 anni con una riqualificazione da quasi 1 milione di euro",
+    "link": "https://www.comune.torino.it/novita/comunicati/scuola-dellinfanzia-maria-teresa-festeggia-150-anni-una-riqualificazione-quasi-1",
+    "descrizione": "Mattinata di festa in via Mameli 18 per celebrare i 150 anni della Scuola dell’infanzia Maria Teresa, storica realtà educativa del quartiere Borgo Dora.",
+    "data": "2026-05-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "b03f0175defb",
     "titolo": "La Regione Piemonte al Salone del Libro 2026",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
@@ -1945,56 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/notizie/sos-tare-preadolescenza",
     "descrizione": "Ciclo di incontri per genitori e operatori sulle problematiche legate ai ragazzi e ragazze nella fascia di età 10-13 anni.",
     "data": "2026-04-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f4c2d160346f",
-    "titolo": "Inizia la fase operativa per lo stabilimento di Silicon Box a Novara",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inizia-fase-operativa-per-stabilimento-silicon-box-novara",
-    "descrizione": "La Regione Piemonte ha accolto con soddisfazione la firma apposta a Roma da Ministero delle Imprese e del Made in Italy, Invitalia e Silicon Box sull’accordo di sviluppo che fa entrare nel vivo l’investimento della multinazionale di Singapore a Novara per…",
-    "data": "2026-03-31T15:07:22+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "9e33c2cb6e81",
-    "titolo": "Arriva Star Plus: a Torino debutta la mobilità notturna a chiamata",
-    "link": "https://www.comune.torino.it/novita/comunicati/arriva-star-plus-torino-debutta-mobilita-notturna-chiamata",
-    "descrizione": "Torino si conferma capofila nella sperimentazione della mobilità del futuro.",
-    "data": "2026-03-31T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a679cc76270c",
-    "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
-    "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
-    "descrizione": "Il progetto Abbiamo un mondo in comune del servizio Cooperazione e relazioni internazionali della Città candida n. 4 posizioni per svolgere il Servizio Civile",
-    "data": "2026-03-31T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "bef0c22e23c9",
-    "titolo": "Concerto di TAME IMPALA (12 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/notizie/concerto-tame-impala-12-aprile-2026-convocazione-per-assegnazione-posteggi",
-    "descrizione": "Convocazione per GIOVEDI' 09 APRILE 2026 ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali",
-    "data": "2026-03-31T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "738e92843ded",
-    "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa religiosa di Santa Rita",
-    "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della",
-    "descrizione": "Termini di presentazione delle istanze : 1°aprile - 30 aprile 2026, tramite il portale Impresainungiorno.",
-    "data": "2026-03-31T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
