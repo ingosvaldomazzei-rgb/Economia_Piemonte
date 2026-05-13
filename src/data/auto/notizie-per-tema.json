@@ -1,5 +1,95 @@
 {
+  "fondi-europei": [
+    {
+      "id": "b03f0175defb",
+      "titolo": "La Regione Piemonte al Salone del Libro 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
+      "data": "2026-05-13T08:30:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b6ee83010bf2",
+      "titolo": "Dall’Umbria a Torino: domenica 17 maggio la Marcia per la pace attraversa la città",
+      "link": "https://www.comune.torino.it/novita/comunicati/dallumbria-torino-domenica-17-maggio-marcia-per-pace-attraversa-citta",
+      "data": "2026-05-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "447edd0ba015",
+      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
+      "data": "2026-05-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "23e980c39903",
+      "titolo": "Thales Alenia Space investe su Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/thales-alenia-space-investe-torino",
+      "data": "2026-05-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4ee4443b7179",
+      "titolo": "Spacca lo specchietto di un’auto in pieno pomeriggio di fronte alla chiesa. Fermato da un “civich” fuori servizio",
+      "link": "https://www.comune.torino.it/novita/comunicati/spacca-specchietto-unauto-pieno-pomeriggio-fronte-alla-chiesa-fermato-un-civich",
+      "data": "2026-04-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cbd10ddb7cae",
+      "titolo": "Bella Storia, taglio del nastro per il Cortile del Gioco in Barriera",
+      "link": "https://www.comune.torino.it/novita/comunicati/bella-storia-taglio-nastro-per-cortile-gioco-barriera",
+      "data": "2026-04-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "60cfaa3007a2",
+      "titolo": "Torino città dell’aerospazio: Thales Alenia Space propone la realizzazione di un nuovo edificio produttivo",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-citta-dellaerospazio-thales-alenia-space-propone-realizzazione-un-nuovo",
+      "data": "2026-04-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6696de63ae5f",
+      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6b354d940f54",
+      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-04-08T16:53:21+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a679cc76270c",
+      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
+      "data": "2026-03-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "cultura-beni-culturali": [
+    {
+      "id": "b03f0175defb",
+      "titolo": "La Regione Piemonte al Salone del Libro 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
+      "data": "2026-05-13T08:30:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "1b65ed4d4db7",
       "titolo": "Da Fondazione Compagnia di San Paolo una proposta di partenariato pubblico privato per il futuro del Borgo Medievale",
@@ -149,14 +239,6 @@
       "titolo": "Consulta di Torino e Città. Rigenerazione Urbana, progetti attuati e prossime realizzazioni",
       "link": "https://www.comune.torino.it/novita/comunicati/consulta-torino-citta-rigenerazione-urbana-progetti-attuati-prossime",
       "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "823883b24e2a",
-      "titolo": "Giornata Mondiale del Gioco 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/giornata-mondiale-gioco-2026",
-      "data": "2026-04-20T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -709,80 +791,6 @@
       "titolo": "È l’Asti Docg il vino piemontese dell’anno 2026",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-docg-vino-piemontese-dellanno-2026",
       "data": "2026-04-03T15:36:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a679cc76270c",
-      "titolo": "Servizio Civile alla Cooperazione, relazioni internazionali e pace",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-alla-cooperazione-relazioni-internazionali-pace",
-      "data": "2026-03-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "fondi-europei": [
-    {
-      "id": "b6ee83010bf2",
-      "titolo": "Dall’Umbria a Torino: domenica 17 maggio la Marcia per la pace attraversa la città",
-      "link": "https://www.comune.torino.it/novita/comunicati/dallumbria-torino-domenica-17-maggio-marcia-per-pace-attraversa-citta",
-      "data": "2026-05-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "447edd0ba015",
-      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
-      "data": "2026-05-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "23e980c39903",
-      "titolo": "Thales Alenia Space investe su Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/thales-alenia-space-investe-torino",
-      "data": "2026-05-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4ee4443b7179",
-      "titolo": "Spacca lo specchietto di un’auto in pieno pomeriggio di fronte alla chiesa. Fermato da un “civich” fuori servizio",
-      "link": "https://www.comune.torino.it/novita/comunicati/spacca-specchietto-unauto-pieno-pomeriggio-fronte-alla-chiesa-fermato-un-civich",
-      "data": "2026-04-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cbd10ddb7cae",
-      "titolo": "Bella Storia, taglio del nastro per il Cortile del Gioco in Barriera",
-      "link": "https://www.comune.torino.it/novita/comunicati/bella-storia-taglio-nastro-per-cortile-gioco-barriera",
-      "data": "2026-04-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "60cfaa3007a2",
-      "titolo": "Torino città dell’aerospazio: Thales Alenia Space propone la realizzazione di un nuovo edificio produttivo",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-citta-dellaerospazio-thales-alenia-space-propone-realizzazione-un-nuovo",
-      "data": "2026-04-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6696de63ae5f",
-      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6b354d940f54",
-      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-      "data": "2026-04-08T16:53:21+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },

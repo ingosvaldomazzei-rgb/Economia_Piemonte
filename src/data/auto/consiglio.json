@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-05-13T03:57:28.985011+00:00",
+  "ultimo_aggiornamento": "2026-05-13T08:52:18.407843+00:00",
   "sedute": [
     {
       "id": "ded115fdd8f4",
@@ -311,7 +311,7 @@
       "titolo": "Accesso dei medici del lavoro al Sistema Informativo Regionale per la gestione delle Vaccinazioni",
       "data": "2026-02-17T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/interfo/legislatura/12/atto/927/",
-      "stato": ""
+      "stato": "Discussa"
     },
     {
       "id": "5f0d68fc1cde",
@@ -2028,8 +2028,8 @@
   ],
   "statistiche": {
     "totale_sedute": 22,
-    "totale_interrogazioni": 100,
-    "totale_interpellanze": 0,
+    "totale_interrogazioni": 199,
+    "totale_interpellanze": 1,
     "totale_mozioni": 9,
     "totale_odg": 191,
     "mozioni_approvate": 101,

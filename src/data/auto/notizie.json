@@ -1,5 +1,15 @@
 [
   {
+    "id": "b03f0175defb",
+    "titolo": "La Regione Piemonte al Salone del Libro 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
+    "descrizione": "La Regione Piemonte sarà al Salone internazionale del Libro 2026 con una presenza rinnovata, più strutturata e visibile, orientata alla valorizzazione del patrimonio culturale come elemento fondamentale per lo sviluppo, la coesione e la crescita…",
+    "data": "2026-05-13T08:30:59+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "1b65ed4d4db7",
     "titolo": "Da Fondazione Compagnia di San Paolo una proposta di partenariato pubblico privato per il futuro del Borgo Medievale",
     "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-una-proposta-partenariato-pubblico-privato-per",
@@ -1984,16 +1994,6 @@
     "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa religiosa di Santa Rita",
     "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della",
     "descrizione": "Termini di presentazione delle istanze : 1°aprile - 30 aprile 2026, tramite il portale Impresainungiorno.",
-    "data": "2026-03-31T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d57aec91d2d6",
-    "titolo": "Il centro pedonale si allarga: dopo via Roma tocca a via Viotti. Reale Immobili dona alla Città i progetti per la riqualificazione",
-    "link": "https://www.comune.torino.it/novita/comunicati/centro-pedonale-si-allarga-dopo-via-roma-tocca-via-viotti-reale-immobili-dona",
-    "descrizione": "L’Amministrazione Comunale prosegue con un nuovo intervento di valorizzazione dello spazio pubblico nel centro storico.",
     "data": "2026-03-31T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
