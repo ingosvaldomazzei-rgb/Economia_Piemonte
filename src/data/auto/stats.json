@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 55,
     "comune_torino": 144,
+    "regione": 55,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -35,16 +35,16 @@
       "conteggio": 10
     },
     {
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 9
+    },
+    {
       "tema": "sociale-welfare",
-      "conteggio": 10
+      "conteggio": 9
     },
     {
       "tema": "pianificazione-territoriale",
       "conteggio": 9
-    },
-    {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 8
     }
   ],
   "totale_temi_con_notizie": 23

@@ -1,6 +1,14 @@
 {
   "enti-locali-piccoli-comuni": [
     {
+      "id": "2c1e5364d1b0",
+      "titolo": "Segnalato un tentativo di frode via SMS con una finta comunicazione sul transito in ZTL",
+      "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-frode-via-sms-una-finta-comunicazione-sul-transito-ztl",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "a1fbdde18be3",
       "titolo": "Firmati tutti gli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmati-tutti-gli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
@@ -63,6 +71,168 @@
       "data": "2026-04-01T19:25:29+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    }
+  ],
+  "cultura-beni-culturali": [
+    {
+      "id": "01cf48650477",
+      "titolo": "Certificati esami Cils - sessione dicembre 2025",
+      "link": "https://www.comune.torino.it/novita/notizie/certificati-esami-cils-sessione-dicembre-2025",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b03f0175defb",
+      "titolo": "La Regione Piemonte al Salone del Libro 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
+      "data": "2026-05-13T08:30:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1b65ed4d4db7",
+      "titolo": "Da Fondazione Compagnia di San Paolo una proposta di partenariato pubblico privato per il futuro del Borgo Medievale",
+      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-una-proposta-partenariato-pubblico-privato-per",
+      "data": "2026-05-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8f999487b447",
+      "titolo": "Sottopasso Grosseto, il 12 e 13 maggio chiusura per lavori dalle 9.30 alle 16.30",
+      "link": "https://www.comune.torino.it/novita/comunicati/sottopasso-grosseto-12-13-maggio-chiusura-per-lavori-dalle-930-alle-1630",
+      "data": "2026-05-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "92e0dd6ed6fb",
+      "titolo": "Riqualificazione dell’area del Valentino, 7 milioni da fondazione CRT a sostegno del progetto",
+      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-dellarea-valentino-7-milioni-fondazione-crt-sostegno-progetto",
+      "data": "2026-05-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c5e08fdb2a86",
+      "titolo": "I centri di ITER alla Future week Torino",
+      "link": "https://www.comune.torino.it/novita/notizie/centri-iter-alla-future-week-torino",
+      "data": "2026-05-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "670796de3fbe",
+      "titolo": "Cinema, mostre e danze. Torino accoglie la Grecia, paese ospite del Salone del Libro",
+      "link": "https://www.comune.torino.it/novita/comunicati/cinema-mostre-danze-torino-accoglie-grecia-paese-ospite-salone-libro",
+      "data": "2026-05-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bc6132076b38",
+      "titolo": "Il Salone Off porta la cultura tra la gente",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-off-porta-cultura-gente",
+      "data": "2026-04-30T16:27:39+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b9e97e144cdc",
+      "titolo": "Corteo del 1° maggio",
+      "link": "https://www.comune.torino.it/novita/notizie/corteo-1deg-maggio",
+      "data": "2026-04-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "78bfdbf62035",
+      "titolo": "Seminario sul Sonno – Open Day all’Eduteca Agorà",
+      "link": "https://www.comune.torino.it/novita/notizie/seminario-sul-sonno-open-day-alleduteca-agora-0",
+      "data": "2026-04-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "dd0bd97a7cb0",
+      "titolo": "Protezione Civile, approvate le nuove linee di indirizzo per il funzionamento del Centro Operativo Comunale",
+      "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-approvate-nuove-linee-indirizzo-per-funzionamento-centro",
+      "data": "2026-04-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ae488a0696d4",
+      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
+      "data": "2026-04-28T12:14:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f24dbbcd021b",
+      "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
+      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
+      "data": "2026-04-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a08bd3cc2951",
+      "titolo": "Salone OFF 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/salone-off-2026",
+      "data": "2026-04-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a7f28d5d9043",
+      "titolo": "Chiusura temporanea biblioteca Centro Interculturale",
+      "link": "https://www.comune.torino.it/novita/avvisi/chiusura-temporanea-biblioteca-centro-interculturale",
+      "data": "2026-04-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c42c3fe3ba96",
+      "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
+      "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
+      "data": "2026-04-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fd35e3a68ad4",
+      "titolo": "RETTIFICA - Domande per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (oggettistica) in Via Verdi – Via Sant'Ottavio",
+      "link": "https://www.comune.torino.it/novita/notizie/rettifica-domande-per-rilascio-autorizzazioni-stagionali-concessione-suolo",
+      "data": "2026-04-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0305df1c0e1f",
+      "titolo": "Seminario sul Sonno – Open Day all’Eduteca Agorà",
+      "link": "https://www.comune.torino.it/novita/notizie/seminario-sul-sonno-open-day-alleduteca-agora",
+      "data": "2026-04-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d07ffed479d2",
+      "titolo": "Scopri i concerti del CFM nel cartellone del Torino Jazz Festival",
+      "link": "https://www.comune.torino.it/novita/avvisi/scopri-concerti-cfm-nel-cartellone-torino-jazz-festival",
+      "data": "2026-04-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "abc46426cffa",
+      "titolo": "Sostenersi - Gruppo di ascolto per genitori",
+      "link": "https://www.comune.torino.it/novita/notizie/sostenersi-gruppo-ascolto-per-genitori",
+      "data": "2026-04-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     }
   ],
   "fondi-europei": [
@@ -409,168 +579,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "cultura-beni-culturali": [
-    {
-      "id": "b03f0175defb",
-      "titolo": "La Regione Piemonte al Salone del Libro 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
-      "data": "2026-05-13T08:30:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1b65ed4d4db7",
-      "titolo": "Da Fondazione Compagnia di San Paolo una proposta di partenariato pubblico privato per il futuro del Borgo Medievale",
-      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-una-proposta-partenariato-pubblico-privato-per",
-      "data": "2026-05-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8f999487b447",
-      "titolo": "Sottopasso Grosseto, il 12 e 13 maggio chiusura per lavori dalle 9.30 alle 16.30",
-      "link": "https://www.comune.torino.it/novita/comunicati/sottopasso-grosseto-12-13-maggio-chiusura-per-lavori-dalle-930-alle-1630",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "92e0dd6ed6fb",
-      "titolo": "Riqualificazione dell’area del Valentino, 7 milioni da fondazione CRT a sostegno del progetto",
-      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-dellarea-valentino-7-milioni-fondazione-crt-sostegno-progetto",
-      "data": "2026-05-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c5e08fdb2a86",
-      "titolo": "I centri di ITER alla Future week Torino",
-      "link": "https://www.comune.torino.it/novita/notizie/centri-iter-alla-future-week-torino",
-      "data": "2026-05-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "670796de3fbe",
-      "titolo": "Cinema, mostre e danze. Torino accoglie la Grecia, paese ospite del Salone del Libro",
-      "link": "https://www.comune.torino.it/novita/comunicati/cinema-mostre-danze-torino-accoglie-grecia-paese-ospite-salone-libro",
-      "data": "2026-05-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bc6132076b38",
-      "titolo": "Il Salone Off porta la cultura tra la gente",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-off-porta-cultura-gente",
-      "data": "2026-04-30T16:27:39+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b9e97e144cdc",
-      "titolo": "Corteo del 1° maggio",
-      "link": "https://www.comune.torino.it/novita/notizie/corteo-1deg-maggio",
-      "data": "2026-04-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "78bfdbf62035",
-      "titolo": "Seminario sul Sonno – Open Day all’Eduteca Agorà",
-      "link": "https://www.comune.torino.it/novita/notizie/seminario-sul-sonno-open-day-alleduteca-agora-0",
-      "data": "2026-04-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "dd0bd97a7cb0",
-      "titolo": "Protezione Civile, approvate le nuove linee di indirizzo per il funzionamento del Centro Operativo Comunale",
-      "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-approvate-nuove-linee-indirizzo-per-funzionamento-centro",
-      "data": "2026-04-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ae488a0696d4",
-      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
-      "data": "2026-04-28T12:14:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f24dbbcd021b",
-      "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
-      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
-      "data": "2026-04-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a08bd3cc2951",
-      "titolo": "Salone OFF 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/salone-off-2026",
-      "data": "2026-04-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a7f28d5d9043",
-      "titolo": "Chiusura temporanea biblioteca Centro Interculturale",
-      "link": "https://www.comune.torino.it/novita/avvisi/chiusura-temporanea-biblioteca-centro-interculturale",
-      "data": "2026-04-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c42c3fe3ba96",
-      "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
-      "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
-      "data": "2026-04-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fd35e3a68ad4",
-      "titolo": "RETTIFICA - Domande per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (oggettistica) in Via Verdi – Via Sant'Ottavio",
-      "link": "https://www.comune.torino.it/novita/notizie/rettifica-domande-per-rilascio-autorizzazioni-stagionali-concessione-suolo",
-      "data": "2026-04-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0305df1c0e1f",
-      "titolo": "Seminario sul Sonno – Open Day all’Eduteca Agorà",
-      "link": "https://www.comune.torino.it/novita/notizie/seminario-sul-sonno-open-day-alleduteca-agora",
-      "data": "2026-04-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d07ffed479d2",
-      "titolo": "Scopri i concerti del CFM nel cartellone del Torino Jazz Festival",
-      "link": "https://www.comune.torino.it/novita/avvisi/scopri-concerti-cfm-nel-cartellone-torino-jazz-festival",
-      "data": "2026-04-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "abc46426cffa",
-      "titolo": "Sostenersi - Gruppo di ascolto per genitori",
-      "link": "https://www.comune.torino.it/novita/notizie/sostenersi-gruppo-ascolto-per-genitori",
-      "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d0ed92fd8a70",
-      "titolo": "Consulta di Torino e Città. Rigenerazione Urbana, progetti attuati e prossime realizzazioni",
-      "link": "https://www.comune.torino.it/novita/comunicati/consulta-torino-citta-rigenerazione-urbana-progetti-attuati-prossime",
-      "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "trasporti-mobilita": [
     {
       "id": "549269f0c039",
@@ -683,14 +691,6 @@
       "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
       "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
       "data": "2026-04-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0f56183d1b70",
-      "titolo": "Inclusione e lingua italiana, la Città di Torino rinnova l’accordo con i CPIA per il triennio 2026-2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/inclusione-lingua-italiana-citta-torino-rinnova-laccordo-cpia-per-triennio-2026",
-      "data": "2026-04-01T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
