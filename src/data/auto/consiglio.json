@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-05-14T14:29:21.885935+00:00",
+  "ultimo_aggiornamento": "2026-05-14T19:54:05.531435+00:00",
   "sedute": [
     {
       "id": "ded115fdd8f4",
@@ -8,7 +8,7 @@
       "titolo": "Seduta n. 092 del 12/05/2026",
       "data": "2026-05-12T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=092&data_seduta=12-05-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89206&nome_file=Sintesi%20n.%2092_12maggio2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {

@@ -1,4 +1,86 @@
 {
+  "pianificazione-territoriale": [
+    {
+      "id": "25a004b9388d",
+      "titolo": "PiemontePay supera le 6 milioni di transazioni e guarda all’AI",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemontepay-supera-6-milioni-transazioni-guarda-allai",
+      "data": "2026-05-14T16:56:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "447edd0ba015",
+      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
+      "data": "2026-05-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0733a678be47",
+      "titolo": "“Il futuro prende forma” a Urban Lab una mostra per raccontare il nuovo Piano Regolatore",
+      "link": "https://www.comune.torino.it/novita/comunicati/futuro-prende-forma-urban-lab-una-mostra-per-raccontare-nuovo-piano-regolatore",
+      "data": "2026-05-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4d5c75e03b03",
+      "titolo": "Nuovi bandi per promuovere il vino piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-bandi-per-promuovere-vino-piemontese",
+      "data": "2026-05-05T14:21:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "83414edddfb4",
+      "titolo": "Al via il quarto programma di manutenzione dei corsi d’acqua",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-quarto-programma-manutenzione-dei-corsi-dacqua",
+      "data": "2026-05-04T16:03:48+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f1b5461e854e",
+      "titolo": "Il piano generale del nuovo ospedale di Vercelli",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-generale-nuovo-ospedale-vercelli",
+      "data": "2026-04-27T16:02:17+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d0ed92fd8a70",
+      "titolo": "Consulta di Torino e Città. Rigenerazione Urbana, progetti attuati e prossime realizzazioni",
+      "link": "https://www.comune.torino.it/novita/comunicati/consulta-torino-citta-rigenerazione-urbana-progetti-attuati-prossime",
+      "data": "2026-04-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f32cae34a418",
+      "titolo": "25 aprile, il programma completo delle iniziative per la Festa della Liberazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/25-aprile-programma-completo-delle-iniziative-per-festa-della-liberazione",
+      "data": "2026-04-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "43cb4d4d4c8f",
+      "titolo": "Sala Rossa: approvati tre atti di indirizzo per l'adesione della Città di Torino alla piattaforma unica nazionale dei contrassegni disabili CUDE",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvati-tre-atti-indirizzo-per-ladesione-della-citta-torino-alla",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "854704bf0dd4",
+      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
+      "data": "2026-04-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "enti-locali-piccoli-comuni": [
     {
       "id": "2c1e5364d1b0",
@@ -62,6 +144,14 @@
       "id": "eb79c5fdde5e",
       "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
       "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "24c33a6152a1",
+      "titolo": "La Città di Torino inaugura il terzo Bibliobus delle Biblioteche Civiche",
+      "link": "https://www.comune.torino.it/novita/comunicati/citta-torino-inaugura-terzo-bibliobus-delle-biblioteche-civiche",
       "data": "2026-05-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -199,14 +289,6 @@
       "titolo": "Seminario sul Sonno – Open Day all’Eduteca Agorà",
       "link": "https://www.comune.torino.it/novita/notizie/seminario-sul-sonno-open-day-alleduteca-agora",
       "data": "2026-04-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d07ffed479d2",
-      "titolo": "Scopri i concerti del CFM nel cartellone del Torino Jazz Festival",
-      "link": "https://www.comune.torino.it/novita/avvisi/scopri-concerti-cfm-nel-cartellone-torino-jazz-festival",
-      "data": "2026-04-22T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1005,14 +1087,6 @@
       "data": "2026-04-04T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0c840b526147",
-      "titolo": "Mamre ets e Ordine degli ingegneri di Torino insieme per i giovani: accordo per la riqualificazione di uno spazio della Città",
-      "link": "https://www.comune.torino.it/novita/comunicati/mamre-ets-ordine-degli-ingegneri-torino-insieme-per-giovani-accordo-per",
-      "data": "2026-04-02T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "universita-ricerca": [
@@ -1207,80 +1281,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "pianificazione-territoriale": [
-    {
-      "id": "447edd0ba015",
-      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
-      "data": "2026-05-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0733a678be47",
-      "titolo": "“Il futuro prende forma” a Urban Lab una mostra per raccontare il nuovo Piano Regolatore",
-      "link": "https://www.comune.torino.it/novita/comunicati/futuro-prende-forma-urban-lab-una-mostra-per-raccontare-nuovo-piano-regolatore",
-      "data": "2026-05-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4d5c75e03b03",
-      "titolo": "Nuovi bandi per promuovere il vino piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-bandi-per-promuovere-vino-piemontese",
-      "data": "2026-05-05T14:21:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "83414edddfb4",
-      "titolo": "Al via il quarto programma di manutenzione dei corsi d’acqua",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-quarto-programma-manutenzione-dei-corsi-dacqua",
-      "data": "2026-05-04T16:03:48+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f1b5461e854e",
-      "titolo": "Il piano generale del nuovo ospedale di Vercelli",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-generale-nuovo-ospedale-vercelli",
-      "data": "2026-04-27T16:02:17+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d0ed92fd8a70",
-      "titolo": "Consulta di Torino e Città. Rigenerazione Urbana, progetti attuati e prossime realizzazioni",
-      "link": "https://www.comune.torino.it/novita/comunicati/consulta-torino-citta-rigenerazione-urbana-progetti-attuati-prossime",
-      "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f32cae34a418",
-      "titolo": "25 aprile, il programma completo delle iniziative per la Festa della Liberazione",
-      "link": "https://www.comune.torino.it/novita/comunicati/25-aprile-programma-completo-delle-iniziative-per-festa-della-liberazione",
-      "data": "2026-04-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "43cb4d4d4c8f",
-      "titolo": "Sala Rossa: approvati tre atti di indirizzo per l'adesione della Città di Torino alla piattaforma unica nazionale dei contrassegni disabili CUDE",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvati-tre-atti-indirizzo-per-ladesione-della-citta-torino-alla",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "854704bf0dd4",
-      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
-      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
-      "data": "2026-04-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "bilancio-regionale": [
     {
       "id": "07a73fbcb6f2",
@@ -1421,14 +1421,6 @@
       "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
       "data": "2026-04-17T11:31:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8d864abfea66",
-      "titolo": "Alluvione aprile 2025: 679 interventi per 45,4 milioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alluvione-aprile-2025-679-interventi-per-454-milioni",
-      "data": "2026-04-02T16:56:05+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
