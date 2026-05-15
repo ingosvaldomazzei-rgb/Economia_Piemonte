@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 53,
-    "comune_torino": 146,
+    "regione": 52,
+    "comune_torino": 147,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -12,30 +12,26 @@
     },
     {
       "tema": "agricoltura",
-      "conteggio": 18
+      "conteggio": 19
     },
     {
-      "tema": "commercio-artigianato",
+      "tema": "fondi-europei",
       "conteggio": 12
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 11
-    },
-    {
-      "tema": "attivita-produttive",
-      "conteggio": 11
-    },
-    {
       "tema": "pianificazione-territoriale",
-      "conteggio": 10
+      "conteggio": 11
+    },
+    {
+      "tema": "commercio-artigianato",
+      "conteggio": 11
     },
     {
       "tema": "sociale-welfare",
       "conteggio": 10
     },
     {
-      "tema": "fondi-europei",
+      "tema": "lavoro-occupazione",
       "conteggio": 10
     },
     {
@@ -43,8 +39,12 @@
       "conteggio": 10
     },
     {
+      "tema": "attivita-produttive",
+      "conteggio": 9
+    },
+    {
       "tema": "sanita-regionale",
-      "conteggio": 7
+      "conteggio": 8
     }
   ],
   "totale_temi_con_notizie": 23

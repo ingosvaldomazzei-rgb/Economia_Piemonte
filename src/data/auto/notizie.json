@@ -1,5 +1,45 @@
 [
   {
+    "id": "4f97e454feed",
+    "titolo": "A Rucas di Bagnolo Piemonte il Concerto di Ferragosto 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rucas-bagnolo-piemonte-concerto-ferragosto-2026",
+    "descrizione": "Sarà la località Rucas, nel territorio di Bagnolo Piemonte, ad ospitare la 46ª edizione del Concerto sinfonico di Ferragosto, l'appuntamento che ogni anno porta la grande musica d'autore sulle vette delle Alpi…",
+    "data": "2026-05-15T15:54:50+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "f66b7d8743ad",
+    "titolo": "Intesa sull’aerospazio tra i Distretti di Piemonte, Lombardia e Liguria",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/intesa-sullaerospazio-distretti-piemonte-lombardia-liguria",
+    "descrizione": "La Cabina economica del Nord-Ovest ha compiuto un nuovo passo strategico: nel Castello del Valentino di Torino il Distretto Aerospaziale Piemonte, il Lombardia Aerospace Cluster e il Distretto ligure Sistemi Intelligenti Integrati…",
+    "data": "2026-05-15T14:10:57+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "a3eef379aeec",
+    "titolo": "Domenica la Marcia per la Pace. Previste modifiche viabili",
+    "link": "https://www.comune.torino.it/novita/comunicati/domenica-marcia-per-pace-previste-modifiche-viabili",
+    "descrizione": "Domenica 17 maggio si terrà a Torino la “Marcia per la Pace”. Partenza ore 9.30 dal Parco del Valentino, ore 11.30 momento conclusivo in Piazza della Repubblica",
+    "data": "2026-05-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9aba10d0fa54",
+    "titolo": "Il trofeo della coppa CEV Champions League a Palazzo Civico. Domani all’Inalpi Arena al via le Final Four",
+    "link": "https://www.comune.torino.it/novita/comunicati/trofeo-della-coppa-cev-champions-league-palazzo-civico-domani-allinalpi-arena-al",
+    "descrizione": "Alla vigilia della prima giornata delle Final Four il trofeo della CEV Champions League ha fatto tappa a Palazzo Civico.",
+    "data": "2026-05-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "25a004b9388d",
     "titolo": "PiemontePay supera le 6 milioni di transazioni e guarda all’AI",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemontepay-supera-6-milioni-transazioni-guarda-allai",
@@ -1955,46 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/pagella-live-2026-nuove-categorie-opportunita-per-giovani-talenti-della-musica",
     "descrizione": "Si rinnova nel nome, nell’identità e nella struttura Pagella Live, il contest musicale promosso dalla Città di Torino e rivolto ai giovani under 23.",
     "data": "2026-04-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e8773137c2ed",
-    "titolo": "Parco della Salute: chiusura positiva della conferenza dei servizi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-chiusura-positiva-della-conferenza-dei-servizi",
-    "descrizione": "Si è conclusa con parere positivo la conferenza dei servizi per la realizzazione del Parco della Salute, della Ricerca e dell’Innovazione di Torino. Il presidente della Regione …",
-    "data": "2026-04-03T18:56:23+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a3d1222b666e",
-    "titolo": "Al Grattacielo Piemonte la mostra “Made in italy impresa al femminile”",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-grattacielo-piemonte-mostra-made-italy-impresa-al-femminile",
-    "descrizione": "La mostra “Made in Italy impresa al femminile”, organizzata dal Ministero delle Imprese e del Made in Italy in collaborazione con la Federazione dei Cavalieri del Lavoro e della Fondazione Marisa Bellisario, prosegue il suo viaggio arrivando a Torino, al Grattacielo…",
-    "data": "2026-04-03T16:26:55+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "1a566b741a8a",
-    "titolo": "È l’Asti Docg il vino piemontese dell’anno 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-docg-vino-piemontese-dellanno-2026",
-    "descrizione": "La Giunta regionale ha scelto l’Asti Docg come Vino piemontese dell’anno 2026. Sarà quindi il testimonial che accompagnerà le iniziative promozionali rivolte al grande pubblico e agli operatori, quali fiere, borse, presentazioni, manifestazioni istituzionali…",
-    "data": "2026-04-03T15:36:51+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "6125cb7c47ba",
-    "titolo": "Musei aperti a Pasqua",
-    "link": "https://www.comune.torino.it/novita/notizie/musei-aperti-pasqua",
-    "descrizione": "I principali musei cittadini rimangono aperti per le festività pasquali.",
-    "data": "2026-04-03T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
