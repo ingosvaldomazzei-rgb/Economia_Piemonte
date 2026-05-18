@@ -9,6 +9,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "0282f9d7482f",
+      "titolo": "Approvata la definizione agevolata per sanzioni e tributi non pagati fino al 2020",
+      "link": "https://www.comune.torino.it/novita/comunicati/approvata-definizione-agevolata-per-sanzioni-tributi-non-pagati-fino-al-2020",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "457dceaba4c0",
       "titolo": "Lunedì 18 maggio sciopero generale nazionale",
       "link": "https://www.comune.torino.it/novita/avvisi/lunedi-18-maggio-sciopero-generale-nazionale",
@@ -177,6 +185,56 @@
       "data": "2026-04-09T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "bilancio-regionale": [
+    {
+      "id": "0282f9d7482f",
+      "titolo": "Approvata la definizione agevolata per sanzioni e tributi non pagati fino al 2020",
+      "link": "https://www.comune.torino.it/novita/comunicati/approvata-definizione-agevolata-per-sanzioni-tributi-non-pagati-fino-al-2020",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "07a73fbcb6f2",
+      "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
+      "data": "2026-05-06T18:51:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c503ab663c6e",
+      "titolo": "Bollo auto: attiva la domiciliazione bancaria con riduzione del 5%",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bollo-auto-attiva-domiciliazione-bancaria-riduzione-5",
+      "data": "2026-05-05T12:52:07+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "00ae42ca4365",
+      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
+      "data": "2026-04-29T15:15:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2779a391d71c",
+      "titolo": "Controlli nell’area del giardino Tre lanterne, una denuncia e due sequestri da parte della Polizia Locale",
+      "link": "https://www.comune.torino.it/novita/comunicati/controlli-nellarea-giardino-tre-lanterne-una-denuncia-due-sequestri-parte-della",
+      "data": "2026-04-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cf4a4dced20c",
+      "titolo": "Un sostegno di 14,4 milioni alle aziende agricole montane",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-sostegno-144-milioni-alle-aziende-agricole-montane",
+      "data": "2026-04-13T15:09:05+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     }
   ],
   "pianificazione-territoriale": [
@@ -1287,48 +1345,6 @@
       "data": "2026-04-09T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "bilancio-regionale": [
-    {
-      "id": "07a73fbcb6f2",
-      "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
-      "data": "2026-05-06T18:51:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c503ab663c6e",
-      "titolo": "Bollo auto: attiva la domiciliazione bancaria con riduzione del 5%",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bollo-auto-attiva-domiciliazione-bancaria-riduzione-5",
-      "data": "2026-05-05T12:52:07+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "00ae42ca4365",
-      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
-      "data": "2026-04-29T15:15:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2779a391d71c",
-      "titolo": "Controlli nell’area del giardino Tre lanterne, una denuncia e due sequestri da parte della Polizia Locale",
-      "link": "https://www.comune.torino.it/novita/comunicati/controlli-nellarea-giardino-tre-lanterne-una-denuncia-due-sequestri-parte-della",
-      "data": "2026-04-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cf4a4dced20c",
-      "titolo": "Un sostegno di 14,4 milioni alle aziende agricole montane",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-sostegno-144-milioni-alle-aziende-agricole-montane",
-      "data": "2026-04-13T15:09:05+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "turismo": [
