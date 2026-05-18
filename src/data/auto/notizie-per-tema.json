@@ -1,4 +1,184 @@
 {
+  "lavoro-occupazione": [
+    {
+      "id": "86a9c92b4a70",
+      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – giugno 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-2",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "457dceaba4c0",
+      "titolo": "Lunedì 18 maggio sciopero generale nazionale",
+      "link": "https://www.comune.torino.it/novita/avvisi/lunedi-18-maggio-sciopero-generale-nazionale",
+      "data": "2026-05-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0733a678be47",
+      "titolo": "“Il futuro prende forma” a Urban Lab una mostra per raccontare il nuovo Piano Regolatore",
+      "link": "https://www.comune.torino.it/novita/comunicati/futuro-prende-forma-urban-lab-una-mostra-per-raccontare-nuovo-piano-regolatore",
+      "data": "2026-05-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "385f6cd22181",
+      "titolo": "Il nuovo piano triennale per la Formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-piano-triennale-per-formazione-tecnica-superiore",
+      "data": "2026-05-05T12:14:56+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "72c5c966ac2b",
+      "titolo": "Piemonte capofila della seconda edizione di Common Ground",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-capofila-della-seconda-edizione-common-ground",
+      "data": "2026-04-29T09:22:13+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c42c3fe3ba96",
+      "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
+      "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
+      "data": "2026-04-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1da80c398078",
+      "titolo": "Torino rende omaggio all’imprenditore e antifascista Sandro Fiorio: intitolata la balconata alberata di via San Donato",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-rende-omaggio-allimprenditore-antifascista-sandro-fiorio-intitolata",
+      "data": "2026-04-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8145fac0bc64",
+      "titolo": "Videosorveglianza, prosegue il lavoro per implementare telecamere e sistemi di sicurezza",
+      "link": "https://www.comune.torino.it/novita/comunicati/videosorveglianza-prosegue-lavoro-per-implementare-telecamere-sistemi-sicurezza",
+      "data": "2026-04-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "aae92810517d",
+      "titolo": "Accordo per recupero delle liste d’attesa, sistema 118 e meno esternalizzazioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-per-recupero-delle-liste-dattesa-sistema-118-meno-esternalizzazioni",
+      "data": "2026-04-20T18:43:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "68112c870caa",
+      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – maggio 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-1",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8cf3a17d4574",
+      "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi maggio 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico-0",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "sociale-welfare": [
+    {
+      "id": "fedf8fb2625c",
+      "titolo": "“Abbiamo un mondo in Comune”. La Città premia la cooperazione sociale",
+      "link": "https://www.comune.torino.it/novita/comunicati/abbiamo-un-mondo-comune-citta-premia-cooperazione-sociale",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "eb79c5fdde5e",
+      "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
+      "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2eecac69dcad",
+      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
+      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
+      "data": "2026-05-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b557ab764e10",
+      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
+      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
+      "data": "2026-05-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "447edd0ba015",
+      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
+      "data": "2026-05-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ae488a0696d4",
+      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
+      "data": "2026-04-28T12:14:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f2c70524ec52",
+      "titolo": "Continua il prolungamento orario dei nidi comunali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-prolungamento-orario-dei-nidi-comunali",
+      "data": "2026-04-27T15:09:33+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "773a32768d2e",
+      "titolo": "I risultati di Vesta 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/risultati-vesta-2026",
+      "data": "2026-04-22T17:41:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cf0a8e00af52",
+      "titolo": "Torino, un nuovo polo educativo e sociale per giovani e famiglie per l’ex asilo di via Alessandria",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-un-nuovo-polo-educativo-sociale-per-giovani-famiglie-per-lex-asilo-via",
+      "data": "2026-04-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6696de63ae5f",
+      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "854704bf0dd4",
+      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
+      "data": "2026-04-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "pianificazione-territoriale": [
     {
       "id": "4f97e454feed",
@@ -759,170 +939,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "sociale-welfare": [
-    {
-      "id": "eb79c5fdde5e",
-      "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
-      "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
-      "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2eecac69dcad",
-      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
-      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b557ab764e10",
-      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
-      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
-      "data": "2026-05-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "447edd0ba015",
-      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
-      "data": "2026-05-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ae488a0696d4",
-      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
-      "data": "2026-04-28T12:14:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f2c70524ec52",
-      "titolo": "Continua il prolungamento orario dei nidi comunali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-prolungamento-orario-dei-nidi-comunali",
-      "data": "2026-04-27T15:09:33+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "773a32768d2e",
-      "titolo": "I risultati di Vesta 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/risultati-vesta-2026",
-      "data": "2026-04-22T17:41:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cf0a8e00af52",
-      "titolo": "Torino, un nuovo polo educativo e sociale per giovani e famiglie per l’ex asilo di via Alessandria",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-un-nuovo-polo-educativo-sociale-per-giovani-famiglie-per-lex-asilo-via",
-      "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6696de63ae5f",
-      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "854704bf0dd4",
-      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
-      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
-      "data": "2026-04-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "457dceaba4c0",
-      "titolo": "Lunedì 18 maggio sciopero generale nazionale",
-      "link": "https://www.comune.torino.it/novita/avvisi/lunedi-18-maggio-sciopero-generale-nazionale",
-      "data": "2026-05-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0733a678be47",
-      "titolo": "“Il futuro prende forma” a Urban Lab una mostra per raccontare il nuovo Piano Regolatore",
-      "link": "https://www.comune.torino.it/novita/comunicati/futuro-prende-forma-urban-lab-una-mostra-per-raccontare-nuovo-piano-regolatore",
-      "data": "2026-05-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "385f6cd22181",
-      "titolo": "Il nuovo piano triennale per la Formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-piano-triennale-per-formazione-tecnica-superiore",
-      "data": "2026-05-05T12:14:56+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "72c5c966ac2b",
-      "titolo": "Piemonte capofila della seconda edizione di Common Ground",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-capofila-della-seconda-edizione-common-ground",
-      "data": "2026-04-29T09:22:13+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c42c3fe3ba96",
-      "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
-      "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
-      "data": "2026-04-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1da80c398078",
-      "titolo": "Torino rende omaggio all’imprenditore e antifascista Sandro Fiorio: intitolata la balconata alberata di via San Donato",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-rende-omaggio-allimprenditore-antifascista-sandro-fiorio-intitolata",
-      "data": "2026-04-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8145fac0bc64",
-      "titolo": "Videosorveglianza, prosegue il lavoro per implementare telecamere e sistemi di sicurezza",
-      "link": "https://www.comune.torino.it/novita/comunicati/videosorveglianza-prosegue-lavoro-per-implementare-telecamere-sistemi-sicurezza",
-      "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "aae92810517d",
-      "titolo": "Accordo per recupero delle liste d’attesa, sistema 118 e meno esternalizzazioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-per-recupero-delle-liste-dattesa-sistema-118-meno-esternalizzazioni",
-      "data": "2026-04-20T18:43:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "68112c870caa",
-      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – maggio 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-1",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8cf3a17d4574",
-      "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi maggio 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico-0",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "attivita-produttive": [
     {
       "id": "a2c947cdfddc",
@@ -1143,14 +1159,6 @@
       "titolo": "Torino, un nuovo polo educativo e sociale per giovani e famiglie per l’ex asilo di via Alessandria",
       "link": "https://www.comune.torino.it/novita/comunicati/torino-un-nuovo-polo-educativo-sociale-per-giovani-famiglie-per-lex-asilo-via",
       "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "83923956bd5b",
-      "titolo": "Pagella Live 2026, nuove categorie e opportunità per i giovani talenti della musica. Al via le iscrizioni",
-      "link": "https://www.comune.torino.it/novita/comunicati/pagella-live-2026-nuove-categorie-opportunita-per-giovani-talenti-della-musica",
-      "data": "2026-04-04T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }

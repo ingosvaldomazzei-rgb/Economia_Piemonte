@@ -1,5 +1,25 @@
 [
   {
+    "id": "86a9c92b4a70",
+    "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – giugno 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-2",
+    "descrizione": "Pubblicazione del calendario eventi programmati nei pressi dello Stadio Olimpico – Inalpi Arena nel prossimo mese di giugno 2026.",
+    "data": "2026-05-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fedf8fb2625c",
+    "titolo": "“Abbiamo un mondo in Comune”. La Città premia la cooperazione sociale",
+    "link": "https://www.comune.torino.it/novita/comunicati/abbiamo-un-mondo-comune-citta-premia-cooperazione-sociale",
+    "descrizione": "Sono stati premiati, dal sindaco Stefano Lo Russo, i progetti vincitori della terza edizione del Premio “Abbiamo un mondo in Comune”.",
+    "data": "2026-05-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "4f97e454feed",
     "titolo": "A Rucas di Bagnolo Piemonte il Concerto di Ferragosto 2026",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rucas-bagnolo-piemonte-concerto-ferragosto-2026",
@@ -1975,26 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/si-erano-specializzati-furto-ricettazione-polizia-locale-esegue-custodia",
     "descrizione": "Si erano specializzati in furto e ricettazione. La Polizia Locale esegue la custodia cautelare per due componenti di una “banda”.",
     "data": "2026-04-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2beb37c1fb89",
-    "titolo": "Buona Pasqua!",
-    "link": "https://www.comune.torino.it/novita/avvisi/buona-pasqua",
-    "descrizione": "Tanti auguri di buona Pasqua dalla Città di Torino.",
-    "data": "2026-04-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "83923956bd5b",
-    "titolo": "Pagella Live 2026, nuove categorie e opportunità per i giovani talenti della musica. Al via le iscrizioni",
-    "link": "https://www.comune.torino.it/novita/comunicati/pagella-live-2026-nuove-categorie-opportunita-per-giovani-talenti-della-musica",
-    "descrizione": "Si rinnova nel nome, nell’identità e nella struttura Pagella Live, il contest musicale promosso dalla Città di Torino e rivolto ai giovani under 23.",
-    "data": "2026-04-04T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"

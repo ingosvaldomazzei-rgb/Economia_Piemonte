@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-05-18T04:12:40.681139+00:00",
+  "ultimo_aggiornamento": "2026-05-18T10:21:17.507928+00:00",
   "sedute": [
     {
       "id": "ded115fdd8f4",
@@ -860,7 +860,7 @@
       "titolo": "Trasparenza degli indicatori di puntualità e affidabilità del servizio ferroviario regionale",
       "data": "2026-01-20T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/interfo/legislatura/12/atto/860/",
-      "stato": ""
+      "stato": "Discussa"
     },
     {
       "id": "74b0066106b6",
@@ -2028,7 +2028,7 @@
   ],
   "statistiche": {
     "totale_sedute": 22,
-    "totale_interrogazioni": 199,
+    "totale_interrogazioni": 149,
     "totale_interpellanze": 1,
     "totale_mozioni": 9,
     "totale_odg": 191,
