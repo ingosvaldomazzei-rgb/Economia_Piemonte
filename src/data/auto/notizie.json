@@ -1,5 +1,25 @@
 [
   {
+    "id": "660092f8ac74",
+    "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
+    "descrizione": "La Giunta regionale ha ampliato a 750.000 euro le risorse per garantire i servizi scolastici nei territori montani del Piemonte per l'anno scolastico 2026/27. Alla dotazione iniziale di 340.000 euro ne sono stati aggiunti ulteriori 410.…",
+    "data": "2026-05-18T16:25:02+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "a5308eb48b11",
+    "titolo": "Un bando da 20 milioni per l’insediamento dei giovani agricoltori",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-bando-20-milioni-per-linsediamento-dei-giovani-agricoltori",
+    "descrizione": "Al nuovo bando per l’insediamento dei giovani in agricoltura e la creazione di nuove aziende agricole under41 è stata assegnata la dotazione record di 20 milioni di euro, quasi doppia rispetto agli 11,6 milioni del bando…",
+    "data": "2026-05-18T14:58:46+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "86a9c92b4a70",
     "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – giugno 2026",
     "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-2",
@@ -28,6 +48,36 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "36b02a4fea01",
+    "titolo": "Sala Rossa: approvata mozione per valorizzare Barriera di Milano ed altri quartieri periferici",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvata-mozione-per-valorizzare-barriera-milano-altri-quartieri",
+    "descrizione": "Il documento impegna a realizzare iniziative, culturali sociali e sportive oltre a quelle già programmate per gli anni 2026 - 2027",
+    "data": "2026-05-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "2632b4ee7d62",
+    "titolo": "Per la valorizzazione del modello torinese di dialogo interreligioso",
+    "link": "https://www.comune.torino.it/novita/comunicati/per-valorizzazione-modello-torinese-dialogo-interreligioso",
+    "descrizione": "Una mozione in tema di dialogo interreligioso impegna la Giunta a promuovere il “modello Torino” come buona pratica di gestione della diversità religiosa",
+    "data": "2026-05-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b03f0175defb",
+    "titolo": "La Regione Piemonte al Salone del Libro 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
+    "descrizione": "La Regione Piemonte è stata protagonista al Salone internazionale del Libro 2026 con una presenza rinnovata, più strutturata e visibile, orientata alla valorizzazione del patrimonio culturale come elemento fondamentale per lo sviluppo, la…",
+    "data": "2026-05-18T08:30:59+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "4f97e454feed",
@@ -208,16 +258,6 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "b03f0175defb",
-    "titolo": "La Regione Piemonte al Salone del Libro 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
-    "descrizione": "La Regione Piemonte è al Salone internazionale del Libro 2026 con una presenza rinnovata, più strutturata e visibile, orientata alla valorizzazione del patrimonio culturale come elemento fondamentale per lo sviluppo, la coesione e la crescita…",
-    "data": "2026-05-13T08:30:59+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   },
   {
     "id": "1b65ed4d4db7",
@@ -1958,45 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "0c0a3633da3f",
-    "titolo": "Un giardino per Rodolfo Amprino",
-    "link": "https://www.comune.torino.it/novita/comunicati/un-giardino-per-rodolfo-amprino",
-    "descrizione": "Il giardino compreso tra corso Lanza e viale Curreno verrà intitolato a ricordo di Rodolfo Amprino",
-    "data": "2026-04-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8eeb36d1033c",
-    "titolo": "Commercio al dettaglio in sede fissa - decadenza cessata attività",
-    "link": "https://www.comune.torino.it/novita/avvisi/commercio-al-dettaglio-sede-fissa-decadenza-cessata-attivita-0",
-    "descrizione": "Attività di commercio al dettaglio in sede fissa - decadenza per cessata attività",
-    "data": "2026-04-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6e5c9d6b58e2",
-    "titolo": "“Spazi che uniscono”: al via i lavori di rinnovo del manto stradale in Strada Traforo Del Pino",
-    "link": "https://www.comune.torino.it/novita/comunicati/spazi-che-uniscono-al-via-lavori-rinnovo-manto-stradale-strada-traforo-pino",
-    "descrizione": "Prenderanno il via domani, giovedì 9 aprile, i lavori di manutenzione straordinaria del manto stradale di strada Traforo del Pino.",
-    "data": "2026-04-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f08b3c70d7d6",
-    "titolo": "Vesta 2026: il click day il 21 aprile",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vesta-2026-click-day-21-aprile",
-    "descrizione": "Il “click day” per ottenere il voucher Vesta 2026 sarà il 21 aprile: si inizierà su https://vestapiemonte.it/ alle ore 12 e il portale resterà aperto per le…",
-    "data": "2026-04-07T13:28:48+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
