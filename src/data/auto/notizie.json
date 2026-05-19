@@ -1,5 +1,15 @@
 [
   {
+    "id": "c36ee9e8c75d",
+    "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
+    "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
+    "descrizione": "Tra febbraio e maggio 2026 la Città ha avviato una serie di momenti di confronto e progettazione collaborativa con gli attori del territorio.",
+    "data": "2026-05-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "660092f8ac74",
     "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
@@ -1988,15 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "b93f4e67aa82",
-    "titolo": "Nuova vita per quattro ex istituti scolastici di Torino",
-    "link": "https://www.comune.torino.it/novita/comunicati/nuova-vita-per-quattro-ex-istituti-scolastici-torino",
-    "descrizione": "Quattro ex scuole per l’infanzia, dismesse a causa del calo demografico, tornano a vivere con nuove funzioni sociali, educative e inclusive.",
-    "data": "2026-04-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
