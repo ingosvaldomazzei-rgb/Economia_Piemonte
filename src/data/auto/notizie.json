@@ -10,6 +10,46 @@
     "colore": "#dc2626"
   },
   {
+    "id": "d1a487ffa508",
+    "titolo": "Segnalato un tentativo di truffa telefonica su clonazione CIE",
+    "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-truffa-telefonica-clonazione-cie",
+    "descrizione": "Segnaliamo una possibile truffa telefonica in corso, con comunicazioni sulla clonazione della carta d'identità elettronica.",
+    "data": "2026-05-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fcf3b18730c4",
+    "titolo": "Cimiteri: lavori per oltre 850 mila euro al Monumentale. Approvati i progetti per il ripristino delle arcate e l’ampliamento del roseto",
+    "link": "https://www.comune.torino.it/novita/comunicati/cimiteri-lavori-per-oltre-850-mila-euro-al-monumentale-approvati-progetti-per",
+    "descrizione": "Un investimento complessivo di oltre 850 mila euro per interventi di conservazione, manutenzione e ampliamento degli spazi dedicati alla memoria.",
+    "data": "2026-05-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0a584bbb7ba5",
+    "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
+    "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
+    "descrizione": "La Città di Torino prosegue nel suo impegno a favore delle politiche di accoglienza e inclusione sociale delle persone richiedenti asilo e rifugiate.",
+    "data": "2026-05-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "26eec76304e3",
+    "titolo": "Gruppo ConVersAzioni - Linguaggi proibiti",
+    "link": "https://www.comune.torino.it/novita/notizie/gruppo-conversazioni-linguaggi-proibiti",
+    "descrizione": "Incontri psicoeducativi in modalità individuale e di gruppo con genitori, caregiver, adolescenti (fascia di età 11-18).",
+    "data": "2026-05-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "660092f8ac74",
     "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
@@ -1958,45 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "ef0da0a42525",
-    "titolo": "Consegna pergamena a Claudio Baglioni",
-    "link": "https://www.comune.torino.it/novita/notizie/consegna-pergamena-claudio-baglioni",
-    "descrizione": "In Sala Rossa a Palazzo Civico, venerdì 10 aprile dalle ore 15:30.",
-    "data": "2026-04-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "baa9e48ece91",
-    "titolo": "Repubblica del Perù - Elezioni presidenziali del 12 aprile 2026",
-    "link": "https://www.comune.torino.it/novita/avvisi/repubblica-peru-elezioni-presidenziali-12-aprile-2026",
-    "descrizione": "Elezioni presidenziali per la Repubblica del Perù",
-    "data": "2026-04-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6f035ed056e8",
-    "titolo": "Tentativo di truffa via SMS su pagamento TARI",
-    "link": "https://www.comune.torino.it/novita/avvisi/tentativo-truffa-via-sms-pagamento-tari",
-    "descrizione": "Segnaliamo una possibile truffa in corso tramite messaggi ingannevoli ricevuti sul telefono.",
-    "data": "2026-04-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6b354d940f54",
-    "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-    "descrizione": "Dopo l’approvazione della Giunta regionale i 24 accordi di collaborazione, uno per ogni Area Territoriale Omogenea (ATO), che consentiranno la piena attuazione dei Fondi di Sviluppo e Coesione, hanno iniziato ad essere sottoscritti con gli 805 Comuni…",
-    "data": "2026-04-08T16:53:21+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

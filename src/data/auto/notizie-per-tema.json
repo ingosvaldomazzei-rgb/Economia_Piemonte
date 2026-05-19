@@ -285,6 +285,286 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "d1a487ffa508",
+      "titolo": "Segnalato un tentativo di truffa telefonica su clonazione CIE",
+      "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-truffa-telefonica-clonazione-cie",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2c1e5364d1b0",
+      "titolo": "Segnalato un tentativo di frode via SMS con una finta comunicazione sul transito in ZTL",
+      "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-frode-via-sms-una-finta-comunicazione-sul-transito-ztl",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c42c3fe3ba96",
+      "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
+      "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
+      "data": "2026-04-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b01acefd9bcd",
+      "titolo": "I boschi aule a cielo aperto",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/boschi-aule-cielo-aperto",
+      "data": "2026-04-22T15:23:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a1afeaa21932",
+      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
+      "data": "2026-04-17T11:31:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "73d8536b1897",
+      "titolo": "Le iniziative per il futuro del sistema neve",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iniziative-per-futuro-sistema-neve",
+      "data": "2026-04-10T12:25:01+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "sociale-welfare": [
+    {
+      "id": "0a584bbb7ba5",
+      "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
+      "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fedf8fb2625c",
+      "titolo": "“Abbiamo un mondo in Comune”. La Città premia la cooperazione sociale",
+      "link": "https://www.comune.torino.it/novita/comunicati/abbiamo-un-mondo-comune-citta-premia-cooperazione-sociale",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "eb79c5fdde5e",
+      "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
+      "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2eecac69dcad",
+      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
+      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
+      "data": "2026-05-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b557ab764e10",
+      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
+      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
+      "data": "2026-05-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "447edd0ba015",
+      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
+      "data": "2026-05-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ae488a0696d4",
+      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
+      "data": "2026-04-28T12:14:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f2c70524ec52",
+      "titolo": "Continua il prolungamento orario dei nidi comunali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-prolungamento-orario-dei-nidi-comunali",
+      "data": "2026-04-27T15:09:33+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "773a32768d2e",
+      "titolo": "I risultati di Vesta 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/risultati-vesta-2026",
+      "data": "2026-04-22T17:41:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cf0a8e00af52",
+      "titolo": "Torino, un nuovo polo educativo e sociale per giovani e famiglie per l’ex asilo di via Alessandria",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-un-nuovo-polo-educativo-sociale-per-giovani-famiglie-per-lex-asilo-via",
+      "data": "2026-04-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6696de63ae5f",
+      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
+      "data": "2026-04-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "854704bf0dd4",
+      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
+      "data": "2026-04-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "montagna": [
+    {
+      "id": "0a584bbb7ba5",
+      "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
+      "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "660092f8ac74",
+      "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
+      "data": "2026-05-18T16:25:02+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "433135a0d226",
+      "titolo": "Contributi alle stazioni sciistiche per sicurezza sulle piste e gestione degli impianti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-alle-stazioni-sciistiche-per-sicurezza-sulle-piste-gestione-degli-impianti",
+      "data": "2026-05-08T12:19:43+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5fe748bf20e0",
+      "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
+      "data": "2026-05-06T14:51:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e3950beeb9c4",
+      "titolo": "Ampliate le risorse per la difesa del suolo nelle aree protette",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ampliate-risorse-per-difesa-suolo-nelle-aree-protette",
+      "data": "2026-04-28T11:36:13+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a1afeaa21932",
+      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
+      "data": "2026-04-17T11:31:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "73d8536b1897",
+      "titolo": "Le iniziative per il futuro del sistema neve",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iniziative-per-futuro-sistema-neve",
+      "data": "2026-04-10T12:25:01+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "sanita-regionale": [
+    {
+      "id": "26eec76304e3",
+      "titolo": "Gruppo ConVersAzioni - Linguaggi proibiti",
+      "link": "https://www.comune.torino.it/novita/notizie/gruppo-conversazioni-linguaggi-proibiti",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9aba10d0fa54",
+      "titolo": "Il trofeo della coppa CEV Champions League a Palazzo Civico. Domani all’Inalpi Arena al via le Final Four",
+      "link": "https://www.comune.torino.it/novita/comunicati/trofeo-della-coppa-cev-champions-league-palazzo-civico-domani-allinalpi-arena-al",
+      "data": "2026-05-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5be4d7bc528c",
+      "titolo": "Final Four di CEV Champions League 2026 - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/final-four-cev-champions-league-2026-convocazione-per-assegnazione-posteggi",
+      "data": "2026-05-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fca2a546bdbd",
+      "titolo": "Un tavolo permanente per infermieri e servizi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-tavolo-permanente-per-infermieri-servizi",
+      "data": "2026-04-30T17:45:53+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f24dbbcd021b",
+      "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
+      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
+      "data": "2026-04-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f1b5461e854e",
+      "titolo": "Il piano generale del nuovo ospedale di Vercelli",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-generale-nuovo-ospedale-vercelli",
+      "data": "2026-04-27T16:02:17+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f1e5d0d5f326",
+      "titolo": "I consultori familiari a Torino: realtà, percezione e prospettive. Domani a Palazzo Civico la presentazione del report",
+      "link": "https://www.comune.torino.it/novita/comunicati/consultori-familiari-torino-realta-percezione-prospettive-domani-palazzo-civico",
+      "data": "2026-04-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "46a058fd537e",
+      "titolo": "La Settimana della pertosse",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/settimana-della-pertosse",
+      "data": "2026-04-10T18:07:42+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "244c83b8abd0",
+      "titolo": "Intitolato un giardino a Rodolfo Amprino, il “Kant della Medicina”",
+      "link": "https://www.comune.torino.it/novita/comunicati/intitolato-un-giardino-rodolfo-amprino-kant-della-medicina",
+      "data": "2026-04-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "agricoltura": [
     {
       "id": "660092f8ac74",
@@ -529,56 +809,6 @@
       "fonte_id": "regione"
     }
   ],
-  "montagna": [
-    {
-      "id": "660092f8ac74",
-      "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
-      "data": "2026-05-18T16:25:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "433135a0d226",
-      "titolo": "Contributi alle stazioni sciistiche per sicurezza sulle piste e gestione degli impianti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-alle-stazioni-sciistiche-per-sicurezza-sulle-piste-gestione-degli-impianti",
-      "data": "2026-05-08T12:19:43+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5fe748bf20e0",
-      "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
-      "data": "2026-05-06T14:51:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e3950beeb9c4",
-      "titolo": "Ampliate le risorse per la difesa del suolo nelle aree protette",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ampliate-risorse-per-difesa-suolo-nelle-aree-protette",
-      "data": "2026-04-28T11:36:13+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a1afeaa21932",
-      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
-      "data": "2026-04-17T11:31:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "73d8536b1897",
-      "titolo": "Le iniziative per il futuro del sistema neve",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iniziative-per-futuro-sistema-neve",
-      "data": "2026-04-10T12:25:01+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "giovani": [
     {
       "id": "a5308eb48b11",
@@ -625,96 +855,6 @@
       "titolo": "Torino, un nuovo polo educativo e sociale per giovani e famiglie per l’ex asilo di via Alessandria",
       "link": "https://www.comune.torino.it/novita/comunicati/torino-un-nuovo-polo-educativo-sociale-per-giovani-famiglie-per-lex-asilo-via",
       "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "sociale-welfare": [
-    {
-      "id": "fedf8fb2625c",
-      "titolo": "“Abbiamo un mondo in Comune”. La Città premia la cooperazione sociale",
-      "link": "https://www.comune.torino.it/novita/comunicati/abbiamo-un-mondo-comune-citta-premia-cooperazione-sociale",
-      "data": "2026-05-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "eb79c5fdde5e",
-      "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
-      "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
-      "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2eecac69dcad",
-      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
-      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b557ab764e10",
-      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
-      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
-      "data": "2026-05-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "447edd0ba015",
-      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
-      "data": "2026-05-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ae488a0696d4",
-      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
-      "data": "2026-04-28T12:14:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f2c70524ec52",
-      "titolo": "Continua il prolungamento orario dei nidi comunali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-prolungamento-orario-dei-nidi-comunali",
-      "data": "2026-04-27T15:09:33+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "773a32768d2e",
-      "titolo": "I risultati di Vesta 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/risultati-vesta-2026",
-      "data": "2026-04-22T17:41:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cf0a8e00af52",
-      "titolo": "Torino, un nuovo polo educativo e sociale per giovani e famiglie per l’ex asilo di via Alessandria",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-un-nuovo-polo-educativo-sociale-per-giovani-famiglie-per-lex-asilo-via",
-      "data": "2026-04-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6696de63ae5f",
-      "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
-      "data": "2026-04-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "854704bf0dd4",
-      "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
-      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
-      "data": "2026-04-09T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1069,130 +1209,6 @@
       "data": "2026-04-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6b354d940f54",
-      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-      "data": "2026-04-08T16:53:21+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "sanita-regionale": [
-    {
-      "id": "9aba10d0fa54",
-      "titolo": "Il trofeo della coppa CEV Champions League a Palazzo Civico. Domani all’Inalpi Arena al via le Final Four",
-      "link": "https://www.comune.torino.it/novita/comunicati/trofeo-della-coppa-cev-champions-league-palazzo-civico-domani-allinalpi-arena-al",
-      "data": "2026-05-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5be4d7bc528c",
-      "titolo": "Final Four di CEV Champions League 2026 - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/final-four-cev-champions-league-2026-convocazione-per-assegnazione-posteggi",
-      "data": "2026-05-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fca2a546bdbd",
-      "titolo": "Un tavolo permanente per infermieri e servizi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-tavolo-permanente-per-infermieri-servizi",
-      "data": "2026-04-30T17:45:53+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f24dbbcd021b",
-      "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
-      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
-      "data": "2026-04-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f1b5461e854e",
-      "titolo": "Il piano generale del nuovo ospedale di Vercelli",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-generale-nuovo-ospedale-vercelli",
-      "data": "2026-04-27T16:02:17+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f1e5d0d5f326",
-      "titolo": "I consultori familiari a Torino: realtà, percezione e prospettive. Domani a Palazzo Civico la presentazione del report",
-      "link": "https://www.comune.torino.it/novita/comunicati/consultori-familiari-torino-realta-percezione-prospettive-domani-palazzo-civico",
-      "data": "2026-04-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "46a058fd537e",
-      "titolo": "La Settimana della pertosse",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/settimana-della-pertosse",
-      "data": "2026-04-10T18:07:42+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "244c83b8abd0",
-      "titolo": "Intitolato un giardino a Rodolfo Amprino, il “Kant della Medicina”",
-      "link": "https://www.comune.torino.it/novita/comunicati/intitolato-un-giardino-rodolfo-amprino-kant-della-medicina",
-      "data": "2026-04-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "2c1e5364d1b0",
-      "titolo": "Segnalato un tentativo di frode via SMS con una finta comunicazione sul transito in ZTL",
-      "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-frode-via-sms-una-finta-comunicazione-sul-transito-ztl",
-      "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c42c3fe3ba96",
-      "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
-      "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
-      "data": "2026-04-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b01acefd9bcd",
-      "titolo": "I boschi aule a cielo aperto",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/boschi-aule-cielo-aperto",
-      "data": "2026-04-22T15:23:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a1afeaa21932",
-      "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
-      "data": "2026-04-17T11:31:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "73d8536b1897",
-      "titolo": "Le iniziative per il futuro del sistema neve",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iniziative-per-futuro-sistema-neve",
-      "data": "2026-04-10T12:25:01+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6b354d940f54",
-      "titolo": "La firma degli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firma-degli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-      "data": "2026-04-08T16:53:21+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "commercio-artigianato": [

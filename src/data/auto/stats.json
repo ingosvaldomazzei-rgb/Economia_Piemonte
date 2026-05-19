@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 146,
-    "regione": 53,
+    "comune_torino": 147,
+    "regione": 52,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -24,11 +24,7 @@
     },
     {
       "tema": "sociale-welfare",
-      "conteggio": 11
-    },
-    {
-      "tema": "fondi-europei",
-      "conteggio": 11
+      "conteggio": 12
     },
     {
       "tema": "attivita-produttive",
@@ -39,12 +35,16 @@
       "conteggio": 10
     },
     {
+      "tema": "fondi-europei",
+      "conteggio": 10
+    },
+    {
       "tema": "commercio-artigianato",
       "conteggio": 10
     },
     {
       "tema": "sanita-regionale",
-      "conteggio": 8
+      "conteggio": 9
     }
   ],
   "totale_temi_con_notizie": 23
