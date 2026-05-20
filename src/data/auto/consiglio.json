@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-05-19T20:01:32.751280+00:00",
+  "ultimo_aggiornamento": "2026-05-20T04:09:19.209011+00:00",
   "sedute": [
     {
       "id": "ded115fdd8f4",
@@ -2028,11 +2028,11 @@
   ],
   "statistiche": {
     "totale_sedute": 22,
-    "totale_interrogazioni": 100,
-    "totale_interpellanze": 0,
-    "totale_mozioni": 2,
-    "totale_odg": 98,
-    "mozioni_approvate": 57,
-    "mozioni_respinte": 19
+    "totale_interrogazioni": 199,
+    "totale_interpellanze": 1,
+    "totale_mozioni": 9,
+    "totale_odg": 191,
+    "mozioni_approvate": 101,
+    "mozioni_respinte": 40
   }
 }
