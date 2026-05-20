@@ -1,5 +1,25 @@
 [
   {
+    "id": "e8c152680961",
+    "titolo": "A Torino ci saranno più alberi.",
+    "link": "https://www.comune.torino.it/novita/notizie/torino-ci-saranno-piu-alberi",
+    "descrizione": "Ci saranno oltre 2000 nuove messe a dimora entro il 2026.",
+    "data": "2026-05-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ea65f56b0cbf",
+    "titolo": "Le novità dei cantieri di lavoro 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-dei-cantieri-lavoro-2026",
+    "descrizione": "Più risorse a disposizione, limiti di età abbassati e nessuna necessità di cofinanziamento sono le novità dei nuovi avvisi della Regione Piemonte per i cantieri di lavoro.…",
+    "data": "2026-05-19T12:37:53+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "c36ee9e8c75d",
     "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
     "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
@@ -44,6 +64,16 @@
     "titolo": "Gruppo ConVersAzioni - Linguaggi proibiti",
     "link": "https://www.comune.torino.it/novita/notizie/gruppo-conversazioni-linguaggi-proibiti",
     "descrizione": "Incontri psicoeducativi in modalità individuale e di gruppo con genitori, caregiver, adolescenti (fascia di età 11-18).",
+    "data": "2026-05-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "afce1d35884a",
+    "titolo": "Prezzi al consumo per l’intera collettività (Nic)",
+    "link": "https://www.comune.torino.it/novita/comunicati/prezzi-al-consumo-per-lintera-collettivita-nic",
+    "descrizione": "Nel mese di aprile 2026 l’indice complessivo dei prezzi al consumo per l’intera collettività è risultato pari al 102,5.",
     "data": "2026-05-19T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -123,6 +153,16 @@
     "id": "b03f0175defb",
     "titolo": "La Regione Piemonte al Salone del Libro 2026",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
+    "descrizione": "La Regione Piemonte è stata protagonista al Salone internazionale del Libro 2026 con una presenza rinnovata, più strutturata e visibile, orientata alla valorizzazione del patrimonio culturale come elemento fondamentale per lo sviluppo, la…",
+    "data": "2026-05-18T08:30:59+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "61b8eb75ccc5",
+    "titolo": "Il successo della Regione Piemonte al Salone del Libro 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/successo-della-regione-piemonte-al-salone-libro-2026",
     "descrizione": "La Regione Piemonte è stata protagonista al Salone internazionale del Libro 2026 con una presenza rinnovata, più strutturata e visibile, orientata alla valorizzazione del patrimonio culturale come elemento fondamentale per lo sviluppo, la…",
     "data": "2026-05-18T08:30:59+02:00",
     "fonte": "Regione Piemonte",
@@ -1955,46 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/intitolato-un-giardino-rodolfo-amprino-kant-della-medicina",
     "descrizione": "La Città di Torino ha dedicato a Rodolfo Amprino, professore di Anatomia, un giardino tra corso Lanza e viale Curreno, tra Borgo Po e Borgo Crimea",
     "data": "2026-04-10T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8df93cd19787",
-    "titolo": "Claudio Baglioni a Palazzo Civico. La Città di Torino omaggia l’artista, che a settembre concluderà il suo tour di concerti in piazza San Carlo",
-    "link": "https://www.comune.torino.it/novita/comunicati/claudio-baglioni-palazzo-civico-citta-torino-omaggia-lartista-che-settembre",
-    "descrizione": "Si chiuderà a Torino, venerdì 18 settembre in piazza San Carlo, il GrandTour di Claudio Baglioni.",
-    "data": "2026-04-10T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6c251e485f05",
-    "titolo": "Ancora in crescita il turismo in Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ancora-crescita-turismo-piemonte",
-    "descrizione": "Continua a crescere il turismo in Piemonte. Anche il 2025 si è chiuso numeri positivi: gli arrivi hanno superato quota 6.730.000 e le presenze sono state 18.170.000. Dati che indicano un…",
-    "data": "2026-04-09T15:40:07+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "854704bf0dd4",
-    "titolo": "Edilizia sociale, Torino e Settimo Torinese avviano un tavolo congiunto per il futuro di Borgo Nuovo",
-    "link": "https://www.comune.torino.it/novita/comunicati/edilizia-sociale-torino-settimo-torinese-avviano-un-tavolo-congiunto-per-futuro",
-    "descrizione": "La Città di Torino e il Comune di Settimo Torinese avviano un tavolo congiunto per valutare interventi di rigenerazione urbana.",
-    "data": "2026-04-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "91675fefd0d5",
-    "titolo": "Modifiche alla viabilità in corso Mediterraneo per lavori sull’illuminazione pubblica",
-    "link": "https://www.comune.torino.it/novita/comunicati/modifiche-alla-viabilita-corso-mediterraneo-per-lavori-sullilluminazione",
-    "descrizione": "Per consentire l’esecuzione di un intervento di miglioramento strutturale degli impianti di illuminazione pubblica da parte di Iren.",
-    "data": "2026-04-09T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
