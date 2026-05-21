@@ -1,5 +1,15 @@
 [
   {
+    "id": "eb31cd4f509a",
+    "titolo": "Accordo per il sostegno ai testimoni di giustizia",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-per-sostegno-ai-testimoni-giustizia",
+    "descrizione": "Firmato al Grattacielo Piemonte il protocollo tra Regione Piemonte, Prefettura di Torino e Procura della Repubblica per l’attuazione della misura regionale a sostegno dei testimoni di giustizia. A sottoscrivere il documento, il primo di questo tipo in Italia…",
+    "data": "2026-05-21T16:43:47+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "bd9ae3b130c2",
     "titolo": "CFM - Saggio Tuttocoro",
     "link": "https://www.comune.torino.it/novita/avvisi/cfm-saggio-tuttocoro",
@@ -1984,16 +1994,6 @@
     "titolo": "Un appello a Governo e Parlamento per estendere i benefici della Legge Smuraglia",
     "link": "https://www.comune.torino.it/novita/comunicati/un-appello-governo-parlamento-per-estendere-benefici-della-legge-smuraglia",
     "descrizione": "Approvata dal Consiglio Comunale di Torino all’unanimità una mozione proposta da Maria Grazia Grippo - PD",
-    "data": "2026-04-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "43cb4d4d4c8f",
-    "titolo": "Sala Rossa: approvati tre atti di indirizzo per l'adesione della Città di Torino alla piattaforma unica nazionale dei contrassegni disabili CUDE",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvati-tre-atti-indirizzo-per-ladesione-della-citta-torino-alla",
-    "descrizione": "L'adesione consentirebbe a persone con disabiità una più agevole mobilità sul territorio nazionale con il contrassegno CUDE",
     "data": "2026-04-13T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
