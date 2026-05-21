@@ -1,5 +1,15 @@
 [
   {
+    "id": "bd9ae3b130c2",
+    "titolo": "CFM - Saggio Tuttocoro",
+    "link": "https://www.comune.torino.it/novita/avvisi/cfm-saggio-tuttocoro",
+    "descrizione": "Concerto di fine anno",
+    "data": "2026-05-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "19628df780a3",
     "titolo": "Finanziati 54 terrazzamenti montani",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/finanziati-54-terrazzamenti-montani",
@@ -1984,16 +1994,6 @@
     "titolo": "Edilizia Privata - Modifiche ai servizi di informazione",
     "link": "https://www.comune.torino.it/novita/avvisi/edilizia-privata-modifiche-ai-servizi-informazione",
     "descrizione": "Rinnovo dei servizi di informazione forniti dalla Divisione Edilizia Privata",
-    "data": "2026-04-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8cf3a17d4574",
-    "titolo": "INTEGRAZIONE - Rilascio concessioni occupazione temporanea del suolo pubblico in occasione di concerti, eventi - calendario eventi maggio 2026",
-    "link": "https://www.comune.torino.it/novita/notizie/integrazione-rilascio-concessioni-occupazione-temporanea-suolo-pubblico-0",
-    "descrizione": "Integrazione calendario per Concomitanza tra Partita della Storia e Coppa Italia Frecciarossa",
     "data": "2026-04-13T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
