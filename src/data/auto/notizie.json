@@ -360,6 +360,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "989b9c7df3e2",
+    "titolo": "Località interessate da controlli con dispositivi mobili",
+    "link": "https://www.comune.torino.it/novita/avvisi/localita-interessate-controlli-dispositivi-mobili",
+    "descrizione": "Programmazione controlli della velocità – pubblicazioni quindicinali",
+    "data": "2026-05-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "b03f0175defb",
     "titolo": "La Regione Piemonte al Salone del Libro 2026",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
@@ -1984,16 +1994,6 @@
     "titolo": "Domani riapre il sottopasso Spezia. In settimana manutenzione dei sottopassi Statuto, Repubblica e Grosseto",
     "link": "https://www.comune.torino.it/novita/comunicati/domani-riapre-sottopasso-spezia-settimana-manutenzione-dei-sottopassi-statuto",
     "descrizione": "Nella mattinata di domani verrà riaperto al transito il sottopasso Spezia. Questa settimana, inoltre, tre sottopassi saranno oggetto di manutenzione",
-    "data": "2026-04-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "60cfaa3007a2",
-    "titolo": "Torino città dell’aerospazio: Thales Alenia Space propone la realizzazione di un nuovo edificio produttivo",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-citta-dellaerospazio-thales-alenia-space-propone-realizzazione-un-nuovo",
-    "descrizione": "La Città di Torino si conferma come polo industriale e tecnologico di rilevanza internazionale.",
     "data": "2026-04-14T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
