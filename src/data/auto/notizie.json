@@ -1,5 +1,15 @@
 [
   {
+    "id": "d5af940720f5",
+    "titolo": "Cura dei giardini storici",
+    "link": "https://www.comune.torino.it/novita/notizie/cura-dei-giardini-storici",
+    "descrizione": "I giardini del centro di Torino tornano a raccontare la loro storia fatta di eleganza, armonia e cura quotidiana.",
+    "data": "2026-05-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "eb31cd4f509a",
     "titolo": "Accordo per il sostegno ai testimoni di giustizia",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-per-sostegno-ai-testimoni-giustizia",
@@ -44,6 +54,16 @@
     "titolo": "CFM - Iscrizioni all'anno formativo 2026/27",
     "link": "https://www.comune.torino.it/novita/notizie/cfm-iscrizioni-allanno-formativo-202627",
     "descrizione": "Aprono le iscrizioni al Centro Civico di Formazione Musicale",
+    "data": "2026-05-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "84093b93481f",
+    "titolo": "Fermi in Festa!",
+    "link": "https://www.comune.torino.it/novita/notizie/fermi-festa",
+    "descrizione": "Sabato 23 maggio un pomeriggio di festa per celebrare la conclusione del Patto Educativo di Comunità.",
     "data": "2026-05-21T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -244,6 +264,16 @@
     "titolo": "Per la valorizzazione del modello torinese di dialogo interreligioso",
     "link": "https://www.comune.torino.it/novita/comunicati/per-valorizzazione-modello-torinese-dialogo-interreligioso",
     "descrizione": "Una mozione in tema di dialogo interreligioso impegna la Giunta a promuovere il “modello Torino” come buona pratica di gestione della diversità religiosa",
+    "data": "2026-05-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "dfbb39130ea3",
+    "titolo": "Istanza di Piano Esecutivo Convenzionato (PEC): aggiornamento modulistica",
+    "link": "https://www.comune.torino.it/novita/avvisi/istanza-piano-esecutivo-convenzionato-pec-aggiornamento-modulistica",
+    "descrizione": "Con Determinazione Dirigenziale 2994 del 18/05/2026 è stato aggiornato il modello dell'istanza di PEC.",
     "data": "2026-05-18T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1964,36 +1994,6 @@
     "titolo": "Come iscriversi alla Festa dei Vicini 2026",
     "link": "https://www.comune.torino.it/novita/notizie/come-iscriversi-alla-festa-dei-vicini-2026",
     "descrizione": "Entro il 30 aprile è possibile iscriversi per organizzare una festa nel proprio quartiere; è disponibile la registrazione della presentazione del 16 aprile.",
-    "data": "2026-04-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6696de63ae5f",
-    "titolo": "La scuola come luogo di formazione, inclusione e integrazione; due documenti votati in Sala Rossa",
-    "link": "https://www.comune.torino.it/novita/comunicati/scuola-come-luogo-formazione-inclusione-integrazione-due-documenti-votati-sala",
-    "descrizione": "Le difficoltà del sistema scolastico nelle periferie sono una sfida da raccogliere per promuovere inclusione e coesione sociale, afferma il Consiglio comunale",
-    "data": "2026-04-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "29c368b77d34",
-    "titolo": "La solidarietà della Sala Rossa alla popolazione del Rojava",
-    "link": "https://www.comune.torino.it/novita/comunicati/solidarieta-della-sala-rossa-alla-popolazione-rojava",
-    "descrizione": "Il Consiglio comunale esprime la propria solidarietà alla popolazione del Rojava, regione nel nord della Siria.",
-    "data": "2026-04-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "5487da6826dd",
-    "titolo": "Un appello a Governo e Parlamento per estendere i benefici della Legge Smuraglia",
-    "link": "https://www.comune.torino.it/novita/comunicati/un-appello-governo-parlamento-per-estendere-benefici-della-legge-smuraglia",
-    "descrizione": "Approvata dal Consiglio Comunale di Torino all’unanimità una mozione proposta da Maria Grazia Grippo - PD",
     "data": "2026-04-13T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
