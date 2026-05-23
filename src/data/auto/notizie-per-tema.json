@@ -1,4 +1,166 @@
 {
+  "cultura-beni-culturali": [
+    {
+      "id": "5d9f69b44e8f",
+      "titolo": "Torino festeggia i suoi nuovi cittadini e i 30 anni del Centro Interculturale di corso Taranto, recentemente riqualificato",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-festeggia-suoi-nuovi-cittadini-30-anni-centro-interculturale-corso",
+      "data": "2026-05-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "770ed6da6a26",
+      "titolo": "La Regione Piemonte sulla scomparsa di Carlin Petrini",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-sulla-scomparsa-carlin-petrini",
+      "data": "2026-05-22T10:06:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "77d774b69d7c",
+      "titolo": "Intitolato il giardino “Vittime della strage di Vergarolla”",
+      "link": "https://www.comune.torino.it/novita/comunicati/intitolato-giardino-vittime-della-strage-vergarolla",
+      "data": "2026-05-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "36b02a4fea01",
+      "titolo": "Sala Rossa: approvata mozione per valorizzare Barriera di Milano ed altri quartieri periferici",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvata-mozione-per-valorizzare-barriera-milano-altri-quartieri",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b03f0175defb",
+      "titolo": "La Regione Piemonte al Salone del Libro 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
+      "data": "2026-05-18T08:30:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "61b8eb75ccc5",
+      "titolo": "Il successo della Regione Piemonte al Salone del Libro 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/successo-della-regione-piemonte-al-salone-libro-2026",
+      "data": "2026-05-18T08:30:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a3eef379aeec",
+      "titolo": "Domenica la Marcia per la Pace. Previste modifiche viabili",
+      "link": "https://www.comune.torino.it/novita/comunicati/domenica-marcia-per-pace-previste-modifiche-viabili",
+      "data": "2026-05-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "01cf48650477",
+      "titolo": "Certificati esami Cils - sessione dicembre 2025",
+      "link": "https://www.comune.torino.it/novita/notizie/certificati-esami-cils-sessione-dicembre-2025",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "eb79c5fdde5e",
+      "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
+      "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "24c33a6152a1",
+      "titolo": "La Città di Torino inaugura il terzo Bibliobus delle Biblioteche Civiche",
+      "link": "https://www.comune.torino.it/novita/comunicati/citta-torino-inaugura-terzo-bibliobus-delle-biblioteche-civiche",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1b65ed4d4db7",
+      "titolo": "Da Fondazione Compagnia di San Paolo una proposta di partenariato pubblico privato per il futuro del Borgo Medievale",
+      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-una-proposta-partenariato-pubblico-privato-per",
+      "data": "2026-05-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8f999487b447",
+      "titolo": "Sottopasso Grosseto, il 12 e 13 maggio chiusura per lavori dalle 9.30 alle 16.30",
+      "link": "https://www.comune.torino.it/novita/comunicati/sottopasso-grosseto-12-13-maggio-chiusura-per-lavori-dalle-930-alle-1630",
+      "data": "2026-05-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "92e0dd6ed6fb",
+      "titolo": "Riqualificazione dell’area del Valentino, 7 milioni da fondazione CRT a sostegno del progetto",
+      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-dellarea-valentino-7-milioni-fondazione-crt-sostegno-progetto",
+      "data": "2026-05-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c5e08fdb2a86",
+      "titolo": "I centri di ITER alla Future week Torino",
+      "link": "https://www.comune.torino.it/novita/notizie/centri-iter-alla-future-week-torino",
+      "data": "2026-05-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "670796de3fbe",
+      "titolo": "Cinema, mostre e danze. Torino accoglie la Grecia, paese ospite del Salone del Libro",
+      "link": "https://www.comune.torino.it/novita/comunicati/cinema-mostre-danze-torino-accoglie-grecia-paese-ospite-salone-libro",
+      "data": "2026-05-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bc6132076b38",
+      "titolo": "Il Salone Off porta la cultura tra la gente",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-off-porta-cultura-gente",
+      "data": "2026-04-30T16:27:39+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b9e97e144cdc",
+      "titolo": "Corteo del 1° maggio",
+      "link": "https://www.comune.torino.it/novita/notizie/corteo-1deg-maggio",
+      "data": "2026-04-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "78bfdbf62035",
+      "titolo": "Seminario sul Sonno – Open Day all’Eduteca Agorà",
+      "link": "https://www.comune.torino.it/novita/notizie/seminario-sul-sonno-open-day-alleduteca-agora-0",
+      "data": "2026-04-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "dd0bd97a7cb0",
+      "titolo": "Protezione Civile, approvate le nuove linee di indirizzo per il funzionamento del Centro Operativo Comunale",
+      "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-approvate-nuove-linee-indirizzo-per-funzionamento-centro",
+      "data": "2026-04-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ae488a0696d4",
+      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
+      "data": "2026-04-28T12:14:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "lavoro-occupazione": [
     {
       "id": "63b6910f347b",
@@ -349,168 +511,6 @@
       "titolo": "Olimpiadi estive: Torino, Milano, Genova, Piemonte, Lombardia e Liguria insieme per una candidatura olimpica del Nord-Ovest",
       "link": "https://www.comune.torino.it/novita/comunicati/olimpiadi-estive-torino-milano-genova-piemonte-lombardia-liguria-insieme-per-una",
       "data": "2026-04-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "cultura-beni-culturali": [
-    {
-      "id": "770ed6da6a26",
-      "titolo": "La Regione Piemonte sulla scomparsa di Carlin Petrini",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-sulla-scomparsa-carlin-petrini",
-      "data": "2026-05-22T10:06:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "77d774b69d7c",
-      "titolo": "Intitolato il giardino “Vittime della strage di Vergarolla”",
-      "link": "https://www.comune.torino.it/novita/comunicati/intitolato-giardino-vittime-della-strage-vergarolla",
-      "data": "2026-05-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "36b02a4fea01",
-      "titolo": "Sala Rossa: approvata mozione per valorizzare Barriera di Milano ed altri quartieri periferici",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvata-mozione-per-valorizzare-barriera-milano-altri-quartieri",
-      "data": "2026-05-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b03f0175defb",
-      "titolo": "La Regione Piemonte al Salone del Libro 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
-      "data": "2026-05-18T08:30:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "61b8eb75ccc5",
-      "titolo": "Il successo della Regione Piemonte al Salone del Libro 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/successo-della-regione-piemonte-al-salone-libro-2026",
-      "data": "2026-05-18T08:30:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a3eef379aeec",
-      "titolo": "Domenica la Marcia per la Pace. Previste modifiche viabili",
-      "link": "https://www.comune.torino.it/novita/comunicati/domenica-marcia-per-pace-previste-modifiche-viabili",
-      "data": "2026-05-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "01cf48650477",
-      "titolo": "Certificati esami Cils - sessione dicembre 2025",
-      "link": "https://www.comune.torino.it/novita/notizie/certificati-esami-cils-sessione-dicembre-2025",
-      "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "eb79c5fdde5e",
-      "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
-      "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
-      "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "24c33a6152a1",
-      "titolo": "La Città di Torino inaugura il terzo Bibliobus delle Biblioteche Civiche",
-      "link": "https://www.comune.torino.it/novita/comunicati/citta-torino-inaugura-terzo-bibliobus-delle-biblioteche-civiche",
-      "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1b65ed4d4db7",
-      "titolo": "Da Fondazione Compagnia di San Paolo una proposta di partenariato pubblico privato per il futuro del Borgo Medievale",
-      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-una-proposta-partenariato-pubblico-privato-per",
-      "data": "2026-05-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8f999487b447",
-      "titolo": "Sottopasso Grosseto, il 12 e 13 maggio chiusura per lavori dalle 9.30 alle 16.30",
-      "link": "https://www.comune.torino.it/novita/comunicati/sottopasso-grosseto-12-13-maggio-chiusura-per-lavori-dalle-930-alle-1630",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "92e0dd6ed6fb",
-      "titolo": "Riqualificazione dell’area del Valentino, 7 milioni da fondazione CRT a sostegno del progetto",
-      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-dellarea-valentino-7-milioni-fondazione-crt-sostegno-progetto",
-      "data": "2026-05-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c5e08fdb2a86",
-      "titolo": "I centri di ITER alla Future week Torino",
-      "link": "https://www.comune.torino.it/novita/notizie/centri-iter-alla-future-week-torino",
-      "data": "2026-05-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "670796de3fbe",
-      "titolo": "Cinema, mostre e danze. Torino accoglie la Grecia, paese ospite del Salone del Libro",
-      "link": "https://www.comune.torino.it/novita/comunicati/cinema-mostre-danze-torino-accoglie-grecia-paese-ospite-salone-libro",
-      "data": "2026-05-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bc6132076b38",
-      "titolo": "Il Salone Off porta la cultura tra la gente",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-off-porta-cultura-gente",
-      "data": "2026-04-30T16:27:39+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b9e97e144cdc",
-      "titolo": "Corteo del 1° maggio",
-      "link": "https://www.comune.torino.it/novita/notizie/corteo-1deg-maggio",
-      "data": "2026-04-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "78bfdbf62035",
-      "titolo": "Seminario sul Sonno – Open Day all’Eduteca Agorà",
-      "link": "https://www.comune.torino.it/novita/notizie/seminario-sul-sonno-open-day-alleduteca-agora-0",
-      "data": "2026-04-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "dd0bd97a7cb0",
-      "titolo": "Protezione Civile, approvate le nuove linee di indirizzo per il funzionamento del Centro Operativo Comunale",
-      "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-approvate-nuove-linee-indirizzo-per-funzionamento-centro",
-      "data": "2026-04-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ae488a0696d4",
-      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
-      "data": "2026-04-28T12:14:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f24dbbcd021b",
-      "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
-      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
-      "data": "2026-04-28T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
