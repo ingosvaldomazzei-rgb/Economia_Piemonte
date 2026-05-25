@@ -7,11 +7,11 @@
   },
   "temi_attivi": [
     {
-      "tema": "cultura-beni-culturali",
+      "tema": "agricoltura",
       "conteggio": 20
     },
     {
-      "tema": "agricoltura",
+      "tema": "cultura-beni-culturali",
       "conteggio": 20
     },
     {
@@ -20,26 +20,26 @@
     },
     {
       "tema": "sociale-welfare",
-      "conteggio": 11
+      "conteggio": 13
     },
     {
       "tema": "istruzione-formazione",
-      "conteggio": 10
+      "conteggio": 11
     },
     {
       "tema": "attivita-produttive",
       "conteggio": 10
     },
     {
-      "tema": "pianificazione-territoriale",
-      "conteggio": 10
-    },
-    {
-      "tema": "commercio-artigianato",
+      "tema": "fondi-europei",
       "conteggio": 9
     },
     {
-      "tema": "fondi-europei",
+      "tema": "pianificazione-territoriale",
+      "conteggio": 9
+    },
+    {
+      "tema": "commercio-artigianato",
       "conteggio": 8
     },
     {
