@@ -1,9 +1,39 @@
 [
   {
+    "id": "710a199d7253",
+    "titolo": "Chiusura Centro antiviolenza",
+    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-centro-antiviolenza",
+    "descrizione": "Chiusura per festività",
+    "data": "2026-05-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "c5a026ea98f7",
     "titolo": "Diritti in Comune - UNICEF",
     "link": "https://www.comune.torino.it/novita/notizie/diritti-comune-unicef",
     "descrizione": "I Diritti dell’Infanzia e dell’Adolescenza al centro delle politiche comunali.",
+    "data": "2026-05-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "19852b5a0739",
+    "titolo": "Sala Rossa: un minuto di silenzio in ricordo di Carlo Petrini",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-un-minuto-silenzio-ricordo-carlo-petrini",
+    "descrizione": "Il fondatore di Slow Food è stato ricordato dal Vicepresidente vicario del Consiglio Comunale, Domenico Garcea, in apertura dei lavori",
+    "data": "2026-05-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d673dfd6c924",
+    "titolo": "CFM - Tuttocoro",
+    "link": "https://www.comune.torino.it/novita/avvisi/cfm-tuttocoro",
+    "descrizione": "Prenotazioni per il saggio/concerto",
     "data": "2026-05-25T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1964,36 +1994,6 @@
     "titolo": "25 aprile, il programma completo delle iniziative per la Festa della Liberazione",
     "link": "https://www.comune.torino.it/novita/comunicati/25-aprile-programma-completo-delle-iniziative-per-festa-della-liberazione",
     "descrizione": "Anche quest’anno Torino si prepara a celebrare la Festa della Liberazione con un ricco programma di appuntamenti su tutto il territorio cittadino.",
-    "data": "2026-04-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "33cc21fb5000",
-    "titolo": "La Città di Torino mette in vendita 130 mezzi",
-    "link": "https://www.comune.torino.it/novita/avvisi/citta-torino-mette-vendita-130-mezzi",
-    "descrizione": "La vendita avverrà mediante asta pubblica aperta a tutti i cittadini.",
-    "data": "2026-04-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2c262a090bff",
-    "titolo": "Cantiere Piazza Baldissera: al via la posa degli scambi tramviari tra via Stradella e via Chiesa della Salute",
-    "link": "https://www.comune.torino.it/novita/comunicati/cantiere-piazza-baldissera-al-via-posa-degli-scambi-tramviari-via-stradella-via",
-    "descrizione": "Il cantiere di Piazza Baldissera entra ufficialmente nella sua ultima fase operativa.",
-    "data": "2026-04-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a32fe2c6bbf9",
-    "titolo": "Limitazioni alla circolazione veicolare valide tutto l'anno",
-    "link": "https://www.comune.torino.it/novita/avvisi/limitazioni-alla-circolazione-veicolare-valide-tutto-lanno",
-    "descrizione": "Attive le sole limitazioni strutturali in vigore tutto l'anno.",
     "data": "2026-04-15T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
