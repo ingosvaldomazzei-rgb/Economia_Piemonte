@@ -1,5 +1,15 @@
 [
   {
+    "id": "c5a026ea98f7",
+    "titolo": "Diritti in Comune - UNICEF",
+    "link": "https://www.comune.torino.it/novita/notizie/diritti-comune-unicef",
+    "descrizione": "I Diritti dell’Infanzia e dell’Adolescenza al centro delle politiche comunali.",
+    "data": "2026-05-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "5d9f69b44e8f",
     "titolo": "Torino festeggia i suoi nuovi cittadini e i 30 anni del Centro Interculturale di corso Taranto, recentemente riqualificato",
     "link": "https://www.comune.torino.it/novita/comunicati/torino-festeggia-suoi-nuovi-cittadini-30-anni-centro-interculturale-corso",
@@ -1985,16 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/avvisi/limitazioni-alla-circolazione-veicolare-valide-tutto-lanno",
     "descrizione": "Attive le sole limitazioni strutturali in vigore tutto l'anno.",
     "data": "2026-04-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "28a7a40da407",
-    "titolo": "Olimpiadi estive: Torino, Milano, Genova, Piemonte, Lombardia e Liguria insieme per una candidatura olimpica del Nord-Ovest",
-    "link": "https://www.comune.torino.it/novita/comunicati/olimpiadi-estive-torino-milano-genova-piemonte-lombardia-liguria-insieme-per-una",
-    "descrizione": "L’iniziativa nasce dalla volontà di valorizzare la vocazione sportiva, infrastrutturale e internazionale di tre territori fortemente connessi tra loro.",
-    "data": "2026-04-14T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
