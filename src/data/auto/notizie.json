@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "9aa589aa49f1",
+    "titolo": "Domani Diritto di Tribuna su utilizzo edificio c. Francia 377",
+    "link": "https://www.comune.torino.it/novita/comunicati/domani-diritto-tribuna-utilizzo-edificio-c-francia-377",
+    "descrizione": "domani, mercoledì 27 maggio 2026, alle ore 11,30 Diritto di Tribuna, convocato per presentare la petizione al Consiglio comunale...",
+    "data": "2026-05-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a3f4107541bd",
+    "titolo": "Contributi per la sistemazione temporanea dei salariati nelle aziende agricole",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-sistemazione-temporanea-dei-salariati-nelle-aziende-agricole",
+    "descrizione": "Per sostenere la sistemazione temporanea dei salariati stagionali impiegati nelle aziende agricole piemontesi nel corso del 2026 la Giunta regionale ha deciso di stanziare 73.400 euro da erogare…",
+    "data": "2026-05-26T10:41:44+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "f87de6980509",
     "titolo": "Percorsi gratuiti per gli uomini che scelgono il recupero nei Centri antiviolenza",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/percorsi-gratuiti-per-gli-uomini-che-scelgono-recupero-nei-centri-antiviolenza",
@@ -63,7 +83,7 @@
     "id": "d673dfd6c924",
     "titolo": "CFM - Tuttocoro",
     "link": "https://www.comune.torino.it/novita/avvisi/cfm-tuttocoro",
-    "descrizione": "Prenotazioni per il saggio/concerto",
+    "descrizione": "Prenotazioni per il saggio/concerto - POSTI ESAURITI",
     "data": "2026-05-25T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1978,25 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "15b787f09642",
-    "titolo": "Intitolato un giardino a Giuliana Fiorentino Tedeschi",
-    "link": "https://www.comune.torino.it/novita/comunicati/intitolato-un-giardino-giuliana-fiorentino-tedeschi",
-    "descrizione": "Si è svolta, questa mattina in piazza Bernini di fronte al numero civico 12, la cerimonia per l’intitolazione a Giuliana Fiorentino Tedeschi dell’area verde",
-    "data": "2026-04-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a1afeaa21932",
-    "titolo": "Neve e sicurezza: assegnati i contributi alle Commissioni Locali Valanghe",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/neve-sicurezza-assegnati-contributi-alle-commissioni-locali-valanghe",
-    "descrizione": "Approvando la graduatoria per il sostegno alle Commissioni Locali Valanghe, la Regione ha assegnato a 10 Unioni Montane contributi per 236.380 euro per rafforzare il sistema di protezione civile. Queste risorse, stanziate nell’ambito della programmazione…",
-    "data": "2026-04-17T11:31:40+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
