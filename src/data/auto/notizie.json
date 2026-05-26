@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "21ddb1ca8bd3",
+    "titolo": "Dimensionamento scolastico: niente accorpamenti fino al 2029-30",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dimensionamento-scolastico-niente-accorpamenti-fino-al-2029-30",
+    "descrizione": "Nessun dimensionamento scolastico per i prossimi due anni in Piemonte: è quanto prevedono le linee strategiche del nuovo Atto di indirizzo per la programmazione della rete delle istituzioni autonome e dell’offerta formativa delle scuole superiori per il triennio…",
+    "data": "2026-05-26T14:57:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "59c0f947c475",
+    "titolo": "I Parchi naturali del Piemonte a Cinemambiente",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parchi-naturali-piemonte-cinemambiente",
+    "descrizione": "Le Aree naturali protette del Piemonte partecipano domenica 7 giugno a Torino al Festival CinemAmbiente con un villaggio dedicato ai parchi e con un premio speciale al documentario che…",
+    "data": "2026-05-26T14:34:53+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "9aa589aa49f1",
     "titolo": "Domani Diritto di Tribuna su utilizzo edificio c. Francia 377",
     "link": "https://www.comune.torino.it/novita/comunicati/domani-diritto-tribuna-utilizzo-edificio-c-francia-377",
@@ -20,10 +40,70 @@
     "colore": "#dc2626"
   },
   {
+    "id": "b8f368df9dc2",
+    "titolo": "Mercatini tematici, proposta per la semplificazione normativa e via libera alla sperimentazione temporanea",
+    "link": "https://www.comune.torino.it/novita/comunicati/mercatini-tematici-proposta-per-semplificazione-normativa-via-libera-alla",
+    "descrizione": "La proposta nasce da alcune criticità operative riscontrate nel corso degli anni.",
+    "data": "2026-05-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0d1c3bb1043e",
+    "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
+    "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
+    "descrizione": "Torino prosegue nella riqualificazione del proprio patrimonio pubblico, puntando su innovazione tecnologica, riduzione dei consumi e sostenibilità ambientale.",
+    "data": "2026-05-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "55a2203f2073",
+    "titolo": "Toponomastica: approvate intitolazioni dedicate a figure dell'antifascismo, della cultura e dell'impegno civile",
+    "link": "https://www.comune.torino.it/novita/comunicati/toponomastica-approvate-intitolazioni-dedicate-figure-dellantifascismo-della",
+    "descrizione": "Toponomastica: approvate intitolazioni dedicate a figure dell'antifascismo, della cultura, dell'impegno civile",
+    "data": "2026-05-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "92d837daa3f9",
+    "titolo": "Pubblicato il bando 2026–2027 per proposte culturali di enti e associazioni nelle biblioteche civiche",
+    "link": "https://www.comune.torino.it/novita/comunicati/pubblicato-bando-2026-2027-per-proposte-culturali-enti-associazioni-nelle",
+    "descrizione": "È online l’avviso pubblico “Le Biblioteche crescono, fai crescere le Biblioteche!” per la presentazione di proposte progettuali.",
+    "data": "2026-05-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "eb99c8d29865",
+    "titolo": "Gruppo Insieme oltre il lutto",
+    "link": "https://www.comune.torino.it/novita/notizie/gruppo-insieme-oltre-lutto",
+    "descrizione": "Uno spazio di incontro e di scambio per adulti in difficoltà, a causa della perdita o della malattia terminale di un familiare.",
+    "data": "2026-05-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bdaa2ac9241e",
+    "titolo": "Chiusura SFEP - Festa della Repubblica",
+    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-sfep-festa-della-repubblica",
+    "descrizione": "SFEP chiusa lunedì 01/06/2026",
+    "data": "2026-05-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "a3f4107541bd",
     "titolo": "Contributi per la sistemazione temporanea dei salariati nelle aziende agricole",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-sistemazione-temporanea-dei-salariati-nelle-aziende-agricole",
-    "descrizione": "Per sostenere la sistemazione temporanea dei salariati stagionali impiegati nelle aziende agricole piemontesi nel corso del 2026 la Giunta regionale ha deciso di stanziare 73.400 euro da erogare…",
+    "descrizione": "Per sostenere la sistemazione temporanea dei salariati stagionali impiegati nelle aziende agricole piemontesi nel corso del 2026 la Giunta regionale ha deciso di stanziare 73.400 euro da erogare ai Comuni, Unioni e Consorzi di Comuni che ne faranno richiesta…",
     "data": "2026-05-26T10:41:44+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
@@ -114,6 +194,16 @@
     "titolo": "La Sala Rossa contro pfas e microplastiche",
     "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-contro-pfas-microplastiche",
     "descrizione": "La mozione, proposta dalla consigliera Garione, chiede maggiore attenzione per il riuso e un incremento dei punti acqua Smat",
+    "data": "2026-05-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "77fd3b3d984f",
+    "titolo": "Gruppo Riconoscere la propria Unicità",
+    "link": "https://www.comune.torino.it/novita/notizie/gruppo-riconoscere-propria-unicita-0",
+    "descrizione": "Ciclo di 12 incontri di gruppo dedicato alle persone con sclerosi multipla e loro familiari.",
     "data": "2026-05-25T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1904,96 +1994,6 @@
     "titolo": "Controlli nell’area del giardino Tre lanterne, una denuncia e due sequestri da parte della Polizia Locale",
     "link": "https://www.comune.torino.it/novita/comunicati/controlli-nellarea-giardino-tre-lanterne-una-denuncia-due-sequestri-parte-della",
     "descrizione": "È di una denuncia e due sequestri di mezzi di mobilità sostenibile il bilancio dell'ultima attività di presidio della Polizia Locale.",
-    "data": "2026-04-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a2c2affd40d9",
-    "titolo": "Domenica 19 aprile la “Granfondo Internazionale Torino 2026”. Partenza alle 8.30",
-    "link": "https://www.comune.torino.it/novita/comunicati/domenica-19-aprile-granfondo-internazionale-torino-2026-partenza-alle-830",
-    "descrizione": "Domenica 19 aprile si terrà manifestazione ciclistica “Granfondo Internazionale Torino 2026” con partenza alle ore 08.30 in corso Casale.",
-    "data": "2026-04-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "81968219d59b",
-    "titolo": "Domenica 19 aprile la Mezza di Torino, previste modifiche viabili",
-    "link": "https://www.comune.torino.it/novita/comunicati/domenica-19-aprile-mezza-torino-previste-modifiche-viabili",
-    "descrizione": "Domenica 19 Aprile è in programma la manifestazione sportiva denominata ‘La Mezza di Torino’ insieme alla quale si svolge anche la gara ‘La Dieci di Torino’.",
-    "data": "2026-04-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "412cf537d944",
-    "titolo": "Seminario gratuito “Il sonno del bambino” (4-36 mesi)",
-    "link": "https://www.comune.torino.it/novita/notizie/seminario-gratuito-sonno-bambino-4-36-mesi",
-    "descrizione": "Seminario gratuito per genitori di bimbi e bimbe tra i 4 e i 36 mesi.",
-    "data": "2026-04-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "3276fe03d6fb",
-    "titolo": "“Leggere il mondo attraverso i libri”, la decima edizione di Torino che legge... con il Piemonte",
-    "link": "https://www.comune.torino.it/novita/comunicati/leggere-mondo-attraverso-libri-decima-edizione-torino-che-legge-piemonte",
-    "descrizione": "Torna Torino che legge... con il Piemonte, che mercoledì 22 e giovedì 23 aprile festeggia la sua decima edizione.",
-    "data": "2026-04-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f11b99e04b11",
-    "titolo": "Salone Internazionale del Libro di Torino",
-    "link": "https://www.comune.torino.it/novita/notizie/salone-internazionale-libro-torino",
-    "descrizione": "A partire da lunedì 20 aprile 2026 aprono le prenotazioni per alcuni eventi specifici: un passaggio importante per accedere agli appuntamenti più richiesti.",
-    "data": "2026-04-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "3ad42c34bf97",
-    "titolo": "Un ponte di luce tra Torino e Montréal: l’arte per unire Piemonte e Quebec",
-    "link": "https://www.comune.torino.it/novita/comunicati/un-ponte-luce-torino-montreal-larte-per-unire-piemonte-quebec",
-    "descrizione": "Luci d’artista d’oltreoceano, scambi culturali e un orizzonte di collaborazioni che spaziano dall’industria al turismo.",
-    "data": "2026-04-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0911e96826db",
-    "titolo": "Grande Torino, firmato il patto di collaborazione per i luoghi della memoria degli Invincibili",
-    "link": "https://www.comune.torino.it/novita/comunicati/grande-torino-firmato-patto-collaborazione-per-luoghi-della-memoria-degli",
-    "descrizione": "È stato sottoscritto questa mattina il Patto di collaborazione per la cura e la valorizzazione delle “Memorie del Grande Torino”.",
-    "data": "2026-04-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a341fe9bef00",
-    "titolo": "Festa dei Vicini 2026, aperte le iscrizioni per la 20ª edizione",
-    "link": "https://www.comune.torino.it/novita/comunicati/festa-dei-vicini-2026-aperte-iscrizioni-per-20a-edizione",
-    "descrizione": "Sono ufficialmente aperte le iscrizioni alla Festa dei Vicini 2026, che tornerà ad animare la città nel fine settimana di sabato 23 e domenica 24 maggio.",
-    "data": "2026-04-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "81a3145981ef",
-    "titolo": "I dati definitivi degli indici dei prezzi al consumo (Nic) di marzo 2026",
-    "link": "https://www.comune.torino.it/novita/comunicati/dati-definitivi-degli-indici-dei-prezzi-al-consumo-nic-marzo-2026",
-    "descrizione": "Nel mese di marzo 2026 l’indice complessivo dei prezzi al consumo per l’intera collettività (NIC) è risultato pari al 101,6.",
     "data": "2026-04-17T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
