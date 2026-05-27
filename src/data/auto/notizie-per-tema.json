@@ -1,4 +1,128 @@
 {
+  "autonomia-differenziata": [
+    {
+      "id": "2e419603d284",
+      "titolo": "Audizione in Parlamento sull’Autonomia differenziata",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/audizione-parlamento-sullautonomia-differenziata",
+      "data": "2026-05-27T16:41:28+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "sociale-welfare": [
+    {
+      "id": "2acdb170b530",
+      "titolo": "Vesta 2026: i buoni assegnati a 20mila famiglie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vesta-2026-buoni-assegnati-20mila-famiglie",
+      "data": "2026-05-27T15:05:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ddd60e8bc158",
+      "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
+      "data": "2026-05-25T15:31:07+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9c597cfd13e2",
+      "titolo": "Ucraina: la Sala Rossa contro trasferimenti coatti di minori e maltrattamento dei prigionieri da parte di Mosca",
+      "link": "https://www.comune.torino.it/novita/comunicati/ucraina-sala-rossa-contro-trasferimenti-coatti-minori-maltrattamento-dei",
+      "data": "2026-05-25T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fc8bd3d22766",
+      "titolo": "Il benessere e la sicurezza digitale delle bambine e dei bambini da 0 a 6 anni",
+      "link": "https://www.comune.torino.it/novita/notizie/benessere-sicurezza-digitale-delle-bambine-dei-bambini-0-6-anni",
+      "data": "2026-05-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0a584bbb7ba5",
+      "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
+      "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fedf8fb2625c",
+      "titolo": "“Abbiamo un mondo in Comune”. La Città premia la cooperazione sociale",
+      "link": "https://www.comune.torino.it/novita/comunicati/abbiamo-un-mondo-comune-citta-premia-cooperazione-sociale",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "eb79c5fdde5e",
+      "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
+      "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2eecac69dcad",
+      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
+      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
+      "data": "2026-05-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b557ab764e10",
+      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
+      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
+      "data": "2026-05-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "447edd0ba015",
+      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
+      "data": "2026-05-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ae488a0696d4",
+      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
+      "data": "2026-04-28T12:14:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f2c70524ec52",
+      "titolo": "Continua il prolungamento orario dei nidi comunali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-prolungamento-orario-dei-nidi-comunali",
+      "data": "2026-04-27T15:09:33+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "773a32768d2e",
+      "titolo": "I risultati di Vesta 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/risultati-vesta-2026",
+      "data": "2026-04-22T17:41:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cf0a8e00af52",
+      "titolo": "Torino, un nuovo polo educativo e sociale per giovani e famiglie per l’ex asilo di via Alessandria",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-un-nuovo-polo-educativo-sociale-per-giovani-famiglie-per-lex-asilo-via",
+      "data": "2026-04-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "edilizia-opere-pubbliche": [
     {
       "id": "1160212e82b4",
@@ -221,41 +345,15 @@
       "fonte_id": "regione"
     }
   ],
-  "ambiente-qualita-aria": [
+  "cultura-beni-culturali": [
     {
-      "id": "59c0f947c475",
-      "titolo": "I Parchi naturali del Piemonte a Cinemambiente",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parchi-naturali-piemonte-cinemambiente",
-      "data": "2026-05-26T14:34:53+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f4405b58d172",
-      "titolo": "La pista ciclabile di Lungo Dora Napoli – Firenze intitolata alla pioniera del ciclismo femminile, Maria Milano",
-      "link": "https://www.comune.torino.it/novita/comunicati/pista-ciclabile-lungo-dora-napoli-firenze-intitolata-alla-pioniera-ciclismo",
-      "data": "2026-05-22T12:00:00+00:00",
+      "id": "272e517a15ba",
+      "titolo": "Il Sindaco a Maastricht al Forum annuale dell'OECD, nominato nel nuovo advisory board dell’OECD global forum on local development",
+      "link": "https://www.comune.torino.it/novita/comunicati/sindaco-maastricht-al-forum-annuale-delloecd-nominato-nel-nuovo-advisory-board",
+      "data": "2026-05-27T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
-    {
-      "id": "2487351c94cb",
-      "titolo": "Energia: prezzi in rialzo ma nessun problema di approvvigionamento",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/energia-prezzi-rialzo-ma-nessun-problema-approvvigionamento",
-      "data": "2026-04-28T16:20:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "94ca8301e7ec",
-      "titolo": "Più di 14 milioni per la riduzione e il riciclo dei rifiuti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-14-milioni-per-riduzione-riciclo-dei-rifiuti",
-      "data": "2026-04-23T16:10:49+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "cultura-beni-culturali": [
     {
       "id": "59c0f947c475",
       "titolo": "I Parchi naturali del Piemonte a Cinemambiente",
@@ -407,12 +505,38 @@
       "data": "2026-05-04T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "ambiente-qualita-aria": [
+    {
+      "id": "59c0f947c475",
+      "titolo": "I Parchi naturali del Piemonte a Cinemambiente",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parchi-naturali-piemonte-cinemambiente",
+      "data": "2026-05-26T14:34:53+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
-      "id": "bc6132076b38",
-      "titolo": "Il Salone Off porta la cultura tra la gente",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-off-porta-cultura-gente",
-      "data": "2026-04-30T16:27:39+02:00",
+      "id": "f4405b58d172",
+      "titolo": "La pista ciclabile di Lungo Dora Napoli – Firenze intitolata alla pioniera del ciclismo femminile, Maria Milano",
+      "link": "https://www.comune.torino.it/novita/comunicati/pista-ciclabile-lungo-dora-napoli-firenze-intitolata-alla-pioniera-ciclismo",
+      "data": "2026-05-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2487351c94cb",
+      "titolo": "Energia: prezzi in rialzo ma nessun problema di approvvigionamento",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/energia-prezzi-rialzo-ma-nessun-problema-approvvigionamento",
+      "data": "2026-04-28T16:20:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "94ca8301e7ec",
+      "titolo": "Più di 14 milioni per la riduzione e il riciclo dei rifiuti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-14-milioni-per-riduzione-riciclo-dei-rifiuti",
+      "data": "2026-04-23T16:10:49+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -799,112 +923,6 @@
       "titolo": "Gruppo Adolescenza e Adozione: sfide e risorse",
       "link": "https://www.comune.torino.it/novita/notizie/gruppo-adolescenza-adozione-sfide-risorse",
       "data": "2026-04-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "sociale-welfare": [
-    {
-      "id": "ddd60e8bc158",
-      "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
-      "data": "2026-05-25T15:31:07+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9c597cfd13e2",
-      "titolo": "Ucraina: la Sala Rossa contro trasferimenti coatti di minori e maltrattamento dei prigionieri da parte di Mosca",
-      "link": "https://www.comune.torino.it/novita/comunicati/ucraina-sala-rossa-contro-trasferimenti-coatti-minori-maltrattamento-dei",
-      "data": "2026-05-25T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fc8bd3d22766",
-      "titolo": "Il benessere e la sicurezza digitale delle bambine e dei bambini da 0 a 6 anni",
-      "link": "https://www.comune.torino.it/novita/notizie/benessere-sicurezza-digitale-delle-bambine-dei-bambini-0-6-anni",
-      "data": "2026-05-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0a584bbb7ba5",
-      "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
-      "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fedf8fb2625c",
-      "titolo": "“Abbiamo un mondo in Comune”. La Città premia la cooperazione sociale",
-      "link": "https://www.comune.torino.it/novita/comunicati/abbiamo-un-mondo-comune-citta-premia-cooperazione-sociale",
-      "data": "2026-05-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "eb79c5fdde5e",
-      "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
-      "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
-      "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2eecac69dcad",
-      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
-      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b557ab764e10",
-      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
-      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
-      "data": "2026-05-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "447edd0ba015",
-      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
-      "data": "2026-05-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ae488a0696d4",
-      "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
-      "data": "2026-04-28T12:14:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f2c70524ec52",
-      "titolo": "Continua il prolungamento orario dei nidi comunali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-prolungamento-orario-dei-nidi-comunali",
-      "data": "2026-04-27T15:09:33+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "773a32768d2e",
-      "titolo": "I risultati di Vesta 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/risultati-vesta-2026",
-      "data": "2026-04-22T17:41:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cf0a8e00af52",
-      "titolo": "Torino, un nuovo polo educativo e sociale per giovani e famiglie per l’ex asilo di via Alessandria",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-un-nuovo-polo-educativo-sociale-per-giovani-famiglie-per-lex-asilo-via",
-      "data": "2026-04-21T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1415,14 +1433,6 @@
       "titolo": "In via Botticelli un edificio commerciale con nuovi parcheggi e aree verdi",
       "link": "https://www.comune.torino.it/novita/comunicati/via-botticelli-un-edificio-commerciale-nuovi-parcheggi-aree-verdi",
       "data": "2026-04-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fb3487dab6f1",
-      "titolo": "È in arrivo la Torino+Piemonte Congress Card",
-      "link": "https://www.comune.torino.it/novita/comunicati/arrivo-torino-piemonte-congress-card",
-      "data": "2026-04-20T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }

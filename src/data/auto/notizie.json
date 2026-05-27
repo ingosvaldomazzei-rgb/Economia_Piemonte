@@ -10,6 +10,46 @@
     "colore": "#dc2626"
   },
   {
+    "id": "2e419603d284",
+    "titolo": "Audizione in Parlamento sull’Autonomia differenziata",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/audizione-parlamento-sullautonomia-differenziata",
+    "descrizione": "Il presidente Alberto Cirio è intervenuto in audizione plenaria davanti alle Commissioni Affari Costituzionali di Camera e Senato, riunite presso il Senato della Repubblica, nell’ambito dell’esame degli schemi di intesa preliminari tra Governo e Regioni sull'…",
+    "data": "2026-05-27T16:41:28+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "0b7e90fb1ab2",
+    "titolo": "In Piemonte la Nuova Piattaforma della Danza Italiana 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-nuova-piattaforma-della-danza-italiana-2026",
+    "descrizione": "La decima edizione della Nuova Piattaforma della Danza Italiana (NID Platform), in programma dall’1 al 4 settembre, avrà il Piemonte come protagonista: saranno Collegno, Moncalieri, Torino e…",
+    "data": "2026-05-27T15:52:06+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "2acdb170b530",
+    "titolo": "Vesta 2026: i buoni assegnati a 20mila famiglie",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vesta-2026-buoni-assegnati-20mila-famiglie",
+    "descrizione": "Vesta 2026 ha centrato l'obiettivo: sostegno al ceto medio e ai cittadini italiani. Nel presentare i dati delle assegnazioni, il vicepresidente e assessore alle Famiglie della Regione Piemonte Maurizio Marrone puntualizza…",
+    "data": "2026-05-27T15:05:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "6872a1265dfc",
+    "titolo": "Progetto Petrarca 7: formazione civico-linguistica delle persone straniere",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/progetto-petrarca-7-formazione-civico-linguistica-delle-persone-straniere",
+    "descrizione": "Al Centro Congressi della Regione Piemonte a Torino, il 27 maggio si è svolto il seminario di disseminazione “Apprendere la lingua, esercitare la cittadinanza”, promosso nell’ambito del…",
+    "data": "2026-05-27T14:40:04+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "1160212e82b4",
     "titolo": "Neutralità climatica: Torino accoglie la Cities Mission Conference 2026. Oltre 600 i delegati da tutta Europa. Oggi le visite in città, domani la plenaria alle OGR",
     "link": "https://www.comune.torino.it/novita/comunicati/neutralita-climatica-torino-accoglie-cities-mission-conference-2026-oltre-600",
@@ -44,6 +84,16 @@
     "titolo": "Cerimonia in memoria delle vittime del terrorismo",
     "link": "https://www.comune.torino.it/novita/notizie/cerimonia-memoria-delle-vittime-terrorismo",
     "descrizione": "Mercoledì 27 maggio 2026 alle ore 11.00 diretta web, dalla Sala Rossa della Cerimonia in memoria delle vittime del terrorismo.",
+    "data": "2026-05-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "272e517a15ba",
+    "titolo": "Il Sindaco a Maastricht al Forum annuale dell'OECD, nominato nel nuovo advisory board dell’OECD global forum on local development",
+    "link": "https://www.comune.torino.it/novita/comunicati/sindaco-maastricht-al-forum-annuale-delloecd-nominato-nel-nuovo-advisory-board",
+    "descrizione": "Il sindaco Stefano Lo Russo ha preso parte oggi ai lavori del Forum annuale dell’OECD, l’Organizzazione globale per la cooperazione e lo sviluppo economico.",
     "data": "2026-05-27T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1948,55 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "98ee25a30f3d",
-    "titolo": "Speciale elezioni amministrative 2026. Domenica 24 e lunedì 25 maggio",
-    "link": "https://www.cr.piemonte.it/cms/corecom/articoli/corecom/speciale-elezioni-amministrative-2026-domenica-24-e-lunedi-25-maggio",
-    "descrizione": "Tipologia articolo Corecom Materia Corecom Data pubblicazione 20 Aprile 2026 Per le elezioni comunali del primo semestre 2026 si applicano le disposizioni contenute nella delibera 122/24/CONS di attuazione della legge 22 febbraio 2000, n. 28. Documenti, pubblicazioni e informazioni inerenti le operazioni elettorali e i vari adempimenti preparatori del procedimento elettorale riguardanti il turno annuale di elezioni amministrative nelle regioni a statuto ordinario per i giorni di domenica 24 e lu",
-    "data": "2026-04-20T14:26:56+00:00",
-    "fonte": "Consiglio Regionale",
-    "fonte_id": "consiglio",
-    "colore": "#7c3aed"
-  },
-  {
-    "id": "06a9cf23ee8d",
-    "titolo": "Presentazione Monitoraggio strutturale Garante dei diritti persone private libertà",
-    "link": "https://www.comune.torino.it/novita/notizie/presentazione-monitoraggio-strutturale-garante-dei-diritti-persone-private",
-    "descrizione": "È stato presentato nella seduta del 17 aprile 2026 della Commissione Legalità, il monitoraggio strutturale effettuato dalla Garante Diletta Berardinelli.",
-    "data": "2026-04-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2b5ae33c40a3",
-    "titolo": "Mercoledì 22 aprile la cerimonia di intitolazione a Sandro Fiorio della “balconata” di via San Donato",
-    "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-22-aprile-cerimonia-intitolazione-sandro-fiorio-della-balconata-via",
-    "descrizione": "Alla cerimonia seguirà la proiezione del documentario \"La conceria Fiorio, una storia poco conosciuta\"",
-    "data": "2026-04-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "fb3487dab6f1",
-    "titolo": "È in arrivo la Torino+Piemonte Congress Card",
-    "link": "https://www.comune.torino.it/novita/comunicati/arrivo-torino-piemonte-congress-card",
-    "descrizione": "Turismo Torino e Provincia Convention Bureau lancia un nuovo strumento di accoglienza e promozione: la Torino+Piemonte Congress Card.",
-    "data": "2026-04-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "823883b24e2a",
-    "titolo": "Giornata Mondiale del Gioco 2026",
-    "link": "https://www.comune.torino.it/novita/notizie/giornata-mondiale-gioco-2026",
-    "descrizione": "Il 16 maggio 2026 si terrà la nuova edizione della Giornata Mondiale del Gioco a Centro Cultura Ludica.",
-    "data": "2026-04-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-05-27T10:08:29.649189+00:00",
+  "ultimo_aggiornamento": "2026-05-27T16:00:57.124022+00:00",
   "sedute": [
     {
       "id": "3601a519c271",
@@ -1223,7 +1223,7 @@
       "titolo": "Rafforzamento dell'effettiva attività di controllo dei titoli di viaggio e delle condizioni di sicurezza a bordo dei treni regionali.",
       "data": "2026-02-03T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/mzodgfo/legislatura/12/atto/572/",
-      "stato": "Non votato"
+      "stato": "Approvato"
     },
     {
       "id": "b1354ca8aa13",
@@ -2038,11 +2038,11 @@
   ],
   "statistiche": {
     "totale_sedute": 23,
-    "totale_interrogazioni": 100,
-    "totale_interpellanze": 0,
+    "totale_interrogazioni": 199,
+    "totale_interpellanze": 1,
     "totale_mozioni": 9,
     "totale_odg": 191,
-    "mozioni_approvate": 101,
+    "mozioni_approvate": 102,
     "mozioni_respinte": 40
   }
 }
