@@ -50,6 +50,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "043a188a7f41",
+    "titolo": "Il vino piemontese al Vinexpo Asia",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-al-vinexpo-asia",
+    "descrizione": "Il Piemonte del vino è stato protagonista a Hong Kong all’edizione 2026 di Vinexpo Asia: 35 produttori hanno partecipato dal 26 al 28 maggio presso l’Hong Kong Convention and Exhibition Centre alla fiera di punta per l’industria del vino e degli…",
+    "data": "2026-05-28T11:19:09+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "2e419603d284",
     "titolo": "Audizione in Parlamento sull’Autonomia differenziata",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/audizione-parlamento-sullautonomia-differenziata",
@@ -1984,16 +1994,6 @@
     "titolo": "Videosorveglianza, prosegue il lavoro per implementare telecamere e sistemi di sicurezza",
     "link": "https://www.comune.torino.it/novita/comunicati/videosorveglianza-prosegue-lavoro-per-implementare-telecamere-sistemi-sicurezza",
     "descrizione": "Prosegue l’impegno dell’amministrazione per l’implementazione del sistema di videosorveglianza cittadino.",
-    "data": "2026-04-21T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "abc46426cffa",
-    "titolo": "Sostenersi - Gruppo di ascolto per genitori",
-    "link": "https://www.comune.torino.it/novita/notizie/sostenersi-gruppo-ascolto-per-genitori",
-    "descrizione": "E'in partenza al Passepartout una nuova iniziativa rivolta ai genitori di persone con disabilità e/o neurodivergenti: un gruppo di parola, uno spazio di ascolto",
     "data": "2026-04-21T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
