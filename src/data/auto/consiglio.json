@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-05-28T10:18:04.042987+00:00",
+  "ultimo_aggiornamento": "2026-05-28T16:15:25.016273+00:00",
   "sedute": [
     {
       "id": "3601a519c271",
@@ -366,7 +366,7 @@
       "titolo": "Tempi e modalità di soluzione da parte di Rete Ferroviaria Italiana (RFI) delle gravi criticità strutturali e gestionali della stazione di Trofarello (TO)",
       "data": "2026-02-12T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/interfo/legislatura/12/atto/923/",
-      "stato": ""
+      "stato": "Discussa"
     },
     {
       "id": "a6136f742162",
@@ -2040,9 +2040,9 @@
     "totale_sedute": 23,
     "totale_interrogazioni": 149,
     "totale_interpellanze": 1,
-    "totale_mozioni": 2,
-    "totale_odg": 98,
-    "mozioni_approvate": 58,
-    "mozioni_respinte": 19
+    "totale_mozioni": 9,
+    "totale_odg": 191,
+    "mozioni_approvate": 102,
+    "mozioni_respinte": 40
   }
 }
