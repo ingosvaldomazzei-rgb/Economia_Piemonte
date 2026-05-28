@@ -1,10 +1,40 @@
 [
   {
+    "id": "b69969f0c6e5",
+    "titolo": "Torino Pride 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/torino-pride-2026",
+    "descrizione": "Venti di Lotte",
+    "data": "2026-06-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "710a199d7253",
     "titolo": "Chiusura Centro antiviolenza",
     "link": "https://www.comune.torino.it/novita/avvisi/chiusura-centro-antiviolenza",
     "descrizione": "Chiusura in occasione della festività del 2 giugno.",
     "data": "2026-05-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "db6990538c53",
+    "titolo": "2 giugno, Torino festeggia l’80esimo anniversario della Repubblica con un programma speciale",
+    "link": "https://www.comune.torino.it/novita/comunicati/2-giugno-torino-festeggia-l80esimo-anniversario-della-repubblica-un-programma",
+    "descrizione": "Martedì 2 giugno la Città di Torino celebrerà l’80° anniversario da quel 2 giugno 1946.",
+    "data": "2026-05-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6c1a698227a4",
+    "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
+    "link": "https://www.comune.torino.it/novita/notizie/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
+    "descrizione": "Torino è tra le tredici città italiane insignite della “Bandiera Azzurra 2026”.",
+    "data": "2026-05-28T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
@@ -1968,35 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "d0ed92fd8a70",
-    "titolo": "Consulta di Torino e Città. Rigenerazione Urbana, progetti attuati e prossime realizzazioni",
-    "link": "https://www.comune.torino.it/novita/comunicati/consulta-torino-citta-rigenerazione-urbana-progetti-attuati-prossime",
-    "descrizione": "La Cultura è elemento identitario del nostro Paese e quella della Consulta è cultura imprenditoriale.",
-    "data": "2026-04-21T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "aae92810517d",
-    "titolo": "Accordo per recupero delle liste d’attesa, sistema 118 e meno esternalizzazioni",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-per-recupero-delle-liste-dattesa-sistema-118-meno-esternalizzazioni",
-    "descrizione": "Regione Piemonte e sindacati Cisl Fp, Fials, Nursind e Nursing up hanno siglato un accordo per l’utilizzo di risorse una tantum per le prestazioni aggiuntive finalizzate al recupero delle liste d’attesa, il rafforzamento del sistema 118 e la riduzione del ricorso alle…",
-    "data": "2026-04-20T18:43:47+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "1c0d73adac64",
-    "titolo": "L’Asti-Cuneo aperta al traffico a quattro corsie",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lasti-cuneo-aperta-al-traffico-quattro-corsie",
-    "descrizione": "É entrato oggi in piena operatività il collegamento autostradale tra Asti e Cuneo con l’apertura al traffico di due corsie per senso di marcia fra Cherasco e lo svincolo di Alba ovest (Roddi). Il risultato è il frutto di un cronoprogramma intenso…",
-    "data": "2026-04-20T16:39:43+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
