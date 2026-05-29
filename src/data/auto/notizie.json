@@ -10,10 +10,40 @@
     "colore": "#dc2626"
   },
   {
+    "id": "157673ead80d",
+    "titolo": "Avviso per la presentazione di progetti per la promozione ed il sostegno alle reti di solidarietà tra famiglie e all'affidamento familiare",
+    "link": "https://www.comune.torino.it/novita/avvisi/avviso-per-presentazione-progetti-per-promozione-sostegno-alle-reti-solidarieta",
+    "descrizione": "Approvato il bando per la presentazione di progetti per la promozione ed il sostegno alle reti di solidarietà tra famiglie e all'affidamento familiare.",
+    "data": "2026-05-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "710a199d7253",
     "titolo": "Chiusura Centro antiviolenza",
     "link": "https://www.comune.torino.it/novita/avvisi/chiusura-centro-antiviolenza",
     "descrizione": "Chiusura in occasione della festività del 2 giugno.",
+    "data": "2026-05-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e81f0af991cf",
+    "titolo": "Sciopero 29 maggio 2026",
+    "link": "https://www.comune.torino.it/novita/avvisi/sciopero-29-maggio-2026",
+    "descrizione": "Sciopero nazionale di tutte le categorie pubbliche e private",
+    "data": "2026-05-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7d78be5e1f7f",
+    "titolo": "KAPPA FUTURFESTIVAL (03-04-05 LUGLIO 2026) - RILASCIO CONCESSIONI OCCUPAZIONE TEMPORANEA DEL SUOLO PUBBLICO PER ATTIVITÀ DI VENDITA DI PRODOTTI ALIMENTARI",
+    "link": "https://www.comune.torino.it/novita/notizie/kappa-futurfestival-03-04-05-luglio-2026-rilascio-concessioni-occupazione",
+    "descrizione": "Le istanze dovranno pervenire entro e non oltre giovedì 18 giugno 2026 e dovranno essere presentate esclusivamente tramite il Portale Impresainungiorno.",
     "data": "2026-05-29T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1965,36 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/consultori-familiari-torino-realta-percezione-prospettive-domani-palazzo-civico",
     "descrizione": "L’iniziativa rappresenta un’importante occasione di approfondimento sul ruolo dei consultori familiari nel sistema cittadino dei servizi socio-sanitari.",
     "data": "2026-04-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e56d425f1656",
-    "titolo": "Gruppo Adolescenza e Adozione: sfide e risorse",
-    "link": "https://www.comune.torino.it/novita/notizie/gruppo-adolescenza-adozione-sfide-risorse",
-    "descrizione": "Uno spazio gratuito per genitori adottivi di ragazzi e ragazze adolescenti.",
-    "data": "2026-04-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "cf0a8e00af52",
-    "titolo": "Torino, un nuovo polo educativo e sociale per giovani e famiglie per l’ex asilo di via Alessandria",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-un-nuovo-polo-educativo-sociale-per-giovani-famiglie-per-lex-asilo-via",
-    "descrizione": "La Città di Torino assegnerà l’immobile comunale di via Alessandria 12 al “Centro come Noi Sandro Pertini”, organizzazione Sermig di volontariato.",
-    "data": "2026-04-21T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8145fac0bc64",
-    "titolo": "Videosorveglianza, prosegue il lavoro per implementare telecamere e sistemi di sicurezza",
-    "link": "https://www.comune.torino.it/novita/comunicati/videosorveglianza-prosegue-lavoro-per-implementare-telecamere-sistemi-sicurezza",
-    "descrizione": "Prosegue l’impegno dell’amministrazione per l’implementazione del sistema di videosorveglianza cittadino.",
-    "data": "2026-04-21T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
