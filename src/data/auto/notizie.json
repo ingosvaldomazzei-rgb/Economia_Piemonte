@@ -20,6 +20,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "92cb79c4cfad",
+    "titolo": "Sottopasso Donat Cattin, da lunedì 1° giugno chiusure alternate per manutenzione",
+    "link": "https://www.comune.torino.it/novita/comunicati/sottopasso-donat-cattin-lunedi-1deg-giugno-chiusure-alternate-per-manutenzione",
+    "descrizione": "Per consentire lo svolgimento di alcuni interventi di manutenzione straordinaria e di aggiornamento degli impianti di sicurezza,",
+    "data": "2026-05-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "7bedd993c8e8",
     "titolo": "Sicurezza sul lavoro e caldo estremo: l’ordinanza regionale per la tutela dei lavoratori esposti alle alte temperature",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sicurezza-sul-lavoro-caldo-estremo-lordinanza-regionale-per-tutela-dei-lavoratori-esposti-alle-alte",
@@ -1985,16 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/boschi-aule-cielo-aperto",
     "descrizione": "Ritorna il ciclo di giornate informative in bosco per le scuole del Piemonte con 13 eventi gratuiti realizzati da Ipla per conto della Regione: cinque mezze giornate presso la sede dell’Istituto a Torino e otto giornate intere nelle province di Torino e Cuneo, con tappe a Montà…",
     "data": "2026-04-22T15:23:09+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "4b28f8f49edd",
-    "titolo": "Il capitale umano vero motore della competitività e della crescita",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/capitale-umano-vero-motore-della-competitivita-della-crescita",
-    "descrizione": "L'appuntamento annuale del Fondo europeo di sviluppo 2021-2027, che il 22 aprile ha riunito istituzioni, imprese e mondo accademico nell'ITC ILO di Torino, ha ribadito con forza una convinzione: il capitale umano è il vero motore della competitività e della crescita. In un…",
-    "data": "2026-04-22T14:21:58+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
