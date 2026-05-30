@@ -30,6 +30,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "152b78690b35",
+    "titolo": "Parco della Tesoriera verso la riapertura completa. Lunedì 1° giugno chiusura temporanea per la rimozione del cantiere",
+    "link": "https://www.comune.torino.it/novita/comunicati/parco-della-tesoriera-verso-riapertura-completa-lunedi-1deg-giugno-chiusura",
+    "descrizione": "I lavori al Parco della Tesoriera sono giunti al termine e da martedì 2 giugno l’area verde sarà accessibile al pubblico nella sua interezza.",
+    "data": "2026-05-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "7bedd993c8e8",
     "titolo": "Sicurezza sul lavoro e caldo estremo: l’ordinanza regionale per la tutela dei lavoratori esposti alle alte temperature",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sicurezza-sul-lavoro-caldo-estremo-lordinanza-regionale-per-tutela-dei-lavoratori-esposti-alle-alte",
@@ -1985,16 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/risultati-vesta-2026",
     "descrizione": "Sono state 42.384 le domande pervenute durante il “click day” del 21 aprile di Vesta 2026, la misura della Regione Piemonte per il sostegno alle famiglie nelle spese di accesso ai servizi per l’infanzia. Dopo i rallentamenti registrati ieri nella prima…",
     "data": "2026-04-22T17:41:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "b01acefd9bcd",
-    "titolo": "I boschi aule a cielo aperto",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/boschi-aule-cielo-aperto",
-    "descrizione": "Ritorna il ciclo di giornate informative in bosco per le scuole del Piemonte con 13 eventi gratuiti realizzati da Ipla per conto della Regione: cinque mezze giornate presso la sede dell’Istituto a Torino e otto giornate intere nelle province di Torino e Cuneo, con tappe a Montà…",
-    "data": "2026-04-22T15:23:09+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
