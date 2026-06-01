@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "8b89d94f197e",
+    "titolo": "Ponte Ferdinando sulla Stura, dal 3 giugno via alla seconda fase dei lavori",
+    "link": "https://www.comune.torino.it/novita/comunicati/ponte-ferdinando-sulla-stura-3-giugno-via-alla-seconda-fase-dei-lavori",
+    "descrizione": "Da mercoledì 3 giugno il cantiere per la manutenzione straordinaria del ponte Ferdinando di Savoia sulla Stura, in corso Giulio Cesare.",
+    "data": "2026-06-01T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "157673ead80d",
     "titolo": "Avviso per la presentazione di progetti per la promozione ed il sostegno alle reti di solidarietà tra famiglie e all'affidamento familiare",
     "link": "https://www.comune.torino.it/novita/avvisi/avviso-per-presentazione-progetti-per-promozione-sostegno-alle-reti-solidarieta",
@@ -1985,16 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-liguria-bruxelles-per-rafforzare-ruolo-delle-regioni-europa",
     "descrizione": "Si stringe sempre di più, anche in ambito europeo, il legame tra la Liguria e il Piemonte. Una fitta agenda di appuntamenti a Bruxelles ha caratterizzato la giornata del 22 aprile per i presidenti delle due…",
     "data": "2026-04-23T10:53:54+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "773a32768d2e",
-    "titolo": "I risultati di Vesta 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/risultati-vesta-2026",
-    "descrizione": "Sono state 42.384 le domande pervenute durante il “click day” del 21 aprile di Vesta 2026, la misura della Regione Piemonte per il sostegno alle famiglie nelle spese di accesso ai servizi per l’infanzia. Dopo i rallentamenti registrati ieri nella prima…",
-    "data": "2026-04-22T17:41:00+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
