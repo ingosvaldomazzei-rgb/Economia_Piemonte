@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "15fd9ca2d81a",
+    "titolo": "L'Archivio Storico della Città di Torino per Archivissima 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/larchivio-storico-della-citta-torino-per-archivissima-2026",
+    "descrizione": "Venerdì 5 giugno 2026, dalle 17:30 alle 23:00",
+    "data": "2026-06-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "8b89d94f197e",
     "titolo": "Ponte Ferdinando sulla Stura, dal 3 giugno via alla seconda fase dei lavori",
     "link": "https://www.comune.torino.it/novita/comunicati/ponte-ferdinando-sulla-stura-3-giugno-via-alla-seconda-fase-dei-lavori",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "41531385b38c",
-    "titolo": "Piemonte e Liguria a Bruxelles per rafforzare il ruolo delle Regioni in Europa",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-liguria-bruxelles-per-rafforzare-ruolo-delle-regioni-europa",
-    "descrizione": "Si stringe sempre di più, anche in ambito europeo, il legame tra la Liguria e il Piemonte. Una fitta agenda di appuntamenti a Bruxelles ha caratterizzato la giornata del 22 aprile per i presidenti delle due…",
-    "data": "2026-04-23T10:53:54+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
