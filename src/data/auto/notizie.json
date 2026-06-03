@@ -30,6 +30,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "c86938fc72ad",
+    "titolo": "Sala Rossa: migliorare il drenaggio delle acque meteoriche al parco Ruffini",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-migliorare-drenaggio-delle-acque-meteoriche-al-parco-ruffini",
+    "descrizione": "L'atto impegna a monitorare costantemente le infiltrazioni nelle aree adiacenti al Pala Gianni Asti non comprese nel bando “Rinaturalizzazione suoli degradati”",
+    "data": "2026-06-03T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "76c6c244c188",
+    "titolo": "INAUGURATI OGGI I RINNOVATI SPAZI DI NIDO E SCUOLA PER L'INFANZIA \"GIANCARLO PEREMPRUNER\" DI VIA TRONZANO",
+    "link": "https://www.comune.torino.it/novita/comunicati/inaugurati-oggi-rinnovati-spazi-nido-scuola-per-linfanzia-giancarlo-perempruner",
+    "descrizione": "Taglio del nastro nel pomeriggio di oggi per gli spazi rinnovati del nido e scuola per l’infanzia “Giancarlo Perempruner”, in via Tronzano 20, al termine dei la",
+    "data": "2026-06-03T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "8b89d94f197e",
     "titolo": "Ponte Ferdinando sulla Stura, dal 3 giugno via alla seconda fase dei lavori",
     "link": "https://www.comune.torino.it/novita/comunicati/ponte-ferdinando-sulla-stura-3-giugno-via-alla-seconda-fase-dei-lavori",
@@ -1975,26 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-macfrut-2026-piemonte-della-frutta-qualita",
     "descrizione": "Il comparto frutticolo del Piemonte si è presentato a Macfrut. Fruit & Veg Professional Show, una fra le più importanti fiere europee del settore in Europa tenutasi in programma al Rimini Expo Centre dal 21 al 23 aprile. Lo spazio…",
     "data": "2026-04-24T11:38:16+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "94ca8301e7ec",
-    "titolo": "Più di 14 milioni per la riduzione e il riciclo dei rifiuti",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-14-milioni-per-riduzione-riciclo-dei-rifiuti",
-    "descrizione": "Ridurre la produzione di rifiuti, promuovere la simbiosi industriale e migliorare le tecnologie di riciclaggio con uno stanziamento di oltre 14 milioni di euro sono gli obiettivi che si pone la Giunta regionale…",
-    "data": "2026-04-23T16:10:49+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "0d27f14bc5ba",
-    "titolo": "Continua la riforma della burocrazia regionale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-riforma-della-burocrazia-regionale",
-    "descrizione": "Meno norme inutili, meno sovrapposizioni e un sistema più semplice da applicare con la riforma della burocrazia regionale. Il Consiglio regionale ha approvato la legge di razionalizzazione dell’ordinamento giuridico, che avvia un intervento concreto di riordino della…",
-    "data": "2026-04-23T12:36:40+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"

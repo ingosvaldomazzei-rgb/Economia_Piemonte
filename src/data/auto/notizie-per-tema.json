@@ -1,4 +1,118 @@
 {
+  "istruzione-formazione": [
+    {
+      "id": "76c6c244c188",
+      "titolo": "INAUGURATI OGGI I RINNOVATI SPAZI DI NIDO E SCUOLA PER L'INFANZIA \"GIANCARLO PEREMPRUNER\" DI VIA TRONZANO",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurati-oggi-rinnovati-spazi-nido-scuola-per-linfanzia-giancarlo-perempruner",
+      "data": "2026-06-03T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b2226c53763d",
+      "titolo": "Scuola, Torino continua a investire nell’infanzia. Nuovi arredi per i poli educativi di via Verolengo e via Giuria",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-torino-continua-investire-nellinfanzia-nuovi-arredi-per-poli-educativi",
+      "data": "2026-05-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "21ddb1ca8bd3",
+      "titolo": "Dimensionamento scolastico: niente accorpamenti fino al 2029-30",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dimensionamento-scolastico-niente-accorpamenti-fino-al-2029-30",
+      "data": "2026-05-26T14:57:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0d1c3bb1043e",
+      "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
+      "data": "2026-05-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ddd60e8bc158",
+      "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
+      "data": "2026-05-25T15:31:07+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "63b6910f347b",
+      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
+      "data": "2026-05-22T12:14:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2f46fdc41a2a",
+      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale",
+      "data": "2026-05-22T12:14:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "660092f8ac74",
+      "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
+      "data": "2026-05-18T16:25:02+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "343a9da2140e",
+      "titolo": "La Scuola dell'Infanzia Maria Teresa festeggia 150 anni con una riqualificazione da quasi 1 milione di euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-dellinfanzia-maria-teresa-festeggia-150-anni-una-riqualificazione-quasi-1",
+      "data": "2026-05-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5805c6a69759",
+      "titolo": "Il calendario scolastico 2026-2027",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/calendario-scolastico-2026-2027",
+      "data": "2026-05-11T12:00:50+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9518f805e9ec",
+      "titolo": "Scuola primaria Allievo-Franchetti: conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-primaria-allievo-franchetti-conclusi-interventi-riqualificazione",
+      "data": "2026-05-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5fe748bf20e0",
+      "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
+      "data": "2026-05-06T14:51:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cd1636d2aaa4",
+      "titolo": "Efficientamento energetico, nuovi interventi negli immobili comunali. Lavori per oltre 3,5 milioni in 5 scuole",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-negli-immobili-comunali-lavori-per",
+      "data": "2026-05-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cdffac08195c",
+      "titolo": "Salone del Libro: con il “Buono da leggere” il Piemonte investe su giovani lettori e scuole",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-libro-buono-leggere-piemonte-investe-giovani-lettori-scuole",
+      "data": "2026-04-27T12:39:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "sociale-welfare": [
     {
       "id": "157673ead80d",
@@ -729,112 +843,6 @@
       "fonte_id": "regione"
     }
   ],
-  "istruzione-formazione": [
-    {
-      "id": "b2226c53763d",
-      "titolo": "Scuola, Torino continua a investire nell’infanzia. Nuovi arredi per i poli educativi di via Verolengo e via Giuria",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-torino-continua-investire-nellinfanzia-nuovi-arredi-per-poli-educativi",
-      "data": "2026-05-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "21ddb1ca8bd3",
-      "titolo": "Dimensionamento scolastico: niente accorpamenti fino al 2029-30",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dimensionamento-scolastico-niente-accorpamenti-fino-al-2029-30",
-      "data": "2026-05-26T14:57:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0d1c3bb1043e",
-      "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
-      "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ddd60e8bc158",
-      "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
-      "data": "2026-05-25T15:31:07+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "63b6910f347b",
-      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
-      "data": "2026-05-22T12:14:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2f46fdc41a2a",
-      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale",
-      "data": "2026-05-22T12:14:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "660092f8ac74",
-      "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
-      "data": "2026-05-18T16:25:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "343a9da2140e",
-      "titolo": "La Scuola dell'Infanzia Maria Teresa festeggia 150 anni con una riqualificazione da quasi 1 milione di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-dellinfanzia-maria-teresa-festeggia-150-anni-una-riqualificazione-quasi-1",
-      "data": "2026-05-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5805c6a69759",
-      "titolo": "Il calendario scolastico 2026-2027",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/calendario-scolastico-2026-2027",
-      "data": "2026-05-11T12:00:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9518f805e9ec",
-      "titolo": "Scuola primaria Allievo-Franchetti: conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-primaria-allievo-franchetti-conclusi-interventi-riqualificazione",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5fe748bf20e0",
-      "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
-      "data": "2026-05-06T14:51:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cd1636d2aaa4",
-      "titolo": "Efficientamento energetico, nuovi interventi negli immobili comunali. Lavori per oltre 3,5 milioni in 5 scuole",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-negli-immobili-comunali-lavori-per",
-      "data": "2026-05-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cdffac08195c",
-      "titolo": "Salone del Libro: con il “Buono da leggere” il Piemonte investe su giovani lettori e scuole",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-libro-buono-leggere-piemonte-investe-giovani-lettori-scuole",
-      "data": "2026-04-27T12:39:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "ambiente-qualita-aria": [
     {
       "id": "59c0f947c475",
@@ -857,14 +865,6 @@
       "titolo": "Energia: prezzi in rialzo ma nessun problema di approvvigionamento",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/energia-prezzi-rialzo-ma-nessun-problema-approvvigionamento",
       "data": "2026-04-28T16:20:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "94ca8301e7ec",
-      "titolo": "Più di 14 milioni per la riduzione e il riciclo dei rifiuti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-14-milioni-per-riduzione-riciclo-dei-rifiuti",
-      "data": "2026-04-23T16:10:49+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
