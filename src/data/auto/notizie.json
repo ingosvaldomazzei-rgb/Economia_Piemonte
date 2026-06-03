@@ -20,6 +20,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "c020887c4d60",
+    "titolo": "Acconto IMU 2026",
+    "link": "https://www.comune.torino.it/novita/avvisi/acconto-imu-2026",
+    "descrizione": "Il 16 giugno scade il termine per il pagamento dell'acconto IMU 2026",
+    "data": "2026-06-03T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "8b89d94f197e",
     "titolo": "Ponte Ferdinando sulla Stura, dal 3 giugno via alla seconda fase dei lavori",
     "link": "https://www.comune.torino.it/novita/comunicati/ponte-ferdinando-sulla-stura-3-giugno-via-alla-seconda-fase-dei-lavori",
@@ -124,6 +134,16 @@
     "titolo": "Nuovi spazi e servizi in Barriera di Milano con la riqualificazione del circolo Anatra Zoppa",
     "link": "https://www.comune.torino.it/novita/comunicati/nuovi-spazi-servizi-barriera-milano-riqualificazione-circolo-anatra-zoppa",
     "descrizione": "Terminati i lavori di riqualificazione, l’Anatra Zoppa di via Courmayeur 5 torna a vivere come Community Hub aperto.",
+    "data": "2026-05-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "173f69b006b3",
+    "titolo": "Servizio di affilatura lame pattini da ghiaccio in dotazione al Palazzo del Ghiaccio Tazzoli - Via Sanremo, 67 - Torino",
+    "link": "https://www.comune.torino.it/novita/avvisi/servizio-affilatura-lame-pattini-ghiaccio-dotazione-al-palazzo-ghiaccio-tazzoli",
+    "descrizione": "Indagine esplorativa di mercato finalizzata alla ricerca di operatori economici interessati ad effettuare il servizio di affilatura lame pattini da ghiaccio.",
     "data": "2026-05-29T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "cdb5b8e86d19",
-    "titolo": "Domande per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (oggettistica) in Via Verdi – Via Sant'Ottavio",
-    "link": "https://www.comune.torino.it/novita/avvisi/domande-per-rilascio-autorizzazioni-stagionali-concessione-suolo-pubblico-per-0",
-    "descrizione": "È possibile inoltrare le domande per il rilascio delle autorizzazioni stagionali per l'attività di vendita di prodotti non alimentari (Oggettistica)",
-    "data": "2026-04-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "040e2aec59d8",
-    "titolo": "Domande per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (oggettistica) in Via Verdi – Via Sant'Ottavio",
-    "link": "https://www.comune.torino.it/novita/notizie/domande-per-rilascio-autorizzazioni-stagionali-concessione-suolo-pubblico-per",
-    "descrizione": "È possibile inoltrare le domande per il rilascio delle autorizzazioni stagionali per l'attività di vendita di prodotti non alimentari (Oggettistica)",
-    "data": "2026-04-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

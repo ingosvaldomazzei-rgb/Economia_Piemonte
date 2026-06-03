@@ -381,6 +381,32 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "universita-ricerca": [
+    {
+      "id": "173f69b006b3",
+      "titolo": "Servizio di affilatura lame pattini da ghiaccio in dotazione al Palazzo del Ghiaccio Tazzoli - Via Sanremo, 67 - Torino",
+      "link": "https://www.comune.torino.it/novita/avvisi/servizio-affilatura-lame-pattini-ghiaccio-dotazione-al-palazzo-ghiaccio-tazzoli",
+      "data": "2026-05-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "11b945d2b707",
+      "titolo": "Altri 6 sei stage retribuiti a Bruxelles per universitari e neolaureati",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altri-6-sei-stage-retribuiti-bruxelles-per-universitari-neolaureati",
+      "data": "2026-05-11T10:11:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e3e4094e6f3f",
+      "titolo": "Borsa di studio ad altri 729 studenti universitari",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/borsa-studio-ad-altri-729-studenti-universitari",
+      "data": "2026-04-30T11:58:15+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "sport": [
     {
       "id": "6c1a698227a4",
@@ -1335,24 +1361,6 @@
       "data": "2026-04-29T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "universita-ricerca": [
-    {
-      "id": "11b945d2b707",
-      "titolo": "Altri 6 sei stage retribuiti a Bruxelles per universitari e neolaureati",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altri-6-sei-stage-retribuiti-bruxelles-per-universitari-neolaureati",
-      "data": "2026-05-11T10:11:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e3e4094e6f3f",
-      "titolo": "Borsa di studio ad altri 729 studenti universitari",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/borsa-studio-ad-altri-729-studenti-universitari",
-      "data": "2026-04-30T11:58:15+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "turismo": [
