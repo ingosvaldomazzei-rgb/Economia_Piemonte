@@ -3,7 +3,7 @@
     "id": "b69969f0c6e5",
     "titolo": "Torino Pride 2026",
     "link": "https://www.comune.torino.it/novita/notizie/torino-pride-2026",
-    "descrizione": "Venti di Lotte",
+    "descrizione": "Venti di Lotte. Il corteo del Pride si muove nelle vie della città per portare istanze, orgoglio, visibilità e lotta nelle strade e in mezzo alla gente.",
     "data": "2026-06-06T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -15,6 +15,56 @@
     "link": "https://www.comune.torino.it/novita/notizie/larchivio-storico-della-citta-torino-per-archivissima-2026",
     "descrizione": "Venerdì 5 giugno 2026, dalle 17:30 alle 23:00",
     "data": "2026-06-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "c424369f388b",
+    "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
+    "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
+    "descrizione": "Torino si prepara alla decima edizione di Biennale Democrazia, in programma dal 7 all’11 aprile 2027.",
+    "data": "2026-06-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "10e5b6518bd4",
+    "titolo": "Torino Pride 2026. Manifestazione con corteo sabato 6 giugno. Previste modifiche viabili",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-pride-2026-manifestazione-corteo-sabato-6-giugno-previste-modifiche",
+    "descrizione": "Sabato 6 giugno si terrà il “Torino Pride 2026”, la manifestazione con corteo che quest’anno festeggia la sua 20° edizione.",
+    "data": "2026-06-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "99a50fa84bc0",
+    "titolo": "EfficienTO: quasi 1 milione di euro per l’efficienza energetica di due scuole cittadine",
+    "link": "https://www.comune.torino.it/novita/comunicati/efficiento-quasi-1-milione-euro-per-lefficienza-energetica-due-scuole-cittadine",
+    "descrizione": "Quasi 1 milione di euro per migliorare l’efficienza energetica di due complessi scolastici cittadini.",
+    "data": "2026-06-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e5b96d8ce4ad",
+    "titolo": "Mirafiori Sud, due immobili comunali rinascono come presidi educativi e sociali",
+    "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-sud-due-immobili-comunali-rinascono-come-presidi-educativi-sociali",
+    "descrizione": "Il provvedimento dà il via libera alla concessione gratuita di due immobili di proprietà comunale alla Fondazione della Comunità di Mirafiori E.T.S.",
+    "data": "2026-06-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "67a06035374f",
+    "titolo": "Sospensione estiva della ZTL e della sosta a pagamento",
+    "link": "https://www.comune.torino.it/novita/comunicati/sospensione-estiva-della-ztl-della-sosta-pagamento-0",
+    "descrizione": "Il pagamento della sosta sulle strisce blu e della ZTL sarà sospeso dal 10 al 23 agosto 2026.",
+    "data": "2026-06-04T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
@@ -1948,55 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "fd35e3a68ad4",
-    "titolo": "RETTIFICA - Domande per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (oggettistica) in Via Verdi – Via Sant'Ottavio",
-    "link": "https://www.comune.torino.it/novita/notizie/rettifica-domande-per-rilascio-autorizzazioni-stagionali-concessione-suolo",
-    "descrizione": "Rettificata data scadenza invio istanze di partecipazione",
-    "data": "2026-04-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0305df1c0e1f",
-    "titolo": "Seminario sul Sonno – Open Day all’Eduteca Agorà",
-    "link": "https://www.comune.torino.it/novita/notizie/seminario-sul-sonno-open-day-alleduteca-agora",
-    "descrizione": "Martedì 28 Aprile presso l’Eduteca Agorà si terrà un seminario gratuito sul sonno del bambino dai 4 ai 17 mesi con la consulente Stefania Farinasso",
-    "data": "2026-04-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "5894cd7e8113",
-    "titolo": "Concerti di ELISA (29 APRILE 2026), ANNALISA (30 APRILE 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/notizie/concerti-elisa-29-aprile-2026-annalisa-30-aprile-2026-convocazione-per",
-    "descrizione": "Convocazione per LUNEDI' 27 APRILE ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali",
-    "data": "2026-04-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d9562625d922",
-    "titolo": "Sicurezza urbana: Torino capofila del progetto europeo “Diverpol” per tutelare l’inclusività",
-    "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-torino-capofila-progetto-europeo-diverpol-per-tutelare",
-    "descrizione": "Torino sarà città capofila di “Diverpol\" il progetto europeo biennale che mira a promuovere un modello di sicurezza urbana inclusiva e basata sulla fiducia.",
-    "data": "2026-04-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "642f7dac0707",
-    "titolo": "Al Macfrut 2026 il Piemonte della frutta di qualità",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-macfrut-2026-piemonte-della-frutta-qualita",
-    "descrizione": "Il comparto frutticolo del Piemonte si è presentato a Macfrut. Fruit & Veg Professional Show, una fra le più importanti fiere europee del settore in Europa tenutasi in programma al Rimini Expo Centre dal 21 al 23 aprile. Lo spazio…",
-    "data": "2026-04-24T11:38:16+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
