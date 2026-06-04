@@ -20,6 +20,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "50de4eed839e",
+    "titolo": "Il Piemonte favorevole al raddoppio del tunnel del Monte Bianco",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-favorevole-al-raddoppio-tunnel-monte-bianco",
+    "descrizione": "Al vertice del Trattato del Quirinale tra Italia e Francia, svoltosi nel Forte di Bard (Aosta), la Regione Piemonte è stata rappresentata dal presidente Alberto Cirio e dal vicepresidente Maurizio Marrone. In mattinata, insieme al…",
+    "data": "2026-06-04T18:27:01+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "c424369f388b",
     "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
     "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
@@ -68,6 +78,26 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "6430477b2711",
+    "titolo": "Chips Act 2.0: importante risultato per il Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/chips-act-20-importante-risultato-per-piemonte",
+    "descrizione": "Il nuovo Chips Act 2.0 proposto dalla Commissione Europea e trasmesso al Parlamento europeo e al Consiglio dell’Unione per l’avvio dell’iter legislativo introduce per la prima volta un ruolo strutturato e riconosciuto delle Regioni nello sviluppo della politica…",
+    "data": "2026-06-03T18:38:04+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "b9da87d3190c",
+    "titolo": "Contributi al Terzo settore per prevenire la produzione dei rifiuti",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-al-terzo-settore-per-prevenire-produzione-dei-rifiuti",
+    "descrizione": "La Regione Piemonte ha deciso di sostenere con due milioni di euro i progetti di prevenzione dei rifiuti promossi dagli enti del Terzo settore non commerciali e non siano iscritti al Rea (Repertorio economico amministrativo). Si tratta di…",
+    "data": "2026-06-03T16:29:46+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "c020887c4d60",
@@ -1965,36 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
     "descrizione": "Due distinti Avvisi Pubblici a valenza biennale per l’individuazione di 7 spazi di comunità e di 8 istituzioni culturali.",
     "data": "2026-04-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "cbd10ddb7cae",
-    "titolo": "Bella Storia, taglio del nastro per il Cortile del Gioco in Barriera",
-    "link": "https://www.comune.torino.it/novita/comunicati/bella-storia-taglio-nastro-per-cortile-gioco-barriera",
-    "descrizione": "Un nuovo spazio educativo, sicuro e inclusivo prende vita: è il “Cortile del Gioco”, lo spazio all’aperto rinnovato dell’Oratorio Maria Regina della Pace.",
-    "data": "2026-04-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7b3be91aa480",
-    "titolo": "Stadio Olimpico Grande Torino, formalizzata una manifestazione di interesse",
-    "link": "https://www.comune.torino.it/novita/comunicati/stadio-olimpico-grande-torino-formalizzata-una-manifestazione-interesse",
-    "descrizione": "La società Torino FC ha formalizzato alla Città di Torino una manifestazione di interesse preliminare finalizzata alla successiva presentazione di una proposta.",
-    "data": "2026-04-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4c2f07cd220a",
-    "titolo": "Bando pubblico per l’individuazione del soggetto attuatore del mercato \"Antiquariato minore\" di piazza Vittorio Veneto",
-    "link": "https://www.comune.torino.it/novita/avvisi/bando-pubblico-per-lindividuazione-soggetto-attuatore-mercato-antiquariato",
-    "descrizione": "Per una durata biennale, la scadenza per la presentazione della domanda è entro le ore 13:00:00 del 25/05/2026.",
-    "data": "2026-04-24T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"

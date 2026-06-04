@@ -257,6 +257,14 @@
   ],
   "sociale-welfare": [
     {
+      "id": "b9da87d3190c",
+      "titolo": "Contributi al Terzo settore per prevenire la produzione dei rifiuti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-al-terzo-settore-per-prevenire-produzione-dei-rifiuti",
+      "data": "2026-06-03T16:29:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "157673ead80d",
       "titolo": "Avviso per la presentazione di progetti per la promozione ed il sostegno alle reti di solidarietà tra famiglie e all'affidamento familiare",
       "link": "https://www.comune.torino.it/novita/avvisi/avviso-per-presentazione-progetti-per-promozione-sostegno-alle-reti-solidarieta",
@@ -357,6 +365,40 @@
       "titolo": "Continua il prolungamento orario dei nidi comunali",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-prolungamento-orario-dei-nidi-comunali",
       "data": "2026-04-27T15:09:33+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "ambiente-qualita-aria": [
+    {
+      "id": "b9da87d3190c",
+      "titolo": "Contributi al Terzo settore per prevenire la produzione dei rifiuti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-al-terzo-settore-per-prevenire-produzione-dei-rifiuti",
+      "data": "2026-06-03T16:29:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "59c0f947c475",
+      "titolo": "I Parchi naturali del Piemonte a Cinemambiente",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parchi-naturali-piemonte-cinemambiente",
+      "data": "2026-05-26T14:34:53+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f4405b58d172",
+      "titolo": "La pista ciclabile di Lungo Dora Napoli – Firenze intitolata alla pioniera del ciclismo femminile, Maria Milano",
+      "link": "https://www.comune.torino.it/novita/comunicati/pista-ciclabile-lungo-dora-napoli-firenze-intitolata-alla-pioniera-ciclismo",
+      "data": "2026-05-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2487351c94cb",
+      "titolo": "Energia: prezzi in rialzo ma nessun problema di approvvigionamento",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/energia-prezzi-rialzo-ma-nessun-problema-approvvigionamento",
+      "data": "2026-04-28T16:20:40+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -865,14 +907,6 @@
       "data": "2026-04-28T11:36:13+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "cbd10ddb7cae",
-      "titolo": "Bella Storia, taglio del nastro per il Cortile del Gioco in Barriera",
-      "link": "https://www.comune.torino.it/novita/comunicati/bella-storia-taglio-nastro-per-cortile-gioco-barriera",
-      "data": "2026-04-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "autonomia-differenziata": [
@@ -981,32 +1015,6 @@
       "titolo": "Il piano generale del nuovo ospedale di Vercelli",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-generale-nuovo-ospedale-vercelli",
       "data": "2026-04-27T16:02:17+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "ambiente-qualita-aria": [
-    {
-      "id": "59c0f947c475",
-      "titolo": "I Parchi naturali del Piemonte a Cinemambiente",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parchi-naturali-piemonte-cinemambiente",
-      "data": "2026-05-26T14:34:53+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f4405b58d172",
-      "titolo": "La pista ciclabile di Lungo Dora Napoli – Firenze intitolata alla pioniera del ciclismo femminile, Maria Milano",
-      "link": "https://www.comune.torino.it/novita/comunicati/pista-ciclabile-lungo-dora-napoli-firenze-intitolata-alla-pioniera-ciclismo",
-      "data": "2026-05-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2487351c94cb",
-      "titolo": "Energia: prezzi in rialzo ma nessun problema di approvvigionamento",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/energia-prezzi-rialzo-ma-nessun-problema-approvvigionamento",
-      "data": "2026-04-28T16:20:40+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -1215,14 +1223,6 @@
       "titolo": "Spacca lo specchietto di un’auto in pieno pomeriggio di fronte alla chiesa. Fermato da un “civich” fuori servizio",
       "link": "https://www.comune.torino.it/novita/comunicati/spacca-specchietto-unauto-pieno-pomeriggio-fronte-alla-chiesa-fermato-un-civich",
       "data": "2026-04-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cbd10ddb7cae",
-      "titolo": "Bella Storia, taglio del nastro per il Cortile del Gioco in Barriera",
-      "link": "https://www.comune.torino.it/novita/comunicati/bella-storia-taglio-nastro-per-cortile-gioco-barriera",
-      "data": "2026-04-26T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
