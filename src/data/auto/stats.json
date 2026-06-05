@@ -20,7 +20,7 @@
     },
     {
       "tema": "sociale-welfare",
-      "conteggio": 14
+      "conteggio": 15
     },
     {
       "tema": "lavoro-occupazione",
@@ -31,6 +31,10 @@
       "conteggio": 9
     },
     {
+      "tema": "giovani",
+      "conteggio": 8
+    },
+    {
       "tema": "attivita-produttive",
       "conteggio": 8
     },
@@ -39,11 +43,7 @@
       "conteggio": 8
     },
     {
-      "tema": "giovani",
-      "conteggio": 7
-    },
-    {
-      "tema": "enti-locali-piccoli-comuni",
+      "tema": "sport",
       "conteggio": 7
     }
   ],

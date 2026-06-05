@@ -20,6 +20,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "d3b6cba112c7",
+    "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
+    "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
+    "descrizione": "Ottime notizie per i giovani torinesi!! Le tessere della Torino Sport Card sono state ufficialmente spedite!",
+    "data": "2026-06-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d13efbbc2f68",
+    "titolo": "Internet senza paura, piccole regole per evitare le truffe",
+    "link": "https://www.comune.torino.it/novita/notizie/internet-senza-paura-piccole-regole-per-evitare-truffe",
+    "descrizione": "Incontri gratuiti “Internet senza paura” per adulti e anziani: consigli pratici su uso sicuro del web, servizi digitali e prevenzione truffe.",
+    "data": "2026-06-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "50de4eed839e",
     "titolo": "Il Piemonte favorevole al raddoppio del tunnel del Monte Bianco",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-favorevole-al-raddoppio-tunnel-monte-bianco",
@@ -1974,26 +1994,6 @@
     "titolo": "Chiusura temporanea biblioteca Centro Interculturale",
     "link": "https://www.comune.torino.it/novita/avvisi/chiusura-temporanea-biblioteca-centro-interculturale",
     "descrizione": "La biblioteca del Centro Interculturale sarà chiusa per lavori dal 27 aprile fino al 3 maggio. Riaprirà lunedì 4 maggio.",
-    "data": "2026-04-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1f2b991c16b6",
-    "titolo": "Città di Torino, al via la campagna straordinaria per l’affidamento familiare",
-    "link": "https://www.comune.torino.it/novita/comunicati/citta-torino-al-via-campagna-straordinaria-per-laffidamento-familiare",
-    "descrizione": "Sicuro, solido, gentile come l’affido. È da queste parole chiave che prende avvio la campagna straordinaria di sensibilizzazione sull’affidamento familiare.",
-    "data": "2026-04-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c42c3fe3ba96",
-    "titolo": "Avvisi pubblici progetto “La cultura dietro l’angolo 2027 e 2028”",
-    "link": "https://www.comune.torino.it/novita/avvisi/avvisi-pubblici-progetto-cultura-dietro-langolo-2027-2028",
-    "descrizione": "Due distinti Avvisi Pubblici a valenza biennale per l’individuazione di 7 spazi di comunità e di 8 istituzioni culturali.",
     "data": "2026-04-27T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
