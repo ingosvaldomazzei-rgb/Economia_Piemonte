@@ -67,6 +67,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "51289b9b2819",
+      "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "c424369f388b",
       "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
       "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
@@ -113,14 +121,6 @@
       "data": "2026-04-28T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cdffac08195c",
-      "titolo": "Salone del Libro: con il “Buono da leggere” il Piemonte investe su giovani lettori e scuole",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-libro-buono-leggere-piemonte-investe-giovani-lettori-scuole",
-      "data": "2026-04-27T12:39:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "lavoro-occupazione": [
@@ -247,6 +247,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "51289b9b2819",
+      "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "b9da87d3190c",
       "titolo": "Contributi al Terzo settore per prevenire la produzione dei rifiuti",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-al-terzo-settore-per-prevenire-produzione-dei-rifiuti",
@@ -349,17 +357,17 @@
       "data": "2026-04-28T12:14:08+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "f2c70524ec52",
-      "titolo": "Continua il prolungamento orario dei nidi comunali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-prolungamento-orario-dei-nidi-comunali",
-      "data": "2026-04-27T15:09:33+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "istruzione-formazione": [
+    {
+      "id": "4f4c879984ef",
+      "titolo": "Furto in una scuola dell’infanzia, Polizia Locale indaga e denuncia un 50enne",
+      "link": "https://www.comune.torino.it/novita/comunicati/furto-una-scuola-dellinfanzia-polizia-locale-indaga-denuncia-un-50enne",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
     {
       "id": "c424369f388b",
       "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
@@ -479,14 +487,6 @@
       "data": "2026-05-05T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cdffac08195c",
-      "titolo": "Salone del Libro: con il “Buono da leggere” il Piemonte investe su giovani lettori e scuole",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-libro-buono-leggere-piemonte-investe-giovani-lettori-scuole",
-      "data": "2026-04-27T12:39:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "crisi-automotive": [

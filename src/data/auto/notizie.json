@@ -40,6 +40,36 @@
     "colore": "#dc2626"
   },
   {
+    "id": "4f4c879984ef",
+    "titolo": "Furto in una scuola dell’infanzia, Polizia Locale indaga e denuncia un 50enne",
+    "link": "https://www.comune.torino.it/novita/comunicati/furto-una-scuola-dellinfanzia-polizia-locale-indaga-denuncia-un-50enne",
+    "descrizione": "La Polizia Locale di Torino ha indagato e denunciato un 50enne dopo un furto in una scuola torinese",
+    "data": "2026-06-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6f96ea2bfc7f",
+    "titolo": "Harmonia, la nuova edizione di MITO Settembremusica, a Torino e Milano dal 6 al 20 settembre 2026",
+    "link": "https://www.comune.torino.it/novita/comunicati/harmonia-nuova-edizione-mito-settembremusica-torino-milano-6-al-20-settembre",
+    "descrizione": "È Harmonia il tema della ventesima edizione di MITO SettembreMusica, in programma a Milano e Torino dal 6 al 20 settembre 2026.",
+    "data": "2026-06-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "51289b9b2819",
+    "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
+    "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
+    "descrizione": "Le arcate dei Murazzi del Po tornano a vivere con l’inaugurazione di “DesTEENazione - Desideri in Azione”, il nuovo spazio multifunzionale dedicato ai giovani.",
+    "data": "2026-06-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "50de4eed839e",
     "titolo": "Il Piemonte favorevole al raddoppio del tunnel del Monte Bianco",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-favorevole-al-raddoppio-tunnel-monte-bianco",
@@ -94,6 +124,16 @@
     "titolo": "Sospensione estiva della ZTL e della sosta a pagamento",
     "link": "https://www.comune.torino.it/novita/comunicati/sospensione-estiva-della-ztl-della-sosta-pagamento-0",
     "descrizione": "Il pagamento della sosta sulle strisce blu e della ZTL sarà sospeso dal 10 al 23 agosto 2026.",
+    "data": "2026-06-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "df28f9ffbc80",
+    "titolo": "EXPOSED Torino Photo Festival chiude con 107mila visitatori. Quarta edizione dal 9 aprile al 2 giugno 2027",
+    "link": "https://www.comune.torino.it/novita/comunicati/exposed-torino-photo-festival-chiude-107mila-visitatori-quarta-edizione-9-aprile",
+    "descrizione": "Dal 9 aprile al 2 giugno 2026 la terza edizione di EXPOSED Torino Photo Festival, curata e realizzata da CAMERA.",
     "data": "2026-06-04T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1958,45 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "f2c70524ec52",
-    "titolo": "Continua il prolungamento orario dei nidi comunali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/continua-prolungamento-orario-dei-nidi-comunali",
-    "descrizione": "La Regione Piemonte rinnova il proprio impegno concreto a sostegno delle famiglie, stanziando tre milioni di euro per il prolungamento dell’orario nei servizi per l’infanzia comunali per le annualità 2026-2027 e 2027-2028. Grazie a…",
-    "data": "2026-04-27T15:09:33+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "cdffac08195c",
-    "titolo": "Salone del Libro: con il “Buono da leggere” il Piemonte investe su giovani lettori e scuole",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-libro-buono-leggere-piemonte-investe-giovani-lettori-scuole",
-    "descrizione": "Se “Il mondo salvato dai ragazzini”, tema dell’edizione 2026 del Salone Internazionale del Libro di Torino 2026, richiama la responsabilità e la forza delle nuove generazioni, la Regione Piemonte sceglie di tradurre questa visione in un’azione concreta: investire nei giovani e nella…",
-    "data": "2026-04-27T12:39:46+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "cbb3821fb390",
-    "titolo": "CFM - Saggi 2025/26",
-    "link": "https://www.comune.torino.it/novita/notizie/cfm-saggi-202526",
-    "descrizione": "Dal 16 maggio all'11 giugno",
-    "data": "2026-04-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a7f28d5d9043",
-    "titolo": "Chiusura temporanea biblioteca Centro Interculturale",
-    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-temporanea-biblioteca-centro-interculturale",
-    "descrizione": "La biblioteca del Centro Interculturale sarà chiusa per lavori dal 27 aprile fino al 3 maggio. Riaprirà lunedì 4 maggio.",
-    "data": "2026-04-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
