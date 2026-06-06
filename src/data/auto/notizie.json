@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "0b5dac8a9366",
+    "titolo": "Il Ballo in Bianco. Domani a Torino, per la prima volta, la più grande lezione alla sbarra en plein air del mondo",
+    "link": "https://www.comune.torino.it/novita/comunicati/ballo-bianco-domani-torino-per-prima-volta-piu-grande-lezione-alla-sbarra-en",
+    "descrizione": "Roberto Bolle guiderà la più grande lezione di danza alla sbarra del mondo aperta a ballerini di tutte le scuole di danza italiane.",
+    "data": "2026-06-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "d4690cf18174",
     "titolo": "Oltre 3,6 milioni per la sicurezza del Piemonte",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oltre-36-milioni-per-sicurezza-piemonte",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "e3950beeb9c4",
-    "titolo": "Ampliate le risorse per la difesa del suolo nelle aree protette",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ampliate-risorse-per-difesa-suolo-nelle-aree-protette",
-    "descrizione": "La Giunta regionale ha stanziato altri 4.220.000 euro per finanziare nuovi interventi di sistemazione idrogeologica nelle aree protette, nei siti della Rete Natura 2000 e sulla rete sentieristica di collegamento. L’operazione, che si inserisce nella…",
-    "data": "2026-04-28T11:36:13+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
