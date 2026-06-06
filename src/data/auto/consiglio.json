@@ -1,6 +1,16 @@
 {
-  "ultimo_aggiornamento": "2026-06-05T20:05:26.365000+00:00",
+  "ultimo_aggiornamento": "2026-06-06T04:03:22.553554+00:00",
   "sedute": [
+    {
+      "id": "bbca7daf3691",
+      "tipo": "seduta",
+      "numero": "094",
+      "titolo": "Seduta n. 094 del 09/06/2026",
+      "data": "2026-06-09T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=094&data_seduta=09-06-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
     {
       "id": "3601a519c271",
       "tipo": "seduta",
@@ -8,7 +18,7 @@
       "titolo": "Seduta n. 093 del 26/05/2026",
       "data": "2026-05-26T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=093&data_seduta=26-05-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89234&nome_file=Sintesi%20n.%2093_26maggio2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
@@ -2037,9 +2047,9 @@
     }
   ],
   "statistiche": {
-    "totale_sedute": 23,
-    "totale_interrogazioni": 100,
-    "totale_interpellanze": 0,
+    "totale_sedute": 24,
+    "totale_interrogazioni": 149,
+    "totale_interpellanze": 1,
     "totale_mozioni": 9,
     "totale_odg": 191,
     "mozioni_approvate": 102,
