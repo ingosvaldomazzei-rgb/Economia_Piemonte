@@ -1,5 +1,25 @@
 [
   {
+    "id": "1db171f09635",
+    "titolo": "Ponte Carpanini, dal 9 all'11 giugno chiusura diurna per manutenzione",
+    "link": "https://www.comune.torino.it/novita/comunicati/ponte-carpanini-9-all11-giugno-chiusura-diurna-per-manutenzione",
+    "descrizione": "Per consentire lo svolgimento delle periodiche verifiche all’impianto di sollevamento.",
+    "data": "2026-06-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b1e01cd72a15",
+    "titolo": "Crescere in Città 2026/2027: pubblicazione esiti valutazioni modalità A",
+    "link": "https://www.comune.torino.it/novita/notizie/crescere-citta-20262027-pubblicazione-esiti-valutazioni-modalita",
+    "descrizione": "Pubblicazione esiti della valutazione delle proposte pervenute in risposta al Bando 2026-2027 per la modalità A - \"CLASSICA”.",
+    "data": "2026-06-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "b69969f0c6e5",
     "titolo": "Torino Pride 2026",
     "link": "https://www.comune.torino.it/novita/notizie/torino-pride-2026",
@@ -1974,26 +1994,6 @@
     "titolo": "Campagna straordinaria per l’affidamento familiare",
     "link": "https://www.comune.torino.it/novita/avvisi/campagna-straordinaria-per-laffidamento-familiare",
     "descrizione": "Sicuro, solido, gentile come l’affido. È da queste parole chiave che prende avvio la campagna straordinaria di sensibilizzazione sull’affidamento familiare.",
-    "data": "2026-04-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "9fa51c0c455d",
-    "titolo": "Gruppo di ascolto e di parola per la famiglia che cambia",
-    "link": "https://www.comune.torino.it/novita/notizie/gruppo-ascolto-parola-per-famiglia-che-cambia",
-    "descrizione": "Uno spazio gratuito per bambini e bambine figli/e di genitori separati.",
-    "data": "2026-04-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0a1cb8543f21",
-    "titolo": "Crescere in Città 2026/2027: pubblicazione esiti valutazioni modalità B",
-    "link": "https://www.comune.torino.it/novita/notizie/crescere-citta-20262027-pubblicazione-esiti-valutazioni-modalita-b",
-    "descrizione": "Pubblicazione esiti della valutazione delle proposte pervenute in risposta al Bando 2026-2027 per la modalità B - coprogettazione con i Centri di ITER.",
     "data": "2026-04-28T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
