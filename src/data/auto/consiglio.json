@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-06-08T11:09:51.867305+00:00",
+  "ultimo_aggiornamento": "2026-06-08T16:10:21.046594+00:00",
   "sedute": [
     {
       "id": "bbca7daf3691",
@@ -2048,11 +2048,11 @@
   ],
   "statistiche": {
     "totale_sedute": 24,
-    "totale_interrogazioni": 199,
-    "totale_interpellanze": 1,
-    "totale_mozioni": 5,
-    "totale_odg": 145,
-    "mozioni_approvate": 76,
-    "mozioni_respinte": 32
+    "totale_interrogazioni": 100,
+    "totale_interpellanze": 0,
+    "totale_mozioni": 9,
+    "totale_odg": 191,
+    "mozioni_approvate": 102,
+    "mozioni_respinte": 40
   }
 }

@@ -20,6 +20,66 @@
     "colore": "#dc2626"
   },
   {
+    "id": "76f8ac7f8f7a",
+    "titolo": "La Sala Rossa approva 10 civiche benemerenze",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approva-10-civiche-benemerenze",
+    "descrizione": "Approvate all’unanimità dieci proposte di civiche benemerenze per il 2026",
+    "data": "2026-06-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a3ad0512eacf",
+    "titolo": "Al via i soggiorni estivi per persone con disabilità: partito oggi uno dei primi gruppi da Torino",
+    "link": "https://www.comune.torino.it/novita/comunicati/al-via-soggiorni-estivi-per-persone-disabilita-partito-oggi-uno-dei-primi-gruppi",
+    "descrizione": "È partito questa mattina uno dei primi gruppi di persone con disabilità: si tratta di un gruppo di 12 partecipanti.",
+    "data": "2026-06-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f786da83378e",
+    "titolo": "Più interventi con meno disagi, nasce a Torino la regia digitale dei cantieri",
+    "link": "https://www.comune.torino.it/novita/comunicati/piu-interventi-meno-disagi-nasce-torino-regia-digitale-dei-cantieri",
+    "descrizione": "Uno strumento unico, digitale e georeferenziato, per programmare e gestire in modo efficace e coordinato tutte le azioni di manutenzione e trasformazione.",
+    "data": "2026-06-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "02c48dfe4a58",
+    "titolo": "Santa Rita, dal 10 giugno lavori sulla rete elettrica: modifiche alla viabilità in via Romolo Gessi e corso Orbassano",
+    "link": "https://www.comune.torino.it/novita/comunicati/santa-rita-10-giugno-lavori-sulla-rete-elettrica-modifiche-alla-viabilita-via",
+    "descrizione": "L'avvio del cantiere è stato programmato in concomitanza con la conclusione dell'anno scolastico, con l'obiettivo di limitare il più possibile i disagi",
+    "data": "2026-06-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9871fc174d5a",
+    "titolo": "Dismissione credenziali ex Torino Facile",
+    "link": "https://www.comune.torino.it/novita/avvisi/dismissione-credenziali-ex-torino-facile",
+    "descrizione": "Disattivazione modalità residuale di autenticazione al servizio EdificaTO",
+    "data": "2026-06-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fcf98b548b6b",
+    "titolo": "Musica in Festa",
+    "link": "https://www.comune.torino.it/novita/notizie/musica-festa",
+    "descrizione": "19 giugno 2026, una giornata di festa al parco verde Tonolli.",
+    "data": "2026-06-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "b69969f0c6e5",
     "titolo": "Torino Pride 2026",
     "link": "https://www.comune.torino.it/novita/notizie/torino-pride-2026",
@@ -1934,66 +1994,6 @@
     "titolo": "Corsi prematrimoniali laici, approvato un Protocollo d'intesa con l’Ordine degli Avvocati di Torino e l’Ordine delle Psicologhe e degli Psicologi del Piemonte per l’avvio della sperimentazione",
     "link": "https://www.comune.torino.it/novita/comunicati/corsi-prematrimoniali-laici-approvato-un-protocollo-dintesa-lordine-degli",
     "descrizione": "La Giunta comunale ha approvato nella seduta odierna una delibera per dare avvio alla sperimentazione di un corso prematrimoniale laico, gratuito e facoltativo",
-    "data": "2026-04-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d8b0c843dbfb",
-    "titolo": "Controlli movida, 3500 euro di sanzioni della Polizia Locale",
-    "link": "https://www.comune.torino.it/novita/comunicati/controlli-movida-3500-euro-sanzioni-della-polizia-locale",
-    "descrizione": "Ammonta a 3.493 euro il totale delle sanzioni accertate nella notte tra il 24 e il 25 aprile nel corso dei controlli sulla movida svolti dalla Polizia Locale.",
-    "data": "2026-04-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e0eebe85ccc8",
-    "titolo": "Trasporto pubblico, Torino rende definitiva la Tessera Alias",
-    "link": "https://www.comune.torino.it/novita/comunicati/trasporto-pubblico-torino-rende-definitiva-tessera-alias",
-    "descrizione": "Muoversi sui mezzi pubblici in serenità, con un titolo di riconoscimento che rifletta la propria identità senza dover fornire spiegazioni personali.",
-    "data": "2026-04-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d6b7b8116e61",
-    "titolo": "Giovani e benessere psicologico, Torno fa rete. Approvato il protocollo con l’ordine degli psicologi per il Paranoia Festival",
-    "link": "https://www.comune.torino.it/novita/comunicati/giovani-benessere-psicologico-torno-fa-rete-approvato-protocollo-lordine-degli",
-    "descrizione": "La Città di Torino rafforza il proprio impegno a favore del benessere psicologico delle giovani generazioni attraverso un nuovo protocollo d’intesa.",
-    "data": "2026-04-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f24dbbcd021b",
-    "titolo": "Innovazione e resilienza climatica, il sindaco a Tokyo per SusHi Tech e G-NETS Leaders",
-    "link": "https://www.comune.torino.it/novita/comunicati/innovazione-resilienza-climatica-sindaco-tokyo-per-sushi-tech-g-nets-leaders",
-    "descrizione": "Il sindaco Stefano Lo Russo si trova in missione istituzionale a Tokyo per partecipare a due importanti appuntamenti, SusHi Tech Tokyo e G-NETS Leaders Summit.",
-    "data": "2026-04-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a08bd3cc2951",
-    "titolo": "Salone OFF 2026",
-    "link": "https://www.comune.torino.it/novita/notizie/salone-off-2026",
-    "descrizione": "Ventiduesima edizione dell'iniziativa che porta la cultura fuori dalla Fiera Internazionale del Libro di Torino. Dall'8 al 19 maggio.",
-    "data": "2026-04-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "394ec8dbd5a1",
-    "titolo": "Campagna straordinaria per l’affidamento familiare",
-    "link": "https://www.comune.torino.it/novita/avvisi/campagna-straordinaria-per-laffidamento-familiare",
-    "descrizione": "Sicuro, solido, gentile come l’affido. È da queste parole chiave che prende avvio la campagna straordinaria di sensibilizzazione sull’affidamento familiare.",
     "data": "2026-04-28T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

@@ -31,20 +31,20 @@
       "conteggio": 9
     },
     {
-      "tema": "giovani",
-      "conteggio": 8
-    },
-    {
-      "tema": "attivita-produttive",
-      "conteggio": 8
-    },
-    {
       "tema": "fondi-europei",
       "conteggio": 8
     },
     {
-      "tema": "sport",
+      "tema": "giovani",
       "conteggio": 7
+    },
+    {
+      "tema": "attivita-produttive",
+      "conteggio": 7
+    },
+    {
+      "tema": "sport",
+      "conteggio": 6
     }
   ],
   "totale_temi_con_notizie": 25
