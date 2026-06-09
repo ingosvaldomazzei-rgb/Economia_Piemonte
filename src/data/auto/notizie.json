@@ -1,5 +1,45 @@
 [
   {
+    "id": "20867350de58",
+    "titolo": "Quasi 23 milioni per le nuove aree interne Valsesia e Terre del Giarolo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/quasi-23-milioni-per-nuove-aree-interne-valsesia-terre-giarolo",
+    "descrizione": "La Regione Piemonte ha destinato quasi 23 milioni di euro alle nuove aree interne Valsesia e Terre del Giarolo per contrastarne lo spopolamento e migliorarne la qualità della vita. La combinazione di risorse statali ed europee consentirà di…",
+    "data": "2026-06-09T14:00:38+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "89ff41011948",
+    "titolo": "Festival di Porta Palazzo, tre giorni tra cibo, musica e arte per valorizzare il mercato più grande d’Europa",
+    "link": "https://www.comune.torino.it/novita/comunicati/festival-porta-palazzo-tre-giorni-cibo-musica-arte-per-valorizzare-mercato-piu",
+    "descrizione": "Un Festival dedicato a Porta Palazzo e al suo storico mercato all’aperto, riconosciuto come il più grande d’Europa. È quello che andrà in scena da domani.",
+    "data": "2026-06-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4a7e2479d523",
+    "titolo": "Meisino, la Città avvia il confronto con CONI Piemonte per la gestione del nuovo Centro per l'Educazione Sportiva e Ambientale",
+    "link": "https://www.comune.torino.it/novita/comunicati/meisino-citta-avvia-confronto-coni-piemonte-per-gestione-nuovo-centro-per",
+    "descrizione": "La Giunta comunale ha preso atto della proposta approvando nella seduta odierna la delibera dell’assessore allo Sport Domenico Carretta",
+    "data": "2026-06-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "51f5fe12e7f6",
+    "titolo": "Concessione a trattativa diretta immobile di proprietà comunale sito in via Negarville 8/14",
+    "link": "https://www.comune.torino.it/novita/avvisi/concessione-trattativa-diretta-immobile-proprieta-comunale-sito-via-negarville",
+    "descrizione": "Procedura per l’assegnazione in concessione a trattativa diretta ad uso commerciale dell’immobile di proprietà comunale sito in via Negarville 8/14.",
+    "data": "2026-06-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "1db171f09635",
     "titolo": "Ponte Carpanini, dal 9 all'11 giugno chiusura diurna per manutenzione",
     "link": "https://www.comune.torino.it/novita/comunicati/ponte-carpanini-9-all11-giugno-chiusura-diurna-per-manutenzione",
@@ -1955,46 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/spacca-specchietto-unauto-pieno-pomeriggio-fronte-alla-chiesa-fermato-un-civich",
     "descrizione": "Spacca lo specchietto di un’auto in pieno pomeriggio di fronte alla chiesa. Fermato da un “civich” fuori servizio",
     "data": "2026-04-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "72c5c966ac2b",
-    "titolo": "Piemonte capofila della seconda edizione di Common Ground",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-capofila-della-seconda-edizione-common-ground",
-    "descrizione": "Con la firma della Convenzione di sovvenzione tra il Ministero del Lavoro e la Regione Piemonte, avvenuta il 27 aprile 2026, prende ufficialmente il via la seconda edizione del progetto multi-regionale “Common Ground”, finalizzato alla…",
-    "data": "2026-04-29T09:22:13+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "2487351c94cb",
-    "titolo": "Energia: prezzi in rialzo ma nessun problema di approvvigionamento",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/energia-prezzi-rialzo-ma-nessun-problema-approvvigionamento",
-    "descrizione": "“Non ci sono problemi di approvvigionamento di energia oggi in Piemonte”: lo ha garantito l’assessore all’Ambiente ed Energia Matteo Marnati presentando in Consiglio regionale la relazione informativa sulla situazione energetica e anticipando che “il 7 maggio…",
-    "data": "2026-04-28T16:20:40+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ae488a0696d4",
-    "titolo": "Aperto Hangar Plus 2026 per il sostegno ai progetti culturali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-hangar-plus-2026-per-sostegno-ai-progetti-culturali",
-    "descrizione": "Enti del terzo settore, amministrazioni pubbliche e reti territoriali con il coinvolgimento delle imprese come partner progettuali hanno tempo fino alle ore 12 dell’11 maggio prossimo per partecipare al …",
-    "data": "2026-04-28T12:14:08+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "8c27dfcd11c8",
-    "titolo": "Sala Rossa: via libera al rendiconto 2025",
-    "link": "https://www.comune.torino.it/novita/notizie/sala-rossa-via-libera-al-rendiconto-2025",
-    "descrizione": "Approvato dal Consiglio comunale il rendiconto 2025, dopo una maratona protrattasi sino alle cinque di questa mattina.",
-    "data": "2026-04-28T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
