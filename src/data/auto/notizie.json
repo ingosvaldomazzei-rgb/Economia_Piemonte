@@ -1,5 +1,45 @@
 [
   {
+    "id": "939d896209be",
+    "titolo": "“Kind of Davis”, il concerto del Centro Civico di Formazione Musicale della Città di Torino che omaggia Miles Davis nel centenario della nascita",
+    "link": "https://www.comune.torino.it/novita/comunicati/kind-of-davis-concerto-centro-civico-formazione-musicale-della-citta-torino-che",
+    "descrizione": "il Centro civico di Formazione Musicale della Città di Torino presenta Kind of Davis, concerto che chiude l’anno di studi 2025/2026 con un omaggio a Miles Davis",
+    "data": "2026-06-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "93ceaee8468e",
+    "titolo": "“Kind of Davis”, il concerto del Centro Civico di Formazione Musicale della Città di Torino che omaggia Miles Davis nel centenario della nascita",
+    "link": "https://www.comune.torino.it/novita/comunicati/kind-of-davis-concerto-centro-civico-formazione-musicale-della-citta-torino-che-0",
+    "descrizione": "Giovedì 11 giugno, alle ore 21, al Conservatorio Giuseppe Verdi di Torino, il Centro civico di Formazione Musicale della Città di Torino presenta Kind of Davis.",
+    "data": "2026-06-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "07a6d45d77e5",
+    "titolo": "La \"Truffa si camuffa\" fa tappa al mercato di piazza Foroni",
+    "link": "https://www.comune.torino.it/novita/notizie/truffa-si-camuffa-fa-tappa-al-mercato-piazza-foroni",
+    "descrizione": "Prosegue la campagna informativa contro le truffe agli anziani nei mercati cittadini.",
+    "data": "2026-06-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9f656ddadb60",
+    "titolo": "Protezione Civile: il Piemonte potrà dichiarare in autonomia lo stato di emergenza regionale",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/protezione-civile-piemonte-potra-dichiarare-autonomia-stato-emergenza-regionale",
+    "descrizione": "La Regione Piemonte potrà dichiarare in autonomia lo stato di emergenza regionale. È quanto prevede il disegno di legge sulle disposizioni urgenti in materia di dichiarazione e gestione delle emergenze di rilievo regionale, approvato il…",
+    "data": "2026-06-10T11:06:33+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "20867350de58",
     "titolo": "Quasi 23 milioni per le nuove aree interne Valsesia e Terre del Giarolo",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/quasi-23-milioni-per-nuove-aree-interne-valsesia-terre-giarolo",
@@ -34,6 +74,16 @@
     "titolo": "Concessione a trattativa diretta immobile di proprietà comunale sito in via Negarville 8/14",
     "link": "https://www.comune.torino.it/novita/avvisi/concessione-trattativa-diretta-immobile-proprieta-comunale-sito-via-negarville",
     "descrizione": "Procedura per l’assegnazione in concessione a trattativa diretta ad uso commerciale dell’immobile di proprietà comunale sito in via Negarville 8/14.",
+    "data": "2026-06-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a114bf75a849",
+    "titolo": "Sicurezza urbana, il Sindaco chiede un incontro del Comitato Provinciale per l’Ordine e la Sicurezza Pubblica sulle criticità segnalate delle Case del Quartiere",
+    "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-sindaco-chiede-un-incontro-comitato-provinciale-per-lordine",
+    "descrizione": "Con una lettera indirizzata al Prefetto e al Questore il sindaco Stefano Lo Russo chiede formalmente la convocazione di un incontro.",
     "data": "2026-06-09T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1948,55 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "1609ef7c7e0e",
-    "titolo": "Tokyo, il sindaco Lo Russo incontra i vertici di Hitachi. L’azienda produrrà i veicoli della Linea 2 della metropolitana",
-    "link": "https://www.comune.torino.it/novita/comunicati/tokyo-sindaco-russo-incontra-vertici-hitachi-lazienda-produrra-veicoli-della",
-    "descrizione": "In missione istituzionale in Giappone, il sindaco Stefano Lo Russo ha incontrato a Tokyo i vertici di Hitachi.",
-    "data": "2026-04-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c2d5264c2830",
-    "titolo": "In via Botticelli un edificio commerciale con nuovi parcheggi e aree verdi",
-    "link": "https://www.comune.torino.it/novita/comunicati/via-botticelli-un-edificio-commerciale-nuovi-parcheggi-aree-verdi",
-    "descrizione": "L’operazione prevede la demolizione di un fabbricato esistente e la realizzazione di un nuovo edificio a destinazione commerciale.",
-    "data": "2026-04-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4ef3f7aae02a",
-    "titolo": "Torino si conferma tra le città protagoniste del Youth Climate Action Fund: al via la nuova fase del programma di Bloomberg Philanthropies",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-si-conferma-citta-protagoniste-youth-climate-action-fund-al-via-nuova",
-    "descrizione": "Torino è tra le città selezionate per la nuova fase dello Youth Climate Action Fund, il programma promosso dalla fondazione filantropica Bloomberg che fornisce",
-    "data": "2026-04-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6dc1c8bc829a",
-    "titolo": "Corteo Primo Maggio: le modifiche viabili previste",
-    "link": "https://www.comune.torino.it/novita/comunicati/corteo-primo-maggio-modifiche-viabili-previste",
-    "descrizione": "In occasione della Festa dei Lavoratori 2026, venerdì 1° maggio saranno disposte modifiche alla viabilità.",
-    "data": "2026-04-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4ee4443b7179",
-    "titolo": "Spacca lo specchietto di un’auto in pieno pomeriggio di fronte alla chiesa. Fermato da un “civich” fuori servizio",
-    "link": "https://www.comune.torino.it/novita/comunicati/spacca-specchietto-unauto-pieno-pomeriggio-fronte-alla-chiesa-fermato-un-civich",
-    "descrizione": "Spacca lo specchietto di un’auto in pieno pomeriggio di fronte alla chiesa. Fermato da un “civich” fuori servizio",
-    "data": "2026-04-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
