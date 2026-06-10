@@ -1,4 +1,112 @@
 {
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "84722aa8c196",
+      "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
+      "data": "2026-06-10T14:48:01+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "20867350de58",
+      "titolo": "Quasi 23 milioni per le nuove aree interne Valsesia e Terre del Giarolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/quasi-23-milioni-per-nuove-aree-interne-valsesia-terre-giarolo",
+      "data": "2026-06-09T14:00:38+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e5b96d8ce4ad",
+      "titolo": "Mirafiori Sud, due immobili comunali rinascono come presidi educativi e sociali",
+      "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-sud-due-immobili-comunali-rinascono-come-presidi-educativi-sociali",
+      "data": "2026-06-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a3f4107541bd",
+      "titolo": "Contributi per la sistemazione temporanea dei salariati nelle aziende agricole",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-sistemazione-temporanea-dei-salariati-nelle-aziende-agricole",
+      "data": "2026-05-26T10:41:44+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2d758ebb7939",
+      "titolo": "Corecom Piemonte: 4339 istanze trattate",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/corecom-piemonte-4339-istanze-trattate",
+      "data": "2026-05-25T14:05:13+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "84093b93481f",
+      "titolo": "Fermi in Festa!",
+      "link": "https://www.comune.torino.it/novita/notizie/fermi-festa",
+      "data": "2026-05-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d1a487ffa508",
+      "titolo": "Segnalato un tentativo di truffa telefonica su clonazione CIE",
+      "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-truffa-telefonica-clonazione-cie",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2c1e5364d1b0",
+      "titolo": "Segnalato un tentativo di frode via SMS con una finta comunicazione sul transito in ZTL",
+      "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-frode-via-sms-una-finta-comunicazione-sul-transito-ztl",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "montagna": [
+    {
+      "id": "84722aa8c196",
+      "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
+      "data": "2026-06-10T14:48:01+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0a584bbb7ba5",
+      "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
+      "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "660092f8ac74",
+      "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
+      "data": "2026-05-18T16:25:02+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "433135a0d226",
+      "titolo": "Contributi alle stazioni sciistiche per sicurezza sulle piste e gestione degli impianti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-alle-stazioni-sciistiche-per-sicurezza-sulle-piste-gestione-degli-impianti",
+      "data": "2026-05-08T12:19:43+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5fe748bf20e0",
+      "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
+      "data": "2026-05-06T14:51:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "commercio-artigianato": [
     {
       "id": "07a6d45d77e5",
@@ -47,14 +155,6 @@
       "data": "2026-05-04T16:13:49+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "136cfa3fa7ee",
-      "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa patronale di S.Giovanni (24 giugno 2026)",
-      "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della-0",
-      "data": "2026-04-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "sociale-welfare": [
@@ -179,6 +279,72 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "giovani": [
+    {
+      "id": "e55eaefe481f",
+      "titolo": "“Scrivimi quando arrivi”, da oggi la campagna della Città di Torino per la mobilità sicura",
+      "link": "https://www.comune.torino.it/novita/comunicati/scrivimi-quando-arrivi-oggi-campagna-della-citta-torino-per-mobilita-sicura",
+      "data": "2026-06-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d3b6cba112c7",
+      "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
+      "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "51289b9b2819",
+      "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c424369f388b",
+      "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
+      "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
+      "data": "2026-06-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "63b6910f347b",
+      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
+      "data": "2026-05-22T12:14:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a5308eb48b11",
+      "titolo": "Un bando da 20 milioni per l’insediamento dei giovani agricoltori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-bando-20-milioni-per-linsediamento-dei-giovani-agricoltori",
+      "data": "2026-05-18T14:58:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2eecac69dcad",
+      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
+      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
+      "data": "2026-05-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "447edd0ba015",
+      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
+      "data": "2026-05-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "protezione-civile": [
     {
       "id": "9f656ddadb60",
@@ -195,14 +361,6 @@
       "data": "2026-05-04T16:03:48+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "dd0bd97a7cb0",
-      "titolo": "Protezione Civile, approvate le nuove linee di indirizzo per il funzionamento del Centro Operativo Comunale",
-      "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-approvate-nuove-linee-indirizzo-per-funzionamento-centro",
-      "data": "2026-04-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "agricoltura": [
@@ -347,64 +505,6 @@
       "titolo": "Thales Alenia Space investe su Torino",
       "link": "https://www.comune.torino.it/novita/comunicati/thales-alenia-space-investe-torino",
       "data": "2026-05-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "20867350de58",
-      "titolo": "Quasi 23 milioni per le nuove aree interne Valsesia e Terre del Giarolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/quasi-23-milioni-per-nuove-aree-interne-valsesia-terre-giarolo",
-      "data": "2026-06-09T14:00:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e5b96d8ce4ad",
-      "titolo": "Mirafiori Sud, due immobili comunali rinascono come presidi educativi e sociali",
-      "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-sud-due-immobili-comunali-rinascono-come-presidi-educativi-sociali",
-      "data": "2026-06-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a3f4107541bd",
-      "titolo": "Contributi per la sistemazione temporanea dei salariati nelle aziende agricole",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-sistemazione-temporanea-dei-salariati-nelle-aziende-agricole",
-      "data": "2026-05-26T10:41:44+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2d758ebb7939",
-      "titolo": "Corecom Piemonte: 4339 istanze trattate",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/corecom-piemonte-4339-istanze-trattate",
-      "data": "2026-05-25T14:05:13+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "84093b93481f",
-      "titolo": "Fermi in Festa!",
-      "link": "https://www.comune.torino.it/novita/notizie/fermi-festa",
-      "data": "2026-05-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d1a487ffa508",
-      "titolo": "Segnalato un tentativo di truffa telefonica su clonazione CIE",
-      "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-truffa-telefonica-clonazione-cie",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2c1e5364d1b0",
-      "titolo": "Segnalato un tentativo di frode via SMS con una finta comunicazione sul transito in ZTL",
-      "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-frode-via-sms-una-finta-comunicazione-sul-transito-ztl",
-      "data": "2026-05-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -891,64 +991,6 @@
       "fonte_id": "regione"
     }
   ],
-  "giovani": [
-    {
-      "id": "d3b6cba112c7",
-      "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
-      "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "51289b9b2819",
-      "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
-      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c424369f388b",
-      "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
-      "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
-      "data": "2026-06-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "63b6910f347b",
-      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
-      "data": "2026-05-22T12:14:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a5308eb48b11",
-      "titolo": "Un bando da 20 milioni per l’insediamento dei giovani agricoltori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-bando-20-milioni-per-linsediamento-dei-giovani-agricoltori",
-      "data": "2026-05-18T14:58:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2eecac69dcad",
-      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
-      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "447edd0ba015",
-      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
-      "data": "2026-05-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "lavoro-occupazione": [
     {
       "id": "d13efbbc2f68",
@@ -1107,14 +1149,6 @@
       "data": "2026-05-11T10:11:46+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "e3e4094e6f3f",
-      "titolo": "Borsa di studio ad altri 729 studenti universitari",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/borsa-studio-ad-altri-729-studenti-universitari",
-      "data": "2026-04-30T11:58:15+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "autonomia-differenziata": [
@@ -1157,22 +1191,6 @@
       "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
       "data": "2026-05-06T18:51:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7b040dd08ef4",
-      "titolo": "Obiettivo Export: imprese e territori del Nord Italia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/obiettivo-export-imprese-territori-nord-italia",
-      "data": "2026-04-29T19:15:49+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "00ae42ca4365",
-      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
-      "data": "2026-04-29T15:15:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -1263,40 +1281,6 @@
       "fonte_id": "consiglio"
     }
   ],
-  "montagna": [
-    {
-      "id": "0a584bbb7ba5",
-      "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
-      "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "660092f8ac74",
-      "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
-      "data": "2026-05-18T16:25:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "433135a0d226",
-      "titolo": "Contributi alle stazioni sciistiche per sicurezza sulle piste e gestione degli impianti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-alle-stazioni-sciistiche-per-sicurezza-sulle-piste-gestione-degli-impianti",
-      "data": "2026-05-08T12:19:43+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5fe748bf20e0",
-      "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
-      "data": "2026-05-06T14:51:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "sanita-regionale": [
     {
       "id": "26eec76304e3",
@@ -1353,14 +1337,6 @@
       "titolo": "Bollo auto: attiva la domiciliazione bancaria con riduzione del 5%",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bollo-auto-attiva-domiciliazione-bancaria-riduzione-5",
       "data": "2026-05-05T12:52:07+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "00ae42ca4365",
-      "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
-      "data": "2026-04-29T15:15:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }

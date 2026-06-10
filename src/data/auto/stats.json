@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 150,
-    "regione": 49,
+    "regione": 48,
+    "comune_torino": 151,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -31,19 +31,19 @@
       "conteggio": 9
     },
     {
-      "tema": "commercio-artigianato",
-      "conteggio": 7
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 8
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 7
+      "tema": "giovani",
+      "conteggio": 8
     },
     {
       "tema": "sport",
       "conteggio": 7
     },
     {
-      "tema": "giovani",
+      "tema": "fondi-europei",
       "conteggio": 7
     }
   ],

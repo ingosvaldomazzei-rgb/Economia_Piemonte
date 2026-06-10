@@ -1,9 +1,29 @@
 [
   {
+    "id": "84722aa8c196",
+    "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
+    "descrizione": "La Regione ha approvato il riparto dei 10 milioni di euro del Fondo per lo sviluppo delle montagne italiane (FOSMIT) destinati alle Unioni montane piemontesi per il mantenimento dei servizi essenziali, sostenere la qualità della vita delle…",
+    "data": "2026-06-10T14:48:01+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "a83722c2cf55",
+    "titolo": "Aperto il nuovo bando per le cooperative",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/aperto-nuovo-bando-per-cooperative",
+    "descrizione": "La Regione Piemonte rafforza il proprio sostegno al sistema cooperativo con l'apertura del nuovo bando Foncooper, il fondo di rotazione che mette a disposizione…",
+    "data": "2026-06-10T14:00:42+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "939d896209be",
     "titolo": "“Kind of Davis”, il concerto del Centro Civico di Formazione Musicale della Città di Torino che omaggia Miles Davis nel centenario della nascita",
     "link": "https://www.comune.torino.it/novita/comunicati/kind-of-davis-concerto-centro-civico-formazione-musicale-della-citta-torino-che",
-    "descrizione": "il Centro civico di Formazione Musicale della Città di Torino presenta Kind of Davis, concerto che chiude l’anno di studi 2025/2026 con un omaggio a Miles Davis",
+    "descrizione": "Il Centro civico di Formazione Musicale della Città di Torino presenta Kind of Davis, concerto che chiude l’anno di studi 2025/2026 con un omaggio a Miles Davis",
     "data": "2026-06-10T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -24,6 +44,36 @@
     "titolo": "La \"Truffa si camuffa\" fa tappa al mercato di piazza Foroni",
     "link": "https://www.comune.torino.it/novita/notizie/truffa-si-camuffa-fa-tappa-al-mercato-piazza-foroni",
     "descrizione": "Prosegue la campagna informativa contro le truffe agli anziani nei mercati cittadini.",
+    "data": "2026-06-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "c179f4790c24",
+    "titolo": "Aggiornamenti orari piscine",
+    "link": "https://www.comune.torino.it/novita/avvisi/aggiornamenti-orari-piscine",
+    "descrizione": "Pubblicazione aggiornamenti orari piscine comunali.",
+    "data": "2026-06-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e55eaefe481f",
+    "titolo": "“Scrivimi quando arrivi”, da oggi la campagna della Città di Torino per la mobilità sicura",
+    "link": "https://www.comune.torino.it/novita/comunicati/scrivimi-quando-arrivi-oggi-campagna-della-citta-torino-per-mobilita-sicura",
+    "descrizione": "\"Scrivimi quando arrivi. Non guidare se hai assunto alcol o droghe\" è il claim della campagna del progetto di Mobilità sicura per i giovani.",
+    "data": "2026-06-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e2c7197bfdac",
+    "titolo": "Vallette, inaugurato il “nuovo” mercato coperto “Le Verbene” dopo i lavori di riqualificazione",
+    "link": "https://www.comune.torino.it/novita/comunicati/vallette-inaugurato-nuovo-mercato-coperto-verbene-dopo-lavori-riqualificazione",
+    "descrizione": "Taglio del nastro per il rinnovato mercato coperto di via delle Verbene, lo storico polo commerciale del quartiere Vallette.",
     "data": "2026-06-10T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1948,55 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "136cfa3fa7ee",
-    "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa patronale di S.Giovanni (24 giugno 2026)",
-    "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della-0",
-    "descrizione": "Termini di presentazione delle istanze : 1°maggio - 31 maggio 2026, tramite il portale Impresainungiorno.",
-    "data": "2026-04-30T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "dd0bd97a7cb0",
-    "titolo": "Protezione Civile, approvate le nuove linee di indirizzo per il funzionamento del Centro Operativo Comunale",
-    "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-approvate-nuove-linee-indirizzo-per-funzionamento-centro",
-    "descrizione": "La Giunta comunale ha approvato nella seduta di martedi scorso una delibera, proposta dall’assessore alla Protezione civile Francesco Tresso",
-    "data": "2026-04-30T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e3e4094e6f3f",
-    "titolo": "Borsa di studio ad altri 729 studenti universitari",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/borsa-studio-ad-altri-729-studenti-universitari",
-    "descrizione": "A conferma del suo impegno per garantire il diritto allo studio universitario la Regione Piemonte ha assegnato a Edisu ulteriori 4 milioni di euro per garantire le borse di studio a 729 studenti che hanno maturato i requisiti dopo la scadenza del bando…",
-    "data": "2026-04-30T11:58:15+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "7b040dd08ef4",
-    "titolo": "Obiettivo Export: imprese e territori del Nord Italia",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/obiettivo-export-imprese-territori-nord-italia",
-    "descrizione": "Le Ogr di Torino hanno ospitato “Obiettivo Export: Imprese e territori del Nord Italia”, prima tappa di un ciclo di incontri sul sostegno dell’internazionalizzazione delle imprese. Promosso dalla Farnesina con il supporto della Regione Piemonte, l’evento è stato dedicato…",
-    "data": "2026-04-29T19:15:49+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "00ae42ca4365",
-    "titolo": "27 milioni per l’internazionalizzazione delle pmi nel 2026-29",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/27-milioni-per-linternazionalizzazione-delle-pmi-nel-2026-29",
-    "descrizione": "La Regione Piemonte attiva il nuovo ciclo dei Progetti integrati di Filiera (PIF) per gli anni 2026-2029, con una dotazione finanziaria di 27 milioni di euro, in crescita rispetto ai 17 milioni degli anni 2023-2025. Fino al 21 maggio…",
-    "data": "2026-04-29T15:15:04+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
