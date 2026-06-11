@@ -1,9 +1,69 @@
 [
   {
+    "id": "ae7b08302d25",
+    "titolo": "Pedemontana piemontese: i cantieri dal 6 luglio",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/pedemontana-piemontese-cantieri-dal-6-luglio",
+    "descrizione": "Il 6 luglio inizieranno i lavori per la realizzazione delle opere infrastrutturali della Pedemontana piemontese. A darne l'annuncio sono stati il presidente della Regione Alberto Cirio e…",
+    "data": "2026-06-11T17:20:26+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "dc8430e11f35",
+    "titolo": "Tornano i “Regionali del Mare” dal Piemonte alla Riviera romagnola",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tornano-regionali-mare-dal-piemonte-alla-riviera-romagnola",
+    "descrizione": "Dal 14 giugno al 13 settembre tornano i “Regionali del Mare”, i collegamenti ferroviari diretti del fine settimana tra il Piemonte e la Riviera romagnola, pensati per offrire un’alternativa comoda, sostenibile e accessibile all’auto privata.…",
+    "data": "2026-06-11T16:31:38+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "5472f4290055",
+    "titolo": "In Regione una delegazione della Bosnia-Erzegovina",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-una-delegazione-della-bosnia-erzegovina",
+    "descrizione": "l presidente della Regione Piemonte Alberto Cirio e il vicepresidente e assessore alla Cooperazione internazionale Maurizio Marrone hanno ricevuto ieri pomeriggio al Grattacielo Piemonte una delegazione mista, istituzionale e di imprenditori,…",
+    "data": "2026-06-11T16:18:25+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "c68a56cf9a40",
     "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
     "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
     "descrizione": "Sabato 13 giugno si terrà la cerimonia di intitolazione del campo sportivo della Parrocchia di via Delleani 24 in memoria di Luigi Tosini",
+    "data": "2026-06-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e927bbf384d7",
+    "titolo": "Taglio del nastro per gli appartamenti per l'autonomia e la palestra di arrampicata accessibile della Cooperativa Puzzle",
+    "link": "https://www.comune.torino.it/novita/comunicati/taglio-nastro-per-appartamenti-per-lautonomia-palestra-arrampicata-accessibile",
+    "descrizione": "Sono stati inaugurati oggi, in via Cimabue 2, i nuovi appartamenti per l’autonomia e una palestra di arrampicata accessibile all’interno del complesso gestito d",
+    "data": "2026-06-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f5045dc4f969",
+    "titolo": "Acconto IMU 2026 aree fabbricabili - nuovo PRG",
+    "link": "https://www.comune.torino.it/novita/avvisi/acconto-imu-2026-aree-fabbricabili-nuovo-prg",
+    "descrizione": "Indicazioni sul versamento dell'acconto IMU 2026 per le aree edificabili a seguito dell'approvazione del Progetto Preliminare del nuovo PRG",
+    "data": "2026-06-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "eb057e1d8a07",
+    "titolo": "Inaugurato il nuovo Centro di Raccolta di via Massari: da lunedì 15 giugno l’apertura al pubblico",
+    "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-nuovo-centro-raccolta-via-massari-lunedi-15-giugno-lapertura-al",
+    "descrizione": "È stato inaugurato oggi il nuovo Centro di Raccolta di via Massari, che aprirà al pubblico da lunedì 15 giugno.",
     "data": "2026-06-11T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -234,6 +294,16 @@
     "titolo": "Taglio del nastro per il nuovo salone Ex Safov della Scuola dell'Infanzia Gianni Rodari",
     "link": "https://www.comune.torino.it/novita/comunicati/taglio-nastro-per-nuovo-salone-ex-safov-della-scuola-dellinfanzia-gianni-rodari",
     "descrizione": "Si è svolta questo pomeriggio l’inaugurazione del salone polivalente Ex Safov in via Balbo 9/B, all’interno della Scuola dell’Infanzia “Gianni Rodari”.",
+    "data": "2026-06-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8eb1814c7e75",
+    "titolo": "Disattivazione del sistema di autenticazione TorinoFacile",
+    "link": "https://www.comune.torino.it/novita/avvisi/disattivazione-sistema-autenticazione-torinofacile",
+    "descrizione": "Cessazione della modalità residuale di autenticazione al servizio EdificaTO con credenziali TorinoFacile",
     "data": "2026-06-08T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1925,76 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/equivoci-all-freaks-free",
     "descrizione": "Via alla seconda edizione di “Equi.Voci - All Freaks Free”: l’evento gratuito di Fondazione Club Silencio per celebrare la diversità, l’equità e l’accessibilità",
     "data": "2026-05-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "23e980c39903",
-    "titolo": "Thales Alenia Space investe su Torino",
-    "link": "https://www.comune.torino.it/novita/comunicati/thales-alenia-space-investe-torino",
-    "descrizione": "Alenia: con un permesso di costruzione in deroga al P.R.G. il Consiglio comunale ha approvato la demolizione e la ricostruzione di un fabbricato produttivo.",
-    "data": "2026-05-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "decb1a2ba676",
-    "titolo": "Una mozione per la manutenzione e lo sviluppo dei percorsi ciclabili",
-    "link": "https://www.comune.torino.it/novita/comunicati/una-mozione-per-manutenzione-sviluppo-dei-percorsi-ciclabili",
-    "descrizione": "Approvato dal Consiglio comunale, con ampia maggioranza, un documento sulla manutenzione e il miglioramento della rete ciclabile torinese",
-    "data": "2026-05-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "670796de3fbe",
-    "titolo": "Cinema, mostre e danze. Torino accoglie la Grecia, paese ospite del Salone del Libro",
-    "link": "https://www.comune.torino.it/novita/comunicati/cinema-mostre-danze-torino-accoglie-grecia-paese-ospite-salone-libro",
-    "descrizione": "Torino si prepara ad accogliere un ricco calendario di iniziative dedicate alla cultura greca nell’ambito del Salone OFF.",
-    "data": "2026-05-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "fca2a546bdbd",
-    "titolo": "Un tavolo permanente per infermieri e servizi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-tavolo-permanente-per-infermieri-servizi",
-    "descrizione": "Sottoscritto da Regione e organizzazioni sindacali un verbale di intesa che prevede l’attivazione di un tavolo permanente dedicato al rafforzamento del personale sanitario, con particolare attenzione al reclutamento degli infermieri e alla tenuta dei …",
-    "data": "2026-04-30T17:45:53+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "bc6132076b38",
-    "titolo": "Il Salone Off porta la cultura tra la gente",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-off-porta-cultura-gente",
-    "descrizione": "Oltre mille eventi in 12 giorni in 400 spazi di Torino e 40 centri dell'area metropolitana, con il coinvolgimento di altri 15 in tutto il Piemonte grazie al progetto Voltapagina: sono i numeri della 22esima edizione del…",
-    "data": "2026-04-30T16:27:39+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "b9e97e144cdc",
-    "titolo": "Corteo del 1° maggio",
-    "link": "https://www.comune.torino.it/novita/notizie/corteo-1deg-maggio",
-    "descrizione": "Previsto nel centro città: partenza dal ritrovo di corso Cairoli alle ore 9:00 ed arrivo in piazza Castello.",
-    "data": "2026-04-30T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6a5acd8f25e2",
-    "titolo": "Stati Generali del Rock – Arezzo Wave Contest & Festival edizione 2026 – il 4 maggio la chiusura delle iscrizioni",
-    "link": "https://www.comune.torino.it/novita/comunicati/stati-generali-rock-arezzo-wave-contest-festival-edizione-2026-4-maggio-chiusura",
-    "descrizione": "Ultimi giorni per iscriversi alla 40ª edizione del concorso che da quasi quarant’anni scopre i nuovi talenti della musica italiana.",
-    "data": "2026-04-30T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"

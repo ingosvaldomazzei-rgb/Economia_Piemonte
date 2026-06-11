@@ -1,4 +1,54 @@
 {
+  "edilizia-opere-pubbliche": [
+    {
+      "id": "ae7b08302d25",
+      "titolo": "Pedemontana piemontese: i cantieri dal 6 luglio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/pedemontana-piemontese-cantieri-dal-6-luglio",
+      "data": "2026-06-11T17:20:26+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f786da83378e",
+      "titolo": "Più interventi con meno disagi, nasce a Torino la regia digitale dei cantieri",
+      "link": "https://www.comune.torino.it/novita/comunicati/piu-interventi-meno-disagi-nasce-torino-regia-digitale-dei-cantieri",
+      "data": "2026-06-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d4690cf18174",
+      "titolo": "Oltre 3,6 milioni per la sicurezza del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oltre-36-milioni-per-sicurezza-piemonte",
+      "data": "2026-06-05T14:01:48+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1160212e82b4",
+      "titolo": "Neutralità climatica: Torino accoglie la Cities Mission Conference 2026. Oltre 600 i delegati da tutta Europa. Oggi le visite in città, domani la plenaria alle OGR",
+      "link": "https://www.comune.torino.it/novita/comunicati/neutralita-climatica-torino-accoglie-cities-mission-conference-2026-oltre-600",
+      "data": "2026-05-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ea65f56b0cbf",
+      "titolo": "Le novità dei cantieri di lavoro 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-dei-cantieri-lavoro-2026",
+      "data": "2026-05-19T12:37:53+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "66340fc08ede",
+      "titolo": "Manutenzioni stradali: nuovi cantieri in via Tripoli e corso Moncalieri. Lunedì 11 maggio chiusa al mattino l’intersezione tra corso Mortara e piazza Baldissera",
+      "link": "https://www.comune.torino.it/novita/comunicati/manutenzioni-stradali-nuovi-cantieri-via-tripoli-corso-moncalieri-lunedi-11",
+      "data": "2026-05-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "sanita-regionale": [
     {
       "id": "c68a56cf9a40",
@@ -31,14 +81,6 @@
       "data": "2026-05-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fca2a546bdbd",
-      "titolo": "Un tavolo permanente per infermieri e servizi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-tavolo-permanente-per-infermieri-servizi",
-      "data": "2026-04-30T17:45:53+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sport": [
@@ -607,14 +649,6 @@
       "data": "2026-05-05T14:21:16+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "23e980c39903",
-      "titolo": "Thales Alenia Space investe su Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/thales-alenia-space-investe-torino",
-      "data": "2026-05-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "cultura-beni-culturali": [
@@ -775,48 +809,6 @@
       "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
       "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
       "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "edilizia-opere-pubbliche": [
-    {
-      "id": "f786da83378e",
-      "titolo": "Più interventi con meno disagi, nasce a Torino la regia digitale dei cantieri",
-      "link": "https://www.comune.torino.it/novita/comunicati/piu-interventi-meno-disagi-nasce-torino-regia-digitale-dei-cantieri",
-      "data": "2026-06-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d4690cf18174",
-      "titolo": "Oltre 3,6 milioni per la sicurezza del Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oltre-36-milioni-per-sicurezza-piemonte",
-      "data": "2026-06-05T14:01:48+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1160212e82b4",
-      "titolo": "Neutralità climatica: Torino accoglie la Cities Mission Conference 2026. Oltre 600 i delegati da tutta Europa. Oggi le visite in città, domani la plenaria alle OGR",
-      "link": "https://www.comune.torino.it/novita/comunicati/neutralita-climatica-torino-accoglie-cities-mission-conference-2026-oltre-600",
-      "data": "2026-05-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ea65f56b0cbf",
-      "titolo": "Le novità dei cantieri di lavoro 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-dei-cantieri-lavoro-2026",
-      "data": "2026-05-19T12:37:53+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "66340fc08ede",
-      "titolo": "Manutenzioni stradali: nuovi cantieri in via Tripoli e corso Moncalieri. Lunedì 11 maggio chiusa al mattino l’intersezione tra corso Mortara e piazza Baldissera",
-      "link": "https://www.comune.torino.it/novita/comunicati/manutenzioni-stradali-nuovi-cantieri-via-tripoli-corso-moncalieri-lunedi-11",
-      "data": "2026-05-08T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1311,14 +1303,6 @@
       "data": "2026-05-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "23e980c39903",
-      "titolo": "Thales Alenia Space investe su Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/thales-alenia-space-investe-torino",
-      "data": "2026-05-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "pari-opportunita": [
@@ -1365,14 +1349,6 @@
       "data": "2026-05-11T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bc6132076b38",
-      "titolo": "Il Salone Off porta la cultura tra la gente",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/salone-off-porta-cultura-gente",
-      "data": "2026-04-30T16:27:39+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "turismo": [
