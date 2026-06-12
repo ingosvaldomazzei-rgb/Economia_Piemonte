@@ -1,5 +1,45 @@
 [
   {
+    "id": "ce9a0063776f",
+    "titolo": "Da Fondazione Compagnia di San Paolo e Città di Torino una “primavera” di opportunità per bambine e bambini da 0 a 6 anni e famiglie",
+    "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-citta-torino-una-primavera-opportunita-per",
+    "descrizione": "Lo scorso 21 aprile, la Fondazione Compagnia di San Paolo ha pubblicato le Linee Guida 06 - Alleanze ad Alta Intensità Educativa.",
+    "data": "2026-06-12T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ac00ef61f133",
+    "titolo": "Torino Cambia - spazi che uniscono: da via Cigna - via Cecchi il via agli interventi per incroci più sicuri sostenuti da Fondazione Crt",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-spazi-che-uniscono-via-cigna-via-cecchi-via-agli-interventi-per",
+    "descrizione": "Lunedì 15 giugno al via i lavori per la messa in sicurezza dell'incrocio tra via Cigna e via Cecchi, primo di otto cantieri previsti dal progetto",
+    "data": "2026-06-12T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1d561a2a642e",
+    "titolo": "Quest’estate 14 campi scuola di Protezione civile",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/questestate-14-campi-scuola-protezione-civile",
+    "descrizione": "Sta per iniziare anche in Piemonte la stagione dei campi estivi di Protezione civile: ad oltre 300 ragazzi e ragazze dai 10 ai 16 anni di 14 città verrà insegnato a proteggere la natura e la vita delle persone, a prevenire i danni causati dagli incendi boschivi, a capire l’…",
+    "data": "2026-06-12T11:49:55+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "324099fb7f78",
+    "titolo": "Da Alcotra più risorse per i territori di confine con la Francia",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-piu-risorse-per-territori-confine-francia",
+    "descrizione": "Più risorse per i progetti dei territori alpini e primi passi verso la futura programmazione europea 2028-2034 sono i principali risultati emersi dal Comitato di Sorveglianza del Programma Interreg A…",
+    "data": "2026-06-12T10:40:23+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "39077ade30c6",
     "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
@@ -1958,45 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "e1cab42b8f91",
-    "titolo": "Fisco locale, Torino fa da apripista: via sanzioni e interessi e più tempo per pagare per chi estingue i debiti",
-    "link": "https://www.comune.torino.it/novita/comunicati/fisco-locale-torino-fa-apripista-via-sanzioni-interessi-piu-tempo-per-pagare-per",
-    "descrizione": "Il provvedimento sarà ora sottoposto al Consiglio Comunale per l’approvazione definitiva.",
-    "data": "2026-05-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "cd1636d2aaa4",
-    "titolo": "Efficientamento energetico, nuovi interventi negli immobili comunali. Lavori per oltre 3,5 milioni in 5 scuole",
-    "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-negli-immobili-comunali-lavori-per",
-    "descrizione": "Oltre 3,5 milioni di euro per rendere più efficienti dal punto di vista energetico cinque complessi scolastici cittadini.",
-    "data": "2026-05-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b1a9a0110bd8",
-    "titolo": "Un bando per 5 nuovi Distretti del Commercio",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-bando-per-5-nuovi-distretti-commercio",
-    "descrizione": "In Piemonte aumenteranno i Distretti del Commercio: la Giunta regionale ha approvato un bando che stanzia 100mila…",
-    "data": "2026-05-04T16:13:49+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "83414edddfb4",
-    "titolo": "Al via il quarto programma di manutenzione dei corsi d’acqua",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-quarto-programma-manutenzione-dei-corsi-dacqua",
-    "descrizione": "La Giunta regionale ha approvato il quarto programma di interventi di manutenzione idraulica dei corsi d’acqua piemontesi, proseguendo un percorso strutturato che punta a rafforzare la sicurezza del territorio e la prevenzione del rischio idrogeologico. Previsti…",
-    "data": "2026-05-04T16:03:48+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
