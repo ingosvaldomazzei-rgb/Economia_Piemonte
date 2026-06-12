@@ -30,6 +30,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "f62e16a9adc7",
+    "titolo": "Torino e GTT al fianco di Kharkiv: completata la prima fase del progetto di solidarietà con la consegna di 40 autobus",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-gtt-al-fianco-kharkiv-completata-prima-fase-progetto-solidarieta-consegna",
+    "descrizione": "Si è completata oggi la prima fase del progetto di sostegno al trasporto pubblico della città di Kharkiv (Ucraina), promosso dalla Città di Torino e da GTT.",
+    "data": "2026-06-12T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "1d561a2a642e",
     "titolo": "Quest’estate 14 campi scuola di Protezione civile",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/questestate-14-campi-scuola-protezione-civile",
@@ -1988,15 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "c2ee4076f5bb",
-    "titolo": "Il cimitero informa",
-    "link": "https://www.comune.torino.it/novita/avvisi/cimitero-informa",
-    "descrizione": "Avvisi di scadenza delle sepolture e delle concessioni cimiteriali",
-    "data": "2026-05-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
