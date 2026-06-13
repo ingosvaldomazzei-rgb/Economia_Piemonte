@@ -1,4 +1,160 @@
 {
+  "sport": [
+    {
+      "id": "6f49064393c1",
+      "titolo": "A Luigi Tosini il campo sportivo che contribuì a fare nascere",
+      "link": "https://www.comune.torino.it/novita/comunicati/luigi-tosini-campo-sportivo-che-contribui-fare-nascere",
+      "data": "2026-06-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f62e16a9adc7",
+      "titolo": "Torino e GTT al fianco di Kharkiv: completata la prima fase del progetto di solidarietà con la consegna di 40 autobus",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-gtt-al-fianco-kharkiv-completata-prima-fase-progetto-solidarieta-consegna",
+      "data": "2026-06-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c68a56cf9a40",
+      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
+      "data": "2026-06-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4a7e2479d523",
+      "titolo": "Meisino, la Città avvia il confronto con CONI Piemonte per la gestione del nuovo Centro per l'Educazione Sportiva e Ambientale",
+      "link": "https://www.comune.torino.it/novita/comunicati/meisino-citta-avvia-confronto-coni-piemonte-per-gestione-nuovo-centro-per",
+      "data": "2026-06-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d3b6cba112c7",
+      "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
+      "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6c1a698227a4",
+      "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
+      "link": "https://www.comune.torino.it/novita/notizie/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
+      "data": "2026-05-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f4405b58d172",
+      "titolo": "La pista ciclabile di Lungo Dora Napoli – Firenze intitolata alla pioniera del ciclismo femminile, Maria Milano",
+      "link": "https://www.comune.torino.it/novita/comunicati/pista-ciclabile-lungo-dora-napoli-firenze-intitolata-alla-pioniera-ciclismo",
+      "data": "2026-05-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "36b02a4fea01",
+      "titolo": "Sala Rossa: approvata mozione per valorizzare Barriera di Milano ed altri quartieri periferici",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvata-mozione-per-valorizzare-barriera-milano-altri-quartieri",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f8a2d28b3630",
+      "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
+      "link": "https://www.comune.torino.it/novita/comunicati/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b557ab764e10",
+      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
+      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
+      "data": "2026-05-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "giovani": [
+    {
+      "id": "6f49064393c1",
+      "titolo": "A Luigi Tosini il campo sportivo che contribuì a fare nascere",
+      "link": "https://www.comune.torino.it/novita/comunicati/luigi-tosini-campo-sportivo-che-contribui-fare-nascere",
+      "data": "2026-06-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e55eaefe481f",
+      "titolo": "“Scrivimi quando arrivi”, da oggi la campagna della Città di Torino per la mobilità sicura",
+      "link": "https://www.comune.torino.it/novita/comunicati/scrivimi-quando-arrivi-oggi-campagna-della-citta-torino-per-mobilita-sicura",
+      "data": "2026-06-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d3b6cba112c7",
+      "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
+      "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "51289b9b2819",
+      "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c424369f388b",
+      "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
+      "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
+      "data": "2026-06-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "63b6910f347b",
+      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
+      "data": "2026-05-22T12:14:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a5308eb48b11",
+      "titolo": "Un bando da 20 milioni per l’insediamento dei giovani agricoltori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-bando-20-milioni-per-linsediamento-dei-giovani-agricoltori",
+      "data": "2026-05-18T14:58:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2eecac69dcad",
+      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
+      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
+      "data": "2026-05-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "447edd0ba015",
+      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
+      "data": "2026-05-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "sanita-regionale": [
     {
       "id": "ce9a0063776f",
@@ -259,80 +415,6 @@
       "titolo": "Salone internazionale del Libro, tutti gli appuntamenti allo stand della Città di Torino e Città Metropolitana di Torino",
       "link": "https://www.comune.torino.it/novita/comunicati/salone-internazionale-libro-tutti-appuntamenti-allo-stand-della-citta-torino",
       "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "sport": [
-    {
-      "id": "f62e16a9adc7",
-      "titolo": "Torino e GTT al fianco di Kharkiv: completata la prima fase del progetto di solidarietà con la consegna di 40 autobus",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-gtt-al-fianco-kharkiv-completata-prima-fase-progetto-solidarieta-consegna",
-      "data": "2026-06-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c68a56cf9a40",
-      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
-      "data": "2026-06-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4a7e2479d523",
-      "titolo": "Meisino, la Città avvia il confronto con CONI Piemonte per la gestione del nuovo Centro per l'Educazione Sportiva e Ambientale",
-      "link": "https://www.comune.torino.it/novita/comunicati/meisino-citta-avvia-confronto-coni-piemonte-per-gestione-nuovo-centro-per",
-      "data": "2026-06-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d3b6cba112c7",
-      "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
-      "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6c1a698227a4",
-      "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
-      "link": "https://www.comune.torino.it/novita/notizie/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
-      "data": "2026-05-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f4405b58d172",
-      "titolo": "La pista ciclabile di Lungo Dora Napoli – Firenze intitolata alla pioniera del ciclismo femminile, Maria Milano",
-      "link": "https://www.comune.torino.it/novita/comunicati/pista-ciclabile-lungo-dora-napoli-firenze-intitolata-alla-pioniera-ciclismo",
-      "data": "2026-05-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "36b02a4fea01",
-      "titolo": "Sala Rossa: approvata mozione per valorizzare Barriera di Milano ed altri quartieri periferici",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvata-mozione-per-valorizzare-barriera-milano-altri-quartieri",
-      "data": "2026-05-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f8a2d28b3630",
-      "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
-      "link": "https://www.comune.torino.it/novita/comunicati/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
-      "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b557ab764e10",
-      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
-      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
-      "data": "2026-05-08T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -859,72 +941,6 @@
       "fonte_id": "regione"
     }
   ],
-  "giovani": [
-    {
-      "id": "e55eaefe481f",
-      "titolo": "“Scrivimi quando arrivi”, da oggi la campagna della Città di Torino per la mobilità sicura",
-      "link": "https://www.comune.torino.it/novita/comunicati/scrivimi-quando-arrivi-oggi-campagna-della-citta-torino-per-mobilita-sicura",
-      "data": "2026-06-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d3b6cba112c7",
-      "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
-      "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "51289b9b2819",
-      "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
-      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c424369f388b",
-      "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
-      "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
-      "data": "2026-06-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "63b6910f347b",
-      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
-      "data": "2026-05-22T12:14:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a5308eb48b11",
-      "titolo": "Un bando da 20 milioni per l’insediamento dei giovani agricoltori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-bando-20-milioni-per-linsediamento-dei-giovani-agricoltori",
-      "data": "2026-05-18T14:58:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2eecac69dcad",
-      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
-      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "447edd0ba015",
-      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
-      "data": "2026-05-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "cultura-beni-culturali": [
     {
       "id": "89ff41011948",
@@ -1405,14 +1421,6 @@
       "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
       "data": "2026-05-06T18:51:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c503ab663c6e",
-      "titolo": "Bollo auto: attiva la domiciliazione bancaria con riduzione del 5%",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bollo-auto-attiva-domiciliazione-bancaria-riduzione-5",
-      "data": "2026-05-05T12:52:07+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
