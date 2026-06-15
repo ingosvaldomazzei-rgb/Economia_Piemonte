@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 50,
-    "comune_torino": 149,
+    "comune_torino": 150,
+    "regione": 49,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -15,11 +15,11 @@
       "conteggio": 18
     },
     {
-      "tema": "agricoltura",
-      "conteggio": 18
+      "tema": "sociale-welfare",
+      "conteggio": 17
     },
     {
-      "tema": "sociale-welfare",
+      "tema": "agricoltura",
       "conteggio": 17
     },
     {
@@ -39,11 +39,11 @@
       "conteggio": 8
     },
     {
-      "tema": "pianificazione-territoriale",
-      "conteggio": 8
+      "tema": "edilizia-opere-pubbliche",
+      "conteggio": 7
     },
     {
-      "tema": "edilizia-opere-pubbliche",
+      "tema": "pianificazione-territoriale",
       "conteggio": 7
     }
   ],

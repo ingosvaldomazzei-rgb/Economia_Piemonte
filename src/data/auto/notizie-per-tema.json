@@ -1,4 +1,166 @@
 {
+  "cultura-beni-culturali": [
+    {
+      "id": "5e76a6fcf489",
+      "titolo": "Rosso Beethoven",
+      "link": "https://www.comune.torino.it/novita/notizie/rosso-beethoven",
+      "data": "2026-06-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "89ff41011948",
+      "titolo": "Festival di Porta Palazzo, tre giorni tra cibo, musica e arte per valorizzare il mercato più grande d’Europa",
+      "link": "https://www.comune.torino.it/novita/comunicati/festival-porta-palazzo-tre-giorni-cibo-musica-arte-per-valorizzare-mercato-piu",
+      "data": "2026-06-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a3ad0512eacf",
+      "titolo": "Al via i soggiorni estivi per persone con disabilità: partito oggi uno dei primi gruppi da Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/al-via-soggiorni-estivi-per-persone-disabilita-partito-oggi-uno-dei-primi-gruppi",
+      "data": "2026-06-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "152b78690b35",
+      "titolo": "Parco della Tesoriera verso la riapertura completa. Lunedì 1° giugno chiusura temporanea per la rimozione del cantiere",
+      "link": "https://www.comune.torino.it/novita/comunicati/parco-della-tesoriera-verso-riapertura-completa-lunedi-1deg-giugno-chiusura",
+      "data": "2026-05-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "db6990538c53",
+      "titolo": "2 giugno, Torino festeggia l’80esimo anniversario della Repubblica con un programma speciale",
+      "link": "https://www.comune.torino.it/novita/comunicati/2-giugno-torino-festeggia-l80esimo-anniversario-della-repubblica-un-programma",
+      "data": "2026-05-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "60c3fff9efbd",
+      "titolo": "Sabato 30 maggio il concerto Kiss Kiss Way. Le modifiche viabili e i provvedimenti previsti",
+      "link": "https://www.comune.torino.it/novita/comunicati/sabato-30-maggio-concerto-kiss-kiss-way-modifiche-viabili-provvedimenti-previsti",
+      "data": "2026-05-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "043a188a7f41",
+      "titolo": "Il vino piemontese al Vinexpo Asia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-al-vinexpo-asia",
+      "data": "2026-05-28T11:19:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "272e517a15ba",
+      "titolo": "Il Sindaco a Maastricht al Forum annuale dell'OECD, nominato nel nuovo advisory board dell’OECD global forum on local development",
+      "link": "https://www.comune.torino.it/novita/comunicati/sindaco-maastricht-al-forum-annuale-delloecd-nominato-nel-nuovo-advisory-board",
+      "data": "2026-05-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "59c0f947c475",
+      "titolo": "I Parchi naturali del Piemonte a Cinemambiente",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parchi-naturali-piemonte-cinemambiente",
+      "data": "2026-05-26T14:34:53+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "55a2203f2073",
+      "titolo": "Toponomastica: approvate intitolazioni dedicate a figure dell'antifascismo, della cultura e dell'impegno civile",
+      "link": "https://www.comune.torino.it/novita/comunicati/toponomastica-approvate-intitolazioni-dedicate-figure-dellantifascismo-della",
+      "data": "2026-05-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "92d837daa3f9",
+      "titolo": "Pubblicato il bando 2026–2027 per proposte culturali di enti e associazioni nelle biblioteche civiche",
+      "link": "https://www.comune.torino.it/novita/comunicati/pubblicato-bando-2026-2027-per-proposte-culturali-enti-associazioni-nelle",
+      "data": "2026-05-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9c597cfd13e2",
+      "titolo": "Ucraina: la Sala Rossa contro trasferimenti coatti di minori e maltrattamento dei prigionieri da parte di Mosca",
+      "link": "https://www.comune.torino.it/novita/comunicati/ucraina-sala-rossa-contro-trasferimenti-coatti-minori-maltrattamento-dei",
+      "data": "2026-05-25T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5d9f69b44e8f",
+      "titolo": "Torino festeggia i suoi nuovi cittadini e i 30 anni del Centro Interculturale di corso Taranto, recentemente riqualificato",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-festeggia-suoi-nuovi-cittadini-30-anni-centro-interculturale-corso",
+      "data": "2026-05-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "770ed6da6a26",
+      "titolo": "La Regione Piemonte sulla scomparsa di Carlin Petrini",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-sulla-scomparsa-carlin-petrini",
+      "data": "2026-05-22T10:06:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "77d774b69d7c",
+      "titolo": "Intitolato il giardino “Vittime della strage di Vergarolla”",
+      "link": "https://www.comune.torino.it/novita/comunicati/intitolato-giardino-vittime-della-strage-vergarolla",
+      "data": "2026-05-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "36b02a4fea01",
+      "titolo": "Sala Rossa: approvata mozione per valorizzare Barriera di Milano ed altri quartieri periferici",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvata-mozione-per-valorizzare-barriera-milano-altri-quartieri",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b03f0175defb",
+      "titolo": "La Regione Piemonte al Salone del Libro 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
+      "data": "2026-05-18T08:30:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "61b8eb75ccc5",
+      "titolo": "Il successo della Regione Piemonte al Salone del Libro 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/successo-della-regione-piemonte-al-salone-libro-2026",
+      "data": "2026-05-18T08:30:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a3eef379aeec",
+      "titolo": "Domenica la Marcia per la Pace. Previste modifiche viabili",
+      "link": "https://www.comune.torino.it/novita/comunicati/domenica-marcia-per-pace-previste-modifiche-viabili",
+      "data": "2026-05-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "01cf48650477",
+      "titolo": "Certificati esami Cils - sessione dicembre 2025",
+      "link": "https://www.comune.torino.it/novita/notizie/certificati-esami-cils-sessione-dicembre-2025",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "sport": [
     {
       "id": "6f49064393c1",
@@ -719,14 +881,6 @@
       "data": "2026-05-06T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4d5c75e03b03",
-      "titolo": "Nuovi bandi per promuovere il vino piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-bandi-per-promuovere-vino-piemontese",
-      "data": "2026-05-05T14:21:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "turismo": [
@@ -735,14 +889,6 @@
       "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
       "data": "2026-06-11T18:37:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4d5c75e03b03",
-      "titolo": "Nuovi bandi per promuovere il vino piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-bandi-per-promuovere-vino-piemontese",
-      "data": "2026-05-05T14:21:16+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -931,176 +1077,6 @@
       "data": "2026-05-06T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4d5c75e03b03",
-      "titolo": "Nuovi bandi per promuovere il vino piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-bandi-per-promuovere-vino-piemontese",
-      "data": "2026-05-05T14:21:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "cultura-beni-culturali": [
-    {
-      "id": "89ff41011948",
-      "titolo": "Festival di Porta Palazzo, tre giorni tra cibo, musica e arte per valorizzare il mercato più grande d’Europa",
-      "link": "https://www.comune.torino.it/novita/comunicati/festival-porta-palazzo-tre-giorni-cibo-musica-arte-per-valorizzare-mercato-piu",
-      "data": "2026-06-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a3ad0512eacf",
-      "titolo": "Al via i soggiorni estivi per persone con disabilità: partito oggi uno dei primi gruppi da Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/al-via-soggiorni-estivi-per-persone-disabilita-partito-oggi-uno-dei-primi-gruppi",
-      "data": "2026-06-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "152b78690b35",
-      "titolo": "Parco della Tesoriera verso la riapertura completa. Lunedì 1° giugno chiusura temporanea per la rimozione del cantiere",
-      "link": "https://www.comune.torino.it/novita/comunicati/parco-della-tesoriera-verso-riapertura-completa-lunedi-1deg-giugno-chiusura",
-      "data": "2026-05-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "db6990538c53",
-      "titolo": "2 giugno, Torino festeggia l’80esimo anniversario della Repubblica con un programma speciale",
-      "link": "https://www.comune.torino.it/novita/comunicati/2-giugno-torino-festeggia-l80esimo-anniversario-della-repubblica-un-programma",
-      "data": "2026-05-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "60c3fff9efbd",
-      "titolo": "Sabato 30 maggio il concerto Kiss Kiss Way. Le modifiche viabili e i provvedimenti previsti",
-      "link": "https://www.comune.torino.it/novita/comunicati/sabato-30-maggio-concerto-kiss-kiss-way-modifiche-viabili-provvedimenti-previsti",
-      "data": "2026-05-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "043a188a7f41",
-      "titolo": "Il vino piemontese al Vinexpo Asia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-al-vinexpo-asia",
-      "data": "2026-05-28T11:19:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "272e517a15ba",
-      "titolo": "Il Sindaco a Maastricht al Forum annuale dell'OECD, nominato nel nuovo advisory board dell’OECD global forum on local development",
-      "link": "https://www.comune.torino.it/novita/comunicati/sindaco-maastricht-al-forum-annuale-delloecd-nominato-nel-nuovo-advisory-board",
-      "data": "2026-05-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "59c0f947c475",
-      "titolo": "I Parchi naturali del Piemonte a Cinemambiente",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parchi-naturali-piemonte-cinemambiente",
-      "data": "2026-05-26T14:34:53+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "55a2203f2073",
-      "titolo": "Toponomastica: approvate intitolazioni dedicate a figure dell'antifascismo, della cultura e dell'impegno civile",
-      "link": "https://www.comune.torino.it/novita/comunicati/toponomastica-approvate-intitolazioni-dedicate-figure-dellantifascismo-della",
-      "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "92d837daa3f9",
-      "titolo": "Pubblicato il bando 2026–2027 per proposte culturali di enti e associazioni nelle biblioteche civiche",
-      "link": "https://www.comune.torino.it/novita/comunicati/pubblicato-bando-2026-2027-per-proposte-culturali-enti-associazioni-nelle",
-      "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9c597cfd13e2",
-      "titolo": "Ucraina: la Sala Rossa contro trasferimenti coatti di minori e maltrattamento dei prigionieri da parte di Mosca",
-      "link": "https://www.comune.torino.it/novita/comunicati/ucraina-sala-rossa-contro-trasferimenti-coatti-minori-maltrattamento-dei",
-      "data": "2026-05-25T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5d9f69b44e8f",
-      "titolo": "Torino festeggia i suoi nuovi cittadini e i 30 anni del Centro Interculturale di corso Taranto, recentemente riqualificato",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-festeggia-suoi-nuovi-cittadini-30-anni-centro-interculturale-corso",
-      "data": "2026-05-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "770ed6da6a26",
-      "titolo": "La Regione Piemonte sulla scomparsa di Carlin Petrini",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-sulla-scomparsa-carlin-petrini",
-      "data": "2026-05-22T10:06:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "77d774b69d7c",
-      "titolo": "Intitolato il giardino “Vittime della strage di Vergarolla”",
-      "link": "https://www.comune.torino.it/novita/comunicati/intitolato-giardino-vittime-della-strage-vergarolla",
-      "data": "2026-05-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "36b02a4fea01",
-      "titolo": "Sala Rossa: approvata mozione per valorizzare Barriera di Milano ed altri quartieri periferici",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvata-mozione-per-valorizzare-barriera-milano-altri-quartieri",
-      "data": "2026-05-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b03f0175defb",
-      "titolo": "La Regione Piemonte al Salone del Libro 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
-      "data": "2026-05-18T08:30:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "61b8eb75ccc5",
-      "titolo": "Il successo della Regione Piemonte al Salone del Libro 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/successo-della-regione-piemonte-al-salone-libro-2026",
-      "data": "2026-05-18T08:30:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a3eef379aeec",
-      "titolo": "Domenica la Marcia per la Pace. Previste modifiche viabili",
-      "link": "https://www.comune.torino.it/novita/comunicati/domenica-marcia-per-pace-previste-modifiche-viabili",
-      "data": "2026-05-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "01cf48650477",
-      "titolo": "Certificati esami Cils - sessione dicembre 2025",
-      "link": "https://www.comune.torino.it/novita/notizie/certificati-esami-cils-sessione-dicembre-2025",
-      "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "eb79c5fdde5e",
-      "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
-      "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
-      "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "pianificazione-territoriale": [
@@ -1159,14 +1135,6 @@
       "data": "2026-05-06T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4d5c75e03b03",
-      "titolo": "Nuovi bandi per promuovere il vino piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-bandi-per-promuovere-vino-piemontese",
-      "data": "2026-05-05T14:21:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "lavoro-occupazione": [
