@@ -1,9 +1,39 @@
 [
   {
+    "id": "1e97a0f8fca4",
+    "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
+    "descrizione": "Approvata dalla Giunta regionale la terza edizione del “Voucher digitalizzazione PMI”, che dispone di una dotazione finanziaria di 18 milioni di euro nell’ambito del Fesr 2021-2027. L’intervento sostiene i progetti di digitalizzazione delle micro e…",
+    "data": "2026-06-15T16:40:58+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "5e76a6fcf489",
     "titolo": "Rosso Beethoven",
     "link": "https://www.comune.torino.it/novita/notizie/rosso-beethoven",
     "descrizione": "Otto concerti, quattro direttori, un unico grande protagonista: Beethoven. Sotto il cielo estivo della Corte d’Onore di Palazzo Reale, a cura del Teatro Regio.",
+    "data": "2026-06-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7bd90390bc81",
+    "titolo": "La Sala Rossa chiede la liberazione di Dina Alberizia e Nico Centrone",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-chiede-liberazione-dina-alberizia-nico-centrone",
+    "descrizione": "Approvato un ordine del giorno (prima firmataria: Sara Diena - Sinistra Ecologista)",
+    "data": "2026-06-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "85928bb2f7b8",
+    "titolo": "A Susanna Egri il Sigillo civico di Torino",
+    "link": "https://www.comune.torino.it/novita/notizie/susanna-egri-sigillo-civico-torino",
+    "descrizione": "L'onorificenza nell'anno del centenario della figlia dell'allenatore del Grande Torino",
     "data": "2026-06-15T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1190,6 +1220,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "edc790eac8e3",
+    "titolo": "Festa patronale di s.Giovanni (24 giugno 2026) e concerto dei Moda' (30 giugno 2026)- convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+    "link": "https://www.comune.torino.it/novita/notizie/festa-patronale-sgiovanni-24-giugno-2026-concerto-dei-moda-30-giugno-2026",
+    "descrizione": "Convocazione per GIOVEDI' 18 GIUGNO ORE 14,30",
+    "data": "2026-05-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "770ed6da6a26",
     "titolo": "La Regione Piemonte sulla scomparsa di Carlin Petrini",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-sulla-scomparsa-carlin-petrini",
@@ -1954,46 +1994,6 @@
     "titolo": "In panne con la carrozzina elettrica, gli agenti della Polizia Locale aiutano un’anziana in difficoltà",
     "link": "https://www.comune.torino.it/novita/comunicati/panne-carrozzina-elettrica-agenti-della-polizia-locale-aiutano-unanziana",
     "descrizione": "Rimasta senza batteria e con la carrozzina elettrica ferma, è stata aiutata dal personale GTT e della Polizia Locale.",
-    "data": "2026-05-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0733a678be47",
-    "titolo": "“Il futuro prende forma” a Urban Lab una mostra per raccontare il nuovo Piano Regolatore",
-    "link": "https://www.comune.torino.it/novita/comunicati/futuro-prende-forma-urban-lab-una-mostra-per-raccontare-nuovo-piano-regolatore",
-    "descrizione": "Torino è una città che ha vissuto e continua a vivere grandi trasformazioni.",
-    "data": "2026-05-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8d8ea9637077",
-    "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa religiosa di S.Rita (21 - 22 maggio 2026) - approvazione graduatoria provvisoria",
-    "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della-1",
-    "descrizione": "Con determinazione dirigenziale n. 2477 del 24/04/2026 è stata approvata la graduatoria provvisoria per l’assegnazione dei posteggi in occasione dell'evento.",
-    "data": "2026-05-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "92e0dd6ed6fb",
-    "titolo": "Riqualificazione dell’area del Valentino, 7 milioni da fondazione CRT a sostegno del progetto",
-    "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-dellarea-valentino-7-milioni-fondazione-crt-sostegno-progetto",
-    "descrizione": "Nuove risorse da parte della Fondazione CRT per finalizzare alcuni interventi collegati alla trasformazione del parco del Valentino.",
-    "data": "2026-05-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c5e08fdb2a86",
-    "titolo": "I centri di ITER alla Future week Torino",
-    "link": "https://www.comune.torino.it/novita/notizie/centri-iter-alla-future-week-torino",
-    "descrizione": "25-28-29 maggio: ITER partecipa alla Future Week Torino",
     "data": "2026-05-06T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

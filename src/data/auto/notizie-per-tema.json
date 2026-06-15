@@ -1,4 +1,130 @@
 {
+  "bilancio-regionale": [
+    {
+      "id": "1e97a0f8fca4",
+      "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
+      "data": "2026-06-15T16:40:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0282f9d7482f",
+      "titolo": "Approvata la definizione agevolata per sanzioni e tributi non pagati fino al 2020",
+      "link": "https://www.comune.torino.it/novita/comunicati/approvata-definizione-agevolata-per-sanzioni-tributi-non-pagati-fino-al-2020",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "07a73fbcb6f2",
+      "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
+      "data": "2026-05-06T18:51:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "attivita-produttive": [
+    {
+      "id": "1e97a0f8fca4",
+      "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
+      "data": "2026-06-15T16:40:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0d1c3bb1043e",
+      "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
+      "data": "2026-05-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c36ee9e8c75d",
+      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
+      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a2c947cdfddc",
+      "titolo": "Torino accelera la mobilità del futuro: domani giovedì 14 maggio il ToMove Community Summit",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-accelera-mobilita-futuro-domani-giovedi-14-maggio-tomove-community-summit",
+      "data": "2026-05-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "07a73fbcb6f2",
+      "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
+      "data": "2026-05-06T18:51:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "fondi-europei": [
+    {
+      "id": "1e97a0f8fca4",
+      "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
+      "data": "2026-06-15T16:40:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ddd60e8bc158",
+      "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
+      "data": "2026-05-25T15:31:07+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f66b7d8743ad",
+      "titolo": "Intesa sull’aerospazio tra i Distretti di Piemonte, Lombardia e Liguria",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/intesa-sullaerospazio-distretti-piemonte-lombardia-liguria",
+      "data": "2026-05-15T14:10:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a3eef379aeec",
+      "titolo": "Domenica la Marcia per la Pace. Previste modifiche viabili",
+      "link": "https://www.comune.torino.it/novita/comunicati/domenica-marcia-per-pace-previste-modifiche-viabili",
+      "data": "2026-05-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a1fbdde18be3",
+      "titolo": "Firmati tutti gli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmati-tutti-gli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
+      "data": "2026-05-13T16:53:21+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b6ee83010bf2",
+      "titolo": "Dall’Umbria a Torino: domenica 17 maggio la Marcia per la pace attraversa la città",
+      "link": "https://www.comune.torino.it/novita/comunicati/dallumbria-torino-domenica-17-maggio-marcia-per-pace-attraversa-citta",
+      "data": "2026-05-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "447edd0ba015",
+      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
+      "data": "2026-05-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "cultura-beni-culturali": [
     {
       "id": "5e76a6fcf489",
@@ -873,14 +999,6 @@
       "data": "2026-05-06T14:51:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "92e0dd6ed6fb",
-      "titolo": "Riqualificazione dell’area del Valentino, 7 milioni da fondazione CRT a sostegno del progetto",
-      "link": "https://www.comune.torino.it/novita/comunicati/riqualificazione-dellarea-valentino-7-milioni-fondazione-crt-sostegno-progetto",
-      "data": "2026-05-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "turismo": [
@@ -1069,14 +1187,6 @@
       "data": "2026-05-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8d8ea9637077",
-      "titolo": "Commercio su area pubblica extramercatale per attività di vendita in occasione della festa religiosa di S.Rita (21 - 22 maggio 2026) - approvazione graduatoria provvisoria",
-      "link": "https://www.comune.torino.it/novita/notizie/commercio-area-pubblica-extramercatale-per-attivita-vendita-occasione-della-1",
-      "data": "2026-05-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "pianificazione-territoriale": [
@@ -1125,14 +1235,6 @@
       "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
       "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
       "data": "2026-05-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0733a678be47",
-      "titolo": "“Il futuro prende forma” a Urban Lab una mostra per raccontare il nuovo Piano Regolatore",
-      "link": "https://www.comune.torino.it/novita/comunicati/futuro-prende-forma-urban-lab-una-mostra-per-raccontare-nuovo-piano-regolatore",
-      "data": "2026-05-06T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1225,14 +1327,6 @@
       "data": "2026-05-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0733a678be47",
-      "titolo": "“Il futuro prende forma” a Urban Lab una mostra per raccontare il nuovo Piano Regolatore",
-      "link": "https://www.comune.torino.it/novita/comunicati/futuro-prende-forma-urban-lab-una-mostra-per-raccontare-nuovo-piano-regolatore",
-      "data": "2026-05-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "ambiente-qualita-aria": [
@@ -1271,96 +1365,12 @@
       "fonte_id": "regione"
     }
   ],
-  "attivita-produttive": [
-    {
-      "id": "0d1c3bb1043e",
-      "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
-      "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c36ee9e8c75d",
-      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
-      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a2c947cdfddc",
-      "titolo": "Torino accelera la mobilità del futuro: domani giovedì 14 maggio il ToMove Community Summit",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-accelera-mobilita-futuro-domani-giovedi-14-maggio-tomove-community-summit",
-      "data": "2026-05-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "07a73fbcb6f2",
-      "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
-      "data": "2026-05-06T18:51:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "energia": [
     {
       "id": "0d1c3bb1043e",
       "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
       "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
       "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "fondi-europei": [
-    {
-      "id": "ddd60e8bc158",
-      "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
-      "data": "2026-05-25T15:31:07+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f66b7d8743ad",
-      "titolo": "Intesa sull’aerospazio tra i Distretti di Piemonte, Lombardia e Liguria",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/intesa-sullaerospazio-distretti-piemonte-lombardia-liguria",
-      "data": "2026-05-15T14:10:57+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a3eef379aeec",
-      "titolo": "Domenica la Marcia per la Pace. Previste modifiche viabili",
-      "link": "https://www.comune.torino.it/novita/comunicati/domenica-marcia-per-pace-previste-modifiche-viabili",
-      "data": "2026-05-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a1fbdde18be3",
-      "titolo": "Firmati tutti gli accordi di collaborazione dei Fondi di Sviluppo e Coesione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmati-tutti-gli-accordi-collaborazione-dei-fondi-sviluppo-coesione",
-      "data": "2026-05-13T16:53:21+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b6ee83010bf2",
-      "titolo": "Dall’Umbria a Torino: domenica 17 maggio la Marcia per la pace attraversa la città",
-      "link": "https://www.comune.torino.it/novita/comunicati/dallumbria-torino-domenica-17-maggio-marcia-per-pace-attraversa-citta",
-      "data": "2026-05-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "447edd0ba015",
-      "titolo": "Torino, nuova vita per il Cecchi Point: inaugurati gli spazi riqualificati tra servizi sociali e protagonismo giovanile",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-nuova-vita-per-cecchi-point-inaugurati-spazi-riqualificati-servizi",
-      "data": "2026-05-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1373,24 +1383,6 @@
       "data": "2026-05-25T14:05:13+00:00",
       "fonte": "Consiglio Regionale",
       "fonte_id": "consiglio"
-    }
-  ],
-  "bilancio-regionale": [
-    {
-      "id": "0282f9d7482f",
-      "titolo": "Approvata la definizione agevolata per sanzioni e tributi non pagati fino al 2020",
-      "link": "https://www.comune.torino.it/novita/comunicati/approvata-definizione-agevolata-per-sanzioni-tributi-non-pagati-fino-al-2020",
-      "data": "2026-05-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "07a73fbcb6f2",
-      "titolo": "Niente tagli al bilancio: le risorse aggiuntive anticipate per la sanità riattivate a luglio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/niente-tagli-al-bilancio-risorse-aggiuntive-anticipate-per-sanita-riattivate-luglio",
-      "data": "2026-05-06T18:51:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ]
 }
