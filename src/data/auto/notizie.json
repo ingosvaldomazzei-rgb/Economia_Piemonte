@@ -20,6 +20,36 @@
     "colore": "#dc2626"
   },
   {
+    "id": "6eead8e30c8d",
+    "titolo": "Verso Torino Capitale Europea della Cultura 2033. Indicati i componenti dell’Advisory Board",
+    "link": "https://www.comune.torino.it/novita/comunicati/verso-torino-capitale-europea-della-cultura-2033-indicati-componenti",
+    "descrizione": "Si è riunito oggi a Palazzo Civico il Tavolo Strategico della candidatura di Torino a Capitale Europea della Cultura 2033.",
+    "data": "2026-06-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ada31d0ada4e",
+    "titolo": "EfficienTO: nuovi lavori per 6,2 mln di euro. Maxi restyling energetico per la Piscina Monumentale",
+    "link": "https://www.comune.torino.it/novita/comunicati/efficiento-nuovi-lavori-per-62-mln-euro-maxi-restyling-energetico-per-piscina",
+    "descrizione": "La Piscina Monumentale è al centro dei nuovi interventi di riqualificazione energetica approvati questa mattina dalla Giunta comunale.",
+    "data": "2026-06-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7a9257d42453",
+    "titolo": "ZTL centrale: addio alla carta, l'accesso ai parcheggi diventa automatico",
+    "link": "https://www.comune.torino.it/novita/comunicati/ztl-centrale-addio-alla-carta-laccesso-ai-parcheggi-diventa-automatico",
+    "descrizione": "Addio ai moduli cartacei per chi deve raggiungere un parcheggio in struttura o a barriera nella Zona a Traffico Limitato Centrale di Torino.",
+    "data": "2026-06-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "1e97a0f8fca4",
     "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
@@ -1968,35 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "5fe748bf20e0",
-    "titolo": "Altre risorse per garantire la didattica nelle scuole di montagna",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altre-risorse-per-garantire-didattica-nelle-scuole-montagna",
-    "descrizione": "La Regione Piemonte ha attivato un nuovo intervento a sostegno dei territori montani con un bando che destina 340 mila euro per l’anno scolastico 2026/2027 alla riorganizzazione delle pluriclassi nelle scuole primarie e…",
-    "data": "2026-05-06T14:51:04+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "c695661a3574",
-    "titolo": "Biblioteca civica centrale, al via la nuova fase verso il trasferimento a Torino Esposizioni",
-    "link": "https://www.comune.torino.it/novita/comunicati/biblioteca-civica-centrale-al-via-nuova-fase-verso-trasferimento-torino",
-    "descrizione": "Si apre una nuova fase del percorso di trasferimento della biblioteca civica Centrale di via della Cittadella nella nuova sede di Torino Esposizioni.",
-    "data": "2026-05-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "3da4958976ba",
-    "titolo": "TuttaDritta 2026",
-    "link": "https://www.comune.torino.it/novita/notizie/tuttadritta-2026",
-    "descrizione": "21ª edizione della TuttaDritta, una delle gare più iconiche del calendario cittadino.",
-    "data": "2026-05-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

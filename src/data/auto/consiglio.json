@@ -1,6 +1,46 @@
 {
-  "ultimo_aggiornamento": "2026-06-16T11:23:13.212778+00:00",
+  "ultimo_aggiornamento": "2026-06-16T17:08:14.006975+00:00",
   "sedute": [
+    {
+      "id": "191a1d8a9031",
+      "tipo": "seduta",
+      "numero": "101",
+      "titolo": "Seduta n. 101 del 23/06/2026",
+      "data": "2026-06-23T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=101&data_seduta=23-06-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
+    {
+      "id": "5c7a9d7f2d3b",
+      "tipo": "seduta",
+      "numero": "100",
+      "titolo": "Seduta n. 100 del 22/06/2026",
+      "data": "2026-06-22T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=100&data_seduta=22-06-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
+    {
+      "id": "4492f15afe7b",
+      "tipo": "seduta",
+      "numero": "099",
+      "titolo": "Seduta n. 099 del 19/06/2026",
+      "data": "2026-06-19T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=099&data_seduta=19-06-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
+    {
+      "id": "19cc90061645",
+      "tipo": "seduta",
+      "numero": "098",
+      "titolo": "Seduta n. 098 del 18/06/2026",
+      "data": "2026-06-18T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=098&data_seduta=18-06-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
     {
       "id": "8436b045f35c",
       "tipo": "seduta",
@@ -2077,7 +2117,7 @@
     }
   ],
   "statistiche": {
-    "totale_sedute": 27,
+    "totale_sedute": 31,
     "totale_interrogazioni": 199,
     "totale_interpellanze": 1,
     "totale_mozioni": 9,
