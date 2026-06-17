@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 150,
-    "regione": 49,
+    "comune_torino": 151,
+    "regione": 48,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -11,16 +11,16 @@
       "conteggio": 20
     },
     {
-      "tema": "sociale-welfare",
-      "conteggio": 17
-    },
-    {
       "tema": "istruzione-formazione",
       "conteggio": 17
     },
     {
+      "tema": "sociale-welfare",
+      "conteggio": 16
+    },
+    {
       "tema": "agricoltura",
-      "conteggio": 15
+      "conteggio": 13
     },
     {
       "tema": "lavoro-occupazione",
@@ -31,8 +31,12 @@
       "conteggio": 10
     },
     {
+      "tema": "edilizia-opere-pubbliche",
+      "conteggio": 8
+    },
+    {
       "tema": "giovani",
-      "conteggio": 9
+      "conteggio": 8
     },
     {
       "tema": "enti-locali-piccoli-comuni",
@@ -40,11 +44,7 @@
     },
     {
       "tema": "fondi-europei",
-      "conteggio": 7
-    },
-    {
-      "tema": "edilizia-opere-pubbliche",
-      "conteggio": 7
+      "conteggio": 6
     }
   ],
   "totale_temi_con_notizie": 25
