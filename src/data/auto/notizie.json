@@ -30,6 +30,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "bee2337a456f",
+    "titolo": "I rappresentanti delle case di quartiere al comitato provinciale per l’ordine e la sicurezza pubblica",
+    "link": "https://www.comune.torino.it/novita/comunicati/rappresentanti-delle-case-quartiere-al-comitato-provinciale-per-lordine",
+    "descrizione": "Al tavolo con Prefetto, Questore, forze dell’ordine, Asl, il sindaco Stefano Lo Russo e l’assessore Rosatelli.",
+    "data": "2026-06-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "01ed164e962c",
     "titolo": "Torino-Lione: i primi 15 milioni per finanziare le opere compensative della fase 3",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-primi-15-milioni-per-finanziare-opere-compensative-della-fase-3",
@@ -1985,16 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/manutenzioni-stradali-nuovi-cantieri-via-tripoli-corso-moncalieri-lunedi-11",
     "descrizione": "Per consentire le operazioni in sicurezza saranno attivi divieti di sosta nelle aree interessate dal cantiere.",
     "data": "2026-05-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "344306872cb3",
-    "titolo": "CFM - Saggi di classe 2025/26",
-    "link": "https://www.comune.torino.it/novita/notizie/cfm-saggi-classe-202526",
-    "descrizione": "Dal 18 maggio all'11 giugno decine di appuntamenti con allievi e docenti dei corsi",
-    "data": "2026-05-07T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"

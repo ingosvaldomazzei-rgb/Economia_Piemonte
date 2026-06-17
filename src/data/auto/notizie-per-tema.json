@@ -1,4 +1,54 @@
 {
+  "sanita-regionale": [
+    {
+      "id": "bee2337a456f",
+      "titolo": "I rappresentanti delle case di quartiere al comitato provinciale per l’ordine e la sicurezza pubblica",
+      "link": "https://www.comune.torino.it/novita/comunicati/rappresentanti-delle-case-quartiere-al-comitato-provinciale-per-lordine",
+      "data": "2026-06-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ce9a0063776f",
+      "titolo": "Da Fondazione Compagnia di San Paolo e Città di Torino una “primavera” di opportunità per bambine e bambini da 0 a 6 anni e famiglie",
+      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-citta-torino-una-primavera-opportunita-per",
+      "data": "2026-06-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "39077ade30c6",
+      "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
+      "data": "2026-06-11T18:37:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c68a56cf9a40",
+      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
+      "data": "2026-06-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "26eec76304e3",
+      "titolo": "Gruppo ConVersAzioni - Linguaggi proibiti",
+      "link": "https://www.comune.torino.it/novita/notizie/gruppo-conversazioni-linguaggi-proibiti",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9aba10d0fa54",
+      "titolo": "Il trofeo della coppa CEV Champions League a Palazzo Civico. Domani all’Inalpi Arena al via le Final Four",
+      "link": "https://www.comune.torino.it/novita/comunicati/trofeo-della-coppa-cev-champions-league-palazzo-civico-domani-allinalpi-arena-al",
+      "data": "2026-05-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "edilizia-opere-pubbliche": [
     {
       "id": "01ed164e962c",
@@ -525,48 +575,6 @@
       "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
       "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
       "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "sanita-regionale": [
-    {
-      "id": "ce9a0063776f",
-      "titolo": "Da Fondazione Compagnia di San Paolo e Città di Torino una “primavera” di opportunità per bambine e bambini da 0 a 6 anni e famiglie",
-      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-citta-torino-una-primavera-opportunita-per",
-      "data": "2026-06-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "39077ade30c6",
-      "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
-      "data": "2026-06-11T18:37:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c68a56cf9a40",
-      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
-      "data": "2026-06-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "26eec76304e3",
-      "titolo": "Gruppo ConVersAzioni - Linguaggi proibiti",
-      "link": "https://www.comune.torino.it/novita/notizie/gruppo-conversazioni-linguaggi-proibiti",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9aba10d0fa54",
-      "titolo": "Il trofeo della coppa CEV Champions League a Palazzo Civico. Domani all’Inalpi Arena al via le Final Four",
-      "link": "https://www.comune.torino.it/novita/comunicati/trofeo-della-coppa-cev-champions-league-palazzo-civico-domani-allinalpi-arena-al",
-      "data": "2026-05-15T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
