@@ -1,5 +1,25 @@
 [
   {
+    "id": "a4386b884a95",
+    "titolo": "Giornate di pattinaggio libero presso il Pala Tazzoli.",
+    "link": "https://www.comune.torino.it/novita/notizie/giornate-pattinaggio-libero-presso-pala-tazzoli",
+    "descrizione": "Apertura dello Stadio del Ghiaccio Tazzoli di via Sanremo 67 per due serate di pattinaggio libero.",
+    "data": "2026-06-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1b836d7af9c1",
+    "titolo": "Ex Westinghouse, una nuova prospettiva per Torino: la Città riceve una proposta congiunta di Politecnico ed Esselunga per la trasformazione dell’area",
+    "link": "https://www.comune.torino.it/novita/comunicati/ex-westinghouse-una-nuova-prospettiva-per-torino-citta-riceve-una-proposta",
+    "descrizione": "La proposta si colloca nel solco dell’originaria operazione urbanistica e la arricchisce, attualizzandola.",
+    "data": "2026-06-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "9136e214c3fd",
     "titolo": "\"Minions & Monsters\" arriva a Torino: la città si trasforma in un mondo di magia, cinema e divertimento",
     "link": "https://www.comune.torino.it/novita/comunicati/minions-monsters-arriva-torino-citta-si-trasforma-un-mondo-magia-cinema",
@@ -1974,26 +1994,6 @@
     "titolo": "Tuttadritta, manifestazione podistica domenica 10 maggio. Previste modifiche viabili",
     "link": "https://www.comune.torino.it/novita/comunicati/tuttadritta-manifestazione-podistica-domenica-10-maggio-previste-modifiche",
     "descrizione": "“TuttaDRITTA”, ritorna domenica 10 maggio a Torino la gara podistica di 10 km che si contraddistingue per il percorso pressoché rettilineo.",
-    "data": "2026-05-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "316f93a220b9",
-    "titolo": "Torino regala Torino: scarica la guida pocket Lonely Planet",
-    "link": "https://www.comune.torino.it/novita/notizie/torino-regala-torino-scarica-guida-pocket-lonely-planet",
-    "descrizione": "Dall'8 al 18 maggio 2026, in occasione del Salone Internazionale del Libro.",
-    "data": "2026-05-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "66340fc08ede",
-    "titolo": "Manutenzioni stradali: nuovi cantieri in via Tripoli e corso Moncalieri. Lunedì 11 maggio chiusa al mattino l’intersezione tra corso Mortara e piazza Baldissera",
-    "link": "https://www.comune.torino.it/novita/comunicati/manutenzioni-stradali-nuovi-cantieri-via-tripoli-corso-moncalieri-lunedi-11",
-    "descrizione": "Per consentire le operazioni in sicurezza saranno attivi divieti di sosta nelle aree interessate dal cantiere.",
     "data": "2026-05-08T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
