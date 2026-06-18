@@ -1,5 +1,15 @@
 [
   {
+    "id": "08b7988f5981",
+    "titolo": "I nuovi criteri dei voucher scuola: più famiglie raggiunte, sostegno rafforzato al diritto allo studio",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-criteri-dei-voucher-scuola-piu-famiglie-raggiunte-sostegno-rafforzato-al-diritto-allo-studio",
+    "descrizione": "Con il voto favorevole del Consiglio regionale è terminata la revisione dei criteri di accesso ai voucher scuola e si è così completato il percorso avviato dalla Giunta per aggiornare uno degli strumenti più importanti a sostegno del diritto…",
+    "data": "2026-06-18T16:02:10+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "a4386b884a95",
     "titolo": "Giornate di pattinaggio libero presso il Pala Tazzoli.",
     "link": "https://www.comune.torino.it/novita/notizie/giornate-pattinaggio-libero-presso-pala-tazzoli",
@@ -14,6 +24,16 @@
     "titolo": "Ex Westinghouse, una nuova prospettiva per Torino: la Città riceve una proposta congiunta di Politecnico ed Esselunga per la trasformazione dell’area",
     "link": "https://www.comune.torino.it/novita/comunicati/ex-westinghouse-una-nuova-prospettiva-per-torino-citta-riceve-una-proposta",
     "descrizione": "La proposta si colloca nel solco dell’originaria operazione urbanistica e la arricchisce, attualizzandola.",
+    "data": "2026-06-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4fce73336b89",
+    "titolo": "Inaugurato uno dei nuovi poli per l’occupabilità. Otto sportelli per aiutare cittadini in cerca",
+    "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-uno-dei-nuovi-poli-per-loccupabilita-otto-sportelli-per-aiutare",
+    "descrizione": "Sono in tutto 8 i Poli dell’Occupabilità voluti dalla Città di Torino su tutto il territorio.",
     "data": "2026-06-18T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1974,26 +1994,6 @@
     "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
     "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
     "descrizione": "Si è svolta l'8 maggio 2026 la cerimonia di intitolazione della Cittadella di via degli Ulivi 11 a Torino a ricordo di Beatrice Naso e Stefania Fiorentino",
-    "data": "2026-05-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b6ee83010bf2",
-    "titolo": "Dall’Umbria a Torino: domenica 17 maggio la Marcia per la pace attraversa la città",
-    "link": "https://www.comune.torino.it/novita/comunicati/dallumbria-torino-domenica-17-maggio-marcia-per-pace-attraversa-citta",
-    "descrizione": "La storica Marcia per la Pace Perugia-Assisi arriva a Torino in occasione del Salone Internazionale del Libro, che vede l’Umbria Regione ospite.",
-    "data": "2026-05-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0a7fc487fbfa",
-    "titolo": "Tuttadritta, manifestazione podistica domenica 10 maggio. Previste modifiche viabili",
-    "link": "https://www.comune.torino.it/novita/comunicati/tuttadritta-manifestazione-podistica-domenica-10-maggio-previste-modifiche",
-    "descrizione": "“TuttaDRITTA”, ritorna domenica 10 maggio a Torino la gara podistica di 10 km che si contraddistingue per il percorso pressoché rettilineo.",
     "data": "2026-05-08T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

@@ -1,4 +1,288 @@
 {
+  "istruzione-formazione": [
+    {
+      "id": "08b7988f5981",
+      "titolo": "I nuovi criteri dei voucher scuola: più famiglie raggiunte, sostegno rafforzato al diritto allo studio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-criteri-dei-voucher-scuola-piu-famiglie-raggiunte-sostegno-rafforzato-al-diritto-allo-studio",
+      "data": "2026-06-18T16:02:10+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d561a2a642e",
+      "titolo": "Quest’estate 14 campi scuola di Protezione civile",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/questestate-14-campi-scuola-protezione-civile",
+      "data": "2026-06-12T11:49:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a7cb14e69890",
+      "titolo": "Taglio del nastro per il nuovo salone Ex Safov della Scuola dell'Infanzia Gianni Rodari",
+      "link": "https://www.comune.torino.it/novita/comunicati/taglio-nastro-per-nuovo-salone-ex-safov-della-scuola-dellinfanzia-gianni-rodari",
+      "data": "2026-06-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0b5dac8a9366",
+      "titolo": "Il Ballo in Bianco. Domani a Torino, per la prima volta, la più grande lezione alla sbarra en plein air del mondo",
+      "link": "https://www.comune.torino.it/novita/comunicati/ballo-bianco-domani-torino-per-prima-volta-piu-grande-lezione-alla-sbarra-en",
+      "data": "2026-06-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4f4c879984ef",
+      "titolo": "Furto in una scuola dell’infanzia, Polizia Locale indaga e denuncia un 50enne",
+      "link": "https://www.comune.torino.it/novita/comunicati/furto-una-scuola-dellinfanzia-polizia-locale-indaga-denuncia-un-50enne",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c424369f388b",
+      "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
+      "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
+      "data": "2026-06-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "99a50fa84bc0",
+      "titolo": "EfficienTO: quasi 1 milione di euro per l’efficienza energetica di due scuole cittadine",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficiento-quasi-1-milione-euro-per-lefficienza-energetica-due-scuole-cittadine",
+      "data": "2026-06-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "76c6c244c188",
+      "titolo": "Inaugurati oggi i rinnovati spazi di nido e scuola per l'infanzia \"Giancarlo Perempruner\" di via Tronzano",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurati-oggi-rinnovati-spazi-nido-scuola-per-linfanzia-giancarlo-perempruner",
+      "data": "2026-06-03T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b2226c53763d",
+      "titolo": "Scuola, Torino continua a investire nell’infanzia. Nuovi arredi per i poli educativi di via Verolengo e via Giuria",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-torino-continua-investire-nellinfanzia-nuovi-arredi-per-poli-educativi",
+      "data": "2026-05-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "21ddb1ca8bd3",
+      "titolo": "Dimensionamento scolastico: niente accorpamenti fino al 2029-30",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dimensionamento-scolastico-niente-accorpamenti-fino-al-2029-30",
+      "data": "2026-05-26T14:57:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0d1c3bb1043e",
+      "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
+      "data": "2026-05-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ddd60e8bc158",
+      "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
+      "data": "2026-05-25T15:31:07+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "63b6910f347b",
+      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
+      "data": "2026-05-22T12:14:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2f46fdc41a2a",
+      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale",
+      "data": "2026-05-22T12:14:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "660092f8ac74",
+      "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
+      "data": "2026-05-18T16:25:02+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "343a9da2140e",
+      "titolo": "La Scuola dell'Infanzia Maria Teresa festeggia 150 anni con una riqualificazione da quasi 1 milione di euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-dellinfanzia-maria-teresa-festeggia-150-anni-una-riqualificazione-quasi-1",
+      "data": "2026-05-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5805c6a69759",
+      "titolo": "Il calendario scolastico 2026-2027",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/calendario-scolastico-2026-2027",
+      "data": "2026-05-11T12:00:50+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9518f805e9ec",
+      "titolo": "Scuola primaria Allievo-Franchetti: conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria",
+      "link": "https://www.comune.torino.it/novita/comunicati/scuola-primaria-allievo-franchetti-conclusi-interventi-riqualificazione",
+      "data": "2026-05-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "sociale-welfare": [
+    {
+      "id": "08b7988f5981",
+      "titolo": "I nuovi criteri dei voucher scuola: più famiglie raggiunte, sostegno rafforzato al diritto allo studio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-criteri-dei-voucher-scuola-piu-famiglie-raggiunte-sostegno-rafforzato-al-diritto-allo-studio",
+      "data": "2026-06-18T16:02:10+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ce9a0063776f",
+      "titolo": "Da Fondazione Compagnia di San Paolo e Città di Torino una “primavera” di opportunità per bambine e bambini da 0 a 6 anni e famiglie",
+      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-citta-torino-una-primavera-opportunita-per",
+      "data": "2026-06-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c450c0574092",
+      "titolo": "La Corte apre a Mirafiori Nord: un nuovo spazio per inclusione, formazione e autonomia delle persone con disabilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/corte-apre-mirafiori-nord-un-nuovo-spazio-per-inclusione-formazione-autonomia",
+      "data": "2026-06-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "07a6d45d77e5",
+      "titolo": "La \"Truffa si camuffa\" fa tappa al mercato di piazza Foroni",
+      "link": "https://www.comune.torino.it/novita/notizie/truffa-si-camuffa-fa-tappa-al-mercato-piazza-foroni",
+      "data": "2026-06-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d13efbbc2f68",
+      "titolo": "Internet senza paura, piccole regole per evitare le truffe",
+      "link": "https://www.comune.torino.it/novita/notizie/internet-senza-paura-piccole-regole-per-evitare-truffe",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "51289b9b2819",
+      "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b9da87d3190c",
+      "titolo": "Contributi al Terzo settore per prevenire la produzione dei rifiuti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-al-terzo-settore-per-prevenire-produzione-dei-rifiuti",
+      "data": "2026-06-03T16:29:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "157673ead80d",
+      "titolo": "Avviso per la presentazione di progetti per la promozione ed il sostegno alle reti di solidarietà tra famiglie e all'affidamento familiare",
+      "link": "https://www.comune.torino.it/novita/avvisi/avviso-per-presentazione-progetti-per-promozione-sostegno-alle-reti-solidarieta",
+      "data": "2026-05-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2acdb170b530",
+      "titolo": "Vesta 2026: i buoni assegnati a 20mila famiglie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vesta-2026-buoni-assegnati-20mila-famiglie",
+      "data": "2026-05-27T15:05:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ddd60e8bc158",
+      "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
+      "data": "2026-05-25T15:31:07+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9c597cfd13e2",
+      "titolo": "Ucraina: la Sala Rossa contro trasferimenti coatti di minori e maltrattamento dei prigionieri da parte di Mosca",
+      "link": "https://www.comune.torino.it/novita/comunicati/ucraina-sala-rossa-contro-trasferimenti-coatti-minori-maltrattamento-dei",
+      "data": "2026-05-25T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fc8bd3d22766",
+      "titolo": "Il benessere e la sicurezza digitale delle bambine e dei bambini da 0 a 6 anni",
+      "link": "https://www.comune.torino.it/novita/notizie/benessere-sicurezza-digitale-delle-bambine-dei-bambini-0-6-anni",
+      "data": "2026-05-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0a584bbb7ba5",
+      "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
+      "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fedf8fb2625c",
+      "titolo": "“Abbiamo un mondo in Comune”. La Città premia la cooperazione sociale",
+      "link": "https://www.comune.torino.it/novita/comunicati/abbiamo-un-mondo-comune-citta-premia-cooperazione-sociale",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "eb79c5fdde5e",
+      "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
+      "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2eecac69dcad",
+      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
+      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
+      "data": "2026-05-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b557ab764e10",
+      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
+      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
+      "data": "2026-05-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "edilizia-opere-pubbliche": [
     {
       "id": "1b836d7af9c1",
@@ -105,6 +389,146 @@
       "data": "2026-05-11T10:11:46+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    }
+  ],
+  "pianificazione-territoriale": [
+    {
+      "id": "4fce73336b89",
+      "titolo": "Inaugurato uno dei nuovi poli per l’occupabilità. Otto sportelli per aiutare cittadini in cerca",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-uno-dei-nuovi-poli-per-loccupabilita-otto-sportelli-per-aiutare",
+      "data": "2026-06-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d4690cf18174",
+      "titolo": "Oltre 3,6 milioni per la sicurezza del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oltre-36-milioni-per-sicurezza-piemonte",
+      "data": "2026-06-05T14:01:48+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1160212e82b4",
+      "titolo": "Neutralità climatica: Torino accoglie la Cities Mission Conference 2026. Oltre 600 i delegati da tutta Europa. Oggi le visite in città, domani la plenaria alle OGR",
+      "link": "https://www.comune.torino.it/novita/comunicati/neutralita-climatica-torino-accoglie-cities-mission-conference-2026-oltre-600",
+      "data": "2026-05-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c36ee9e8c75d",
+      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
+      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4f97e454feed",
+      "titolo": "A Rucas di Bagnolo Piemonte il Concerto di Ferragosto 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rucas-bagnolo-piemonte-concerto-ferragosto-2026",
+      "data": "2026-05-15T15:54:50+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "25a004b9388d",
+      "titolo": "PiemontePay supera le 6 milioni di transazioni e guarda all’AI",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemontepay-supera-6-milioni-transazioni-guarda-allai",
+      "data": "2026-05-14T16:56:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "sport": [
+    {
+      "id": "4fce73336b89",
+      "titolo": "Inaugurato uno dei nuovi poli per l’occupabilità. Otto sportelli per aiutare cittadini in cerca",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-uno-dei-nuovi-poli-per-loccupabilita-otto-sportelli-per-aiutare",
+      "data": "2026-06-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6f49064393c1",
+      "titolo": "A Luigi Tosini il campo sportivo che contribuì a fare nascere",
+      "link": "https://www.comune.torino.it/novita/comunicati/luigi-tosini-campo-sportivo-che-contribui-fare-nascere",
+      "data": "2026-06-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f62e16a9adc7",
+      "titolo": "Torino e GTT al fianco di Kharkiv: completata la prima fase del progetto di solidarietà con la consegna di 40 autobus",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-gtt-al-fianco-kharkiv-completata-prima-fase-progetto-solidarieta-consegna",
+      "data": "2026-06-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c68a56cf9a40",
+      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
+      "data": "2026-06-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4a7e2479d523",
+      "titolo": "Meisino, la Città avvia il confronto con CONI Piemonte per la gestione del nuovo Centro per l'Educazione Sportiva e Ambientale",
+      "link": "https://www.comune.torino.it/novita/comunicati/meisino-citta-avvia-confronto-coni-piemonte-per-gestione-nuovo-centro-per",
+      "data": "2026-06-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d3b6cba112c7",
+      "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
+      "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6c1a698227a4",
+      "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
+      "link": "https://www.comune.torino.it/novita/notizie/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
+      "data": "2026-05-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f4405b58d172",
+      "titolo": "La pista ciclabile di Lungo Dora Napoli – Firenze intitolata alla pioniera del ciclismo femminile, Maria Milano",
+      "link": "https://www.comune.torino.it/novita/comunicati/pista-ciclabile-lungo-dora-napoli-firenze-intitolata-alla-pioniera-ciclismo",
+      "data": "2026-05-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "36b02a4fea01",
+      "titolo": "Sala Rossa: approvata mozione per valorizzare Barriera di Milano ed altri quartieri periferici",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvata-mozione-per-valorizzare-barriera-milano-altri-quartieri",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f8a2d28b3630",
+      "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
+      "link": "https://www.comune.torino.it/novita/comunicati/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
+      "data": "2026-05-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b557ab764e10",
+      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
+      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
+      "data": "2026-05-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     }
   ],
   "sanita-regionale": [
@@ -429,96 +853,6 @@
       "data": "2026-05-13T16:53:21+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "b6ee83010bf2",
-      "titolo": "Dall’Umbria a Torino: domenica 17 maggio la Marcia per la pace attraversa la città",
-      "link": "https://www.comune.torino.it/novita/comunicati/dallumbria-torino-domenica-17-maggio-marcia-per-pace-attraversa-citta",
-      "data": "2026-05-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "sport": [
-    {
-      "id": "6f49064393c1",
-      "titolo": "A Luigi Tosini il campo sportivo che contribuì a fare nascere",
-      "link": "https://www.comune.torino.it/novita/comunicati/luigi-tosini-campo-sportivo-che-contribui-fare-nascere",
-      "data": "2026-06-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f62e16a9adc7",
-      "titolo": "Torino e GTT al fianco di Kharkiv: completata la prima fase del progetto di solidarietà con la consegna di 40 autobus",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-gtt-al-fianco-kharkiv-completata-prima-fase-progetto-solidarieta-consegna",
-      "data": "2026-06-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c68a56cf9a40",
-      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
-      "data": "2026-06-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4a7e2479d523",
-      "titolo": "Meisino, la Città avvia il confronto con CONI Piemonte per la gestione del nuovo Centro per l'Educazione Sportiva e Ambientale",
-      "link": "https://www.comune.torino.it/novita/comunicati/meisino-citta-avvia-confronto-coni-piemonte-per-gestione-nuovo-centro-per",
-      "data": "2026-06-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d3b6cba112c7",
-      "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
-      "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6c1a698227a4",
-      "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
-      "link": "https://www.comune.torino.it/novita/notizie/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
-      "data": "2026-05-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f4405b58d172",
-      "titolo": "La pista ciclabile di Lungo Dora Napoli – Firenze intitolata alla pioniera del ciclismo femminile, Maria Milano",
-      "link": "https://www.comune.torino.it/novita/comunicati/pista-ciclabile-lungo-dora-napoli-firenze-intitolata-alla-pioniera-ciclismo",
-      "data": "2026-05-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "36b02a4fea01",
-      "titolo": "Sala Rossa: approvata mozione per valorizzare Barriera di Milano ed altri quartieri periferici",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvata-mozione-per-valorizzare-barriera-milano-altri-quartieri",
-      "data": "2026-05-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f8a2d28b3630",
-      "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
-      "link": "https://www.comune.torino.it/novita/comunicati/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
-      "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b557ab764e10",
-      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
-      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
-      "data": "2026-05-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "giovani": [
@@ -587,136 +921,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "sociale-welfare": [
-    {
-      "id": "ce9a0063776f",
-      "titolo": "Da Fondazione Compagnia di San Paolo e Città di Torino una “primavera” di opportunità per bambine e bambini da 0 a 6 anni e famiglie",
-      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-citta-torino-una-primavera-opportunita-per",
-      "data": "2026-06-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c450c0574092",
-      "titolo": "La Corte apre a Mirafiori Nord: un nuovo spazio per inclusione, formazione e autonomia delle persone con disabilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/corte-apre-mirafiori-nord-un-nuovo-spazio-per-inclusione-formazione-autonomia",
-      "data": "2026-06-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "07a6d45d77e5",
-      "titolo": "La \"Truffa si camuffa\" fa tappa al mercato di piazza Foroni",
-      "link": "https://www.comune.torino.it/novita/notizie/truffa-si-camuffa-fa-tappa-al-mercato-piazza-foroni",
-      "data": "2026-06-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d13efbbc2f68",
-      "titolo": "Internet senza paura, piccole regole per evitare le truffe",
-      "link": "https://www.comune.torino.it/novita/notizie/internet-senza-paura-piccole-regole-per-evitare-truffe",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "51289b9b2819",
-      "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
-      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b9da87d3190c",
-      "titolo": "Contributi al Terzo settore per prevenire la produzione dei rifiuti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-al-terzo-settore-per-prevenire-produzione-dei-rifiuti",
-      "data": "2026-06-03T16:29:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "157673ead80d",
-      "titolo": "Avviso per la presentazione di progetti per la promozione ed il sostegno alle reti di solidarietà tra famiglie e all'affidamento familiare",
-      "link": "https://www.comune.torino.it/novita/avvisi/avviso-per-presentazione-progetti-per-promozione-sostegno-alle-reti-solidarieta",
-      "data": "2026-05-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2acdb170b530",
-      "titolo": "Vesta 2026: i buoni assegnati a 20mila famiglie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vesta-2026-buoni-assegnati-20mila-famiglie",
-      "data": "2026-05-27T15:05:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ddd60e8bc158",
-      "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
-      "data": "2026-05-25T15:31:07+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9c597cfd13e2",
-      "titolo": "Ucraina: la Sala Rossa contro trasferimenti coatti di minori e maltrattamento dei prigionieri da parte di Mosca",
-      "link": "https://www.comune.torino.it/novita/comunicati/ucraina-sala-rossa-contro-trasferimenti-coatti-minori-maltrattamento-dei",
-      "data": "2026-05-25T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fc8bd3d22766",
-      "titolo": "Il benessere e la sicurezza digitale delle bambine e dei bambini da 0 a 6 anni",
-      "link": "https://www.comune.torino.it/novita/notizie/benessere-sicurezza-digitale-delle-bambine-dei-bambini-0-6-anni",
-      "data": "2026-05-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0a584bbb7ba5",
-      "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
-      "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fedf8fb2625c",
-      "titolo": "“Abbiamo un mondo in Comune”. La Città premia la cooperazione sociale",
-      "link": "https://www.comune.torino.it/novita/comunicati/abbiamo-un-mondo-comune-citta-premia-cooperazione-sociale",
-      "data": "2026-05-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "eb79c5fdde5e",
-      "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
-      "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
-      "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2eecac69dcad",
-      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
-      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b557ab764e10",
-      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
-      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
-      "data": "2026-05-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "trasporti-mobilita": [
     {
       "id": "f62e16a9adc7",
@@ -730,144 +934,6 @@
       "id": "549269f0c039",
       "titolo": "Salone internazionale del Libro, tutti gli appuntamenti allo stand della Città di Torino e Città Metropolitana di Torino",
       "link": "https://www.comune.torino.it/novita/comunicati/salone-internazionale-libro-tutti-appuntamenti-allo-stand-della-citta-torino",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "istruzione-formazione": [
-    {
-      "id": "1d561a2a642e",
-      "titolo": "Quest’estate 14 campi scuola di Protezione civile",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/questestate-14-campi-scuola-protezione-civile",
-      "data": "2026-06-12T11:49:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a7cb14e69890",
-      "titolo": "Taglio del nastro per il nuovo salone Ex Safov della Scuola dell'Infanzia Gianni Rodari",
-      "link": "https://www.comune.torino.it/novita/comunicati/taglio-nastro-per-nuovo-salone-ex-safov-della-scuola-dellinfanzia-gianni-rodari",
-      "data": "2026-06-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0b5dac8a9366",
-      "titolo": "Il Ballo in Bianco. Domani a Torino, per la prima volta, la più grande lezione alla sbarra en plein air del mondo",
-      "link": "https://www.comune.torino.it/novita/comunicati/ballo-bianco-domani-torino-per-prima-volta-piu-grande-lezione-alla-sbarra-en",
-      "data": "2026-06-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4f4c879984ef",
-      "titolo": "Furto in una scuola dell’infanzia, Polizia Locale indaga e denuncia un 50enne",
-      "link": "https://www.comune.torino.it/novita/comunicati/furto-una-scuola-dellinfanzia-polizia-locale-indaga-denuncia-un-50enne",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c424369f388b",
-      "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
-      "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
-      "data": "2026-06-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "99a50fa84bc0",
-      "titolo": "EfficienTO: quasi 1 milione di euro per l’efficienza energetica di due scuole cittadine",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficiento-quasi-1-milione-euro-per-lefficienza-energetica-due-scuole-cittadine",
-      "data": "2026-06-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "76c6c244c188",
-      "titolo": "Inaugurati oggi i rinnovati spazi di nido e scuola per l'infanzia \"Giancarlo Perempruner\" di via Tronzano",
-      "link": "https://www.comune.torino.it/novita/comunicati/inaugurati-oggi-rinnovati-spazi-nido-scuola-per-linfanzia-giancarlo-perempruner",
-      "data": "2026-06-03T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b2226c53763d",
-      "titolo": "Scuola, Torino continua a investire nell’infanzia. Nuovi arredi per i poli educativi di via Verolengo e via Giuria",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-torino-continua-investire-nellinfanzia-nuovi-arredi-per-poli-educativi",
-      "data": "2026-05-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "21ddb1ca8bd3",
-      "titolo": "Dimensionamento scolastico: niente accorpamenti fino al 2029-30",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dimensionamento-scolastico-niente-accorpamenti-fino-al-2029-30",
-      "data": "2026-05-26T14:57:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0d1c3bb1043e",
-      "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
-      "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ddd60e8bc158",
-      "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
-      "data": "2026-05-25T15:31:07+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "63b6910f347b",
-      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
-      "data": "2026-05-22T12:14:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2f46fdc41a2a",
-      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale",
-      "data": "2026-05-22T12:14:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "660092f8ac74",
-      "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
-      "data": "2026-05-18T16:25:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "343a9da2140e",
-      "titolo": "La Scuola dell'Infanzia Maria Teresa festeggia 150 anni con una riqualificazione da quasi 1 milione di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-dellinfanzia-maria-teresa-festeggia-150-anni-una-riqualificazione-quasi-1",
-      "data": "2026-05-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5805c6a69759",
-      "titolo": "Il calendario scolastico 2026-2027",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/calendario-scolastico-2026-2027",
-      "data": "2026-05-11T12:00:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9518f805e9ec",
-      "titolo": "Scuola primaria Allievo-Franchetti: conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-primaria-allievo-franchetti-conclusi-interventi-riqualificazione",
       "data": "2026-05-11T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -987,14 +1053,6 @@
       "data": "2026-05-13T16:53:21+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "b6ee83010bf2",
-      "titolo": "Dall’Umbria a Torino: domenica 17 maggio la Marcia per la pace attraversa la città",
-      "link": "https://www.comune.torino.it/novita/comunicati/dallumbria-torino-domenica-17-maggio-marcia-per-pace-attraversa-citta",
-      "data": "2026-05-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "turismo": [
@@ -1149,48 +1207,6 @@
       "data": "2026-05-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "pianificazione-territoriale": [
-    {
-      "id": "d4690cf18174",
-      "titolo": "Oltre 3,6 milioni per la sicurezza del Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oltre-36-milioni-per-sicurezza-piemonte",
-      "data": "2026-06-05T14:01:48+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1160212e82b4",
-      "titolo": "Neutralità climatica: Torino accoglie la Cities Mission Conference 2026. Oltre 600 i delegati da tutta Europa. Oggi le visite in città, domani la plenaria alle OGR",
-      "link": "https://www.comune.torino.it/novita/comunicati/neutralita-climatica-torino-accoglie-cities-mission-conference-2026-oltre-600",
-      "data": "2026-05-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c36ee9e8c75d",
-      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
-      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4f97e454feed",
-      "titolo": "A Rucas di Bagnolo Piemonte il Concerto di Ferragosto 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rucas-bagnolo-piemonte-concerto-ferragosto-2026",
-      "data": "2026-05-15T15:54:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "25a004b9388d",
-      "titolo": "PiemontePay supera le 6 milioni di transazioni e guarda all’AI",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemontepay-supera-6-milioni-transazioni-guarda-allai",
-      "data": "2026-05-14T16:56:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "lavoro-occupazione": [
