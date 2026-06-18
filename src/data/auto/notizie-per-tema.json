@@ -1,4 +1,62 @@
 {
+  "pianificazione-territoriale": [
+    {
+      "id": "82a411ddd613",
+      "titolo": "Accordo tra le istituzioni contro i reati ambientali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-istituzioni-contro-reati-ambientali",
+      "data": "2026-06-18T18:43:32+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4fce73336b89",
+      "titolo": "Inaugurato uno dei nuovi poli per l’occupabilità. Otto sportelli per aiutare cittadini in cerca",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-uno-dei-nuovi-poli-per-loccupabilita-otto-sportelli-per-aiutare",
+      "data": "2026-06-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d4690cf18174",
+      "titolo": "Oltre 3,6 milioni per la sicurezza del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oltre-36-milioni-per-sicurezza-piemonte",
+      "data": "2026-06-05T14:01:48+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1160212e82b4",
+      "titolo": "Neutralità climatica: Torino accoglie la Cities Mission Conference 2026. Oltre 600 i delegati da tutta Europa. Oggi le visite in città, domani la plenaria alle OGR",
+      "link": "https://www.comune.torino.it/novita/comunicati/neutralita-climatica-torino-accoglie-cities-mission-conference-2026-oltre-600",
+      "data": "2026-05-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c36ee9e8c75d",
+      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
+      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4f97e454feed",
+      "titolo": "A Rucas di Bagnolo Piemonte il Concerto di Ferragosto 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rucas-bagnolo-piemonte-concerto-ferragosto-2026",
+      "data": "2026-05-15T15:54:50+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "25a004b9388d",
+      "titolo": "PiemontePay supera le 6 milioni di transazioni e guarda all’AI",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemontepay-supera-6-milioni-transazioni-guarda-allai",
+      "data": "2026-05-14T16:56:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "istruzione-formazione": [
     {
       "id": "08b7988f5981",
@@ -273,14 +331,6 @@
       "data": "2026-05-11T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b557ab764e10",
-      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
-      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
-      "data": "2026-05-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "edilizia-opere-pubbliche": [
@@ -391,56 +441,6 @@
       "fonte_id": "regione"
     }
   ],
-  "pianificazione-territoriale": [
-    {
-      "id": "4fce73336b89",
-      "titolo": "Inaugurato uno dei nuovi poli per l’occupabilità. Otto sportelli per aiutare cittadini in cerca",
-      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-uno-dei-nuovi-poli-per-loccupabilita-otto-sportelli-per-aiutare",
-      "data": "2026-06-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d4690cf18174",
-      "titolo": "Oltre 3,6 milioni per la sicurezza del Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oltre-36-milioni-per-sicurezza-piemonte",
-      "data": "2026-06-05T14:01:48+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1160212e82b4",
-      "titolo": "Neutralità climatica: Torino accoglie la Cities Mission Conference 2026. Oltre 600 i delegati da tutta Europa. Oggi le visite in città, domani la plenaria alle OGR",
-      "link": "https://www.comune.torino.it/novita/comunicati/neutralita-climatica-torino-accoglie-cities-mission-conference-2026-oltre-600",
-      "data": "2026-05-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c36ee9e8c75d",
-      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
-      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4f97e454feed",
-      "titolo": "A Rucas di Bagnolo Piemonte il Concerto di Ferragosto 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rucas-bagnolo-piemonte-concerto-ferragosto-2026",
-      "data": "2026-05-15T15:54:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "25a004b9388d",
-      "titolo": "PiemontePay supera le 6 milioni di transazioni e guarda all’AI",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemontepay-supera-6-milioni-transazioni-guarda-allai",
-      "data": "2026-05-14T16:56:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "sport": [
     {
       "id": "4fce73336b89",
@@ -519,14 +519,6 @@
       "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
       "link": "https://www.comune.torino.it/novita/comunicati/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
       "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b557ab764e10",
-      "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
-      "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
-      "data": "2026-05-08T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }

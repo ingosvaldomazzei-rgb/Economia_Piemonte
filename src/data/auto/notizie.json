@@ -1,5 +1,15 @@
 [
   {
+    "id": "82a411ddd613",
+    "titolo": "Accordo tra le istituzioni contro i reati ambientali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-istituzioni-contro-reati-ambientali",
+    "descrizione": "Rafforzare il presidio del territorio e rendere più efficace e coordinata l’azione pubblica contro i reati ambientali è l’obiettivo del protocollo d’intesa firmato dal presidente della Regione Piemonte Alberto Cirio e dal prefetto di Torino Donato Giovanni Cafagna…",
+    "data": "2026-06-18T18:43:32+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "08b7988f5981",
     "titolo": "I nuovi criteri dei voucher scuola: più famiglie raggiunte, sostegno rafforzato al diritto allo studio",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-criteri-dei-voucher-scuola-piu-famiglie-raggiunte-sostegno-rafforzato-al-diritto-allo-studio",
@@ -1988,15 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "b557ab764e10",
-    "titolo": "Sport, salute e inclusione nella Cittadella dedicata a Bea e Stefania",
-    "link": "https://www.comune.torino.it/novita/comunicati/sport-salute-inclusione-nella-cittadella-dedicata-bea-stefania",
-    "descrizione": "Si è svolta l'8 maggio 2026 la cerimonia di intitolazione della Cittadella di via degli Ulivi 11 a Torino a ricordo di Beatrice Naso e Stefania Fiorentino",
-    "data": "2026-05-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
