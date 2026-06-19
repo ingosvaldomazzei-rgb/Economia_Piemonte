@@ -9,6 +9,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "91982a8d99e1",
+      "titolo": "Centro di protagonismo giovanile di corso Ferrucci: comunicata la rinuncia all'aggiudicazione. Illustrato un progetto per via Frejus",
+      "link": "https://www.comune.torino.it/novita/comunicati/centro-protagonismo-giovanile-corso-ferrucci-comunicata-rinuncia",
+      "data": "2026-06-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "84722aa8c196",
       "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
@@ -105,6 +113,72 @@
       "data": "2026-05-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "giovani": [
+    {
+      "id": "91982a8d99e1",
+      "titolo": "Centro di protagonismo giovanile di corso Ferrucci: comunicata la rinuncia all'aggiudicazione. Illustrato un progetto per via Frejus",
+      "link": "https://www.comune.torino.it/novita/comunicati/centro-protagonismo-giovanile-corso-ferrucci-comunicata-rinuncia",
+      "data": "2026-06-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6f49064393c1",
+      "titolo": "A Luigi Tosini il campo sportivo che contribuì a fare nascere",
+      "link": "https://www.comune.torino.it/novita/comunicati/luigi-tosini-campo-sportivo-che-contribui-fare-nascere",
+      "data": "2026-06-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e55eaefe481f",
+      "titolo": "“Scrivimi quando arrivi”, da oggi la campagna della Città di Torino per la mobilità sicura",
+      "link": "https://www.comune.torino.it/novita/comunicati/scrivimi-quando-arrivi-oggi-campagna-della-citta-torino-per-mobilita-sicura",
+      "data": "2026-06-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d3b6cba112c7",
+      "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
+      "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "51289b9b2819",
+      "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c424369f388b",
+      "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
+      "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
+      "data": "2026-06-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "63b6910f347b",
+      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
+      "data": "2026-05-22T12:14:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a5308eb48b11",
+      "titolo": "Un bando da 20 milioni per l’insediamento dei giovani agricoltori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-bando-20-milioni-per-linsediamento-dei-giovani-agricoltori",
+      "data": "2026-05-18T14:58:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     }
   ],
   "pianificazione-territoriale": [
@@ -429,14 +503,6 @@
       "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
       "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
       "data": "2026-05-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2eecac69dcad",
-      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
-      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
-      "data": "2026-05-11T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -945,72 +1011,6 @@
       "data": "2026-05-13T16:53:21+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "giovani": [
-    {
-      "id": "6f49064393c1",
-      "titolo": "A Luigi Tosini il campo sportivo che contribuì a fare nascere",
-      "link": "https://www.comune.torino.it/novita/comunicati/luigi-tosini-campo-sportivo-che-contribui-fare-nascere",
-      "data": "2026-06-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e55eaefe481f",
-      "titolo": "“Scrivimi quando arrivi”, da oggi la campagna della Città di Torino per la mobilità sicura",
-      "link": "https://www.comune.torino.it/novita/comunicati/scrivimi-quando-arrivi-oggi-campagna-della-citta-torino-per-mobilita-sicura",
-      "data": "2026-06-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d3b6cba112c7",
-      "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
-      "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "51289b9b2819",
-      "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
-      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c424369f388b",
-      "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
-      "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
-      "data": "2026-06-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "63b6910f347b",
-      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
-      "data": "2026-05-22T12:14:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a5308eb48b11",
-      "titolo": "Un bando da 20 milioni per l’insediamento dei giovani agricoltori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-bando-20-milioni-per-linsediamento-dei-giovani-agricoltori",
-      "data": "2026-05-18T14:58:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2eecac69dcad",
-      "titolo": "Educare al digitale, proteggere i giovani dai social network e promuovere i “Patti digitali” per i minori",
-      "link": "https://www.comune.torino.it/novita/comunicati/educare-al-digitale-proteggere-giovani-dai-social-network-promuovere-patti",
-      "data": "2026-05-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "trasporti-mobilita": [
