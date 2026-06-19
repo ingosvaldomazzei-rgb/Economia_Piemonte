@@ -1,5 +1,45 @@
 [
   {
+    "id": "71faaf5f2898",
+    "titolo": "Ciclismo: in Piemonte i Campionati italiani uomini 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ciclismo-piemonte-campionati-italiani-uomini-2026",
+    "descrizione": "Il Piemonte, le province di Cuneo e Asti in particolare, si preparano a diventare il cuore del ciclismo italiano con l'organizzazione dei Campionati Italiani Elite 2026: il 25 giugno la prova a cronometro, il 27 giugno la corsa in linea. La presentazione…",
+    "data": "2026-06-19T15:22:29+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "4d8929d4abeb",
+    "titolo": "Commercio di prossimità, Torino premia le 99 attività entrate nell'Albo EPIC nel 2025. Domenica al Conservatorio G. Verdi la cerimonia",
+    "link": "https://www.comune.torino.it/novita/comunicati/commercio-prossimita-torino-premia-99-attivita-entrate-nellalbo-epic-nel-2025",
+    "descrizione": "Torino celebra il valore dei suoi negozi di vicinato. Domenica 21 giugno alle ore 10, al Conservatorio Giuseppe Verdi in piazza Bodoni, si terrà la cerimonia pe",
+    "data": "2026-06-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "827f64889f50",
+    "titolo": "San Giovanni 2026, il programma completo dei festeggiamenti",
+    "link": "https://www.comune.torino.it/novita/comunicati/san-giovanni-2026-programma-completo-dei-festeggiamenti",
+    "descrizione": "Torino si prepara a celebrare San Giovanni, patrono della città, con quattro giorni di festa che intrecceranno tradizione, intrattenimento e momenti di condivis",
+    "data": "2026-06-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fc0390a22575",
+    "titolo": "Via Poliziano, al via lunedì 22 giugno i lavori di rifacimento del manto stradale",
+    "link": "https://www.comune.torino.it/novita/comunicati/via-poliziano-al-via-lunedi-22-giugno-lavori-rifacimento-manto-stradale",
+    "descrizione": "Prenderanno il via lunedì prossimo 22 giugno gli interventi di manutenzione straordinaria della pavimentazione stradale in via Poliziano",
+    "data": "2026-06-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "82a411ddd613",
     "titolo": "Accordo tra le istituzioni contro i reati ambientali",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-istituzioni-contro-reati-ambientali",
@@ -1958,45 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "11b945d2b707",
-    "titolo": "Altri 6 sei stage retribuiti a Bruxelles per universitari e neolaureati",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/altri-6-sei-stage-retribuiti-bruxelles-per-universitari-neolaureati",
-    "descrizione": "La Regione Piemonte ha lanciato una nuova selezione per sei posti di tirocinio curriculare o extracurriculare della durata di quattro mesi da svolgersi presso il suo Ufficio di Bruxelles dal 1° settembre 2026. Le domande…",
-    "data": "2026-05-11T10:11:46+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "5c4268c8579c",
-    "titolo": "\"Torino, 10 anni di unioni civili\": a Palazzo civico le celebrazioni del traguardo di diritti e riconoscimento",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-10-anni-unioni-civili-palazzo-civico-celebrazioni-traguardo-diritti",
-    "descrizione": "A dieci anni dall’approvazione della Legge 76 dell’11/05/2016, la Città di Torino ha celebrato questa mattina a Palazzo Civico il traguardo delle unioni civili.",
-    "data": "2026-05-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "69c891002757",
-    "titolo": "Inizia la formazione per i mobility manager aziendali e scolastici",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inizia-formazione-per-mobility-manager-aziendali-scolastici",
-    "descrizione": "Si svolgerà dall’11 maggio al 14 giugno il percorso predisposto dalla Regione Piemonte per la formazione di 55 mobility manager aziendali e scolastici. Il programma, di circa 20 ore, sarà articolato in moduli teorici e…",
-    "data": "2026-05-08T12:46:55+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "433135a0d226",
-    "titolo": "Contributi alle stazioni sciistiche per sicurezza sulle piste e gestione degli impianti",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-alle-stazioni-sciistiche-per-sicurezza-sulle-piste-gestione-degli-impianti",
-    "descrizione": "Assegnati dalla Regione Piemonte contributi per un importo complessivo di 4.484.000 euro destinati alla sicurezza delle aree sciabili e al sostegno della gestione degli impianti di risalita. Viene così…",
-    "data": "2026-05-08T12:19:43+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
