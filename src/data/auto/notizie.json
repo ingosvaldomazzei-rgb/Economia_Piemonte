@@ -1,5 +1,25 @@
 [
   {
+    "id": "02365bdfe9f1",
+    "titolo": "Peste suina africana: ordinanza del Piemonte per garantire le attività di contrasto",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-africana-ordinanza-piemonte-per-garantire-attivita-contrasto",
+    "descrizione": "Il presidente della Regione Piemonte Alberto Cirio ha firmato oggi l’ordinanza che entra in vigore immediatamente e conferma per i prossimi 60 giorni le misure di eradicazione e sorveglianza della Peste suina africana già previste dall’ordinanza…",
+    "data": "2026-06-20T19:27:15+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "964f40c63a6a",
+    "titolo": "Oscar italiano del cicloturismo: il Piemonte terzo con la Ciclovia del Mare",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oscar-italiano-cicloturismo-piemonte-terzo-ciclovia-mare",
+    "descrizione": "Il Piemonte si conferma tra le regioni italiane di riferimento per il cicloturismo e la mobilità sostenibile. All’undicesima edizione del Green Road Award – l’Oscar Italiano del Cicloturismo – la Regione Piemonte ha conquistato il terzo posto ex aequo con la …",
+    "data": "2026-06-20T13:38:54+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "71faaf5f2898",
     "titolo": "Ciclismo: in Piemonte i Campionati italiani uomini 2026",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ciclismo-piemonte-campionati-italiani-uomini-2026",
@@ -1974,26 +1994,6 @@
     "titolo": "Salone internazionale del Libro, tutti gli appuntamenti allo stand della Città di Torino e Città Metropolitana di Torino",
     "link": "https://www.comune.torino.it/novita/comunicati/salone-internazionale-libro-tutti-appuntamenti-allo-stand-della-citta-torino",
     "descrizione": "Anche quest’anno la Città di Torino e la Città Metropolitana di Torino tornano al Salone Internazionale del Libro, da giovedì 14 a lunedì 18 maggio.",
-    "data": "2026-05-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8f999487b447",
-    "titolo": "Sottopasso Grosseto, il 12 e 13 maggio chiusura per lavori dalle 9.30 alle 16.30",
-    "link": "https://www.comune.torino.it/novita/comunicati/sottopasso-grosseto-12-13-maggio-chiusura-per-lavori-dalle-930-alle-1630",
-    "descrizione": "Nelle giornate di martedì 12 e mercoledì 13 maggio, dalle ore 9.30 alle 16.30, il sottopasso Grosseto sarà chiuso al transito veicolare in entrambe le direzioni",
-    "data": "2026-05-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "9518f805e9ec",
-    "titolo": "Scuola primaria Allievo-Franchetti: conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria",
-    "link": "https://www.comune.torino.it/novita/comunicati/scuola-primaria-allievo-franchetti-conclusi-interventi-riqualificazione",
-    "descrizione": "Si sono conclusi gli interventi di riqualificazione energetica e manutenzione straordinaria della scuola primaria Allievo-Franchetti.",
     "data": "2026-05-11T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
