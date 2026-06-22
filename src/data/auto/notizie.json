@@ -20,6 +20,66 @@
     "colore": "#dc2626"
   },
   {
+    "id": "4992d095502c",
+    "titolo": "Ex Manifattura Tabacchi, via libera alle demolizioni controllate",
+    "link": "https://www.comune.torino.it/novita/comunicati/ex-manifattura-tabacchi-via-libera-alle-demolizioni-controllate",
+    "descrizione": "Approvata la delibera che renderà possibili alcune opere di demolizione necessarie per avviare la riqualificazione dell'ex Manifattura Tabacchi",
+    "data": "2026-06-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "448508eea84b",
+    "titolo": "Il futuro dell'area Westinghouse: le comunicazioni dell'assessore Mazzoleni e il dibattito in Sala Rossa",
+    "link": "https://www.comune.torino.it/novita/comunicati/futuro-dellarea-westinghouse-comunicazioni-dellassessore-mazzoleni-dibattito",
+    "descrizione": "Westinghouse: nuovi spazi per la didattica e la ricerca; un Centro Congressi di nuova generazione; la salvaguardia del parco Artiglieri di Montagna",
+    "data": "2026-06-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "45a4553559a1",
+    "titolo": "San Giovanni 2026: modalità di accesso, modifiche viabili e provvedimenti",
+    "link": "https://www.comune.torino.it/novita/comunicati/san-giovanni-2026-modalita-accesso-modifiche-viabili-provvedimenti",
+    "descrizione": "Torino si appresta a festeggiare il santo patrono della città; il 23 e il 24 giugno sono sono previste chiusure stradali e divieti di sosta in alcune aree",
+    "data": "2026-06-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b41bddd965c7",
+    "titolo": "In Sala Rossa il tema dei blackout elettrici",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-tema-dei-blackout-elettrici",
+    "descrizione": "Durante la seduta odierna del Consiglio comunale l’assessora Chiara Foglietta ha risposto all’interpellanza generale della consigliera Federica Scanderebech",
+    "data": "2026-06-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7ed53f034663",
+    "titolo": "L'Assemblea ricorda Piero Amerio, scienziato e consigliere",
+    "link": "https://www.comune.torino.it/novita/comunicati/lassemblea-ricorda-piero-amerio-scienziato-consigliere",
+    "descrizione": "La Sala Rossa ha reso omaggio alla memoria del consigliere emerito Piero Amerio, deceduto la scorsa settimana. Sedette sui banchi consiliari nel 1993-1997",
+    "data": "2026-06-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "01cb6a54fe05",
+    "titolo": "Estate a Torino, la programmazione 2026 nei Punti estivi della Città e le aperture delle piscine comunali",
+    "link": "https://www.comune.torino.it/novita/comunicati/estate-torino-programmazione-2026-nei-punti-estivi-della-citta-aperture-delle",
+    "descrizione": "La programmazione 2026 nei Punti estivi della Città e le aperture delle piscine comunali",
+    "data": "2026-06-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "267a6cd6562e",
     "titolo": "Dal 25 al 27 giugno esercitazione nazionale sul rischio alluvionale nel bacino del Po",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-25-al-27-giugno-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
@@ -1938,65 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "7264cd9e80d1",
-    "titolo": "Torino ha un nuovo City Brand",
-    "link": "https://www.comune.torino.it/novita/notizie/torino-ha-un-nuovo-city-brand",
-    "descrizione": "Torino duepunti è l’idea alla base del nuovo City Brand: un invito a cominciare un percorso, e scrivere una nuova storia.",
-    "data": "2026-05-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "457dceaba4c0",
-    "titolo": "Lunedì 18 maggio sciopero generale nazionale",
-    "link": "https://www.comune.torino.it/novita/avvisi/lunedi-18-maggio-sciopero-generale-nazionale",
-    "descrizione": "Non si garantisce il regolare servizio al pubblico.",
-    "data": "2026-05-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a2c947cdfddc",
-    "titolo": "Torino accelera la mobilità del futuro: domani giovedì 14 maggio il ToMove Community Summit",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-accelera-mobilita-futuro-domani-giovedi-14-maggio-tomove-community-summit",
-    "descrizione": "Trasformare la sperimentazione in nuove soluzioni per la mobilità, mettendo in connessione startup, imprese, investitori e pubblica amministrazione.",
-    "data": "2026-05-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "343a9da2140e",
-    "titolo": "La Scuola dell'Infanzia Maria Teresa festeggia 150 anni con una riqualificazione da quasi 1 milione di euro",
-    "link": "https://www.comune.torino.it/novita/comunicati/scuola-dellinfanzia-maria-teresa-festeggia-150-anni-una-riqualificazione-quasi-1",
-    "descrizione": "Mattinata di festa in via Mameli 18 per celebrare i 150 anni della Scuola dell’infanzia Maria Teresa, storica realtà educativa del quartiere Borgo Dora.",
-    "data": "2026-05-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1b65ed4d4db7",
-    "titolo": "Da Fondazione Compagnia di San Paolo una proposta di partenariato pubblico privato per il futuro del Borgo Medievale",
-    "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-una-proposta-partenariato-pubblico-privato-per",
-    "descrizione": "Valorizzare e rifunzionalizzare il Borgo Medievale, dando vita ad un hub culturale integrato nel più ampio progetto di rigenerazione del Parco del Valentino.",
-    "data": "2026-05-12T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "87ad2b1e5c96",
-    "titolo": "Torino aderisce alla giornata internazionale contro l’omolesbobitransfobia",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-aderisce-alla-giornata-internazionale-contro-lomolesbobitransfobia",
-    "descrizione": "La Città di Torino aderisce anche quest’anno alla Giornata internazionale contro l’omofobia, la lesbofobia, la transfobia e la bifobia (IDAHOBIT).",
-    "data": "2026-05-12T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

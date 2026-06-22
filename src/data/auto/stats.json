@@ -12,7 +12,7 @@
     },
     {
       "tema": "istruzione-formazione",
-      "conteggio": 16
+      "conteggio": 15
     },
     {
       "tema": "sociale-welfare",
@@ -23,15 +23,15 @@
       "conteggio": 12
     },
     {
-      "tema": "lavoro-occupazione",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 11
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
+      "tema": "sport",
       "conteggio": 10
     },
     {
-      "tema": "sport",
+      "tema": "lavoro-occupazione",
       "conteggio": 10
     },
     {
@@ -43,7 +43,7 @@
       "conteggio": 8
     },
     {
-      "tema": "pianificazione-territoriale",
+      "tema": "sanita-regionale",
       "conteggio": 7
     }
   ],

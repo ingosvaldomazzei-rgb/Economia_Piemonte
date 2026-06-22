@@ -161,51 +161,49 @@
       "fonte_id": "regione"
     }
   ],
-  "protezione-civile": [
+  "attivita-produttive": [
     {
-      "id": "267a6cd6562e",
-      "titolo": "Dal 25 al 27 giugno esercitazione nazionale sul rischio alluvionale nel bacino del Po",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-25-al-27-giugno-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
-      "data": "2026-06-22T11:34:52+02:00",
+      "id": "4992d095502c",
+      "titolo": "Ex Manifattura Tabacchi, via libera alle demolizioni controllate",
+      "link": "https://www.comune.torino.it/novita/comunicati/ex-manifattura-tabacchi-via-libera-alle-demolizioni-controllate",
+      "data": "2026-06-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1e97a0f8fca4",
+      "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
+      "data": "2026-06-15T16:40:58+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "1d561a2a642e",
-      "titolo": "Quest’estate 14 campi scuola di Protezione civile",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/questestate-14-campi-scuola-protezione-civile",
-      "data": "2026-06-12T11:49:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
+      "id": "0d1c3bb1043e",
+      "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
+      "data": "2026-05-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     },
     {
-      "id": "9f656ddadb60",
-      "titolo": "Protezione Civile: il Piemonte potrà dichiarare in autonomia lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/protezione-civile-piemonte-potra-dichiarare-autonomia-stato-emergenza-regionale",
-      "data": "2026-06-10T11:06:33+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "turismo": [
-    {
-      "id": "964f40c63a6a",
-      "titolo": "Oscar italiano del cicloturismo: il Piemonte terzo con la Ciclovia del Mare",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oscar-italiano-cicloturismo-piemonte-terzo-ciclovia-mare",
-      "data": "2026-06-20T13:38:54+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "39077ade30c6",
-      "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
-      "data": "2026-06-11T18:37:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
+      "id": "c36ee9e8c75d",
+      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
+      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     }
   ],
   "enti-locali-piccoli-comuni": [
+    {
+      "id": "448508eea84b",
+      "titolo": "Il futuro dell'area Westinghouse: le comunicazioni dell'assessore Mazzoleni e il dibattito in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/futuro-dellarea-westinghouse-comunicazioni-dellassessore-mazzoleni-dibattito",
+      "data": "2026-06-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
     {
       "id": "71faaf5f2898",
       "titolo": "Ciclismo: in Piemonte i Campionati italiani uomini 2026",
@@ -285,6 +283,184 @@
       "data": "2026-05-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "montagna": [
+    {
+      "id": "448508eea84b",
+      "titolo": "Il futuro dell'area Westinghouse: le comunicazioni dell'assessore Mazzoleni e il dibattito in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/futuro-dellarea-westinghouse-comunicazioni-dellassessore-mazzoleni-dibattito",
+      "data": "2026-06-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "84722aa8c196",
+      "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
+      "data": "2026-06-10T14:48:01+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0a584bbb7ba5",
+      "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
+      "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "660092f8ac74",
+      "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
+      "data": "2026-05-18T16:25:02+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "universita-ricerca": [
+    {
+      "id": "448508eea84b",
+      "titolo": "Il futuro dell'area Westinghouse: le comunicazioni dell'assessore Mazzoleni e il dibattito in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/futuro-dellarea-westinghouse-comunicazioni-dellassessore-mazzoleni-dibattito",
+      "data": "2026-06-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1b836d7af9c1",
+      "titolo": "Ex Westinghouse, una nuova prospettiva per Torino: la Città riceve una proposta congiunta di Politecnico ed Esselunga per la trasformazione dell’area",
+      "link": "https://www.comune.torino.it/novita/comunicati/ex-westinghouse-una-nuova-prospettiva-per-torino-citta-riceve-una-proposta",
+      "data": "2026-06-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6eead8e30c8d",
+      "titolo": "Verso Torino Capitale Europea della Cultura 2033. Indicati i componenti dell’Advisory Board",
+      "link": "https://www.comune.torino.it/novita/comunicati/verso-torino-capitale-europea-della-cultura-2033-indicati-componenti",
+      "data": "2026-06-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "39077ade30c6",
+      "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
+      "data": "2026-06-11T18:37:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "173f69b006b3",
+      "titolo": "Servizio di affilatura lame pattini da ghiaccio in dotazione al Palazzo del Ghiaccio Tazzoli - Via Sanremo, 67 - Torino",
+      "link": "https://www.comune.torino.it/novita/avvisi/servizio-affilatura-lame-pattini-ghiaccio-dotazione-al-palazzo-ghiaccio-tazzoli",
+      "data": "2026-05-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "sanita-regionale": [
+    {
+      "id": "7ed53f034663",
+      "titolo": "L'Assemblea ricorda Piero Amerio, scienziato e consigliere",
+      "link": "https://www.comune.torino.it/novita/comunicati/lassemblea-ricorda-piero-amerio-scienziato-consigliere",
+      "data": "2026-06-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bee2337a456f",
+      "titolo": "I rappresentanti delle case di quartiere al comitato provinciale per l’ordine e la sicurezza pubblica",
+      "link": "https://www.comune.torino.it/novita/comunicati/rappresentanti-delle-case-quartiere-al-comitato-provinciale-per-lordine",
+      "data": "2026-06-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ce9a0063776f",
+      "titolo": "Da Fondazione Compagnia di San Paolo e Città di Torino una “primavera” di opportunità per bambine e bambini da 0 a 6 anni e famiglie",
+      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-citta-torino-una-primavera-opportunita-per",
+      "data": "2026-06-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "39077ade30c6",
+      "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
+      "data": "2026-06-11T18:37:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c68a56cf9a40",
+      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
+      "data": "2026-06-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "26eec76304e3",
+      "titolo": "Gruppo ConVersAzioni - Linguaggi proibiti",
+      "link": "https://www.comune.torino.it/novita/notizie/gruppo-conversazioni-linguaggi-proibiti",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9aba10d0fa54",
+      "titolo": "Il trofeo della coppa CEV Champions League a Palazzo Civico. Domani all’Inalpi Arena al via le Final Four",
+      "link": "https://www.comune.torino.it/novita/comunicati/trofeo-della-coppa-cev-champions-league-palazzo-civico-domani-allinalpi-arena-al",
+      "data": "2026-05-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "protezione-civile": [
+    {
+      "id": "267a6cd6562e",
+      "titolo": "Dal 25 al 27 giugno esercitazione nazionale sul rischio alluvionale nel bacino del Po",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-25-al-27-giugno-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
+      "data": "2026-06-22T11:34:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d561a2a642e",
+      "titolo": "Quest’estate 14 campi scuola di Protezione civile",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/questestate-14-campi-scuola-protezione-civile",
+      "data": "2026-06-12T11:49:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9f656ddadb60",
+      "titolo": "Protezione Civile: il Piemonte potrà dichiarare in autonomia lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/protezione-civile-piemonte-potra-dichiarare-autonomia-stato-emergenza-regionale",
+      "data": "2026-06-10T11:06:33+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "turismo": [
+    {
+      "id": "964f40c63a6a",
+      "titolo": "Oscar italiano del cicloturismo: il Piemonte terzo con la Ciclovia del Mare",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oscar-italiano-cicloturismo-piemonte-terzo-ciclovia-mare",
+      "data": "2026-06-20T13:38:54+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "39077ade30c6",
+      "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
+      "data": "2026-06-11T18:37:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     }
   ],
   "commercio-artigianato": [
@@ -565,14 +741,6 @@
       "data": "2026-05-18T16:25:02+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "343a9da2140e",
-      "titolo": "La Scuola dell'Infanzia Maria Teresa festeggia 150 anni con una riqualificazione da quasi 1 milione di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/scuola-dellinfanzia-maria-teresa-festeggia-150-anni-una-riqualificazione-quasi-1",
-      "data": "2026-05-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "sociale-welfare": [
@@ -763,40 +931,6 @@
       "fonte_id": "regione"
     }
   ],
-  "universita-ricerca": [
-    {
-      "id": "1b836d7af9c1",
-      "titolo": "Ex Westinghouse, una nuova prospettiva per Torino: la Città riceve una proposta congiunta di Politecnico ed Esselunga per la trasformazione dell’area",
-      "link": "https://www.comune.torino.it/novita/comunicati/ex-westinghouse-una-nuova-prospettiva-per-torino-citta-riceve-una-proposta",
-      "data": "2026-06-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6eead8e30c8d",
-      "titolo": "Verso Torino Capitale Europea della Cultura 2033. Indicati i componenti dell’Advisory Board",
-      "link": "https://www.comune.torino.it/novita/comunicati/verso-torino-capitale-europea-della-cultura-2033-indicati-componenti",
-      "data": "2026-06-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "39077ade30c6",
-      "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
-      "data": "2026-06-11T18:37:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "173f69b006b3",
-      "titolo": "Servizio di affilatura lame pattini da ghiaccio in dotazione al Palazzo del Ghiaccio Tazzoli - Via Sanremo, 67 - Torino",
-      "link": "https://www.comune.torino.it/novita/avvisi/servizio-affilatura-lame-pattini-ghiaccio-dotazione-al-palazzo-ghiaccio-tazzoli",
-      "data": "2026-05-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "sport": [
     {
       "id": "4fce73336b89",
@@ -879,56 +1013,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "sanita-regionale": [
-    {
-      "id": "bee2337a456f",
-      "titolo": "I rappresentanti delle case di quartiere al comitato provinciale per l’ordine e la sicurezza pubblica",
-      "link": "https://www.comune.torino.it/novita/comunicati/rappresentanti-delle-case-quartiere-al-comitato-provinciale-per-lordine",
-      "data": "2026-06-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ce9a0063776f",
-      "titolo": "Da Fondazione Compagnia di San Paolo e Città di Torino una “primavera” di opportunità per bambine e bambini da 0 a 6 anni e famiglie",
-      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-citta-torino-una-primavera-opportunita-per",
-      "data": "2026-06-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "39077ade30c6",
-      "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
-      "data": "2026-06-11T18:37:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c68a56cf9a40",
-      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
-      "data": "2026-06-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "26eec76304e3",
-      "titolo": "Gruppo ConVersAzioni - Linguaggi proibiti",
-      "link": "https://www.comune.torino.it/novita/notizie/gruppo-conversazioni-linguaggi-proibiti",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9aba10d0fa54",
-      "titolo": "Il trofeo della coppa CEV Champions League a Palazzo Civico. Domani all’Inalpi Arena al via le Final Four",
-      "link": "https://www.comune.torino.it/novita/comunicati/trofeo-della-coppa-cev-champions-league-palazzo-civico-domani-allinalpi-arena-al",
-      "data": "2026-05-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "energia": [
     {
       "id": "ada31d0ada4e",
@@ -961,40 +1045,6 @@
       "titolo": "Approvata la definizione agevolata per sanzioni e tributi non pagati fino al 2020",
       "link": "https://www.comune.torino.it/novita/comunicati/approvata-definizione-agevolata-per-sanzioni-tributi-non-pagati-fino-al-2020",
       "data": "2026-05-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "attivita-produttive": [
-    {
-      "id": "1e97a0f8fca4",
-      "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
-      "data": "2026-06-15T16:40:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0d1c3bb1043e",
-      "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
-      "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c36ee9e8c75d",
-      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
-      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a2c947cdfddc",
-      "titolo": "Torino accelera la mobilità del futuro: domani giovedì 14 maggio il ToMove Community Summit",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-accelera-mobilita-futuro-domani-giovedi-14-maggio-tomove-community-summit",
-      "data": "2026-05-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1167,32 +1217,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "montagna": [
-    {
-      "id": "84722aa8c196",
-      "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
-      "data": "2026-06-10T14:48:01+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0a584bbb7ba5",
-      "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
-      "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "660092f8ac74",
-      "titolo": "Più fondi per le scuole di montagna maggiormente isolate",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-fondi-per-scuole-montagna-maggiormente-isolate",
-      "data": "2026-05-18T16:25:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "lavoro-occupazione": [
     {
       "id": "d13efbbc2f68",
@@ -1271,14 +1295,6 @@
       "titolo": "Approvata la definizione agevolata per sanzioni e tributi non pagati fino al 2020",
       "link": "https://www.comune.torino.it/novita/comunicati/approvata-definizione-agevolata-per-sanzioni-tributi-non-pagati-fino-al-2020",
       "data": "2026-05-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "457dceaba4c0",
-      "titolo": "Lunedì 18 maggio sciopero generale nazionale",
-      "link": "https://www.comune.torino.it/novita/avvisi/lunedi-18-maggio-sciopero-generale-nazionale",
-      "data": "2026-05-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
