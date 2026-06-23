@@ -1,5 +1,15 @@
 [
   {
+    "id": "f1b388ec610b",
+    "titolo": "Voucher scuola: le domande dal 25 giugno al 16 luglio",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-domande-dal-25-giugno-al-16-luglio",
+    "descrizione": "Da giovedì 25 giugno e fino al 16 luglio sarà possibile presentare la domanda per accedere ai contributi previsti dai voucher scuola 2026-27 della Regione Piemonte. Si ricorda che la Giunta regionale prima e il Consiglio…",
+    "data": "2026-06-23T15:44:07+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "fe3d93de9b07",
     "titolo": "InQua, la \"Bella Storia\" dell'informazione di quartiere: i giovani raccontano Aurora e Barriera dal di dentro",
     "link": "https://www.comune.torino.it/novita/comunicati/inqua-bella-storia-dellinformazione-quartiere-giovani-raccontano-aurora-barriera",
@@ -14,6 +24,26 @@
     "titolo": "Alti livelli di ozono nell'aria. Le raccomandazioni per la popolazione",
     "link": "https://www.comune.torino.it/novita/notizie/alti-livelli-ozono-nellaria-raccomandazioni-per-popolazione",
     "descrizione": "A causa dell'elevata temperatura a Torino si sono verificati in questi ultimi giorni superamenti del livello dell’ozono.",
+    "data": "2026-06-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8a0d8ca4952f",
+    "titolo": "Efficientamento energetico su immobili comunali, approvati lavori per quasi 4 milioni di euro in cinque scuole",
+    "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-immobili-comunali-approvati-lavori-per-quasi-4",
+    "descrizione": "Quasi 4 milioni di euro per migliorare l’efficienza dal punto di vista energetico di cinque complessi scolastici cittadini: Torino prosegue nel percorso di riqu",
+    "data": "2026-06-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4f0fb88e3fb7",
+    "titolo": "Raccolta sottoscrizioni per referendum e proposte di legge",
+    "link": "https://www.comune.torino.it/novita/notizie/raccolta-sottoscrizioni-per-referendum-proposte-legge",
+    "descrizione": "Avviso di deposito dei modelli per la raccolta di firme per referendum e proposte di legge.",
     "data": "2026-06-23T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1964,36 +1994,6 @@
     "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
     "link": "https://www.comune.torino.it/novita/comunicati/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
     "descrizione": "Torino è tra le tredici città italiane insignite della “Bandiera Azzurra 2026”.",
-    "data": "2026-05-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6a4e129f5492",
-    "titolo": "Avviso problema di ricezione delle adesioni alla campagna \" Regala un albero alla tua città\"",
-    "link": "https://www.comune.torino.it/novita/avvisi/avviso-problema-ricezione-delle-adesioni-alla-campagna-regala-un-albero-alla-tua",
-    "descrizione": "Problematica ricezione istanze donazioni alberi per il periodo dal 1 al 17/4/2026",
-    "data": "2026-05-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "59f5ef0ee11e",
-    "titolo": "Concerti TWICE (20 MAGGIO 2026), SHIVA (23 MAGGIO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/notizie/concerti-twice-20-maggio-2026-shiva-23-maggio-2026-convocazione-per-assegnazione",
-    "descrizione": "Convocazione per LUNEDI' 18 MAGGIO 2026 ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali",
-    "data": "2026-05-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "eb79c5fdde5e",
-    "titolo": "Avviso pubblico concessione spazi Centro Interculturale",
-    "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-concessione-spazi-centro-interculturale",
-    "descrizione": "Protagonisti al Centro: dove la tua voce trova spazio! Avviso pubblico rivolto ad Enti del terzo settore e associazioni per la programmazione 2026-2027",
     "data": "2026-05-14T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

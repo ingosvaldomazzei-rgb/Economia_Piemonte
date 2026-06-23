@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 149,
-    "regione": 50,
+    "regione": 51,
+    "comune_torino": 148,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -12,11 +12,11 @@
     },
     {
       "tema": "istruzione-formazione",
-      "conteggio": 15
+      "conteggio": 17
     },
     {
       "tema": "sociale-welfare",
-      "conteggio": 15
+      "conteggio": 14
     },
     {
       "tema": "agricoltura",
