@@ -1,6 +1,16 @@
 {
-  "ultimo_aggiornamento": "2026-06-25T09:35:48.683930+00:00",
+  "ultimo_aggiornamento": "2026-06-25T14:43:37.104218+00:00",
   "sedute": [
+    {
+      "id": "5c7a9d7f2d3b",
+      "tipo": "seduta",
+      "numero": "100",
+      "titolo": "Seduta n. 100 del 30/06/2026",
+      "data": "2026-06-30T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=100&data_seduta=30-06-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
     {
       "id": "191a1d8a9031",
       "tipo": "seduta",
@@ -18,16 +28,6 @@
       "titolo": "Seduta n. 099 del 23/06/2026",
       "data": "2026-06-23T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=099&data_seduta=23-06-2026",
-      "sintesi_url": "",
-      "sintesi_testo": ""
-    },
-    {
-      "id": "5c7a9d7f2d3b",
-      "tipo": "seduta",
-      "numero": "100",
-      "titolo": "Seduta n. 100 del 22/06/2026",
-      "data": "2026-06-22T00:00:00+00:00",
-      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=100&data_seduta=22-06-2026",
       "sintesi_url": "",
       "sintesi_testo": ""
     },
@@ -2118,11 +2118,11 @@
   ],
   "statistiche": {
     "totale_sedute": 31,
-    "totale_interrogazioni": 100,
-    "totale_interpellanze": 0,
-    "totale_mozioni": 2,
-    "totale_odg": 98,
-    "mozioni_approvate": 58,
-    "mozioni_respinte": 19
+    "totale_interrogazioni": 199,
+    "totale_interpellanze": 1,
+    "totale_mozioni": 9,
+    "totale_odg": 191,
+    "mozioni_approvate": 102,
+    "mozioni_respinte": 40
   }
 }
