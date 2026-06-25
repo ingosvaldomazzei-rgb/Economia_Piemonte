@@ -60,6 +60,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "cc737a54181d",
+    "titolo": "Chiusura uffici",
+    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-uffici-1",
+    "descrizione": "Chiusura ufficio permessi ZTL",
+    "data": "2026-06-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f1672de691e2",
     "titolo": "La Regione riapre l’Osservatorio sull’emergenza idrica",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-riapre-losservatorio-sullemergenza-idrica",
@@ -1984,16 +1994,6 @@
     "titolo": "Certificati esami Cils - sessione dicembre 2025",
     "link": "https://www.comune.torino.it/novita/notizie/certificati-esami-cils-sessione-dicembre-2025",
     "descrizione": "Disponibili presso il Centro Interculturale gli attestati degli esami CILS della sessione di dicembre 2025",
-    "data": "2026-05-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f8a2d28b3630",
-    "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
-    "link": "https://www.comune.torino.it/novita/comunicati/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
-    "descrizione": "Torino è tra le tredici città italiane insignite della “Bandiera Azzurra 2026”.",
     "data": "2026-05-14T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
