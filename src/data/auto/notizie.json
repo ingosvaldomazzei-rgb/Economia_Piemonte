@@ -1,5 +1,15 @@
 [
   {
+    "id": "f39188a11255",
+    "titolo": "Terremoto in Venezuela: il Piemonte invia personale sanitario per le operazioni di soccorso",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terremoto-venezuela-piemonte-invia-personale-sanitario-per-operazioni-soccorso",
+    "descrizione": "La Regione Piemonte porta il proprio contributo alle operazioni di soccorso in Venezuela, colpito nelle scorse ore da due violenti terremoti che hanno provocato numerose vittime, centinaia di feriti e ingenti danni alle infrastrutture. Su richiesta del Dipartimento della…",
+    "data": "2026-06-25T20:26:31+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "a961148967c1",
     "titolo": "Giornata internazionale contro l'abuso e il traffico di droga: il 26 giugno ai Murazzi un appuntamento per i giovani con \"Sosteniamo, non puniamo. Skills in azione\"",
     "link": "https://www.comune.torino.it/novita/comunicati/giornata-internazionale-contro-labuso-traffico-droga-26-giugno-ai-murazzi-un",
@@ -1988,15 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "2c1e5364d1b0",
-    "titolo": "Segnalato un tentativo di frode via SMS con una finta comunicazione sul transito in ZTL",
-    "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-frode-via-sms-una-finta-comunicazione-sul-transito-ztl",
-    "descrizione": "Attenti alle truffe via SMS: sta circolando un tentativo di truffa su presunti transiti in ZTL.",
-    "data": "2026-05-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
