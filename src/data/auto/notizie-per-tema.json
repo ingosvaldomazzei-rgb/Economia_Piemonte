@@ -55,14 +55,6 @@
       "data": "2026-05-19T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9aba10d0fa54",
-      "titolo": "Il trofeo della coppa CEV Champions League a Palazzo Civico. Domani all’Inalpi Arena al via le Final Four",
-      "link": "https://www.comune.torino.it/novita/comunicati/trofeo-della-coppa-cev-champions-league-palazzo-civico-domani-allinalpi-arena-al",
-      "data": "2026-05-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "edilizia-opere-pubbliche": [
@@ -961,14 +953,6 @@
       "titolo": "A Rucas di Bagnolo Piemonte il Concerto di Ferragosto 2026",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rucas-bagnolo-piemonte-concerto-ferragosto-2026",
       "data": "2026-05-15T15:54:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "25a004b9388d",
-      "titolo": "PiemontePay supera le 6 milioni di transazioni e guarda all’AI",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemontepay-supera-6-milioni-transazioni-guarda-allai",
-      "data": "2026-05-14T16:56:59+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }

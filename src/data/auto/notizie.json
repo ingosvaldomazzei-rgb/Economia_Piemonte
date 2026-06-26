@@ -1,5 +1,25 @@
 [
   {
+    "id": "0bdc0ff6fce3",
+    "titolo": "Un insetto venuto da lontano: la sfida della Popillia japonica",
+    "link": "https://www.comune.torino.it/novita/notizie/un-insetto-venuto-lontano-sfida-della-popillia-japonica",
+    "descrizione": "La Popillia japonica un coleottero di origine giapponese si sta diffondendo in Europa da diversi anni danneggiando numerose specie vegetali.",
+    "data": "2026-06-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8af3bb4726d0",
+    "titolo": "Minorenne scomparsa rintracciata grazie al Reparto di Prossimità della Polizia Locale di Torino",
+    "link": "https://www.comune.torino.it/novita/comunicati/minorenne-scomparsa-rintracciata-grazie-al-reparto-prossimita-della-polizia",
+    "descrizione": "Si è conclusa fortunatamente nel migliore dei modi e in tempi brevi la vicenda di una ragazza minorenne di origini filippine residente a Torino, rintracciata gr",
+    "data": "2026-06-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f39188a11255",
     "titolo": "Terremoto in Venezuela: il Piemonte invia personale sanitario per le operazioni di soccorso",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terremoto-venezuela-piemonte-invia-personale-sanitario-per-operazioni-soccorso",
@@ -1978,25 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "9aba10d0fa54",
-    "titolo": "Il trofeo della coppa CEV Champions League a Palazzo Civico. Domani all’Inalpi Arena al via le Final Four",
-    "link": "https://www.comune.torino.it/novita/comunicati/trofeo-della-coppa-cev-champions-league-palazzo-civico-domani-allinalpi-arena-al",
-    "descrizione": "Alla vigilia della prima giornata delle Final Four il trofeo della CEV Champions League ha fatto tappa a Palazzo Civico.",
-    "data": "2026-05-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "25a004b9388d",
-    "titolo": "PiemontePay supera le 6 milioni di transazioni e guarda all’AI",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemontepay-supera-6-milioni-transazioni-guarda-allai",
-    "descrizione": "Un sistema solido e ben radicato a servizio di 163 enti del territorio e che gestisce 6 milioni di transazioni offrendo un sistema personalizzato: copertura di tutte le tematiche fiscali (multe, tributi, rimborsi, tasse, canoni…",
-    "data": "2026-05-14T16:56:59+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

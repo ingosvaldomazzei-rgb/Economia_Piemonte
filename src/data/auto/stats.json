@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 52,
-    "comune_torino": 147,
+    "comune_torino": 148,
+    "regione": 51,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -44,7 +44,7 @@
     },
     {
       "tema": "sanita-regionale",
-      "conteggio": 8
+      "conteggio": 7
     }
   ],
   "totale_temi_con_notizie": 25
