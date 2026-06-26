@@ -20,6 +20,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "c45c78284858",
+    "titolo": "Dal 6 luglio torna attivo l'autovelox in corso Unità d'Italia",
+    "link": "https://www.comune.torino.it/novita/comunicati/6-luglio-torna-attivo-lautovelox-corso-unita-ditalia",
+    "descrizione": "Dopo il necessario periodo di pre-esercizio e la posa della segnaletica prevista dalla normativa, dalla mezzanotte di lunedì 6 luglio entrerà ufficialmente in f",
+    "data": "2026-06-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f39188a11255",
     "titolo": "Terremoto in Venezuela: il Piemonte invia personale sanitario per le operazioni di soccorso",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terremoto-venezuela-piemonte-invia-personale-sanitario-per-operazioni-soccorso",
@@ -1988,15 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "a3eef379aeec",
-    "titolo": "Domenica la Marcia per la Pace. Previste modifiche viabili",
-    "link": "https://www.comune.torino.it/novita/comunicati/domenica-marcia-per-pace-previste-modifiche-viabili",
-    "descrizione": "Domenica 17 maggio si terrà a Torino la “Marcia per la Pace”. Partenza ore 9.30 dal Parco del Valentino, ore 11.30 momento conclusivo in Piazza della Repubblica",
-    "data": "2026-05-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
