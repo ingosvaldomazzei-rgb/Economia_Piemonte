@@ -30,6 +30,16 @@
     "colore": "#2563eb"
   },
   {
+    "id": "4d9d2d4a2896",
+    "titolo": "Aggiornamento sulla validità delle carte d'identità cartacee",
+    "link": "https://www.comune.torino.it/novita/avvisi/aggiornamento-sulla-validita-delle-carte-didentita-cartacee",
+    "descrizione": "Il Consiglio dei Ministri, con il decreto-legge 26 giugno 2026, n. 108, ha introdotto importanti disposizioni in materia di carta d'identità.",
+    "data": "2026-06-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "0bdc0ff6fce3",
     "titolo": "Un insetto venuto da lontano: la sfida della Popillia japonica",
     "link": "https://www.comune.torino.it/novita/notizie/un-insetto-venuto-lontano-sfida-della-popillia-japonica",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "b03f0175defb",
-    "titolo": "La Regione Piemonte al Salone del Libro 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-al-salone-libro-2026",
-    "descrizione": "La Regione Piemonte è stata protagonista al Salone internazionale del Libro 2026 con una presenza rinnovata, più strutturata e visibile, orientata alla valorizzazione del patrimonio culturale come elemento fondamentale per lo sviluppo, la…",
-    "data": "2026-05-18T08:30:59+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
