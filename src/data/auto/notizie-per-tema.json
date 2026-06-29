@@ -1,4 +1,128 @@
 {
+  "commercio-artigianato": [
+    {
+      "id": "5bd54c95b07b",
+      "titolo": "Modificato il Regolamento sui mercatini periodici tematici",
+      "link": "https://www.comune.torino.it/novita/comunicati/modificato-regolamento-sui-mercatini-periodici-tematici",
+      "data": "2026-06-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4d8929d4abeb",
+      "titolo": "Commercio di prossimità, Torino premia le 99 attività entrate nell'Albo EPIC nel 2025. Domenica al Conservatorio G. Verdi la cerimonia",
+      "link": "https://www.comune.torino.it/novita/comunicati/commercio-prossimita-torino-premia-99-attivita-entrate-nellalbo-epic-nel-2025",
+      "data": "2026-06-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "07a6d45d77e5",
+      "titolo": "La \"Truffa si camuffa\" fa tappa al mercato di piazza Foroni",
+      "link": "https://www.comune.torino.it/novita/notizie/truffa-si-camuffa-fa-tappa-al-mercato-piazza-foroni",
+      "data": "2026-06-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b8f368df9dc2",
+      "titolo": "Mercatini tematici, proposta per la semplificazione normativa e via libera alla sperimentazione temporanea",
+      "link": "https://www.comune.torino.it/novita/comunicati/mercatini-tematici-proposta-per-semplificazione-normativa-via-libera-alla",
+      "data": "2026-05-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "lavoro-occupazione": [
+    {
+      "id": "5bd54c95b07b",
+      "titolo": "Modificato il Regolamento sui mercatini periodici tematici",
+      "link": "https://www.comune.torino.it/novita/comunicati/modificato-regolamento-sui-mercatini-periodici-tematici",
+      "data": "2026-06-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d13efbbc2f68",
+      "titolo": "Internet senza paura, piccole regole per evitare le truffe",
+      "link": "https://www.comune.torino.it/novita/notizie/internet-senza-paura-piccole-regole-per-evitare-truffe",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7bedd993c8e8",
+      "titolo": "Sicurezza sul lavoro e caldo estremo: l’ordinanza regionale per la tutela dei lavoratori esposti alle alte temperature",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sicurezza-sul-lavoro-caldo-estremo-lordinanza-regionale-per-tutela-dei-lavoratori-esposti-alle-alte",
+      "data": "2026-05-29T18:09:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7d78be5e1f7f",
+      "titolo": "KAPPA FUTURFESTIVAL (03-04-05 LUGLIO 2026) - RILASCIO CONCESSIONI OCCUPAZIONE TEMPORANEA DEL SUOLO PUBBLICO PER ATTIVITÀ DI VENDITA DI PRODOTTI ALIMENTARI",
+      "link": "https://www.comune.torino.it/novita/notizie/kappa-futurfestival-03-04-05-luglio-2026-rilascio-concessioni-occupazione",
+      "data": "2026-05-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "63b6910f347b",
+      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
+      "data": "2026-05-22T12:14:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2f46fdc41a2a",
+      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale",
+      "data": "2026-05-22T12:14:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a665a334ba60",
+      "titolo": "Un giardino per ricordare le vittime della strage di Vergarolla",
+      "link": "https://www.comune.torino.it/novita/notizie/un-giardino-per-ricordare-vittime-della-strage-vergarolla",
+      "data": "2026-05-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ea65f56b0cbf",
+      "titolo": "Le novità dei cantieri di lavoro 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-dei-cantieri-lavoro-2026",
+      "data": "2026-05-19T12:37:53+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c36ee9e8c75d",
+      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
+      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "86a9c92b4a70",
+      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – giugno 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-2",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0282f9d7482f",
+      "titolo": "Approvata la definizione agevolata per sanzioni e tributi non pagati fino al 2020",
+      "link": "https://www.comune.torino.it/novita/comunicati/approvata-definizione-agevolata-per-sanzioni-tributi-non-pagati-fino-al-2020",
+      "data": "2026-05-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "ambiente-qualita-aria": [
     {
       "id": "29be22b737ab",
@@ -899,32 +1023,6 @@
       "fonte_id": "regione"
     }
   ],
-  "commercio-artigianato": [
-    {
-      "id": "4d8929d4abeb",
-      "titolo": "Commercio di prossimità, Torino premia le 99 attività entrate nell'Albo EPIC nel 2025. Domenica al Conservatorio G. Verdi la cerimonia",
-      "link": "https://www.comune.torino.it/novita/comunicati/commercio-prossimita-torino-premia-99-attivita-entrate-nellalbo-epic-nel-2025",
-      "data": "2026-06-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "07a6d45d77e5",
-      "titolo": "La \"Truffa si camuffa\" fa tappa al mercato di piazza Foroni",
-      "link": "https://www.comune.torino.it/novita/notizie/truffa-si-camuffa-fa-tappa-al-mercato-piazza-foroni",
-      "data": "2026-06-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b8f368df9dc2",
-      "titolo": "Mercatini tematici, proposta per la semplificazione normativa e via libera alla sperimentazione temporanea",
-      "link": "https://www.comune.torino.it/novita/comunicati/mercatini-tematici-proposta-per-semplificazione-normativa-via-libera-alla",
-      "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "pianificazione-territoriale": [
     {
       "id": "82a411ddd613",
@@ -1215,88 +1313,6 @@
       "titolo": "Mirafiori Sud, due immobili comunali rinascono come presidi educativi e sociali",
       "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-sud-due-immobili-comunali-rinascono-come-presidi-educativi-sociali",
       "data": "2026-06-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "d13efbbc2f68",
-      "titolo": "Internet senza paura, piccole regole per evitare le truffe",
-      "link": "https://www.comune.torino.it/novita/notizie/internet-senza-paura-piccole-regole-per-evitare-truffe",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7bedd993c8e8",
-      "titolo": "Sicurezza sul lavoro e caldo estremo: l’ordinanza regionale per la tutela dei lavoratori esposti alle alte temperature",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sicurezza-sul-lavoro-caldo-estremo-lordinanza-regionale-per-tutela-dei-lavoratori-esposti-alle-alte",
-      "data": "2026-05-29T18:09:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7d78be5e1f7f",
-      "titolo": "KAPPA FUTURFESTIVAL (03-04-05 LUGLIO 2026) - RILASCIO CONCESSIONI OCCUPAZIONE TEMPORANEA DEL SUOLO PUBBLICO PER ATTIVITÀ DI VENDITA DI PRODOTTI ALIMENTARI",
-      "link": "https://www.comune.torino.it/novita/notizie/kappa-futurfestival-03-04-05-luglio-2026-rilascio-concessioni-occupazione",
-      "data": "2026-05-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "63b6910f347b",
-      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
-      "data": "2026-05-22T12:14:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2f46fdc41a2a",
-      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale",
-      "data": "2026-05-22T12:14:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a665a334ba60",
-      "titolo": "Un giardino per ricordare le vittime della strage di Vergarolla",
-      "link": "https://www.comune.torino.it/novita/notizie/un-giardino-per-ricordare-vittime-della-strage-vergarolla",
-      "data": "2026-05-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ea65f56b0cbf",
-      "titolo": "Le novità dei cantieri di lavoro 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-dei-cantieri-lavoro-2026",
-      "data": "2026-05-19T12:37:53+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c36ee9e8c75d",
-      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
-      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "86a9c92b4a70",
-      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – giugno 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-2",
-      "data": "2026-05-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0282f9d7482f",
-      "titolo": "Approvata la definizione agevolata per sanzioni e tributi non pagati fino al 2020",
-      "link": "https://www.comune.torino.it/novita/comunicati/approvata-definizione-agevolata-per-sanzioni-tributi-non-pagati-fino-al-2020",
-      "data": "2026-05-18T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
