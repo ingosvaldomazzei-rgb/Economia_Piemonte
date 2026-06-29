@@ -1,5 +1,15 @@
 [
   {
+    "id": "ad7388a91ca5",
+    "titolo": "Blackout elettrico al potabilizzatore Smat, Foglietta: \"Acqua sempre garantita, nessun allarmismo\"",
+    "link": "https://www.comune.torino.it/novita/comunicati/blackout-elettrico-al-potabilizzatore-smat-foglietta-acqua-sempre-garantita",
+    "descrizione": "Gli altri impianti della rete idrica hanno compensato i litri mancanti e successivamente sono stati avviati da Smat due gruppi elettrogeni",
+    "data": "2026-06-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "29be22b737ab",
     "titolo": "Evitato il blocco dei diesel Euro 5 con nuove misure antismog",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/evitato-blocco-dei-diesel-euro-5-nuove-misure-antismog",
@@ -1984,16 +1994,6 @@
     "titolo": "Istanza di Piano Esecutivo Convenzionato (PEC): aggiornamento modulistica",
     "link": "https://www.comune.torino.it/novita/avvisi/istanza-piano-esecutivo-convenzionato-pec-aggiornamento-modulistica",
     "descrizione": "Con Determinazione Dirigenziale 2994 del 18/05/2026 è stato aggiornato il modello dell'istanza di PEC.",
-    "data": "2026-05-18T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "989b9c7df3e2",
-    "titolo": "Località interessate da controlli con dispositivi mobili",
-    "link": "https://www.comune.torino.it/novita/avvisi/localita-interessate-controlli-dispositivi-mobili",
-    "descrizione": "Programmazione controlli della velocità – pubblicazioni quindicinali",
     "data": "2026-05-18T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
