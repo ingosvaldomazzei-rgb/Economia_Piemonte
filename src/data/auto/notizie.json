@@ -1,5 +1,25 @@
 [
   {
+    "id": "7e131b1cbf1a",
+    "titolo": "Col progetto “RiVestiTO” le vecchie divise della Polizia Locale sfilano trasformate alla Fashion Week di Torino",
+    "link": "https://www.comune.torino.it/novita/comunicati/col-progetto-rivestito-vecchie-divise-della-polizia-locale-sfilano-trasformate",
+    "descrizione": "Le vecchie divise dismesse della Polizia Locale di Torino non hanno solo evitato di venire buttate ma sono diventate materiale per una collezione di design d'av",
+    "data": "2026-06-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bec4b5a16f00",
+    "titolo": "Manutenzioni straordinarie, 300mila euro per interventi sulla Fontana delle Quattro Stagioni e su quattro monumenti cittadini",
+    "link": "https://www.comune.torino.it/novita/notizie/manutenzioni-straordinarie-300mila-euro-per-interventi-sulla-fontana-delle",
+    "descrizione": "La Giunta ha approvato i progetti di fattibilità tecnica ed economica per una serie di interventi di manutenzione straordinaria su alcuni monumenti cittadini",
+    "data": "2026-06-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "9375a9cd1fc4",
     "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
@@ -1974,26 +1994,6 @@
     "titolo": "“Abbiamo un mondo in Comune”. La Città premia la cooperazione sociale",
     "link": "https://www.comune.torino.it/novita/comunicati/abbiamo-un-mondo-comune-citta-premia-cooperazione-sociale",
     "descrizione": "Sono stati premiati, dal sindaco Stefano Lo Russo, i progetti vincitori della terza edizione del Premio “Abbiamo un mondo in Comune”.",
-    "data": "2026-05-18T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0282f9d7482f",
-    "titolo": "Approvata la definizione agevolata per sanzioni e tributi non pagati fino al 2020",
-    "link": "https://www.comune.torino.it/novita/comunicati/approvata-definizione-agevolata-per-sanzioni-tributi-non-pagati-fino-al-2020",
-    "descrizione": "Definite, ai sensi dell'ultima legge di Bilancio, agevolazioni per regolarizzare i debiti non pagati nei confronti del Comune fino a tutto il 2020",
-    "data": "2026-05-18T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "36b02a4fea01",
-    "titolo": "Sala Rossa: approvata mozione per valorizzare Barriera di Milano ed altri quartieri periferici",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvata-mozione-per-valorizzare-barriera-milano-altri-quartieri",
-    "descrizione": "Il documento impegna a realizzare iniziative, culturali sociali e sportive oltre a quelle già programmate per gli anni 2026 - 2027",
     "data": "2026-05-18T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
