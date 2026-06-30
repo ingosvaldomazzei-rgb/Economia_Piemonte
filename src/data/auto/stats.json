@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 149,
-    "regione": 50,
+    "regione": 51,
+    "comune_torino": 148,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -19,15 +19,15 @@
       "conteggio": 14
     },
     {
+      "tema": "agricoltura",
+      "conteggio": 11
+    },
+    {
       "tema": "lavoro-occupazione",
       "conteggio": 11
     },
     {
       "tema": "giovani",
-      "conteggio": 10
-    },
-    {
-      "tema": "agricoltura",
       "conteggio": 10
     },
     {

@@ -1,5 +1,15 @@
 [
   {
+    "id": "9375a9cd1fc4",
+    "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
+    "descrizione": "La Regione Piemonte ha trasmesso al Ministero dell’Ambiente e della sicurezza energetica la proposta di programmazione delle risorse 2026 destinate alla mitigazione del rischio idrogeologico, per un valore complessivo di oltre 27 milioni di euro. Il Piano, predisposto dalla Direzione…",
+    "data": "2026-06-29T18:39:06+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "ad7388a91ca5",
     "titolo": "Blackout elettrico al potabilizzatore Smat, Foglietta: \"Acqua sempre garantita, nessun allarmismo\"",
     "link": "https://www.comune.torino.it/novita/comunicati/blackout-elettrico-al-potabilizzatore-smat-foglietta-acqua-sempre-garantita",
@@ -1984,16 +1994,6 @@
     "titolo": "Sala Rossa: approvata mozione per valorizzare Barriera di Milano ed altri quartieri periferici",
     "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvata-mozione-per-valorizzare-barriera-milano-altri-quartieri",
     "descrizione": "Il documento impegna a realizzare iniziative, culturali sociali e sportive oltre a quelle già programmate per gli anni 2026 - 2027",
-    "data": "2026-05-18T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2632b4ee7d62",
-    "titolo": "Per la valorizzazione del modello torinese di dialogo interreligioso",
-    "link": "https://www.comune.torino.it/novita/comunicati/per-valorizzazione-modello-torinese-dialogo-interreligioso",
-    "descrizione": "Una mozione in tema di dialogo interreligioso impegna la Giunta a promuovere il “modello Torino” come buona pratica di gestione della diversità religiosa",
     "data": "2026-05-18T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
