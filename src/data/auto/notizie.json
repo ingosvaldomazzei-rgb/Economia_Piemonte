@@ -1,5 +1,15 @@
 [
   {
+    "id": "5f221a0d2eba",
+    "titolo": "Il Piemonte del gusto a New York per il Summer Fancy Food Show 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-gusto-new-york-per-summer-fancy-food-show-2026",
+    "descrizione": "Il Piemonte è ritornato protagonista al Summer Fancy Food Show di New York, il più importante appuntamento del Nord America dedicato a cibo e bevande: dal 28 al 30 giugno una delegazione di 17 aziende…",
+    "data": "2026-06-30T20:56:08+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "7e131b1cbf1a",
     "titolo": "Col progetto “RiVestiTO” le vecchie divise della Polizia Locale sfilano trasformate alla Fashion Week di Torino",
     "link": "https://www.comune.torino.it/novita/comunicati/col-progetto-rivestito-vecchie-divise-della-polizia-locale-sfilano-trasformate",
@@ -14,6 +24,16 @@
     "titolo": "Manutenzioni straordinarie, 300mila euro per interventi sulla Fontana delle Quattro Stagioni e su quattro monumenti cittadini",
     "link": "https://www.comune.torino.it/novita/notizie/manutenzioni-straordinarie-300mila-euro-per-interventi-sulla-fontana-delle",
     "descrizione": "La Giunta ha approvato i progetti di fattibilità tecnica ed economica per una serie di interventi di manutenzione straordinaria su alcuni monumenti cittadini",
+    "data": "2026-06-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d2e462184f97",
+    "titolo": "Ecologie di Cura: il 2 luglio ai Giardini Saragat il primo incontro pubblico del progetto per il benessere dei giovani",
+    "link": "https://www.comune.torino.it/novita/comunicati/ecologie-cura-2-luglio-ai-giardini-saragat-primo-incontro-pubblico-progetto-per",
+    "descrizione": "Giovedì 2 luglio, dalle ore 17, ai Giardini Saragat di via Leoncavallo, sarà presentato il progetto “Ecologie di Cura”, il percorso avviato e dedicato alla prom",
     "data": "2026-06-30T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -55,16 +75,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/evitato-blocco-dei-diesel-euro-5-nuove-misure-antismog",
     "descrizione": "La Regione Piemonte ha cancellato il blocco strutturale che avrebbe riguardato da ottobre ad aprile 307.000 auto diesel Euro 5 nell’…",
     "data": "2026-06-29T00:54:02+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "5f221a0d2eba",
-    "titolo": "Il Piemonte del gusto a New York per il Summer Fancy Food Show 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-gusto-new-york-per-summer-fancy-food-show-2026",
-    "descrizione": "Il Piemonte ritorna protagonista al Summer Fancy Food Show di New York, il più importante appuntamento del Nord America dedicato a cibo e bevande: dal 28 al 30 giugno una delegazione di 17 aziende…",
-    "data": "2026-06-28T11:56:08+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
@@ -1984,16 +1994,6 @@
     "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – giugno 2026",
     "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-2",
     "descrizione": "Pubblicazione del calendario eventi programmati nei pressi dello Stadio Olimpico – Inalpi Arena nel prossimo mese di giugno 2026.",
-    "data": "2026-05-18T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "fedf8fb2625c",
-    "titolo": "“Abbiamo un mondo in Comune”. La Città premia la cooperazione sociale",
-    "link": "https://www.comune.torino.it/novita/comunicati/abbiamo-un-mondo-comune-citta-premia-cooperazione-sociale",
-    "descrizione": "Sono stati premiati, dal sindaco Stefano Lo Russo, i progetti vincitori della terza edizione del Premio “Abbiamo un mondo in Comune”.",
     "data": "2026-05-18T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
