@@ -16,7 +16,7 @@
     },
     {
       "tema": "sociale-welfare",
-      "conteggio": 13
+      "conteggio": 12
     },
     {
       "tema": "agricoltura",
@@ -27,11 +27,11 @@
       "conteggio": 11
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 10
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 11
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
+      "tema": "lavoro-occupazione",
       "conteggio": 10
     },
     {
@@ -39,12 +39,12 @@
       "conteggio": 9
     },
     {
-      "tema": "sport",
+      "tema": "pianificazione-territoriale",
       "conteggio": 8
     },
     {
-      "tema": "pianificazione-territoriale",
-      "conteggio": 7
+      "tema": "sport",
+      "conteggio": 8
     }
   ],
   "totale_temi_con_notizie": 25

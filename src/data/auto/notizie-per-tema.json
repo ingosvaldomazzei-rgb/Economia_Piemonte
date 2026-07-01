@@ -149,6 +149,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "a208834388f4",
+      "titolo": "Il 2 luglio l’inaugurazione della “Prima portineria di comunità itinerante”",
+      "link": "https://www.comune.torino.it/novita/comunicati/2-luglio-linaugurazione-della-prima-portineria-comunita-itinerante",
+      "data": "2026-07-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "9375a9cd1fc4",
       "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
@@ -361,6 +369,96 @@
       "data": "2026-05-22T12:14:18+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    }
+  ],
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "a208834388f4",
+      "titolo": "Il 2 luglio l’inaugurazione della “Prima portineria di comunità itinerante”",
+      "link": "https://www.comune.torino.it/novita/comunicati/2-luglio-linaugurazione-della-prima-portineria-comunita-itinerante",
+      "data": "2026-07-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "448508eea84b",
+      "titolo": "Il futuro dell'area Westinghouse: le comunicazioni dell'assessore Mazzoleni e il dibattito in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/futuro-dellarea-westinghouse-comunicazioni-dellassessore-mazzoleni-dibattito",
+      "data": "2026-06-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "71faaf5f2898",
+      "titolo": "Ciclismo: in Piemonte i Campionati italiani uomini 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ciclismo-piemonte-campionati-italiani-uomini-2026",
+      "data": "2026-06-19T15:22:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "91982a8d99e1",
+      "titolo": "Centro di protagonismo giovanile di corso Ferrucci: comunicata la rinuncia all'aggiudicazione. Illustrato un progetto per via Frejus",
+      "link": "https://www.comune.torino.it/novita/comunicati/centro-protagonismo-giovanile-corso-ferrucci-comunicata-rinuncia",
+      "data": "2026-06-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "84722aa8c196",
+      "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
+      "data": "2026-06-10T14:48:01+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "20867350de58",
+      "titolo": "Quasi 23 milioni per le nuove aree interne Valsesia e Terre del Giarolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/quasi-23-milioni-per-nuove-aree-interne-valsesia-terre-giarolo",
+      "data": "2026-06-09T14:00:38+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e5b96d8ce4ad",
+      "titolo": "Mirafiori Sud, due immobili comunali rinascono come presidi educativi e sociali",
+      "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-sud-due-immobili-comunali-rinascono-come-presidi-educativi-sociali",
+      "data": "2026-06-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a3f4107541bd",
+      "titolo": "Contributi per la sistemazione temporanea dei salariati nelle aziende agricole",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-sistemazione-temporanea-dei-salariati-nelle-aziende-agricole",
+      "data": "2026-05-26T10:41:44+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2d758ebb7939",
+      "titolo": "Corecom Piemonte: 4339 istanze trattate",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/corecom-piemonte-4339-istanze-trattate",
+      "data": "2026-05-25T14:05:13+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "84093b93481f",
+      "titolo": "Fermi in Festa!",
+      "link": "https://www.comune.torino.it/novita/notizie/fermi-festa",
+      "data": "2026-05-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d1a487ffa508",
+      "titolo": "Segnalato un tentativo di truffa telefonica su clonazione CIE",
+      "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-truffa-telefonica-clonazione-cie",
+      "data": "2026-05-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     }
   ],
   "lavoro-occupazione": [
@@ -699,14 +797,6 @@
       "data": "2026-06-11T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "26eec76304e3",
-      "titolo": "Gruppo ConVersAzioni - Linguaggi proibiti",
-      "link": "https://www.comune.torino.it/novita/notizie/gruppo-conversazioni-linguaggi-proibiti",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "edilizia-opere-pubbliche": [
@@ -973,88 +1063,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "448508eea84b",
-      "titolo": "Il futuro dell'area Westinghouse: le comunicazioni dell'assessore Mazzoleni e il dibattito in Sala Rossa",
-      "link": "https://www.comune.torino.it/novita/comunicati/futuro-dellarea-westinghouse-comunicazioni-dellassessore-mazzoleni-dibattito",
-      "data": "2026-06-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "71faaf5f2898",
-      "titolo": "Ciclismo: in Piemonte i Campionati italiani uomini 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ciclismo-piemonte-campionati-italiani-uomini-2026",
-      "data": "2026-06-19T15:22:29+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "91982a8d99e1",
-      "titolo": "Centro di protagonismo giovanile di corso Ferrucci: comunicata la rinuncia all'aggiudicazione. Illustrato un progetto per via Frejus",
-      "link": "https://www.comune.torino.it/novita/comunicati/centro-protagonismo-giovanile-corso-ferrucci-comunicata-rinuncia",
-      "data": "2026-06-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "84722aa8c196",
-      "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
-      "data": "2026-06-10T14:48:01+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "20867350de58",
-      "titolo": "Quasi 23 milioni per le nuove aree interne Valsesia e Terre del Giarolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/quasi-23-milioni-per-nuove-aree-interne-valsesia-terre-giarolo",
-      "data": "2026-06-09T14:00:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e5b96d8ce4ad",
-      "titolo": "Mirafiori Sud, due immobili comunali rinascono come presidi educativi e sociali",
-      "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-sud-due-immobili-comunali-rinascono-come-presidi-educativi-sociali",
-      "data": "2026-06-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a3f4107541bd",
-      "titolo": "Contributi per la sistemazione temporanea dei salariati nelle aziende agricole",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-sistemazione-temporanea-dei-salariati-nelle-aziende-agricole",
-      "data": "2026-05-26T10:41:44+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2d758ebb7939",
-      "titolo": "Corecom Piemonte: 4339 istanze trattate",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/corecom-piemonte-4339-istanze-trattate",
-      "data": "2026-05-25T14:05:13+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "84093b93481f",
-      "titolo": "Fermi in Festa!",
-      "link": "https://www.comune.torino.it/novita/notizie/fermi-festa",
-      "data": "2026-05-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d1a487ffa508",
-      "titolo": "Segnalato un tentativo di truffa telefonica su clonazione CIE",
-      "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-truffa-telefonica-clonazione-cie",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "montagna": [
     {
       "id": "448508eea84b",
@@ -1071,14 +1079,6 @@
       "data": "2026-06-10T14:48:01+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "0a584bbb7ba5",
-      "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
-      "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "universita-ricerca": [
@@ -1235,14 +1235,6 @@
       "titolo": "Il benessere e la sicurezza digitale delle bambine e dei bambini da 0 a 6 anni",
       "link": "https://www.comune.torino.it/novita/notizie/benessere-sicurezza-digitale-delle-bambine-dei-bambini-0-6-anni",
       "data": "2026-05-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0a584bbb7ba5",
-      "titolo": "Sistema di Accoglienza e Integrazione, Torino avvia la coprogettazione per il triennio 2026-2028 e punta ad ampliare l’accoglienza per le famiglie",
-      "link": "https://www.comune.torino.it/novita/comunicati/sistema-accoglienza-integrazione-torino-avvia-coprogettazione-per-triennio-2026",
-      "data": "2026-05-19T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
