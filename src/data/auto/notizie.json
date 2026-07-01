@@ -1,5 +1,15 @@
 [
   {
+    "id": "a864eefd0ebc",
+    "titolo": "VISITA AL CANTIERE DI TORINO ESPOSIZIONI PER LE VOLONTARIE E I VOLONTARI DEL SERVIZIO CIVILE. RACCONTERANNO LA NUOVA BIBLIOTECA CIVICA",
+    "link": "https://www.comune.torino.it/novita/comunicati/visita-al-cantiere-torino-esposizioni-per-volontarie-volontari-servizio-civile",
+    "descrizione": "Sopralluogo al cantiere della nuova Biblioteca Civica Centrale per un gruppo di volontari del servizio civile universale",
+    "data": "2026-07-01T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "5f221a0d2eba",
     "titolo": "Il Piemonte del gusto a New York per il Summer Fancy Food Show 2026",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-gusto-new-york-per-summer-fancy-food-show-2026",
@@ -1988,15 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "86a9c92b4a70",
-    "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – giugno 2026",
-    "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-2",
-    "descrizione": "Pubblicazione del calendario eventi programmati nei pressi dello Stadio Olimpico – Inalpi Arena nel prossimo mese di giugno 2026.",
-    "data": "2026-05-18T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

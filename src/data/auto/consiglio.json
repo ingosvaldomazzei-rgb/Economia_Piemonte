@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-07-01T04:24:13.886964+00:00",
+  "ultimo_aggiornamento": "2026-07-01T10:00:47.980418+00:00",
   "sedute": [
     {
       "id": "5c7a9d7f2d3b",
@@ -8,7 +8,7 @@
       "titolo": "Seduta n. 100 del 30/06/2026",
       "data": "2026-06-30T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=100&data_seduta=30-06-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89301&nome_file=Sintesi%20n.%20100_30giugno2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
