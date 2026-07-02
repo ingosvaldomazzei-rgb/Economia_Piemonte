@@ -20,6 +20,16 @@
     "colore": "#2563eb"
   },
   {
+    "id": "8757aac3bc12",
+    "titolo": "Taglio del nastro per il nuovo Centro Servizi “Spazio Astengo” nel cuore di Falchera",
+    "link": "https://www.comune.torino.it/novita/comunicati/taglio-nastro-per-nuovo-centro-servizi-spazio-astengo-nel-cuore-falchera",
+    "descrizione": "È stato inaugurato questo pomeriggio a Falchera il nuovo Centro Servizi “Spazio Astengo”, nei locali riqualificati di piazza Astengo 10. Un nuovo presidio di co",
+    "data": "2026-07-02T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "75b1751579fe",
     "titolo": "Per Regione e Soccorso alpino la sicurezza in montagna inizia prima di partire",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/per-regione-soccorso-alpino-sicurezza-montagna-inizia-prima-partire",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "ea65f56b0cbf",
-    "titolo": "Le novità dei cantieri di lavoro 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-dei-cantieri-lavoro-2026",
-    "descrizione": "Più risorse a disposizione, limiti di età abbassati e nessuna necessità di cofinanziamento sono le novità dei nuovi avvisi della Regione Piemonte per i cantieri di lavoro.…",
-    "data": "2026-05-19T12:37:53+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
