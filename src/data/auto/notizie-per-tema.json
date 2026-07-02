@@ -1,5 +1,47 @@
 {
+  "attivita-produttive": [
+    {
+      "id": "0c9d72d8030b",
+      "titolo": "Il bando 2026 per il credito in agricoltura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
+      "data": "2026-07-02T12:05:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4992d095502c",
+      "titolo": "Ex Manifattura Tabacchi, via libera alle demolizioni controllate",
+      "link": "https://www.comune.torino.it/novita/comunicati/ex-manifattura-tabacchi-via-libera-alle-demolizioni-controllate",
+      "data": "2026-06-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1e97a0f8fca4",
+      "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
+      "data": "2026-06-15T16:40:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0d1c3bb1043e",
+      "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
+      "data": "2026-05-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "agricoltura": [
+    {
+      "id": "0c9d72d8030b",
+      "titolo": "Il bando 2026 per il credito in agricoltura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
+      "data": "2026-07-02T12:05:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "1d01b32fb623",
       "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
@@ -85,6 +127,268 @@
       "titolo": "Le novità dei cantieri di lavoro 2026",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-dei-cantieri-lavoro-2026",
       "data": "2026-05-19T12:37:53+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "lavoro-occupazione": [
+    {
+      "id": "0c9d72d8030b",
+      "titolo": "Il bando 2026 per il credito in agricoltura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
+      "data": "2026-07-02T12:05:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e76a6db8b16c",
+      "titolo": "Il “Semplifica Piemonte” è legge: riforma per una Regione più semplice, accessibile e capace di dare risposte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-legge-riforma-per-una-regione-piu-semplice-accessibile-capace-dare-risposte",
+      "data": "2026-06-30T17:50:15+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5bd54c95b07b",
+      "titolo": "Modificato il Regolamento sui mercatini periodici tematici",
+      "link": "https://www.comune.torino.it/novita/comunicati/modificato-regolamento-sui-mercatini-periodici-tematici",
+      "data": "2026-06-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d13efbbc2f68",
+      "titolo": "Internet senza paura, piccole regole per evitare le truffe",
+      "link": "https://www.comune.torino.it/novita/notizie/internet-senza-paura-piccole-regole-per-evitare-truffe",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7bedd993c8e8",
+      "titolo": "Sicurezza sul lavoro e caldo estremo: l’ordinanza regionale per la tutela dei lavoratori esposti alle alte temperature",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sicurezza-sul-lavoro-caldo-estremo-lordinanza-regionale-per-tutela-dei-lavoratori-esposti-alle-alte",
+      "data": "2026-05-29T18:09:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7d78be5e1f7f",
+      "titolo": "KAPPA FUTURFESTIVAL (03-04-05 LUGLIO 2026) - RILASCIO CONCESSIONI OCCUPAZIONE TEMPORANEA DEL SUOLO PUBBLICO PER ATTIVITÀ DI VENDITA DI PRODOTTI ALIMENTARI",
+      "link": "https://www.comune.torino.it/novita/notizie/kappa-futurfestival-03-04-05-luglio-2026-rilascio-concessioni-occupazione",
+      "data": "2026-05-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "63b6910f347b",
+      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
+      "data": "2026-05-22T12:14:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2f46fdc41a2a",
+      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale",
+      "data": "2026-05-22T12:14:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a665a334ba60",
+      "titolo": "Un giardino per ricordare le vittime della strage di Vergarolla",
+      "link": "https://www.comune.torino.it/novita/notizie/un-giardino-per-ricordare-vittime-della-strage-vergarolla",
+      "data": "2026-05-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ea65f56b0cbf",
+      "titolo": "Le novità dei cantieri di lavoro 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-dei-cantieri-lavoro-2026",
+      "data": "2026-05-19T12:37:53+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "cultura-beni-culturali": [
+    {
+      "id": "0c9d72d8030b",
+      "titolo": "Il bando 2026 per il credito in agricoltura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
+      "data": "2026-07-02T12:05:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4d9d2d4a2896",
+      "titolo": "Aggiornamento sulla validità delle carte d'identità cartacee",
+      "link": "https://www.comune.torino.it/novita/avvisi/aggiornamento-sulla-validita-delle-carte-didentita-cartacee",
+      "data": "2026-06-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "887c12442a84",
+      "titolo": "KAPPA FUTURFESTIVAL (3-5 LUGLIO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/kappa-futurfestival-3-5-luglio-2026-convocazione-per-assegnazione-posteggi",
+      "data": "2026-06-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6eead8e30c8d",
+      "titolo": "Verso Torino Capitale Europea della Cultura 2033. Indicati i componenti dell’Advisory Board",
+      "link": "https://www.comune.torino.it/novita/comunicati/verso-torino-capitale-europea-della-cultura-2033-indicati-componenti",
+      "data": "2026-06-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5e76a6fcf489",
+      "titolo": "Rosso Beethoven",
+      "link": "https://www.comune.torino.it/novita/notizie/rosso-beethoven",
+      "data": "2026-06-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "89ff41011948",
+      "titolo": "Festival di Porta Palazzo, tre giorni tra cibo, musica e arte per valorizzare il mercato più grande d’Europa",
+      "link": "https://www.comune.torino.it/novita/comunicati/festival-porta-palazzo-tre-giorni-cibo-musica-arte-per-valorizzare-mercato-piu",
+      "data": "2026-06-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a3ad0512eacf",
+      "titolo": "Al via i soggiorni estivi per persone con disabilità: partito oggi uno dei primi gruppi da Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/al-via-soggiorni-estivi-per-persone-disabilita-partito-oggi-uno-dei-primi-gruppi",
+      "data": "2026-06-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "152b78690b35",
+      "titolo": "Parco della Tesoriera verso la riapertura completa. Lunedì 1° giugno chiusura temporanea per la rimozione del cantiere",
+      "link": "https://www.comune.torino.it/novita/comunicati/parco-della-tesoriera-verso-riapertura-completa-lunedi-1deg-giugno-chiusura",
+      "data": "2026-05-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "db6990538c53",
+      "titolo": "2 giugno, Torino festeggia l’80esimo anniversario della Repubblica con un programma speciale",
+      "link": "https://www.comune.torino.it/novita/comunicati/2-giugno-torino-festeggia-l80esimo-anniversario-della-repubblica-un-programma",
+      "data": "2026-05-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "60c3fff9efbd",
+      "titolo": "Sabato 30 maggio il concerto Kiss Kiss Way. Le modifiche viabili e i provvedimenti previsti",
+      "link": "https://www.comune.torino.it/novita/comunicati/sabato-30-maggio-concerto-kiss-kiss-way-modifiche-viabili-provvedimenti-previsti",
+      "data": "2026-05-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "043a188a7f41",
+      "titolo": "Il vino piemontese al Vinexpo Asia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-al-vinexpo-asia",
+      "data": "2026-05-28T11:19:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "272e517a15ba",
+      "titolo": "Il Sindaco a Maastricht al Forum annuale dell'OECD, nominato nel nuovo advisory board dell’OECD global forum on local development",
+      "link": "https://www.comune.torino.it/novita/comunicati/sindaco-maastricht-al-forum-annuale-delloecd-nominato-nel-nuovo-advisory-board",
+      "data": "2026-05-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "59c0f947c475",
+      "titolo": "I Parchi naturali del Piemonte a Cinemambiente",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parchi-naturali-piemonte-cinemambiente",
+      "data": "2026-05-26T14:34:53+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "55a2203f2073",
+      "titolo": "Toponomastica: approvate intitolazioni dedicate a figure dell'antifascismo, della cultura e dell'impegno civile",
+      "link": "https://www.comune.torino.it/novita/comunicati/toponomastica-approvate-intitolazioni-dedicate-figure-dellantifascismo-della",
+      "data": "2026-05-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "92d837daa3f9",
+      "titolo": "Pubblicato il bando 2026–2027 per proposte culturali di enti e associazioni nelle biblioteche civiche",
+      "link": "https://www.comune.torino.it/novita/comunicati/pubblicato-bando-2026-2027-per-proposte-culturali-enti-associazioni-nelle",
+      "data": "2026-05-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9c597cfd13e2",
+      "titolo": "Ucraina: la Sala Rossa contro trasferimenti coatti di minori e maltrattamento dei prigionieri da parte di Mosca",
+      "link": "https://www.comune.torino.it/novita/comunicati/ucraina-sala-rossa-contro-trasferimenti-coatti-minori-maltrattamento-dei",
+      "data": "2026-05-25T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5d9f69b44e8f",
+      "titolo": "Torino festeggia i suoi nuovi cittadini e i 30 anni del Centro Interculturale di corso Taranto, recentemente riqualificato",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-festeggia-suoi-nuovi-cittadini-30-anni-centro-interculturale-corso",
+      "data": "2026-05-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "770ed6da6a26",
+      "titolo": "La Regione Piemonte sulla scomparsa di Carlin Petrini",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-sulla-scomparsa-carlin-petrini",
+      "data": "2026-05-22T10:06:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "77d774b69d7c",
+      "titolo": "Intitolato il giardino “Vittime della strage di Vergarolla”",
+      "link": "https://www.comune.torino.it/novita/comunicati/intitolato-giardino-vittime-della-strage-vergarolla",
+      "data": "2026-05-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "montagna": [
+    {
+      "id": "75b1751579fe",
+      "titolo": "Per Regione e Soccorso alpino la sicurezza in montagna inizia prima di partire",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/per-regione-soccorso-alpino-sicurezza-montagna-inizia-prima-partire",
+      "data": "2026-07-02T10:04:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "448508eea84b",
+      "titolo": "Il futuro dell'area Westinghouse: le comunicazioni dell'assessore Mazzoleni e il dibattito in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/futuro-dellarea-westinghouse-comunicazioni-dellassessore-mazzoleni-dibattito",
+      "data": "2026-06-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "84722aa8c196",
+      "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
+      "data": "2026-06-10T14:48:01+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -193,14 +497,6 @@
       "titolo": "Neutralità climatica: Torino accoglie la Cities Mission Conference 2026. Oltre 600 i delegati da tutta Europa. Oggi le visite in città, domani la plenaria alle OGR",
       "link": "https://www.comune.torino.it/novita/comunicati/neutralita-climatica-torino-accoglie-cities-mission-conference-2026-oltre-600",
       "data": "2026-05-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c36ee9e8c75d",
-      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
-      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
-      "data": "2026-05-19T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -451,96 +747,6 @@
       "data": "2026-05-21T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d1a487ffa508",
-      "titolo": "Segnalato un tentativo di truffa telefonica su clonazione CIE",
-      "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-truffa-telefonica-clonazione-cie",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "e76a6db8b16c",
-      "titolo": "Il “Semplifica Piemonte” è legge: riforma per una Regione più semplice, accessibile e capace di dare risposte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-legge-riforma-per-una-regione-piu-semplice-accessibile-capace-dare-risposte",
-      "data": "2026-06-30T17:50:15+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5bd54c95b07b",
-      "titolo": "Modificato il Regolamento sui mercatini periodici tematici",
-      "link": "https://www.comune.torino.it/novita/comunicati/modificato-regolamento-sui-mercatini-periodici-tematici",
-      "data": "2026-06-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d13efbbc2f68",
-      "titolo": "Internet senza paura, piccole regole per evitare le truffe",
-      "link": "https://www.comune.torino.it/novita/notizie/internet-senza-paura-piccole-regole-per-evitare-truffe",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7bedd993c8e8",
-      "titolo": "Sicurezza sul lavoro e caldo estremo: l’ordinanza regionale per la tutela dei lavoratori esposti alle alte temperature",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sicurezza-sul-lavoro-caldo-estremo-lordinanza-regionale-per-tutela-dei-lavoratori-esposti-alle-alte",
-      "data": "2026-05-29T18:09:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7d78be5e1f7f",
-      "titolo": "KAPPA FUTURFESTIVAL (03-04-05 LUGLIO 2026) - RILASCIO CONCESSIONI OCCUPAZIONE TEMPORANEA DEL SUOLO PUBBLICO PER ATTIVITÀ DI VENDITA DI PRODOTTI ALIMENTARI",
-      "link": "https://www.comune.torino.it/novita/notizie/kappa-futurfestival-03-04-05-luglio-2026-rilascio-concessioni-occupazione",
-      "data": "2026-05-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "63b6910f347b",
-      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
-      "data": "2026-05-22T12:14:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2f46fdc41a2a",
-      "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale",
-      "data": "2026-05-22T12:14:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a665a334ba60",
-      "titolo": "Un giardino per ricordare le vittime della strage di Vergarolla",
-      "link": "https://www.comune.torino.it/novita/notizie/un-giardino-per-ricordare-vittime-della-strage-vergarolla",
-      "data": "2026-05-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ea65f56b0cbf",
-      "titolo": "Le novità dei cantieri di lavoro 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-dei-cantieri-lavoro-2026",
-      "data": "2026-05-19T12:37:53+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c36ee9e8c75d",
-      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
-      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "fondi-europei": [
@@ -599,152 +805,6 @@
       "titolo": "Mercatini tematici, proposta per la semplificazione normativa e via libera alla sperimentazione temporanea",
       "link": "https://www.comune.torino.it/novita/comunicati/mercatini-tematici-proposta-per-semplificazione-normativa-via-libera-alla",
       "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "cultura-beni-culturali": [
-    {
-      "id": "4d9d2d4a2896",
-      "titolo": "Aggiornamento sulla validità delle carte d'identità cartacee",
-      "link": "https://www.comune.torino.it/novita/avvisi/aggiornamento-sulla-validita-delle-carte-didentita-cartacee",
-      "data": "2026-06-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "887c12442a84",
-      "titolo": "KAPPA FUTURFESTIVAL (3-5 LUGLIO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/kappa-futurfestival-3-5-luglio-2026-convocazione-per-assegnazione-posteggi",
-      "data": "2026-06-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6eead8e30c8d",
-      "titolo": "Verso Torino Capitale Europea della Cultura 2033. Indicati i componenti dell’Advisory Board",
-      "link": "https://www.comune.torino.it/novita/comunicati/verso-torino-capitale-europea-della-cultura-2033-indicati-componenti",
-      "data": "2026-06-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5e76a6fcf489",
-      "titolo": "Rosso Beethoven",
-      "link": "https://www.comune.torino.it/novita/notizie/rosso-beethoven",
-      "data": "2026-06-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "89ff41011948",
-      "titolo": "Festival di Porta Palazzo, tre giorni tra cibo, musica e arte per valorizzare il mercato più grande d’Europa",
-      "link": "https://www.comune.torino.it/novita/comunicati/festival-porta-palazzo-tre-giorni-cibo-musica-arte-per-valorizzare-mercato-piu",
-      "data": "2026-06-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a3ad0512eacf",
-      "titolo": "Al via i soggiorni estivi per persone con disabilità: partito oggi uno dei primi gruppi da Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/al-via-soggiorni-estivi-per-persone-disabilita-partito-oggi-uno-dei-primi-gruppi",
-      "data": "2026-06-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "152b78690b35",
-      "titolo": "Parco della Tesoriera verso la riapertura completa. Lunedì 1° giugno chiusura temporanea per la rimozione del cantiere",
-      "link": "https://www.comune.torino.it/novita/comunicati/parco-della-tesoriera-verso-riapertura-completa-lunedi-1deg-giugno-chiusura",
-      "data": "2026-05-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "db6990538c53",
-      "titolo": "2 giugno, Torino festeggia l’80esimo anniversario della Repubblica con un programma speciale",
-      "link": "https://www.comune.torino.it/novita/comunicati/2-giugno-torino-festeggia-l80esimo-anniversario-della-repubblica-un-programma",
-      "data": "2026-05-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "60c3fff9efbd",
-      "titolo": "Sabato 30 maggio il concerto Kiss Kiss Way. Le modifiche viabili e i provvedimenti previsti",
-      "link": "https://www.comune.torino.it/novita/comunicati/sabato-30-maggio-concerto-kiss-kiss-way-modifiche-viabili-provvedimenti-previsti",
-      "data": "2026-05-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "043a188a7f41",
-      "titolo": "Il vino piemontese al Vinexpo Asia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-al-vinexpo-asia",
-      "data": "2026-05-28T11:19:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "272e517a15ba",
-      "titolo": "Il Sindaco a Maastricht al Forum annuale dell'OECD, nominato nel nuovo advisory board dell’OECD global forum on local development",
-      "link": "https://www.comune.torino.it/novita/comunicati/sindaco-maastricht-al-forum-annuale-delloecd-nominato-nel-nuovo-advisory-board",
-      "data": "2026-05-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "59c0f947c475",
-      "titolo": "I Parchi naturali del Piemonte a Cinemambiente",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parchi-naturali-piemonte-cinemambiente",
-      "data": "2026-05-26T14:34:53+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "55a2203f2073",
-      "titolo": "Toponomastica: approvate intitolazioni dedicate a figure dell'antifascismo, della cultura e dell'impegno civile",
-      "link": "https://www.comune.torino.it/novita/comunicati/toponomastica-approvate-intitolazioni-dedicate-figure-dellantifascismo-della",
-      "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "92d837daa3f9",
-      "titolo": "Pubblicato il bando 2026–2027 per proposte culturali di enti e associazioni nelle biblioteche civiche",
-      "link": "https://www.comune.torino.it/novita/comunicati/pubblicato-bando-2026-2027-per-proposte-culturali-enti-associazioni-nelle",
-      "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9c597cfd13e2",
-      "titolo": "Ucraina: la Sala Rossa contro trasferimenti coatti di minori e maltrattamento dei prigionieri da parte di Mosca",
-      "link": "https://www.comune.torino.it/novita/comunicati/ucraina-sala-rossa-contro-trasferimenti-coatti-minori-maltrattamento-dei",
-      "data": "2026-05-25T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5d9f69b44e8f",
-      "titolo": "Torino festeggia i suoi nuovi cittadini e i 30 anni del Centro Interculturale di corso Taranto, recentemente riqualificato",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-festeggia-suoi-nuovi-cittadini-30-anni-centro-interculturale-corso",
-      "data": "2026-05-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "770ed6da6a26",
-      "titolo": "La Regione Piemonte sulla scomparsa di Carlin Petrini",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-sulla-scomparsa-carlin-petrini",
-      "data": "2026-05-22T10:06:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "77d774b69d7c",
-      "titolo": "Intitolato il giardino “Vittime della strage di Vergarolla”",
-      "link": "https://www.comune.torino.it/novita/comunicati/intitolato-giardino-vittime-della-strage-vergarolla",
-      "data": "2026-05-20T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1027,58 +1087,6 @@
       "data": "2026-05-26T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "attivita-produttive": [
-    {
-      "id": "4992d095502c",
-      "titolo": "Ex Manifattura Tabacchi, via libera alle demolizioni controllate",
-      "link": "https://www.comune.torino.it/novita/comunicati/ex-manifattura-tabacchi-via-libera-alle-demolizioni-controllate",
-      "data": "2026-06-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1e97a0f8fca4",
-      "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
-      "data": "2026-06-15T16:40:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0d1c3bb1043e",
-      "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
-      "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c36ee9e8c75d",
-      "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
-      "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
-      "data": "2026-05-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "montagna": [
-    {
-      "id": "448508eea84b",
-      "titolo": "Il futuro dell'area Westinghouse: le comunicazioni dell'assessore Mazzoleni e il dibattito in Sala Rossa",
-      "link": "https://www.comune.torino.it/novita/comunicati/futuro-dellarea-westinghouse-comunicazioni-dellassessore-mazzoleni-dibattito",
-      "data": "2026-06-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "84722aa8c196",
-      "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
-      "data": "2026-06-10T14:48:01+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "universita-ricerca": [

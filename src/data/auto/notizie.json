@@ -1,5 +1,35 @@
 [
   {
+    "id": "f2e5ca183e52",
+    "titolo": "Tunnel di Tenda: aperture estese per tutta l’estate",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tunnel-tenda-aperture-estese-per-tutta-lestate",
+    "descrizione": "Recepita dalla Commissione Intergovernativa per le Alpi del Sud, riunitasi per definire il calendario di esercizio del nuovo tunnel di Tenda nei prossimi mesi, la richiesta avanzata con forza dalle Regioni Piemonte e dalla Regione Liguria e sostenuta dal Ministero delle…",
+    "data": "2026-07-02T14:11:29+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "0c9d72d8030b",
+    "titolo": "Il bando 2026 per il credito in agricoltura",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
+    "descrizione": "Ammonta a 1 milione e 850mila euro la somma stanziata dalla Regione Piemonte per coprire parte degli interessi sostenuti dalle imprese agricole singole, associate e cooperative che hanno contratto per il 2026 prestiti bancari…",
+    "data": "2026-07-02T12:05:52+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "75b1751579fe",
+    "titolo": "Per Regione e Soccorso alpino la sicurezza in montagna inizia prima di partire",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/per-regione-soccorso-alpino-sicurezza-montagna-inizia-prima-partire",
+    "descrizione": "Con l’inizio della stagione estiva e il progressivo aumento delle presenze lungo i sentieri, nei rifugi e nelle vallate, Regione e Soccorso alpino e speleologico rinnovano l’invito a vivere con…",
+    "data": "2026-07-02T10:04:09+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "1d01b32fb623",
     "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
@@ -1968,35 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "c36ee9e8c75d",
-    "titolo": "Piattaforma per il lavoro: dalla Città un piano per facilitare investimenti",
-    "link": "https://www.comune.torino.it/novita/comunicati/piattaforma-per-lavoro-dalla-citta-un-piano-per-facilitare-investimenti",
-    "descrizione": "Tra febbraio e maggio 2026 la Città ha avviato una serie di momenti di confronto e progettazione collaborativa con gli attori del territorio.",
-    "data": "2026-05-19T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d1a487ffa508",
-    "titolo": "Segnalato un tentativo di truffa telefonica su clonazione CIE",
-    "link": "https://www.comune.torino.it/novita/avvisi/segnalato-un-tentativo-truffa-telefonica-clonazione-cie",
-    "descrizione": "Segnaliamo una possibile truffa telefonica in corso, con comunicazioni sulla clonazione della carta d'identità elettronica.",
-    "data": "2026-05-19T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "fcf3b18730c4",
-    "titolo": "Cimiteri: lavori per oltre 850 mila euro al Monumentale. Approvati i progetti per il ripristino delle arcate e l’ampliamento del roseto",
-    "link": "https://www.comune.torino.it/novita/comunicati/cimiteri-lavori-per-oltre-850-mila-euro-al-monumentale-approvati-progetti-per",
-    "descrizione": "Un investimento complessivo di oltre 850 mila euro per interventi di conservazione, manutenzione e ampliamento degli spazi dedicati alla memoria.",
-    "data": "2026-05-19T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
