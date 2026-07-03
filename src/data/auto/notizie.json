@@ -1,5 +1,35 @@
 [
   {
+    "id": "ca7e11d1ef77",
+    "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
+    "descrizione": "La Regione Piemonte centra il 100% degli obiettivi del Pnrr e rispetta tutte le scadenze fissate dall’Europa. Un risultato che conferma la capacità dell'ente di trasformare le risorse del Piano nazionale di ripresa e…",
+    "data": "2026-07-03T15:55:47+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "5d3a4f21a41e",
+    "titolo": "Missione del Corpo Aib del Piemonte in Francia",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-corpo-aib-piemonte-francia",
+    "descrizione": "Il Corpo volontari Antincendi boschivi del Piemonte è impegnato, per il terzo anno consecutivo, nel “Preposizionamento del Meccanismo unionale” di Protezione Civile in Francia, una delle più importanti iniziative europee di cooperazione nella lotta agli incendi boschivi. Il contingente…",
+    "data": "2026-07-03T13:05:35+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "6718a9071f86",
+    "titolo": "Civiche benemerenze 2026: cerimonia di conferimento lunedì 6 luglio",
+    "link": "https://www.comune.torino.it/novita/comunicati/civiche-benemerenze-2026-cerimonia-conferimento-lunedi-6-luglio",
+    "descrizione": "I riconoscimenti erano stati approvati dal Consiglio Comunale l'8 giugno scorso",
+    "data": "2026-07-03T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "a2dd1fe80c3d",
     "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
@@ -123,7 +153,7 @@
     "id": "7e131b1cbf1a",
     "titolo": "Col progetto “RiVestiTO” le vecchie divise della Polizia Locale sfilano trasformate alla Fashion Week di Torino",
     "link": "https://www.comune.torino.it/novita/comunicati/col-progetto-rivestito-vecchie-divise-della-polizia-locale-sfilano-trasformate",
-    "descrizione": "Le vecchie divise dismesse della Polizia Locale di Torino non hanno solo evitato di venire buttate ma sono diventate materiale per una collezione di design d'av",
+    "descrizione": "Le vecchie divise dismesse della Polizia Locale di Torino non hanno solo evitato di venire buttate ma sono diventate materiale per una collezione di design.",
     "data": "2026-06-30T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -143,7 +173,17 @@
     "id": "d2e462184f97",
     "titolo": "Ecologie di Cura: il 2 luglio ai Giardini Saragat il primo incontro pubblico del progetto per il benessere dei giovani",
     "link": "https://www.comune.torino.it/novita/comunicati/ecologie-cura-2-luglio-ai-giardini-saragat-primo-incontro-pubblico-progetto-per",
-    "descrizione": "Giovedì 2 luglio, dalle ore 17, ai Giardini Saragat di via Leoncavallo, sarà presentato il progetto “Ecologie di Cura”, il percorso avviato e dedicato alla prom",
+    "descrizione": "Giovedì 2 luglio, dalle ore 17, ai Giardini Saragat di via Leoncavallo, sarà presentato il progetto “Ecologie di Cura”.",
+    "data": "2026-06-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "537b212d6b20",
+    "titolo": "Manutenzioni straordinarie, 300mila euro per interventi sulla Fontana delle Quattro Stagioni e su quattro monumenti cittadini",
+    "link": "https://www.comune.torino.it/novita/comunicati/manutenzioni-straordinarie-300mila-euro-per-interventi-sulla-fontana-delle",
+    "descrizione": "La Giunta comunale ha approvato i progetti di fattibilità tecnica ed economica per una serie di interventi di manutenzione straordinaria.",
     "data": "2026-06-30T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -253,7 +293,7 @@
     "id": "a961148967c1",
     "titolo": "Giornata internazionale contro l'abuso e il traffico di droga: il 26 giugno ai Murazzi un appuntamento per i giovani con \"Sosteniamo, non puniamo. Skills in azione\"",
     "link": "https://www.comune.torino.it/novita/comunicati/giornata-internazionale-contro-labuso-traffico-droga-26-giugno-ai-murazzi-un",
-    "descrizione": "Domani, venerdì 26 giugno, incontri, ascolto e salute allo Spazio DesTEENazione per parlare di consumi di sostanze senza tabù",
+    "descrizione": "Domani, venerdì 26 giugno, incontri, ascolto e salute allo Spazio DesTEENazione per parlare di consumi di sostanze senza tabù.",
     "data": "2026-06-25T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1958,45 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "e8c152680961",
-    "titolo": "A Torino ci saranno più alberi.",
-    "link": "https://www.comune.torino.it/novita/notizie/torino-ci-saranno-piu-alberi",
-    "descrizione": "Ci saranno oltre 2000 nuove messe a dimora entro il 2026.",
-    "data": "2026-05-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "326ea2389655",
-    "titolo": "Il 23 e 24 maggio Torino celebra la ventesima edizione della Festa dei Vicini e accoglie i nuovi cittadini",
-    "link": "https://www.comune.torino.it/novita/comunicati/23-24-maggio-torino-celebra-ventesima-edizione-della-festa-dei-vicini-accoglie",
-    "descrizione": "Sabato 23 e domenica 24 maggio Torino celebra la ventesima edizione della Festa dei Vicini con un programma di appuntamenti diffuso in tutta la città.",
-    "data": "2026-05-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "77d774b69d7c",
-    "titolo": "Intitolato il giardino “Vittime della strage di Vergarolla”",
-    "link": "https://www.comune.torino.it/novita/comunicati/intitolato-giardino-vittime-della-strage-vergarolla",
-    "descrizione": "Il 18 agosto 1946 una violenta esplosione sulla spiaggia di Vergarolla, vicino Pola, provocò oltre 60 morti, in gran parte italiani",
-    "data": "2026-05-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c9c8b99fabb0",
-    "titolo": "20 maggio, si celebra la giornata mondiale delle api.",
-    "link": "https://www.comune.torino.it/novita/notizie/20-maggio-si-celebra-giornata-mondiale-delle-api",
-    "descrizione": "Il 20 maggio si celebra la giornata mondiale delle api , istituita dall'ONU nel 2017 per sensibilizzare sulla protezione delle api e degli impollinatori.",
-    "data": "2026-05-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
