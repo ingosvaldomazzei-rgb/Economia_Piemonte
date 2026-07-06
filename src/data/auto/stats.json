@@ -1,18 +1,18 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 57,
-    "comune_torino": 142,
-    "consiglio": 1
+    "comune_torino": 140,
+    "regione": 58,
+    "consiglio": 2
   },
   "temi_attivi": [
     {
       "tema": "cultura-beni-culturali",
-      "conteggio": 18
+      "conteggio": 19
     },
     {
       "tema": "istruzione-formazione",
-      "conteggio": 16
+      "conteggio": 17
     },
     {
       "tema": "agricoltura",

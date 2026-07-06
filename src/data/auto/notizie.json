@@ -1,5 +1,45 @@
 [
   {
+    "id": "96d206038457",
+    "titolo": "Osservatorio Condizione Abitativa: XXII rapporto",
+    "link": "https://www.comune.torino.it/novita/notizie/osservatorio-condizione-abitativa-xxii-rapporto",
+    "descrizione": "Pubblicazione rapporto annuale (edizione 2026)",
+    "data": "2026-07-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f431f46fded7",
+    "titolo": "Il Piemonte primo in Italia negli ITS Academy",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-primo-italia-negli-its-academy",
+    "descrizione": "Gli ITS Academy del Piemonte si confermano un’eccellenza a livello nazionale per qualità…",
+    "data": "2026-07-06T10:47:55+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "1d92120ef4ef",
+    "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
+    "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
+    "descrizione": "Tipologia articolo Comunicati stampa Data pubblicazione 06 Luglio 2026 Gli utenti che riscontrano problematiche con il proprio operatore di telefonia fissa, mobile o con i servizi internet possono avvalersi del servizio di conciliazione messo a disposizione dal Corecom Piemonte attraverso la piattaforma ConciliaWeb. La procedura di conciliazione rappresenta uno strumento semplice, rapido e completamente gratuito per la risoluzione delle controversie tra cittadini e operatori delle comunicazioni ",
+    "data": "2026-07-06T09:52:31+00:00",
+    "fonte": "Consiglio Regionale",
+    "fonte_id": "consiglio",
+    "colore": "#7c3aed"
+  },
+  {
+    "id": "0a3de0a9f26b",
+    "titolo": "I musei al centro della cultura: 3,1 milioni per investimenti strutturali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/musei-al-centro-della-cultura-31-milioni-per-investimenti-strutturali",
+    "descrizione": "La Regione Piemonte riporta al centro gli investimenti strutturali destinati ai musei con un investimento da 3,1 milioni di euro che finanzierà tutti gli 85 progetti risultati ammissibili dal bando (…",
+    "data": "2026-07-06T09:46:02+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "ca7e11d1ef77",
     "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
@@ -1958,45 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "6316eaf4aafa",
-    "titolo": "Definizione agevolata entrate comunali",
-    "link": "https://www.comune.torino.it/novita/avvisi/definizione-agevolata-entrate-comunali",
-    "descrizione": "Approvata dal Consiglio Comunale per consentire la cancellazione di sanzioni e interessi per debiti fino al 2020.",
-    "data": "2026-05-21T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4499de1db888",
-    "titolo": "CFM - Iscrizioni all'anno formativo 2026/27",
-    "link": "https://www.comune.torino.it/novita/notizie/cfm-iscrizioni-allanno-formativo-202627",
-    "descrizione": "Aprono le iscrizioni al Centro Civico di Formazione Musicale",
-    "data": "2026-05-21T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "84093b93481f",
-    "titolo": "Fermi in Festa!",
-    "link": "https://www.comune.torino.it/novita/notizie/fermi-festa",
-    "descrizione": "Sabato 23 maggio un pomeriggio di festa per celebrare la conclusione del Patto Educativo di Comunità.",
-    "data": "2026-05-21T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "19628df780a3",
-    "titolo": "Finanziati 54 terrazzamenti montani",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/finanziati-54-terrazzamenti-montani",
-    "descrizione": "La Regione Piemonte ha assegnato 4 milioni di euro per realizzare 54 interventi di recupero dei terrazzamenti nei territori montani, finanziati con risorse del Fondo per lo Sviluppo delle Montagne Italiane (FOSMIT) e distribuiti sull'intero arco alpino e…",
-    "data": "2026-05-20T15:17:06+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
