@@ -1,5 +1,15 @@
 [
   {
+    "id": "60ac2e021833",
+    "titolo": "Dall’8 luglio in Piemonte stato di massima pericolosità per incendi boschivi",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dall8-luglio-piemonte-stato-massima-pericolosita-per-incendi-boschivi",
+    "descrizione": "La Regione Piemonte ha dichiarato da mercoledì 8 luglio lo stato di massima pericolosità per incendi boschivi. Il provvedimento si è reso necessario a seguito di quanto previsto dal bollettino per la previsione del pericolo incendi,…",
+    "data": "2026-07-06T18:45:06+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "7e0a8b67fc3c",
     "titolo": "La prima riunione dell'Osservatorio strategico su automotive e componentistica",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/prima-riunione-dellosservatorio-strategico-automotive-componentistica",
@@ -74,6 +84,26 @@
     "titolo": "Consegnate le Civiche Benemerenze 2026",
     "link": "https://www.comune.torino.it/novita/comunicati/consegnate-civiche-benemerenze-2026",
     "descrizione": "I riconoscimenti a cittadini per l'impegno profuso sul territorio, per atti di coraggio civico o per l’eccellenza nei rispettivi campi professionali.",
+    "data": "2026-07-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "541a58d19c86",
+    "titolo": "Torino riconosce la comunità Arbëreshë: approvata la delibera per la tutela della minoranza linguistica storica italo-albanese",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-riconosce-comunita-arbereshe-approvata-delibera-per-tutela-della",
+    "descrizione": "Con questo atto, la Città di Torino richiede formalmente il riconoscimento della Delimitazione Territoriale per la comunità Arbëreshë",
+    "data": "2026-07-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a9a1e838f40b",
+    "titolo": "Rinnovo alberate, cambia il Regolamento 317",
+    "link": "https://www.comune.torino.it/novita/comunicati/rinnovo-alberate-cambia-regolamento-317",
+    "descrizione": "Il Consiglio comunale ha approvato la modifica dell’articolo 45 del Regolamento Verde pubblico in tema di rinnovo delle alberate",
     "data": "2026-07-06T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1968,35 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "2f46fdc41a2a",
-    "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale",
-    "descrizione": "",
-    "data": "2026-05-22T12:14:18+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "d5af940720f5",
-    "titolo": "Cura dei giardini storici",
-    "link": "https://www.comune.torino.it/novita/notizie/cura-dei-giardini-storici",
-    "descrizione": "I giardini del centro di Torino tornano a raccontare la loro storia fatta di eleganza, armonia e cura quotidiana.",
-    "data": "2026-05-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f4405b58d172",
-    "titolo": "La pista ciclabile di Lungo Dora Napoli – Firenze intitolata alla pioniera del ciclismo femminile, Maria Milano",
-    "link": "https://www.comune.torino.it/novita/comunicati/pista-ciclabile-lungo-dora-napoli-firenze-intitolata-alla-pioniera-ciclismo",
-    "descrizione": "La Città di Torino ricorda una donna che, in un'epoca diversa, ha avuto il coraggio di affermarsi in un ambiente sportivo allora riservato al mondo maschile",
-    "data": "2026-05-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
