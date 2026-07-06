@@ -1,9 +1,79 @@
 [
   {
+    "id": "7e0a8b67fc3c",
+    "titolo": "La prima riunione dell'Osservatorio strategico su automotive e componentistica",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/prima-riunione-dellosservatorio-strategico-automotive-componentistica",
+    "descrizione": "Prima riunione nel Grattacielo Piemonte dell’Osservatorio strategico su automotive e componentistica, promosso dalla Regione e richiesto dalle organizzazioni sindacali per aprire un confronto stabile sulle prospettive di uno dei comparti più…",
+    "data": "2026-07-06T17:19:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "b6bc2dc2123e",
+    "titolo": "Il cartellone della Nuova Piattaforma della Danza Italiana 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cartellone-della-nuova-piattaforma-della-danza-italiana-2026",
+    "descrizione": "Presentato anche nel Grattacielo della Regione il cartellone della decima edizione della Nuova Piattaforma della Danza Italiana (NID Platform), in programma dall’1 al 4 settembre con il Piemonte come protagonista: saranno infatti Collegno, Moncalieri,…",
+    "data": "2026-07-06T14:39:07+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "c544195290c1",
+    "titolo": "Al via i lavori di costruzione della Pedemontana Piemontese",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-lavori-costruzione-della-pedemontana-piemontese",
+    "descrizione": "Anas (Società del Gruppo FS Italiane) ha avviato il 6 luglio i lavori di costruzione del Lotto 1, Stralci 1 e 2 della Pedemontana Piemontese, direttrice che collegherà Masserano, in provincia di Biella, e Ghemme, in provincia di Novara. L’avvio dei lavori è…",
+    "data": "2026-07-06T14:21:06+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "96d206038457",
     "titolo": "Osservatorio Condizione Abitativa: XXII rapporto",
     "link": "https://www.comune.torino.it/novita/notizie/osservatorio-condizione-abitativa-xxii-rapporto",
     "descrizione": "Pubblicazione rapporto annuale (edizione 2026)",
+    "data": "2026-07-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1c5461b42956",
+    "titolo": "Linea 1 della Metropolitana, problemi e prospettive: il dibattito in aula",
+    "link": "https://www.comune.torino.it/novita/comunicati/linea-1-della-metropolitana-problemi-prospettive-dibattito-aula",
+    "descrizione": "Il prolungamento della Metro 1 verso Rivoli rischia di essere messo in discussione dai problemi finanziari della ditta appaltatrice: le contromisure necessarie",
+    "data": "2026-07-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f170e2eab003",
+    "titolo": "Via Pietro Cossa chiusa al traffico la notte tra il 7 e l'8 luglio per lavori sui semafori",
+    "link": "https://www.comune.torino.it/novita/comunicati/via-pietro-cossa-chiusa-al-traffico-notte-7-l8-luglio-per-lavori-sui-semafori",
+    "descrizione": "La sostituzione dei portali semaforici all'altezza del civico 280 comporterà la chiusura tra le 22 di martedì 7 e le 4 di mercoledì 8 luglio.",
+    "data": "2026-07-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "eb3d76d45574",
+    "titolo": "Furto con monopattino a un anziano in via Stradella, recuperata la collana d’oro grazie al pronto intervento della Polizia Locale",
+    "link": "https://www.comune.torino.it/novita/comunicati/furto-monopattino-un-anziano-via-stradella-recuperata-collana-doro-grazie-al",
+    "descrizione": "Un furto con strappo terminato con il recupero della refurtiva grazie alla prontezza e alla tempestività degli agenti della Polizia Locale di Torino.",
+    "data": "2026-07-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "06898e862b2c",
+    "titolo": "Consegnate le Civiche Benemerenze 2026",
+    "link": "https://www.comune.torino.it/novita/comunicati/consegnate-civiche-benemerenze-2026",
+    "descrizione": "I riconoscimenti a cittadini per l'impegno profuso sul territorio, per atti di coraggio civico o per l’eccellenza nei rispettivi campi professionali.",
     "data": "2026-07-06T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1925,76 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/pista-ciclabile-lungo-dora-napoli-firenze-intitolata-alla-pioniera-ciclismo",
     "descrizione": "La Città di Torino ricorda una donna che, in un'epoca diversa, ha avuto il coraggio di affermarsi in un ambiente sportivo allora riservato al mondo maschile",
     "data": "2026-05-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6dfe69b9d7cb",
-    "titolo": "ERRATA CORRIGE - WWE Premium Live Event (31MAGGIO - 01 GIUGNO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/notizie/errata-corrige-wwe-premium-live-event-31maggio-01-giugno-2026-convocazione-per",
-    "descrizione": "Per mero errore, si ripubblica il presente avviso con elenco convocati corretto. Leggere ATTENTAMENTE quanto riportato nel documento allegato.",
-    "data": "2026-05-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a665a334ba60",
-    "titolo": "Un giardino per ricordare le vittime della strage di Vergarolla",
-    "link": "https://www.comune.torino.it/novita/notizie/un-giardino-per-ricordare-vittime-della-strage-vergarolla",
-    "descrizione": "Il giardino di corso Belgio all’angolo con lungo Po Antonelli è stato intitolato alla vittime della strage di Vergarolla.",
-    "data": "2026-05-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a8d42c11f0fa",
-    "titolo": "WWE Premium Live Event (31MAGGIO - 01 GIUGNO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/notizie/wwe-premium-live-event-31maggio-01-giugno-2026-convocazione-per-assegnazione",
-    "descrizione": "Leggere ATTENTAMENTE quanto riportato nel documento allegato.",
-    "data": "2026-05-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "770ed6da6a26",
-    "titolo": "La Regione Piemonte sulla scomparsa di Carlin Petrini",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-sulla-scomparsa-carlin-petrini",
-    "descrizione": "La Regione Piemonte ha accolto con costernazione e sgomento la notizia della scomparsa di Carlin Petrini. Il presidente Alberto Cirio: «Se ne va un uomo straordinario che ha cambiato la cultura agricola del nostro Paese e del mondo intero. Innamorato…",
-    "data": "2026-05-22T10:06:37+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "eb31cd4f509a",
-    "titolo": "Accordo per il sostegno ai testimoni di giustizia",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-per-sostegno-ai-testimoni-giustizia",
-    "descrizione": "Firmato al Grattacielo Piemonte il protocollo tra Regione Piemonte, Prefettura di Torino e Procura della Repubblica per l’attuazione della misura regionale a sostegno dei testimoni di giustizia. A sottoscrivere il documento, il primo di questo tipo in Italia…",
-    "data": "2026-05-21T16:43:47+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "bd9ae3b130c2",
-    "titolo": "CFM - Saggio Tuttocoro",
-    "link": "https://www.comune.torino.it/novita/avvisi/cfm-saggio-tuttocoro",
-    "descrizione": "Concerto di fine anno",
-    "data": "2026-05-21T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d96be2fe62b4",
-    "titolo": "Sabato 23 maggio in via Po la Festa dei nuovi cittadini. I provvedimenti viabili",
-    "link": "https://www.comune.torino.it/novita/comunicati/sabato-23-maggio-via-po-festa-dei-nuovi-cittadini-provvedimenti-viabili",
-    "descrizione": "Sabato 23 maggio, nell’ambito della ventesima edizione della “Festa dei Vicini”, si terrà in via Po la “Festa dei nuovi cittadini”.",
-    "data": "2026-05-21T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"

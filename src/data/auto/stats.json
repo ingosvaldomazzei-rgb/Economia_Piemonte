@@ -1,14 +1,14 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 140,
-    "regione": 58,
+    "regione": 59,
+    "comune_torino": 139,
     "consiglio": 2
   },
   "temi_attivi": [
     {
       "tema": "cultura-beni-culturali",
-      "conteggio": 19
+      "conteggio": 20
     },
     {
       "tema": "istruzione-formazione",
@@ -31,19 +31,19 @@
       "conteggio": 11
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 9
+      "tema": "pianificazione-territoriale",
+      "conteggio": 8
     },
     {
       "tema": "protezione-civile",
       "conteggio": 8
     },
     {
-      "tema": "edilizia-opere-pubbliche",
+      "tema": "lavoro-occupazione",
       "conteggio": 8
     },
     {
-      "tema": "sport",
+      "tema": "edilizia-opere-pubbliche",
       "conteggio": 8
     }
   ],
