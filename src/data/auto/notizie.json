@@ -1,5 +1,55 @@
 [
   {
+    "id": "c46ff3a0aacd",
+    "titolo": "Scalo Nizza, con le opere di urbanizzazione il via a impianti sportivi, piazza, percorsi pedonali e ciclabili e aree verdi",
+    "link": "https://www.comune.torino.it/novita/comunicati/scalo-nizza-opere-urbanizzazione-via-impianti-sportivi-piazza-percorsi-pedonali",
+    "descrizione": "Un intervento che rafforza la vocazione universitaria e di servizio del quartiere San Salvario e che darà vita a un nuovo mix funzionale.",
+    "data": "2026-07-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d09a7df0cbcd",
+    "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
+    "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
+    "descrizione": "Meno consumi, minori emissioni e ambienti più confortevoli per bambine, bambini e personale educativo.",
+    "data": "2026-07-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1ff8a0050b09",
+    "titolo": "JAB, il 9 luglio la presentazione del progetto tra arte, sport e musica per la ricostruzione diun’identità plurale tra Aurora e Barriera",
+    "link": "https://www.comune.torino.it/novita/comunicati/jab-9-luglio-presentazione-progetto-arte-sport-musica-per-ricostruzione",
+    "descrizione": "JAB prende il suo nome dal pugilato, ma la sua origine è anche una storia in mezzo alla storia: quella di Leone Jacovacci.",
+    "data": "2026-07-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ab7c4653c07c",
+    "titolo": "Via Stradella: da area degradata a giardino resiliente, un progetto costruito insieme ai cittadini",
+    "link": "https://www.comune.torino.it/novita/comunicati/via-stradella-area-degradata-giardino-resiliente-un-progetto-costruito-insieme",
+    "descrizione": "Uno spazio in stato di abbandono tornerà a disposizione della comunità: prende forma la riqualificazione di via Stradella, all'angolo con corso Venezia.",
+    "data": "2026-07-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8de70b13eb47",
+    "titolo": "Bus più veloci e frequenti: Torino si candida a un programma nazionale da 13,7 milioni per il trasporto pubblico",
+    "link": "https://www.comune.torino.it/novita/comunicati/bus-piu-veloci-frequenti-torino-si-candida-un-programma-nazionale-137-milioni",
+    "descrizione": "Rendere il trasporto pubblico sempre più efficiente e accessibile: è l'obiettivo che la Città di Torino persegue da tempo.",
+    "data": "2026-07-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "60ac2e021833",
     "titolo": "Dall’8 luglio in Piemonte stato di massima pericolosità per incendi boschivi",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dall8-luglio-piemonte-stato-massima-pericolosita-per-incendi-boschivi",
@@ -1948,55 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "77fd3b3d984f",
-    "titolo": "Gruppo Riconoscere la propria Unicità",
-    "link": "https://www.comune.torino.it/novita/notizie/gruppo-riconoscere-propria-unicita-0",
-    "descrizione": "Ciclo di 12 incontri di gruppo dedicato alle persone con sclerosi multipla e loro familiari.",
-    "data": "2026-05-25T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8570e97eb7ee",
-    "titolo": "Lunedì 1° giugno: variazione orari di apertura degli uffici anagrafici",
-    "link": "https://www.comune.torino.it/novita/avvisi/lunedi-1deg-giugno-variazione-orari-apertura-degli-uffici-anagrafici",
-    "descrizione": "Si segnalano alcune variazioni temporanee all'operatività degli uffici anagrafici, elettorali e di stato civile.",
-    "data": "2026-05-25T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "5d9f69b44e8f",
-    "titolo": "Torino festeggia i suoi nuovi cittadini e i 30 anni del Centro Interculturale di corso Taranto, recentemente riqualificato",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-festeggia-suoi-nuovi-cittadini-30-anni-centro-interculturale-corso",
-    "descrizione": "Nel fine settimana che vede protagonista la Festa dei Vicini, Torino ha celebrato oggi la “Festa dei Nuovi Cittadini”, una giornata all’insegna dell’intercultur",
-    "data": "2026-05-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1e09269980c2",
-    "titolo": "Avviata la collaborazione istituzionale tra Piemonte e Valle d’Aosta",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/avviata-collaborazione-istituzionale-piemonte-valle-daosta",
-    "descrizione": "Un accordo per consolidare la collaborazione istituzionale e il coordinamento in ambiti strategici di interesse comune tra le due Regioni è stato sottoscritto dai presidenti del Piemonte Alberto Cirio e della Valle d’Aosta Renzo Testolin.…",
-    "data": "2026-05-22T14:51:02+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "63b6910f347b",
-    "titolo": "Dalla scuola al lavoro con l’apprendistato duale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-scuola-al-lavoro-lapprendistato-duale-0",
-    "descrizione": "Mettere i giovani nelle condizioni di costruirsi un futuro vero, senza lasciare indietro nessuno, è l’obiettivo che si pone il nuovo Atto di indirizzo della Regione Piemonte per l’offerta formativa pubblica in apprendistato duale di primo livello, valido per il…",
-    "data": "2026-05-22T12:14:18+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
