@@ -50,6 +50,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "a387da5850d7",
+    "titolo": "Fotovoltaico al Gerbido e nuova illuminazione: dal Ministero dell’Ambiente 1, 3 milioni di euro per Torino",
+    "link": "https://www.comune.torino.it/novita/comunicati/fotovoltaico-al-gerbido-nuova-illuminazione-ministero-dellambiente-1-3-milioni",
+    "descrizione": "Oltre 1,3 milioni di euro per rendere Torino più efficiente dal punto di vista energetico.",
+    "data": "2026-07-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "60ac2e021833",
     "titolo": "Dall’8 luglio in Piemonte stato di massima pericolosità per incendi boschivi",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dall8-luglio-piemonte-stato-massima-pericolosita-per-incendi-boschivi",
@@ -214,6 +224,16 @@
     "titolo": "Civiche benemerenze 2026: cerimonia di conferimento lunedì 6 luglio",
     "link": "https://www.comune.torino.it/novita/comunicati/civiche-benemerenze-2026-cerimonia-conferimento-lunedi-6-luglio",
     "descrizione": "I riconoscimenti erano stati approvati dal Consiglio Comunale l'8 giugno scorso",
+    "data": "2026-07-03T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "778e87c30d6b",
+    "titolo": "Bando per l’assegnazione di contributi a fondo perduto alle micro e piccole imprese",
+    "link": "https://www.comune.torino.it/novita/avvisi/bando-per-lassegnazione-contributi-fondo-perduto-alle-micro-piccole-imprese",
+    "descrizione": "Aassegnazione di contributi attività di vendita diretta al dettaglio di beni e di somministrazione al pubblico",
     "data": "2026-07-03T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1974,26 +1994,6 @@
     "titolo": "Ucraina: la Sala Rossa contro trasferimenti coatti di minori e maltrattamento dei prigionieri da parte di Mosca",
     "link": "https://www.comune.torino.it/novita/comunicati/ucraina-sala-rossa-contro-trasferimenti-coatti-minori-maltrattamento-dei",
     "descrizione": "Con due documenti, il Consiglio prende posizione in difesa dei civili ucraini che sono stati deportati o detenuti illegalmente in Russia",
-    "data": "2026-05-25T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "97cdc6f365c8",
-    "titolo": "La Sala Rossa in difesa della Legge 194",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-difesa-della-legge-194",
-    "descrizione": "il Consiglio comunale ha approvato, questo pomeriggio, una mozione in difesa della Legge 194",
-    "data": "2026-05-25T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "14b2e48e901b",
-    "titolo": "La Sala Rossa contro pfas e microplastiche",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-contro-pfas-microplastiche",
-    "descrizione": "La mozione, proposta dalla consigliera Garione, chiede maggiore attenzione per il riuso e un incremento dei punti acqua Smat",
     "data": "2026-05-25T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
