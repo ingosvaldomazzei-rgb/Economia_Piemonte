@@ -1,4 +1,202 @@
 {
+  "turismo": [
+    {
+      "id": "70b42f8c8bc9",
+      "titolo": "Nuovi record per il turismo piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-record-per-turismo-piemontese",
+      "data": "2026-07-08T09:59:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "964f40c63a6a",
+      "titolo": "Oscar italiano del cicloturismo: il Piemonte terzo con la Ciclovia del Mare",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oscar-italiano-cicloturismo-piemonte-terzo-ciclovia-mare",
+      "data": "2026-06-20T13:38:54+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "39077ade30c6",
+      "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
+      "data": "2026-06-11T18:37:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "sanita-regionale": [
+    {
+      "id": "a77b7d3c3478",
+      "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
+      "data": "2026-07-07T18:41:23+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d09a7df0cbcd",
+      "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f39188a11255",
+      "titolo": "Terremoto in Venezuela: il Piemonte invia personale sanitario per le operazioni di soccorso",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terremoto-venezuela-piemonte-invia-personale-sanitario-per-operazioni-soccorso",
+      "data": "2026-06-25T20:26:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7ed53f034663",
+      "titolo": "L'Assemblea ricorda Piero Amerio, scienziato e consigliere",
+      "link": "https://www.comune.torino.it/novita/comunicati/lassemblea-ricorda-piero-amerio-scienziato-consigliere",
+      "data": "2026-06-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bee2337a456f",
+      "titolo": "I rappresentanti delle case di quartiere al comitato provinciale per l’ordine e la sicurezza pubblica",
+      "link": "https://www.comune.torino.it/novita/comunicati/rappresentanti-delle-case-quartiere-al-comitato-provinciale-per-lordine",
+      "data": "2026-06-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ce9a0063776f",
+      "titolo": "Da Fondazione Compagnia di San Paolo e Città di Torino una “primavera” di opportunità per bambine e bambini da 0 a 6 anni e famiglie",
+      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-citta-torino-una-primavera-opportunita-per",
+      "data": "2026-06-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "39077ade30c6",
+      "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
+      "data": "2026-06-11T18:37:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c68a56cf9a40",
+      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
+      "data": "2026-06-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "agricoltura": [
+    {
+      "id": "a77b7d3c3478",
+      "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
+      "data": "2026-07-07T18:41:23+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d92120ef4ef",
+      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
+      "data": "2026-07-06T09:52:31+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "ca7e11d1ef77",
+      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
+      "data": "2026-07-03T15:55:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0c9d72d8030b",
+      "titolo": "Il bando 2026 per il credito in agricoltura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
+      "data": "2026-07-02T12:05:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d01b32fb623",
+      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-07-01T15:15:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e76a6db8b16c",
+      "titolo": "Il “Semplifica Piemonte” è legge: riforma per una Regione più semplice, accessibile e capace di dare risposte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-legge-riforma-per-una-regione-piu-semplice-accessibile-capace-dare-risposte",
+      "data": "2026-06-30T17:50:15+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9375a9cd1fc4",
+      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-06-29T18:39:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f1672de691e2",
+      "titolo": "La Regione riapre l’Osservatorio sull’emergenza idrica",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-riapre-losservatorio-sullemergenza-idrica",
+      "data": "2026-06-23T10:00:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "324099fb7f78",
+      "titolo": "Da Alcotra più risorse per i territori di confine con la Francia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-piu-risorse-per-territori-confine-francia",
+      "data": "2026-06-12T10:40:23+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "20867350de58",
+      "titolo": "Quasi 23 milioni per le nuove aree interne Valsesia e Terre del Giarolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/quasi-23-milioni-per-nuove-aree-interne-valsesia-terre-giarolo",
+      "data": "2026-06-09T14:00:38+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "043a188a7f41",
+      "titolo": "Il vino piemontese al Vinexpo Asia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-al-vinexpo-asia",
+      "data": "2026-05-28T11:19:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ddd60e8bc158",
+      "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
+      "data": "2026-05-25T15:31:07+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2d758ebb7939",
+      "titolo": "Corecom Piemonte: 4339 istanze trattate",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/corecom-piemonte-4339-istanze-trattate",
+      "data": "2026-05-25T14:05:13+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    }
+  ],
   "sport": [
     {
       "id": "c46ff3a0aacd",
@@ -127,64 +325,6 @@
       "titolo": "Servizio di affilatura lame pattini da ghiaccio in dotazione al Palazzo del Ghiaccio Tazzoli - Via Sanremo, 67 - Torino",
       "link": "https://www.comune.torino.it/novita/avvisi/servizio-affilatura-lame-pattini-ghiaccio-dotazione-al-palazzo-ghiaccio-tazzoli",
       "data": "2026-05-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "sanita-regionale": [
-    {
-      "id": "d09a7df0cbcd",
-      "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f39188a11255",
-      "titolo": "Terremoto in Venezuela: il Piemonte invia personale sanitario per le operazioni di soccorso",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terremoto-venezuela-piemonte-invia-personale-sanitario-per-operazioni-soccorso",
-      "data": "2026-06-25T20:26:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7ed53f034663",
-      "titolo": "L'Assemblea ricorda Piero Amerio, scienziato e consigliere",
-      "link": "https://www.comune.torino.it/novita/comunicati/lassemblea-ricorda-piero-amerio-scienziato-consigliere",
-      "data": "2026-06-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bee2337a456f",
-      "titolo": "I rappresentanti delle case di quartiere al comitato provinciale per l’ordine e la sicurezza pubblica",
-      "link": "https://www.comune.torino.it/novita/comunicati/rappresentanti-delle-case-quartiere-al-comitato-provinciale-per-lordine",
-      "data": "2026-06-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ce9a0063776f",
-      "titolo": "Da Fondazione Compagnia di San Paolo e Città di Torino una “primavera” di opportunità per bambine e bambini da 0 a 6 anni e famiglie",
-      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-citta-torino-una-primavera-opportunita-per",
-      "data": "2026-06-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "39077ade30c6",
-      "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
-      "data": "2026-06-11T18:37:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c68a56cf9a40",
-      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
-      "data": "2026-06-11T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -319,14 +459,6 @@
       "data": "2026-05-25T15:31:07+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "9c597cfd13e2",
-      "titolo": "Ucraina: la Sala Rossa contro trasferimenti coatti di minori e maltrattamento dei prigionieri da parte di Mosca",
-      "link": "https://www.comune.torino.it/novita/comunicati/ucraina-sala-rossa-contro-trasferimenti-coatti-minori-maltrattamento-dei",
-      "data": "2026-05-25T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "ambiente-qualita-aria": [
@@ -342,6 +474,14 @@
       "id": "a387da5850d7",
       "titolo": "Fotovoltaico al Gerbido e nuova illuminazione: dal Ministero dell’Ambiente 1, 3 milioni di euro per Torino",
       "link": "https://www.comune.torino.it/novita/comunicati/fotovoltaico-al-gerbido-nuova-illuminazione-ministero-dellambiente-1-3-milioni",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "3a53332df683",
+      "titolo": "Tari 2026, tariffe invariate e aumento agevolazioni Isee fino al 50%",
+      "link": "https://www.comune.torino.it/novita/comunicati/tari-2026-tariffe-invariate-aumento-agevolazioni-isee-fino-al-50",
       "data": "2026-07-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -537,14 +677,6 @@
       "titolo": "Pubblicato il bando 2026–2027 per proposte culturali di enti e associazioni nelle biblioteche civiche",
       "link": "https://www.comune.torino.it/novita/comunicati/pubblicato-bando-2026-2027-per-proposte-culturali-enti-associazioni-nelle",
       "data": "2026-05-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9c597cfd13e2",
-      "titolo": "Ucraina: la Sala Rossa contro trasferimenti coatti di minori e maltrattamento dei prigionieri da parte di Mosca",
-      "link": "https://www.comune.torino.it/novita/comunicati/ucraina-sala-rossa-contro-trasferimenti-coatti-minori-maltrattamento-dei",
-      "data": "2026-05-25T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1035,104 +1167,6 @@
       "fonte_id": "regione"
     }
   ],
-  "agricoltura": [
-    {
-      "id": "1d92120ef4ef",
-      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
-      "data": "2026-07-06T09:52:31+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "ca7e11d1ef77",
-      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
-      "data": "2026-07-03T15:55:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0c9d72d8030b",
-      "titolo": "Il bando 2026 per il credito in agricoltura",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
-      "data": "2026-07-02T12:05:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e76a6db8b16c",
-      "titolo": "Il “Semplifica Piemonte” è legge: riforma per una Regione più semplice, accessibile e capace di dare risposte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-legge-riforma-per-una-regione-piu-semplice-accessibile-capace-dare-risposte",
-      "data": "2026-06-30T17:50:15+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9375a9cd1fc4",
-      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-06-29T18:39:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f1672de691e2",
-      "titolo": "La Regione riapre l’Osservatorio sull’emergenza idrica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-riapre-losservatorio-sullemergenza-idrica",
-      "data": "2026-06-23T10:00:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "324099fb7f78",
-      "titolo": "Da Alcotra più risorse per i territori di confine con la Francia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-piu-risorse-per-territori-confine-francia",
-      "data": "2026-06-12T10:40:23+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "20867350de58",
-      "titolo": "Quasi 23 milioni per le nuove aree interne Valsesia e Terre del Giarolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/quasi-23-milioni-per-nuove-aree-interne-valsesia-terre-giarolo",
-      "data": "2026-06-09T14:00:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "043a188a7f41",
-      "titolo": "Il vino piemontese al Vinexpo Asia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-al-vinexpo-asia",
-      "data": "2026-05-28T11:19:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ddd60e8bc158",
-      "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
-      "data": "2026-05-25T15:31:07+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2d758ebb7939",
-      "titolo": "Corecom Piemonte: 4339 istanze trattate",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/corecom-piemonte-4339-istanze-trattate",
-      "data": "2026-05-25T14:05:13+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    }
-  ],
   "pari-opportunita": [
     {
       "id": "1d92120ef4ef",
@@ -1449,24 +1483,6 @@
       "data": "2026-05-27T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "turismo": [
-    {
-      "id": "964f40c63a6a",
-      "titolo": "Oscar italiano del cicloturismo: il Piemonte terzo con la Ciclovia del Mare",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oscar-italiano-cicloturismo-piemonte-terzo-ciclovia-mare",
-      "data": "2026-06-20T13:38:54+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "39077ade30c6",
-      "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
-      "data": "2026-06-11T18:37:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "bilancio-regionale": [

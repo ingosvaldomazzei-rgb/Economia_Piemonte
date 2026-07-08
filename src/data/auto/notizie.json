@@ -1,5 +1,25 @@
 [
   {
+    "id": "70b42f8c8bc9",
+    "titolo": "Nuovi record per il turismo piemontese",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-record-per-turismo-piemontese",
+    "descrizione": "Nel primo semestre del 2026 il Piemonte turistico ha ottenuto un nuovo, importante risultato: è stata registrata la straordinaria percentuale del 9,22% in più di arrivi rispetto all’analogo periodo del 2025. Un record che lo pone al terzo posto in…",
+    "data": "2026-07-08T09:59:52+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "a77b7d3c3478",
+    "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
+    "descrizione": "“Chiediamo all’Unione Europea di intervenire a tutela del riso europeo dalla concorrenza sleale in arrivo da altri Paesi, in particolare dal Sud-Est asiatico. Questa situazione non solo rischia di impoverire gli agricoltori europei, ma rischia di farli fallire”: è quanto ha…",
+    "data": "2026-07-07T18:41:23+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "c46ff3a0aacd",
     "titolo": "Scalo Nizza, con le opere di urbanizzazione il via a impianti sportivi, piazza, percorsi pedonali e ciclabili e aree verdi",
     "link": "https://www.comune.torino.it/novita/comunicati/scalo-nizza-opere-urbanizzazione-via-impianti-sportivi-piazza-percorsi-pedonali",
@@ -54,6 +74,26 @@
     "titolo": "Fotovoltaico al Gerbido e nuova illuminazione: dal Ministero dell’Ambiente 1, 3 milioni di euro per Torino",
     "link": "https://www.comune.torino.it/novita/comunicati/fotovoltaico-al-gerbido-nuova-illuminazione-ministero-dellambiente-1-3-milioni",
     "descrizione": "Oltre 1,3 milioni di euro per rendere Torino più efficiente dal punto di vista energetico.",
+    "data": "2026-07-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3a53332df683",
+    "titolo": "Tari 2026, tariffe invariate e aumento agevolazioni Isee fino al 50%",
+    "link": "https://www.comune.torino.it/novita/comunicati/tari-2026-tariffe-invariate-aumento-agevolazioni-isee-fino-al-50",
+    "descrizione": "Restano invariate le tariffe relative alla Tassa Rifiuti per l’anno 2026 a Torino, mentre aumentano le misure di agevolazione basate sull’Isee.",
+    "data": "2026-07-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b1e2c3fb5194",
+    "titolo": "“torino: il futuro ha una storia antica”. Giovedì 9 luglio alle Gallerie d’Italia sindaco e rettori discutono del futuro della città",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-futuro-ha-una-storia-antica-giovedi-9-luglio-alle-gallerie-ditalia",
+    "descrizione": "Le trasformazioni del passato come spunto per riflettere insieme su quelle del futuro.",
     "data": "2026-07-07T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1958,45 +1998,5 @@
     "fonte": "Consiglio Regionale",
     "fonte_id": "consiglio",
     "colore": "#7c3aed"
-  },
-  {
-    "id": "c5a026ea98f7",
-    "titolo": "Diritti in Comune - UNICEF",
-    "link": "https://www.comune.torino.it/novita/notizie/diritti-comune-unicef",
-    "descrizione": "I Diritti dell’Infanzia e dell’Adolescenza al centro delle politiche comunali.",
-    "data": "2026-05-25T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "19852b5a0739",
-    "titolo": "Sala Rossa: un minuto di silenzio in ricordo di Carlo Petrini",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-un-minuto-silenzio-ricordo-carlo-petrini",
-    "descrizione": "Il fondatore di Slow Food è stato ricordato dal Vicepresidente vicario del Consiglio Comunale, Domenico Garcea, in apertura dei lavori",
-    "data": "2026-05-25T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d673dfd6c924",
-    "titolo": "CFM - Tuttocoro",
-    "link": "https://www.comune.torino.it/novita/avvisi/cfm-tuttocoro",
-    "descrizione": "Prenotazioni per il saggio/concerto - POSTI ESAURITI",
-    "data": "2026-05-25T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "9c597cfd13e2",
-    "titolo": "Ucraina: la Sala Rossa contro trasferimenti coatti di minori e maltrattamento dei prigionieri da parte di Mosca",
-    "link": "https://www.comune.torino.it/novita/comunicati/ucraina-sala-rossa-contro-trasferimenti-coatti-minori-maltrattamento-dei",
-    "descrizione": "Con due documenti, il Consiglio prende posizione in difesa dei civili ucraini che sono stati deportati o detenuti illegalmente in Russia",
-    "data": "2026-05-25T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
