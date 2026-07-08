@@ -1,5 +1,15 @@
 [
   {
+    "id": "f53418f544dc",
+    "titolo": "Nessun blocco delle assunzioni nella sanità piemontese",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nessun-blocco-delle-assunzioni-nella-sanita-piemontese",
+    "descrizione": "La Regione Piemonte, in riferimento alle dichiarazioni diffuse nelle scorse ore, precisa che il presunto blocco delle assunzioni nel Servizio sanitario regionale non corrisponde al contenuto della nota trasmessa alle Asl. «L'obiettivo del provvedimento - precisa l’assessore alla Sanità…",
+    "data": "2026-07-08T18:43:40+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "fa2d550f6f2d",
     "titolo": "Le novità di Terra Madre Salone del Gusto 2026",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-terra-madre-salone-gusto-2026",
@@ -1984,16 +1994,6 @@
     "titolo": "Gruppo Insieme oltre il lutto",
     "link": "https://www.comune.torino.it/novita/notizie/gruppo-insieme-oltre-lutto",
     "descrizione": "Uno spazio di incontro e di scambio per adulti in difficoltà, a causa della perdita o della malattia terminale di un familiare.",
-    "data": "2026-05-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "bdaa2ac9241e",
-    "titolo": "Chiusura SFEP - Festa della Repubblica",
-    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-sfep-festa-della-repubblica",
-    "descrizione": "SFEP chiusa lunedì 01/06/2026",
     "data": "2026-05-26T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
