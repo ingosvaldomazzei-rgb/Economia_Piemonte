@@ -1,5 +1,55 @@
 [
   {
+    "id": "fa2d550f6f2d",
+    "titolo": "Le novità di Terra Madre Salone del Gusto 2026",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-terra-madre-salone-gusto-2026",
+    "descrizione": "L’edizione 2026 di Terra Madre Salone del Gusto si svolgerà dal 24 al 27 settembre a Torino per la prima volta nel cuore del centro storico, trasformando piazze, vie e palazzi in un grande spazio diffuso dedicato al cibo \"buono…",
+    "data": "2026-07-08T16:10:19+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "e4a6a8e351dc",
+    "titolo": "Luci e ombre per il vino piemontese",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/luci-ombre-per-vino-piemontese",
+    "descrizione": "Il vino piemontese continua a dimostrare forza sui mercati internazionali, ma allo stesso tempo deve fare i conti con una difficoltà che interessa numerose aziende e alcune delle principali denominazioni: questa la situazione del settore illustrata alla Terza Commissione del…",
+    "data": "2026-07-08T15:15:37+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "d45a69f17042",
+    "titolo": "Corso Moncalieri: al via i lavori sul marciapiede per un accesso più sicuro al Parco Leopardi. Cantieri su corso Regina e in via Cigna",
+    "link": "https://www.comune.torino.it/novita/comunicati/corso-moncalieri-al-via-lavori-sul-marciapiede-per-un-accesso-piu-sicuro-al",
+    "descrizione": "Prenderanno il via venerdì 10 luglio i lavori di allargamento del marciapiede di corso Moncalieri, nel tratto compreso tra il Ponte Isabella e via Febo.",
+    "data": "2026-07-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bbef429e6eff",
+    "titolo": "\"Lo sai che la tua mensa...\"",
+    "link": "https://www.comune.torino.it/novita/notizie/sai-che-tua-mensa",
+    "descrizione": "La nuova rubrica del Laboratorio Chimico della Camera di Commercio di Torino.",
+    "data": "2026-07-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8557dfbb9395",
+    "titolo": "Riflessioni politico-culturali e appuntamenti sportivi e gastronomici",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/riflessioni-politico-culturali-appuntamenti-sportivi-gastronomici",
+    "descrizione": "Sabato 25 e domenica 26 luglio sarà Pontechianale, nel cuore della Valle Varaita in provincia di Cuneo, il palcoscenico della terza edizione della Festa delle Alpi - Fête des Alpes. Dopo il Piccolo San Bernardo nel 2024 e il Moncenisio…",
+    "data": "2026-07-08T10:52:51+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "70b42f8c8bc9",
     "titolo": "Nuovi record per il turismo piemontese",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-record-per-turismo-piemontese",
@@ -1948,55 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "3d35b08cdb55",
-    "titolo": "Allerta caldo, oggi e domani bollino rosso. Nelle circoscrizioni a disposizione 19 centri climatizzati, dal 1° giugno al via il Piano Estate",
-    "link": "https://www.comune.torino.it/novita/comunicati/allerta-caldo-oggi-domani-bollino-rosso-nelle-circoscrizioni-disposizione-19",
-    "descrizione": "A Torino non si allenta l'ondata di calore straordinaria e precoce per intensità e durata.",
-    "data": "2026-05-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a3f4107541bd",
-    "titolo": "Contributi per la sistemazione temporanea dei salariati nelle aziende agricole",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-sistemazione-temporanea-dei-salariati-nelle-aziende-agricole",
-    "descrizione": "Per sostenere la sistemazione temporanea dei salariati stagionali impiegati nelle aziende agricole piemontesi nel corso del 2026 la Giunta regionale ha deciso di stanziare 73.400 euro da erogare ai Comuni, Unioni e Consorzi di Comuni che ne faranno richiesta…",
-    "data": "2026-05-26T10:41:44+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "f87de6980509",
-    "titolo": "Percorsi gratuiti per gli uomini che scelgono il recupero nei Centri antiviolenza",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/percorsi-gratuiti-per-gli-uomini-che-scelgono-recupero-nei-centri-antiviolenza",
-    "descrizione": "La Regione Piemonte rafforza il sostegno ai percorsi di prevenzione e recupero rivolti agli uomini autori di violenza: nei criteri di finanziamento dei Centri ad essi dedicati viene inserita una premialità dedicata alla gratuità dei percorsi per chi sceglie…",
-    "data": "2026-05-25T16:49:36+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ddd60e8bc158",
-    "titolo": "Voucher scuola: aggiornati criteri e soglie Isee",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-aggiornati-criteri-soglie-isee",
-    "descrizione": "La Giunta regionale ha deciso di modificare l’Atto di indirizzo sui “voucher scuola”, in modo da rendere il diritto allo studio sempre più vicino alle famiglie e capace di rispondere ai cambiamenti sociali ed economici degli ultimi anni. Vengono così inseriti …",
-    "data": "2026-05-25T15:31:07+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "2d758ebb7939",
-    "titolo": "Corecom Piemonte: 4339 istanze trattate",
-    "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/corecom-piemonte-4339-istanze-trattate",
-    "descrizione": "Tipologia articolo Comunicati stampa Data pubblicazione 25 Maggio 2026 Il 2025 ha confermato l'efficacia del Corecom, il Comitato regionale per le comunicazioni presieduto da Vincenzo Lilli, come sede di risoluzione extragiudiziale delle controversie tra cittadini e operatori di comunicazioni elettroniche. Grazie alla piattaforma ConciliaWeb, sono state gestite 4.339 istanze complessive, di cui 4.006 istanze di conciliazione e 333 domande di definizione delle controversie. Su 4.279 procedimenti ",
-    "data": "2026-05-25T14:05:13+00:00",
-    "fonte": "Consiglio Regionale",
-    "fonte_id": "consiglio",
-    "colore": "#7c3aed"
   }
 ]
