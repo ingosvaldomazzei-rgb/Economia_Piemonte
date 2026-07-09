@@ -1,5 +1,15 @@
 [
   {
+    "id": "05f41e85fb48",
+    "titolo": "Parco della salute di Torino: più posti letto e laboratori, avvio dei cantieri a inizio 2027",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-torino-piu-posti-letto-laboratori-avvio-dei-cantieri-inizio-2027",
+    "descrizione": "Aggiornato dal collegio di vigilanza il progetto del Parco della Salute di Torino: le principali novità dell’adeguamento progettuale, affidato al Politecnico di Milano per recepire le normative introdotte dopo il 2017, sono l’aumento dei…",
+    "data": "2026-07-09T18:43:18+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "2e3b68797a00",
     "titolo": "Avviso Pubblico Beni Confiscati n. 1/2026",
     "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-beni-confiscati-n-12026",
@@ -34,6 +44,16 @@
     "titolo": "Dalla materia di scarto al valore condiviso: al via il nuovo Living Lab Torino Circolare",
     "link": "https://www.comune.torino.it/novita/comunicati/dalla-materia-scarto-al-valore-condiviso-al-via-nuovo-living-lab-torino",
     "descrizione": "Nell’economia circolare nulla si perde davvero: ciò che oggi è uno scarto può diventare una nuova risorsa.",
+    "data": "2026-07-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8ed916116ed6",
+    "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
+    "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
+    "descrizione": "I sindaci chiedono un incontro istituzionale urgente al Ministero delle Infrastrutture e dei Trasporti e un’audizione alle commissioni competenti.",
     "data": "2026-07-09T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "59c0f947c475",
-    "titolo": "I Parchi naturali del Piemonte a Cinemambiente",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parchi-naturali-piemonte-cinemambiente",
-    "descrizione": "Le Aree naturali protette del Piemonte partecipano domenica 7 giugno a Torino al Festival CinemAmbiente con un villaggio dedicato ai parchi e con un premio speciale al documentario che…",
-    "data": "2026-05-26T14:34:53+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "9aa589aa49f1",
-    "titolo": "Domani Diritto di Tribuna su utilizzo edificio c. Francia 377",
-    "link": "https://www.comune.torino.it/novita/comunicati/domani-diritto-tribuna-utilizzo-edificio-c-francia-377",
-    "descrizione": "domani, mercoledì 27 maggio 2026, alle ore 11,30 Diritto di Tribuna, convocato per presentare la petizione al Consiglio comunale...",
-    "data": "2026-05-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

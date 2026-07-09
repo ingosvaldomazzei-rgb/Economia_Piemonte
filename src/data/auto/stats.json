@@ -1,14 +1,14 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 138,
     "regione": 61,
+    "comune_torino": 138,
     "consiglio": 1
   },
   "temi_attivi": [
     {
       "tema": "cultura-beni-culturali",
-      "conteggio": 18
+      "conteggio": 17
     },
     {
       "tema": "agricoltura",
@@ -19,12 +19,20 @@
       "conteggio": 13
     },
     {
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 12
+    },
+    {
       "tema": "sport",
+      "conteggio": 12
+    },
+    {
+      "tema": "edilizia-opere-pubbliche",
       "conteggio": 11
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 11
+      "tema": "sanita-regionale",
+      "conteggio": 10
     },
     {
       "tema": "sociale-welfare",
@@ -35,15 +43,7 @@
       "conteggio": 10
     },
     {
-      "tema": "sanita-regionale",
-      "conteggio": 9
-    },
-    {
       "tema": "lavoro-occupazione",
-      "conteggio": 9
-    },
-    {
-      "tema": "edilizia-opere-pubbliche",
       "conteggio": 9
     }
   ],
