@@ -1,5 +1,45 @@
 [
   {
+    "id": "2e3b68797a00",
+    "titolo": "Avviso Pubblico Beni Confiscati n. 1/2026",
+    "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-beni-confiscati-n-12026",
+    "descrizione": "Individuazione di enti ed associazioni cui concedere, a titolo gratuito, n. 2 immobili di proprietà comunale confiscati alla criminalità organizzata.",
+    "data": "2026-07-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ebdebec75e38",
+    "titolo": "Giornate di pattinaggio libero presso il Pala Tazzoli.",
+    "link": "https://www.comune.torino.it/novita/notizie/giornate-pattinaggio-libero-presso-pala-tazzoli-0",
+    "descrizione": "Apertura dello Stadio del Ghiaccio Tazzoli di via Sanremo 67 per la seconda serata di pattinaggio libero",
+    "data": "2026-07-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "43fb70a80a0c",
+    "titolo": "Chiusura della Biblioteca Pedagogica nel mese di agosto",
+    "link": "https://www.comune.torino.it/novita/notizie/chiusura-della-biblioteca-pedagogica-nel-mese-agosto",
+    "descrizione": "Chiusura della Biblioteca Pedagogica nel mese di agosto per le vacanze estive.",
+    "data": "2026-07-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "62077d2bb730",
+    "titolo": "Dalla materia di scarto al valore condiviso: al via il nuovo Living Lab Torino Circolare",
+    "link": "https://www.comune.torino.it/novita/comunicati/dalla-materia-scarto-al-valore-condiviso-al-via-nuovo-living-lab-torino",
+    "descrizione": "Nell’economia circolare nulla si perde davvero: ciò che oggi è uno scarto può diventare una nuova risorsa.",
+    "data": "2026-07-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f53418f544dc",
     "titolo": "Nessun blocco delle assunzioni nella sanità piemontese",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nessun-blocco-delle-assunzioni-nella-sanita-piemontese",
@@ -1954,46 +1994,6 @@
     "titolo": "Domani Diritto di Tribuna su utilizzo edificio c. Francia 377",
     "link": "https://www.comune.torino.it/novita/comunicati/domani-diritto-tribuna-utilizzo-edificio-c-francia-377",
     "descrizione": "domani, mercoledì 27 maggio 2026, alle ore 11,30 Diritto di Tribuna, convocato per presentare la petizione al Consiglio comunale...",
-    "data": "2026-05-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b8f368df9dc2",
-    "titolo": "Mercatini tematici, proposta per la semplificazione normativa e via libera alla sperimentazione temporanea",
-    "link": "https://www.comune.torino.it/novita/comunicati/mercatini-tematici-proposta-per-semplificazione-normativa-via-libera-alla",
-    "descrizione": "La proposta nasce da alcune criticità operative riscontrate nel corso degli anni.",
-    "data": "2026-05-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0d1c3bb1043e",
-    "titolo": "Efficientamento energetico: nuovi interventi su scuole e sedi comunali. Lavori per 4,5 milioni di euro",
-    "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-nuovi-interventi-scuole-sedi-comunali-lavori-per-45",
-    "descrizione": "Torino prosegue nella riqualificazione del proprio patrimonio pubblico, puntando su innovazione tecnologica, riduzione dei consumi e sostenibilità ambientale.",
-    "data": "2026-05-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "55a2203f2073",
-    "titolo": "Toponomastica: approvate intitolazioni dedicate a figure dell'antifascismo, della cultura e dell'impegno civile",
-    "link": "https://www.comune.torino.it/novita/comunicati/toponomastica-approvate-intitolazioni-dedicate-figure-dellantifascismo-della",
-    "descrizione": "Toponomastica: approvate intitolazioni dedicate a figure dell'antifascismo, della cultura, dell'impegno civile",
-    "data": "2026-05-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "92d837daa3f9",
-    "titolo": "Pubblicato il bando 2026–2027 per proposte culturali di enti e associazioni nelle biblioteche civiche",
-    "link": "https://www.comune.torino.it/novita/comunicati/pubblicato-bando-2026-2027-per-proposte-culturali-enti-associazioni-nelle",
-    "descrizione": "È online l’avviso pubblico “Le Biblioteche crescono, fai crescere le Biblioteche!” per la presentazione di proposte progettuali.",
     "data": "2026-05-26T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
