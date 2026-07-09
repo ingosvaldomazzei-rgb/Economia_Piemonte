@@ -231,6 +231,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "d50a16d8eaee",
+      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi del Pnrr",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi-pnrr",
+      "data": "2026-07-03T15:55:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "0c9d72d8030b",
       "titolo": "Il bando 2026 per il credito in agricoltura",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
@@ -1356,6 +1364,14 @@
       "id": "ca7e11d1ef77",
       "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
+      "data": "2026-07-03T15:55:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d50a16d8eaee",
+      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi del Pnrr",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi-pnrr",
       "data": "2026-07-03T15:55:47+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"

@@ -310,6 +310,16 @@
     "colore": "#2563eb"
   },
   {
+    "id": "d50a16d8eaee",
+    "titolo": "Il Piemonte raggiunge il 100% degli obiettivi del Pnrr",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi-pnrr",
+    "descrizione": "La Regione Piemonte centra il 100% degli obiettivi del Pnrr e rispetta tutte le scadenze fissate dall’Europa. Un risultato che conferma la capacità dell'ente di trasformare le risorse del Piano nazionale di ripresa e…",
+    "data": "2026-07-03T15:55:47+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "5d3a4f21a41e",
     "titolo": "Missione del Corpo Aib del Piemonte in Francia",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-corpo-aib-piemonte-francia",
@@ -1984,16 +1994,6 @@
     "titolo": "Pubblicato il bando 2026–2027 per proposte culturali di enti e associazioni nelle biblioteche civiche",
     "link": "https://www.comune.torino.it/novita/comunicati/pubblicato-bando-2026-2027-per-proposte-culturali-enti-associazioni-nelle",
     "descrizione": "È online l’avviso pubblico “Le Biblioteche crescono, fai crescere le Biblioteche!” per la presentazione di proposte progettuali.",
-    "data": "2026-05-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "eb99c8d29865",
-    "titolo": "Gruppo Insieme oltre il lutto",
-    "link": "https://www.comune.torino.it/novita/notizie/gruppo-insieme-oltre-lutto",
-    "descrizione": "Uno spazio di incontro e di scambio per adulti in difficoltà, a causa della perdita o della malattia terminale di un familiare.",
     "data": "2026-05-26T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
