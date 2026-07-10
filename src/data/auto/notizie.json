@@ -110,6 +110,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "125bdd66a66b",
+    "titolo": "Aggiornamento degli oneri di urbanizzazione 2026",
+    "link": "https://www.comune.torino.it/novita/avvisi/aggiornamento-degli-oneri-urbanizzazione-2026",
+    "descrizione": "Adeguamento annuale dei valori tabellari degli oneri di urbanizzazione.",
+    "data": "2026-07-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "8557dfbb9395",
     "titolo": "Riflessioni politico-culturali e appuntamenti sportivi e gastronomici",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/riflessioni-politico-culturali-appuntamenti-sportivi-gastronomici",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "21ddb1ca8bd3",
-    "titolo": "Dimensionamento scolastico: niente accorpamenti fino al 2029-30",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dimensionamento-scolastico-niente-accorpamenti-fino-al-2029-30",
-    "descrizione": "Nessun dimensionamento scolastico per i prossimi due anni in Piemonte: è quanto prevedono le linee strategiche del nuovo Atto di indirizzo per la programmazione della rete delle istituzioni autonome e dell’offerta formativa delle scuole superiori per il triennio…",
-    "data": "2026-05-26T14:57:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
