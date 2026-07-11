@@ -60,6 +60,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "2c4b015059a9",
+    "titolo": "Chiusura ufficio Permessi ZTL",
+    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-ufficio-permessi-ztl",
+    "descrizione": "Chiusura ufficio permessi",
+    "data": "2026-07-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f53418f544dc",
     "titolo": "Nessun blocco delle assunzioni nella sanità piemontese",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nessun-blocco-delle-assunzioni-nella-sanita-piemontese",
@@ -1984,16 +1994,6 @@
     "titolo": "Cerimonia in memoria delle vittime del terrorismo",
     "link": "https://www.comune.torino.it/novita/notizie/cerimonia-memoria-delle-vittime-terrorismo",
     "descrizione": "Mercoledì 27 maggio 2026 alle ore 11.00 diretta web, dalla Sala Rossa della Cerimonia in memoria delle vittime del terrorismo.",
-    "data": "2026-05-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "272e517a15ba",
-    "titolo": "Il Sindaco a Maastricht al Forum annuale dell'OECD, nominato nel nuovo advisory board dell’OECD global forum on local development",
-    "link": "https://www.comune.torino.it/novita/comunicati/sindaco-maastricht-al-forum-annuale-delloecd-nominato-nel-nuovo-advisory-board",
-    "descrizione": "Il sindaco Stefano Lo Russo ha preso parte oggi ai lavori del Forum annuale dell’OECD, l’Organizzazione globale per la cooperazione e lo sviluppo economico.",
     "data": "2026-05-27T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
