@@ -1,5 +1,15 @@
 [
   {
+    "id": "c4dab082403b",
+    "titolo": "La Regione al lavoro per iniziare il ripristino dei boschi bruciati dagli incendi",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-al-lavoro-per-iniziare-ripristino-dei-boschi-bruciati-dagli-incendi",
+    "descrizione": "Passata per fortuna l’emergenza provocata dagli incendi che si sono sviluppati nei giorni scorsi in diverse zone del Piemonte, la Regione è già al lavoro per attivare i piani di ripristino ambientale dei boschi bruciati dalle fiamme. \"Ci si occuperà immediatamente dei…",
+    "data": "2026-07-11T18:59:12+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "05f41e85fb48",
     "titolo": "Parco della salute di Torino: più posti letto e laboratori, avvio dei cantieri a inizio 2027",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-torino-piu-posti-letto-laboratori-avvio-dei-cantieri-inizio-2027",
@@ -1984,16 +1994,6 @@
     "titolo": "Scuola, Torino continua a investire nell’infanzia. Nuovi arredi per i poli educativi di via Verolengo e via Giuria",
     "link": "https://www.comune.torino.it/novita/comunicati/scuola-torino-continua-investire-nellinfanzia-nuovi-arredi-per-poli-educativi",
     "descrizione": "La Città di Torino ha ottenuto un finanziamento di 464mila euro per la fornitura di arredi didattici innovativi destinati ai poli dell’infanzia 0-6.",
-    "data": "2026-05-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1a0a06687aca",
-    "titolo": "Cerimonia in memoria delle vittime del terrorismo",
-    "link": "https://www.comune.torino.it/novita/notizie/cerimonia-memoria-delle-vittime-terrorismo",
-    "descrizione": "Mercoledì 27 maggio 2026 alle ore 11.00 diretta web, dalla Sala Rossa della Cerimonia in memoria delle vittime del terrorismo.",
     "data": "2026-05-27T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
