@@ -1,5 +1,35 @@
 [
   {
+    "id": "ff76bcf3c9c8",
+    "titolo": "Referendum consultivi, a Torino potranno votare i 16enni",
+    "link": "https://www.comune.torino.it/novita/comunicati/referendum-consultivi-torino-potranno-votare-16enni",
+    "descrizione": "Approvate due deliberazioni di iniziativa consiliare (primo firmatario: Simone Fissolo – Moderati) che modificano lo Statuto comunale e il Regolamento n°. 297",
+    "data": "2026-07-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9310ad423661",
+    "titolo": "Ricordata l'assessora emerita Rosalba Molineri, introdusse l'affidamento familiare",
+    "link": "https://www.comune.torino.it/novita/comunicati/ricordata-lassessora-emerita-rosalba-molineri-introdusse-laffidamento-familiare",
+    "descrizione": "La Sala Rossa ha ricordato l'assessora e consigliera emerita Rosalba Molineri: sua l'iniziativa, nel 1975, di varare l'affidamento familiare per i minori",
+    "data": "2026-07-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "313f9cec9c70",
+    "titolo": "Borgo Medievale, a fine luglio la conclusione dei lavori di restauro. Sopralluogo del Sindaco al cantiere",
+    "link": "https://www.comune.torino.it/novita/comunicati/borgo-medievale-fine-luglio-conclusione-dei-lavori-restauro-sopralluogo-sindaco",
+    "descrizione": "Il sindaco Stefano Lo Russo ha visitato il cantiere del Borgo Medievale, dove si avviano a conclusione gli interventi di restauro e rifunzionalizzazione.",
+    "data": "2026-07-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "8e9e2bee14bc",
     "titolo": "Lea 2024, il Piemonte al 4° posto nazionale",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lea-2024-piemonte-al-4deg-posto-nazionale",
@@ -41,9 +71,9 @@
   },
   {
     "id": "ebdebec75e38",
-    "titolo": "Giornate di pattinaggio libero presso il Pala Tazzoli.",
+    "titolo": "Giornate di pattinaggio libero presso il Pala Tazzoli",
     "link": "https://www.comune.torino.it/novita/notizie/giornate-pattinaggio-libero-presso-pala-tazzoli-0",
-    "descrizione": "Apertura dello Stadio del Ghiaccio Tazzoli di via Sanremo 67 per la seconda serata di pattinaggio libero",
+    "descrizione": "Apertura dello Stadio del Ghiaccio Tazzoli di via Sanremo 67 per la seconda serata di pattinaggio libero.",
     "data": "2026-07-09T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1968,35 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "6872a1265dfc",
-    "titolo": "Progetto Petrarca 7: formazione civico-linguistica delle persone straniere",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/progetto-petrarca-7-formazione-civico-linguistica-delle-persone-straniere",
-    "descrizione": "Al Centro Congressi della Regione Piemonte a Torino, il 27 maggio si è svolto il seminario di disseminazione “Apprendere la lingua, esercitare la cittadinanza”, promosso nell’ambito del…",
-    "data": "2026-05-27T14:40:04+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "1160212e82b4",
-    "titolo": "Neutralità climatica: Torino accoglie la Cities Mission Conference 2026. Oltre 600 i delegati da tutta Europa. Oggi le visite in città, domani la plenaria alle OGR",
-    "link": "https://www.comune.torino.it/novita/comunicati/neutralita-climatica-torino-accoglie-cities-mission-conference-2026-oltre-600",
-    "descrizione": "Dalle infrastrutture energetiche ai nuovi spazi pubblici, dalla mobilità intelligente alla rigenerazione urbana: si apre oggi la Cities Mission Conference 2026.",
-    "data": "2026-05-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "101fec93d6c9",
-    "titolo": "Allerta caldo in città, nelle circoscrizioni a disposizione 19 centri climatizzati",
-    "link": "https://www.comune.torino.it/novita/avvisi/allerta-caldo-citta-nelle-circoscrizioni-disposizione-19-centri-climatizzati",
-    "descrizione": "A Torino non si allenta l'ondata di calore straordinaria e precoce per intensità e durata.",
-    "data": "2026-05-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
