@@ -1,5 +1,127 @@
 {
+  "agricoltura": [
+    {
+      "id": "2aa44c382dd0",
+      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
+      "data": "2026-07-13T20:37:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "62077d2bb730",
+      "titolo": "Dalla materia di scarto al valore condiviso: al via il nuovo Living Lab Torino Circolare",
+      "link": "https://www.comune.torino.it/novita/comunicati/dalla-materia-scarto-al-valore-condiviso-al-via-nuovo-living-lab-torino",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e4a6a8e351dc",
+      "titolo": "Luci e ombre per il vino piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/luci-ombre-per-vino-piemontese",
+      "data": "2026-07-08T15:15:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a77b7d3c3478",
+      "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
+      "data": "2026-07-07T18:41:23+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d92120ef4ef",
+      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
+      "data": "2026-07-06T09:52:31+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "ca7e11d1ef77",
+      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
+      "data": "2026-07-03T15:55:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d50a16d8eaee",
+      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi del Pnrr",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi-pnrr",
+      "data": "2026-07-03T15:55:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0c9d72d8030b",
+      "titolo": "Il bando 2026 per il credito in agricoltura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
+      "data": "2026-07-02T12:05:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d01b32fb623",
+      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-07-01T15:15:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e76a6db8b16c",
+      "titolo": "Il “Semplifica Piemonte” è legge: riforma per una Regione più semplice, accessibile e capace di dare risposte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-legge-riforma-per-una-regione-piu-semplice-accessibile-capace-dare-risposte",
+      "data": "2026-06-30T17:50:15+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9375a9cd1fc4",
+      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-06-29T18:39:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f1672de691e2",
+      "titolo": "La Regione riapre l’Osservatorio sull’emergenza idrica",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-riapre-losservatorio-sullemergenza-idrica",
+      "data": "2026-06-23T10:00:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "324099fb7f78",
+      "titolo": "Da Alcotra più risorse per i territori di confine con la Francia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-piu-risorse-per-territori-confine-francia",
+      "data": "2026-06-12T10:40:23+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "20867350de58",
+      "titolo": "Quasi 23 milioni per le nuove aree interne Valsesia e Terre del Giarolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/quasi-23-milioni-per-nuove-aree-interne-valsesia-terre-giarolo",
+      "data": "2026-06-09T14:00:38+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "lavoro-occupazione": [
+    {
+      "id": "2aa44c382dd0",
+      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
+      "data": "2026-07-13T20:37:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "ff76bcf3c9c8",
       "titolo": "Referendum consultivi, a Torino potranno votare i 16enni",
@@ -12,6 +134,14 @@
       "id": "c4dab082403b",
       "titolo": "La Regione al lavoro per iniziare il ripristino dei boschi bruciati dagli incendi",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-al-lavoro-per-iniziare-ripristino-dei-boschi-bruciati-dagli-incendi",
+      "data": "2026-07-11T18:59:12+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1abd15f9bad9",
+      "titolo": "La Regione progetta il ripristino dei boschi bruciati dagli incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-progetta-ripristino-dei-boschi-bruciati-dagli-incendi",
       "data": "2026-07-11T18:59:12+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
@@ -89,20 +219,12 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "sociale-welfare": [
+  "ambiente-qualita-aria": [
     {
-      "id": "9310ad423661",
-      "titolo": "Ricordata l'assessora emerita Rosalba Molineri, introdusse l'affidamento familiare",
-      "link": "https://www.comune.torino.it/novita/comunicati/ricordata-lassessora-emerita-rosalba-molineri-introdusse-laffidamento-familiare",
-      "data": "2026-07-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8e9e2bee14bc",
-      "titolo": "Lea 2024, il Piemonte al 4° posto nazionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lea-2024-piemonte-al-4deg-posto-nazionale",
-      "data": "2026-07-13T09:07:06+02:00",
+      "id": "2aa44c382dd0",
+      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
+      "data": "2026-07-13T20:37:57+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -115,52 +237,44 @@
       "fonte_id": "comune_torino"
     },
     {
-      "id": "08b7988f5981",
-      "titolo": "I nuovi criteri dei voucher scuola: più famiglie raggiunte, sostegno rafforzato al diritto allo studio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-criteri-dei-voucher-scuola-piu-famiglie-raggiunte-sostegno-rafforzato-al-diritto-allo-studio",
-      "data": "2026-06-18T16:02:10+02:00",
+      "id": "a387da5850d7",
+      "titolo": "Fotovoltaico al Gerbido e nuova illuminazione: dal Ministero dell’Ambiente 1, 3 milioni di euro per Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/fotovoltaico-al-gerbido-nuova-illuminazione-ministero-dellambiente-1-3-milioni",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "3a53332df683",
+      "titolo": "Tari 2026, tariffe invariate e aumento agevolazioni Isee fino al 50%",
+      "link": "https://www.comune.torino.it/novita/comunicati/tari-2026-tariffe-invariate-aumento-agevolazioni-isee-fino-al-50",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1d01b32fb623",
+      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-07-01T15:15:08+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "ce9a0063776f",
-      "titolo": "Da Fondazione Compagnia di San Paolo e Città di Torino una “primavera” di opportunità per bambine e bambini da 0 a 6 anni e famiglie",
-      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-citta-torino-una-primavera-opportunita-per",
-      "data": "2026-06-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
+      "id": "9375a9cd1fc4",
+      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-06-29T18:39:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
-      "id": "c450c0574092",
-      "titolo": "La Corte apre a Mirafiori Nord: un nuovo spazio per inclusione, formazione e autonomia delle persone con disabilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/corte-apre-mirafiori-nord-un-nuovo-spazio-per-inclusione-formazione-autonomia",
-      "data": "2026-06-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "07a6d45d77e5",
-      "titolo": "La \"Truffa si camuffa\" fa tappa al mercato di piazza Foroni",
-      "link": "https://www.comune.torino.it/novita/notizie/truffa-si-camuffa-fa-tappa-al-mercato-piazza-foroni",
-      "data": "2026-06-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d13efbbc2f68",
-      "titolo": "Internet senza paura, piccole regole per evitare le truffe",
-      "link": "https://www.comune.torino.it/novita/notizie/internet-senza-paura-piccole-regole-per-evitare-truffe",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "51289b9b2819",
-      "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
-      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
+      "id": "29be22b737ab",
+      "titolo": "Evitato il blocco dei diesel Euro 5 con nuove misure antismog",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/evitato-blocco-dei-diesel-euro-5-nuove-misure-antismog",
+      "data": "2026-06-29T00:54:02+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
       "id": "b9da87d3190c",
@@ -169,25 +283,157 @@
       "data": "2026-06-03T16:29:46+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    }
+  ],
+  "montagna": [
+    {
+      "id": "2aa44c382dd0",
+      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
+      "data": "2026-07-13T20:37:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
-      "id": "157673ead80d",
-      "titolo": "Avviso per la presentazione di progetti per la promozione ed il sostegno alle reti di solidarietà tra famiglie e all'affidamento familiare",
-      "link": "https://www.comune.torino.it/novita/avvisi/avviso-per-presentazione-progetti-per-promozione-sostegno-alle-reti-solidarieta",
-      "data": "2026-05-30T12:00:00+00:00",
+      "id": "a2dd1fe80c3d",
+      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
+      "data": "2026-07-03T11:16:38+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "75b1751579fe",
+      "titolo": "Per Regione e Soccorso alpino la sicurezza in montagna inizia prima di partire",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/per-regione-soccorso-alpino-sicurezza-montagna-inizia-prima-partire",
+      "data": "2026-07-02T10:04:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "448508eea84b",
+      "titolo": "Il futuro dell'area Westinghouse: le comunicazioni dell'assessore Mazzoleni e il dibattito in Sala Rossa",
+      "link": "https://www.comune.torino.it/novita/comunicati/futuro-dellarea-westinghouse-comunicazioni-dellassessore-mazzoleni-dibattito",
+      "data": "2026-06-22T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
     {
-      "id": "2acdb170b530",
-      "titolo": "Vesta 2026: i buoni assegnati a 20mila famiglie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vesta-2026-buoni-assegnati-20mila-famiglie",
-      "data": "2026-05-27T15:05:00+02:00",
+      "id": "84722aa8c196",
+      "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
+      "data": "2026-06-10T14:48:01+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "protezione-civile": [
+    {
+      "id": "2aa44c382dd0",
+      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
+      "data": "2026-07-13T20:37:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c4dab082403b",
+      "titolo": "La Regione al lavoro per iniziare il ripristino dei boschi bruciati dagli incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-al-lavoro-per-iniziare-ripristino-dei-boschi-bruciati-dagli-incendi",
+      "data": "2026-07-11T18:59:12+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1abd15f9bad9",
+      "titolo": "La Regione progetta il ripristino dei boschi bruciati dagli incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-progetta-ripristino-dei-boschi-bruciati-dagli-incendi",
+      "data": "2026-07-11T18:59:12+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "60ac2e021833",
+      "titolo": "Dall’8 luglio in Piemonte stato di massima pericolosità per incendi boschivi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dall8-luglio-piemonte-stato-massima-pericolosita-per-incendi-boschivi",
+      "data": "2026-07-06T18:45:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5d3a4f21a41e",
+      "titolo": "Missione del Corpo Aib del Piemonte in Francia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-corpo-aib-piemonte-francia",
+      "data": "2026-07-03T13:05:35+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d01b32fb623",
+      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-07-01T15:15:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9375a9cd1fc4",
+      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-06-29T18:39:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "26b2fc6fe506",
+      "titolo": "EXEPO 2026, esercitazione nazionale sul rischio alluvionale nel bacino del Po",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/exepo-2026-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
+      "data": "2026-06-27T15:34:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "267a6cd6562e",
+      "titolo": "Dal 25 al 27 giugno esercitazione nazionale sul rischio alluvionale nel bacino del Po",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-25-al-27-giugno-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
+      "data": "2026-06-24T11:34:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f1672de691e2",
+      "titolo": "La Regione riapre l’Osservatorio sull’emergenza idrica",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-riapre-losservatorio-sullemergenza-idrica",
+      "data": "2026-06-23T10:00:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d561a2a642e",
+      "titolo": "Quest’estate 14 campi scuola di Protezione civile",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/questestate-14-campi-scuola-protezione-civile",
+      "data": "2026-06-12T11:49:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9f656ddadb60",
+      "titolo": "Protezione Civile: il Piemonte potrà dichiarare in autonomia lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/protezione-civile-piemonte-potra-dichiarare-autonomia-stato-emergenza-regionale",
+      "data": "2026-06-10T11:06:33+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
   ],
   "cultura-beni-culturali": [
+    {
+      "id": "2aa44c382dd0",
+      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
+      "data": "2026-07-13T20:37:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "313f9cec9c70",
       "titolo": "Borgo Medievale, a fine luglio la conclusione dei lavori di restauro. Sopralluogo del Sindaco al cantiere",
@@ -299,30 +545,352 @@
       "data": "2026-05-30T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
+    }
+  ],
+  "sociale-welfare": [
     {
-      "id": "db6990538c53",
-      "titolo": "2 giugno, Torino festeggia l’80esimo anniversario della Repubblica con un programma speciale",
-      "link": "https://www.comune.torino.it/novita/comunicati/2-giugno-torino-festeggia-l80esimo-anniversario-della-repubblica-un-programma",
-      "data": "2026-05-28T12:00:00+00:00",
+      "id": "9310ad423661",
+      "titolo": "Ricordata l'assessora emerita Rosalba Molineri, introdusse l'affidamento familiare",
+      "link": "https://www.comune.torino.it/novita/comunicati/ricordata-lassessora-emerita-rosalba-molineri-introdusse-laffidamento-familiare",
+      "data": "2026-07-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
     {
-      "id": "60c3fff9efbd",
-      "titolo": "Sabato 30 maggio il concerto Kiss Kiss Way. Le modifiche viabili e i provvedimenti previsti",
-      "link": "https://www.comune.torino.it/novita/comunicati/sabato-30-maggio-concerto-kiss-kiss-way-modifiche-viabili-provvedimenti-previsti",
-      "data": "2026-05-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "043a188a7f41",
-      "titolo": "Il vino piemontese al Vinexpo Asia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-al-vinexpo-asia",
-      "data": "2026-05-28T11:19:09+02:00",
+      "id": "8e9e2bee14bc",
+      "titolo": "Lea 2024, il Piemonte al 4° posto nazionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lea-2024-piemonte-al-4deg-posto-nazionale",
+      "data": "2026-07-13T09:07:06+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    },
+    {
+      "id": "d09a7df0cbcd",
+      "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "08b7988f5981",
+      "titolo": "I nuovi criteri dei voucher scuola: più famiglie raggiunte, sostegno rafforzato al diritto allo studio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-criteri-dei-voucher-scuola-piu-famiglie-raggiunte-sostegno-rafforzato-al-diritto-allo-studio",
+      "data": "2026-06-18T16:02:10+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ce9a0063776f",
+      "titolo": "Da Fondazione Compagnia di San Paolo e Città di Torino una “primavera” di opportunità per bambine e bambini da 0 a 6 anni e famiglie",
+      "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-citta-torino-una-primavera-opportunita-per",
+      "data": "2026-06-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c450c0574092",
+      "titolo": "La Corte apre a Mirafiori Nord: un nuovo spazio per inclusione, formazione e autonomia delle persone con disabilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/corte-apre-mirafiori-nord-un-nuovo-spazio-per-inclusione-formazione-autonomia",
+      "data": "2026-06-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "07a6d45d77e5",
+      "titolo": "La \"Truffa si camuffa\" fa tappa al mercato di piazza Foroni",
+      "link": "https://www.comune.torino.it/novita/notizie/truffa-si-camuffa-fa-tappa-al-mercato-piazza-foroni",
+      "data": "2026-06-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d13efbbc2f68",
+      "titolo": "Internet senza paura, piccole regole per evitare le truffe",
+      "link": "https://www.comune.torino.it/novita/notizie/internet-senza-paura-piccole-regole-per-evitare-truffe",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "51289b9b2819",
+      "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b9da87d3190c",
+      "titolo": "Contributi al Terzo settore per prevenire la produzione dei rifiuti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-al-terzo-settore-per-prevenire-produzione-dei-rifiuti",
+      "data": "2026-06-03T16:29:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "157673ead80d",
+      "titolo": "Avviso per la presentazione di progetti per la promozione ed il sostegno alle reti di solidarietà tra famiglie e all'affidamento familiare",
+      "link": "https://www.comune.torino.it/novita/avvisi/avviso-per-presentazione-progetti-per-promozione-sostegno-alle-reti-solidarieta",
+      "data": "2026-05-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "energia": [
+    {
+      "id": "b59a477712c3",
+      "titolo": "Dalla Sala Rossa la richiesta a Iren di confermare i bonus energetici",
+      "link": "https://www.comune.torino.it/novita/comunicati/dalla-sala-rossa-richiesta-iren-confermare-bonus-energetici",
+      "data": "2026-07-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8557dfbb9395",
+      "titolo": "Riflessioni politico-culturali e appuntamenti sportivi e gastronomici",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/riflessioni-politico-culturali-appuntamenti-sportivi-gastronomici",
+      "data": "2026-07-08T10:52:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d09a7df0cbcd",
+      "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a387da5850d7",
+      "titolo": "Fotovoltaico al Gerbido e nuova illuminazione: dal Ministero dell’Ambiente 1, 3 milioni di euro per Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/fotovoltaico-al-gerbido-nuova-illuminazione-ministero-dellambiente-1-3-milioni",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8a0d8ca4952f",
+      "titolo": "Efficientamento energetico su immobili comunali, approvati lavori per quasi 4 milioni di euro in cinque scuole",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-immobili-comunali-approvati-lavori-per-quasi-4",
+      "data": "2026-06-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ada31d0ada4e",
+      "titolo": "EfficienTO: nuovi lavori per 6,2 mln di euro. Maxi restyling energetico per la Piscina Monumentale",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficiento-nuovi-lavori-per-62-mln-euro-maxi-restyling-energetico-per-piscina",
+      "data": "2026-06-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "trasparenza": [
+    {
+      "id": "483b4c6dbd03",
+      "titolo": "Il Consiglio comunale chiede maggiore trasparenza sull'origine dei prodotti agricoli",
+      "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-chiede-maggiore-trasparenza-sullorigine-dei-prodotti-agricoli",
+      "data": "2026-07-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "istruzione-formazione": [
+    {
+      "id": "ccc46530450b",
+      "titolo": "La Sala Rossa chiede l’intitolazione di una scuola a Fiorenzo Alfieri",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-chiede-lintitolazione-una-scuola-fiorenzo-alfieri",
+      "data": "2026-07-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f431f46fded7",
+      "titolo": "Il Piemonte primo in Italia negli ITS Academy",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-primo-italia-negli-its-academy",
+      "data": "2026-07-06T10:47:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f1b388ec610b",
+      "titolo": "Voucher scuola: le domande dal 25 giugno al 16 luglio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-domande-dal-25-giugno-al-16-luglio",
+      "data": "2026-06-23T15:44:07+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8a0d8ca4952f",
+      "titolo": "Efficientamento energetico su immobili comunali, approvati lavori per quasi 4 milioni di euro in cinque scuole",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-immobili-comunali-approvati-lavori-per-quasi-4",
+      "data": "2026-06-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "08b7988f5981",
+      "titolo": "I nuovi criteri dei voucher scuola: più famiglie raggiunte, sostegno rafforzato al diritto allo studio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-criteri-dei-voucher-scuola-piu-famiglie-raggiunte-sostegno-rafforzato-al-diritto-allo-studio",
+      "data": "2026-06-18T16:02:10+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d561a2a642e",
+      "titolo": "Quest’estate 14 campi scuola di Protezione civile",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/questestate-14-campi-scuola-protezione-civile",
+      "data": "2026-06-12T11:49:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a7cb14e69890",
+      "titolo": "Taglio del nastro per il nuovo salone Ex Safov della Scuola dell'Infanzia Gianni Rodari",
+      "link": "https://www.comune.torino.it/novita/comunicati/taglio-nastro-per-nuovo-salone-ex-safov-della-scuola-dellinfanzia-gianni-rodari",
+      "data": "2026-06-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0b5dac8a9366",
+      "titolo": "Il Ballo in Bianco. Domani a Torino, per la prima volta, la più grande lezione alla sbarra en plein air del mondo",
+      "link": "https://www.comune.torino.it/novita/comunicati/ballo-bianco-domani-torino-per-prima-volta-piu-grande-lezione-alla-sbarra-en",
+      "data": "2026-06-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4f4c879984ef",
+      "titolo": "Furto in una scuola dell’infanzia, Polizia Locale indaga e denuncia un 50enne",
+      "link": "https://www.comune.torino.it/novita/comunicati/furto-una-scuola-dellinfanzia-polizia-locale-indaga-denuncia-un-50enne",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c424369f388b",
+      "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
+      "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
+      "data": "2026-06-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "99a50fa84bc0",
+      "titolo": "EfficienTO: quasi 1 milione di euro per l’efficienza energetica di due scuole cittadine",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficiento-quasi-1-milione-euro-per-lefficienza-energetica-due-scuole-cittadine",
+      "data": "2026-06-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "76c6c244c188",
+      "titolo": "Inaugurati oggi i rinnovati spazi di nido e scuola per l'infanzia \"Giancarlo Perempruner\" di via Tronzano",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurati-oggi-rinnovati-spazi-nido-scuola-per-linfanzia-giancarlo-perempruner",
+      "data": "2026-06-03T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "sport": [
+    {
+      "id": "10f75de44e3f",
+      "titolo": "La Città aderisca alla Carta etica dello sport",
+      "link": "https://www.comune.torino.it/novita/comunicati/citta-aderisca-alla-carta-etica-dello-sport",
+      "data": "2026-07-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8ed916116ed6",
+      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
+      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8557dfbb9395",
+      "titolo": "Riflessioni politico-culturali e appuntamenti sportivi e gastronomici",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/riflessioni-politico-culturali-appuntamenti-sportivi-gastronomici",
+      "data": "2026-07-08T10:52:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c46ff3a0aacd",
+      "titolo": "Scalo Nizza, con le opere di urbanizzazione il via a impianti sportivi, piazza, percorsi pedonali e ciclabili e aree verdi",
+      "link": "https://www.comune.torino.it/novita/comunicati/scalo-nizza-opere-urbanizzazione-via-impianti-sportivi-piazza-percorsi-pedonali",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1ff8a0050b09",
+      "titolo": "JAB, il 9 luglio la presentazione del progetto tra arte, sport e musica per la ricostruzione diun’identità plurale tra Aurora e Barriera",
+      "link": "https://www.comune.torino.it/novita/comunicati/jab-9-luglio-presentazione-progetto-arte-sport-musica-per-ricostruzione",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8de70b13eb47",
+      "titolo": "Bus più veloci e frequenti: Torino si candida a un programma nazionale da 13,7 milioni per il trasporto pubblico",
+      "link": "https://www.comune.torino.it/novita/comunicati/bus-piu-veloci-frequenti-torino-si-candida-un-programma-nazionale-137-milioni",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4fce73336b89",
+      "titolo": "Inaugurato uno dei nuovi poli per l’occupabilità. Otto sportelli per aiutare cittadini in cerca",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-uno-dei-nuovi-poli-per-loccupabilita-otto-sportelli-per-aiutare",
+      "data": "2026-06-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6f49064393c1",
+      "titolo": "A Luigi Tosini il campo sportivo che contribuì a fare nascere",
+      "link": "https://www.comune.torino.it/novita/comunicati/luigi-tosini-campo-sportivo-che-contribui-fare-nascere",
+      "data": "2026-06-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f62e16a9adc7",
+      "titolo": "Torino e GTT al fianco di Kharkiv: completata la prima fase del progetto di solidarietà con la consegna di 40 autobus",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-gtt-al-fianco-kharkiv-completata-prima-fase-progetto-solidarieta-consegna",
+      "data": "2026-06-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c68a56cf9a40",
+      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
+      "data": "2026-06-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4a7e2479d523",
+      "titolo": "Meisino, la Città avvia il confronto con CONI Piemonte per la gestione del nuovo Centro per l'Educazione Sportiva e Ambientale",
+      "link": "https://www.comune.torino.it/novita/comunicati/meisino-citta-avvia-confronto-coni-piemonte-per-gestione-nuovo-centro-per",
+      "data": "2026-06-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d3b6cba112c7",
+      "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
+      "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
+      "data": "2026-06-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     }
   ],
   "sanita-regionale": [
@@ -413,88 +981,6 @@
       "data": "2026-06-11T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "protezione-civile": [
-    {
-      "id": "c4dab082403b",
-      "titolo": "La Regione al lavoro per iniziare il ripristino dei boschi bruciati dagli incendi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-al-lavoro-per-iniziare-ripristino-dei-boschi-bruciati-dagli-incendi",
-      "data": "2026-07-11T18:59:12+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "60ac2e021833",
-      "titolo": "Dall’8 luglio in Piemonte stato di massima pericolosità per incendi boschivi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dall8-luglio-piemonte-stato-massima-pericolosita-per-incendi-boschivi",
-      "data": "2026-07-06T18:45:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5d3a4f21a41e",
-      "titolo": "Missione del Corpo Aib del Piemonte in Francia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-corpo-aib-piemonte-francia",
-      "data": "2026-07-03T13:05:35+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9375a9cd1fc4",
-      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-06-29T18:39:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "26b2fc6fe506",
-      "titolo": "EXEPO 2026, esercitazione nazionale sul rischio alluvionale nel bacino del Po",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/exepo-2026-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
-      "data": "2026-06-27T15:34:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "267a6cd6562e",
-      "titolo": "Dal 25 al 27 giugno esercitazione nazionale sul rischio alluvionale nel bacino del Po",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-25-al-27-giugno-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
-      "data": "2026-06-24T11:34:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f1672de691e2",
-      "titolo": "La Regione riapre l’Osservatorio sull’emergenza idrica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-riapre-losservatorio-sullemergenza-idrica",
-      "data": "2026-06-23T10:00:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d561a2a642e",
-      "titolo": "Quest’estate 14 campi scuola di Protezione civile",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/questestate-14-campi-scuola-protezione-civile",
-      "data": "2026-06-12T11:49:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9f656ddadb60",
-      "titolo": "Protezione Civile: il Piemonte potrà dichiarare in autonomia lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/protezione-civile-piemonte-potra-dichiarare-autonomia-stato-emergenza-regionale",
-      "data": "2026-06-10T11:06:33+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "edilizia-opere-pubbliche": [
@@ -627,14 +1113,6 @@
       "data": "2026-06-11T18:37:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "173f69b006b3",
-      "titolo": "Servizio di affilatura lame pattini da ghiaccio in dotazione al Palazzo del Ghiaccio Tazzoli - Via Sanremo, 67 - Torino",
-      "link": "https://www.comune.torino.it/novita/avvisi/servizio-affilatura-lame-pattini-ghiaccio-dotazione-al-palazzo-ghiaccio-tazzoli",
-      "data": "2026-05-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "turismo": [
@@ -667,120 +1145,6 @@
       "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
       "data": "2026-06-11T18:37:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "agricoltura": [
-    {
-      "id": "62077d2bb730",
-      "titolo": "Dalla materia di scarto al valore condiviso: al via il nuovo Living Lab Torino Circolare",
-      "link": "https://www.comune.torino.it/novita/comunicati/dalla-materia-scarto-al-valore-condiviso-al-via-nuovo-living-lab-torino",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e4a6a8e351dc",
-      "titolo": "Luci e ombre per il vino piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/luci-ombre-per-vino-piemontese",
-      "data": "2026-07-08T15:15:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a77b7d3c3478",
-      "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
-      "data": "2026-07-07T18:41:23+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d92120ef4ef",
-      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
-      "data": "2026-07-06T09:52:31+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "ca7e11d1ef77",
-      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
-      "data": "2026-07-03T15:55:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d50a16d8eaee",
-      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi del Pnrr",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi-pnrr",
-      "data": "2026-07-03T15:55:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0c9d72d8030b",
-      "titolo": "Il bando 2026 per il credito in agricoltura",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
-      "data": "2026-07-02T12:05:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e76a6db8b16c",
-      "titolo": "Il “Semplifica Piemonte” è legge: riforma per una Regione più semplice, accessibile e capace di dare risposte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-legge-riforma-per-una-regione-piu-semplice-accessibile-capace-dare-risposte",
-      "data": "2026-06-30T17:50:15+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9375a9cd1fc4",
-      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-06-29T18:39:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f1672de691e2",
-      "titolo": "La Regione riapre l’Osservatorio sull’emergenza idrica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-riapre-losservatorio-sullemergenza-idrica",
-      "data": "2026-06-23T10:00:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "324099fb7f78",
-      "titolo": "Da Alcotra più risorse per i territori di confine con la Francia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-piu-risorse-per-territori-confine-francia",
-      "data": "2026-06-12T10:40:23+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "20867350de58",
-      "titolo": "Quasi 23 milioni per le nuove aree interne Valsesia e Terre del Giarolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/quasi-23-milioni-per-nuove-aree-interne-valsesia-terre-giarolo",
-      "data": "2026-06-09T14:00:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "043a188a7f41",
-      "titolo": "Il vino piemontese al Vinexpo Asia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-al-vinexpo-asia",
-      "data": "2026-05-28T11:19:09+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -917,104 +1281,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "sport": [
-    {
-      "id": "8ed916116ed6",
-      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
-      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8557dfbb9395",
-      "titolo": "Riflessioni politico-culturali e appuntamenti sportivi e gastronomici",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/riflessioni-politico-culturali-appuntamenti-sportivi-gastronomici",
-      "data": "2026-07-08T10:52:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c46ff3a0aacd",
-      "titolo": "Scalo Nizza, con le opere di urbanizzazione il via a impianti sportivi, piazza, percorsi pedonali e ciclabili e aree verdi",
-      "link": "https://www.comune.torino.it/novita/comunicati/scalo-nizza-opere-urbanizzazione-via-impianti-sportivi-piazza-percorsi-pedonali",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1ff8a0050b09",
-      "titolo": "JAB, il 9 luglio la presentazione del progetto tra arte, sport e musica per la ricostruzione diun’identità plurale tra Aurora e Barriera",
-      "link": "https://www.comune.torino.it/novita/comunicati/jab-9-luglio-presentazione-progetto-arte-sport-musica-per-ricostruzione",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8de70b13eb47",
-      "titolo": "Bus più veloci e frequenti: Torino si candida a un programma nazionale da 13,7 milioni per il trasporto pubblico",
-      "link": "https://www.comune.torino.it/novita/comunicati/bus-piu-veloci-frequenti-torino-si-candida-un-programma-nazionale-137-milioni",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4fce73336b89",
-      "titolo": "Inaugurato uno dei nuovi poli per l’occupabilità. Otto sportelli per aiutare cittadini in cerca",
-      "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-uno-dei-nuovi-poli-per-loccupabilita-otto-sportelli-per-aiutare",
-      "data": "2026-06-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6f49064393c1",
-      "titolo": "A Luigi Tosini il campo sportivo che contribuì a fare nascere",
-      "link": "https://www.comune.torino.it/novita/comunicati/luigi-tosini-campo-sportivo-che-contribui-fare-nascere",
-      "data": "2026-06-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f62e16a9adc7",
-      "titolo": "Torino e GTT al fianco di Kharkiv: completata la prima fase del progetto di solidarietà con la consegna di 40 autobus",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-gtt-al-fianco-kharkiv-completata-prima-fase-progetto-solidarieta-consegna",
-      "data": "2026-06-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c68a56cf9a40",
-      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
-      "data": "2026-06-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4a7e2479d523",
-      "titolo": "Meisino, la Città avvia il confronto con CONI Piemonte per la gestione del nuovo Centro per l'Educazione Sportiva e Ambientale",
-      "link": "https://www.comune.torino.it/novita/comunicati/meisino-citta-avvia-confronto-coni-piemonte-per-gestione-nuovo-centro-per",
-      "data": "2026-06-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d3b6cba112c7",
-      "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
-      "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6c1a698227a4",
-      "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
-      "link": "https://www.comune.torino.it/novita/notizie/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
-      "data": "2026-05-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "commercio-artigianato": [
     {
       "id": "e4a6a8e351dc",
@@ -1055,106 +1321,6 @@
       "data": "2026-06-10T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "energia": [
-    {
-      "id": "8557dfbb9395",
-      "titolo": "Riflessioni politico-culturali e appuntamenti sportivi e gastronomici",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/riflessioni-politico-culturali-appuntamenti-sportivi-gastronomici",
-      "data": "2026-07-08T10:52:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d09a7df0cbcd",
-      "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a387da5850d7",
-      "titolo": "Fotovoltaico al Gerbido e nuova illuminazione: dal Ministero dell’Ambiente 1, 3 milioni di euro per Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/fotovoltaico-al-gerbido-nuova-illuminazione-ministero-dellambiente-1-3-milioni",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8a0d8ca4952f",
-      "titolo": "Efficientamento energetico su immobili comunali, approvati lavori per quasi 4 milioni di euro in cinque scuole",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-immobili-comunali-approvati-lavori-per-quasi-4",
-      "data": "2026-06-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ada31d0ada4e",
-      "titolo": "EfficienTO: nuovi lavori per 6,2 mln di euro. Maxi restyling energetico per la Piscina Monumentale",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficiento-nuovi-lavori-per-62-mln-euro-maxi-restyling-energetico-per-piscina",
-      "data": "2026-06-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "ambiente-qualita-aria": [
-    {
-      "id": "d09a7df0cbcd",
-      "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a387da5850d7",
-      "titolo": "Fotovoltaico al Gerbido e nuova illuminazione: dal Ministero dell’Ambiente 1, 3 milioni di euro per Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/fotovoltaico-al-gerbido-nuova-illuminazione-ministero-dellambiente-1-3-milioni",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "3a53332df683",
-      "titolo": "Tari 2026, tariffe invariate e aumento agevolazioni Isee fino al 50%",
-      "link": "https://www.comune.torino.it/novita/comunicati/tari-2026-tariffe-invariate-aumento-agevolazioni-isee-fino-al-50",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9375a9cd1fc4",
-      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-06-29T18:39:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "29be22b737ab",
-      "titolo": "Evitato il blocco dei diesel Euro 5 con nuove misure antismog",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/evitato-blocco-dei-diesel-euro-5-nuove-misure-antismog",
-      "data": "2026-06-29T00:54:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b9da87d3190c",
-      "titolo": "Contributi al Terzo settore per prevenire la produzione dei rifiuti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-al-terzo-settore-per-prevenire-produzione-dei-rifiuti",
-      "data": "2026-06-03T16:29:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "crisi-automotive": [
@@ -1241,96 +1407,6 @@
       "fonte_id": "regione"
     }
   ],
-  "istruzione-formazione": [
-    {
-      "id": "f431f46fded7",
-      "titolo": "Il Piemonte primo in Italia negli ITS Academy",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-primo-italia-negli-its-academy",
-      "data": "2026-07-06T10:47:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f1b388ec610b",
-      "titolo": "Voucher scuola: le domande dal 25 giugno al 16 luglio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-domande-dal-25-giugno-al-16-luglio",
-      "data": "2026-06-23T15:44:07+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8a0d8ca4952f",
-      "titolo": "Efficientamento energetico su immobili comunali, approvati lavori per quasi 4 milioni di euro in cinque scuole",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-immobili-comunali-approvati-lavori-per-quasi-4",
-      "data": "2026-06-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "08b7988f5981",
-      "titolo": "I nuovi criteri dei voucher scuola: più famiglie raggiunte, sostegno rafforzato al diritto allo studio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-criteri-dei-voucher-scuola-piu-famiglie-raggiunte-sostegno-rafforzato-al-diritto-allo-studio",
-      "data": "2026-06-18T16:02:10+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d561a2a642e",
-      "titolo": "Quest’estate 14 campi scuola di Protezione civile",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/questestate-14-campi-scuola-protezione-civile",
-      "data": "2026-06-12T11:49:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a7cb14e69890",
-      "titolo": "Taglio del nastro per il nuovo salone Ex Safov della Scuola dell'Infanzia Gianni Rodari",
-      "link": "https://www.comune.torino.it/novita/comunicati/taglio-nastro-per-nuovo-salone-ex-safov-della-scuola-dellinfanzia-gianni-rodari",
-      "data": "2026-06-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0b5dac8a9366",
-      "titolo": "Il Ballo in Bianco. Domani a Torino, per la prima volta, la più grande lezione alla sbarra en plein air del mondo",
-      "link": "https://www.comune.torino.it/novita/comunicati/ballo-bianco-domani-torino-per-prima-volta-piu-grande-lezione-alla-sbarra-en",
-      "data": "2026-06-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4f4c879984ef",
-      "titolo": "Furto in una scuola dell’infanzia, Polizia Locale indaga e denuncia un 50enne",
-      "link": "https://www.comune.torino.it/novita/comunicati/furto-una-scuola-dellinfanzia-polizia-locale-indaga-denuncia-un-50enne",
-      "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c424369f388b",
-      "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
-      "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
-      "data": "2026-06-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "99a50fa84bc0",
-      "titolo": "EfficienTO: quasi 1 milione di euro per l’efficienza energetica di due scuole cittadine",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficiento-quasi-1-milione-euro-per-lefficienza-energetica-due-scuole-cittadine",
-      "data": "2026-06-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "76c6c244c188",
-      "titolo": "Inaugurati oggi i rinnovati spazi di nido e scuola per l'infanzia \"Giancarlo Perempruner\" di via Tronzano",
-      "link": "https://www.comune.torino.it/novita/comunicati/inaugurati-oggi-rinnovati-spazi-nido-scuola-per-linfanzia-giancarlo-perempruner",
-      "data": "2026-06-03T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "pari-opportunita": [
     {
       "id": "1d92120ef4ef",
@@ -1413,40 +1489,6 @@
       "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
       "data": "2026-06-15T16:40:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "montagna": [
-    {
-      "id": "a2dd1fe80c3d",
-      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
-      "data": "2026-07-03T11:16:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "75b1751579fe",
-      "titolo": "Per Regione e Soccorso alpino la sicurezza in montagna inizia prima di partire",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/per-regione-soccorso-alpino-sicurezza-montagna-inizia-prima-partire",
-      "data": "2026-07-02T10:04:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "448508eea84b",
-      "titolo": "Il futuro dell'area Westinghouse: le comunicazioni dell'assessore Mazzoleni e il dibattito in Sala Rossa",
-      "link": "https://www.comune.torino.it/novita/comunicati/futuro-dellarea-westinghouse-comunicazioni-dellassessore-mazzoleni-dibattito",
-      "data": "2026-06-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "84722aa8c196",
-      "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
-      "data": "2026-06-10T14:48:01+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -1539,16 +1581,6 @@
       "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
       "data": "2026-06-15T16:40:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "autonomia-differenziata": [
-    {
-      "id": "2e419603d284",
-      "titolo": "Audizione in Parlamento sull’Autonomia differenziata",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/audizione-parlamento-sullautonomia-differenziata",
-      "data": "2026-05-27T16:41:28+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }

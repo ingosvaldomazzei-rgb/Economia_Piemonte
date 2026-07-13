@@ -1,5 +1,15 @@
 [
   {
+    "id": "2aa44c382dd0",
+    "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
+    "descrizione": "Riunione nel Grattacielo Piemonte del Tavolo per l’emergenza idrica, al quale hanno partecipato il presidente della Regione Alberto Cirio, gli assessori all’Agricoltura Paolo Bongioanni, alla Montagna Marco Gallo e all’Ambiente Matteo…",
+    "data": "2026-07-13T20:37:57+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "ff76bcf3c9c8",
     "titolo": "Referendum consultivi, a Torino potranno votare i 16enni",
     "link": "https://www.comune.torino.it/novita/comunicati/referendum-consultivi-torino-potranno-votare-16enni",
@@ -30,6 +40,86 @@
     "colore": "#dc2626"
   },
   {
+    "id": "2c4828207f05",
+    "titolo": "Carburanti e crisi dei gestori",
+    "link": "https://www.comune.torino.it/novita/comunicati/carburanti-crisi-dei-gestori",
+    "descrizione": "La riforma del settore della distribuzione carburanti è il tema di un ordine del giorno approvato dalla Sala Rossa, questo pomeriggio...",
+    "data": "2026-07-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b59a477712c3",
+    "titolo": "Dalla Sala Rossa la richiesta a Iren di confermare i bonus energetici",
+    "link": "https://www.comune.torino.it/novita/comunicati/dalla-sala-rossa-richiesta-iren-confermare-bonus-energetici",
+    "descrizione": "Un documento votato dal Consiglio comunale chiede che Iren SpA rinnovi i bonus energetici applicati per alcune fasce escluse dal Decreto Bollette",
+    "data": "2026-07-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "483b4c6dbd03",
+    "titolo": "Il Consiglio comunale chiede maggiore trasparenza sull'origine dei prodotti agricoli",
+    "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-chiede-maggiore-trasparenza-sullorigine-dei-prodotti-agricoli",
+    "descrizione": "Il Consiglio comunale ha approvato un ordine del giorno che impegna la Giunta ad attivarsi sulla trasparenza dell'origine dei prodotti agricoli",
+    "data": "2026-07-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ccc46530450b",
+    "titolo": "La Sala Rossa chiede l’intitolazione di una scuola a Fiorenzo Alfieri",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-chiede-lintitolazione-una-scuola-fiorenzo-alfieri",
+    "descrizione": "Approva all'unanimità la mozione proposta da Angelo Catanzaro e Lorenza Patriarca (PD)",
+    "data": "2026-07-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "10f75de44e3f",
+    "titolo": "La Città aderisca alla Carta etica dello sport",
+    "link": "https://www.comune.torino.it/novita/comunicati/citta-aderisca-alla-carta-etica-dello-sport",
+    "descrizione": "La nuova Carta etica dello Sport, promossa dall’associazione omonima, ricalibrata sulle nuove tematiche emergenti nel mondo sportivo locale e nazionale...",
+    "data": "2026-07-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "2da4693120ae",
+    "titolo": "Per la tutela dei diritti dei rider",
+    "link": "https://www.comune.torino.it/novita/comunicati/per-tutela-dei-diritti-dei-rider",
+    "descrizione": "Il Consiglio comunale ha approvato due atti di indirizzo per la tutela dei diritti dei rider.",
+    "data": "2026-07-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "becf831a9bdd",
+    "titolo": "Due mozioni per la casa approvate in Sala Rossa",
+    "link": "https://www.comune.torino.it/novita/comunicati/due-mozioni-per-casa-approvate-sala-rossa",
+    "descrizione": "Entrambe fanno riferimento al recente decreto legge n. 66/2026, recante disposizioni urgenti in materia di politiche abitative, il cosiddetto “Piano Casa”...",
+    "data": "2026-07-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d665d8e8241e",
+    "titolo": "L'impegno del Comune contro le frodi digitali",
+    "link": "https://www.comune.torino.it/novita/comunicati/limpegno-comune-contro-frodi-digitali",
+    "descrizione": "La Sala Rossa ha approvato oggi, con voto unanime, un documento che individua le linee guida dell'azione del Comune per contrastare le frodi digitali",
+    "data": "2026-07-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "8e9e2bee14bc",
     "titolo": "Lea 2024, il Piemonte al 4° posto nazionale",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lea-2024-piemonte-al-4deg-posto-nazionale",
@@ -43,6 +133,16 @@
     "id": "c4dab082403b",
     "titolo": "La Regione al lavoro per iniziare il ripristino dei boschi bruciati dagli incendi",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-al-lavoro-per-iniziare-ripristino-dei-boschi-bruciati-dagli-incendi",
+    "descrizione": "Passata per fortuna l’emergenza provocata dagli incendi che si sono sviluppati nei giorni scorsi in diverse zone del Piemonte, la Regione è già al lavoro per attivare i piani di ripristino ambientale dei boschi bruciati dalle fiamme. \"Ci si occuperà immediatamente dei…",
+    "data": "2026-07-11T18:59:12+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "1abd15f9bad9",
+    "titolo": "La Regione progetta il ripristino dei boschi bruciati dagli incendi",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-progetta-ripristino-dei-boschi-bruciati-dagli-incendi",
     "descrizione": "Passata per fortuna l’emergenza provocata dagli incendi che si sono sviluppati nei giorni scorsi in diverse zone del Piemonte, la Regione è già al lavoro per attivare i piani di ripristino ambientale dei boschi bruciati dalle fiamme. \"Ci si occuperà immediatamente dei…",
     "data": "2026-07-11T18:59:12+02:00",
     "fonte": "Regione Piemonte",
@@ -1898,105 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "b7e2a21c8dd5",
-    "titolo": "Torino ricorda la tragedia dell'Heysel con una commemorazione e un monumento dedicato alle vittime",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-ricorda-tragedia-dellheysel-una-commemorazione-un-monumento-dedicato-alle",
-    "descrizione": "Torino ha reso omaggio alle vittime con una serie di iniziative, a 41 anni dalla drammatica finale di Coppa dei Campioni 1985 tra Juventus e Liverpool",
-    "data": "2026-05-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "136662ae2faa",
-    "titolo": "Nuovi spazi e servizi in Barriera di Milano con la riqualificazione del circolo Anatra Zoppa",
-    "link": "https://www.comune.torino.it/novita/comunicati/nuovi-spazi-servizi-barriera-milano-riqualificazione-circolo-anatra-zoppa",
-    "descrizione": "Terminati i lavori di riqualificazione, l’Anatra Zoppa di via Courmayeur 5 torna a vivere come Community Hub aperto.",
-    "data": "2026-05-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "173f69b006b3",
-    "titolo": "Servizio di affilatura lame pattini da ghiaccio in dotazione al Palazzo del Ghiaccio Tazzoli - Via Sanremo, 67 - Torino",
-    "link": "https://www.comune.torino.it/novita/avvisi/servizio-affilatura-lame-pattini-ghiaccio-dotazione-al-palazzo-ghiaccio-tazzoli",
-    "descrizione": "Indagine esplorativa di mercato finalizzata alla ricerca di operatori economici interessati ad effettuare il servizio di affilatura lame pattini da ghiaccio.",
-    "data": "2026-05-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "db6990538c53",
-    "titolo": "2 giugno, Torino festeggia l’80esimo anniversario della Repubblica con un programma speciale",
-    "link": "https://www.comune.torino.it/novita/comunicati/2-giugno-torino-festeggia-l80esimo-anniversario-della-repubblica-un-programma",
-    "descrizione": "Martedì 2 giugno la Città di Torino celebrerà l’80° anniversario da quel 2 giugno 1946.",
-    "data": "2026-05-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6c1a698227a4",
-    "titolo": "Bandiera Azzurra 2026, la Città di Torino premiata per il suo impegno nel promuovere lo sport sostenibile, accessibile e inclusivo",
-    "link": "https://www.comune.torino.it/novita/notizie/bandiera-azzurra-2026-citta-torino-premiata-per-suo-impegno-nel-promuovere-sport",
-    "descrizione": "Torino è tra le tredici città italiane insignite della “Bandiera Azzurra 2026”.",
-    "data": "2026-05-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "60c3fff9efbd",
-    "titolo": "Sabato 30 maggio il concerto Kiss Kiss Way. Le modifiche viabili e i provvedimenti previsti",
-    "link": "https://www.comune.torino.it/novita/comunicati/sabato-30-maggio-concerto-kiss-kiss-way-modifiche-viabili-provvedimenti-previsti",
-    "descrizione": "In piazza Castello sabato 30 maggio si terrà lo spettacolo musicale “Kiss Kiss Way”.",
-    "data": "2026-05-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "043a188a7f41",
-    "titolo": "Il vino piemontese al Vinexpo Asia",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vino-piemontese-al-vinexpo-asia",
-    "descrizione": "Il Piemonte del vino è stato protagonista a Hong Kong all’edizione 2026 di Vinexpo Asia: 35 produttori hanno partecipato dal 26 al 28 maggio presso l’Hong Kong Convention and Exhibition Centre alla fiera di punta per l’industria del vino e degli…",
-    "data": "2026-05-28T11:19:09+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "2e419603d284",
-    "titolo": "Audizione in Parlamento sull’Autonomia differenziata",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/audizione-parlamento-sullautonomia-differenziata",
-    "descrizione": "Il presidente Alberto Cirio è intervenuto in audizione plenaria davanti alle Commissioni Affari Costituzionali di Camera e Senato, riunite presso il Senato della Repubblica, nell’ambito dell’esame degli schemi di intesa preliminari tra Governo e Regioni sull'…",
-    "data": "2026-05-27T16:41:28+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "0b7e90fb1ab2",
-    "titolo": "In Piemonte la Nuova Piattaforma della Danza Italiana 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-nuova-piattaforma-della-danza-italiana-2026",
-    "descrizione": "La decima edizione della Nuova Piattaforma della Danza Italiana (NID Platform), in programma dall’1 al 4 settembre, avrà il Piemonte come protagonista: saranno Collegno, Moncalieri, Torino e…",
-    "data": "2026-05-27T15:52:06+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "2acdb170b530",
-    "titolo": "Vesta 2026: i buoni assegnati a 20mila famiglie",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vesta-2026-buoni-assegnati-20mila-famiglie",
-    "descrizione": "Vesta 2026 ha centrato l'obiettivo: sostegno al ceto medio e ai cittadini italiani. Nel presentare i dati delle assegnazioni, il vicepresidente e assessore alle Famiglie della Regione Piemonte Maurizio Marrone puntualizza…",
-    "data": "2026-05-27T15:05:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
