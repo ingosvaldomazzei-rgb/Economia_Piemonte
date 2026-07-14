@@ -1,5 +1,15 @@
 [
   {
+    "id": "8d198ad09c57",
+    "titolo": "Da domani una via per don Aldo Rabino",
+    "link": "https://www.comune.torino.it/novita/comunicati/domani-una-via-per-don-aldo-rabino",
+    "descrizione": "Domani, mercoledì 15 luglio, alle ore 10, si svolgerà la cerimonia di intitolazione a don Aldo Rabino, della via d’accesso al Centro sportivo “Robaldo”...",
+    "data": "2026-07-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "2aa44c382dd0",
     "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
@@ -1984,16 +1994,6 @@
     "titolo": "Sciopero 29 maggio 2026",
     "link": "https://www.comune.torino.it/novita/avvisi/sciopero-29-maggio-2026",
     "descrizione": "Sciopero nazionale di tutte le categorie pubbliche e private",
-    "data": "2026-05-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7d78be5e1f7f",
-    "titolo": "KAPPA FUTURFESTIVAL (03-04-05 LUGLIO 2026) - RILASCIO CONCESSIONI OCCUPAZIONE TEMPORANEA DEL SUOLO PUBBLICO PER ATTIVITÀ DI VENDITA DI PRODOTTI ALIMENTARI",
-    "link": "https://www.comune.torino.it/novita/notizie/kappa-futurfestival-03-04-05-luglio-2026-rilascio-concessioni-occupazione",
-    "descrizione": "Le istanze dovranno pervenire entro e non oltre giovedì 18 giugno 2026 e dovranno essere presentate esclusivamente tramite il Portale Impresainungiorno.",
     "data": "2026-05-29T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
