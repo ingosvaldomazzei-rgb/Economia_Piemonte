@@ -1,9 +1,59 @@
 [
   {
+    "id": "10f37a1e5fca",
+    "titolo": "Beni confiscati: accordo per rafforzare la lotta contro le mafie",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/beni-confiscati-accordo-per-rafforzare-lotta-contro-mafie",
+    "descrizione": "Sottoscritto al Viminale, alla presenza del ministro dell’Interno Matteo Piantedosi e del sottosegretario Wanda Ferro, un accordo tra Regione Piemonte e Agenzia nazionale per l’Amministrazione e la Destinazione dei Beni sequestrati e confiscati alla criminalità organizzata (Anbsc) …",
+    "data": "2026-07-14T18:52:10+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "52a97a22a095",
+    "titolo": "Torino-Lione: disponibili per i Comuni 50,2 milioni per le opere compensative",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-disponibili-per-comuni-502-milioni-per-opere-compensative",
+    "descrizione": "Gli 11 Comuni della Val di Susa (Chiomonte, Salbertrand, Susa, Bussoleno, Giaglione, Gravere, Torrazza Piemonte, Buttigliera Alta, Chianocco, Mattie e Meana di Susa) interessati dai lavori della tratta internazionale Torino-Lione avranno a disposizione 50,2 milioni di euro per i…",
+    "data": "2026-07-14T16:36:04+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "8d198ad09c57",
     "titolo": "Da domani una via per don Aldo Rabino",
     "link": "https://www.comune.torino.it/novita/comunicati/domani-una-via-per-don-aldo-rabino",
     "descrizione": "Domani, mercoledì 15 luglio, alle ore 10, si svolgerà la cerimonia di intitolazione a don Aldo Rabino, della via d’accesso al Centro sportivo “Robaldo”...",
+    "data": "2026-07-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "cb585594fbff",
+    "titolo": "Cooperazione e appello alla pace: a Palazzo Civico l'ambasciatrice palestinese Mona Abuamara",
+    "link": "https://www.comune.torino.it/novita/comunicati/cooperazione-appello-alla-pace-palazzo-civico-lambasciatrice-palestinese-mona",
+    "descrizione": "Si è tenuto nel pomeriggio di oggi a Palazzo Civico un momento di confronto e diplomazia internazionale per la Città di Torino. Il sindaco Stefano Lo Russo ha r",
+    "data": "2026-07-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "60c4b745db5d",
+    "titolo": "Non solo di passaggio, Torino approva le linee guida per piazze e strade scolastiche",
+    "link": "https://www.comune.torino.it/novita/comunicati/non-solo-passaggio-torino-approva-linee-guida-per-piazze-strade-scolastiche",
+    "descrizione": "Marciapiedi allargati, panchine, alberi, fioriere e opere d'arte nate anche grazie ai laboratori con le bambine e i bambini hanno preso il posto di strade.",
+    "data": "2026-07-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8a0e4e7d1166",
+    "titolo": "Più efficienza energetica per scuole e asili: approvati lavori per 1,35 milioni di euro",
+    "link": "https://www.comune.torino.it/novita/comunicati/piu-efficienza-energetica-per-scuole-asili-approvati-lavori-per-135-milioni-euro",
+    "descrizione": "Un investimento di circa 1,35 milioni di euro renderà più efficienti dal punto di vista energetico due complessi comunali che ospitano servizi educativi.",
     "data": "2026-07-14T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1945,56 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/avvisi/avviso-per-presentazione-progetti-per-promozione-sostegno-alle-reti-solidarieta",
     "descrizione": "Approvato il bando per la presentazione di progetti per la promozione ed il sostegno alle reti di solidarietà tra famiglie e all'affidamento familiare.",
     "data": "2026-05-30T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "92cb79c4cfad",
-    "titolo": "Sottopasso Donat Cattin, da lunedì 1° giugno chiusure alternate per manutenzione",
-    "link": "https://www.comune.torino.it/novita/comunicati/sottopasso-donat-cattin-lunedi-1deg-giugno-chiusure-alternate-per-manutenzione",
-    "descrizione": "Per consentire lo svolgimento di alcuni interventi di manutenzione straordinaria e di aggiornamento degli impianti di sicurezza,",
-    "data": "2026-05-30T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "152b78690b35",
-    "titolo": "Parco della Tesoriera verso la riapertura completa. Lunedì 1° giugno chiusura temporanea per la rimozione del cantiere",
-    "link": "https://www.comune.torino.it/novita/comunicati/parco-della-tesoriera-verso-riapertura-completa-lunedi-1deg-giugno-chiusura",
-    "descrizione": "I lavori al Parco della Tesoriera sono giunti al termine e da martedì 2 giugno l’area verde sarà accessibile al pubblico nella sua interezza.",
-    "data": "2026-05-30T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7bedd993c8e8",
-    "titolo": "Sicurezza sul lavoro e caldo estremo: l’ordinanza regionale per la tutela dei lavoratori esposti alle alte temperature",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sicurezza-sul-lavoro-caldo-estremo-lordinanza-regionale-per-tutela-dei-lavoratori-esposti-alle-alte",
-    "descrizione": "Il presidente della Regione Piemonte Alberto Cirio e l’assessore alla Sanità Federico Riboldi hanno firmato l’ordinanza che introduce dal 30 maggio al 31 agosto le misure straordinarie, in linea con quelle già adottate nel 2024…",
-    "data": "2026-05-29T18:09:46+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "710a199d7253",
-    "titolo": "Chiusura Centro antiviolenza",
-    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-centro-antiviolenza",
-    "descrizione": "Chiusura in occasione della festività del 2 giugno.",
-    "data": "2026-05-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e81f0af991cf",
-    "titolo": "Sciopero 29 maggio 2026",
-    "link": "https://www.comune.torino.it/novita/avvisi/sciopero-29-maggio-2026",
-    "descrizione": "Sciopero nazionale di tutte le categorie pubbliche e private",
-    "data": "2026-05-29T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
