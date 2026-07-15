@@ -1,5 +1,45 @@
 [
   {
+    "id": "5463d086049f",
+    "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – settembre 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-3",
+    "descrizione": "Pubblicazione del calendario eventi programmati nei pressi dello Stadio Olimpico – Inalpi Arena nel prossimo mese di settembre 2026",
+    "data": "2026-07-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8a8ff3e49bb3",
+    "titolo": "Il City Brand \"torino:\" diventa merchandising ufficiale: al via la selezione del licenziatario",
+    "link": "https://www.comune.torino.it/novita/avvisi/city-brand-torino-diventa-merchandising-ufficiale-al-via-selezione-licenziatario",
+    "descrizione": "L'iniziativa consentirà alle aziende interessate di candidarsi per diventare licenziatario per produrre e distribuire merchandising ufficiale della Città.",
+    "data": "2026-07-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "2ad96fab9afe",
+    "titolo": "Concessione del bar ristoro presso il Palazzo del Nuoto di via Filadelfia 89",
+    "link": "https://www.comune.torino.it/novita/avvisi/concessione-bar-ristoro-presso-palazzo-nuoto-via-filadelfia-89",
+    "descrizione": "Avviso di indagine esplorativa di mercato per procedura negoziata di gara, ai sensi del D.Lgs n. 36/2023 e s.m.i. Data di scadenza: 31 agosto 2026, ore 12",
+    "data": "2026-07-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3a790d75b340",
+    "titolo": "Torino Strange Orchestra",
+    "link": "https://www.comune.torino.it/novita/avvisi/torino-strange-orchestra",
+    "descrizione": "Un'orchestra fuori dall'ordinario, dove le musiche, senza confini di genere, si incontrano.",
+    "data": "2026-07-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "10f37a1e5fca",
     "titolo": "Beni confiscati: accordo per rafforzare la lotta contro le mafie",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/beni-confiscati-accordo-per-rafforzare-lotta-contro-mafie",
@@ -1955,46 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/avvisi/acconto-imu-2026",
     "descrizione": "Il 16 giugno scade il termine per il pagamento dell'acconto IMU 2026",
     "data": "2026-06-03T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c86938fc72ad",
-    "titolo": "Sala Rossa: migliorare il drenaggio delle acque meteoriche al parco Ruffini",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-migliorare-drenaggio-delle-acque-meteoriche-al-parco-ruffini",
-    "descrizione": "L'atto impegna a monitorare costantemente le infiltrazioni nelle aree adiacenti al Pala Gianni Asti non comprese nel bando “Rinaturalizzazione suoli degradati”",
-    "data": "2026-06-03T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "76c6c244c188",
-    "titolo": "Inaugurati oggi i rinnovati spazi di nido e scuola per l'infanzia \"Giancarlo Perempruner\" di via Tronzano",
-    "link": "https://www.comune.torino.it/novita/comunicati/inaugurati-oggi-rinnovati-spazi-nido-scuola-per-linfanzia-giancarlo-perempruner",
-    "descrizione": "Taglio del nastro nel pomeriggio di oggi per gli spazi rinnovati del nido e scuola per l’infanzia “Giancarlo Perempruner”, in via Tronzano 20.",
-    "data": "2026-06-03T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8b89d94f197e",
-    "titolo": "Ponte Ferdinando sulla Stura, dal 3 giugno via alla seconda fase dei lavori",
-    "link": "https://www.comune.torino.it/novita/comunicati/ponte-ferdinando-sulla-stura-3-giugno-via-alla-seconda-fase-dei-lavori",
-    "descrizione": "Da mercoledì 3 giugno il cantiere per la manutenzione straordinaria del ponte Ferdinando di Savoia sulla Stura, in corso Giulio Cesare.",
-    "data": "2026-06-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "157673ead80d",
-    "titolo": "Avviso per la presentazione di progetti per la promozione ed il sostegno alle reti di solidarietà tra famiglie e all'affidamento familiare",
-    "link": "https://www.comune.torino.it/novita/avvisi/avviso-per-presentazione-progetti-per-promozione-sostegno-alle-reti-solidarieta",
-    "descrizione": "Approvato il bando per la presentazione di progetti per la promozione ed il sostegno alle reti di solidarietà tra famiglie e all'affidamento familiare.",
-    "data": "2026-05-30T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
