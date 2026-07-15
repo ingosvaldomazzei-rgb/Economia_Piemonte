@@ -40,6 +40,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "8b62b0a97c2f",
+    "titolo": "Una via dedicata a don Aldo Rabino",
+    "link": "https://www.comune.torino.it/novita/comunicati/una-via-dedicata-don-aldo-rabino",
+    "descrizione": "Da oggi, la via d’accesso al Centro sportivo “Robaldo”, nel quartiere Mirafiori, è intitolata a don Aldo Rabino, sacerdote salesiano, fondatore di OASI...",
+    "data": "2026-07-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "10f37a1e5fca",
     "titolo": "Beni confiscati: accordo per rafforzare la lotta contro le mafie",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/beni-confiscati-accordo-per-rafforzare-lotta-contro-mafie",
@@ -1988,15 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "c020887c4d60",
-    "titolo": "Acconto IMU 2026",
-    "link": "https://www.comune.torino.it/novita/avvisi/acconto-imu-2026",
-    "descrizione": "Il 16 giugno scade il termine per il pagamento dell'acconto IMU 2026",
-    "data": "2026-06-03T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
