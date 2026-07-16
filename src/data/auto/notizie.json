@@ -1,5 +1,45 @@
 [
   {
+    "id": "9f51d1723aa7",
+    "titolo": "CFM Laboratorio di biografia sonoro-visiva",
+    "link": "https://www.comune.torino.it/novita/avvisi/cfm-laboratorio-biografia-sonoro-visiva",
+    "descrizione": "Un percorso che usa suoni, musica e immagini per esplorare la propria storia emotiva",
+    "data": "2026-07-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f9cf3961ce5c",
+    "titolo": "“Underground Signs – Painting Below the City” prosegue: nuove opere di arte urbana al parcheggio Valdo Fusi",
+    "link": "https://www.comune.torino.it/novita/comunicati/underground-signs-painting-below-the-city-prosegue-nuove-opere-arte-urbana-al",
+    "descrizione": "Prosegue Underground Signs – Painting Below the City, il progetto di arte urbana che sta trasformando il parcheggio sotterraneo di piazzale Valdo Fusi.",
+    "data": "2026-07-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "497157eb89e0",
+    "titolo": "Rinnovo concessione immobile a fini associativi",
+    "link": "https://www.comune.torino.it/novita/avvisi/rinnovo-concessione-immobile-fini-associativi-0",
+    "descrizione": "Rinnovo concessione immobile a fini associativi - Via Cecchi 21/A.",
+    "data": "2026-07-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "358d57e44375",
+    "titolo": "Falsi annunci di lavoro per posizioni al Comune di Torino",
+    "link": "https://www.comune.torino.it/novita/avvisi/falsi-annunci-lavoro-per-posizioni-al-comune-torino",
+    "descrizione": "Comparsi su alcune piattaforme falsi annunci contenenti informazioni finalizzate a coprire specifiche posizioni di lavoro nell'ambito della Città di Torino.",
+    "data": "2026-07-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "5463d086049f",
     "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – settembre 2026",
     "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-3",
@@ -44,6 +84,16 @@
     "titolo": "Una via dedicata a don Aldo Rabino",
     "link": "https://www.comune.torino.it/novita/comunicati/una-via-dedicata-don-aldo-rabino",
     "descrizione": "Da oggi, la via d’accesso al Centro sportivo “Robaldo”, nel quartiere Mirafiori, è intitolata a don Aldo Rabino, sacerdote salesiano, fondatore di OASI...",
+    "data": "2026-07-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "22767512024e",
+    "titolo": "CFM Torino Strange Orchestra",
+    "link": "https://www.comune.torino.it/novita/avvisi/cfm-torino-strange-orchestra",
+    "descrizione": "Un'orchestra fuori dall'ordinario, dove le musiche, senza confini di genere, si incontrano.",
     "data": "2026-07-15T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1948,55 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "e5b96d8ce4ad",
-    "titolo": "Mirafiori Sud, due immobili comunali rinascono come presidi educativi e sociali",
-    "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-sud-due-immobili-comunali-rinascono-come-presidi-educativi-sociali",
-    "descrizione": "Il provvedimento dà il via libera alla concessione gratuita di due immobili di proprietà comunale alla Fondazione della Comunità di Mirafiori E.T.S.",
-    "data": "2026-06-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "67a06035374f",
-    "titolo": "Sospensione estiva della ZTL e della sosta a pagamento",
-    "link": "https://www.comune.torino.it/novita/comunicati/sospensione-estiva-della-ztl-della-sosta-pagamento-0",
-    "descrizione": "Il pagamento della sosta sulle strisce blu e della ZTL sarà sospeso dal 10 al 23 agosto 2026.",
-    "data": "2026-06-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "df28f9ffbc80",
-    "titolo": "EXPOSED Torino Photo Festival chiude con 107mila visitatori. Quarta edizione dal 9 aprile al 2 giugno 2027",
-    "link": "https://www.comune.torino.it/novita/comunicati/exposed-torino-photo-festival-chiude-107mila-visitatori-quarta-edizione-9-aprile",
-    "descrizione": "Dal 9 aprile al 2 giugno 2026 la terza edizione di EXPOSED Torino Photo Festival, curata e realizzata da CAMERA.",
-    "data": "2026-06-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6430477b2711",
-    "titolo": "Chips Act 2.0: importante risultato per il Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/chips-act-20-importante-risultato-per-piemonte",
-    "descrizione": "Il nuovo Chips Act 2.0 proposto dalla Commissione Europea e trasmesso al Parlamento europeo e al Consiglio dell’Unione per l’avvio dell’iter legislativo introduce per la prima volta un ruolo strutturato e riconosciuto delle Regioni nello sviluppo della politica…",
-    "data": "2026-06-03T18:38:04+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "b9da87d3190c",
-    "titolo": "Contributi al Terzo settore per prevenire la produzione dei rifiuti",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-al-terzo-settore-per-prevenire-produzione-dei-rifiuti",
-    "descrizione": "La Regione Piemonte ha deciso di sostenere con due milioni di euro i progetti di prevenzione dei rifiuti promossi dagli enti del Terzo settore non commerciali e non siano iscritti al Rea (Repertorio economico amministrativo). Si tratta di…",
-    "data": "2026-06-03T16:29:46+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
