@@ -867,22 +867,6 @@
       "data": "2026-06-05T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c424369f388b",
-      "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
-      "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
-      "data": "2026-06-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "99a50fa84bc0",
-      "titolo": "EfficienTO: quasi 1 milione di euro per l’efficienza energetica di due scuole cittadine",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficiento-quasi-1-milione-euro-per-lefficienza-energetica-due-scuole-cittadine",
-      "data": "2026-06-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "ambiente-qualita-aria": [
@@ -1611,14 +1595,6 @@
       "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
       "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
       "data": "2026-06-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c424369f388b",
-      "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
-      "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
-      "data": "2026-06-04T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }

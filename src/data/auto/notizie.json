@@ -1,5 +1,15 @@
 [
   {
+    "id": "3ac7d9d807fe",
+    "titolo": "Contributi per prevenire gli attacchi da lupo e grandi carnivori",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-prevenire-gli-attacchi-lupo-grandi-carnivori",
+    "descrizione": "Sono 94 le aziende agricole piemontesi che potranno acquistare dispositivi di prevenzione e dissuasione per gli attacchi da lupo e altri grandi carnivori grazie al sostegno della Regione Piemonte ammontante a 740.000 euro.…",
+    "data": "2026-07-16T16:07:37+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "9f51d1723aa7",
     "titolo": "CFM Laboratorio di biografia sonoro-visiva",
     "link": "https://www.comune.torino.it/novita/avvisi/cfm-laboratorio-biografia-sonoro-visiva",
@@ -34,6 +44,36 @@
     "titolo": "Falsi annunci di lavoro per posizioni al Comune di Torino",
     "link": "https://www.comune.torino.it/novita/avvisi/falsi-annunci-lavoro-per-posizioni-al-comune-torino",
     "descrizione": "Comparsi su alcune piattaforme falsi annunci contenenti informazioni finalizzate a coprire specifiche posizioni di lavoro nell'ambito della Città di Torino.",
+    "data": "2026-07-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "048efceaec70",
+    "titolo": "Caldo estremo e rider: la Città chiederà a Governo e Regione di rafforzare le tutele dei lavoratori",
+    "link": "https://www.comune.torino.it/novita/comunicati/caldo-estremo-rider-citta-chiedera-governo-regione-rafforzare-tutele-dei",
+    "descrizione": "Si è svolto questa mattina a Palazzo Civico l’incontro per affrontare le criticità determinate dalle elevate temperature di questi giorni.",
+    "data": "2026-07-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "c565567f57b1",
+    "titolo": "Prezzi al consumo per l’intera collettività (Nic) a giugno 2026",
+    "link": "https://www.comune.torino.it/novita/comunicati/prezzi-al-consumo-per-lintera-collettivita-nic-giugno-2026",
+    "descrizione": "Nel mese di giugno 2026 l’indice complessivo dei prezzi al consumo per l’intera collettività è risultato pari al 102,8.",
+    "data": "2026-07-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "2543f5a41c9b",
+    "titolo": "Scambia foto intime con un ragazzo che poi la ricatta. La Polizia Locale lo individua e arresta per violenza sessuale ed estorsione",
+    "link": "https://www.comune.torino.it/novita/comunicati/scambia-foto-intime-un-ragazzo-che-poi-ricatta-polizia-locale-individua-arresta",
+    "descrizione": "Indagine del Reparto di Prossimità della Polizia Locale di Torino",
     "data": "2026-07-16T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1955,46 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
     "descrizione": "Le arcate dei Murazzi del Po tornano a vivere con l’inaugurazione di “DesTEENazione - Desideri in Azione”, il nuovo spazio multifunzionale dedicato ai giovani.",
     "data": "2026-06-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "50de4eed839e",
-    "titolo": "Il Piemonte favorevole al raddoppio del tunnel del Monte Bianco",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-favorevole-al-raddoppio-tunnel-monte-bianco",
-    "descrizione": "Al vertice del Trattato del Quirinale tra Italia e Francia, svoltosi nel Forte di Bard (Aosta), la Regione Piemonte è stata rappresentata dal presidente Alberto Cirio e dal vicepresidente Maurizio Marrone. In mattinata, insieme al…",
-    "data": "2026-06-04T18:27:01+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "c424369f388b",
-    "titolo": "Aspettando Biennale Democrazia. Podcast live, attività per le scuole e progetti per i giovani, in attesa della decima edizione, in programma nel 2027",
-    "link": "https://www.comune.torino.it/novita/comunicati/aspettando-biennale-democrazia-podcast-live-attivita-per-scuole-progetti-per",
-    "descrizione": "Torino si prepara alla decima edizione di Biennale Democrazia, in programma dal 7 all’11 aprile 2027.",
-    "data": "2026-06-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "10e5b6518bd4",
-    "titolo": "Torino Pride 2026. Manifestazione con corteo sabato 6 giugno. Previste modifiche viabili",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-pride-2026-manifestazione-corteo-sabato-6-giugno-previste-modifiche",
-    "descrizione": "Sabato 6 giugno si terrà il “Torino Pride 2026”, la manifestazione con corteo che quest’anno festeggia la sua 20° edizione.",
-    "data": "2026-06-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "99a50fa84bc0",
-    "titolo": "EfficienTO: quasi 1 milione di euro per l’efficienza energetica di due scuole cittadine",
-    "link": "https://www.comune.torino.it/novita/comunicati/efficiento-quasi-1-milione-euro-per-lefficienza-energetica-due-scuole-cittadine",
-    "descrizione": "Quasi 1 milione di euro per migliorare l’efficienza energetica di due complessi scolastici cittadini.",
-    "data": "2026-06-04T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
