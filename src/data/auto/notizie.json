@@ -1,5 +1,25 @@
 [
   {
+    "id": "86eda9e580af",
+    "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
+    "descrizione": "Numerose le novità emerse durante il Tavolo dell’Aria, svoltosi nel Grattacielo Piemonte come momento strategico di coordinamento con i sindaci del territorio per pianificare le nuove misure strutturali in vista della stagione autunno-inverno 2026/2027. “I dati ufficiali…",
+    "data": "2026-07-17T17:51:27+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "a1596470ae68",
+    "titolo": "Il piano triennale dei lavori forestali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-triennale-dei-lavori-forestali",
+    "descrizione": "La Regione Piemonte ha approvato il Programma triennale 2026-2028 dei lavori forestali: lo strumento che guiderà per i prossimi tre anni l’attività delle squadre forestali regionali impegnate nella prevenzione del dissesto idrogeologico, nella cura dei boschi, nella manutenzione…",
+    "data": "2026-07-17T16:24:13+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "1b80fe0b398d",
     "titolo": "Riuso e sostenibilità: nasce il mercato tematico “Torino Green”",
     "link": "https://www.comune.torino.it/novita/comunicati/riuso-sostenibilita-nasce-mercato-tematico-torino-green",
@@ -1974,26 +1994,6 @@
     "titolo": "L'Archivio Storico della Città di Torino per Archivissima 2026",
     "link": "https://www.comune.torino.it/novita/notizie/larchivio-storico-della-citta-torino-per-archivissima-2026",
     "descrizione": "Venerdì 5 giugno 2026, dalle 17:30 alle 23:00",
-    "data": "2026-06-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d3b6cba112c7",
-    "titolo": "Torino Sport Card: le tessere sono state spedite! E da quest'anno arrivano anche i corsi di musica",
-    "link": "https://www.comune.torino.it/novita/notizie/torino-sport-card-tessere-sono-state-spedite-questanno-arrivano-anche-corsi",
-    "descrizione": "Ottime notizie per i giovani torinesi!! Le tessere della Torino Sport Card sono state ufficialmente spedite!",
-    "data": "2026-06-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d13efbbc2f68",
-    "titolo": "Internet senza paura, piccole regole per evitare le truffe",
-    "link": "https://www.comune.torino.it/novita/notizie/internet-senza-paura-piccole-regole-per-evitare-truffe",
-    "descrizione": "Incontri gratuiti “Internet senza paura” per adulti e anziani: consigli pratici su uso sicuro del web, servizi digitali e prevenzione truffe.",
     "data": "2026-06-05T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
