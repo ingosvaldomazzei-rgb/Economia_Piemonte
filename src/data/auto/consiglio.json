@@ -1,6 +1,16 @@
 {
-  "ultimo_aggiornamento": "2026-07-17T08:19:41.435820+00:00",
+  "ultimo_aggiornamento": "2026-07-17T13:50:42.707585+00:00",
   "sedute": [
+    {
+      "id": "a6aee247819c",
+      "tipo": "seduta",
+      "numero": "103",
+      "titolo": "Seduta n. 103 del 21/07/2026",
+      "data": "2026-07-21T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=103&data_seduta=21-07-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
     {
       "id": "07d9de5f7791",
       "tipo": "seduta",
@@ -8,7 +18,7 @@
       "titolo": "Seduta n. 102 del 14/07/2026",
       "data": "2026-07-14T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=102&data_seduta=14-07-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89333&nome_file=Sintesi%20n.%20102_14%20luglio2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
@@ -2127,7 +2137,7 @@
     }
   ],
   "statistiche": {
-    "totale_sedute": 32,
+    "totale_sedute": 33,
     "totale_interrogazioni": 199,
     "totale_interpellanze": 1,
     "totale_mozioni": 9,

@@ -1,5 +1,35 @@
 [
   {
+    "id": "1b80fe0b398d",
+    "titolo": "Riuso e sostenibilità: nasce il mercato tematico “Torino Green”",
+    "link": "https://www.comune.torino.it/novita/comunicati/riuso-sostenibilita-nasce-mercato-tematico-torino-green",
+    "descrizione": "La Giunta Comunale ha approvato oggi l'istituzione di \"Torino Green\", il mercato periodico tematico dedicato alla vendita occasionale di beni usati tra privati.",
+    "data": "2026-07-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "99839ca954f4",
+    "titolo": "La Regione pronta a fare la sua parte nel rilancio del polo fieristico del Lingotto di Torino",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-fare-sua-parte-nel-rilancio-polo-fieristico-lingotto-torino",
+    "descrizione": "La sottoscrizione di un memorandum tra Camera di commercio di Torino e Fondazione Compagnia di San Paolo per condividere gli obiettivi e i principi del rilancio del Lingotto Fiere valorizzando il polo fieristico e congressuale come infrastruttura strategica per…",
+    "data": "2026-07-17T11:04:32+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "030669fa8a9e",
+    "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
+    "descrizione": "Coniugare indipendenza energetica, innovazione tecnologica e tutela assoluta del patrimonio naturale e agricolo è il cuore del messaggio lanciato dall'assessore regionale all'Ambiente ed Energia, Matteo Marnati, in occasione del Forum …",
+    "data": "2026-07-17T10:37:44+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "3ac7d9d807fe",
     "titolo": "Contributi per prevenire gli attacchi da lupo e grandi carnivori",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/contributi-per-prevenire-gli-attacchi-lupo-grandi-carnivori",
@@ -1964,36 +1994,6 @@
     "titolo": "Internet senza paura, piccole regole per evitare le truffe",
     "link": "https://www.comune.torino.it/novita/notizie/internet-senza-paura-piccole-regole-per-evitare-truffe",
     "descrizione": "Incontri gratuiti “Internet senza paura” per adulti e anziani: consigli pratici su uso sicuro del web, servizi digitali e prevenzione truffe.",
-    "data": "2026-06-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4f4c879984ef",
-    "titolo": "Furto in una scuola dell’infanzia, Polizia Locale indaga e denuncia un 50enne",
-    "link": "https://www.comune.torino.it/novita/comunicati/furto-una-scuola-dellinfanzia-polizia-locale-indaga-denuncia-un-50enne",
-    "descrizione": "La Polizia Locale di Torino ha indagato e denunciato un 50enne dopo un furto in una scuola torinese.",
-    "data": "2026-06-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6f96ea2bfc7f",
-    "titolo": "Harmonia, la nuova edizione di MITO Settembremusica, a Torino e Milano dal 6 al 20 settembre 2026",
-    "link": "https://www.comune.torino.it/novita/comunicati/harmonia-nuova-edizione-mito-settembremusica-torino-milano-6-al-20-settembre",
-    "descrizione": "È Harmonia il tema della ventesima edizione di MITO SettembreMusica, in programma a Milano e Torino dal 6 al 20 settembre 2026.",
-    "data": "2026-06-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "51289b9b2819",
-    "titolo": "Inaugurato ai Murazzi lo spazio “Desteenazione”: nuove opportunità per giovani, educazione e inclusione",
-    "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-ai-murazzi-spazio-desteenazione-nuove-opportunita-per-giovani",
-    "descrizione": "Le arcate dei Murazzi del Po tornano a vivere con l’inaugurazione di “DesTEENazione - Desideri in Azione”, il nuovo spazio multifunzionale dedicato ai giovani.",
     "data": "2026-06-05T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
