@@ -9,6 +9,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "991714ca7b7c",
+      "titolo": "Tari, approvate modiche a Regolamento e tariffe 2026",
+      "link": "https://www.comune.torino.it/novita/comunicati/tari-approvate-modiche-regolamento-tariffe-2026",
+      "data": "2026-07-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "358d57e44375",
       "titolo": "Falsi annunci di lavoro per posizioni al Comune di Torino",
       "link": "https://www.comune.torino.it/novita/avvisi/falsi-annunci-lavoro-per-posizioni-al-comune-torino",
@@ -213,6 +221,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "0683fb976cec",
+      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
+      "data": "2026-07-17T17:51:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "06898e862b2c",
       "titolo": "Consegnate le Civiche Benemerenze 2026",
       "link": "https://www.comune.torino.it/novita/comunicati/consegnate-civiche-benemerenze-2026",
@@ -266,6 +282,14 @@
       "id": "86eda9e580af",
       "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
+      "data": "2026-07-17T17:51:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0683fb976cec",
+      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
       "data": "2026-07-17T17:51:27+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
@@ -1147,14 +1171,6 @@
       "data": "2026-06-12T11:49:55+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "a7cb14e69890",
-      "titolo": "Taglio del nastro per il nuovo salone Ex Safov della Scuola dell'Infanzia Gianni Rodari",
-      "link": "https://www.comune.torino.it/novita/comunicati/taglio-nastro-per-nuovo-salone-ex-safov-della-scuola-dellinfanzia-gianni-rodari",
-      "data": "2026-06-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "montagna": [

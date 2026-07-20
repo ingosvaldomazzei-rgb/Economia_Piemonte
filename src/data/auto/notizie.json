@@ -20,6 +20,16 @@
     "colore": "#2563eb"
   },
   {
+    "id": "991714ca7b7c",
+    "titolo": "Tari, approvate modiche a Regolamento e tariffe 2026",
+    "link": "https://www.comune.torino.it/novita/comunicati/tari-approvate-modiche-regolamento-tariffe-2026",
+    "descrizione": "Approvate dal Consiglio Comunale di Torino due deliberazioni che modificano il Regolamento comunale Tari e stabiliscono le tariffe 2026",
+    "data": "2026-07-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "b39febf18d6d",
     "titolo": "Il nuovo ospedale Regina Margherita nel programma Inail",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-regina-margherita-nel-programma-inail",
@@ -33,6 +43,16 @@
     "id": "86eda9e580af",
     "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
+    "descrizione": "Numerose le novità emerse durante il Tavolo dell’Aria, svoltosi nel Grattacielo Piemonte come momento strategico di coordinamento con i sindaci del territorio per pianificare le nuove misure strutturali in vista della stagione autunno-inverno 2026/2027. “I dati ufficiali…",
+    "data": "2026-07-17T17:51:27+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "0683fb976cec",
+    "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
     "descrizione": "Numerose le novità emerse durante il Tavolo dell’Aria, svoltosi nel Grattacielo Piemonte come momento strategico di coordinamento con i sindaci del territorio per pianificare le nuove misure strutturali in vista della stagione autunno-inverno 2026/2027. “I dati ufficiali…",
     "data": "2026-07-17T17:51:27+02:00",
     "fonte": "Regione Piemonte",
@@ -1974,26 +1994,6 @@
     "titolo": "Musica in Festa",
     "link": "https://www.comune.torino.it/novita/notizie/musica-festa",
     "descrizione": "19 giugno 2026, una giornata di festa al parco verde Tonolli.",
-    "data": "2026-06-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a7cb14e69890",
-    "titolo": "Taglio del nastro per il nuovo salone Ex Safov della Scuola dell'Infanzia Gianni Rodari",
-    "link": "https://www.comune.torino.it/novita/comunicati/taglio-nastro-per-nuovo-salone-ex-safov-della-scuola-dellinfanzia-gianni-rodari",
-    "descrizione": "Si è svolta questo pomeriggio l’inaugurazione del salone polivalente Ex Safov in via Balbo 9/B, all’interno della Scuola dell’Infanzia “Gianni Rodari”.",
-    "data": "2026-06-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8eb1814c7e75",
-    "titolo": "Disattivazione del sistema di autenticazione TorinoFacile",
-    "link": "https://www.comune.torino.it/novita/avvisi/disattivazione-sistema-autenticazione-torinofacile",
-    "descrizione": "Cessazione della modalità residuale di autenticazione al servizio EdificaTO con credenziali TorinoFacile",
     "data": "2026-06-08T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
