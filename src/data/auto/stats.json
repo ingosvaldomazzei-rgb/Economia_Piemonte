@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 63,
-    "comune_torino": 136,
+    "regione": 64,
+    "comune_torino": 135,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -13,6 +13,10 @@
     {
       "tema": "agricoltura",
       "conteggio": 16
+    },
+    {
+      "tema": "lavoro-occupazione",
+      "conteggio": 13
     },
     {
       "tema": "enti-locali-piccoli-comuni",
@@ -27,23 +31,19 @@
       "conteggio": 12
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 12
-    },
-    {
       "tema": "protezione-civile",
       "conteggio": 12
     },
     {
       "tema": "edilizia-opere-pubbliche",
-      "conteggio": 10
-    },
-    {
-      "tema": "istruzione-formazione",
       "conteggio": 9
     },
     {
-      "tema": "pianificazione-territoriale",
+      "tema": "energia",
+      "conteggio": 8
+    },
+    {
+      "tema": "ambiente-qualita-aria",
       "conteggio": 8
     }
   ],

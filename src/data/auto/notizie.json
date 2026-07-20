@@ -1,5 +1,25 @@
 [
   {
+    "id": "b0f91a26de63",
+    "titolo": "Il GOL del Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gol-piemonte",
+    "descrizione": "La Regione Piemonte ha superato con largo anticipo tutti gli obiettivi fissati dall'Europa e si è confermata tra le realtà più efficaci nell'attuazione del Programma GOL - Garanzia Occupabilità dei Lavoratori, la misura…",
+    "data": "2026-07-20T16:07:10+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "cc1b24dcea61",
+    "titolo": "La presenza dell’ecosistema aerospaziale piemontese",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/presenza-dellecosistema-aerospaziale-piemontese",
+    "descrizione": "Il Piemonte è presente anche quest’anno al Farnborough International Airshow 2026, in programma fino al 24 luglio nell'aeroporto della cittadina della contea dell'Hampshire (Inghilterra) e che rappresenta uno dei più autorevoli saloni mondiali dedicati all'aeronautica, allo…",
+    "data": "2026-07-20T15:24:29+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "b39febf18d6d",
     "titolo": "Il nuovo ospedale Regina Margherita nel programma Inail",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-regina-margherita-nel-programma-inail",
@@ -34,6 +54,16 @@
     "titolo": "Riuso e sostenibilità: nasce il mercato tematico “Torino Green”",
     "link": "https://www.comune.torino.it/novita/comunicati/riuso-sostenibilita-nasce-mercato-tematico-torino-green",
     "descrizione": "La Giunta Comunale ha approvato oggi l'istituzione di \"Torino Green\", il mercato periodico tematico dedicato alla vendita occasionale di beni usati tra privati.",
+    "data": "2026-07-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "2878fb7918d5",
+    "titolo": "Il Sindaco di Torino incontra l'Ambasciatore dei territori palestinesi",
+    "link": "https://www.comune.torino.it/novita/notizie/sindaco-torino-incontra-lambasciatore-dei-territori-palestinesi",
+    "descrizione": "Due occasioni di amicizia istituzionale e collaborazione con i partner palestinesi",
     "data": "2026-07-17T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1968,35 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "b69969f0c6e5",
-    "titolo": "Torino Pride 2026",
-    "link": "https://www.comune.torino.it/novita/notizie/torino-pride-2026",
-    "descrizione": "Venti di Lotte. Il corteo del Pride si muove nelle vie della città per portare istanze, orgoglio, visibilità e lotta nelle strade e in mezzo alla gente.",
-    "data": "2026-06-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0b5dac8a9366",
-    "titolo": "Il Ballo in Bianco. Domani a Torino, per la prima volta, la più grande lezione alla sbarra en plein air del mondo",
-    "link": "https://www.comune.torino.it/novita/comunicati/ballo-bianco-domani-torino-per-prima-volta-piu-grande-lezione-alla-sbarra-en",
-    "descrizione": "Roberto Bolle guiderà la più grande lezione di danza alla sbarra del mondo aperta a ballerini di tutte le scuole di danza italiane.",
-    "data": "2026-06-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d4690cf18174",
-    "titolo": "Oltre 3,6 milioni per la sicurezza del Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oltre-36-milioni-per-sicurezza-piemonte",
-    "descrizione": "La Regione Piemonte continua a investire nella messa in sicurezza del territorio e delle infrastrutture comunali: con il nuovo stanziamento del programma di finanziamento previsto dalla legge regionale 38/78 sono stati assegnati complessivamente oltre 3,6 milioni di euro per…",
-    "data": "2026-06-05T14:01:48+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
