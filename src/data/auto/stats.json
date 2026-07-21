@@ -1,11 +1,15 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 69,
-    "comune_torino": 130,
+    "regione": 70,
+    "comune_torino": 129,
     "consiglio": 1
   },
   "temi_attivi": [
+    {
+      "tema": "lavoro-occupazione",
+      "conteggio": 16
+    },
     {
       "tema": "cultura-beni-culturali",
       "conteggio": 16
@@ -16,10 +20,6 @@
     },
     {
       "tema": "sanita-regionale",
-      "conteggio": 14
-    },
-    {
-      "tema": "lavoro-occupazione",
       "conteggio": 14
     },
     {

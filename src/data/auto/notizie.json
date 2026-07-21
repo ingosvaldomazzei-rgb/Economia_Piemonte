@@ -1,5 +1,15 @@
 [
   {
+    "id": "bac1220fed97",
+    "titolo": "La Corte dei Conti parifica il rendiconto 2025 della Regione Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corte-dei-conti-parifica-rendiconto-2025-della-regione-piemonte",
+    "descrizione": "La Corte dei Conti nella seduta pubblica di oggi ha parificato il rendiconto generale 2025 della Regione Piemonte, confermando la regolarità della gestione finanziaria e la solidità del percorso di risanamento dei conti regionali. La parifica è…",
+    "data": "2026-07-21T16:28:52+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "a2c3d29a06f1",
     "titolo": "Liste d'attesa, Agenas indica il Piemonte tra le buone pratiche nazionali",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/liste-dattesa-agenas-indica-piemonte-buone-pratiche-nazionali",
@@ -54,6 +64,26 @@
     "titolo": "La musica….fa bene! Presentazione di uno studio scientifico",
     "link": "https://www.comune.torino.it/novita/notizie/musicafa-bene-presentazione-uno-studio-scientifico",
     "descrizione": "Lo studio frutto della collaborazione tra CFM, ASL di Torino, associazione Pequeñas Huellas e Istituto Da Vinci-Frank mostra gli effetti benefici della musica",
+    "data": "2026-07-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bc0cdc94b988",
+    "titolo": "Social Factory, a Borgo San Paolo un presidio per l’inclusione sociale",
+    "link": "https://www.comune.torino.it/novita/comunicati/social-factory-borgo-san-paolo-un-presidio-per-linclusione-sociale",
+    "descrizione": "Si rinnova e si rafforza il presidio sociale della Social Factory di via Emanuele Luserna di Rorà 8.",
+    "data": "2026-07-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d7ec0f988225",
+    "titolo": "Piazza Baldissera, domani la riapertura di via Stradella: semafori sospesi, traffico regolato dalla Polizia Locale",
+    "link": "https://www.comune.torino.it/novita/comunicati/piazza-baldissera-domani-riapertura-via-stradella-semafori-sospesi-traffico",
+    "descrizione": "Torna interamente percorribile da domani mattina, in entrambe le direzioni, il tratto di via Stradella compreso tra via Chiesa della Salute e piazza Baldissera.",
     "data": "2026-07-21T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1965,36 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/meisino-citta-avvia-confronto-coni-piemonte-per-gestione-nuovo-centro-per",
     "descrizione": "La Giunta comunale ha preso atto della proposta approvando nella seduta odierna la delibera dell’assessore allo Sport Domenico Carretta",
     "data": "2026-06-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "51f5fe12e7f6",
-    "titolo": "Concessione a trattativa diretta immobile di proprietà comunale sito in via Negarville 8/14",
-    "link": "https://www.comune.torino.it/novita/avvisi/concessione-trattativa-diretta-immobile-proprieta-comunale-sito-via-negarville",
-    "descrizione": "Procedura per l’assegnazione in concessione a trattativa diretta ad uso commerciale dell’immobile di proprietà comunale sito in via Negarville 8/14.",
-    "data": "2026-06-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a114bf75a849",
-    "titolo": "Sicurezza urbana, il Sindaco chiede un incontro del Comitato Provinciale per l’Ordine e la Sicurezza Pubblica sulle criticità segnalate delle Case del Quartiere",
-    "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-sindaco-chiede-un-incontro-comitato-provinciale-per-lordine",
-    "descrizione": "Con una lettera indirizzata al Prefetto e al Questore il sindaco Stefano Lo Russo chiede formalmente la convocazione di un incontro.",
-    "data": "2026-06-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1db171f09635",
-    "titolo": "Ponte Carpanini, dal 9 all'11 giugno chiusura diurna per manutenzione",
-    "link": "https://www.comune.torino.it/novita/comunicati/ponte-carpanini-9-all11-giugno-chiusura-diurna-per-manutenzione",
-    "descrizione": "Per consentire lo svolgimento delle periodiche verifiche all’impianto di sollevamento.",
-    "data": "2026-06-08T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
