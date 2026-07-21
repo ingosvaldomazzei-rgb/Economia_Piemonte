@@ -1,9 +1,59 @@
 [
   {
+    "id": "a2c3d29a06f1",
+    "titolo": "Liste d'attesa, Agenas indica il Piemonte tra le buone pratiche nazionali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/liste-dattesa-agenas-indica-piemonte-buone-pratiche-nazionali",
+    "descrizione": "Il sistema sviluppato dalla Regione Piemonte per ottimizzare la gestione delle prenotazioni e l’utilizzo delle agende sanitarie è stato indicato da Agenas tra le buone pratiche nazionali efficaci e replicabili in altri contesti territoriali.…",
+    "data": "2026-07-21T14:25:24+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "c17300b8c32b",
+    "titolo": "Giovani, finanziati altri 22 progetti",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giovani-finanziati-altri-22-progetti",
+    "descrizione": "La Regione Piemonte completa il finanziamento del bando “Piemonte per i Giovani” con lo scorrimento della graduatoria, destinando 1,4 milioni di euro ai 22 progetti rimasti in attesa di copertura finanziaria (+ Pettinengo che ha ricevuto una…",
+    "data": "2026-07-21T13:30:08+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "4687c4213bbb",
+    "titolo": "Castagneti, bando da 1,6 milioni per la gestione associata in montagna",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/castagneti-bando-16-milioni-per-gestione-associata-montagna",
+    "descrizione": "Superare la frammentazione dei castagneti piemontesi e favorire una gestione condivisa del territorio. È questa la principale novità del nuovo bando approvato dalla Giunta regionale, su proposta dell’assessore alla Montagna e Foreste Marco Gallo, che mette a disposizione …",
+    "data": "2026-07-21T13:02:35+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "6d1e8158ecf3",
     "titolo": "Proroga termini – Avvii di procedimento (procedura semplificata)",
     "link": "https://www.comune.torino.it/novita/avvisi/proroga-termini-avvii-procedimento-procedura-semplificata",
     "descrizione": "Avviso agli utenti: proroga degli avvii di procedimento in scadenza ad agosto",
+    "data": "2026-07-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8de825935415",
+    "titolo": "Mercoledì 22 luglio \"Diritto di Tribuna\" su sicurezza per alunni scuola Anna Frank",
+    "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-22-luglio-diritto-tribuna-sicurezza-per-alunni-scuola-anna-frank",
+    "descrizione": "Mercoledì 22 luglio 2026 alle 11.30 conferenza stampa nello spazio antistante la scuola, in via Tommaso Vallauri 24 a Torino, tra via Patetta e via Carlo Porta",
+    "data": "2026-07-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9ae291d68083",
+    "titolo": "La musica….fa bene! Presentazione di uno studio scientifico",
+    "link": "https://www.comune.torino.it/novita/notizie/musicafa-bene-presentazione-uno-studio-scientifico",
+    "descrizione": "Lo studio frutto della collaborazione tra CFM, ASL di Torino, associazione Pequeñas Huellas e Istituto Da Vinci-Frank mostra gli effetti benefici della musica",
     "data": "2026-07-21T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1944,56 +1994,6 @@
     "titolo": "Ponte Carpanini, dal 9 all'11 giugno chiusura diurna per manutenzione",
     "link": "https://www.comune.torino.it/novita/comunicati/ponte-carpanini-9-all11-giugno-chiusura-diurna-per-manutenzione",
     "descrizione": "Per consentire lo svolgimento delle periodiche verifiche all’impianto di sollevamento.",
-    "data": "2026-06-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b1e01cd72a15",
-    "titolo": "Crescere in Città 2026/2027: pubblicazione esiti valutazioni modalità A",
-    "link": "https://www.comune.torino.it/novita/notizie/crescere-citta-20262027-pubblicazione-esiti-valutazioni-modalita",
-    "descrizione": "Pubblicazione esiti della valutazione delle proposte pervenute in risposta al Bando 2026-2027 per la modalità A - \"CLASSICA”.",
-    "data": "2026-06-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "76f8ac7f8f7a",
-    "titolo": "La Sala Rossa approva 10 civiche benemerenze",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approva-10-civiche-benemerenze",
-    "descrizione": "Approvate all’unanimità dieci proposte di civiche benemerenze per il 2026",
-    "data": "2026-06-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a3ad0512eacf",
-    "titolo": "Al via i soggiorni estivi per persone con disabilità: partito oggi uno dei primi gruppi da Torino",
-    "link": "https://www.comune.torino.it/novita/comunicati/al-via-soggiorni-estivi-per-persone-disabilita-partito-oggi-uno-dei-primi-gruppi",
-    "descrizione": "È partito questa mattina uno dei primi gruppi di persone con disabilità: si tratta di un gruppo di 12 partecipanti.",
-    "data": "2026-06-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f786da83378e",
-    "titolo": "Più interventi con meno disagi, nasce a Torino la regia digitale dei cantieri",
-    "link": "https://www.comune.torino.it/novita/comunicati/piu-interventi-meno-disagi-nasce-torino-regia-digitale-dei-cantieri",
-    "descrizione": "Uno strumento unico, digitale e georeferenziato, per programmare e gestire in modo efficace e coordinato tutte le azioni di manutenzione e trasformazione.",
-    "data": "2026-06-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "02c48dfe4a58",
-    "titolo": "Santa Rita, dal 10 giugno lavori sulla rete elettrica: modifiche alla viabilità in via Romolo Gessi e corso Orbassano",
-    "link": "https://www.comune.torino.it/novita/comunicati/santa-rita-10-giugno-lavori-sulla-rete-elettrica-modifiche-alla-viabilita-via",
-    "descrizione": "L'avvio del cantiere è stato programmato in concomitanza con la conclusione dell'anno scolastico, con l'obiettivo di limitare il più possibile i disagi.",
     "data": "2026-06-08T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
