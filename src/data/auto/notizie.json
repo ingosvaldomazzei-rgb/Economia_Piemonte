@@ -1,5 +1,25 @@
 [
   {
+    "id": "6d1e8158ecf3",
+    "titolo": "Proroga termini – Avvii di procedimento (procedura semplificata)",
+    "link": "https://www.comune.torino.it/novita/avvisi/proroga-termini-avvii-procedimento-procedura-semplificata",
+    "descrizione": "Avviso agli utenti: proroga degli avvii di procedimento in scadenza ad agosto",
+    "data": "2026-07-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ddc97b927c84",
+    "titolo": "Artigianato, al via le Aree di Sviluppo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/artigianato-al-via-aree-sviluppo",
+    "descrizione": "Prende il via la raccolta delle manifestazioni di interesse per il riconoscimento delle Aree di Sviluppo dell’Artigianato (ASA), il nuovo strumento promosso dalla Regione Piemonte per rafforzare la competitività delle imprese artigiane attraverso una programmazione condivisa tra…",
+    "data": "2026-07-21T09:53:58+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "b0f91a26de63",
     "titolo": "Il GOL del Piemonte",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gol-piemonte",
@@ -1974,26 +1994,6 @@
     "titolo": "Santa Rita, dal 10 giugno lavori sulla rete elettrica: modifiche alla viabilità in via Romolo Gessi e corso Orbassano",
     "link": "https://www.comune.torino.it/novita/comunicati/santa-rita-10-giugno-lavori-sulla-rete-elettrica-modifiche-alla-viabilita-via",
     "descrizione": "L'avvio del cantiere è stato programmato in concomitanza con la conclusione dell'anno scolastico, con l'obiettivo di limitare il più possibile i disagi.",
-    "data": "2026-06-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "9871fc174d5a",
-    "titolo": "Dismissione credenziali ex Torino Facile",
-    "link": "https://www.comune.torino.it/novita/avvisi/dismissione-credenziali-ex-torino-facile",
-    "descrizione": "Disattivazione modalità residuale di autenticazione al servizio EdificaTO",
-    "data": "2026-06-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "fcf98b548b6b",
-    "titolo": "Musica in Festa",
-    "link": "https://www.comune.torino.it/novita/notizie/musica-festa",
-    "descrizione": "19 giugno 2026, una giornata di festa al parco verde Tonolli.",
     "data": "2026-06-08T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

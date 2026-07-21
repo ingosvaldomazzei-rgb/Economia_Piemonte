@@ -1,4 +1,128 @@
 {
+  "attivita-produttive": [
+    {
+      "id": "ddc97b927c84",
+      "titolo": "Artigianato, al via le Aree di Sviluppo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/artigianato-al-via-aree-sviluppo",
+      "data": "2026-07-21T09:53:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "030669fa8a9e",
+      "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
+      "data": "2026-07-17T10:37:44+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0a3de0a9f26b",
+      "titolo": "I musei al centro della cultura: 3,1 milioni per investimenti strutturali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/musei-al-centro-della-cultura-31-milioni-per-investimenti-strutturali",
+      "data": "2026-07-06T09:46:02+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "778e87c30d6b",
+      "titolo": "Bando per l’assegnazione di contributi a fondo perduto alle micro e piccole imprese",
+      "link": "https://www.comune.torino.it/novita/avvisi/bando-per-lassegnazione-contributi-fondo-perduto-alle-micro-piccole-imprese",
+      "data": "2026-07-03T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0c9d72d8030b",
+      "titolo": "Il bando 2026 per il credito in agricoltura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
+      "data": "2026-07-02T12:05:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4992d095502c",
+      "titolo": "Ex Manifattura Tabacchi, via libera alle demolizioni controllate",
+      "link": "https://www.comune.torino.it/novita/comunicati/ex-manifattura-tabacchi-via-libera-alle-demolizioni-controllate",
+      "data": "2026-06-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1e97a0f8fca4",
+      "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
+      "data": "2026-06-15T16:40:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "commercio-artigianato": [
+    {
+      "id": "ddc97b927c84",
+      "titolo": "Artigianato, al via le Aree di Sviluppo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/artigianato-al-via-aree-sviluppo",
+      "data": "2026-07-21T09:53:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "99839ca954f4",
+      "titolo": "La Regione pronta a fare la sua parte nel rilancio del polo fieristico del Lingotto di Torino",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-fare-sua-parte-nel-rilancio-polo-fieristico-lingotto-torino",
+      "data": "2026-07-17T11:04:32+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2ad96fab9afe",
+      "titolo": "Concessione del bar ristoro presso il Palazzo del Nuoto di via Filadelfia 89",
+      "link": "https://www.comune.torino.it/novita/avvisi/concessione-bar-ristoro-presso-palazzo-nuoto-via-filadelfia-89",
+      "data": "2026-07-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e4a6a8e351dc",
+      "titolo": "Luci e ombre per il vino piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/luci-ombre-per-vino-piemontese",
+      "data": "2026-07-08T15:15:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bbef429e6eff",
+      "titolo": "\"Lo sai che la tua mensa...\"",
+      "link": "https://www.comune.torino.it/novita/notizie/sai-che-tua-mensa",
+      "data": "2026-07-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5bd54c95b07b",
+      "titolo": "Modificato il Regolamento sui mercatini periodici tematici",
+      "link": "https://www.comune.torino.it/novita/comunicati/modificato-regolamento-sui-mercatini-periodici-tematici",
+      "data": "2026-06-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4d8929d4abeb",
+      "titolo": "Commercio di prossimità, Torino premia le 99 attività entrate nell'Albo EPIC nel 2025. Domenica al Conservatorio G. Verdi la cerimonia",
+      "link": "https://www.comune.torino.it/novita/comunicati/commercio-prossimita-torino-premia-99-attivita-entrate-nellalbo-epic-nel-2025",
+      "data": "2026-06-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "07a6d45d77e5",
+      "titolo": "La \"Truffa si camuffa\" fa tappa al mercato di piazza Foroni",
+      "link": "https://www.comune.torino.it/novita/notizie/truffa-si-camuffa-fa-tappa-al-mercato-piazza-foroni",
+      "data": "2026-06-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "lavoro-occupazione": [
     {
       "id": "b0f91a26de63",
@@ -391,64 +515,6 @@
       "fonte_id": "regione"
     }
   ],
-  "commercio-artigianato": [
-    {
-      "id": "99839ca954f4",
-      "titolo": "La Regione pronta a fare la sua parte nel rilancio del polo fieristico del Lingotto di Torino",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-fare-sua-parte-nel-rilancio-polo-fieristico-lingotto-torino",
-      "data": "2026-07-17T11:04:32+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2ad96fab9afe",
-      "titolo": "Concessione del bar ristoro presso il Palazzo del Nuoto di via Filadelfia 89",
-      "link": "https://www.comune.torino.it/novita/avvisi/concessione-bar-ristoro-presso-palazzo-nuoto-via-filadelfia-89",
-      "data": "2026-07-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e4a6a8e351dc",
-      "titolo": "Luci e ombre per il vino piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/luci-ombre-per-vino-piemontese",
-      "data": "2026-07-08T15:15:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bbef429e6eff",
-      "titolo": "\"Lo sai che la tua mensa...\"",
-      "link": "https://www.comune.torino.it/novita/notizie/sai-che-tua-mensa",
-      "data": "2026-07-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5bd54c95b07b",
-      "titolo": "Modificato il Regolamento sui mercatini periodici tematici",
-      "link": "https://www.comune.torino.it/novita/comunicati/modificato-regolamento-sui-mercatini-periodici-tematici",
-      "data": "2026-06-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4d8929d4abeb",
-      "titolo": "Commercio di prossimità, Torino premia le 99 attività entrate nell'Albo EPIC nel 2025. Domenica al Conservatorio G. Verdi la cerimonia",
-      "link": "https://www.comune.torino.it/novita/comunicati/commercio-prossimita-torino-premia-99-attivita-entrate-nellalbo-epic-nel-2025",
-      "data": "2026-06-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "07a6d45d77e5",
-      "titolo": "La \"Truffa si camuffa\" fa tappa al mercato di piazza Foroni",
-      "link": "https://www.comune.torino.it/novita/notizie/truffa-si-camuffa-fa-tappa-al-mercato-piazza-foroni",
-      "data": "2026-06-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "cultura-beni-culturali": [
     {
       "id": "99839ca954f4",
@@ -585,56 +651,6 @@
       "data": "2026-06-08T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "attivita-produttive": [
-    {
-      "id": "030669fa8a9e",
-      "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
-      "data": "2026-07-17T10:37:44+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0a3de0a9f26b",
-      "titolo": "I musei al centro della cultura: 3,1 milioni per investimenti strutturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/musei-al-centro-della-cultura-31-milioni-per-investimenti-strutturali",
-      "data": "2026-07-06T09:46:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "778e87c30d6b",
-      "titolo": "Bando per l’assegnazione di contributi a fondo perduto alle micro e piccole imprese",
-      "link": "https://www.comune.torino.it/novita/avvisi/bando-per-lassegnazione-contributi-fondo-perduto-alle-micro-piccole-imprese",
-      "data": "2026-07-03T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0c9d72d8030b",
-      "titolo": "Il bando 2026 per il credito in agricoltura",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
-      "data": "2026-07-02T12:05:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4992d095502c",
-      "titolo": "Ex Manifattura Tabacchi, via libera alle demolizioni controllate",
-      "link": "https://www.comune.torino.it/novita/comunicati/ex-manifattura-tabacchi-via-libera-alle-demolizioni-controllate",
-      "data": "2026-06-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1e97a0f8fca4",
-      "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
-      "data": "2026-06-15T16:40:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "agricoltura": [
