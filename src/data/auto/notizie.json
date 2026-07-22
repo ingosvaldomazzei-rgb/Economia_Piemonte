@@ -1,5 +1,25 @@
 [
   {
+    "id": "2586b5a68a25",
+    "titolo": "Una nuova legge sulle aree idonee per il fotovoltaico",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/una-nuova-legge-sulle-aree-idonee-per-fotovoltaico",
+    "descrizione": "Arrivare entro il 2030 a tagliare il traguardo di produzione di quasi 5 gigawatt di energia da fonti rinnovabili fissato al Governo è l’obiettivo che si pone la legge approvata il 21 luglio a maggioranza dal Consiglio regionale. La norma presentata dall’…",
+    "data": "2026-07-22T10:06:51+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "2ee063f28a70",
+    "titolo": "Edisu, bando per le borse di studio 2026-2027",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/edisu-bando-per-borse-studio-2026-2027",
+    "descrizione": "Un semestre in più di borsa di studio per gli iscritti part-time e ampliata l'offerta di residenzialità per sostenere sempre di più il diritto allo studio. Edisu Piemonte ha pubblicato il bando di concorso per le borse di studio e il servizio abitativo…",
+    "data": "2026-07-22T09:19:39+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "bac1220fed97",
     "titolo": "La Corte dei Conti parifica il rendiconto 2025 della Regione Piemonte",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corte-dei-conti-parifica-rendiconto-2025-della-regione-piemonte",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "89ff41011948",
-    "titolo": "Festival di Porta Palazzo, tre giorni tra cibo, musica e arte per valorizzare il mercato più grande d’Europa",
-    "link": "https://www.comune.torino.it/novita/comunicati/festival-porta-palazzo-tre-giorni-cibo-musica-arte-per-valorizzare-mercato-piu",
-    "descrizione": "Un Festival dedicato a Porta Palazzo e al suo storico mercato all’aperto, riconosciuto come il più grande d’Europa. È quello che andrà in scena da domani.",
-    "data": "2026-06-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4a7e2479d523",
-    "titolo": "Meisino, la Città avvia il confronto con CONI Piemonte per la gestione del nuovo Centro per l'Educazione Sportiva e Ambientale",
-    "link": "https://www.comune.torino.it/novita/comunicati/meisino-citta-avvia-confronto-coni-piemonte-per-gestione-nuovo-centro-per",
-    "descrizione": "La Giunta comunale ha preso atto della proposta approvando nella seduta odierna la delibera dell’assessore allo Sport Domenico Carretta",
-    "data": "2026-06-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
