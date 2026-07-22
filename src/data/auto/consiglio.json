@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-07-22T08:37:19.926037+00:00",
+  "ultimo_aggiornamento": "2026-07-22T14:09:12.023355+00:00",
   "sedute": [
     {
       "id": "a6aee247819c",
@@ -8,7 +8,7 @@
       "titolo": "Seduta n. 103 del 21/07/2026",
       "data": "2026-07-21T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=103&data_seduta=21-07-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89334&nome_file=Sintesi%20n.%20103_21%20luglio2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
