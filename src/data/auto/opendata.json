@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-07-23T03:25:39",
+  "ultimo_aggiornamento": "2026-07-23T08:39:44",
   "dati_piemonte": {
     "datasets_recenti": [],
     "tags_principali": [],
@@ -18,7 +18,7 @@
       "anno": 2026,
       "url": "https://servizi.comune.torino.it/consiglio/prg/documenti/documentazione/opendata/votazioni2026.csv",
       "disponibile": false,
-      "dimensione": "N/D"
+      "errore": "HTTPSConnectionPool(host='servizi.comune.torino.it', port=443): Max retries exceeded with url: /consiglio/prg/documenti/documentazione/opendata/votazioni2026.csv (Caused by ConnectTimeoutError(<HTTPSConnection(host='servizi.comune.torino.it', port=443) at 0x7f6c2c0eba50>, 'Connection to servizi.comune.torino.it timed out. (connect timeout=10)'))"
     },
     {
       "dataset": "presenze",
