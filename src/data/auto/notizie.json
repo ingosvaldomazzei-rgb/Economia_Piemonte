@@ -1,5 +1,25 @@
 [
   {
+    "id": "0d5574489fb0",
+    "titolo": "Orario estivo SFEP",
+    "link": "https://www.comune.torino.it/novita/avvisi/orario-estivo-sfep",
+    "descrizione": "Orario estivo SFEP da lunedì 27/07/2026",
+    "data": "2026-07-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0c06fc426e93",
+    "titolo": "Concessione immobile di proprietà comunale sito in Noli, via Aurelia 43",
+    "link": "https://www.comune.torino.it/novita/avvisi/concessione-immobile-proprieta-comunale-sito-noli-via-aurelia-43",
+    "descrizione": "Concessione di immobile di proprietà comunale sito in Noli, via Aurelia 43 a soggetti senza fine di lucro. - Avviso Pubblico n. 2/2026",
+    "data": "2026-07-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "a74464e91c26",
     "titolo": "First Place, un nuovo spazio per l’autonomia abitativa e l’inclusione a Barriera di Milano",
     "link": "https://www.comune.torino.it/novita/comunicati/first-place-un-nuovo-spazio-per-lautonomia-abitativa-linclusione-barriera-milano",
@@ -1974,26 +1994,6 @@
     "titolo": "Aggiornamenti orari piscine",
     "link": "https://www.comune.torino.it/novita/avvisi/aggiornamenti-orari-piscine",
     "descrizione": "Pubblicazione aggiornamenti orari piscine comunali.",
-    "data": "2026-06-10T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e55eaefe481f",
-    "titolo": "“Scrivimi quando arrivi”, da oggi la campagna della Città di Torino per la mobilità sicura",
-    "link": "https://www.comune.torino.it/novita/comunicati/scrivimi-quando-arrivi-oggi-campagna-della-citta-torino-per-mobilita-sicura",
-    "descrizione": "\"Scrivimi quando arrivi. Non guidare se hai assunto alcol o droghe\" è il claim della campagna del progetto di Mobilità sicura per i giovani.",
-    "data": "2026-06-10T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e2c7197bfdac",
-    "titolo": "Vallette, inaugurato il “nuovo” mercato coperto “Le Verbene” dopo i lavori di riqualificazione",
-    "link": "https://www.comune.torino.it/novita/comunicati/vallette-inaugurato-nuovo-mercato-coperto-verbene-dopo-lavori-riqualificazione",
-    "descrizione": "Taglio del nastro per il rinnovato mercato coperto di via delle Verbene, lo storico polo commerciale del quartiere Vallette.",
     "data": "2026-06-10T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
