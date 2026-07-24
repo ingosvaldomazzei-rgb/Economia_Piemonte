@@ -1,5 +1,15 @@
 [
   {
+    "id": "9e93b33a1938",
+    "titolo": "A Torino il Festival del Paesaggio Fluviale: arte, ricerca e partecipazione lungo il Sangone",
+    "link": "https://www.comune.torino.it/novita/notizie/torino-festival-paesaggio-fluviale-arte-ricerca-partecipazione-lungo-sangone",
+    "descrizione": "Dal 20 al 27 settembre 2026 Mirafiori Sud ospiterà la prima edizione del Festival del Paesaggio Fluviale",
+    "data": "2026-09-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "0e0852272207",
     "titolo": "Aperta la nuova passerella ciclopedonale del Parco del Meisino",
     "link": "https://www.comune.torino.it/novita/comunicati/aperta-nuova-passerella-ciclopedonale-parco-meisino",
@@ -1984,16 +1994,6 @@
     "titolo": "“Kind of Davis”, il concerto del Centro Civico di Formazione Musicale della Città di Torino che omaggia Miles Davis nel centenario della nascita",
     "link": "https://www.comune.torino.it/novita/comunicati/kind-of-davis-concerto-centro-civico-formazione-musicale-della-citta-torino-che-0",
     "descrizione": "Giovedì 11 giugno, alle ore 21, al Conservatorio Giuseppe Verdi di Torino, il Centro civico di Formazione Musicale della Città di Torino presenta Kind of Davis.",
-    "data": "2026-06-10T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "07a6d45d77e5",
-    "titolo": "La \"Truffa si camuffa\" fa tappa al mercato di piazza Foroni",
-    "link": "https://www.comune.torino.it/novita/notizie/truffa-si-camuffa-fa-tappa-al-mercato-piazza-foroni",
-    "descrizione": "Prosegue la campagna informativa contro le truffe agli anziani nei mercati cittadini.",
     "data": "2026-06-10T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

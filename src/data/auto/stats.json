@@ -7,12 +7,12 @@
   },
   "temi_attivi": [
     {
-      "tema": "lavoro-occupazione",
+      "tema": "cultura-beni-culturali",
       "conteggio": 16
     },
     {
-      "tema": "cultura-beni-culturali",
-      "conteggio": 15
+      "tema": "lavoro-occupazione",
+      "conteggio": 16
     },
     {
       "tema": "agricoltura",
@@ -35,16 +35,16 @@
       "conteggio": 11
     },
     {
-      "tema": "sociale-welfare",
-      "conteggio": 9
-    },
-    {
       "tema": "energia",
       "conteggio": 9
     },
     {
       "tema": "pianificazione-territoriale",
       "conteggio": 9
+    },
+    {
+      "tema": "universita-ricerca",
+      "conteggio": 8
     }
   ],
   "totale_temi_con_notizie": 26
