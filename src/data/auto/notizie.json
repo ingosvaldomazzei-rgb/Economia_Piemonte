@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "a585b363e6e9",
+    "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
+    "descrizione": "“L'obiettivo comune è far ripartire al più presto un'opera strategica per l'intera area metropolitana torinese. La Regione è pronta a fare la propria parte e insieme al presidente Cirio porteremo all’attenzione del Governo, in accordo con i sindaci, la necessità di reperire nel…",
+    "data": "2026-07-24T19:23:51+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "7107d6d2fb41",
+    "titolo": "Un data center nell’ex centrale di Trino",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-data-center-nellex-centrale-trino",
+    "descrizione": "La decisione del Consiglio dei ministri che ha dichiarato di preminente interesse strategico nazionale il programma di investimento “Cavour Hyperscale Campus”, destinato a trasformare l’area dell'ex centrale Galileo Ferraris di Trino (Vercelli) in uno…",
+    "data": "2026-07-24T18:55:40+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "0e0852272207",
     "titolo": "Aperta la nuova passerella ciclopedonale del Parco del Meisino",
     "link": "https://www.comune.torino.it/novita/comunicati/aperta-nuova-passerella-ciclopedonale-parco-meisino",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "939d896209be",
-    "titolo": "“Kind of Davis”, il concerto del Centro Civico di Formazione Musicale della Città di Torino che omaggia Miles Davis nel centenario della nascita",
-    "link": "https://www.comune.torino.it/novita/comunicati/kind-of-davis-concerto-centro-civico-formazione-musicale-della-citta-torino-che",
-    "descrizione": "Il Centro civico di Formazione Musicale della Città di Torino presenta Kind of Davis, concerto che chiude l’anno di studi 2025/2026 con un omaggio a Miles Davis",
-    "data": "2026-06-10T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "93ceaee8468e",
-    "titolo": "“Kind of Davis”, il concerto del Centro Civico di Formazione Musicale della Città di Torino che omaggia Miles Davis nel centenario della nascita",
-    "link": "https://www.comune.torino.it/novita/comunicati/kind-of-davis-concerto-centro-civico-formazione-musicale-della-citta-torino-che-0",
-    "descrizione": "Giovedì 11 giugno, alle ore 21, al Conservatorio Giuseppe Verdi di Torino, il Centro civico di Formazione Musicale della Città di Torino presenta Kind of Davis.",
-    "data": "2026-06-10T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
