@@ -8,7 +8,7 @@
   "temi_attivi": [
     {
       "tema": "cultura-beni-culturali",
-      "conteggio": 17
+      "conteggio": 18
     },
     {
       "tema": "lavoro-occupazione",
@@ -19,12 +19,12 @@
       "conteggio": 15
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
+      "tema": "sanita-regionale",
       "conteggio": 14
     },
     {
-      "tema": "sanita-regionale",
-      "conteggio": 14
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 13
     },
     {
       "tema": "sport",

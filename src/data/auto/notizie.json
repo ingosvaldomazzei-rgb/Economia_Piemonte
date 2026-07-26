@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "cebf2d96266a",
+    "titolo": "Il grande successo della terza edizione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/grande-successo-della-terza-edizione",
+    "descrizione": "Accordo quinquennale di cooperazione tra Regione Piemonte, Regione autonoma Valle d'Aosta e Département de la Savoie, premiazione di chi ha scelto di andare a vivere in montagna, valorizzazione del patrimonio naturale, culturale ed economico delle montagne, lancio della nuova guida di Lonely…",
+    "data": "2026-07-26T17:52:03+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "4dcbadb302e6",
     "titolo": "Inaugurata a Exilles la \"Falesia dei lupi\"",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inaugurata-exilles-falesia-dei-lupi",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "84722aa8c196",
-    "titolo": "Ripartiti i 10 milioni per servizi essenziali e sviluppo in montagna",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ripartiti-10-milioni-per-servizi-essenziali-sviluppo-montagna",
-    "descrizione": "La Regione ha approvato il riparto dei 10 milioni di euro del Fondo per lo sviluppo delle montagne italiane (FOSMIT) destinati alle Unioni montane piemontesi per il mantenimento dei servizi essenziali, sostenere la qualità della vita delle…",
-    "data": "2026-06-10T14:48:01+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
