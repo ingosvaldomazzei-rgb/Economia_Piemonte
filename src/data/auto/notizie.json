@@ -40,6 +40,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "c611df99abee",
+    "titolo": "Val di Susa, la Sala Rossa condanna le violenze ed esprime solidarietà agli agenti feriti",
+    "link": "https://www.comune.torino.it/novita/comunicati/val-susa-sala-rossa-condanna-violenze-esprime-solidarieta-agli-agenti-feriti",
+    "descrizione": "In apertura della seduta del Consiglio Comunale di Torino del 27 luglio 2026, la presidente Maria Grazia Grippo ha letto una nota",
+    "data": "2026-07-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "7b873b05b26c",
     "titolo": "I 150 anni della ferrovia Torino-Lanzo",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/150-anni-della-ferrovia-torino-lanzo",
@@ -1985,16 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tornano-regionali-mare-dal-piemonte-alla-riviera-romagnola",
     "descrizione": "Dal 14 giugno al 13 settembre tornano i “Regionali del Mare”, i collegamenti ferroviari diretti del fine settimana tra il Piemonte e la Riviera romagnola, pensati per offrire un’alternativa comoda, sostenibile e accessibile all’auto privata.…",
     "data": "2026-06-11T16:31:38+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "5472f4290055",
-    "titolo": "In Regione una delegazione della Bosnia-Erzegovina",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-una-delegazione-della-bosnia-erzegovina",
-    "descrizione": "l presidente della Regione Piemonte Alberto Cirio e il vicepresidente e assessore alla Cooperazione internazionale Maurizio Marrone hanno ricevuto ieri pomeriggio al Grattacielo Piemonte una delegazione mista, istituzionale e di imprenditori,…",
-    "data": "2026-06-11T16:18:25+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
