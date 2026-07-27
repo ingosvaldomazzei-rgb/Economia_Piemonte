@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "a6778ba3db44",
+    "titolo": "Chiusura estiva - Uffici Rilascio stalli di sosta a persone con disabilità",
+    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-estiva-uffici-rilascio-stalli-sosta-persone-disabilita",
+    "descrizione": "Chiusura estiva dal 10 al 15 agosto compresi.",
+    "data": "2026-07-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7b873b05b26c",
+    "titolo": "I 150 anni della ferrovia Torino-Lanzo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/150-anni-della-ferrovia-torino-lanzo",
+    "descrizione": "Domenica 26 luglio sono stati celebrati i 150 anni della ferrovia Torino-Lanzo, uno dei simboli della storia ferroviaria piemontese e il legame tra il territorio e il suo patrimonio. In mattinata è partito da Torino Porta Nuova un treno storico…",
+    "data": "2026-07-27T10:19:03+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "cebf2d96266a",
     "titolo": "Il grande successo della terza edizione",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/grande-successo-della-terza-edizione",
@@ -1974,26 +1994,6 @@
     "titolo": "Acconto IMU 2026 aree fabbricabili - nuovo PRG",
     "link": "https://www.comune.torino.it/novita/avvisi/acconto-imu-2026-aree-fabbricabili-nuovo-prg",
     "descrizione": "Indicazioni sul versamento dell'acconto IMU 2026 per le aree edificabili a seguito dell'approvazione del Progetto Preliminare del nuovo PRG",
-    "data": "2026-06-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "eb057e1d8a07",
-    "titolo": "Inaugurato il nuovo Centro di Raccolta di via Massari: da lunedì 15 giugno l’apertura al pubblico",
-    "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-nuovo-centro-raccolta-via-massari-lunedi-15-giugno-lapertura-al",
-    "descrizione": "È stato inaugurato oggi il nuovo Centro di Raccolta di via Massari, che aprirà al pubblico da lunedì 15 giugno.",
-    "data": "2026-06-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c450c0574092",
-    "titolo": "La Corte apre a Mirafiori Nord: un nuovo spazio per inclusione, formazione e autonomia delle persone con disabilità",
-    "link": "https://www.comune.torino.it/novita/comunicati/corte-apre-mirafiori-nord-un-nuovo-spazio-per-inclusione-formazione-autonomia",
-    "descrizione": "Taglio del nastro questo pomeriggio in via Rubino 82 per La Corte, la nuova sede dell’Associazione I Buffoni di Corte APS: un polo dedicato all’inclusione socia",
     "data": "2026-06-11T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 126,
-    "regione": 73,
+    "comune_torino": 125,
+    "regione": 74,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -35,11 +35,11 @@
       "conteggio": 11
     },
     {
-      "tema": "energia",
-      "conteggio": 9
+      "tema": "pianificazione-territoriale",
+      "conteggio": 10
     },
     {
-      "tema": "pianificazione-territoriale",
+      "tema": "energia",
       "conteggio": 9
     },
     {
