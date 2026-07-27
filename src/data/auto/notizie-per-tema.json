@@ -53,6 +53,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "a2d437e14a22",
+      "titolo": "La Regione parte civile sugli scontri di Chiomonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-parte-civile-sugli-scontri-chiomonte",
+      "data": "2026-07-27T14:17:34+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "cebf2d96266a",
       "titolo": "Il grande successo della terza edizione",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/grande-successo-della-terza-edizione",
@@ -937,14 +945,6 @@
       "data": "2026-06-11T18:37:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "c68a56cf9a40",
-      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
-      "data": "2026-06-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "giovani": [
@@ -1461,14 +1461,6 @@
       "titolo": "Torino e GTT al fianco di Kharkiv: completata la prima fase del progetto di solidarietà con la consegna di 40 autobus",
       "link": "https://www.comune.torino.it/novita/comunicati/torino-gtt-al-fianco-kharkiv-completata-prima-fase-progetto-solidarieta-consegna",
       "data": "2026-06-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c68a56cf9a40",
-      "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
-      "data": "2026-06-11T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }

@@ -10,10 +10,30 @@
     "colore": "#dc2626"
   },
   {
+    "id": "a2d437e14a22",
+    "titolo": "La Regione parte civile sugli scontri di Chiomonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-parte-civile-sugli-scontri-chiomonte",
+    "descrizione": "La Giunta regionale ha deciso nel corso della riunione odierna di costituirsi formalmente parte civile nei procedimenti che seguiranno ai gravi scontri avvenuti sabato scorso nel cantiere della Torino-Lione a Chiomonte. “La prima stima dei danni diretti…",
+    "data": "2026-07-27T14:17:34+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "a6778ba3db44",
     "titolo": "Chiusura estiva - Uffici Rilascio stalli di sosta a persone con disabilità",
     "link": "https://www.comune.torino.it/novita/avvisi/chiusura-estiva-uffici-rilascio-stalli-sosta-persone-disabilita",
     "descrizione": "Chiusura estiva dal 10 al 15 agosto compresi.",
+    "data": "2026-07-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "19099c586673",
+    "titolo": "Concessione di immobili di proprietà comunale a soggetti senza fine di lucro – 3 Lotti",
+    "link": "https://www.comune.torino.it/novita/avvisi/concessione-immobili-proprieta-comunale-soggetti-senza-fine-lucro-3-lotti",
+    "descrizione": "Avviso Pubblico n. 3/2026 - Concessione di immobili di proprietà comunale a soggetti senza fine di lucro – 3 Lotti",
     "data": "2026-07-27T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -94,6 +114,16 @@
     "titolo": "Concessione immobile di proprietà comunale sito in Noli, via Aurelia 43",
     "link": "https://www.comune.torino.it/novita/avvisi/concessione-immobile-proprieta-comunale-sito-noli-via-aurelia-43",
     "descrizione": "Concessione di immobile di proprietà comunale sito in Noli, via Aurelia 43 a soggetti senza fine di lucro. - Avviso Pubblico n. 2/2026",
+    "data": "2026-07-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "375912164f24",
+    "titolo": "Concessione di immobile di proprietà comunale a soggetti senza fine di lucro",
+    "link": "https://www.comune.torino.it/novita/avvisi/concessione-immobile-proprieta-comunale-soggetti-senza-fine-lucro",
+    "descrizione": "Avviso Pubblico n. 2/2026 - Concessione di immobile di proprietà comunale sito in Noli, via Aurelia 43 a soggetti senza fine di lucro",
     "data": "2026-07-23T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1968,35 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "c68a56cf9a40",
-    "titolo": "Torino intitola a Luigi Tosini il campo sportivo della parrocchia San Benedetto Abate",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-intitola-luigi-tosini-campo-sportivo-della-parrocchia-san-benedetto-abate",
-    "descrizione": "Sabato 13 giugno si terrà la cerimonia di intitolazione del campo sportivo della Parrocchia di via Delleani 24 in memoria di Luigi Tosini",
-    "data": "2026-06-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e927bbf384d7",
-    "titolo": "Taglio del nastro per gli appartamenti per l'autonomia e la palestra di arrampicata accessibile della Cooperativa Puzzle",
-    "link": "https://www.comune.torino.it/novita/comunicati/taglio-nastro-per-appartamenti-per-lautonomia-palestra-arrampicata-accessibile",
-    "descrizione": "Sono stati inaugurati oggi, in via Cimabue 2, i nuovi appartamenti per l’autonomia e una palestra di arrampicata accessibile all’interno del complesso gestito d",
-    "data": "2026-06-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f5045dc4f969",
-    "titolo": "Acconto IMU 2026 aree fabbricabili - nuovo PRG",
-    "link": "https://www.comune.torino.it/novita/avvisi/acconto-imu-2026-aree-fabbricabili-nuovo-prg",
-    "descrizione": "Indicazioni sul versamento dell'acconto IMU 2026 per le aree edificabili a seguito dell'approvazione del Progetto Preliminare del nuovo PRG",
-    "data": "2026-06-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
