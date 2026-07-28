@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "cd739c02375b",
+    "titolo": "Il Piano della qualità dell’aria entra nella fase operativa",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-della-qualita-dellaria-entra-nella-fase-operativa",
+    "descrizione": "L’aggiornamento del Piano della qualità dell’aria può entrare nella fase operativa dopo l’approvazione del Consiglio regionale. Il provvedimento definisce la strategia ambientale dei prossimi anni, sancisce il superamento…",
+    "data": "2026-07-28T19:01:24+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "f2a65c958738",
+    "titolo": "In Piemonte 5 nuovi Distretti del Commercio",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-5-nuovi-distretti-commercio",
+    "descrizione": "Sono cinque i nuovi Distretti del Commercio che saranno istituiti in Piemonte dalla Regione: due a Torino (Sud e Nord), uno nel Pinerolese, uno a Trofarello e uno nell’area di …",
+    "data": "2026-07-28T16:47:38+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "1af1a23db891",
     "titolo": "Polizia locale, nasce il primo gruppo cinofilo regionale",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/polizia-locale-nasce-primo-gruppo-cinofilo-regionale",
@@ -74,6 +94,16 @@
     "titolo": "Impianti sportivi, dalla Giunta 650mila euro per la manutenzione straordinaria di tre strutture. Via libera al nuovo playground di corso Cadore finanziato dal bando \"Sport Illumina\"",
     "link": "https://www.comune.torino.it/novita/comunicati/impianti-sportivi-dalla-giunta-650mila-euro-per-manutenzione-straordinaria-tre",
     "descrizione": "La Giunta ha approvato nella seduta odierna il progetto esecutivo per la realizzazione di interventi di manutenzione straordinaria in tre impianti sportivi.",
+    "data": "2026-07-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1fa9b291b729",
+    "titolo": "Sala del Commiato del Cimitero Parco: la Giunta approva le regole per l’utilizzo",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-commiato-cimitero-parco-giunta-approva-regole-per-lutilizzo",
+    "descrizione": "Sarà possibile dare l’ultimo saluto ai propri cari anche in uno spazio pubblico, laico, accessibile e pensato per accogliere familiari e amici.",
     "data": "2026-07-28T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1968,35 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "6f49064393c1",
-    "titolo": "A Luigi Tosini il campo sportivo che contribuì a fare nascere",
-    "link": "https://www.comune.torino.it/novita/comunicati/luigi-tosini-campo-sportivo-che-contribui-fare-nascere",
-    "descrizione": "La Città di Torino ha reso omaggio a Luigi Tosini, figura centrale della vita di Pozzo Strada attraverso un impegno lungo decenni dedicato ai giovani.",
-    "data": "2026-06-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f8617a62e28a",
-    "titolo": "Nel nuovo Geoportale del Piemonte 53 \"monumenti\" geologici da tutelare",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nel-nuovo-geoportale-piemonte-53-monumenti-geologici-tutelare",
-    "descrizione": "Dalle “terre ballerine” di Montalto Dora alle Rocche del Tanaro, dai fossili del Pliocene in Valle Botto nell’Astigiano alla caldera del supervulcano della Valsesia: il patrimonio geologico del Piemonte è accessibile on-line attraverso il nuovo…",
-    "data": "2026-06-12T12:48:02+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ce9a0063776f",
-    "titolo": "Da Fondazione Compagnia di San Paolo e Città di Torino una “primavera” di opportunità per bambine e bambini da 0 a 6 anni e famiglie",
-    "link": "https://www.comune.torino.it/novita/comunicati/fondazione-compagnia-san-paolo-citta-torino-una-primavera-opportunita-per",
-    "descrizione": "Lo scorso 21 aprile, la Fondazione Compagnia di San Paolo ha pubblicato le Linee Guida 06 - Alleanze ad Alta Intensità Educativa.",
-    "data": "2026-06-12T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
