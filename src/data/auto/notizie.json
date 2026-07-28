@@ -10,6 +10,76 @@
     "colore": "#dc2626"
   },
   {
+    "id": "1af1a23db891",
+    "titolo": "Polizia locale, nasce il primo gruppo cinofilo regionale",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/polizia-locale-nasce-primo-gruppo-cinofilo-regionale",
+    "descrizione": "Un passo avanti per rafforzare la sicurezza e rendere più efficace il supporto operativo ai Comandi di Polizia locale di tutto il Piemonte. La Regione Piemonte dà il via al progetto sperimentale per la costituzione del primo gruppo di unità cinofile della Polizia locale a…",
+    "data": "2026-07-28T14:39:52+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "d5f96aa64cfc",
+    "titolo": "Nuove regole per i dehor con l’obiettivo di sburocratizzare e semplificare le procedure di richiesta",
+    "link": "https://www.comune.torino.it/novita/comunicati/nuove-regole-per-dehor-lobiettivo-sburocratizzare-semplificare-procedure",
+    "descrizione": "Questa mattina la Giunta ha approvato la modifica del Regolamento sulla disciplina dell'allestimento dei dehor su suolo pubblico o privato.",
+    "data": "2026-07-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a42e8fee4de4",
+    "titolo": "Impianti più sicuri ed efficienti negli edifici comunali: approvati lavori per 880mila euro",
+    "link": "https://www.comune.torino.it/novita/comunicati/impianti-piu-sicuri-efficienti-negli-edifici-comunali-approvati-lavori-per",
+    "descrizione": "La Giunta comunale ha approvato un progetto di manutenzione straordinaria su scuole e altri immobili della Città.",
+    "data": "2026-07-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6b659e0dd97d",
+    "titolo": "Maneggio Alfieriano, la Città acquisisce il progetto esecutivo di Lacaton & Vassal finanziato da Compagnia di San Paolo",
+    "link": "https://www.comune.torino.it/novita/comunicati/maneggio-alfieriano-citta-acquisisce-progetto-esecutivo-lacaton-vassal",
+    "descrizione": "La Città acquisisce il progetto esecutivo elaborato dallo studio Lacaton & Vassal e finanziato dalla Compagnia di San Paolo.",
+    "data": "2026-07-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "019f6eb92ac6",
+    "titolo": "Illuminazione più efficiente per Borgo Vittoria: approvati gli interventi. Lavori per 120mila euro",
+    "link": "https://www.comune.torino.it/novita/comunicati/illuminazione-piu-efficiente-per-borgo-vittoria-approvati-interventi-lavori-per",
+    "descrizione": "La Giunta comunale ha dato il via libera al progetto esecutivo per il rinnovo e il potenziamento dell'illuminazione pubblica a Borgo Vittoria.",
+    "data": "2026-07-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "c5f478cef09c",
+    "titolo": "Sperimentazione positiva, diventano definitive quattro aree pedonali",
+    "link": "https://www.comune.torino.it/novita/comunicati/sperimentazione-positiva-diventano-definitive-quattro-aree-pedonali",
+    "descrizione": "La Giunta comunale ha approvato la trasformazione delle aree pedonali di via Aquileia, via Doria, via Fattori e via Coazze in provvedimenti permanenti.",
+    "data": "2026-07-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0de66eed7a8d",
+    "titolo": "Impianti sportivi, dalla Giunta 650mila euro per la manutenzione straordinaria di tre strutture. Via libera al nuovo playground di corso Cadore finanziato dal bando \"Sport Illumina\"",
+    "link": "https://www.comune.torino.it/novita/comunicati/impianti-sportivi-dalla-giunta-650mila-euro-per-manutenzione-straordinaria-tre",
+    "descrizione": "La Giunta ha approvato nella seduta odierna il progetto esecutivo per la realizzazione di interventi di manutenzione straordinaria in tre impianti sportivi.",
+    "data": "2026-07-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "a2d437e14a22",
     "titolo": "La Regione parte civile sugli scontri di Chiomonte",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-parte-civile-sugli-scontri-chiomonte",
@@ -23,7 +93,7 @@
     "id": "a6778ba3db44",
     "titolo": "Chiusura estiva - Uffici Rilascio stalli di sosta a persone con disabilità",
     "link": "https://www.comune.torino.it/novita/avvisi/chiusura-estiva-uffici-rilascio-stalli-sosta-persone-disabilita",
-    "descrizione": "Chiusura estiva dal 10 al 15 agosto compresi.",
+    "descrizione": "Chiusura estiva dal 10 al 14 agosto compresi.",
     "data": "2026-07-27T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1928,75 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "ac00ef61f133",
-    "titolo": "Torino Cambia - spazi che uniscono: da via Cigna - via Cecchi il via agli interventi per incroci più sicuri sostenuti da Fondazione Crt",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-spazi-che-uniscono-via-cigna-via-cecchi-via-agli-interventi-per",
-    "descrizione": "Lunedì 15 giugno al via i lavori per la messa in sicurezza dell'incrocio tra via Cigna e via Cecchi, primo di otto cantieri previsti dal progetto",
-    "data": "2026-06-12T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f62e16a9adc7",
-    "titolo": "Torino e GTT al fianco di Kharkiv: completata la prima fase del progetto di solidarietà con la consegna di 40 autobus",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-gtt-al-fianco-kharkiv-completata-prima-fase-progetto-solidarieta-consegna",
-    "descrizione": "Si è completata oggi la prima fase del progetto di sostegno al trasporto pubblico della città di Kharkiv (Ucraina), promosso dalla Città di Torino e da GTT.",
-    "data": "2026-06-12T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1d561a2a642e",
-    "titolo": "Quest’estate 14 campi scuola di Protezione civile",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/questestate-14-campi-scuola-protezione-civile",
-    "descrizione": "Sta per iniziare anche in Piemonte la stagione dei campi estivi di Protezione civile: ad oltre 300 ragazzi e ragazze dai 10 ai 16 anni di 14 città verrà insegnato a proteggere la natura e la vita delle persone, a prevenire i danni causati dagli incendi boschivi, a capire l’…",
-    "data": "2026-06-12T11:49:55+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "324099fb7f78",
-    "titolo": "Da Alcotra più risorse per i territori di confine con la Francia",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/alcotra-piu-risorse-per-territori-confine-francia",
-    "descrizione": "Più risorse per i progetti dei territori alpini e primi passi verso la futura programmazione europea 2028-2034 sono i principali risultati emersi dal Comitato di Sorveglianza del Programma Interreg A…",
-    "data": "2026-06-12T10:40:23+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "39077ade30c6",
-    "titolo": "Firmato il riconoscimento dell’IRCCS pubblico Alessandria-Casale Monferrato",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/firmato-riconoscimento-dellirccs-pubblico-alessandria-casale-monferrato",
-    "descrizione": "Il ministro della Salute Orazio Schillaci, d’intesa con il presidente della Regione Piemonte Alberto Cirio, ha firmato il decreto di riconoscimento dell’Azienda ospedaliero-universitaria SS. Antonio e Biagio e Cesare Arrigo di Alessandria quale Istituto di Ricovero e Cura a Carattere…",
-    "data": "2026-06-11T18:37:04+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ae7b08302d25",
-    "titolo": "Pedemontana piemontese: i cantieri dal 6 luglio",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/pedemontana-piemontese-cantieri-dal-6-luglio",
-    "descrizione": "Il 6 luglio inizieranno i lavori per la realizzazione delle opere infrastrutturali della Pedemontana piemontese. A darne l'annuncio sono stati il presidente della Regione Alberto Cirio e…",
-    "data": "2026-06-11T17:20:26+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "dc8430e11f35",
-    "titolo": "Tornano i “Regionali del Mare” dal Piemonte alla Riviera romagnola",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tornano-regionali-mare-dal-piemonte-alla-riviera-romagnola",
-    "descrizione": "Dal 14 giugno al 13 settembre tornano i “Regionali del Mare”, i collegamenti ferroviari diretti del fine settimana tra il Piemonte e la Riviera romagnola, pensati per offrire un’alternativa comoda, sostenibile e accessibile all’auto privata.…",
-    "data": "2026-06-11T16:31:38+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
