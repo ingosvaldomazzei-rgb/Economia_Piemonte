@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "f5d3b2a64e38",
+    "titolo": "Il giardino Natale Re si rinnova",
+    "link": "https://www.comune.torino.it/novita/notizie/giardino-natale-re-si-rinnova",
+    "descrizione": "E' stata creata una nuova area giochi accessibile e inclusiva grazie agli interventi PNRR e a una sponsorizzazione privata.",
+    "data": "2026-07-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "cd739c02375b",
     "titolo": "Il Piano della qualità dell’aria entra nella fase operativa",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-della-qualita-dellaria-entra-nella-fase-operativa",
@@ -25,6 +35,16 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-5-nuovi-distretti-commercio",
     "descrizione": "Sono cinque i nuovi Distretti del Commercio che saranno istituiti in Piemonte dalla Regione: due a Torino (Sud e Nord), uno nel Pinerolese, uno a Trofarello e uno nell’area di …",
     "data": "2026-07-28T16:47:38+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "5cd1e25ae742",
+    "titolo": "Al Concerto di Ferragosto un viaggio musicale nel Novecento",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-concerto-ferragosto-un-viaggio-musicale-nel-novecento",
+    "descrizione": "Sarà interamente dedicato al Novecento, nell’anno dell’80° anniversario della Repubblica italiana, il repertorio che l’orchestra Bartolomeo Bruni eseguirà durante il Concerto di Ferragosto, che quest’anno sarà ospitato a Rucàs di Bagnolo Piemonte…",
+    "data": "2026-07-28T16:31:35+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
@@ -1978,25 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "85928bb2f7b8",
-    "titolo": "A Susanna Egri il Sigillo civico di Torino",
-    "link": "https://www.comune.torino.it/novita/notizie/susanna-egri-sigillo-civico-torino",
-    "descrizione": "L'onorificenza nell'anno del centenario della figlia dell'allenatore del Grande Torino",
-    "data": "2026-06-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1a3db387c9cf",
-    "titolo": "“Asti Vibes”, il nuovo cocktail piemontese",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/asti-vibes-nuovo-cocktail-piemontese",
-    "descrizione": "“Asti Vibes” è il nuovo cocktail piemontese che unisce in un unico calice due eccellenze quali l’Asti spumante Docg e il Vermouth di Torino Igp. Il nome è stato svelato ieri sera nell’evento svoltosi presso il ristorante-…",
-    "data": "2026-06-13T13:50:23+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
