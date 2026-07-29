@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "93db91f00de9",
+    "titolo": "Transizione energetica, si riqualificano 21 edifici pubblici",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/transizione-energetica-si-riqualificano-21-edifici-pubblici",
+    "descrizione": "La Regione Piemonte segna un importante punto a favore della transizione energetica: si è conclusa con successo la gara europea del progetto Gasless, curata da Scr Piemonte, per la riqualificazione energetica di 21 edifici pubblici. Ad aggiudicarsi la procedura è stata…",
+    "data": "2026-07-29T16:08:41+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "f5d3b2a64e38",
     "titolo": "Il giardino Natale Re si rinnova",
     "link": "https://www.comune.torino.it/novita/notizie/giardino-natale-re-si-rinnova",
@@ -18,6 +28,36 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "da098a47c9c4",
+    "titolo": "Polizia Locale, operazione di controllo del codice della strada. Otto veicoli sanzionati",
+    "link": "https://www.comune.torino.it/novita/comunicati/polizia-locale-operazione-controllo-codice-della-strada-otto-veicoli-sanzionati",
+    "descrizione": "Un furgone e due camper rimossi, 1 fermo amministrativo, 1 sanzionato e 3 mezzi finiti sotto sequestro per violazioni al Codice della Strada.",
+    "data": "2026-07-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "20d37c73aedc",
+    "titolo": "Torino e Polizia Locale capofila del progetto europeo “Diverpol” contro le discriminazioni",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-polizia-locale-capofila-progetto-europeo-diverpol-contro-discriminazioni",
+    "descrizione": "La Città di Torino, nel consiglio direttivo del Forum Europeo per la Sicurezza Urbana, sarà capofila del progetto europeo Diverpol.",
+    "data": "2026-07-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8117d2ad2a1c",
+    "titolo": "Ai primi di agosto 93 milioni di anticipi Pac a 25.500 aziende agricole",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ai-primi-agosto-93-milioni-anticipi-pac-25500-aziende-agricole",
+    "descrizione": "Entro i primi giorni di agosto 25.500 aziende agricole piemontesi riceveranno un anticipo stimato in 93 milioni e 250mila euro dei pagamenti della Politica agricola comune (Pac), pari al 75% del contributo totale spettante per il 2026. A permetterlo è la…",
+    "data": "2026-07-29T11:02:15+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "cd739c02375b",
@@ -1955,46 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/efficiento-nuovi-lavori-per-62-mln-euro-maxi-restyling-energetico-per-piscina",
     "descrizione": "La Piscina Monumentale è al centro dei nuovi interventi di riqualificazione energetica approvati questa mattina dalla Giunta comunale.",
     "data": "2026-06-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7a9257d42453",
-    "titolo": "ZTL centrale: addio alla carta, l'accesso ai parcheggi diventa automatico",
-    "link": "https://www.comune.torino.it/novita/comunicati/ztl-centrale-addio-alla-carta-laccesso-ai-parcheggi-diventa-automatico",
-    "descrizione": "Addio ai moduli cartacei per chi deve raggiungere un parcheggio in struttura o a barriera nella Zona a Traffico Limitato Centrale di Torino.",
-    "data": "2026-06-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1e97a0f8fca4",
-    "titolo": "Terza edizione per il “Voucher digitalizzazione PMI”",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terza-edizione-per-voucher-digitalizzazione-pmi",
-    "descrizione": "Approvata dalla Giunta regionale la terza edizione del “Voucher digitalizzazione PMI”, che dispone di una dotazione finanziaria di 18 milioni di euro nell’ambito del Fesr 2021-2027. L’intervento sostiene i progetti di digitalizzazione delle micro e…",
-    "data": "2026-06-15T16:40:58+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "5e76a6fcf489",
-    "titolo": "Rosso Beethoven",
-    "link": "https://www.comune.torino.it/novita/notizie/rosso-beethoven",
-    "descrizione": "Otto concerti, quattro direttori, un unico grande protagonista: Beethoven. Sotto il cielo estivo della Corte d’Onore di Palazzo Reale, a cura del Teatro Regio.",
-    "data": "2026-06-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7bd90390bc81",
-    "titolo": "La Sala Rossa chiede la liberazione di Dina Alberizia e Nico Centrone",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-chiede-liberazione-dina-alberizia-nico-centrone",
-    "descrizione": "Approvato un ordine del giorno (prima firmataria: Sara Diena - Sinistra Ecologista)",
-    "data": "2026-06-15T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
