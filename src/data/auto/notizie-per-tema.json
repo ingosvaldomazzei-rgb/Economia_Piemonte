@@ -9,6 +9,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "f4722e14df6c",
+      "titolo": "Al lavoro sulle nuove Aree di accelerazione industriale per l’automotive",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-lavoro-sulle-nuove-aree-accelerazione-industriale-per-lautomotive",
+      "data": "2026-07-29T16:32:11+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "8b62b0a97c2f",
       "titolo": "Una via dedicata a don Aldo Rabino",
       "link": "https://www.comune.torino.it/novita/comunicati/una-via-dedicata-don-aldo-rabino",
@@ -247,6 +255,160 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "lavoro-occupazione": [
+    {
+      "id": "f4722e14df6c",
+      "titolo": "Al lavoro sulle nuove Aree di accelerazione industriale per l’automotive",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-lavoro-sulle-nuove-aree-accelerazione-industriale-per-lautomotive",
+      "data": "2026-07-29T16:32:11+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d5f96aa64cfc",
+      "titolo": "Nuove regole per i dehor con l’obiettivo di sburocratizzare e semplificare le procedure di richiesta",
+      "link": "https://www.comune.torino.it/novita/comunicati/nuove-regole-per-dehor-lobiettivo-sburocratizzare-semplificare-procedure",
+      "data": "2026-07-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1fa9b291b729",
+      "titolo": "Sala del Commiato del Cimitero Parco: la Giunta approva le regole per l’utilizzo",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-commiato-cimitero-parco-giunta-approva-regole-per-lutilizzo",
+      "data": "2026-07-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bac1220fed97",
+      "titolo": "La Corte dei Conti parifica il rendiconto 2025 della Regione Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corte-dei-conti-parifica-rendiconto-2025-della-regione-piemonte",
+      "data": "2026-07-21T16:28:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d7ec0f988225",
+      "titolo": "Piazza Baldissera, domani la riapertura di via Stradella: semafori sospesi, traffico regolato dalla Polizia Locale",
+      "link": "https://www.comune.torino.it/novita/comunicati/piazza-baldissera-domani-riapertura-via-stradella-semafori-sospesi-traffico",
+      "data": "2026-07-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b0f91a26de63",
+      "titolo": "Il GOL del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gol-piemonte",
+      "data": "2026-07-20T16:07:10+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "991714ca7b7c",
+      "titolo": "Tari, approvate modiche a Regolamento e tariffe 2026",
+      "link": "https://www.comune.torino.it/novita/comunicati/tari-approvate-modiche-regolamento-tariffe-2026",
+      "data": "2026-07-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "358d57e44375",
+      "titolo": "Falsi annunci di lavoro per posizioni al Comune di Torino",
+      "link": "https://www.comune.torino.it/novita/avvisi/falsi-annunci-lavoro-per-posizioni-al-comune-torino",
+      "data": "2026-07-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5463d086049f",
+      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – settembre 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-3",
+      "data": "2026-07-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2aa44c382dd0",
+      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
+      "data": "2026-07-13T20:37:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ff76bcf3c9c8",
+      "titolo": "Referendum consultivi, a Torino potranno votare i 16enni",
+      "link": "https://www.comune.torino.it/novita/comunicati/referendum-consultivi-torino-potranno-votare-16enni",
+      "data": "2026-07-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c4dab082403b",
+      "titolo": "La Regione al lavoro per iniziare il ripristino dei boschi bruciati dagli incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-al-lavoro-per-iniziare-ripristino-dei-boschi-bruciati-dagli-incendi",
+      "data": "2026-07-11T18:59:12+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1abd15f9bad9",
+      "titolo": "La Regione progetta il ripristino dei boschi bruciati dagli incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-progetta-ripristino-dei-boschi-bruciati-dagli-incendi",
+      "data": "2026-07-11T18:59:12+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f53418f544dc",
+      "titolo": "Nessun blocco delle assunzioni nella sanità piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nessun-blocco-delle-assunzioni-nella-sanita-piemontese",
+      "data": "2026-07-08T18:43:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ab7c4653c07c",
+      "titolo": "Via Stradella: da area degradata a giardino resiliente, un progetto costruito insieme ai cittadini",
+      "link": "https://www.comune.torino.it/novita/comunicati/via-stradella-area-degradata-giardino-resiliente-un-progetto-costruito-insieme",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a9a1e838f40b",
+      "titolo": "Rinnovo alberate, cambia il Regolamento 317",
+      "link": "https://www.comune.torino.it/novita/comunicati/rinnovo-alberate-cambia-regolamento-317",
+      "data": "2026-07-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0c9d72d8030b",
+      "titolo": "Il bando 2026 per il credito in agricoltura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
+      "data": "2026-07-02T12:05:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e76a6db8b16c",
+      "titolo": "Il “Semplifica Piemonte” è legge: riforma per una Regione più semplice, accessibile e capace di dare risposte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-legge-riforma-per-una-regione-piu-semplice-accessibile-capace-dare-risposte",
+      "data": "2026-06-30T17:50:15+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5bd54c95b07b",
+      "titolo": "Modificato il Regolamento sui mercatini periodici tematici",
+      "link": "https://www.comune.torino.it/novita/comunicati/modificato-regolamento-sui-mercatini-periodici-tematici",
+      "data": "2026-06-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "sanita-regionale": [
     {
       "id": "93db91f00de9",
@@ -415,14 +577,6 @@
       "titolo": "Efficientamento energetico su immobili comunali, approvati lavori per quasi 4 milioni di euro in cinque scuole",
       "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-immobili-comunali-approvati-lavori-per-quasi-4",
       "data": "2026-06-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ada31d0ada4e",
-      "titolo": "EfficienTO: nuovi lavori per 6,2 mln di euro. Maxi restyling energetico per la Piscina Monumentale",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficiento-nuovi-lavori-per-62-mln-euro-maxi-restyling-energetico-per-piscina",
-      "data": "2026-06-16T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -661,152 +815,6 @@
       "titolo": "Commercio di prossimità, Torino premia le 99 attività entrate nell'Albo EPIC nel 2025. Domenica al Conservatorio G. Verdi la cerimonia",
       "link": "https://www.comune.torino.it/novita/comunicati/commercio-prossimita-torino-premia-99-attivita-entrate-nellalbo-epic-nel-2025",
       "data": "2026-06-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "d5f96aa64cfc",
-      "titolo": "Nuove regole per i dehor con l’obiettivo di sburocratizzare e semplificare le procedure di richiesta",
-      "link": "https://www.comune.torino.it/novita/comunicati/nuove-regole-per-dehor-lobiettivo-sburocratizzare-semplificare-procedure",
-      "data": "2026-07-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1fa9b291b729",
-      "titolo": "Sala del Commiato del Cimitero Parco: la Giunta approva le regole per l’utilizzo",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-commiato-cimitero-parco-giunta-approva-regole-per-lutilizzo",
-      "data": "2026-07-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bac1220fed97",
-      "titolo": "La Corte dei Conti parifica il rendiconto 2025 della Regione Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corte-dei-conti-parifica-rendiconto-2025-della-regione-piemonte",
-      "data": "2026-07-21T16:28:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d7ec0f988225",
-      "titolo": "Piazza Baldissera, domani la riapertura di via Stradella: semafori sospesi, traffico regolato dalla Polizia Locale",
-      "link": "https://www.comune.torino.it/novita/comunicati/piazza-baldissera-domani-riapertura-via-stradella-semafori-sospesi-traffico",
-      "data": "2026-07-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b0f91a26de63",
-      "titolo": "Il GOL del Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gol-piemonte",
-      "data": "2026-07-20T16:07:10+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "991714ca7b7c",
-      "titolo": "Tari, approvate modiche a Regolamento e tariffe 2026",
-      "link": "https://www.comune.torino.it/novita/comunicati/tari-approvate-modiche-regolamento-tariffe-2026",
-      "data": "2026-07-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "358d57e44375",
-      "titolo": "Falsi annunci di lavoro per posizioni al Comune di Torino",
-      "link": "https://www.comune.torino.it/novita/avvisi/falsi-annunci-lavoro-per-posizioni-al-comune-torino",
-      "data": "2026-07-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5463d086049f",
-      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – settembre 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-3",
-      "data": "2026-07-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2aa44c382dd0",
-      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
-      "data": "2026-07-13T20:37:57+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ff76bcf3c9c8",
-      "titolo": "Referendum consultivi, a Torino potranno votare i 16enni",
-      "link": "https://www.comune.torino.it/novita/comunicati/referendum-consultivi-torino-potranno-votare-16enni",
-      "data": "2026-07-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c4dab082403b",
-      "titolo": "La Regione al lavoro per iniziare il ripristino dei boschi bruciati dagli incendi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-al-lavoro-per-iniziare-ripristino-dei-boschi-bruciati-dagli-incendi",
-      "data": "2026-07-11T18:59:12+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1abd15f9bad9",
-      "titolo": "La Regione progetta il ripristino dei boschi bruciati dagli incendi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-progetta-ripristino-dei-boschi-bruciati-dagli-incendi",
-      "data": "2026-07-11T18:59:12+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f53418f544dc",
-      "titolo": "Nessun blocco delle assunzioni nella sanità piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nessun-blocco-delle-assunzioni-nella-sanita-piemontese",
-      "data": "2026-07-08T18:43:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ab7c4653c07c",
-      "titolo": "Via Stradella: da area degradata a giardino resiliente, un progetto costruito insieme ai cittadini",
-      "link": "https://www.comune.torino.it/novita/comunicati/via-stradella-area-degradata-giardino-resiliente-un-progetto-costruito-insieme",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a9a1e838f40b",
-      "titolo": "Rinnovo alberate, cambia il Regolamento 317",
-      "link": "https://www.comune.torino.it/novita/comunicati/rinnovo-alberate-cambia-regolamento-317",
-      "data": "2026-07-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0c9d72d8030b",
-      "titolo": "Il bando 2026 per il credito in agricoltura",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
-      "data": "2026-07-02T12:05:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e76a6db8b16c",
-      "titolo": "Il “Semplifica Piemonte” è legge: riforma per una Regione più semplice, accessibile e capace di dare risposte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-legge-riforma-per-una-regione-piu-semplice-accessibile-capace-dare-risposte",
-      "data": "2026-06-30T17:50:15+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5bd54c95b07b",
-      "titolo": "Modificato il Regolamento sui mercatini periodici tematici",
-      "link": "https://www.comune.torino.it/novita/comunicati/modificato-regolamento-sui-mercatini-periodici-tematici",
-      "data": "2026-06-29T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }

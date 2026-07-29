@@ -1,17 +1,17 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 127,
-    "regione": 72,
+    "comune_torino": 126,
+    "regione": 73,
     "consiglio": 1
   },
   "temi_attivi": [
     {
-      "tema": "cultura-beni-culturali",
-      "conteggio": 18
+      "tema": "lavoro-occupazione",
+      "conteggio": 19
     },
     {
-      "tema": "lavoro-occupazione",
+      "tema": "cultura-beni-culturali",
       "conteggio": 18
     },
     {
@@ -27,10 +27,6 @@
       "conteggio": 12
     },
     {
-      "tema": "energia",
-      "conteggio": 10
-    },
-    {
       "tema": "sport",
       "conteggio": 10
     },
@@ -41,6 +37,10 @@
     {
       "tema": "protezione-civile",
       "conteggio": 10
+    },
+    {
+      "tema": "energia",
+      "conteggio": 9
     },
     {
       "tema": "commercio-artigianato",
