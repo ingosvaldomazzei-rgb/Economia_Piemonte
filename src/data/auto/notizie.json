@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "1d323ab41e2a",
+    "titolo": "La Regione pronta a dichiarare lo stato di emergenza per crisi idrica",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-dichiarare-stato-emergenza-per-crisi-idrica",
+    "descrizione": "La Regione è pronta a dichiarare lo stato di emergenza legato alla crisi idrica, prima applicazione della legge approvata nel giugno scorso per intervenire più tempestivamente in situazioni di particolare gravità. È quanto emerso durante la riunione del Tavolo…",
+    "data": "2026-07-30T21:07:42+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "bc2181b59c9b",
+    "titolo": "Piemonte Film Tv Fund 2026: i progetti finanziati con la prima sessione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-2026-progetti-finanziati-prima-sessione",
+    "descrizione": "Sono 13 i progetti finanziati con 4 milioni di euro per mezzo della prima sessione del bando 2026 di Piemonte TV Film Fund, lo strumento con cui la Regione sostiene le produzioni cinematografiche e audiovisive che scelgono il territorio…",
+    "data": "2026-07-30T18:46:34+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "39c1f33f3d60",
     "titolo": "La situazione dei cantieri estivi sulle autostrade piemontesi",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/situazione-dei-cantieri-estivi-sulle-autostrade-piemontesi",
@@ -1975,26 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/rappresentanti-delle-case-quartiere-al-comitato-provinciale-per-lordine",
     "descrizione": "Al tavolo con Prefetto, Questore, forze dell’ordine, Asl, il sindaco Stefano Lo Russo e l’assessore Rosatelli.",
     "data": "2026-06-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "01ed164e962c",
-    "titolo": "Torino-Lione: i primi 15 milioni per finanziare le opere compensative della fase 3",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-primi-15-milioni-per-finanziare-opere-compensative-della-fase-3",
-    "descrizione": "Il 16 giugno al Grattacielo Piemonte a Torino, si è tenuta la riunione del Comitato di supporto alla tratta internazionale della Torino-Lione, alla presenza dell’assessore alle Infrastrutture strategiche della Regione Piemonte, Enrico Bussalino, del presidente…",
-    "data": "2026-06-16T15:49:09+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "edc790eac8e3",
-    "titolo": "Festa patronale di s.Giovanni (24 giugno 2026) e concerto dei Moda' (30 giugno 2026)- convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/notizie/festa-patronale-sgiovanni-24-giugno-2026-concerto-dei-moda-30-giugno-2026",
-    "descrizione": "ERRATA CORRIGE - per mero errore, si ripubblica elenco convocati aggiornato per concerto dei Modà Convocazione per GIOVEDI' 18 GIUGNO ORE 14,30",
-    "data": "2026-06-16T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
