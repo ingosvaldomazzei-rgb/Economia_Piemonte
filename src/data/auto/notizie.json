@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "39c1f33f3d60",
+    "titolo": "La situazione dei cantieri estivi sulle autostrade piemontesi",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/situazione-dei-cantieri-estivi-sulle-autostrade-piemontesi",
+    "descrizione": "Il tavolo tecnico sul monitoraggio dei cantieri autostradali, riunitosi nel Grattacielo Piemonte, ha visto istituzioni, società concessionarie e gestori fare il punto sui lavori programmati o in corso verso le principali mete di villeggiatura alla vigilia del picco della…",
+    "data": "2026-07-29T22:13:58+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "f4722e14df6c",
     "titolo": "Al lavoro sulle nuove Aree di accelerazione industriale per l’automotive",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-lavoro-sulle-nuove-aree-accelerazione-industriale-per-lautomotive",
@@ -1984,16 +1994,6 @@
     "titolo": "A Palazzo Civico la mostra “Torino 1946 - 2026. Ottant'anni dal primo voto delle donne”",
     "link": "https://www.comune.torino.it/novita/comunicati/palazzo-civico-mostra-torino-1946-2026-ottantanni-primo-voto-delle-donne",
     "descrizione": "L’esposizione fotografica sarà ospitata nella rinnovata Sala Carpanini e sarà visitabile dal 17 al 27 giugno.",
-    "data": "2026-06-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6eead8e30c8d",
-    "titolo": "Verso Torino Capitale Europea della Cultura 2033. Indicati i componenti dell’Advisory Board",
-    "link": "https://www.comune.torino.it/novita/comunicati/verso-torino-capitale-europea-della-cultura-2033-indicati-componenti",
-    "descrizione": "Si è riunito oggi a Palazzo Civico il Tavolo Strategico della candidatura di Torino a Capitale Europea della Cultura 2033.",
     "data": "2026-06-16T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
