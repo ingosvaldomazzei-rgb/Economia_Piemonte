@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "a2c6317dd05e",
+    "titolo": "Il Corpo Aib Piemonte torna in Calabria",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corpo-aib-piemonte-torna-calabria",
+    "descrizione": "La Colonna mobile del Corpo volontari antincendi boschivi del Piemonte sarà impegnata in Calabria dal 1° al 28 agosto in attività di prevenzione e contrasto agli incendi boschivi a supporto del sistema regionale di Protezione civile. La missione,…",
+    "data": "2026-07-30T21:38:11+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "1d323ab41e2a",
     "titolo": "La Regione pronta a dichiarare lo stato di emergenza per crisi idrica",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-dichiarare-stato-emergenza-per-crisi-idrica",
@@ -1984,16 +1994,6 @@
     "titolo": "Cartolarizzazione Città di Torino s.r.l. - Asta pubblica n. 1/2026",
     "link": "https://www.comune.torino.it/novita/avvisi/cartolarizzazione-citta-torino-srl-asta-pubblica-n-12026",
     "descrizione": "Cartolarizzazione Città di Torino S.r.l. - Avviso di asta pubblica n. 1/2026 per vendita di immobili cartolarizzati - 3 Lotti.",
-    "data": "2026-06-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "bee2337a456f",
-    "titolo": "I rappresentanti delle case di quartiere al comitato provinciale per l’ordine e la sicurezza pubblica",
-    "link": "https://www.comune.torino.it/novita/comunicati/rappresentanti-delle-case-quartiere-al-comitato-provinciale-per-lordine",
-    "descrizione": "Al tavolo con Prefetto, Questore, forze dell’ordine, Asl, il sindaco Stefano Lo Russo e l’assessore Rosatelli.",
     "data": "2026-06-17T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

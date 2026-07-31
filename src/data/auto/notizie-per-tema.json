@@ -249,6 +249,14 @@
   ],
   "protezione-civile": [
     {
+      "id": "a2c6317dd05e",
+      "titolo": "Il Corpo Aib Piemonte torna in Calabria",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corpo-aib-piemonte-torna-calabria",
+      "data": "2026-07-30T21:38:11+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "1d323ab41e2a",
       "titolo": "La Regione pronta a dichiarare lo stato di emergenza per crisi idrica",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-dichiarare-stato-emergenza-per-crisi-idrica",
@@ -767,14 +775,6 @@
       "titolo": "L'Assemblea ricorda Piero Amerio, scienziato e consigliere",
       "link": "https://www.comune.torino.it/novita/comunicati/lassemblea-ricorda-piero-amerio-scienziato-consigliere",
       "data": "2026-06-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bee2337a456f",
-      "titolo": "I rappresentanti delle case di quartiere al comitato provinciale per l’ordine e la sicurezza pubblica",
-      "link": "https://www.comune.torino.it/novita/comunicati/rappresentanti-delle-case-quartiere-al-comitato-provinciale-per-lordine",
-      "data": "2026-06-17T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
