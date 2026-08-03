@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "2623db8a45e8",
+    "titolo": "Il Piemonte dichiara lo stato di emergenza regionale per crisi idrica e incendi",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-dichiara-stato-emergenza-regionale-per-crisi-idrica-incendi",
+    "descrizione": "La Giunta regionale del Piemonte ha dichiarato, lunedì 3 agosto, lo stato di emergenza di rilievo regionale per la crisi idrica e gli incendi boschivi che stanno interessando il territorio piemontese. La dichiarazione dello stato di emergenza regionale costituisce…",
+    "data": "2026-08-03T18:22:26+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "cb0a9852d7d0",
+    "titolo": "Polizia locale, il presidente Cirio e l’assessore Bussalino incontrano le unità cinofile",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/polizia-locale-presidente-cirio-lassessore-bussalino-incontrano-unita-cinofile",
+    "descrizione": "Il presidente della Regione Piemonte Alberto Cirio e l’assessore regionale alla Sicurezza e Polizia locale Enrico Bussalino il 3 agosto hanno accolto al Grattacielo Piemonte a Torino le unità cinofile dei Comandi di Polizia locale di Oleggio,…",
+    "data": "2026-08-03T16:35:18+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "e84eb7067781",
     "titolo": "Guida sicura per neopatentati",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/guida-sicura-per-neopatentati",
@@ -1978,25 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "59b95cf5f250",
-    "titolo": "Riapre al pubblico la piscina Colletta. Più accessibile, moderna e sicura",
-    "link": "https://www.comune.torino.it/novita/comunicati/riapre-al-pubblico-piscina-colletta-piu-accessibile-moderna-sicura",
-    "descrizione": "Il taglio del nastro è avvenuto oggi pomeriggio, alla presenza del sindaco Stefano Lo Russo, dell’assessore Domenico Carretta e del presidente Luca Deri",
-    "data": "2026-06-19T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "82a411ddd613",
-    "titolo": "Accordo tra le istituzioni contro i reati ambientali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-istituzioni-contro-reati-ambientali",
-    "descrizione": "Rafforzare il presidio del territorio e rendere più efficace e coordinata l’azione pubblica contro i reati ambientali è l’obiettivo del protocollo d’intesa firmato dal presidente della Regione Piemonte Alberto Cirio e dal prefetto di Torino Donato Giovanni Cafagna…",
-    "data": "2026-06-18T18:43:32+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
