@@ -61,6 +61,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "e84eb7067781",
+      "titolo": "Guida sicura per neopatentati",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/guida-sicura-per-neopatentati",
+      "data": "2026-08-03T14:44:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "a2d437e14a22",
       "titolo": "La Regione parte civile sugli scontri di Chiomonte",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-parte-civile-sugli-scontri-chiomonte",
@@ -235,6 +243,64 @@
       "titolo": "Il futuro dell'area Westinghouse: le comunicazioni dell'assessore Mazzoleni e il dibattito in Sala Rossa",
       "link": "https://www.comune.torino.it/novita/comunicati/futuro-dellarea-westinghouse-comunicazioni-dellassessore-mazzoleni-dibattito",
       "data": "2026-06-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "giovani": [
+    {
+      "id": "e84eb7067781",
+      "titolo": "Guida sicura per neopatentati",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/guida-sicura-per-neopatentati",
+      "data": "2026-08-03T14:44:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c17300b8c32b",
+      "titolo": "Giovani, finanziati altri 22 progetti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giovani-finanziati-altri-22-progetti",
+      "data": "2026-07-21T13:30:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a864eefd0ebc",
+      "titolo": "Visita al cantiere di Torino Esposizioni per le volontarie e i volontari del Servizio Civile. Racconteranno la nuova Biblioteca Civica",
+      "link": "https://www.comune.torino.it/novita/comunicati/visita-al-cantiere-torino-esposizioni-per-volontarie-volontari-servizio-civile",
+      "data": "2026-07-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d2e462184f97",
+      "titolo": "Ecologie di Cura: il 2 luglio ai Giardini Saragat il primo incontro pubblico del progetto per il benessere dei giovani",
+      "link": "https://www.comune.torino.it/novita/comunicati/ecologie-cura-2-luglio-ai-giardini-saragat-primo-incontro-pubblico-progetto-per",
+      "data": "2026-06-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a961148967c1",
+      "titolo": "Giornata internazionale contro l'abuso e il traffico di droga: il 26 giugno ai Murazzi un appuntamento per i giovani con \"Sosteniamo, non puniamo. Skills in azione\"",
+      "link": "https://www.comune.torino.it/novita/comunicati/giornata-internazionale-contro-labuso-traffico-droga-26-giugno-ai-murazzi-un",
+      "data": "2026-06-25T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fe3d93de9b07",
+      "titolo": "InQua, la \"Bella Storia\" dell'informazione di quartiere: i giovani raccontano Aurora e Barriera dal di dentro",
+      "link": "https://www.comune.torino.it/novita/comunicati/inqua-bella-storia-dellinformazione-quartiere-giovani-raccontano-aurora-barriera",
+      "data": "2026-06-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "91982a8d99e1",
+      "titolo": "Centro di protagonismo giovanile di corso Ferrucci: comunicata la rinuncia all'aggiudicazione. Illustrato un progetto per via Frejus",
+      "link": "https://www.comune.torino.it/novita/comunicati/centro-protagonismo-giovanile-corso-ferrucci-comunicata-rinuncia",
+      "data": "2026-06-19T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1223,14 +1289,6 @@
       "data": "2026-06-23T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "08b7988f5981",
-      "titolo": "I nuovi criteri dei voucher scuola: più famiglie raggiunte, sostegno rafforzato al diritto allo studio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-criteri-dei-voucher-scuola-piu-famiglie-raggiunte-sostegno-rafforzato-al-diritto-allo-studio",
-      "data": "2026-06-18T16:02:10+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sport": [
@@ -1503,14 +1561,6 @@
       "data": "2026-07-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "08b7988f5981",
-      "titolo": "I nuovi criteri dei voucher scuola: più famiglie raggiunte, sostegno rafforzato al diritto allo studio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-criteri-dei-voucher-scuola-piu-famiglie-raggiunte-sostegno-rafforzato-al-diritto-allo-studio",
-      "data": "2026-06-18T16:02:10+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "autonomia-differenziata": [
@@ -1521,56 +1571,6 @@
       "data": "2026-07-22T10:51:39+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "giovani": [
-    {
-      "id": "c17300b8c32b",
-      "titolo": "Giovani, finanziati altri 22 progetti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giovani-finanziati-altri-22-progetti",
-      "data": "2026-07-21T13:30:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a864eefd0ebc",
-      "titolo": "Visita al cantiere di Torino Esposizioni per le volontarie e i volontari del Servizio Civile. Racconteranno la nuova Biblioteca Civica",
-      "link": "https://www.comune.torino.it/novita/comunicati/visita-al-cantiere-torino-esposizioni-per-volontarie-volontari-servizio-civile",
-      "data": "2026-07-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d2e462184f97",
-      "titolo": "Ecologie di Cura: il 2 luglio ai Giardini Saragat il primo incontro pubblico del progetto per il benessere dei giovani",
-      "link": "https://www.comune.torino.it/novita/comunicati/ecologie-cura-2-luglio-ai-giardini-saragat-primo-incontro-pubblico-progetto-per",
-      "data": "2026-06-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a961148967c1",
-      "titolo": "Giornata internazionale contro l'abuso e il traffico di droga: il 26 giugno ai Murazzi un appuntamento per i giovani con \"Sosteniamo, non puniamo. Skills in azione\"",
-      "link": "https://www.comune.torino.it/novita/comunicati/giornata-internazionale-contro-labuso-traffico-droga-26-giugno-ai-murazzi-un",
-      "data": "2026-06-25T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fe3d93de9b07",
-      "titolo": "InQua, la \"Bella Storia\" dell'informazione di quartiere: i giovani raccontano Aurora e Barriera dal di dentro",
-      "link": "https://www.comune.torino.it/novita/comunicati/inqua-bella-storia-dellinformazione-quartiere-giovani-raccontano-aurora-barriera",
-      "data": "2026-06-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "91982a8d99e1",
-      "titolo": "Centro di protagonismo giovanile di corso Ferrucci: comunicata la rinuncia all'aggiudicazione. Illustrato un progetto per via Frejus",
-      "link": "https://www.comune.torino.it/novita/comunicati/centro-protagonismo-giovanile-corso-ferrucci-comunicata-rinuncia",
-      "data": "2026-06-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "ambiente-qualita-aria": [
