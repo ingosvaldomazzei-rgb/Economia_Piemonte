@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-08-04T08:47:18.494061+00:00",
+  "ultimo_aggiornamento": "2026-08-04T14:29:00.874607+00:00",
   "sedute": [
     {
       "id": "2daa5966b3e2",
@@ -8,7 +8,7 @@
       "titolo": "Seduta n. 107 del 31/07/2026",
       "data": "2026-07-31T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=107&data_seduta=31-07-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89354&nome_file=Sintesi%20n.%20107_31%20luglio2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
@@ -18,7 +18,7 @@
       "titolo": "Seduta n. 106 del 30/07/2026",
       "data": "2026-07-30T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=106&data_seduta=30-07-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89353&nome_file=Sintesi%20n.%20106_30%20luglio2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
@@ -28,7 +28,7 @@
       "titolo": "Seduta n. 105 del 29/07/2026",
       "data": "2026-07-29T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=105&data_seduta=29-07-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89352&nome_file=Sintesi%20n.%20105_29%20luglio2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
@@ -38,7 +38,7 @@
       "titolo": "Seduta n. 104 del 28/07/2026",
       "data": "2026-07-28T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=104&data_seduta=28-07-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89351&nome_file=Sintesi%20n.%20104_28%20luglio2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
