@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "2130eacdc801",
+    "titolo": "Dalla Regione 330 mila euro per le caserme della Guardia di Finanza",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-330-mila-euro-per-caserme-della-guardia-finanza",
+    "descrizione": "La Regione Piemonte e il Comando Regionale Piemonte-Valle d'Aosta della Guardia di Finanza hanno sottoscritto un accordo finalizzato a sostenere il miglioramento funzionale delle infrastrutture del Corpo presenti sul territorio piemontese, alla presenza dell'…",
+    "data": "2026-08-05T10:44:40+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "c7c2ece60917",
     "titolo": "Incroci più accessibili: segnalatori acustici e sistemi a chiamata per 4 impianti semaforici cittadini",
     "link": "https://www.comune.torino.it/novita/comunicati/incroci-piu-accessibili-segnalatori-acustici-sistemi-chiamata-per-4-impianti",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "02365bdfe9f1",
-    "titolo": "Peste suina africana: ordinanza del Piemonte per garantire le attività di contrasto",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-africana-ordinanza-piemonte-per-garantire-attivita-contrasto",
-    "descrizione": "Il presidente della Regione Piemonte Alberto Cirio ha firmato oggi l’ordinanza che entra in vigore immediatamente e conferma per i prossimi 60 giorni le misure di eradicazione e sorveglianza della Peste suina africana già previste dall’ordinanza…",
-    "data": "2026-06-20T19:27:15+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

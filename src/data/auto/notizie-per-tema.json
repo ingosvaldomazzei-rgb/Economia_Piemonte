@@ -247,6 +247,146 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "edilizia-opere-pubbliche": [
+    {
+      "id": "2130eacdc801",
+      "titolo": "Dalla Regione 330 mila euro per le caserme della Guardia di Finanza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-330-mila-euro-per-caserme-della-guardia-finanza",
+      "data": "2026-08-05T10:44:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "39c1f33f3d60",
+      "titolo": "La situazione dei cantieri estivi sulle autostrade piemontesi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/situazione-dei-cantieri-estivi-sulle-autostrade-piemontesi",
+      "data": "2026-07-29T22:13:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "05f41e85fb48",
+      "titolo": "Parco della salute di Torino: più posti letto e laboratori, avvio dei cantieri a inizio 2027",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-torino-piu-posti-letto-laboratori-avvio-dei-cantieri-inizio-2027",
+      "data": "2026-07-09T18:43:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8ed916116ed6",
+      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
+      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d45a69f17042",
+      "titolo": "Corso Moncalieri: al via i lavori sul marciapiede per un accesso più sicuro al Parco Leopardi. Cantieri su corso Regina e in via Cigna",
+      "link": "https://www.comune.torino.it/novita/comunicati/corso-moncalieri-al-via-lavori-sul-marciapiede-per-un-accesso-piu-sicuro-al",
+      "data": "2026-07-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f39188a11255",
+      "titolo": "Terremoto in Venezuela: il Piemonte invia personale sanitario per le operazioni di soccorso",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terremoto-venezuela-piemonte-invia-personale-sanitario-per-operazioni-soccorso",
+      "data": "2026-06-25T20:26:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "pianificazione-territoriale": [
+    {
+      "id": "2130eacdc801",
+      "titolo": "Dalla Regione 330 mila euro per le caserme della Guardia di Finanza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-330-mila-euro-per-caserme-della-guardia-finanza",
+      "data": "2026-08-05T10:44:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2623db8a45e8",
+      "titolo": "Il Piemonte dichiara lo stato di emergenza regionale per crisi idrica e incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-dichiara-stato-emergenza-regionale-per-crisi-idrica-incendi",
+      "data": "2026-08-03T18:22:26+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bc2181b59c9b",
+      "titolo": "Piemonte Film Tv Fund 2026: i progetti finanziati con la prima sessione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-2026-progetti-finanziati-prima-sessione",
+      "data": "2026-07-30T18:46:34+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7b873b05b26c",
+      "titolo": "I 150 anni della ferrovia Torino-Lanzo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/150-anni-della-ferrovia-torino-lanzo",
+      "data": "2026-07-27T10:19:03+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4687c4213bbb",
+      "titolo": "Castagneti, bando da 1,6 milioni per la gestione associata in montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/castagneti-bando-16-milioni-per-gestione-associata-montagna",
+      "data": "2026-07-21T13:02:35+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "86eda9e580af",
+      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
+      "data": "2026-07-17T17:51:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0683fb976cec",
+      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
+      "data": "2026-07-17T17:51:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "06898e862b2c",
+      "titolo": "Consegnate le Civiche Benemerenze 2026",
+      "link": "https://www.comune.torino.it/novita/comunicati/consegnate-civiche-benemerenze-2026",
+      "data": "2026-07-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a2dd1fe80c3d",
+      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
+      "data": "2026-07-03T11:16:38+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d01b32fb623",
+      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-07-01T15:15:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9375a9cd1fc4",
+      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-06-29T18:39:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "sanita-regionale": [
     {
       "id": "45ac97db8823",
@@ -459,88 +599,6 @@
       "data": "2026-06-23T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "pianificazione-territoriale": [
-    {
-      "id": "2623db8a45e8",
-      "titolo": "Il Piemonte dichiara lo stato di emergenza regionale per crisi idrica e incendi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-dichiara-stato-emergenza-regionale-per-crisi-idrica-incendi",
-      "data": "2026-08-03T18:22:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bc2181b59c9b",
-      "titolo": "Piemonte Film Tv Fund 2026: i progetti finanziati con la prima sessione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-2026-progetti-finanziati-prima-sessione",
-      "data": "2026-07-30T18:46:34+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7b873b05b26c",
-      "titolo": "I 150 anni della ferrovia Torino-Lanzo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/150-anni-della-ferrovia-torino-lanzo",
-      "data": "2026-07-27T10:19:03+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4687c4213bbb",
-      "titolo": "Castagneti, bando da 1,6 milioni per la gestione associata in montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/castagneti-bando-16-milioni-per-gestione-associata-montagna",
-      "data": "2026-07-21T13:02:35+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "86eda9e580af",
-      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
-      "data": "2026-07-17T17:51:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0683fb976cec",
-      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
-      "data": "2026-07-17T17:51:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "06898e862b2c",
-      "titolo": "Consegnate le Civiche Benemerenze 2026",
-      "link": "https://www.comune.torino.it/novita/comunicati/consegnate-civiche-benemerenze-2026",
-      "data": "2026-07-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a2dd1fe80c3d",
-      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
-      "data": "2026-07-03T11:16:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9375a9cd1fc4",
-      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-06-29T18:39:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "protezione-civile": [
@@ -1129,48 +1187,6 @@
       "titolo": "Anche sui treni regionali l’abbonamento Trimestrale Illimitato",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/anche-sui-treni-regionali-labbonamento-trimestrale-illimitato",
       "data": "2026-07-01T12:08:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "edilizia-opere-pubbliche": [
-    {
-      "id": "39c1f33f3d60",
-      "titolo": "La situazione dei cantieri estivi sulle autostrade piemontesi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/situazione-dei-cantieri-estivi-sulle-autostrade-piemontesi",
-      "data": "2026-07-29T22:13:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "05f41e85fb48",
-      "titolo": "Parco della salute di Torino: più posti letto e laboratori, avvio dei cantieri a inizio 2027",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-torino-piu-posti-letto-laboratori-avvio-dei-cantieri-inizio-2027",
-      "data": "2026-07-09T18:43:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8ed916116ed6",
-      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
-      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d45a69f17042",
-      "titolo": "Corso Moncalieri: al via i lavori sul marciapiede per un accesso più sicuro al Parco Leopardi. Cantieri su corso Regina e in via Cigna",
-      "link": "https://www.comune.torino.it/novita/comunicati/corso-moncalieri-al-via-lavori-sul-marciapiede-per-un-accesso-piu-sicuro-al",
-      "data": "2026-07-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f39188a11255",
-      "titolo": "Terremoto in Venezuela: il Piemonte invia personale sanitario per le operazioni di soccorso",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terremoto-venezuela-piemonte-invia-personale-sanitario-per-operazioni-soccorso",
-      "data": "2026-06-25T20:26:31+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
