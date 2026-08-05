@@ -90,6 +90,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "5e177945459b",
+    "titolo": "Avviso Corso INFORMATICA DI BASE (120 ORE) - GOL (102-103-104)",
+    "link": "https://www.comune.torino.it/novita/avvisi/avviso-corso-informatica-base-120-ore-gol-102-103-104",
+    "descrizione": "Le iscrizioni sono aperte",
+    "data": "2026-08-03T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "4f7af53e779a",
     "titolo": "Il calendario di agosto è arrivato!",
     "link": "https://www.comune.torino.it/novita/notizie/calendario-agosto-arrivato",
@@ -1985,16 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/peste-suina-africana-ordinanza-piemonte-per-garantire-attivita-contrasto",
     "descrizione": "Il presidente della Regione Piemonte Alberto Cirio ha firmato oggi l’ordinanza che entra in vigore immediatamente e conferma per i prossimi 60 giorni le misure di eradicazione e sorveglianza della Peste suina africana già previste dall’ordinanza…",
     "data": "2026-06-20T19:27:15+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "964f40c63a6a",
-    "titolo": "Oscar italiano del cicloturismo: il Piemonte terzo con la Ciclovia del Mare",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oscar-italiano-cicloturismo-piemonte-terzo-ciclovia-mare",
-    "descrizione": "Il Piemonte si conferma tra le regioni italiane di riferimento per il cicloturismo e la mobilità sostenibile. All’undicesima edizione del Green Road Award – l’Oscar Italiano del Cicloturismo – la Regione Piemonte ha conquistato il terzo posto ex aequo con la …",
-    "data": "2026-06-20T13:38:54+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
