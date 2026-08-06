@@ -10,6 +10,56 @@
     "colore": "#dc2626"
   },
   {
+    "id": "4a78e225f3de",
+    "titolo": "Chiusura estiva",
+    "link": "https://www.comune.torino.it/novita/notizie/chiusura-estiva",
+    "descrizione": "Chiusura estiva",
+    "data": "2026-08-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a6b991bcc5b6",
+    "titolo": "Eclissi di Sole del 12 agosto: potenziati i collegamenti verso la collina",
+    "link": "https://www.comune.torino.it/novita/comunicati/eclissi-sole-12-agosto-potenziati-collegamenti-verso-collina",
+    "descrizione": "Corse aggiuntive di bus e apertura straordinaria della tranvia Sassi-Superga per facilitare l'accesso ai migliori punti di osservazione",
+    "data": "2026-08-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3600ec360ec1",
+    "titolo": "AVVISO ALL'UTENZA",
+    "link": "https://www.comune.torino.it/novita/avvisi/avviso-allutenza",
+    "descrizione": "Modifiche orari di apertura nel mese di agosto",
+    "data": "2026-08-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e412d08177a9",
+    "titolo": "Pubblicazione Bando per l'erogazione di borsa di studio «BONIFETTI–PRIMO–CASALE–RUBATTO–TINTI»",
+    "link": "https://www.comune.torino.it/novita/avvisi/pubblicazione-bando-per-lerogazione-borsa-studio-bonifetti-primo-casale-rubatto",
+    "descrizione": "Apertura del bando per le borse di studio 2026",
+    "data": "2026-08-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "644f6fd3797d",
+    "titolo": "Automotive, riunione del tavolo per l'area di accelerazione industriale",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/automotive-riunione-tavolo-per-larea-accelerazione-industriale",
+    "descrizione": "Il Piemonte si candida a diventare uno dei territori protagonisti della nuova politica industriale europea. Si è riunito mercoledì 5 agosto il Tavolo Automotive convocato dalla Regione Piemonte con le organizzazioni sindacali per raccogliere proposte, osservazioni e priorità da sottoporre al…",
+    "data": "2026-08-06T10:42:16+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "2130eacdc801",
     "titolo": "Dalla Regione 330 mila euro per le caserme della Guardia di Finanza",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-330-mila-euro-per-caserme-della-guardia-finanza",
@@ -1944,56 +1994,6 @@
     "titolo": "Ex Manifattura Tabacchi, via libera alle demolizioni controllate",
     "link": "https://www.comune.torino.it/novita/comunicati/ex-manifattura-tabacchi-via-libera-alle-demolizioni-controllate",
     "descrizione": "Approvata la delibera che renderà possibili alcune opere di demolizione necessarie per avviare la riqualificazione dell'ex Manifattura Tabacchi",
-    "data": "2026-06-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "448508eea84b",
-    "titolo": "Il futuro dell'area Westinghouse: le comunicazioni dell'assessore Mazzoleni e il dibattito in Sala Rossa",
-    "link": "https://www.comune.torino.it/novita/comunicati/futuro-dellarea-westinghouse-comunicazioni-dellassessore-mazzoleni-dibattito",
-    "descrizione": "Westinghouse: nuovi spazi per la didattica e la ricerca; un Centro Congressi di nuova generazione; la salvaguardia del parco Artiglieri di Montagna",
-    "data": "2026-06-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "45a4553559a1",
-    "titolo": "San Giovanni 2026: modalità di accesso, modifiche viabili e provvedimenti",
-    "link": "https://www.comune.torino.it/novita/comunicati/san-giovanni-2026-modalita-accesso-modifiche-viabili-provvedimenti",
-    "descrizione": "Torino si appresta a festeggiare il santo patrono della città; il 23 e il 24 giugno sono sono previste chiusure stradali e divieti di sosta in alcune aree.",
-    "data": "2026-06-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b41bddd965c7",
-    "titolo": "In Sala Rossa il tema dei blackout elettrici",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-tema-dei-blackout-elettrici",
-    "descrizione": "Durante la seduta odierna del Consiglio comunale l’assessora Chiara Foglietta ha risposto all’interpellanza generale della consigliera Federica Scanderebech",
-    "data": "2026-06-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7ed53f034663",
-    "titolo": "L'Assemblea ricorda Piero Amerio, scienziato e consigliere",
-    "link": "https://www.comune.torino.it/novita/comunicati/lassemblea-ricorda-piero-amerio-scienziato-consigliere",
-    "descrizione": "La Sala Rossa ha reso omaggio alla memoria del consigliere emerito Piero Amerio, deceduto la scorsa settimana. Sedette sui banchi consiliari nel 1993-1997",
-    "data": "2026-06-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "01cb6a54fe05",
-    "titolo": "Estate a Torino, la programmazione 2026 nei Punti estivi della Città e le aperture delle piscine comunali",
-    "link": "https://www.comune.torino.it/novita/comunicati/estate-torino-programmazione-2026-nei-punti-estivi-della-citta-aperture-delle",
-    "descrizione": "La programmazione 2026 nei Punti estivi della Città e le aperture delle piscine comunali",
     "data": "2026-06-22T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

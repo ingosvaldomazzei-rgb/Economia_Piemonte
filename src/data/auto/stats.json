@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 123,
-    "regione": 76,
+    "comune_torino": 122,
+    "regione": 77,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -19,12 +19,12 @@
       "conteggio": 16
     },
     {
-      "tema": "sanita-regionale",
+      "tema": "protezione-civile",
       "conteggio": 13
     },
     {
-      "tema": "protezione-civile",
-      "conteggio": 13
+      "tema": "sanita-regionale",
+      "conteggio": 12
     },
     {
       "tema": "pianificazione-territoriale",
@@ -32,7 +32,7 @@
     },
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 11
+      "conteggio": 10
     },
     {
       "tema": "energia",
