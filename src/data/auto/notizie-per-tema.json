@@ -519,6 +519,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "d5ecb6570d55",
+      "titolo": "Sportello GTT nelle Circoscrizioni",
+      "link": "https://www.comune.torino.it/novita/avvisi/sportello-gtt-nelle-circoscrizioni",
+      "data": "2026-07-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "9310ad423661",
       "titolo": "Ricordata l'assessora emerita Rosalba Molineri, introdusse l'affidamento familiare",
       "link": "https://www.comune.torino.it/novita/comunicati/ricordata-lassessora-emerita-rosalba-molineri-introdusse-laffidamento-familiare",
@@ -943,14 +951,6 @@
       "data": "2026-07-02T12:05:52+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "4992d095502c",
-      "titolo": "Ex Manifattura Tabacchi, via libera alle demolizioni controllate",
-      "link": "https://www.comune.torino.it/novita/comunicati/ex-manifattura-tabacchi-via-libera-alle-demolizioni-controllate",
-      "data": "2026-06-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "agricoltura": [
@@ -1394,6 +1394,14 @@
       "id": "8d198ad09c57",
       "titolo": "Da domani una via per don Aldo Rabino",
       "link": "https://www.comune.torino.it/novita/comunicati/domani-una-via-per-don-aldo-rabino",
+      "data": "2026-07-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d5ecb6570d55",
+      "titolo": "Sportello GTT nelle Circoscrizioni",
+      "link": "https://www.comune.torino.it/novita/avvisi/sportello-gtt-nelle-circoscrizioni",
       "data": "2026-07-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"

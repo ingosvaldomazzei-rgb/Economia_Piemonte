@@ -1030,6 +1030,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "d5ecb6570d55",
+    "titolo": "Sportello GTT nelle Circoscrizioni",
+    "link": "https://www.comune.torino.it/novita/avvisi/sportello-gtt-nelle-circoscrizioni",
+    "descrizione": "Assistenza alla clientela per le pratiche relative al trasporto pubblico e alla sosta",
+    "data": "2026-07-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "2aa44c382dd0",
     "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
@@ -1984,16 +1994,6 @@
     "titolo": "KAPPA FUTURFESTIVAL (3-5 LUGLIO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
     "link": "https://www.comune.torino.it/novita/notizie/kappa-futurfestival-3-5-luglio-2026-convocazione-per-assegnazione-posteggi",
     "descrizione": "Convocazione per MARTEDI' 30 GIUGNO 2026 alle ore 14,30",
-    "data": "2026-06-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4992d095502c",
-    "titolo": "Ex Manifattura Tabacchi, via libera alle demolizioni controllate",
-    "link": "https://www.comune.torino.it/novita/comunicati/ex-manifattura-tabacchi-via-libera-alle-demolizioni-controllate",
-    "descrizione": "Approvata la delibera che renderà possibili alcune opere di demolizione necessarie per avviare la riqualificazione dell'ex Manifattura Tabacchi",
     "data": "2026-06-22T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
