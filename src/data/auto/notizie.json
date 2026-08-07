@@ -30,6 +30,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "8968eb06ae13",
+    "titolo": "Sedici giorni alla guida senza riposo settimanale: multato autista di bus turistico",
+    "link": "https://www.comune.torino.it/novita/comunicati/sedici-giorni-alla-guida-senza-riposo-settimanale-multato-autista-bus-turistico",
+    "descrizione": "Sedici giorni consecutivi al volante senza effettuare il previsto riposo settimanale. È quanto hanno accertato gli agenti della Polizia Locale di Torino durante",
+    "data": "2026-08-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "c67fbd5f44c0",
     "titolo": "Incendi boschivi, accordo tra Regione e Carabinieri Forestali",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-accordo-regione-carabinieri-forestali",
@@ -1984,16 +1994,6 @@
     "titolo": "Efficientamento energetico su immobili comunali, approvati lavori per quasi 4 milioni di euro in cinque scuole",
     "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-immobili-comunali-approvati-lavori-per-quasi-4",
     "descrizione": "4 milioni di euro per migliorare l’efficienza dal punto di vista energetico di cinque complessi scolastici cittadini.",
-    "data": "2026-06-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4f0fb88e3fb7",
-    "titolo": "Raccolta sottoscrizioni per referendum e proposte di legge",
-    "link": "https://www.comune.torino.it/novita/notizie/raccolta-sottoscrizioni-per-referendum-proposte-legge",
-    "descrizione": "Avviso di deposito dei modelli per la raccolta di firme per referendum e proposte di legge.",
     "data": "2026-06-23T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
