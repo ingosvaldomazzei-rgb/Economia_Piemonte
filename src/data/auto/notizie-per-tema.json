@@ -12,7 +12,7 @@
       "id": "644f6fd3797d",
       "titolo": "Automotive, riunione del tavolo per l'area di accelerazione industriale",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/automotive-riunione-tavolo-per-larea-accelerazione-industriale",
-      "data": "2026-08-06T10:42:16+02:00",
+      "data": "2026-08-05T20:00:00+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -65,6 +65,14 @@
       "titolo": "A Torino il Festival del Paesaggio Fluviale: arte, ricerca e partecipazione lungo il Sangone",
       "link": "https://www.comune.torino.it/novita/notizie/torino-festival-paesaggio-fluviale-arte-ricerca-partecipazione-lungo-sangone",
       "data": "2026-09-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "dc02637edcb1",
+      "titolo": "La Città avvia l'organizzazione delle iniziative di Natale e Capodanno. Tra le novità, il boschetto di Natale in via Roma. Confermati i due concerti di Capodanno",
+      "link": "https://www.comune.torino.it/novita/comunicati/citta-avvia-lorganizzazione-delle-iniziative-natale-capodanno-novita-boschetto",
+      "data": "2026-08-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
@@ -195,14 +203,6 @@
       "data": "2026-06-27T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "887c12442a84",
-      "titolo": "KAPPA FUTURFESTIVAL (3-5 LUGLIO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/kappa-futurfestival-3-5-luglio-2026-convocazione-per-assegnazione-posteggi",
-      "data": "2026-06-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "universita-ricerca": [
@@ -218,7 +218,7 @@
       "id": "644f6fd3797d",
       "titolo": "Automotive, riunione del tavolo per l'area di accelerazione industriale",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/automotive-riunione-tavolo-per-larea-accelerazione-industriale",
-      "data": "2026-08-06T10:42:16+02:00",
+      "data": "2026-08-05T20:00:00+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -253,6 +253,284 @@
       "data": "2026-07-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "turismo": [
+    {
+      "id": "dc02637edcb1",
+      "titolo": "La Città avvia l'organizzazione delle iniziative di Natale e Capodanno. Tra le novità, il boschetto di Natale in via Roma. Confermati i due concerti di Capodanno",
+      "link": "https://www.comune.torino.it/novita/comunicati/citta-avvia-lorganizzazione-delle-iniziative-natale-capodanno-novita-boschetto",
+      "data": "2026-08-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "10f37a1e5fca",
+      "titolo": "Beni confiscati: accordo per rafforzare la lotta contro le mafie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/beni-confiscati-accordo-per-rafforzare-lotta-contro-mafie",
+      "data": "2026-07-14T18:52:10+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "43fb70a80a0c",
+      "titolo": "Chiusura della Biblioteca Pedagogica nel mese di agosto",
+      "link": "https://www.comune.torino.it/novita/notizie/chiusura-della-biblioteca-pedagogica-nel-mese-agosto",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "70b42f8c8bc9",
+      "titolo": "Nuovi record per il turismo piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-record-per-turismo-piemontese",
+      "data": "2026-07-08T09:59:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "agricoltura": [
+    {
+      "id": "c67fbd5f44c0",
+      "titolo": "Incendi boschivi, accordo tra Regione e Carabinieri Forestali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-accordo-regione-carabinieri-forestali",
+      "data": "2026-08-07T11:02:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "afbb37492c20",
+      "titolo": "Siccità, avviate le procedure per la richiesta di calamità naturale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-avviate-procedure-per-richiesta-calamita-naturale",
+      "data": "2026-08-06T19:09:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "92a94480a4b1",
+      "titolo": "L’assestamento di bilancio rafforza i conti della Regione e garantisce servizi e investimenti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lassestamento-bilancio-rafforza-conti-della-regione-garantisce-servizi-investimenti",
+      "data": "2026-07-31T15:54:39+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8117d2ad2a1c",
+      "titolo": "Ai primi di agosto 93 milioni di anticipi Pac a 25.500 aziende agricole",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ai-primi-agosto-93-milioni-anticipi-pac-25500-aziende-agricole",
+      "data": "2026-07-29T11:02:15+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "030669fa8a9e",
+      "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
+      "data": "2026-07-17T10:37:44+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cb585594fbff",
+      "titolo": "Cooperazione e appello alla pace: a Palazzo Civico l'ambasciatrice palestinese Mona Abuamara",
+      "link": "https://www.comune.torino.it/novita/comunicati/cooperazione-appello-alla-pace-palazzo-civico-lambasciatrice-palestinese-mona",
+      "data": "2026-07-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2aa44c382dd0",
+      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
+      "data": "2026-07-13T20:37:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "62077d2bb730",
+      "titolo": "Dalla materia di scarto al valore condiviso: al via il nuovo Living Lab Torino Circolare",
+      "link": "https://www.comune.torino.it/novita/comunicati/dalla-materia-scarto-al-valore-condiviso-al-via-nuovo-living-lab-torino",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e4a6a8e351dc",
+      "titolo": "Luci e ombre per il vino piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/luci-ombre-per-vino-piemontese",
+      "data": "2026-07-08T15:15:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a77b7d3c3478",
+      "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
+      "data": "2026-07-07T18:41:23+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d92120ef4ef",
+      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
+      "data": "2026-07-06T09:52:31+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "ca7e11d1ef77",
+      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
+      "data": "2026-07-03T15:55:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d50a16d8eaee",
+      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi del Pnrr",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi-pnrr",
+      "data": "2026-07-03T15:55:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0c9d72d8030b",
+      "titolo": "Il bando 2026 per il credito in agricoltura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
+      "data": "2026-07-02T12:05:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d01b32fb623",
+      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-07-01T15:15:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e76a6db8b16c",
+      "titolo": "Il “Semplifica Piemonte” è legge: riforma per una Regione più semplice, accessibile e capace di dare risposte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-legge-riforma-per-una-regione-piu-semplice-accessibile-capace-dare-risposte",
+      "data": "2026-06-30T17:50:15+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9375a9cd1fc4",
+      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-06-29T18:39:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "protezione-civile": [
+    {
+      "id": "c67fbd5f44c0",
+      "titolo": "Incendi boschivi, accordo tra Regione e Carabinieri Forestali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-accordo-regione-carabinieri-forestali",
+      "data": "2026-08-07T11:02:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2623db8a45e8",
+      "titolo": "Il Piemonte dichiara lo stato di emergenza regionale per crisi idrica e incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-dichiara-stato-emergenza-regionale-per-crisi-idrica-incendi",
+      "data": "2026-08-03T18:22:26+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a2c6317dd05e",
+      "titolo": "Il Corpo Aib Piemonte torna in Calabria",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corpo-aib-piemonte-torna-calabria",
+      "data": "2026-07-30T21:38:11+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d323ab41e2a",
+      "titolo": "La Regione pronta a dichiarare lo stato di emergenza per crisi idrica",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-dichiarare-stato-emergenza-per-crisi-idrica",
+      "data": "2026-07-30T21:07:42+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2aa44c382dd0",
+      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
+      "data": "2026-07-13T20:37:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c4dab082403b",
+      "titolo": "La Regione al lavoro per iniziare il ripristino dei boschi bruciati dagli incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-al-lavoro-per-iniziare-ripristino-dei-boschi-bruciati-dagli-incendi",
+      "data": "2026-07-11T18:59:12+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1abd15f9bad9",
+      "titolo": "La Regione progetta il ripristino dei boschi bruciati dagli incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-progetta-ripristino-dei-boschi-bruciati-dagli-incendi",
+      "data": "2026-07-11T18:59:12+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "60ac2e021833",
+      "titolo": "Dall’8 luglio in Piemonte stato di massima pericolosità per incendi boschivi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dall8-luglio-piemonte-stato-massima-pericolosita-per-incendi-boschivi",
+      "data": "2026-07-06T18:45:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5d3a4f21a41e",
+      "titolo": "Missione del Corpo Aib del Piemonte in Francia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-corpo-aib-piemonte-francia",
+      "data": "2026-07-03T13:05:35+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d01b32fb623",
+      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-07-01T15:15:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9375a9cd1fc4",
+      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-06-29T18:39:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "26b2fc6fe506",
+      "titolo": "EXEPO 2026, esercitazione nazionale sul rischio alluvionale nel bacino del Po",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/exepo-2026-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
+      "data": "2026-06-27T15:34:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "267a6cd6562e",
+      "titolo": "Dal 25 al 27 giugno esercitazione nazionale sul rischio alluvionale nel bacino del Po",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-25-al-27-giugno-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
+      "data": "2026-06-24T11:34:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     }
   ],
   "edilizia-opere-pubbliche": [
@@ -609,112 +887,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "protezione-civile": [
-    {
-      "id": "2623db8a45e8",
-      "titolo": "Il Piemonte dichiara lo stato di emergenza regionale per crisi idrica e incendi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-dichiara-stato-emergenza-regionale-per-crisi-idrica-incendi",
-      "data": "2026-08-03T18:22:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a2c6317dd05e",
-      "titolo": "Il Corpo Aib Piemonte torna in Calabria",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corpo-aib-piemonte-torna-calabria",
-      "data": "2026-07-30T21:38:11+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d323ab41e2a",
-      "titolo": "La Regione pronta a dichiarare lo stato di emergenza per crisi idrica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-dichiarare-stato-emergenza-per-crisi-idrica",
-      "data": "2026-07-30T21:07:42+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2aa44c382dd0",
-      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
-      "data": "2026-07-13T20:37:57+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c4dab082403b",
-      "titolo": "La Regione al lavoro per iniziare il ripristino dei boschi bruciati dagli incendi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-al-lavoro-per-iniziare-ripristino-dei-boschi-bruciati-dagli-incendi",
-      "data": "2026-07-11T18:59:12+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1abd15f9bad9",
-      "titolo": "La Regione progetta il ripristino dei boschi bruciati dagli incendi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-progetta-ripristino-dei-boschi-bruciati-dagli-incendi",
-      "data": "2026-07-11T18:59:12+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "60ac2e021833",
-      "titolo": "Dall’8 luglio in Piemonte stato di massima pericolosità per incendi boschivi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dall8-luglio-piemonte-stato-massima-pericolosita-per-incendi-boschivi",
-      "data": "2026-07-06T18:45:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5d3a4f21a41e",
-      "titolo": "Missione del Corpo Aib del Piemonte in Francia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-corpo-aib-piemonte-francia",
-      "data": "2026-07-03T13:05:35+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9375a9cd1fc4",
-      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-06-29T18:39:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "26b2fc6fe506",
-      "titolo": "EXEPO 2026, esercitazione nazionale sul rischio alluvionale nel bacino del Po",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/exepo-2026-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
-      "data": "2026-06-27T15:34:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "267a6cd6562e",
-      "titolo": "Dal 25 al 27 giugno esercitazione nazionale sul rischio alluvionale nel bacino del Po",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-25-al-27-giugno-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
-      "data": "2026-06-24T11:34:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f1672de691e2",
-      "titolo": "La Regione riapre l’Osservatorio sull’emergenza idrica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-riapre-losservatorio-sullemergenza-idrica",
-      "data": "2026-06-23T10:00:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "lavoro-occupazione": [
     {
       "id": "5e177945459b",
@@ -949,136 +1121,6 @@
       "titolo": "Il bando 2026 per il credito in agricoltura",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
       "data": "2026-07-02T12:05:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "agricoltura": [
-    {
-      "id": "92a94480a4b1",
-      "titolo": "L’assestamento di bilancio rafforza i conti della Regione e garantisce servizi e investimenti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lassestamento-bilancio-rafforza-conti-della-regione-garantisce-servizi-investimenti",
-      "data": "2026-07-31T15:54:39+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8117d2ad2a1c",
-      "titolo": "Ai primi di agosto 93 milioni di anticipi Pac a 25.500 aziende agricole",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ai-primi-agosto-93-milioni-anticipi-pac-25500-aziende-agricole",
-      "data": "2026-07-29T11:02:15+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "030669fa8a9e",
-      "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
-      "data": "2026-07-17T10:37:44+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cb585594fbff",
-      "titolo": "Cooperazione e appello alla pace: a Palazzo Civico l'ambasciatrice palestinese Mona Abuamara",
-      "link": "https://www.comune.torino.it/novita/comunicati/cooperazione-appello-alla-pace-palazzo-civico-lambasciatrice-palestinese-mona",
-      "data": "2026-07-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2aa44c382dd0",
-      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
-      "data": "2026-07-13T20:37:57+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "62077d2bb730",
-      "titolo": "Dalla materia di scarto al valore condiviso: al via il nuovo Living Lab Torino Circolare",
-      "link": "https://www.comune.torino.it/novita/comunicati/dalla-materia-scarto-al-valore-condiviso-al-via-nuovo-living-lab-torino",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e4a6a8e351dc",
-      "titolo": "Luci e ombre per il vino piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/luci-ombre-per-vino-piemontese",
-      "data": "2026-07-08T15:15:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a77b7d3c3478",
-      "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
-      "data": "2026-07-07T18:41:23+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d92120ef4ef",
-      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
-      "data": "2026-07-06T09:52:31+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "ca7e11d1ef77",
-      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
-      "data": "2026-07-03T15:55:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d50a16d8eaee",
-      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi del Pnrr",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi-pnrr",
-      "data": "2026-07-03T15:55:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0c9d72d8030b",
-      "titolo": "Il bando 2026 per il credito in agricoltura",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
-      "data": "2026-07-02T12:05:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e76a6db8b16c",
-      "titolo": "Il “Semplifica Piemonte” è legge: riforma per una Regione più semplice, accessibile e capace di dare risposte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-legge-riforma-per-una-regione-piu-semplice-accessibile-capace-dare-risposte",
-      "data": "2026-06-30T17:50:15+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9375a9cd1fc4",
-      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-06-29T18:39:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f1672de691e2",
-      "titolo": "La Regione riapre l’Osservatorio sull’emergenza idrica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-riapre-losservatorio-sullemergenza-idrica",
-      "data": "2026-06-23T10:00:16+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -1651,32 +1693,6 @@
       "titolo": "Evitato il blocco dei diesel Euro 5 con nuove misure antismog",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/evitato-blocco-dei-diesel-euro-5-nuove-misure-antismog",
       "data": "2026-06-29T00:54:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "turismo": [
-    {
-      "id": "10f37a1e5fca",
-      "titolo": "Beni confiscati: accordo per rafforzare la lotta contro le mafie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/beni-confiscati-accordo-per-rafforzare-lotta-contro-mafie",
-      "data": "2026-07-14T18:52:10+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "43fb70a80a0c",
-      "titolo": "Chiusura della Biblioteca Pedagogica nel mese di agosto",
-      "link": "https://www.comune.torino.it/novita/notizie/chiusura-della-biblioteca-pedagogica-nel-mese-agosto",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "70b42f8c8bc9",
-      "titolo": "Nuovi record per il turismo piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-record-per-turismo-piemontese",
-      "data": "2026-07-08T09:59:52+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }

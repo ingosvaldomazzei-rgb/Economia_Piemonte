@@ -20,6 +20,36 @@
     "colore": "#dc2626"
   },
   {
+    "id": "dc02637edcb1",
+    "titolo": "La Città avvia l'organizzazione delle iniziative di Natale e Capodanno. Tra le novità, il boschetto di Natale in via Roma. Confermati i due concerti di Capodanno",
+    "link": "https://www.comune.torino.it/novita/comunicati/citta-avvia-lorganizzazione-delle-iniziative-natale-capodanno-novita-boschetto",
+    "descrizione": "La Giunta comunale ha approvato, su proposta dell’assessore ai Grandi eventi e Turismo Domenico Carretta, di concerto con l’assessora alla Cultura Rosanna Purch",
+    "data": "2026-08-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "c67fbd5f44c0",
+    "titolo": "Incendi boschivi, accordo tra Regione e Carabinieri Forestali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-accordo-regione-carabinieri-forestali",
+    "descrizione": "La Regione Piemonte ha rinnovato la Convenzione siglata con il Ministero dell’Agricoltura, della Sovranità Alimentare e delle Foreste per l’impiego delle unità del Comando Regione Carabinieri Forestale “Piemonte” nelle attività di prevenzione degli incendi boschivi e protezione…",
+    "data": "2026-08-07T11:02:37+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "afbb37492c20",
+    "titolo": "Siccità, avviate le procedure per la richiesta di calamità naturale",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-avviate-procedure-per-richiesta-calamita-naturale",
+    "descrizione": "Il Piemonte avvia le procedure per la richiesta dello stato di calamità naturale. Il presidente della Regione Piemonte, Alberto Cirio, e l’assessore all’Agricoltura, Paolo Bongioanni, giovedì 6 agosto hanno svolto una…",
+    "data": "2026-08-06T19:09:09+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "a6b991bcc5b6",
     "titolo": "Eclissi di Sole del 12 agosto: potenziati i collegamenti verso la collina",
     "link": "https://www.comune.torino.it/novita/comunicati/eclissi-sole-12-agosto-potenziati-collegamenti-verso-collina",
@@ -50,11 +80,21 @@
     "colore": "#dc2626"
   },
   {
+    "id": "c6e930394aad",
+    "titolo": "AVVISO ALL'UTENZA DELL'ARCHIVIO STORICO",
+    "link": "https://www.comune.torino.it/novita/avvisi/avviso-allutenza-dellarchivio-storico",
+    "descrizione": "Modifiche orari di apertura nel mese di agosto",
+    "data": "2026-08-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "644f6fd3797d",
     "titolo": "Automotive, riunione del tavolo per l'area di accelerazione industriale",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/automotive-riunione-tavolo-per-larea-accelerazione-industriale",
     "descrizione": "Il Piemonte si candida a diventare uno dei territori protagonisti della nuova politica industriale europea. Si è riunito mercoledì 5 agosto il Tavolo Automotive convocato dalla Regione Piemonte con le organizzazioni sindacali per raccogliere proposte, osservazioni e priorità da sottoporre al…",
-    "data": "2026-08-06T10:42:16+02:00",
+    "data": "2026-08-05T20:00:00+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
@@ -1033,7 +1073,7 @@
     "id": "d5ecb6570d55",
     "titolo": "Sportello GTT nelle Circoscrizioni",
     "link": "https://www.comune.torino.it/novita/avvisi/sportello-gtt-nelle-circoscrizioni",
-    "descrizione": "Assistenza alla clientela per le pratiche relative al trasporto pubblico e alla sosta",
+    "descrizione": "Assistenza alla clientela per le pratiche relative al trasporto pubblico e alla sosta.",
     "data": "2026-07-14T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1955,46 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/notizie/raccolta-sottoscrizioni-per-referendum-proposte-legge",
     "descrizione": "Avviso di deposito dei modelli per la raccolta di firme per referendum e proposte di legge.",
     "data": "2026-06-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "cc737a54181d",
-    "titolo": "Chiusura uffici",
-    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-uffici-1",
-    "descrizione": "Chiusura ufficio permessi ZTL",
-    "data": "2026-06-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f1672de691e2",
-    "titolo": "La Regione riapre l’Osservatorio sull’emergenza idrica",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-riapre-losservatorio-sullemergenza-idrica",
-    "descrizione": "La Regione Piemonte sta procedendo all’apertura dell’Osservatorio di emergenza idrica, in modo da monitorare le situazione relative ad acqua potabile, uso agricolo, bacini dei fiumi, scenario attuale ed estivo. Inoltre, ci sarà un’importante novità: la costituzione di un tavolo…",
-    "data": "2026-06-23T10:00:16+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "3e99d196ab1e",
-    "titolo": "Torino cresce nel verde e nella salute: al via il progetto di rigenerazione dei viali alberati, con circa 2800 nuovi alberi messi a dimora grazie a un accordo con la Fondazione Compagnia di San Paolo",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-cresce-nel-verde-nella-salute-al-via-progetto-rigenerazione-dei-viali",
-    "descrizione": "2,5 milioni di euro per valorizzare il patrimonio arboreo e promuovere benessere urbano",
-    "data": "2026-06-22T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "887c12442a84",
-    "titolo": "KAPPA FUTURFESTIVAL (3-5 LUGLIO 2026) - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/notizie/kappa-futurfestival-3-5-luglio-2026-convocazione-per-assegnazione-posteggi",
-    "descrizione": "Convocazione per MARTEDI' 30 GIUGNO 2026 alle ore 14,30",
-    "data": "2026-06-22T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"

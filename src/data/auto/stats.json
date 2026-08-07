@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 122,
-    "regione": 77,
+    "comune_torino": 121,
+    "regione": 78,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -16,7 +16,7 @@
     },
     {
       "tema": "agricoltura",
-      "conteggio": 16
+      "conteggio": 17
     },
     {
       "tema": "protezione-civile",
