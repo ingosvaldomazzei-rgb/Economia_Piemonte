@@ -30,6 +30,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "628335c1dd29",
+    "titolo": "Riapre la Biblioteca Passerin d'Entrèves, rinnovata negli spazi e negli impianti",
+    "link": "https://www.comune.torino.it/novita/comunicati/riapre-biblioteca-passerin-dentreves-rinnovata-negli-spazi-negli-impianti",
+    "descrizione": "La riapertura si inserisce nel più ampio progetto di trasformazione delle Biblioteche civiche torinesi, che comprende la nuova Centrale a Torino Esposizioni.",
+    "data": "2026-08-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "74e99681bdee",
     "titolo": "Nidi comunali, dalla Regione 1,5 milioni per ampliare l'orario di apertura",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-comunali-dalla-regione-15-milioni-per-ampliare-lorario-apertura",
@@ -1985,16 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-25-al-27-giugno-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
     "descrizione": "Da giovedì 25 a sabato 27 giugno esercitazione nazionale di Protezione civile “EXE PO 2026”, dedicata alla gestione del rischio idrogeologico e idraulico nell’intero bacino del fiume Po. Coordinata dal Dipartimento della Protezione civile…",
     "data": "2026-06-24T11:34:52+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "f1b388ec610b",
-    "titolo": "Voucher scuola: le domande dal 25 giugno al 16 luglio",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-domande-dal-25-giugno-al-16-luglio",
-    "descrizione": "Da giovedì 25 giugno e fino al 16 luglio sarà possibile presentare la domanda per accedere ai contributi previsti dai voucher scuola 2026-27 della Regione Piemonte. Si ricorda che la Giunta regionale prima e il Consiglio…",
-    "data": "2026-06-23T15:44:07+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"

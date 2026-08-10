@@ -69,6 +69,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "628335c1dd29",
+      "titolo": "Riapre la Biblioteca Passerin d'Entrèves, rinnovata negli spazi e negli impianti",
+      "link": "https://www.comune.torino.it/novita/comunicati/riapre-biblioteca-passerin-dentreves-rinnovata-negli-spazi-negli-impianti",
+      "data": "2026-08-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "e84eb7067781",
       "titolo": "Guida sicura per neopatentati",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/guida-sicura-per-neopatentati",
@@ -1495,14 +1503,6 @@
       "titolo": "Il Piemonte primo in Italia negli ITS Academy",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-primo-italia-negli-its-academy",
       "data": "2026-07-06T10:47:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f1b388ec610b",
-      "titolo": "Voucher scuola: le domande dal 25 giugno al 16 luglio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-domande-dal-25-giugno-al-16-luglio",
-      "data": "2026-06-23T15:44:07+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
