@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "a0c4be04f384",
+    "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
+    "descrizione": "I grandi progetti del Pnrr prendono forma attraverso le immagini e le voci di chi li realizza. “Racconti PNRR – Storie da un territorio in continua evoluzione” è un viaggio visivo sul canale multimediale istituzionale della Regione Piemonte, pensato per mostrare concretamente la trasformazione…",
+    "data": "2026-08-10T13:54:09+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "4a78e225f3de",
     "titolo": "Chiusura estiva",
     "link": "https://www.comune.torino.it/novita/notizie/chiusura-estiva",
@@ -18,6 +28,16 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "74e99681bdee",
+    "titolo": "Nidi comunali, dalla Regione 1,5 milioni per ampliare l'orario di apertura",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-comunali-dalla-regione-15-milioni-per-ampliare-lorario-apertura",
+    "descrizione": "Sono 77 i Comuni piemontesi che, per l'anno educativo 2026-2027, beneficeranno dei contributi regionali per ampliare l'orario di apertura dei nidi comunali. Giunto alla sesta edizione, il bando promosso dalla Regione Piemonte ha raccolto …",
+    "data": "2026-08-10T11:55:16+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "0e5f4b3d539d",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "fe3d93de9b07",
-    "titolo": "InQua, la \"Bella Storia\" dell'informazione di quartiere: i giovani raccontano Aurora e Barriera dal di dentro",
-    "link": "https://www.comune.torino.it/novita/comunicati/inqua-bella-storia-dellinformazione-quartiere-giovani-raccontano-aurora-barriera",
-    "descrizione": "Giovedì 25 giugno, alle 18 nello “Spazio Non C’è” in corso Vercelli 5, sarà presentato il nuovo giornale digitale “InQua - Informazione di Quartiere”.",
-    "data": "2026-06-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "cb3747a66de5",
-    "titolo": "Alti livelli di ozono nell'aria. Le raccomandazioni per la popolazione",
-    "link": "https://www.comune.torino.it/novita/notizie/alti-livelli-ozono-nellaria-raccomandazioni-per-popolazione",
-    "descrizione": "A causa dell'elevata temperatura a Torino si sono verificati in questi ultimi giorni superamenti del livello dell’ozono.",
-    "data": "2026-06-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
