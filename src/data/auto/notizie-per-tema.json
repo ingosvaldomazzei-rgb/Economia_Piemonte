@@ -69,14 +69,6 @@
       "fonte_id": "comune_torino"
     },
     {
-      "id": "dc02637edcb1",
-      "titolo": "La Città avvia l'organizzazione delle iniziative di Natale e Capodanno. Tra le novità, il boschetto di Natale in via Roma. Confermati i due concerti di Capodanno",
-      "link": "https://www.comune.torino.it/novita/comunicati/citta-avvia-lorganizzazione-delle-iniziative-natale-capodanno-novita-boschetto",
-      "data": "2026-08-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
       "id": "e84eb7067781",
       "titolo": "Guida sicura per neopatentati",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/guida-sicura-per-neopatentati",
@@ -255,15 +247,25 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "turismo": [
+  "pari-opportunita": [
     {
-      "id": "dc02637edcb1",
-      "titolo": "La Città avvia l'organizzazione delle iniziative di Natale e Capodanno. Tra le novità, il boschetto di Natale in via Roma. Confermati i due concerti di Capodanno",
-      "link": "https://www.comune.torino.it/novita/comunicati/citta-avvia-lorganizzazione-delle-iniziative-natale-capodanno-novita-boschetto",
-      "data": "2026-08-07T12:00:00+00:00",
+      "id": "0e5f4b3d539d",
+      "titolo": "Verso EuroPride 2027, Amsterdam passa il testimone a Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/verso-europride-2027-amsterdam-passa-testimone-torino",
+      "data": "2026-08-09T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
+    {
+      "id": "1d92120ef4ef",
+      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
+      "data": "2026-07-06T09:52:31+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    }
+  ],
+  "turismo": [
     {
       "id": "8968eb06ae13",
       "titolo": "Sedici giorni alla guida senza riposo settimanale: multato autista di bus turistico",
@@ -1687,16 +1689,6 @@
       "data": "2026-06-29T00:54:02+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "pari-opportunita": [
-    {
-      "id": "1d92120ef4ef",
-      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
-      "data": "2026-07-06T09:52:31+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
     }
   ]
 }
