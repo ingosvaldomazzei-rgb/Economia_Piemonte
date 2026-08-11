@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "44fafcd9c0b2",
+    "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+    "descrizione": "La Giunta regionale del Piemonte ha approvato la delibera che estende all’intero territorio piemontese lo stato di emergenza per gli incendi boschivi dichiarato lo scorso 3 agosto quando erano coinvolte solo i territori delle province di Torino, Vercelli e Verbano Cusio Ossola. Il…",
+    "data": "2026-08-11T11:41:27+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "a0c4be04f384",
     "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "267a6cd6562e",
-    "titolo": "Dal 25 al 27 giugno esercitazione nazionale sul rischio alluvionale nel bacino del Po",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-25-al-27-giugno-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
-    "descrizione": "Da giovedì 25 a sabato 27 giugno esercitazione nazionale di Protezione civile “EXE PO 2026”, dedicata alla gestione del rischio idrogeologico e idraulico nell’intero bacino del fiume Po. Coordinata dal Dipartimento della Protezione civile…",
-    "data": "2026-06-24T11:34:52+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
