@@ -10,10 +10,30 @@
     "colore": "#dc2626"
   },
   {
+    "id": "0983c1bc27b0",
+    "titolo": "Maltempo in agricoltura, online i moduli per la ricognizione dei danni",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-agricoltura-online-moduli-per-ricognizione-dei-danni",
+    "descrizione": "Le aziende agricole colpite dai danni del maltempo devono compilare e trasmettere al proprio Comune – in proprio o attraverso i Caa – la modulistica reperibile sul sito della Regione e dedicata alle procedure in caso di calamità naturali. I…",
+    "data": "2026-08-11T17:07:49+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "44fafcd9c0b2",
     "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
     "descrizione": "La Giunta regionale del Piemonte ha approvato la delibera che estende all’intero territorio piemontese lo stato di emergenza per gli incendi boschivi dichiarato lo scorso 3 agosto quando erano coinvolte solo i territori delle province di Torino, Vercelli e Verbano Cusio Ossola. Il…",
+    "data": "2026-08-11T11:41:27+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "01efb4b9e3ca",
+    "titolo": "Incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+    "descrizione": "La Giunta regionale del Piemonte ha approvato la delibera che estende all’intero territorio piemontese lo stato di emergenza per gli incendi boschivi dichiarato…",
     "data": "2026-08-11T11:41:27+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
@@ -1975,26 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/6-luglio-torna-attivo-lautovelox-corso-unita-ditalia",
     "descrizione": "Dalla mezzanotte di lunedì 6 luglio entrerà ufficialmente in funzione il nuovo autovelox fisso di corso Unità d'Italia.",
     "data": "2026-06-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f39188a11255",
-    "titolo": "Terremoto in Venezuela: il Piemonte invia personale sanitario per le operazioni di soccorso",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/terremoto-venezuela-piemonte-invia-personale-sanitario-per-operazioni-soccorso",
-    "descrizione": "La Regione Piemonte porta il proprio contributo alle operazioni di soccorso in Venezuela, colpito nelle scorse ore da due violenti terremoti che hanno provocato numerose vittime, centinaia di feriti e ingenti danni alle infrastrutture. Su richiesta del Dipartimento della…",
-    "data": "2026-06-25T20:26:31+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a961148967c1",
-    "titolo": "Giornata internazionale contro l'abuso e il traffico di droga: il 26 giugno ai Murazzi un appuntamento per i giovani con \"Sosteniamo, non puniamo. Skills in azione\"",
-    "link": "https://www.comune.torino.it/novita/comunicati/giornata-internazionale-contro-labuso-traffico-droga-26-giugno-ai-murazzi-un",
-    "descrizione": "Domani, venerdì 26 giugno, incontri, ascolto e salute allo Spazio DesTEENazione per parlare di consumi di sostanze senza tabù.",
-    "data": "2026-06-25T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
