@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "0dbbeb8d29a4",
+    "titolo": "Prezzi al consumo per l’intera collettività (Nic) luglio 2026",
+    "link": "https://www.comune.torino.it/novita/comunicati/prezzi-al-consumo-per-lintera-collettivita-nic-luglio-2026",
+    "descrizione": "Nel mese di luglio 2026 l’indice complessivo dei prezzi al consumo per l’intera collettività è risultato pari al 103,2.",
+    "data": "2026-08-12T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "0983c1bc27b0",
     "titolo": "Maltempo in agricoltura, online i moduli per la ricognizione dei danni",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-agricoltura-online-moduli-per-ricognizione-dei-danni",
@@ -1984,16 +1994,6 @@
     "titolo": "Minorenne scomparsa rintracciata grazie al Reparto di Prossimità della Polizia Locale di Torino",
     "link": "https://www.comune.torino.it/novita/comunicati/minorenne-scomparsa-rintracciata-grazie-al-reparto-prossimita-della-polizia",
     "descrizione": "Si è conclusa fortunatamente nel migliore dei modi e in tempi brevi la vicenda di una ragazza minorenne di origini filippine residente a Torino.",
-    "data": "2026-06-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c45c78284858",
-    "titolo": "Dal 6 luglio torna attivo l'autovelox in corso Unità d'Italia",
-    "link": "https://www.comune.torino.it/novita/comunicati/6-luglio-torna-attivo-lautovelox-corso-unita-ditalia",
-    "descrizione": "Dalla mezzanotte di lunedì 6 luglio entrerà ufficialmente in funzione il nuovo autovelox fisso di corso Unità d'Italia.",
     "data": "2026-06-26T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
