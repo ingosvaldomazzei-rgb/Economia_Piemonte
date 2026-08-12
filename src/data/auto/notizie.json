@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "78f8d0c82141",
+    "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
+    "descrizione": "Aumentano i rilasci d'acqua dalla Svizzera verso il Piemonte, mentre la Regione ha esteso all'intero territorio piemontese lo stato di emergenza di rilievo regionale per gli incendi boschivi e prepara le ordinanze che consentiranno di ristorare le spese sostenute dai territori…",
+    "data": "2026-08-12T17:31:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "0dbbeb8d29a4",
     "titolo": "Prezzi al consumo per l’intera collettività (Nic) luglio 2026",
     "link": "https://www.comune.torino.it/novita/comunicati/prezzi-al-consumo-per-lintera-collettivita-nic-luglio-2026",
@@ -1984,16 +1994,6 @@
     "titolo": "Un insetto venuto da lontano: la sfida della Popillia japonica",
     "link": "https://www.comune.torino.it/novita/notizie/un-insetto-venuto-lontano-sfida-della-popillia-japonica",
     "descrizione": "La Popillia japonica un coleottero di origine giapponese si sta diffondendo in Europa da diversi anni danneggiando numerose specie vegetali.",
-    "data": "2026-06-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8af3bb4726d0",
-    "titolo": "Minorenne scomparsa rintracciata grazie al Reparto di Prossimità della Polizia Locale di Torino",
-    "link": "https://www.comune.torino.it/novita/comunicati/minorenne-scomparsa-rintracciata-grazie-al-reparto-prossimita-della-polizia",
-    "descrizione": "Si è conclusa fortunatamente nel migliore dei modi e in tempi brevi la vicenda di una ragazza minorenne di origini filippine residente a Torino.",
     "data": "2026-06-26T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

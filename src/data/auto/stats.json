@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 119,
-    "regione": 80,
+    "comune_torino": 118,
+    "regione": 81,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -20,15 +20,15 @@
     },
     {
       "tema": "pianificazione-territoriale",
-      "conteggio": 14
+      "conteggio": 15
     },
     {
       "tema": "protezione-civile",
-      "conteggio": 14
+      "conteggio": 15
     },
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 12
+      "conteggio": 13
     },
     {
       "tema": "sanita-regionale",
