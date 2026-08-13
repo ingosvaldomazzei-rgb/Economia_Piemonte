@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "cdb917a94ec8",
+    "titolo": "Turismo estivo, il Piemonte primo per crescita in Italia nel mese di luglio",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-estivo-piemonte-primo-per-crescita-italia-nel-mese-luglio",
+    "descrizione": "Il Piemonte è la regione d’Italia che nel mese di luglio ha segnato il maggior incremento a livello nazionale nelle presenze turistiche, con un bel +9,9 rispetto all’analogo periodo del 2025, che sfiora la doppia cifra e lo porta al…",
+    "data": "2026-08-13T17:10:52+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "beb5c642f493",
     "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "29be22b737ab",
-    "titolo": "Evitato il blocco dei diesel Euro 5 con nuove misure antismog",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/evitato-blocco-dei-diesel-euro-5-nuove-misure-antismog",
-    "descrizione": "La Regione Piemonte ha cancellato il blocco strutturale che avrebbe riguardato da ottobre ad aprile 307.000 auto diesel Euro 5 nell’…",
-    "data": "2026-06-29T00:54:02+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
