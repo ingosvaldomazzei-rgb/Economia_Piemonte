@@ -69,6 +69,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "421045fa3e29",
+      "titolo": "Cultura, oltre 10 milioni a 334 realtà in tutte le province",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-oltre-10-milioni-334-realta-tutte-province",
+      "data": "2026-08-13T10:05:56+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "628335c1dd29",
       "titolo": "Riapre la Biblioteca Passerin d'Entrèves, rinnovata negli spazi e negli impianti",
       "link": "https://www.comune.torino.it/novita/comunicati/riapre-biblioteca-passerin-dentreves-rinnovata-negli-spazi-negli-impianti",
@@ -195,14 +203,6 @@
       "data": "2026-07-02T12:05:52+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "4d9d2d4a2896",
-      "titolo": "Aggiornamento sulla validità delle carte d'identità cartacee",
-      "link": "https://www.comune.torino.it/novita/avvisi/aggiornamento-sulla-validita-delle-carte-didentita-cartacee",
-      "data": "2026-06-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "universita-ricerca": [
@@ -255,357 +255,15 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "pianificazione-territoriale": [
-    {
-      "id": "78f8d0c82141",
-      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
-      "data": "2026-08-12T17:31:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "44fafcd9c0b2",
-      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-      "data": "2026-08-11T11:41:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "01efb4b9e3ca",
-      "titolo": "Incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-      "data": "2026-08-11T11:41:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a0c4be04f384",
-      "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
-      "data": "2026-08-10T13:54:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2130eacdc801",
-      "titolo": "Dalla Regione 330 mila euro per le caserme della Guardia di Finanza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-330-mila-euro-per-caserme-della-guardia-finanza",
-      "data": "2026-08-05T10:44:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2623db8a45e8",
-      "titolo": "Il Piemonte dichiara lo stato di emergenza regionale per crisi idrica e incendi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-dichiara-stato-emergenza-regionale-per-crisi-idrica-incendi",
-      "data": "2026-08-03T18:22:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bc2181b59c9b",
-      "titolo": "Piemonte Film Tv Fund 2026: i progetti finanziati con la prima sessione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-2026-progetti-finanziati-prima-sessione",
-      "data": "2026-07-30T18:46:34+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7b873b05b26c",
-      "titolo": "I 150 anni della ferrovia Torino-Lanzo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/150-anni-della-ferrovia-torino-lanzo",
-      "data": "2026-07-27T10:19:03+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4687c4213bbb",
-      "titolo": "Castagneti, bando da 1,6 milioni per la gestione associata in montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/castagneti-bando-16-milioni-per-gestione-associata-montagna",
-      "data": "2026-07-21T13:02:35+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "86eda9e580af",
-      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
-      "data": "2026-07-17T17:51:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0683fb976cec",
-      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
-      "data": "2026-07-17T17:51:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "06898e862b2c",
-      "titolo": "Consegnate le Civiche Benemerenze 2026",
-      "link": "https://www.comune.torino.it/novita/comunicati/consegnate-civiche-benemerenze-2026",
-      "data": "2026-07-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a2dd1fe80c3d",
-      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
-      "data": "2026-07-03T11:16:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9375a9cd1fc4",
-      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-06-29T18:39:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "78f8d0c82141",
-      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
-      "data": "2026-08-12T17:31:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "44fafcd9c0b2",
-      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-      "data": "2026-08-11T11:41:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "74e99681bdee",
-      "titolo": "Nidi comunali, dalla Regione 1,5 milioni per ampliare l'orario di apertura",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-comunali-dalla-regione-15-milioni-per-ampliare-lorario-apertura",
-      "data": "2026-08-10T11:55:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a585b363e6e9",
-      "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
-      "data": "2026-07-24T19:23:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "86eda9e580af",
-      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
-      "data": "2026-07-17T17:51:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0683fb976cec",
-      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
-      "data": "2026-07-17T17:51:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "52a97a22a095",
-      "titolo": "Torino-Lione: disponibili per i Comuni 50,2 milioni per le opere compensative",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-disponibili-per-comuni-502-milioni-per-opere-compensative",
-      "data": "2026-07-14T16:36:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8ed916116ed6",
-      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
-      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ab7c4653c07c",
-      "titolo": "Via Stradella: da area degradata a giardino resiliente, un progetto costruito insieme ai cittadini",
-      "link": "https://www.comune.torino.it/novita/comunicati/via-stradella-area-degradata-giardino-resiliente-un-progetto-costruito-insieme",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "541a58d19c86",
-      "titolo": "Torino riconosce la comunità Arbëreshë: approvata la delibera per la tutela della minoranza linguistica storica italo-albanese",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-riconosce-comunita-arbereshe-approvata-delibera-per-tutela-della",
-      "data": "2026-07-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1d92120ef4ef",
-      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
-      "data": "2026-07-06T09:52:31+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "a2dd1fe80c3d",
-      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
-      "data": "2026-07-03T11:16:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a208834388f4",
-      "titolo": "Il 2 luglio l’inaugurazione della “Prima portineria di comunità itinerante”",
-      "link": "https://www.comune.torino.it/novita/comunicati/2-luglio-linaugurazione-della-prima-portineria-comunita-itinerante",
-      "data": "2026-07-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "protezione-civile": [
-    {
-      "id": "78f8d0c82141",
-      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
-      "data": "2026-08-12T17:31:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "44fafcd9c0b2",
-      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-      "data": "2026-08-11T11:41:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "01efb4b9e3ca",
-      "titolo": "Incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-      "data": "2026-08-11T11:41:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c67fbd5f44c0",
-      "titolo": "Incendi boschivi, accordo tra Regione e Carabinieri Forestali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-accordo-regione-carabinieri-forestali",
-      "data": "2026-08-07T11:02:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2623db8a45e8",
-      "titolo": "Il Piemonte dichiara lo stato di emergenza regionale per crisi idrica e incendi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-dichiara-stato-emergenza-regionale-per-crisi-idrica-incendi",
-      "data": "2026-08-03T18:22:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a2c6317dd05e",
-      "titolo": "Il Corpo Aib Piemonte torna in Calabria",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corpo-aib-piemonte-torna-calabria",
-      "data": "2026-07-30T21:38:11+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d323ab41e2a",
-      "titolo": "La Regione pronta a dichiarare lo stato di emergenza per crisi idrica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-dichiarare-stato-emergenza-per-crisi-idrica",
-      "data": "2026-07-30T21:07:42+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2aa44c382dd0",
-      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
-      "data": "2026-07-13T20:37:57+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c4dab082403b",
-      "titolo": "La Regione al lavoro per iniziare il ripristino dei boschi bruciati dagli incendi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-al-lavoro-per-iniziare-ripristino-dei-boschi-bruciati-dagli-incendi",
-      "data": "2026-07-11T18:59:12+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1abd15f9bad9",
-      "titolo": "La Regione progetta il ripristino dei boschi bruciati dagli incendi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-progetta-ripristino-dei-boschi-bruciati-dagli-incendi",
-      "data": "2026-07-11T18:59:12+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "60ac2e021833",
-      "titolo": "Dall’8 luglio in Piemonte stato di massima pericolosità per incendi boschivi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dall8-luglio-piemonte-stato-massima-pericolosita-per-incendi-boschivi",
-      "data": "2026-07-06T18:45:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5d3a4f21a41e",
-      "titolo": "Missione del Corpo Aib del Piemonte in Francia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-corpo-aib-piemonte-francia",
-      "data": "2026-07-03T13:05:35+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9375a9cd1fc4",
-      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-06-29T18:39:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "26b2fc6fe506",
-      "titolo": "EXEPO 2026, esercitazione nazionale sul rischio alluvionale nel bacino del Po",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/exepo-2026-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
-      "data": "2026-06-27T15:34:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "agricoltura": [
+    {
+      "id": "beb5c642f493",
+      "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "0983c1bc27b0",
       "titolo": "Maltempo in agricoltura, online i moduli per la ricognizione dei danni",
@@ -739,6 +397,472 @@
       "titolo": "Il “Semplifica Piemonte” è legge: riforma per una Regione più semplice, accessibile e capace di dare risposte",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-legge-riforma-per-una-regione-piu-semplice-accessibile-capace-dare-risposte",
       "data": "2026-06-30T17:50:15+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9375a9cd1fc4",
+      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-06-29T18:39:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "istruzione-formazione": [
+    {
+      "id": "beb5c642f493",
+      "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a42e8fee4de4",
+      "titolo": "Impianti più sicuri ed efficienti negli edifici comunali: approvati lavori per 880mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/impianti-piu-sicuri-efficienti-negli-edifici-comunali-approvati-lavori-per",
+      "data": "2026-07-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8de825935415",
+      "titolo": "Mercoledì 22 luglio \"Diritto di Tribuna\" su sicurezza per alunni scuola Anna Frank",
+      "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-22-luglio-diritto-tribuna-sicurezza-per-alunni-scuola-anna-frank",
+      "data": "2026-07-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8a0e4e7d1166",
+      "titolo": "Più efficienza energetica per scuole e asili: approvati lavori per 1,35 milioni di euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/piu-efficienza-energetica-per-scuole-asili-approvati-lavori-per-135-milioni-euro",
+      "data": "2026-07-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ccc46530450b",
+      "titolo": "La Sala Rossa chiede l’intitolazione di una scuola a Fiorenzo Alfieri",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-chiede-lintitolazione-una-scuola-fiorenzo-alfieri",
+      "data": "2026-07-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f431f46fded7",
+      "titolo": "Il Piemonte primo in Italia negli ITS Academy",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-primo-italia-negli-its-academy",
+      "data": "2026-07-06T10:47:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "sociale-welfare": [
+    {
+      "id": "beb5c642f493",
+      "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "45ac97db8823",
+      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
+      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
+      "data": "2026-08-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a74464e91c26",
+      "titolo": "First Place, un nuovo spazio per l’autonomia abitativa e l’inclusione a Barriera di Milano",
+      "link": "https://www.comune.torino.it/novita/comunicati/first-place-un-nuovo-spazio-per-lautonomia-abitativa-linclusione-barriera-milano",
+      "data": "2026-07-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bc0cdc94b988",
+      "titolo": "Social Factory, a Borgo San Paolo un presidio per l’inclusione sociale",
+      "link": "https://www.comune.torino.it/novita/comunicati/social-factory-borgo-san-paolo-un-presidio-per-linclusione-sociale",
+      "data": "2026-07-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d5ecb6570d55",
+      "titolo": "Sportello GTT nelle Circoscrizioni",
+      "link": "https://www.comune.torino.it/novita/avvisi/sportello-gtt-nelle-circoscrizioni",
+      "data": "2026-07-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9310ad423661",
+      "titolo": "Ricordata l'assessora emerita Rosalba Molineri, introdusse l'affidamento familiare",
+      "link": "https://www.comune.torino.it/novita/comunicati/ricordata-lassessora-emerita-rosalba-molineri-introdusse-laffidamento-familiare",
+      "data": "2026-07-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8e9e2bee14bc",
+      "titolo": "Lea 2024, il Piemonte al 4° posto nazionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lea-2024-piemonte-al-4deg-posto-nazionale",
+      "data": "2026-07-13T09:07:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d09a7df0cbcd",
+      "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "421045fa3e29",
+      "titolo": "Cultura, oltre 10 milioni a 334 realtà in tutte le province",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-oltre-10-milioni-334-realta-tutte-province",
+      "data": "2026-08-13T10:05:56+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "78f8d0c82141",
+      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
+      "data": "2026-08-12T17:31:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "44fafcd9c0b2",
+      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+      "data": "2026-08-11T11:41:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "74e99681bdee",
+      "titolo": "Nidi comunali, dalla Regione 1,5 milioni per ampliare l'orario di apertura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-comunali-dalla-regione-15-milioni-per-ampliare-lorario-apertura",
+      "data": "2026-08-10T11:55:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a585b363e6e9",
+      "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
+      "data": "2026-07-24T19:23:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "86eda9e580af",
+      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
+      "data": "2026-07-17T17:51:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0683fb976cec",
+      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
+      "data": "2026-07-17T17:51:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "52a97a22a095",
+      "titolo": "Torino-Lione: disponibili per i Comuni 50,2 milioni per le opere compensative",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-disponibili-per-comuni-502-milioni-per-opere-compensative",
+      "data": "2026-07-14T16:36:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8ed916116ed6",
+      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
+      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ab7c4653c07c",
+      "titolo": "Via Stradella: da area degradata a giardino resiliente, un progetto costruito insieme ai cittadini",
+      "link": "https://www.comune.torino.it/novita/comunicati/via-stradella-area-degradata-giardino-resiliente-un-progetto-costruito-insieme",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "541a58d19c86",
+      "titolo": "Torino riconosce la comunità Arbëreshë: approvata la delibera per la tutela della minoranza linguistica storica italo-albanese",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-riconosce-comunita-arbereshe-approvata-delibera-per-tutela-della",
+      "data": "2026-07-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1d92120ef4ef",
+      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
+      "data": "2026-07-06T09:52:31+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "a2dd1fe80c3d",
+      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
+      "data": "2026-07-03T11:16:38+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a208834388f4",
+      "titolo": "Il 2 luglio l’inaugurazione della “Prima portineria di comunità itinerante”",
+      "link": "https://www.comune.torino.it/novita/comunicati/2-luglio-linaugurazione-della-prima-portineria-comunita-itinerante",
+      "data": "2026-07-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "pianificazione-territoriale": [
+    {
+      "id": "78f8d0c82141",
+      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
+      "data": "2026-08-12T17:31:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "44fafcd9c0b2",
+      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+      "data": "2026-08-11T11:41:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "01efb4b9e3ca",
+      "titolo": "Incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+      "data": "2026-08-11T11:41:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a0c4be04f384",
+      "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
+      "data": "2026-08-10T13:54:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2130eacdc801",
+      "titolo": "Dalla Regione 330 mila euro per le caserme della Guardia di Finanza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-330-mila-euro-per-caserme-della-guardia-finanza",
+      "data": "2026-08-05T10:44:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2623db8a45e8",
+      "titolo": "Il Piemonte dichiara lo stato di emergenza regionale per crisi idrica e incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-dichiara-stato-emergenza-regionale-per-crisi-idrica-incendi",
+      "data": "2026-08-03T18:22:26+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bc2181b59c9b",
+      "titolo": "Piemonte Film Tv Fund 2026: i progetti finanziati con la prima sessione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-2026-progetti-finanziati-prima-sessione",
+      "data": "2026-07-30T18:46:34+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7b873b05b26c",
+      "titolo": "I 150 anni della ferrovia Torino-Lanzo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/150-anni-della-ferrovia-torino-lanzo",
+      "data": "2026-07-27T10:19:03+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4687c4213bbb",
+      "titolo": "Castagneti, bando da 1,6 milioni per la gestione associata in montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/castagneti-bando-16-milioni-per-gestione-associata-montagna",
+      "data": "2026-07-21T13:02:35+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "86eda9e580af",
+      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
+      "data": "2026-07-17T17:51:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0683fb976cec",
+      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
+      "data": "2026-07-17T17:51:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "06898e862b2c",
+      "titolo": "Consegnate le Civiche Benemerenze 2026",
+      "link": "https://www.comune.torino.it/novita/comunicati/consegnate-civiche-benemerenze-2026",
+      "data": "2026-07-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a2dd1fe80c3d",
+      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
+      "data": "2026-07-03T11:16:38+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d01b32fb623",
+      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-07-01T15:15:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9375a9cd1fc4",
+      "titolo": "Un piano da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piano-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-06-29T18:39:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "protezione-civile": [
+    {
+      "id": "78f8d0c82141",
+      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
+      "data": "2026-08-12T17:31:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "44fafcd9c0b2",
+      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+      "data": "2026-08-11T11:41:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "01efb4b9e3ca",
+      "titolo": "Incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+      "data": "2026-08-11T11:41:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c67fbd5f44c0",
+      "titolo": "Incendi boschivi, accordo tra Regione e Carabinieri Forestali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-accordo-regione-carabinieri-forestali",
+      "data": "2026-08-07T11:02:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2623db8a45e8",
+      "titolo": "Il Piemonte dichiara lo stato di emergenza regionale per crisi idrica e incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-dichiara-stato-emergenza-regionale-per-crisi-idrica-incendi",
+      "data": "2026-08-03T18:22:26+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a2c6317dd05e",
+      "titolo": "Il Corpo Aib Piemonte torna in Calabria",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corpo-aib-piemonte-torna-calabria",
+      "data": "2026-07-30T21:38:11+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d323ab41e2a",
+      "titolo": "La Regione pronta a dichiarare lo stato di emergenza per crisi idrica",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-dichiarare-stato-emergenza-per-crisi-idrica",
+      "data": "2026-07-30T21:07:42+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2aa44c382dd0",
+      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
+      "data": "2026-07-13T20:37:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c4dab082403b",
+      "titolo": "La Regione al lavoro per iniziare il ripristino dei boschi bruciati dagli incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-al-lavoro-per-iniziare-ripristino-dei-boschi-bruciati-dagli-incendi",
+      "data": "2026-07-11T18:59:12+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1abd15f9bad9",
+      "titolo": "La Regione progetta il ripristino dei boschi bruciati dagli incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-progetta-ripristino-dei-boschi-bruciati-dagli-incendi",
+      "data": "2026-07-11T18:59:12+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "60ac2e021833",
+      "titolo": "Dall’8 luglio in Piemonte stato di massima pericolosità per incendi boschivi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dall8-luglio-piemonte-stato-massima-pericolosita-per-incendi-boschivi",
+      "data": "2026-07-06T18:45:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5d3a4f21a41e",
+      "titolo": "Missione del Corpo Aib del Piemonte in Francia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-corpo-aib-piemonte-francia",
+      "data": "2026-07-03T13:05:35+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1d01b32fb623",
+      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
+      "data": "2026-07-01T15:15:08+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -981,64 +1105,6 @@
       "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
       "data": "2026-07-07T18:41:23+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d09a7df0cbcd",
-      "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "sociale-welfare": [
-    {
-      "id": "45ac97db8823",
-      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
-      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
-      "data": "2026-08-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a74464e91c26",
-      "titolo": "First Place, un nuovo spazio per l’autonomia abitativa e l’inclusione a Barriera di Milano",
-      "link": "https://www.comune.torino.it/novita/comunicati/first-place-un-nuovo-spazio-per-lautonomia-abitativa-linclusione-barriera-milano",
-      "data": "2026-07-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bc0cdc94b988",
-      "titolo": "Social Factory, a Borgo San Paolo un presidio per l’inclusione sociale",
-      "link": "https://www.comune.torino.it/novita/comunicati/social-factory-borgo-san-paolo-un-presidio-per-linclusione-sociale",
-      "data": "2026-07-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d5ecb6570d55",
-      "titolo": "Sportello GTT nelle Circoscrizioni",
-      "link": "https://www.comune.torino.it/novita/avvisi/sportello-gtt-nelle-circoscrizioni",
-      "data": "2026-07-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9310ad423661",
-      "titolo": "Ricordata l'assessora emerita Rosalba Molineri, introdusse l'affidamento familiare",
-      "link": "https://www.comune.torino.it/novita/comunicati/ricordata-lassessora-emerita-rosalba-molineri-introdusse-laffidamento-familiare",
-      "data": "2026-07-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8e9e2bee14bc",
-      "titolo": "Lea 2024, il Piemonte al 4° posto nazionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lea-2024-piemonte-al-4deg-posto-nazionale",
-      "data": "2026-07-13T09:07:06+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -1503,48 +1569,6 @@
       "data": "2026-07-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "istruzione-formazione": [
-    {
-      "id": "a42e8fee4de4",
-      "titolo": "Impianti più sicuri ed efficienti negli edifici comunali: approvati lavori per 880mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/impianti-piu-sicuri-efficienti-negli-edifici-comunali-approvati-lavori-per",
-      "data": "2026-07-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8de825935415",
-      "titolo": "Mercoledì 22 luglio \"Diritto di Tribuna\" su sicurezza per alunni scuola Anna Frank",
-      "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-22-luglio-diritto-tribuna-sicurezza-per-alunni-scuola-anna-frank",
-      "data": "2026-07-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8a0e4e7d1166",
-      "titolo": "Più efficienza energetica per scuole e asili: approvati lavori per 1,35 milioni di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/piu-efficienza-energetica-per-scuole-asili-approvati-lavori-per-135-milioni-euro",
-      "data": "2026-07-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ccc46530450b",
-      "titolo": "La Sala Rossa chiede l’intitolazione di una scuola a Fiorenzo Alfieri",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-chiede-lintitolazione-una-scuola-fiorenzo-alfieri",
-      "data": "2026-07-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f431f46fded7",
-      "titolo": "Il Piemonte primo in Italia negli ITS Academy",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-primo-italia-negli-its-academy",
-      "data": "2026-07-06T10:47:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sport": [

@@ -10,6 +10,36 @@
     "colore": "#dc2626"
   },
   {
+    "id": "beb5c642f493",
+    "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
+    "descrizione": "La Regione Piemonte ha rinnovato anche per l’anno scolastico 2025-2026, quello appena concluso, l’assegnazione di 7,7 milioni di euro per contributi a sostegno delle scuole dell’infanzia paritarie, riconoscendone la funzione sociale ed educativa. Le risorse sono destinate alle…",
+    "data": "2026-08-13T12:24:31+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "33da7dd3da1b",
+    "titolo": "Fermato alla guida di un monopattino rifiuta il test antidroga: denunciato",
+    "link": "https://www.comune.torino.it/novita/comunicati/fermato-alla-guida-un-monopattino-rifiuta-test-antidroga-denunciato",
+    "descrizione": "Un conducente di monopattino elettrico è stato denunciato dalla Polizia Locale per aver rifiutato gli accertamenti.",
+    "data": "2026-08-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "421045fa3e29",
+    "titolo": "Cultura, oltre 10 milioni a 334 realtà in tutte le province",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-oltre-10-milioni-334-realta-tutte-province",
+    "descrizione": "La Regione Piemonte rafforza il sostegno al sistema culturale regionale con oltre 10 milioni di euro nel 2026 nell’ambito dei bandi triennali del Settore Promozione delle Attività culturali, che andranno a beneficiare 334 realtà culturali distribuite in tutte…",
+    "data": "2026-08-13T10:05:56+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "78f8d0c82141",
     "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
@@ -1968,35 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "26b2fc6fe506",
-    "titolo": "EXEPO 2026, esercitazione nazionale sul rischio alluvionale nel bacino del Po",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/exepo-2026-esercitazione-nazionale-sul-rischio-alluvionale-nel-bacino-po",
-    "descrizione": "Da giovedì 25 a sabato 27 giugno si è svolta l'esercitazione nazionale di Protezione civile “EXE PO 2026”, dedicata alla gestione del rischio idrogeologico e idraulico nell’intero bacino del fiume Po. Coordinata dal Dipartimento della…",
-    "data": "2026-06-27T15:34:52+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "4d9d2d4a2896",
-    "titolo": "Aggiornamento sulla validità delle carte d'identità cartacee",
-    "link": "https://www.comune.torino.it/novita/avvisi/aggiornamento-sulla-validita-delle-carte-didentita-cartacee",
-    "descrizione": "Il Consiglio dei Ministri, con il decreto-legge 26 giugno 2026, n. 108, ha introdotto importanti disposizioni in materia di carta d'identità.",
-    "data": "2026-06-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0bdc0ff6fce3",
-    "titolo": "Un insetto venuto da lontano: la sfida della Popillia japonica",
-    "link": "https://www.comune.torino.it/novita/notizie/un-insetto-venuto-lontano-sfida-della-popillia-japonica",
-    "descrizione": "La Popillia japonica un coleottero di origine giapponese si sta diffondendo in Europa da diversi anni danneggiando numerose specie vegetali.",
-    "data": "2026-06-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

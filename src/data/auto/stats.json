@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 118,
-    "regione": 81,
+    "comune_torino": 117,
+    "regione": 82,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -11,11 +11,11 @@
       "conteggio": 20
     },
     {
-      "tema": "cultura-beni-culturali",
-      "conteggio": 18
+      "tema": "agricoltura",
+      "conteggio": 19
     },
     {
-      "tema": "agricoltura",
+      "tema": "cultura-beni-culturali",
       "conteggio": 18
     },
     {
@@ -23,12 +23,12 @@
       "conteggio": 15
     },
     {
-      "tema": "protezione-civile",
-      "conteggio": 15
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 14
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 13
+      "tema": "protezione-civile",
+      "conteggio": 14
     },
     {
       "tema": "sanita-regionale",
@@ -39,11 +39,11 @@
       "conteggio": 10
     },
     {
-      "tema": "commercio-artigianato",
+      "tema": "sociale-welfare",
       "conteggio": 8
     },
     {
-      "tema": "energia",
+      "tema": "commercio-artigianato",
       "conteggio": 8
     }
   ],
