@@ -307,6 +307,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "8e788a6f6b95",
+      "titolo": "Scuole dell'infanzia paritaria, 7,7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-77-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "0983c1bc27b0",
       "titolo": "Maltempo in agricoltura, online i moduli per la ricognizione dei danni",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-agricoltura-online-moduli-per-ricognizione-dei-danni",
@@ -461,6 +469,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "8e788a6f6b95",
+      "titolo": "Scuole dell'infanzia paritaria, 7,7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-77-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "a42e8fee4de4",
       "titolo": "Impianti più sicuri ed efficienti negli edifici comunali: approvati lavori per 880mila euro",
       "link": "https://www.comune.torino.it/novita/comunicati/impianti-piu-sicuri-efficienti-negli-edifici-comunali-approvati-lavori-per",
@@ -506,6 +522,14 @@
       "id": "beb5c642f493",
       "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8e788a6f6b95",
+      "titolo": "Scuole dell'infanzia paritaria, 7,7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-77-milioni-per-sostenere-famiglie-territori",
       "data": "2026-08-13T12:24:31+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
@@ -1459,14 +1483,6 @@
       "titolo": "\"Lo sai che la tua mensa...\"",
       "link": "https://www.comune.torino.it/novita/notizie/sai-che-tua-mensa",
       "data": "2026-07-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5bd54c95b07b",
-      "titolo": "Modificato il Regolamento sui mercatini periodici tematici",
-      "link": "https://www.comune.torino.it/novita/comunicati/modificato-regolamento-sui-mercatini-periodici-tematici",
-      "data": "2026-06-29T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
