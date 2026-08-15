@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "8142e83196b7",
+    "titolo": "Concerto di Ferragosto, in 8.000 a Bagnolo Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/concerto-ferragosto-8000-bagnolo-piemonte",
+    "descrizione": "Sono state 8.000 le persone che questa mattina hanno raggiunto Rucas, nel Comune di Bagnolo Piemonte, per assistere al 46° Concerto Sinfonico di Ferragosto. Per la prima volta nella storia della manifestazione, la musica…",
+    "data": "2026-08-15T15:48:27+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "cdb917a94ec8",
     "titolo": "Turismo estivo, il Piemonte primo per crescita in Italia nel mese di luglio",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-estivo-piemonte-primo-per-crescita-italia-nel-mese-luglio",
@@ -1988,15 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "ad7388a91ca5",
-    "titolo": "Blackout elettrico al potabilizzatore Smat, Foglietta: \"Acqua sempre garantita, nessun allarmismo\"",
-    "link": "https://www.comune.torino.it/novita/comunicati/blackout-elettrico-al-potabilizzatore-smat-foglietta-acqua-sempre-garantita",
-    "descrizione": "Gli altri impianti della rete idrica hanno compensato i litri mancanti e successivamente sono stati avviati da Smat due gruppi elettrogeni",
-    "data": "2026-06-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
