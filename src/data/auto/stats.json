@@ -19,31 +19,31 @@
       "conteggio": 18
     },
     {
-      "tema": "pianificazione-territoriale",
-      "conteggio": 15
-    },
-    {
       "tema": "enti-locali-piccoli-comuni",
       "conteggio": 14
     },
     {
-      "tema": "protezione-civile",
+      "tema": "pianificazione-territoriale",
       "conteggio": 14
+    },
+    {
+      "tema": "protezione-civile",
+      "conteggio": 13
+    },
+    {
+      "tema": "sport",
+      "conteggio": 11
     },
     {
       "tema": "sanita-regionale",
       "conteggio": 11
     },
     {
-      "tema": "sport",
+      "tema": "sociale-welfare",
       "conteggio": 10
     },
     {
-      "tema": "sociale-welfare",
-      "conteggio": 9
-    },
-    {
-      "tema": "energia",
+      "tema": "istruzione-formazione",
       "conteggio": 8
     }
   ],
