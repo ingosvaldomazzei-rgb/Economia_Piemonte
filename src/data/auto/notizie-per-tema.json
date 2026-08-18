@@ -255,6 +255,226 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "sanita-regionale": [
+    {
+      "id": "c49fb27363e6",
+      "titolo": "Competenze di Comunicazione Consapevole",
+      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
+      "data": "2026-08-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "45ac97db8823",
+      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
+      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
+      "data": "2026-08-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4a2ea335755c",
+      "titolo": "Disabilità, 1,6 milioni di euro per i servizi sociosanitari. Al via la revisione delle tariffe",
+      "link": "https://www.comune.torino.it/novita/comunicati/disabilita-16-milioni-euro-per-servizi-sociosanitari-al-via-revisione-delle",
+      "data": "2026-08-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "93db91f00de9",
+      "titolo": "Transizione energetica, si riqualificano 21 edifici pubblici",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/transizione-energetica-si-riqualificano-21-edifici-pubblici",
+      "data": "2026-07-29T16:08:41+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a2c3d29a06f1",
+      "titolo": "Liste d'attesa, Agenas indica il Piemonte tra le buone pratiche nazionali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/liste-dattesa-agenas-indica-piemonte-buone-pratiche-nazionali",
+      "data": "2026-07-21T14:25:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9ae291d68083",
+      "titolo": "La musica….fa bene! Presentazione di uno studio scientifico",
+      "link": "https://www.comune.torino.it/novita/notizie/musicafa-bene-presentazione-uno-studio-scientifico",
+      "data": "2026-07-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b39febf18d6d",
+      "titolo": "Il nuovo ospedale Regina Margherita nel programma Inail",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-regina-margherita-nel-programma-inail",
+      "data": "2026-07-18T17:20:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8e9e2bee14bc",
+      "titolo": "Lea 2024, il Piemonte al 4° posto nazionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lea-2024-piemonte-al-4deg-posto-nazionale",
+      "data": "2026-07-13T09:07:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "05f41e85fb48",
+      "titolo": "Parco della salute di Torino: più posti letto e laboratori, avvio dei cantieri a inizio 2027",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-torino-piu-posti-letto-laboratori-avvio-dei-cantieri-inizio-2027",
+      "data": "2026-07-09T18:43:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f53418f544dc",
+      "titolo": "Nessun blocco delle assunzioni nella sanità piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nessun-blocco-delle-assunzioni-nella-sanita-piemontese",
+      "data": "2026-07-08T18:43:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a77b7d3c3478",
+      "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
+      "data": "2026-07-07T18:41:23+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d09a7df0cbcd",
+      "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "c49fb27363e6",
+      "titolo": "Competenze di Comunicazione Consapevole",
+      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
+      "data": "2026-08-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "421045fa3e29",
+      "titolo": "Cultura, oltre 10 milioni a 334 realtà in tutte le province",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-oltre-10-milioni-334-realta-tutte-province",
+      "data": "2026-08-13T10:05:56+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "78f8d0c82141",
+      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
+      "data": "2026-08-12T17:31:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "44fafcd9c0b2",
+      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+      "data": "2026-08-11T11:41:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "74e99681bdee",
+      "titolo": "Nidi comunali, dalla Regione 1,5 milioni per ampliare l'orario di apertura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-comunali-dalla-regione-15-milioni-per-ampliare-lorario-apertura",
+      "data": "2026-08-10T11:55:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a585b363e6e9",
+      "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
+      "data": "2026-07-24T19:23:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "86eda9e580af",
+      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
+      "data": "2026-07-17T17:51:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0683fb976cec",
+      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
+      "data": "2026-07-17T17:51:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "52a97a22a095",
+      "titolo": "Torino-Lione: disponibili per i Comuni 50,2 milioni per le opere compensative",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-disponibili-per-comuni-502-milioni-per-opere-compensative",
+      "data": "2026-07-14T16:36:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8ed916116ed6",
+      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
+      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ab7c4653c07c",
+      "titolo": "Via Stradella: da area degradata a giardino resiliente, un progetto costruito insieme ai cittadini",
+      "link": "https://www.comune.torino.it/novita/comunicati/via-stradella-area-degradata-giardino-resiliente-un-progetto-costruito-insieme",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "541a58d19c86",
+      "titolo": "Torino riconosce la comunità Arbëreshë: approvata la delibera per la tutela della minoranza linguistica storica italo-albanese",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-riconosce-comunita-arbereshe-approvata-delibera-per-tutela-della",
+      "data": "2026-07-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1d92120ef4ef",
+      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
+      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
+      "data": "2026-07-06T09:52:31+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "a2dd1fe80c3d",
+      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
+      "data": "2026-07-03T11:16:38+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a208834388f4",
+      "titolo": "Il 2 luglio l’inaugurazione della “Prima portineria di comunità itinerante”",
+      "link": "https://www.comune.torino.it/novita/comunicati/2-luglio-linaugurazione-della-prima-portineria-comunita-itinerante",
+      "data": "2026-07-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "sport": [
     {
       "id": "b251e9d03350",
@@ -697,120 +917,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "421045fa3e29",
-      "titolo": "Cultura, oltre 10 milioni a 334 realtà in tutte le province",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-oltre-10-milioni-334-realta-tutte-province",
-      "data": "2026-08-13T10:05:56+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "78f8d0c82141",
-      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
-      "data": "2026-08-12T17:31:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "44fafcd9c0b2",
-      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-      "data": "2026-08-11T11:41:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "74e99681bdee",
-      "titolo": "Nidi comunali, dalla Regione 1,5 milioni per ampliare l'orario di apertura",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-comunali-dalla-regione-15-milioni-per-ampliare-lorario-apertura",
-      "data": "2026-08-10T11:55:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a585b363e6e9",
-      "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
-      "data": "2026-07-24T19:23:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "86eda9e580af",
-      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
-      "data": "2026-07-17T17:51:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0683fb976cec",
-      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
-      "data": "2026-07-17T17:51:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "52a97a22a095",
-      "titolo": "Torino-Lione: disponibili per i Comuni 50,2 milioni per le opere compensative",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-disponibili-per-comuni-502-milioni-per-opere-compensative",
-      "data": "2026-07-14T16:36:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8ed916116ed6",
-      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
-      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ab7c4653c07c",
-      "titolo": "Via Stradella: da area degradata a giardino resiliente, un progetto costruito insieme ai cittadini",
-      "link": "https://www.comune.torino.it/novita/comunicati/via-stradella-area-degradata-giardino-resiliente-un-progetto-costruito-insieme",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "541a58d19c86",
-      "titolo": "Torino riconosce la comunità Arbëreshë: approvata la delibera per la tutela della minoranza linguistica storica italo-albanese",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-riconosce-comunita-arbereshe-approvata-delibera-per-tutela-della",
-      "data": "2026-07-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1d92120ef4ef",
-      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
-      "data": "2026-07-06T09:52:31+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "a2dd1fe80c3d",
-      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
-      "data": "2026-07-03T11:16:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a208834388f4",
-      "titolo": "Il 2 luglio l’inaugurazione della “Prima portineria di comunità itinerante”",
-      "link": "https://www.comune.torino.it/novita/comunicati/2-luglio-linaugurazione-della-prima-portineria-comunita-itinerante",
-      "data": "2026-07-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "pianificazione-territoriale": [
     {
       "id": "78f8d0c82141",
@@ -1149,96 +1255,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "sanita-regionale": [
-    {
-      "id": "45ac97db8823",
-      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
-      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
-      "data": "2026-08-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4a2ea335755c",
-      "titolo": "Disabilità, 1,6 milioni di euro per i servizi sociosanitari. Al via la revisione delle tariffe",
-      "link": "https://www.comune.torino.it/novita/comunicati/disabilita-16-milioni-euro-per-servizi-sociosanitari-al-via-revisione-delle",
-      "data": "2026-08-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "93db91f00de9",
-      "titolo": "Transizione energetica, si riqualificano 21 edifici pubblici",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/transizione-energetica-si-riqualificano-21-edifici-pubblici",
-      "data": "2026-07-29T16:08:41+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a2c3d29a06f1",
-      "titolo": "Liste d'attesa, Agenas indica il Piemonte tra le buone pratiche nazionali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/liste-dattesa-agenas-indica-piemonte-buone-pratiche-nazionali",
-      "data": "2026-07-21T14:25:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9ae291d68083",
-      "titolo": "La musica….fa bene! Presentazione di uno studio scientifico",
-      "link": "https://www.comune.torino.it/novita/notizie/musicafa-bene-presentazione-uno-studio-scientifico",
-      "data": "2026-07-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b39febf18d6d",
-      "titolo": "Il nuovo ospedale Regina Margherita nel programma Inail",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-regina-margherita-nel-programma-inail",
-      "data": "2026-07-18T17:20:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8e9e2bee14bc",
-      "titolo": "Lea 2024, il Piemonte al 4° posto nazionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lea-2024-piemonte-al-4deg-posto-nazionale",
-      "data": "2026-07-13T09:07:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "05f41e85fb48",
-      "titolo": "Parco della salute di Torino: più posti letto e laboratori, avvio dei cantieri a inizio 2027",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-torino-piu-posti-letto-laboratori-avvio-dei-cantieri-inizio-2027",
-      "data": "2026-07-09T18:43:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f53418f544dc",
-      "titolo": "Nessun blocco delle assunzioni nella sanità piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nessun-blocco-delle-assunzioni-nella-sanita-piemontese",
-      "data": "2026-07-08T18:43:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a77b7d3c3478",
-      "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
-      "data": "2026-07-07T18:41:23+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d09a7df0cbcd",
-      "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "giovani": [
     {
       "id": "45ac97db8823",
@@ -1269,14 +1285,6 @@
       "titolo": "Visita al cantiere di Torino Esposizioni per le volontarie e i volontari del Servizio Civile. Racconteranno la nuova Biblioteca Civica",
       "link": "https://www.comune.torino.it/novita/comunicati/visita-al-cantiere-torino-esposizioni-per-volontarie-volontari-servizio-civile",
       "data": "2026-07-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d2e462184f97",
-      "titolo": "Ecologie di Cura: il 2 luglio ai Giardini Saragat il primo incontro pubblico del progetto per il benessere dei giovani",
-      "link": "https://www.comune.torino.it/novita/comunicati/ecologie-cura-2-luglio-ai-giardini-saragat-primo-incontro-pubblico-progetto-per",
-      "data": "2026-06-30T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }

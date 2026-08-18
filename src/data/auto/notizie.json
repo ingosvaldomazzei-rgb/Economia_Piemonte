@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "c49fb27363e6",
+    "titolo": "Competenze di Comunicazione Consapevole",
+    "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
+    "descrizione": "Corso gratuito per Caregivers.",
+    "data": "2026-08-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "b251e9d03350",
     "titolo": "Trasporto abusivo, la Polizia Locale sequestra un’auto",
     "link": "https://www.comune.torino.it/novita/comunicati/trasporto-abusivo-polizia-locale-sequestra-unauto",
@@ -1984,16 +1994,6 @@
     "titolo": "Manutenzioni straordinarie, 300mila euro per interventi sulla Fontana delle Quattro Stagioni e su quattro monumenti cittadini",
     "link": "https://www.comune.torino.it/novita/notizie/manutenzioni-straordinarie-300mila-euro-per-interventi-sulla-fontana-delle",
     "descrizione": "La Giunta ha approvato i progetti di fattibilità tecnica ed economica per una serie di interventi di manutenzione straordinaria su alcuni monumenti cittadini",
-    "data": "2026-06-30T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d2e462184f97",
-    "titolo": "Ecologie di Cura: il 2 luglio ai Giardini Saragat il primo incontro pubblico del progetto per il benessere dei giovani",
-    "link": "https://www.comune.torino.it/novita/comunicati/ecologie-cura-2-luglio-ai-giardini-saragat-primo-incontro-pubblico-progetto-per",
-    "descrizione": "Giovedì 2 luglio, dalle ore 17, ai Giardini Saragat di via Leoncavallo, sarà presentato il progetto “Ecologie di Cura”.",
     "data": "2026-06-30T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
