@@ -255,6 +255,106 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "turismo": [
+    {
+      "id": "22cfdebedc48",
+      "titolo": "Scaricava liquami in un tombino vicino al terminal di corso Vittorio Emanuele: conducente denunciato e autobus sequestrato",
+      "link": "https://www.comune.torino.it/novita/comunicati/scaricava-liquami-un-tombino-vicino-al-terminal-corso-vittorio-emanuele",
+      "data": "2026-08-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cdb917a94ec8",
+      "titolo": "Turismo estivo, il Piemonte primo per crescita in Italia nel mese di luglio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-estivo-piemonte-primo-per-crescita-italia-nel-mese-luglio",
+      "data": "2026-08-13T17:10:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8968eb06ae13",
+      "titolo": "Sedici giorni alla guida senza riposo settimanale: multato autista di bus turistico",
+      "link": "https://www.comune.torino.it/novita/comunicati/sedici-giorni-alla-guida-senza-riposo-settimanale-multato-autista-bus-turistico",
+      "data": "2026-08-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "10f37a1e5fca",
+      "titolo": "Beni confiscati: accordo per rafforzare la lotta contro le mafie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/beni-confiscati-accordo-per-rafforzare-lotta-contro-mafie",
+      "data": "2026-07-14T18:52:10+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "43fb70a80a0c",
+      "titolo": "Chiusura della Biblioteca Pedagogica nel mese di agosto",
+      "link": "https://www.comune.torino.it/novita/notizie/chiusura-della-biblioteca-pedagogica-nel-mese-agosto",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "70b42f8c8bc9",
+      "titolo": "Nuovi record per il turismo piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-record-per-turismo-piemontese",
+      "data": "2026-07-08T09:59:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "trasporti-mobilita": [
+    {
+      "id": "22cfdebedc48",
+      "titolo": "Scaricava liquami in un tombino vicino al terminal di corso Vittorio Emanuele: conducente denunciato e autobus sequestrato",
+      "link": "https://www.comune.torino.it/novita/comunicati/scaricava-liquami-un-tombino-vicino-al-terminal-corso-vittorio-emanuele",
+      "data": "2026-08-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "39c1f33f3d60",
+      "titolo": "La situazione dei cantieri estivi sulle autostrade piemontesi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/situazione-dei-cantieri-estivi-sulle-autostrade-piemontesi",
+      "data": "2026-07-29T22:13:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a585b363e6e9",
+      "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
+      "data": "2026-07-24T19:23:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8ed916116ed6",
+      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
+      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1c5461b42956",
+      "titolo": "Linea 1 della Metropolitana, problemi e prospettive: il dibattito in aula",
+      "link": "https://www.comune.torino.it/novita/comunicati/linea-1-della-metropolitana-problemi-prospettive-dibattito-aula",
+      "data": "2026-07-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a4f586cd02d7",
+      "titolo": "Anche sui treni regionali l’abbonamento Trimestrale Illimitato",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/anche-sui-treni-regionali-labbonamento-trimestrale-illimitato",
+      "data": "2026-07-01T12:08:59+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "agricoltura": [
     {
       "id": "1ef5f0fa3ebb",
@@ -783,48 +883,6 @@
       "data": "2026-07-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "turismo": [
-    {
-      "id": "cdb917a94ec8",
-      "titolo": "Turismo estivo, il Piemonte primo per crescita in Italia nel mese di luglio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-estivo-piemonte-primo-per-crescita-italia-nel-mese-luglio",
-      "data": "2026-08-13T17:10:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8968eb06ae13",
-      "titolo": "Sedici giorni alla guida senza riposo settimanale: multato autista di bus turistico",
-      "link": "https://www.comune.torino.it/novita/comunicati/sedici-giorni-alla-guida-senza-riposo-settimanale-multato-autista-bus-turistico",
-      "data": "2026-08-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "10f37a1e5fca",
-      "titolo": "Beni confiscati: accordo per rafforzare la lotta contro le mafie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/beni-confiscati-accordo-per-rafforzare-lotta-contro-mafie",
-      "data": "2026-07-14T18:52:10+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "43fb70a80a0c",
-      "titolo": "Chiusura della Biblioteca Pedagogica nel mese di agosto",
-      "link": "https://www.comune.torino.it/novita/notizie/chiusura-della-biblioteca-pedagogica-nel-mese-agosto",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "70b42f8c8bc9",
-      "titolo": "Nuovi record per il turismo piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-record-per-turismo-piemontese",
-      "data": "2026-07-08T09:59:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "istruzione-formazione": [
@@ -1625,48 +1683,6 @@
       "data": "2026-07-08T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "trasporti-mobilita": [
-    {
-      "id": "39c1f33f3d60",
-      "titolo": "La situazione dei cantieri estivi sulle autostrade piemontesi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/situazione-dei-cantieri-estivi-sulle-autostrade-piemontesi",
-      "data": "2026-07-29T22:13:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a585b363e6e9",
-      "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
-      "data": "2026-07-24T19:23:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8ed916116ed6",
-      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
-      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1c5461b42956",
-      "titolo": "Linea 1 della Metropolitana, problemi e prospettive: il dibattito in aula",
-      "link": "https://www.comune.torino.it/novita/comunicati/linea-1-della-metropolitana-problemi-prospettive-dibattito-aula",
-      "data": "2026-07-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a4f586cd02d7",
-      "titolo": "Anche sui treni regionali l’abbonamento Trimestrale Illimitato",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/anche-sui-treni-regionali-labbonamento-trimestrale-illimitato",
-      "data": "2026-07-01T12:08:59+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "energia": [
