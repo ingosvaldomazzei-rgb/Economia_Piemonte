@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "3b8955e25748",
+    "titolo": "Rotonda Maroncelli e corso Telesio: dal 23 agosto modifiche alla viabilità per lavori di Iren sulla rete del teleriscaldamento",
+    "link": "https://www.comune.torino.it/novita/comunicati/rotonda-maroncelli-corso-telesio-23-agosto-modifiche-alla-viabilita-per-lavori",
+    "descrizione": "A partire da domenica 23 agosto Iren avvierà un intervento sulla rete del teleriscaldamento nell'area della rotonda Maroncelli.",
+    "data": "2026-08-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1ef5f0fa3ebb",
+    "titolo": "Agricoltura, 1 milione di euro per il ripristino ecologico degli ambienti naturali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-1-milione-euro-per-ripristino-ecologico-degli-ambienti-naturali",
+    "descrizione": "Sono 21 le aziende agricole e gli enti attivi in Piemonte che potranno vedere finanziati al 100% dalla Regione Piemonte i propri progetti di investimento con finalità ambientali e di tutela della biodiversità in ambiente agricolo. Sono i soggetti risultati primi…",
+    "data": "2026-08-20T10:25:34+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "752f26f49484",
     "titolo": "Approvata la convenzione tra Città e Fondazione Filadelfia per la realizzazione del Museo del Grande Torino e della leggenda granata allo stadio Filadelfia",
     "link": "https://www.comune.torino.it/novita/comunicati/approvata-convenzione-citta-fondazione-filadelfia-per-realizzazione-museo-grande",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "e76a6db8b16c",
-    "titolo": "Il “Semplifica Piemonte” è legge: riforma per una Regione più semplice, accessibile e capace di dare risposte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplifica-piemonte-legge-riforma-per-una-regione-piu-semplice-accessibile-capace-dare-risposte",
-    "descrizione": "A poco più di tre mesi dall’approvazione in Giunta, il “Semplifica Piemonte” è diventato legge con il voto favorevole espresso dal Consiglio regionale. “Non è una legge pensata per intervenire soltanto su singoli adempimenti o per produrre una semplificazione occasionale…",
-    "data": "2026-06-30T17:50:15+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "7e131b1cbf1a",
-    "titolo": "Col progetto “RiVestiTO” le vecchie divise della Polizia Locale sfilano trasformate alla Fashion Week di Torino",
-    "link": "https://www.comune.torino.it/novita/comunicati/col-progetto-rivestito-vecchie-divise-della-polizia-locale-sfilano-trasformate",
-    "descrizione": "Le vecchie divise dismesse della Polizia Locale di Torino non hanno solo evitato di venire buttate ma sono diventate materiale per una collezione di design.",
-    "data": "2026-06-30T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
