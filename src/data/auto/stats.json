@@ -11,16 +11,16 @@
       "conteggio": 20
     },
     {
+      "tema": "cultura-beni-culturali",
+      "conteggio": 19
+    },
+    {
       "tema": "lavoro-occupazione",
       "conteggio": 19
     },
     {
-      "tema": "cultura-beni-culturali",
-      "conteggio": 18
-    },
-    {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 15
+      "conteggio": 14
     },
     {
       "tema": "pianificazione-territoriale",
@@ -31,6 +31,10 @@
       "conteggio": 13
     },
     {
+      "tema": "sociale-welfare",
+      "conteggio": 12
+    },
+    {
       "tema": "sanita-regionale",
       "conteggio": 12
     },
@@ -39,12 +43,8 @@
       "conteggio": 11
     },
     {
-      "tema": "sociale-welfare",
-      "conteggio": 10
-    },
-    {
       "tema": "istruzione-formazione",
-      "conteggio": 8
+      "conteggio": 9
     }
   ],
   "totale_temi_con_notizie": 26

@@ -10,6 +10,46 @@
     "colore": "#dc2626"
   },
   {
+    "id": "62128944c577",
+    "titolo": "Laboratorio \"Racconto la mia storia\"",
+    "link": "https://www.comune.torino.it/novita/notizie/laboratorio-racconto-mia-storia",
+    "descrizione": "Laboratorio in gruppo di autobiografia per persone della terza età",
+    "data": "2026-08-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0c4549f68921",
+    "titolo": "Torino Cambia: la biblioteca civica Cascina Marchesa riapre lunedì 24 agosto",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-biblioteca-civica-cascina-marchesa-riapre-lunedi-24-agosto",
+    "descrizione": "Più accogliente, riconoscibile e pronta a completare il suo rinnovamento, la Biblioteca civica Cascina Marchesa riapre lunedì 24 agosto.",
+    "data": "2026-08-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "5e9b5b224768",
+    "titolo": "Programmazione autunnale 2026 del Centro Relazioni e Famiglie",
+    "link": "https://www.comune.torino.it/novita/notizie/programmazione-autunnale-2026-centro-relazioni-famiglie",
+    "descrizione": "Programmazione autunnale 2026",
+    "data": "2026-08-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4a3d0922df19",
+    "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
+    "descrizione": "La Regione ha approvato la nuova offerta formativa degli ITS Academy che prevede 61 percorsi biennali da avviare nel prossimo autunno. Grazie allo stanziamento di risorse provenienti in gran parte dal Fondo Sociale Europeo, tutti i corsi sono…",
+    "data": "2026-08-21T10:03:31+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "3b8955e25748",
     "titolo": "Rotonda Maroncelli e corso Telesio: dal 23 agosto modifiche alla viabilità per lavori di Iren sulla rete del teleriscaldamento",
     "link": "https://www.comune.torino.it/novita/comunicati/rotonda-maroncelli-corso-telesio-23-agosto-modifiche-alla-viabilita-per-lavori",
@@ -1958,45 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "a4f586cd02d7",
-    "titolo": "Anche sui treni regionali l’abbonamento Trimestrale Illimitato",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/anche-sui-treni-regionali-labbonamento-trimestrale-illimitato",
-    "descrizione": "Dal 1° settembre sarà disponibile anche sui servizi ferroviari regionali del Piemonte l'abbonamento Trimestrale Illimitato, approvato dal consiglio di amministrazione dell’Agenzia della Mobilità Piemontese nell’ambito dell’aggiornamento del quadro tariffario.…",
-    "data": "2026-07-01T12:08:59+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a864eefd0ebc",
-    "titolo": "Visita al cantiere di Torino Esposizioni per le volontarie e i volontari del Servizio Civile. Racconteranno la nuova Biblioteca Civica",
-    "link": "https://www.comune.torino.it/novita/comunicati/visita-al-cantiere-torino-esposizioni-per-volontarie-volontari-servizio-civile",
-    "descrizione": "Sopralluogo al cantiere della nuova Biblioteca Civica Centrale per un gruppo di volontari del servizio civile universale",
-    "data": "2026-07-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a208834388f4",
-    "titolo": "Il 2 luglio l’inaugurazione della “Prima portineria di comunità itinerante”",
-    "link": "https://www.comune.torino.it/novita/comunicati/2-luglio-linaugurazione-della-prima-portineria-comunita-itinerante",
-    "descrizione": "Il progetto nasce dall’esperienza della Rete delle Portinerie di comunità, che dal 2020 ha riattivato spazi urbani e sociali.",
-    "data": "2026-07-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "513c53fda4a3",
-    "titolo": "Siglato oggi a Palazzo Civico il patto di amicizia e collaborazione tra le città di Torino e Kharkiv",
-    "link": "https://www.comune.torino.it/novita/comunicati/siglato-oggi-palazzo-civico-patto-amicizia-collaborazione-citta-torino-kharkiv",
-    "descrizione": "Si è svolta nella Sala Rossa di Palazzo Civico la cerimonia ufficiale per la firma del Patto di Amicizia e Collaborazione tra le Città di Torino e Kharkiv.",
-    "data": "2026-07-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

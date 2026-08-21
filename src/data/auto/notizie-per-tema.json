@@ -69,6 +69,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "4a3d0922df19",
+      "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
+      "data": "2026-08-21T10:03:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "421045fa3e29",
       "titolo": "Cultura, oltre 10 milioni a 334 realtà in tutte le province",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-oltre-10-milioni-334-realta-tutte-province",
@@ -255,107 +263,113 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "turismo": [
+  "sociale-welfare": [
     {
-      "id": "22cfdebedc48",
-      "titolo": "Scaricava liquami in un tombino vicino al terminal di corso Vittorio Emanuele: conducente denunciato e autobus sequestrato",
-      "link": "https://www.comune.torino.it/novita/comunicati/scaricava-liquami-un-tombino-vicino-al-terminal-corso-vittorio-emanuele",
-      "data": "2026-08-20T12:00:00+00:00",
+      "id": "5e9b5b224768",
+      "titolo": "Programmazione autunnale 2026 del Centro Relazioni e Famiglie",
+      "link": "https://www.comune.torino.it/novita/notizie/programmazione-autunnale-2026-centro-relazioni-famiglie",
+      "data": "2026-08-21T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
     {
-      "id": "cdb917a94ec8",
-      "titolo": "Turismo estivo, il Piemonte primo per crescita in Italia nel mese di luglio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-estivo-piemonte-primo-per-crescita-italia-nel-mese-luglio",
-      "data": "2026-08-13T17:10:52+02:00",
+      "id": "4a3d0922df19",
+      "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
+      "data": "2026-08-21T10:03:31+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "8968eb06ae13",
-      "titolo": "Sedici giorni alla guida senza riposo settimanale: multato autista di bus turistico",
-      "link": "https://www.comune.torino.it/novita/comunicati/sedici-giorni-alla-guida-senza-riposo-settimanale-multato-autista-bus-turistico",
-      "data": "2026-08-07T12:00:00+00:00",
+      "id": "beb5c642f493",
+      "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8e788a6f6b95",
+      "titolo": "Scuole dell'infanzia paritaria, 7,7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-77-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "26da1bb0a6a7",
+      "titolo": "Scuole dell'infanzia paritarie, 7,7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritarie-77-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "45ac97db8823",
+      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
+      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
+      "data": "2026-08-04T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
     {
-      "id": "10f37a1e5fca",
-      "titolo": "Beni confiscati: accordo per rafforzare la lotta contro le mafie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/beni-confiscati-accordo-per-rafforzare-lotta-contro-mafie",
-      "data": "2026-07-14T18:52:10+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "43fb70a80a0c",
-      "titolo": "Chiusura della Biblioteca Pedagogica nel mese di agosto",
-      "link": "https://www.comune.torino.it/novita/notizie/chiusura-della-biblioteca-pedagogica-nel-mese-agosto",
-      "data": "2026-07-09T12:00:00+00:00",
+      "id": "a74464e91c26",
+      "titolo": "First Place, un nuovo spazio per l’autonomia abitativa e l’inclusione a Barriera di Milano",
+      "link": "https://www.comune.torino.it/novita/comunicati/first-place-un-nuovo-spazio-per-lautonomia-abitativa-linclusione-barriera-milano",
+      "data": "2026-07-22T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
     {
-      "id": "70b42f8c8bc9",
-      "titolo": "Nuovi record per il turismo piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-record-per-turismo-piemontese",
-      "data": "2026-07-08T09:59:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "trasporti-mobilita": [
-    {
-      "id": "22cfdebedc48",
-      "titolo": "Scaricava liquami in un tombino vicino al terminal di corso Vittorio Emanuele: conducente denunciato e autobus sequestrato",
-      "link": "https://www.comune.torino.it/novita/comunicati/scaricava-liquami-un-tombino-vicino-al-terminal-corso-vittorio-emanuele",
-      "data": "2026-08-20T12:00:00+00:00",
+      "id": "bc0cdc94b988",
+      "titolo": "Social Factory, a Borgo San Paolo un presidio per l’inclusione sociale",
+      "link": "https://www.comune.torino.it/novita/comunicati/social-factory-borgo-san-paolo-un-presidio-per-linclusione-sociale",
+      "data": "2026-07-21T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
     {
-      "id": "39c1f33f3d60",
-      "titolo": "La situazione dei cantieri estivi sulle autostrade piemontesi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/situazione-dei-cantieri-estivi-sulle-autostrade-piemontesi",
-      "data": "2026-07-29T22:13:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a585b363e6e9",
-      "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
-      "data": "2026-07-24T19:23:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8ed916116ed6",
-      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
-      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
-      "data": "2026-07-09T12:00:00+00:00",
+      "id": "d5ecb6570d55",
+      "titolo": "Sportello GTT nelle Circoscrizioni",
+      "link": "https://www.comune.torino.it/novita/avvisi/sportello-gtt-nelle-circoscrizioni",
+      "data": "2026-07-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
     {
-      "id": "1c5461b42956",
-      "titolo": "Linea 1 della Metropolitana, problemi e prospettive: il dibattito in aula",
-      "link": "https://www.comune.torino.it/novita/comunicati/linea-1-della-metropolitana-problemi-prospettive-dibattito-aula",
-      "data": "2026-07-06T12:00:00+00:00",
+      "id": "9310ad423661",
+      "titolo": "Ricordata l'assessora emerita Rosalba Molineri, introdusse l'affidamento familiare",
+      "link": "https://www.comune.torino.it/novita/comunicati/ricordata-lassessora-emerita-rosalba-molineri-introdusse-laffidamento-familiare",
+      "data": "2026-07-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
     {
-      "id": "a4f586cd02d7",
-      "titolo": "Anche sui treni regionali l’abbonamento Trimestrale Illimitato",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/anche-sui-treni-regionali-labbonamento-trimestrale-illimitato",
-      "data": "2026-07-01T12:08:59+02:00",
+      "id": "8e9e2bee14bc",
+      "titolo": "Lea 2024, il Piemonte al 4° posto nazionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lea-2024-piemonte-al-4deg-posto-nazionale",
+      "data": "2026-07-13T09:07:06+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    },
+    {
+      "id": "d09a7df0cbcd",
+      "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     }
   ],
   "agricoltura": [
+    {
+      "id": "4a3d0922df19",
+      "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
+      "data": "2026-08-21T10:03:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "1ef5f0fa3ebb",
       "titolo": "Agricoltura, 1 milione di euro per il ripristino ecologico degli ambienti naturali",
@@ -507,14 +521,172 @@
       "data": "2026-07-02T12:05:52+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
+    }
+  ],
+  "istruzione-formazione": [
     {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
+      "id": "4a3d0922df19",
+      "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
+      "data": "2026-08-21T10:03:31+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    },
+    {
+      "id": "beb5c642f493",
+      "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8e788a6f6b95",
+      "titolo": "Scuole dell'infanzia paritaria, 7,7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-77-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "26da1bb0a6a7",
+      "titolo": "Scuole dell'infanzia paritarie, 7,7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritarie-77-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a42e8fee4de4",
+      "titolo": "Impianti più sicuri ed efficienti negli edifici comunali: approvati lavori per 880mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/impianti-piu-sicuri-efficienti-negli-edifici-comunali-approvati-lavori-per",
+      "data": "2026-07-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8de825935415",
+      "titolo": "Mercoledì 22 luglio \"Diritto di Tribuna\" su sicurezza per alunni scuola Anna Frank",
+      "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-22-luglio-diritto-tribuna-sicurezza-per-alunni-scuola-anna-frank",
+      "data": "2026-07-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8a0e4e7d1166",
+      "titolo": "Più efficienza energetica per scuole e asili: approvati lavori per 1,35 milioni di euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/piu-efficienza-energetica-per-scuole-asili-approvati-lavori-per-135-milioni-euro",
+      "data": "2026-07-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ccc46530450b",
+      "titolo": "La Sala Rossa chiede l’intitolazione di una scuola a Fiorenzo Alfieri",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-chiede-lintitolazione-una-scuola-fiorenzo-alfieri",
+      "data": "2026-07-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f431f46fded7",
+      "titolo": "Il Piemonte primo in Italia negli ITS Academy",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-primo-italia-negli-its-academy",
+      "data": "2026-07-06T10:47:55+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "turismo": [
+    {
+      "id": "22cfdebedc48",
+      "titolo": "Scaricava liquami in un tombino vicino al terminal di corso Vittorio Emanuele: conducente denunciato e autobus sequestrato",
+      "link": "https://www.comune.torino.it/novita/comunicati/scaricava-liquami-un-tombino-vicino-al-terminal-corso-vittorio-emanuele",
+      "data": "2026-08-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cdb917a94ec8",
+      "titolo": "Turismo estivo, il Piemonte primo per crescita in Italia nel mese di luglio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-estivo-piemonte-primo-per-crescita-italia-nel-mese-luglio",
+      "data": "2026-08-13T17:10:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8968eb06ae13",
+      "titolo": "Sedici giorni alla guida senza riposo settimanale: multato autista di bus turistico",
+      "link": "https://www.comune.torino.it/novita/comunicati/sedici-giorni-alla-guida-senza-riposo-settimanale-multato-autista-bus-turistico",
+      "data": "2026-08-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "10f37a1e5fca",
+      "titolo": "Beni confiscati: accordo per rafforzare la lotta contro le mafie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/beni-confiscati-accordo-per-rafforzare-lotta-contro-mafie",
+      "data": "2026-07-14T18:52:10+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "43fb70a80a0c",
+      "titolo": "Chiusura della Biblioteca Pedagogica nel mese di agosto",
+      "link": "https://www.comune.torino.it/novita/notizie/chiusura-della-biblioteca-pedagogica-nel-mese-agosto",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "70b42f8c8bc9",
+      "titolo": "Nuovi record per il turismo piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-record-per-turismo-piemontese",
+      "data": "2026-07-08T09:59:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "trasporti-mobilita": [
+    {
+      "id": "22cfdebedc48",
+      "titolo": "Scaricava liquami in un tombino vicino al terminal di corso Vittorio Emanuele: conducente denunciato e autobus sequestrato",
+      "link": "https://www.comune.torino.it/novita/comunicati/scaricava-liquami-un-tombino-vicino-al-terminal-corso-vittorio-emanuele",
+      "data": "2026-08-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "39c1f33f3d60",
+      "titolo": "La situazione dei cantieri estivi sulle autostrade piemontesi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/situazione-dei-cantieri-estivi-sulle-autostrade-piemontesi",
+      "data": "2026-07-29T22:13:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a585b363e6e9",
+      "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
+      "data": "2026-07-24T19:23:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8ed916116ed6",
+      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
+      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1c5461b42956",
+      "titolo": "Linea 1 della Metropolitana, problemi e prospettive: il dibattito in aula",
+      "link": "https://www.comune.torino.it/novita/comunicati/linea-1-della-metropolitana-problemi-prospettive-dibattito-aula",
+      "data": "2026-07-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     }
   ],
   "ambiente-qualita-aria": [
@@ -785,14 +957,6 @@
       "data": "2026-07-03T11:16:38+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "a208834388f4",
-      "titolo": "Il 2 luglio l’inaugurazione della “Prima portineria di comunità itinerante”",
-      "link": "https://www.comune.torino.it/novita/comunicati/2-luglio-linaugurazione-della-prima-portineria-comunita-itinerante",
-      "data": "2026-07-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "sport": [
@@ -880,154 +1044,6 @@
       "id": "8de70b13eb47",
       "titolo": "Bus più veloci e frequenti: Torino si candida a un programma nazionale da 13,7 milioni per il trasporto pubblico",
       "link": "https://www.comune.torino.it/novita/comunicati/bus-piu-veloci-frequenti-torino-si-candida-un-programma-nazionale-137-milioni",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "istruzione-formazione": [
-    {
-      "id": "beb5c642f493",
-      "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
-      "data": "2026-08-13T12:24:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8e788a6f6b95",
-      "titolo": "Scuole dell'infanzia paritaria, 7,7 milioni per sostenere famiglie e territori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-77-milioni-per-sostenere-famiglie-territori",
-      "data": "2026-08-13T12:24:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "26da1bb0a6a7",
-      "titolo": "Scuole dell'infanzia paritarie, 7,7 milioni per sostenere famiglie e territori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritarie-77-milioni-per-sostenere-famiglie-territori",
-      "data": "2026-08-13T12:24:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a42e8fee4de4",
-      "titolo": "Impianti più sicuri ed efficienti negli edifici comunali: approvati lavori per 880mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/impianti-piu-sicuri-efficienti-negli-edifici-comunali-approvati-lavori-per",
-      "data": "2026-07-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8de825935415",
-      "titolo": "Mercoledì 22 luglio \"Diritto di Tribuna\" su sicurezza per alunni scuola Anna Frank",
-      "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-22-luglio-diritto-tribuna-sicurezza-per-alunni-scuola-anna-frank",
-      "data": "2026-07-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8a0e4e7d1166",
-      "titolo": "Più efficienza energetica per scuole e asili: approvati lavori per 1,35 milioni di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/piu-efficienza-energetica-per-scuole-asili-approvati-lavori-per-135-milioni-euro",
-      "data": "2026-07-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ccc46530450b",
-      "titolo": "La Sala Rossa chiede l’intitolazione di una scuola a Fiorenzo Alfieri",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-chiede-lintitolazione-una-scuola-fiorenzo-alfieri",
-      "data": "2026-07-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f431f46fded7",
-      "titolo": "Il Piemonte primo in Italia negli ITS Academy",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-primo-italia-negli-its-academy",
-      "data": "2026-07-06T10:47:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "sociale-welfare": [
-    {
-      "id": "beb5c642f493",
-      "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
-      "data": "2026-08-13T12:24:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8e788a6f6b95",
-      "titolo": "Scuole dell'infanzia paritaria, 7,7 milioni per sostenere famiglie e territori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-77-milioni-per-sostenere-famiglie-territori",
-      "data": "2026-08-13T12:24:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "26da1bb0a6a7",
-      "titolo": "Scuole dell'infanzia paritarie, 7,7 milioni per sostenere famiglie e territori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritarie-77-milioni-per-sostenere-famiglie-territori",
-      "data": "2026-08-13T12:24:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "45ac97db8823",
-      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
-      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
-      "data": "2026-08-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a74464e91c26",
-      "titolo": "First Place, un nuovo spazio per l’autonomia abitativa e l’inclusione a Barriera di Milano",
-      "link": "https://www.comune.torino.it/novita/comunicati/first-place-un-nuovo-spazio-per-lautonomia-abitativa-linclusione-barriera-milano",
-      "data": "2026-07-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bc0cdc94b988",
-      "titolo": "Social Factory, a Borgo San Paolo un presidio per l’inclusione sociale",
-      "link": "https://www.comune.torino.it/novita/comunicati/social-factory-borgo-san-paolo-un-presidio-per-linclusione-sociale",
-      "data": "2026-07-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d5ecb6570d55",
-      "titolo": "Sportello GTT nelle Circoscrizioni",
-      "link": "https://www.comune.torino.it/novita/avvisi/sportello-gtt-nelle-circoscrizioni",
-      "data": "2026-07-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9310ad423661",
-      "titolo": "Ricordata l'assessora emerita Rosalba Molineri, introdusse l'affidamento familiare",
-      "link": "https://www.comune.torino.it/novita/comunicati/ricordata-lassessora-emerita-rosalba-molineri-introdusse-laffidamento-familiare",
-      "data": "2026-07-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8e9e2bee14bc",
-      "titolo": "Lea 2024, il Piemonte al 4° posto nazionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lea-2024-piemonte-al-4deg-posto-nazionale",
-      "data": "2026-07-13T09:07:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d09a7df0cbcd",
-      "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
       "data": "2026-07-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -1387,14 +1403,6 @@
       "data": "2026-07-21T13:30:08+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "a864eefd0ebc",
-      "titolo": "Visita al cantiere di Torino Esposizioni per le volontarie e i volontari del Servizio Civile. Racconteranno la nuova Biblioteca Civica",
-      "link": "https://www.comune.torino.it/novita/comunicati/visita-al-cantiere-torino-esposizioni-per-volontarie-volontari-servizio-civile",
-      "data": "2026-07-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "lavoro-occupazione": [
