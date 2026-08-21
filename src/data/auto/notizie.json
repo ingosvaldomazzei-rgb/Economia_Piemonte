@@ -40,6 +40,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "42949cf57d74",
+    "titolo": "Da martedì 25 agosto modifiche alla circolazione nel centro di Torino per le riprese di una nuova serie TV internazionale",
+    "link": "https://www.comune.torino.it/novita/comunicati/martedi-25-agosto-modifiche-alla-circolazione-nel-centro-torino-per-riprese-una",
+    "descrizione": "Lunedì 24 agosto prenderà il via a Torino la lavorazione di una nuova serie TV internazionale. Per consentire le riprese, tra martedì 25 e giovedì 27 agosto alc",
+    "data": "2026-08-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "4a3d0922df19",
     "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
@@ -1985,16 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/per-regione-soccorso-alpino-sicurezza-montagna-inizia-prima-partire",
     "descrizione": "Con l’inizio della stagione estiva e il progressivo aumento delle presenze lungo i sentieri, nei rifugi e nelle vallate, Regione e Soccorso alpino e speleologico rinnovano l’invito a vivere con…",
     "data": "2026-07-02T10:04:09+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "1d01b32fb623",
-    "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-    "descrizione": "Ha un valore complessivo di 27,8 milioni di euro la proposta di programmazione delle risorse 2026 destinate alla mitigazione del rischio idrogeologico che la Regione Piemonte ha trasmesso al Ministero dell’Ambiente e della…",
-    "data": "2026-07-01T15:15:08+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"

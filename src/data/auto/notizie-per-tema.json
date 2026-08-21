@@ -69,6 +69,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "42949cf57d74",
+      "titolo": "Da martedì 25 agosto modifiche alla circolazione nel centro di Torino per le riprese di una nuova serie TV internazionale",
+      "link": "https://www.comune.torino.it/novita/comunicati/martedi-25-agosto-modifiche-alla-circolazione-nel-centro-torino-per-riprese-una",
+      "data": "2026-08-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "4a3d0922df19",
       "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
@@ -737,14 +745,6 @@
       "data": "2026-07-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sanita-regionale": [
@@ -1153,14 +1153,6 @@
       "data": "2026-07-03T11:16:38+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "protezione-civile": [
@@ -1257,14 +1249,6 @@
       "titolo": "Missione del Corpo Aib del Piemonte in Francia",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-corpo-aib-piemonte-francia",
       "data": "2026-07-03T13:05:35+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d01b32fb623",
-      "titolo": "Dissesto idrogeologico: un piano al Governo da 27,8 milioni di euro per la sicurezza del territorio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dissesto-idrogeologico-un-piano-al-governo-278-milioni-euro-per-sicurezza-territorio",
-      "data": "2026-07-01T15:15:08+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
