@@ -10,10 +10,30 @@
     "colore": "#dc2626"
   },
   {
+    "id": "bc3dab3839a8",
+    "titolo": "Voucher Scuola, pubblicate le graduatorie",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-pubblicate-graduatorie",
+    "descrizione": "Sono state pubblicate sul sito della Regione Piemonte le graduatorie del Voucher Scuola per l'anno scolastico 2026/2027, con il dettaglio delle domande ammesse e finanziate nelle otto province piemontesi. La graduatoria conferma il risultato già annunciato negli scorsi giorni: per la prima volta…",
+    "data": "2026-08-24T13:41:47+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "b43110470009",
     "titolo": "Volontariato per l'inaugurazione di via Roma",
     "link": "https://www.comune.torino.it/novita/avvisi/volontariato-per-linaugurazione-via-roma",
     "descrizione": "La Città di Torino propone un'attività di volontariato per collaborare all'organizzazione dell'evento in occasione della riapertura di via Roma il 12 settembre.",
+    "data": "2026-08-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0b86527c494e",
+    "titolo": "Avviso Utenza per aggiornamento modulistica dehors",
+    "link": "https://www.comune.torino.it/novita/avvisi/avviso-utenza-per-aggiornamento-modulistica-dehors",
+    "descrizione": "Aggiornamento modulistica dehors continuativi su suolo pubblico",
     "data": "2026-08-24T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -53,7 +73,7 @@
     "id": "42949cf57d74",
     "titolo": "Da martedì 25 agosto modifiche alla circolazione nel centro di Torino per le riprese di una nuova serie TV internazionale",
     "link": "https://www.comune.torino.it/novita/comunicati/martedi-25-agosto-modifiche-alla-circolazione-nel-centro-torino-per-riprese-una",
-    "descrizione": "Lunedì 24 agosto prenderà il via a Torino la lavorazione di una nuova serie TV internazionale. Per consentire le riprese, tra martedì 25 e giovedì 27 agosto alc",
+    "descrizione": "Lunedì 24 agosto prenderà il via a Torino la lavorazione di una nuova serie TV internazionale.",
     "data": "2026-08-21T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "0c9d72d8030b",
-    "titolo": "Il bando 2026 per il credito in agricoltura",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-2026-per-credito-agricoltura",
-    "descrizione": "Ammonta a 1 milione e 850mila euro la somma stanziata dalla Regione Piemonte per coprire parte degli interessi sostenuti dalle imprese agricole singole, associate e cooperative che hanno contratto per il 2026 prestiti bancari…",
-    "data": "2026-07-02T12:05:52+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "8757aac3bc12",
-    "titolo": "Taglio del nastro per il nuovo Centro Servizi “Spazio Astengo” nel cuore di Falchera",
-    "link": "https://www.comune.torino.it/novita/comunicati/taglio-nastro-per-nuovo-centro-servizi-spazio-astengo-nel-cuore-falchera",
-    "descrizione": "È stato inaugurato questo pomeriggio a Falchera il nuovo Centro Servizi “Spazio Astengo”, nei locali riqualificati di piazza Astengo 10.",
-    "data": "2026-07-02T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

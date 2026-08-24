@@ -8,19 +8,19 @@
   "temi_attivi": [
     {
       "tema": "cultura-beni-culturali",
-      "conteggio": 20
-    },
-    {
-      "tema": "agricoltura",
-      "conteggio": 20
-    },
-    {
-      "tema": "lavoro-occupazione",
       "conteggio": 19
     },
     {
+      "tema": "agricoltura",
+      "conteggio": 19
+    },
+    {
+      "tema": "lavoro-occupazione",
+      "conteggio": 18
+    },
+    {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 14
+      "conteggio": 15
     },
     {
       "tema": "sociale-welfare",
@@ -44,7 +44,7 @@
     },
     {
       "tema": "istruzione-formazione",
-      "conteggio": 9
+      "conteggio": 10
     }
   ],
   "totale_temi_con_notizie": 26
