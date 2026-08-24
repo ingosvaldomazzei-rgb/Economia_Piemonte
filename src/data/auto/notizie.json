@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "b43110470009",
+    "titolo": "Volontariato per l'inaugurazione di via Roma",
+    "link": "https://www.comune.torino.it/novita/avvisi/volontariato-per-linaugurazione-via-roma",
+    "descrizione": "La Città di Torino propone un'attività di volontariato per collaborare all'organizzazione dell'evento in occasione della riapertura di via Roma il 12 settembre.",
+    "data": "2026-08-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "62128944c577",
     "titolo": "Laboratorio \"Racconto la mia storia\"",
     "link": "https://www.comune.torino.it/novita/notizie/laboratorio-racconto-mia-storia",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "75b1751579fe",
-    "titolo": "Per Regione e Soccorso alpino la sicurezza in montagna inizia prima di partire",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/per-regione-soccorso-alpino-sicurezza-montagna-inizia-prima-partire",
-    "descrizione": "Con l’inizio della stagione estiva e il progressivo aumento delle presenze lungo i sentieri, nei rifugi e nelle vallate, Regione e Soccorso alpino e speleologico rinnovano l’invito a vivere con…",
-    "data": "2026-07-02T10:04:09+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

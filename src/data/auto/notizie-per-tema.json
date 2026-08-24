@@ -273,6 +273,14 @@
   ],
   "sociale-welfare": [
     {
+      "id": "b43110470009",
+      "titolo": "Volontariato per l'inaugurazione di via Roma",
+      "link": "https://www.comune.torino.it/novita/avvisi/volontariato-per-linaugurazione-via-roma",
+      "data": "2026-08-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "5e9b5b224768",
       "titolo": "Programmazione autunnale 2026 del Centro Relazioni e Famiglie",
       "link": "https://www.comune.torino.it/novita/notizie/programmazione-autunnale-2026-centro-relazioni-famiglie",
@@ -1773,14 +1781,6 @@
       "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
       "data": "2026-07-03T11:16:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "75b1751579fe",
-      "titolo": "Per Regione e Soccorso alpino la sicurezza in montagna inizia prima di partire",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/per-regione-soccorso-alpino-sicurezza-montagna-inizia-prima-partire",
-      "data": "2026-07-02T10:04:09+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }

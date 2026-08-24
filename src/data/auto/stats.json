@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 117,
-    "regione": 82,
+    "comune_torino": 118,
+    "regione": 81,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -23,12 +23,12 @@
       "conteggio": 14
     },
     {
-      "tema": "pianificazione-territoriale",
+      "tema": "sociale-welfare",
       "conteggio": 13
     },
     {
-      "tema": "sociale-welfare",
-      "conteggio": 12
+      "tema": "pianificazione-territoriale",
+      "conteggio": 13
     },
     {
       "tema": "sanita-regionale",
