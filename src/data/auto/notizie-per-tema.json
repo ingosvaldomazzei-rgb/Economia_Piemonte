@@ -457,14 +457,6 @@
       "data": "2026-07-06T09:52:31+00:00",
       "fonte": "Consiglio Regionale",
       "fonte_id": "consiglio"
-    },
-    {
-      "id": "a2dd1fe80c3d",
-      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
-      "data": "2026-07-03T11:16:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sociale-welfare": [
@@ -1153,14 +1145,6 @@
       "data": "2026-07-06T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a2dd1fe80c3d",
-      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
-      "data": "2026-07-03T11:16:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "protezione-civile": [
@@ -1757,14 +1741,6 @@
       "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
       "data": "2026-07-13T20:37:57+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a2dd1fe80c3d",
-      "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
-      "data": "2026-07-03T11:16:38+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }

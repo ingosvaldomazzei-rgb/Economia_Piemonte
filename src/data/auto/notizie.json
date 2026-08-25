@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "051e77c0e71a",
+    "titolo": "Codice rosso di ferragosto. La Polizia Locale arresta un quarantenne che maltrattava l’anziana madre",
+    "link": "https://www.comune.torino.it/novita/comunicati/codice-rosso-ferragosto-polizia-locale-arresta-un-quarantenne-che-maltrattava",
+    "descrizione": "Intorno a Ferragosto, l’ennesimo grave episodio di violenza ha convinta una donna a presentarsi al Comando di Polizia Locale di Torino .",
+    "data": "2026-08-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9f8a1edb4b10",
+    "titolo": "PIÙ, servizi e informazioni vicino a casa: aprono due nuovi punti informativi nelle circoscrizioni",
+    "link": "https://www.comune.torino.it/novita/comunicati/piu-servizi-informazioni-vicino-casa-aprono-due-nuovi-punti-informativi-nelle",
+    "descrizione": "Due nuovi punti informativi aprono a settembre nelle Circoscrizioni 7 e 2, portando più vicino a casa il modello del PIÙ, il Punto Informativo Unificato.",
+    "data": "2026-08-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "bc3dab3839a8",
     "titolo": "Voucher Scuola, pubblicate le graduatorie",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-pubblicate-graduatorie",
@@ -1978,25 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "a2dd1fe80c3d",
-    "titolo": "Rafforzata l’Infrastruttura Geografica Regionale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/rafforzata-linfrastruttura-geografica-regionale",
-    "descrizione": "Recuperare i nomi storici di borgate, sentieri e località tramandati dalla memoria delle comunità locali e mettere a disposizione di enti pubblici, professionisti e cittadini strumenti sempre più avanzati per conoscere, gestire e pianificare il territorio sono…",
-    "data": "2026-07-03T11:16:38+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "f2e5ca183e52",
-    "titolo": "Tunnel di Tenda: aperture estese per tutta l’estate",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tunnel-tenda-aperture-estese-per-tutta-lestate",
-    "descrizione": "Recepita dalla Commissione Intergovernativa per le Alpi del Sud, riunitasi per definire il calendario di esercizio del nuovo tunnel di Tenda nei prossimi mesi, la richiesta avanzata con forza dalle Regioni Piemonte e dalla Regione Liguria e sostenuta dal Ministero delle…",
-    "data": "2026-07-02T14:11:29+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
