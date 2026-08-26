@@ -263,6 +263,170 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "commercio-artigianato": [
+    {
+      "id": "a1652f1fc62d",
+      "titolo": "Concessione dell’impianto sportivo comunale “TAZZOLI HOCKEY” di corso Tazzoli 78",
+      "link": "https://www.comune.torino.it/novita/avvisi/concessione-dellimpianto-sportivo-comunale-tazzoli-hockey-corso-tazzoli-78",
+      "data": "2026-08-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "210beb897f10",
+      "titolo": "Aperture esercizi mese di agosto",
+      "link": "https://www.comune.torino.it/novita/notizie/aperture-esercizi-mese-agosto",
+      "data": "2026-07-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f2a65c958738",
+      "titolo": "In Piemonte 5 nuovi Distretti del Commercio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-5-nuovi-distretti-commercio",
+      "data": "2026-07-28T16:47:38+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ddc97b927c84",
+      "titolo": "Artigianato, al via le Aree di Sviluppo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/artigianato-al-via-aree-sviluppo",
+      "data": "2026-07-21T09:53:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "99839ca954f4",
+      "titolo": "La Regione pronta a fare la sua parte nel rilancio del polo fieristico del Lingotto di Torino",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-fare-sua-parte-nel-rilancio-polo-fieristico-lingotto-torino",
+      "data": "2026-07-17T11:04:32+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2ad96fab9afe",
+      "titolo": "Concessione del bar ristoro presso il Palazzo del Nuoto di via Filadelfia 89",
+      "link": "https://www.comune.torino.it/novita/avvisi/concessione-bar-ristoro-presso-palazzo-nuoto-via-filadelfia-89",
+      "data": "2026-07-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e4a6a8e351dc",
+      "titolo": "Luci e ombre per il vino piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/luci-ombre-per-vino-piemontese",
+      "data": "2026-07-08T15:15:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bbef429e6eff",
+      "titolo": "\"Lo sai che la tua mensa...\"",
+      "link": "https://www.comune.torino.it/novita/notizie/sai-che-tua-mensa",
+      "data": "2026-07-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "sport": [
+    {
+      "id": "a1652f1fc62d",
+      "titolo": "Concessione dell’impianto sportivo comunale “TAZZOLI HOCKEY” di corso Tazzoli 78",
+      "link": "https://www.comune.torino.it/novita/avvisi/concessione-dellimpianto-sportivo-comunale-tazzoli-hockey-corso-tazzoli-78",
+      "data": "2026-08-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b251e9d03350",
+      "titolo": "Trasporto abusivo, la Polizia Locale sequestra un’auto",
+      "link": "https://www.comune.torino.it/novita/comunicati/trasporto-abusivo-polizia-locale-sequestra-unauto",
+      "data": "2026-08-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0de66eed7a8d",
+      "titolo": "Impianti sportivi, dalla Giunta 650mila euro per la manutenzione straordinaria di tre strutture. Via libera al nuovo playground di corso Cadore finanziato dal bando \"Sport Illumina\"",
+      "link": "https://www.comune.torino.it/novita/comunicati/impianti-sportivi-dalla-giunta-650mila-euro-per-manutenzione-straordinaria-tre",
+      "data": "2026-07-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8b62b0a97c2f",
+      "titolo": "Una via dedicata a don Aldo Rabino",
+      "link": "https://www.comune.torino.it/novita/comunicati/una-via-dedicata-don-aldo-rabino",
+      "data": "2026-07-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8d198ad09c57",
+      "titolo": "Da domani una via per don Aldo Rabino",
+      "link": "https://www.comune.torino.it/novita/comunicati/domani-una-via-per-don-aldo-rabino",
+      "data": "2026-07-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d5ecb6570d55",
+      "titolo": "Sportello GTT nelle Circoscrizioni",
+      "link": "https://www.comune.torino.it/novita/avvisi/sportello-gtt-nelle-circoscrizioni",
+      "data": "2026-07-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "10f75de44e3f",
+      "titolo": "La Città aderisca alla Carta etica dello sport",
+      "link": "https://www.comune.torino.it/novita/comunicati/citta-aderisca-alla-carta-etica-dello-sport",
+      "data": "2026-07-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8ed916116ed6",
+      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
+      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8557dfbb9395",
+      "titolo": "Riflessioni politico-culturali e appuntamenti sportivi e gastronomici",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/riflessioni-politico-culturali-appuntamenti-sportivi-gastronomici",
+      "data": "2026-07-08T10:52:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c46ff3a0aacd",
+      "titolo": "Scalo Nizza, con le opere di urbanizzazione il via a impianti sportivi, piazza, percorsi pedonali e ciclabili e aree verdi",
+      "link": "https://www.comune.torino.it/novita/comunicati/scalo-nizza-opere-urbanizzazione-via-impianti-sportivi-piazza-percorsi-pedonali",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1ff8a0050b09",
+      "titolo": "JAB, il 9 luglio la presentazione del progetto tra arte, sport e musica per la ricostruzione diun’identità plurale tra Aurora e Barriera",
+      "link": "https://www.comune.torino.it/novita/comunicati/jab-9-luglio-presentazione-progetto-arte-sport-musica-per-ricostruzione",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8de70b13eb47",
+      "titolo": "Bus più veloci e frequenti: Torino si candida a un programma nazionale da 13,7 milioni per il trasporto pubblico",
+      "link": "https://www.comune.torino.it/novita/comunicati/bus-piu-veloci-frequenti-torino-si-candida-un-programma-nazionale-137-milioni",
+      "data": "2026-07-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "istruzione-formazione": [
     {
       "id": "bc3dab3839a8",
@@ -959,96 +1123,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "sport": [
-    {
-      "id": "b251e9d03350",
-      "titolo": "Trasporto abusivo, la Polizia Locale sequestra un’auto",
-      "link": "https://www.comune.torino.it/novita/comunicati/trasporto-abusivo-polizia-locale-sequestra-unauto",
-      "data": "2026-08-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0de66eed7a8d",
-      "titolo": "Impianti sportivi, dalla Giunta 650mila euro per la manutenzione straordinaria di tre strutture. Via libera al nuovo playground di corso Cadore finanziato dal bando \"Sport Illumina\"",
-      "link": "https://www.comune.torino.it/novita/comunicati/impianti-sportivi-dalla-giunta-650mila-euro-per-manutenzione-straordinaria-tre",
-      "data": "2026-07-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8b62b0a97c2f",
-      "titolo": "Una via dedicata a don Aldo Rabino",
-      "link": "https://www.comune.torino.it/novita/comunicati/una-via-dedicata-don-aldo-rabino",
-      "data": "2026-07-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8d198ad09c57",
-      "titolo": "Da domani una via per don Aldo Rabino",
-      "link": "https://www.comune.torino.it/novita/comunicati/domani-una-via-per-don-aldo-rabino",
-      "data": "2026-07-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d5ecb6570d55",
-      "titolo": "Sportello GTT nelle Circoscrizioni",
-      "link": "https://www.comune.torino.it/novita/avvisi/sportello-gtt-nelle-circoscrizioni",
-      "data": "2026-07-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "10f75de44e3f",
-      "titolo": "La Città aderisca alla Carta etica dello sport",
-      "link": "https://www.comune.torino.it/novita/comunicati/citta-aderisca-alla-carta-etica-dello-sport",
-      "data": "2026-07-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8ed916116ed6",
-      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
-      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8557dfbb9395",
-      "titolo": "Riflessioni politico-culturali e appuntamenti sportivi e gastronomici",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/riflessioni-politico-culturali-appuntamenti-sportivi-gastronomici",
-      "data": "2026-07-08T10:52:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c46ff3a0aacd",
-      "titolo": "Scalo Nizza, con le opere di urbanizzazione il via a impianti sportivi, piazza, percorsi pedonali e ciclabili e aree verdi",
-      "link": "https://www.comune.torino.it/novita/comunicati/scalo-nizza-opere-urbanizzazione-via-impianti-sportivi-piazza-percorsi-pedonali",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1ff8a0050b09",
-      "titolo": "JAB, il 9 luglio la presentazione del progetto tra arte, sport e musica per la ricostruzione diun’identità plurale tra Aurora e Barriera",
-      "link": "https://www.comune.torino.it/novita/comunicati/jab-9-luglio-presentazione-progetto-arte-sport-musica-per-ricostruzione",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8de70b13eb47",
-      "titolo": "Bus più veloci e frequenti: Torino si candida a un programma nazionale da 13,7 milioni per il trasporto pubblico",
-      "link": "https://www.comune.torino.it/novita/comunicati/bus-piu-veloci-frequenti-torino-si-candida-un-programma-nazionale-137-milioni",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "pianificazione-territoriale": [
     {
       "id": "78f8d0c82141",
@@ -1233,14 +1307,6 @@
       "titolo": "Dall’8 luglio in Piemonte stato di massima pericolosità per incendi boschivi",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dall8-luglio-piemonte-stato-massima-pericolosita-per-incendi-boschivi",
       "data": "2026-07-06T18:45:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5d3a4f21a41e",
-      "titolo": "Missione del Corpo Aib del Piemonte in Francia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-corpo-aib-piemonte-francia",
-      "data": "2026-07-03T13:05:35+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -1585,64 +1651,6 @@
       "data": "2026-07-06T09:46:02+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "commercio-artigianato": [
-    {
-      "id": "210beb897f10",
-      "titolo": "Aperture esercizi mese di agosto",
-      "link": "https://www.comune.torino.it/novita/notizie/aperture-esercizi-mese-agosto",
-      "data": "2026-07-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f2a65c958738",
-      "titolo": "In Piemonte 5 nuovi Distretti del Commercio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-5-nuovi-distretti-commercio",
-      "data": "2026-07-28T16:47:38+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ddc97b927c84",
-      "titolo": "Artigianato, al via le Aree di Sviluppo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/artigianato-al-via-aree-sviluppo",
-      "data": "2026-07-21T09:53:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "99839ca954f4",
-      "titolo": "La Regione pronta a fare la sua parte nel rilancio del polo fieristico del Lingotto di Torino",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-fare-sua-parte-nel-rilancio-polo-fieristico-lingotto-torino",
-      "data": "2026-07-17T11:04:32+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2ad96fab9afe",
-      "titolo": "Concessione del bar ristoro presso il Palazzo del Nuoto di via Filadelfia 89",
-      "link": "https://www.comune.torino.it/novita/avvisi/concessione-bar-ristoro-presso-palazzo-nuoto-via-filadelfia-89",
-      "data": "2026-07-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e4a6a8e351dc",
-      "titolo": "Luci e ombre per il vino piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/luci-ombre-per-vino-piemontese",
-      "data": "2026-07-08T15:15:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bbef429e6eff",
-      "titolo": "\"Lo sai che la tua mensa...\"",
-      "link": "https://www.comune.torino.it/novita/notizie/sai-che-tua-mensa",
-      "data": "2026-07-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "energia": [

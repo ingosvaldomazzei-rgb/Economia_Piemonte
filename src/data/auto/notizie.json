@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "6d017e25bc70",
+    "titolo": "Torino Cambia – Spazi che uniscono: al via interventi nei quartieri e per la sicurezza degli incroci",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-spazi-che-uniscono-al-via-interventi-nei-quartieri-per-sicurezza",
+    "descrizione": "Dai principali assi della viabilità cittadina ai quartieri, proseguono le attività del piano “Torino Cambia – Spazi che uniscono”, sostenuto da Fondazione CRT.",
+    "data": "2026-08-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a1652f1fc62d",
+    "titolo": "Concessione dell’impianto sportivo comunale “TAZZOLI HOCKEY” di corso Tazzoli 78",
+    "link": "https://www.comune.torino.it/novita/avvisi/concessione-dellimpianto-sportivo-comunale-tazzoli-hockey-corso-tazzoli-78",
+    "descrizione": "Avviso di indagine esplorativa di mercato per procedura negoziata di gara, ai sensi del D.Lgs n. 36/2023 e s.m.i. Scadenza: 15 settembre 2026 alle ore 12:00:00",
+    "data": "2026-08-26T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "051e77c0e71a",
     "titolo": "Codice rosso di ferragosto. La Polizia Locale arresta un quarantenne che maltrattava l’anziana madre",
     "link": "https://www.comune.torino.it/novita/comunicati/codice-rosso-ferragosto-polizia-locale-arresta-un-quarantenne-che-maltrattava",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "5d3a4f21a41e",
-    "titolo": "Missione del Corpo Aib del Piemonte in Francia",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/missione-corpo-aib-piemonte-francia",
-    "descrizione": "Il Corpo volontari Antincendi boschivi del Piemonte è impegnato, per il terzo anno consecutivo, nel “Preposizionamento del Meccanismo unionale” di Protezione Civile in Francia, una delle più importanti iniziative europee di cooperazione nella lotta agli incendi boschivi. Il contingente…",
-    "data": "2026-07-03T13:05:35+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "6718a9071f86",
-    "titolo": "Civiche benemerenze 2026: cerimonia di conferimento lunedì 6 luglio",
-    "link": "https://www.comune.torino.it/novita/comunicati/civiche-benemerenze-2026-cerimonia-conferimento-lunedi-6-luglio",
-    "descrizione": "I riconoscimenti erano stati approvati dal Consiglio Comunale l'8 giugno scorso",
-    "data": "2026-07-03T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
