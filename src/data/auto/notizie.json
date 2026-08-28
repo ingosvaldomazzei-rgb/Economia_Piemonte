@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "5a1487d8e2a9",
+    "titolo": "Corso Vercelli e via Filadelfia: da lunedì 31 agosto lavori di rifacimento del manto stradale",
+    "link": "https://www.comune.torino.it/novita/comunicati/corso-vercelli-via-filadelfia-lunedi-31-agosto-lavori-rifacimento-manto-stradale",
+    "descrizione": "Gli interventi rientrano nel piano straordinario di manutenzione del suolo pubblico “Torino Cambia – Spazi che uniscono” sostenuto da Fondazione CRT",
+    "data": "2026-08-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "6d017e25bc70",
     "titolo": "Torino Cambia – Spazi che uniscono: al via interventi nei quartieri e per la sicurezza degli incroci",
     "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-spazi-che-uniscono-al-via-interventi-nei-quartieri-per-sicurezza",
@@ -1983,16 +1993,6 @@
     "id": "ca7e11d1ef77",
     "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
-    "descrizione": "La Regione Piemonte centra il 100% degli obiettivi del Pnrr e rispetta tutte le scadenze fissate dall’Europa. Un risultato che conferma la capacità dell'ente di trasformare le risorse del Piano nazionale di ripresa e…",
-    "data": "2026-07-03T15:55:47+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "d50a16d8eaee",
-    "titolo": "Il Piemonte raggiunge il 100% degli obiettivi del Pnrr",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi-pnrr",
     "descrizione": "La Regione Piemonte centra il 100% degli obiettivi del Pnrr e rispetta tutte le scadenze fissate dall’Europa. Un risultato che conferma la capacità dell'ente di trasformare le risorse del Piano nazionale di ripresa e…",
     "data": "2026-07-03T15:55:47+02:00",
     "fonte": "Regione Piemonte",
