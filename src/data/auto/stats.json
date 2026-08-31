@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 125,
-    "regione": 75
+    "comune_torino": 122,
+    "regione": 78
   },
   "temi_attivi": [
     {
@@ -10,11 +10,11 @@
       "conteggio": 20
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 18
+      "tema": "agricoltura",
+      "conteggio": 19
     },
     {
-      "tema": "agricoltura",
+      "tema": "lavoro-occupazione",
       "conteggio": 17
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "tema": "pianificazione-territoriale",
-      "conteggio": 12
+      "conteggio": 11
     },
     {
       "tema": "protezione-civile",

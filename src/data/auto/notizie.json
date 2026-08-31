@@ -10,9 +10,39 @@
     "colore": "#dc2626"
   },
   {
+    "id": "340cec5e80ac",
+    "titolo": "Piemonte Film Tv Fund, al via la seconda sessione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-al-via-seconda-sessione",
+    "descrizione": "Si è aperta oggi lunedì 31 agosto la seconda sessione 2026 del Piemonte Film TV Fund, il bando della Regione Piemonte finanziato attraverso fondi FESR 2021-2027 per sostenere le imprese cinematografiche e audiovisive che scelgono il Piemonte per la realizzazione delle proprie produzioni. La…",
+    "data": "2026-08-31T16:04:20+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "6c6c284cf408",
+    "titolo": "Il 12 settembre gli Stati generali dei territori MAB Unesco del Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/12-settembre-gli-stati-generali-dei-territori-mab-unesco-piemonte",
+    "descrizione": "Il 12 settembre a Stresa, al Regina Palace Hotel, si terranno gli “Stati Generali dei Territori MAB UNESCO del Piemonte – Cultura, biodiversità, agricoltura e turismo per il futuro delle comunità locali”, promossi dall’Assessorato alla Cultura della Regione Piemonte…",
+    "data": "2026-08-31T14:54:45+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "1cea3ecef309",
     "titolo": "Piemonte, cresce la formazione tecnica superiore",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
+    "descrizione": "Una filiera della formazione tecnica superiore sempre più forte, capace di offrire ai giovani competenze specialistiche e di rispondere alla crescente domanda di professionalità del sistema produttivo piemontese. La Regione Piemonte rafforza la programmazione 2026-2029 con quasi 6…",
+    "data": "2026-08-31T14:35:04+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "f92d203ccf89",
+    "titolo": "48 milioni per la formazione tecnica superiore",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/48-milioni-per-formazione-tecnica-superiore",
     "descrizione": "Una filiera della formazione tecnica superiore sempre più forte, capace di offrire ai giovani competenze specialistiche e di rispondere alla crescente domanda di professionalità del sistema produttivo piemontese. La Regione Piemonte rafforza la programmazione 2026-2029 con quasi 6…",
     "data": "2026-08-31T14:35:04+02:00",
     "fonte": "Regione Piemonte",
@@ -1964,36 +1994,6 @@
     "titolo": "Furto con monopattino a un anziano in via Stradella, recuperata la collana d’oro grazie al pronto intervento della Polizia Locale",
     "link": "https://www.comune.torino.it/novita/comunicati/furto-monopattino-un-anziano-via-stradella-recuperata-collana-doro-grazie-al",
     "descrizione": "Un furto con strappo terminato con il recupero della refurtiva grazie alla prontezza e alla tempestività degli agenti della Polizia Locale di Torino.",
-    "data": "2026-07-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "06898e862b2c",
-    "titolo": "Consegnate le Civiche Benemerenze 2026",
-    "link": "https://www.comune.torino.it/novita/comunicati/consegnate-civiche-benemerenze-2026",
-    "descrizione": "I riconoscimenti a cittadini per l'impegno profuso sul territorio, per atti di coraggio civico o per l’eccellenza nei rispettivi campi professionali.",
-    "data": "2026-07-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "541a58d19c86",
-    "titolo": "Torino riconosce la comunità Arbëreshë: approvata la delibera per la tutela della minoranza linguistica storica italo-albanese",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-riconosce-comunita-arbereshe-approvata-delibera-per-tutela-della",
-    "descrizione": "Con questo atto, la Città di Torino richiede formalmente il riconoscimento della Delimitazione Territoriale per la comunità Arbëreshë",
-    "data": "2026-07-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a9a1e838f40b",
-    "titolo": "Rinnovo alberate, cambia il Regolamento 317",
-    "link": "https://www.comune.torino.it/novita/comunicati/rinnovo-alberate-cambia-regolamento-317",
-    "descrizione": "Il Consiglio comunale ha approvato la modifica dell’articolo 45 del Regolamento Verde pubblico in tema di rinnovo delle alberate",
     "data": "2026-07-06T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

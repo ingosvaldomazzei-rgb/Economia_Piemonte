@@ -77,6 +77,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "6c6c284cf408",
+      "titolo": "Il 12 settembre gli Stati generali dei territori MAB Unesco del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/12-settembre-gli-stati-generali-dei-territori-mab-unesco-piemonte",
+      "data": "2026-08-31T14:54:45+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "3a257d17fcc9",
       "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
       "link": "https://www.comune.torino.it/novita/notizie/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
@@ -219,14 +227,6 @@
       "data": "2026-07-06T14:39:07+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "f170e2eab003",
-      "titolo": "Via Pietro Cossa chiusa al traffico la notte tra il 7 e l'8 luglio per lavori sui semafori",
-      "link": "https://www.comune.torino.it/novita/comunicati/via-pietro-cossa-chiusa-al-traffico-notte-7-l8-luglio-per-lavori-sui-semafori",
-      "data": "2026-07-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "universita-ricerca": [
@@ -295,11 +295,127 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "agricoltura": [
+  "attivita-produttive": [
+    {
+      "id": "340cec5e80ac",
+      "titolo": "Piemonte Film Tv Fund, al via la seconda sessione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-al-via-seconda-sessione",
+      "data": "2026-08-31T16:04:20+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bc82b2c90944",
+      "titolo": "Innovazione, ricerca e cooperazione internazionale al centro della missione istituzionale della Città di Torino in Brasile",
+      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-ricerca-cooperazione-internazionale-al-centro-della-missione",
+      "data": "2026-08-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "92a94480a4b1",
+      "titolo": "L’assestamento di bilancio rafforza i conti della Regione e garantisce servizi e investimenti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lassestamento-bilancio-rafforza-conti-della-regione-garantisce-servizi-investimenti",
+      "data": "2026-07-31T15:54:39+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ddc97b927c84",
+      "titolo": "Artigianato, al via le Aree di Sviluppo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/artigianato-al-via-aree-sviluppo",
+      "data": "2026-07-21T09:53:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "030669fa8a9e",
+      "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
+      "data": "2026-07-17T10:37:44+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "fondi-europei": [
+    {
+      "id": "340cec5e80ac",
+      "titolo": "Piemonte Film Tv Fund, al via la seconda sessione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-al-via-seconda-sessione",
+      "data": "2026-08-31T16:04:20+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "1cea3ecef309",
       "titolo": "Piemonte, cresce la formazione tecnica superiore",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f92d203ccf89",
+      "titolo": "48 milioni per la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/48-milioni-per-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a0c4be04f384",
+      "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
+      "data": "2026-08-10T13:54:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f5d3b2a64e38",
+      "titolo": "Il giardino Natale Re si rinnova",
+      "link": "https://www.comune.torino.it/novita/notizie/giardino-natale-re-si-rinnova",
+      "data": "2026-07-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8117d2ad2a1c",
+      "titolo": "Ai primi di agosto 93 milioni di anticipi Pac a 25.500 aziende agricole",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ai-primi-agosto-93-milioni-anticipi-pac-25500-aziende-agricole",
+      "data": "2026-07-29T11:02:15+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cb585594fbff",
+      "titolo": "Cooperazione e appello alla pace: a Palazzo Civico l'ambasciatrice palestinese Mona Abuamara",
+      "link": "https://www.comune.torino.it/novita/comunicati/cooperazione-appello-alla-pace-palazzo-civico-lambasciatrice-palestinese-mona",
+      "data": "2026-07-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "agricoltura": [
+    {
+      "id": "6c6c284cf408",
+      "titolo": "Il 12 settembre gli Stati generali dei territori MAB Unesco del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/12-settembre-gli-stati-generali-dei-territori-mab-unesco-piemonte",
+      "data": "2026-08-31T14:54:45+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1cea3ecef309",
+      "titolo": "Piemonte, cresce la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f92d203ccf89",
+      "titolo": "48 milioni per la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/48-milioni-per-formazione-tecnica-superiore",
       "data": "2026-08-31T14:35:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
@@ -433,44 +549,166 @@
       "fonte_id": "regione"
     }
   ],
-  "fondi-europei": [
+  "turismo": [
     {
-      "id": "1cea3ecef309",
-      "titolo": "Piemonte, cresce la formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
-      "data": "2026-08-31T14:35:04+02:00",
+      "id": "6c6c284cf408",
+      "titolo": "Il 12 settembre gli Stati generali dei territori MAB Unesco del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/12-settembre-gli-stati-generali-dei-territori-mab-unesco-piemonte",
+      "data": "2026-08-31T14:54:45+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "a0c4be04f384",
-      "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
-      "data": "2026-08-10T13:54:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f5d3b2a64e38",
-      "titolo": "Il giardino Natale Re si rinnova",
-      "link": "https://www.comune.torino.it/novita/notizie/giardino-natale-re-si-rinnova",
-      "data": "2026-07-29T12:00:00+00:00",
+      "id": "22cfdebedc48",
+      "titolo": "Scaricava liquami in un tombino vicino al terminal di corso Vittorio Emanuele: conducente denunciato e autobus sequestrato",
+      "link": "https://www.comune.torino.it/novita/comunicati/scaricava-liquami-un-tombino-vicino-al-terminal-corso-vittorio-emanuele",
+      "data": "2026-08-20T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
     {
-      "id": "8117d2ad2a1c",
-      "titolo": "Ai primi di agosto 93 milioni di anticipi Pac a 25.500 aziende agricole",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ai-primi-agosto-93-milioni-anticipi-pac-25500-aziende-agricole",
-      "data": "2026-07-29T11:02:15+02:00",
+      "id": "cdb917a94ec8",
+      "titolo": "Turismo estivo, il Piemonte primo per crescita in Italia nel mese di luglio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-estivo-piemonte-primo-per-crescita-italia-nel-mese-luglio",
+      "data": "2026-08-13T17:10:52+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "cb585594fbff",
-      "titolo": "Cooperazione e appello alla pace: a Palazzo Civico l'ambasciatrice palestinese Mona Abuamara",
-      "link": "https://www.comune.torino.it/novita/comunicati/cooperazione-appello-alla-pace-palazzo-civico-lambasciatrice-palestinese-mona",
-      "data": "2026-07-14T12:00:00+00:00",
+      "id": "8968eb06ae13",
+      "titolo": "Sedici giorni alla guida senza riposo settimanale: multato autista di bus turistico",
+      "link": "https://www.comune.torino.it/novita/comunicati/sedici-giorni-alla-guida-senza-riposo-settimanale-multato-autista-bus-turistico",
+      "data": "2026-08-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "10f37a1e5fca",
+      "titolo": "Beni confiscati: accordo per rafforzare la lotta contro le mafie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/beni-confiscati-accordo-per-rafforzare-lotta-contro-mafie",
+      "data": "2026-07-14T18:52:10+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "43fb70a80a0c",
+      "titolo": "Chiusura della Biblioteca Pedagogica nel mese di agosto",
+      "link": "https://www.comune.torino.it/novita/notizie/chiusura-della-biblioteca-pedagogica-nel-mese-agosto",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "70b42f8c8bc9",
+      "titolo": "Nuovi record per il turismo piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-record-per-turismo-piemontese",
+      "data": "2026-07-08T09:59:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "6c6c284cf408",
+      "titolo": "Il 12 settembre gli Stati generali dei territori MAB Unesco del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/12-settembre-gli-stati-generali-dei-territori-mab-unesco-piemonte",
+      "data": "2026-08-31T14:54:45+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bc3dab3839a8",
+      "titolo": "Voucher Scuola, pubblicate le graduatorie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-pubblicate-graduatorie",
+      "data": "2026-08-24T13:41:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c49fb27363e6",
+      "titolo": "Competenze di Comunicazione Consapevole",
+      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
+      "data": "2026-08-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "421045fa3e29",
+      "titolo": "Cultura, oltre 10 milioni a 334 realtà in tutte le province",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-oltre-10-milioni-334-realta-tutte-province",
+      "data": "2026-08-13T10:05:56+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "78f8d0c82141",
+      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
+      "data": "2026-08-12T17:31:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "44fafcd9c0b2",
+      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+      "data": "2026-08-11T11:41:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "74e99681bdee",
+      "titolo": "Nidi comunali, dalla Regione 1,5 milioni per ampliare l'orario di apertura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-comunali-dalla-regione-15-milioni-per-ampliare-lorario-apertura",
+      "data": "2026-08-10T11:55:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a585b363e6e9",
+      "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
+      "data": "2026-07-24T19:23:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "86eda9e580af",
+      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
+      "data": "2026-07-17T17:51:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0683fb976cec",
+      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
+      "data": "2026-07-17T17:51:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "52a97a22a095",
+      "titolo": "Torino-Lione: disponibili per i Comuni 50,2 milioni per le opere compensative",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-disponibili-per-comuni-502-milioni-per-opere-compensative",
+      "data": "2026-07-14T16:36:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8ed916116ed6",
+      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
+      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ab7c4653c07c",
+      "titolo": "Via Stradella: da area degradata a giardino resiliente, un progetto costruito insieme ai cittadini",
+      "link": "https://www.comune.torino.it/novita/comunicati/via-stradella-area-degradata-giardino-resiliente-un-progetto-costruito-insieme",
+      "data": "2026-07-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -480,6 +718,14 @@
       "id": "1cea3ecef309",
       "titolo": "Piemonte, cresce la formazione tecnica superiore",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f92d203ccf89",
+      "titolo": "48 milioni per la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/48-milioni-per-formazione-tecnica-superiore",
       "data": "2026-08-31T14:35:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
@@ -505,40 +751,6 @@
       "titolo": "Giovani, finanziati altri 22 progetti",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giovani-finanziati-altri-22-progetti",
       "data": "2026-07-21T13:30:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "attivita-produttive": [
-    {
-      "id": "bc82b2c90944",
-      "titolo": "Innovazione, ricerca e cooperazione internazionale al centro della missione istituzionale della Città di Torino in Brasile",
-      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-ricerca-cooperazione-internazionale-al-centro-della-missione",
-      "data": "2026-08-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "92a94480a4b1",
-      "titolo": "L’assestamento di bilancio rafforza i conti della Regione e garantisce servizi e investimenti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lassestamento-bilancio-rafforza-conti-della-regione-garantisce-servizi-investimenti",
-      "data": "2026-07-31T15:54:39+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ddc97b927c84",
-      "titolo": "Artigianato, al via le Aree di Sviluppo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/artigianato-al-via-aree-sviluppo",
-      "data": "2026-07-21T09:53:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "030669fa8a9e",
-      "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
-      "data": "2026-07-17T10:37:44+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -781,112 +993,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "bc3dab3839a8",
-      "titolo": "Voucher Scuola, pubblicate le graduatorie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-pubblicate-graduatorie",
-      "data": "2026-08-24T13:41:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c49fb27363e6",
-      "titolo": "Competenze di Comunicazione Consapevole",
-      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
-      "data": "2026-08-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "421045fa3e29",
-      "titolo": "Cultura, oltre 10 milioni a 334 realtà in tutte le province",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-oltre-10-milioni-334-realta-tutte-province",
-      "data": "2026-08-13T10:05:56+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "78f8d0c82141",
-      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
-      "data": "2026-08-12T17:31:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "44fafcd9c0b2",
-      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-      "data": "2026-08-11T11:41:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "74e99681bdee",
-      "titolo": "Nidi comunali, dalla Regione 1,5 milioni per ampliare l'orario di apertura",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-comunali-dalla-regione-15-milioni-per-ampliare-lorario-apertura",
-      "data": "2026-08-10T11:55:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a585b363e6e9",
-      "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
-      "data": "2026-07-24T19:23:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "86eda9e580af",
-      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
-      "data": "2026-07-17T17:51:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0683fb976cec",
-      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
-      "data": "2026-07-17T17:51:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "52a97a22a095",
-      "titolo": "Torino-Lione: disponibili per i Comuni 50,2 milioni per le opere compensative",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-disponibili-per-comuni-502-milioni-per-opere-compensative",
-      "data": "2026-07-14T16:36:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8ed916116ed6",
-      "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
-      "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ab7c4653c07c",
-      "titolo": "Via Stradella: da area degradata a giardino resiliente, un progetto costruito insieme ai cittadini",
-      "link": "https://www.comune.torino.it/novita/comunicati/via-stradella-area-degradata-giardino-resiliente-un-progetto-costruito-insieme",
-      "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "541a58d19c86",
-      "titolo": "Torino riconosce la comunità Arbëreshë: approvata la delibera per la tutela della minoranza linguistica storica italo-albanese",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-riconosce-comunita-arbereshe-approvata-delibera-per-tutela-della",
-      "data": "2026-07-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "sociale-welfare": [
     {
       "id": "b43110470009",
@@ -991,56 +1097,6 @@
       "data": "2026-07-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "turismo": [
-    {
-      "id": "22cfdebedc48",
-      "titolo": "Scaricava liquami in un tombino vicino al terminal di corso Vittorio Emanuele: conducente denunciato e autobus sequestrato",
-      "link": "https://www.comune.torino.it/novita/comunicati/scaricava-liquami-un-tombino-vicino-al-terminal-corso-vittorio-emanuele",
-      "data": "2026-08-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cdb917a94ec8",
-      "titolo": "Turismo estivo, il Piemonte primo per crescita in Italia nel mese di luglio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-estivo-piemonte-primo-per-crescita-italia-nel-mese-luglio",
-      "data": "2026-08-13T17:10:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8968eb06ae13",
-      "titolo": "Sedici giorni alla guida senza riposo settimanale: multato autista di bus turistico",
-      "link": "https://www.comune.torino.it/novita/comunicati/sedici-giorni-alla-guida-senza-riposo-settimanale-multato-autista-bus-turistico",
-      "data": "2026-08-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "10f37a1e5fca",
-      "titolo": "Beni confiscati: accordo per rafforzare la lotta contro le mafie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/beni-confiscati-accordo-per-rafforzare-lotta-contro-mafie",
-      "data": "2026-07-14T18:52:10+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "43fb70a80a0c",
-      "titolo": "Chiusura della Biblioteca Pedagogica nel mese di agosto",
-      "link": "https://www.comune.torino.it/novita/notizie/chiusura-della-biblioteca-pedagogica-nel-mese-agosto",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "70b42f8c8bc9",
-      "titolo": "Nuovi record per il turismo piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-record-per-turismo-piemontese",
-      "data": "2026-07-08T09:59:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "trasporti-mobilita": [
@@ -1321,14 +1377,6 @@
       "data": "2026-07-17T17:51:27+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "06898e862b2c",
-      "titolo": "Consegnate le Civiche Benemerenze 2026",
-      "link": "https://www.comune.torino.it/novita/comunicati/consegnate-civiche-benemerenze-2026",
-      "data": "2026-07-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "protezione-civile": [
@@ -1607,14 +1655,6 @@
       "titolo": "Via Stradella: da area degradata a giardino resiliente, un progetto costruito insieme ai cittadini",
       "link": "https://www.comune.torino.it/novita/comunicati/via-stradella-area-degradata-giardino-resiliente-un-progetto-costruito-insieme",
       "data": "2026-07-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a9a1e838f40b",
-      "titolo": "Rinnovo alberate, cambia il Regolamento 317",
-      "link": "https://www.comune.torino.it/novita/comunicati/rinnovo-alberate-cambia-regolamento-317",
-      "data": "2026-07-06T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
