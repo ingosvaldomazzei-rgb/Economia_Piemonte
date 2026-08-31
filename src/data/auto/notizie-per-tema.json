@@ -9,6 +9,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "3a257d17fcc9",
+      "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
+      "link": "https://www.comune.torino.it/novita/notizie/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
+      "data": "2026-08-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "644f6fd3797d",
       "titolo": "Automotive, riunione del tavolo per l'area di accelerazione industriale",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/automotive-riunione-tavolo-per-larea-accelerazione-industriale",
@@ -65,6 +73,22 @@
       "titolo": "A Torino il Festival del Paesaggio Fluviale: arte, ricerca e partecipazione lungo il Sangone",
       "link": "https://www.comune.torino.it/novita/notizie/torino-festival-paesaggio-fluviale-arte-ricerca-partecipazione-lungo-sangone",
       "data": "2026-09-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "3a257d17fcc9",
+      "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
+      "link": "https://www.comune.torino.it/novita/notizie/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
+      "data": "2026-08-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bf04a0cd163a",
+      "titolo": "Siglato il patto di amicizia e collaborazione tra le città di Torino e San Paolo",
+      "link": "https://www.comune.torino.it/novita/comunicati/siglato-patto-amicizia-collaborazione-citta-torino-san-paolo",
+      "data": "2026-08-30T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
@@ -203,14 +227,6 @@
       "data": "2026-07-06T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0a3de0a9f26b",
-      "titolo": "I musei al centro della cultura: 3,1 milioni per investimenti strutturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/musei-al-centro-della-cultura-31-milioni-per-investimenti-strutturali",
-      "data": "2026-07-06T09:46:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "universita-ricerca": [
@@ -219,6 +235,22 @@
       "titolo": "A Torino il Festival del Paesaggio Fluviale: arte, ricerca e partecipazione lungo il Sangone",
       "link": "https://www.comune.torino.it/novita/notizie/torino-festival-paesaggio-fluviale-arte-ricerca-partecipazione-lungo-sangone",
       "data": "2026-09-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "3a257d17fcc9",
+      "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
+      "link": "https://www.comune.torino.it/novita/notizie/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
+      "data": "2026-08-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bc82b2c90944",
+      "titolo": "Innovazione, ricerca e cooperazione internazionale al centro della missione istituzionale della Città di Torino in Brasile",
+      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-ricerca-cooperazione-internazionale-al-centro-della-missione",
+      "data": "2026-08-29T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
@@ -261,6 +293,254 @@
       "data": "2026-07-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "agricoltura": [
+    {
+      "id": "1cea3ecef309",
+      "titolo": "Piemonte, cresce la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4a3d0922df19",
+      "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
+      "data": "2026-08-21T10:03:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1ef5f0fa3ebb",
+      "titolo": "Agricoltura, 1 milione di euro per il ripristino ecologico degli ambienti naturali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-1-milione-euro-per-ripristino-ecologico-degli-ambienti-naturali",
+      "data": "2026-08-20T10:25:34+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "beb5c642f493",
+      "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8e788a6f6b95",
+      "titolo": "Scuole dell'infanzia paritaria, 7,7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-77-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "26da1bb0a6a7",
+      "titolo": "Scuole dell'infanzia paritarie, 7,7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritarie-77-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0983c1bc27b0",
+      "titolo": "Maltempo in agricoltura, online i moduli per la ricognizione dei danni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-agricoltura-online-moduli-per-ricognizione-dei-danni",
+      "data": "2026-08-11T17:07:49+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c67fbd5f44c0",
+      "titolo": "Incendi boschivi, accordo tra Regione e Carabinieri Forestali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-accordo-regione-carabinieri-forestali",
+      "data": "2026-08-07T11:02:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "afbb37492c20",
+      "titolo": "Siccità, avviate le procedure per la richiesta di calamità naturale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-avviate-procedure-per-richiesta-calamita-naturale",
+      "data": "2026-08-06T19:09:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "92a94480a4b1",
+      "titolo": "L’assestamento di bilancio rafforza i conti della Regione e garantisce servizi e investimenti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lassestamento-bilancio-rafforza-conti-della-regione-garantisce-servizi-investimenti",
+      "data": "2026-07-31T15:54:39+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8117d2ad2a1c",
+      "titolo": "Ai primi di agosto 93 milioni di anticipi Pac a 25.500 aziende agricole",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ai-primi-agosto-93-milioni-anticipi-pac-25500-aziende-agricole",
+      "data": "2026-07-29T11:02:15+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "030669fa8a9e",
+      "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
+      "data": "2026-07-17T10:37:44+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cb585594fbff",
+      "titolo": "Cooperazione e appello alla pace: a Palazzo Civico l'ambasciatrice palestinese Mona Abuamara",
+      "link": "https://www.comune.torino.it/novita/comunicati/cooperazione-appello-alla-pace-palazzo-civico-lambasciatrice-palestinese-mona",
+      "data": "2026-07-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2aa44c382dd0",
+      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
+      "data": "2026-07-13T20:37:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "62077d2bb730",
+      "titolo": "Dalla materia di scarto al valore condiviso: al via il nuovo Living Lab Torino Circolare",
+      "link": "https://www.comune.torino.it/novita/comunicati/dalla-materia-scarto-al-valore-condiviso-al-via-nuovo-living-lab-torino",
+      "data": "2026-07-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e4a6a8e351dc",
+      "titolo": "Luci e ombre per il vino piemontese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/luci-ombre-per-vino-piemontese",
+      "data": "2026-07-08T15:15:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a77b7d3c3478",
+      "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
+      "data": "2026-07-07T18:41:23+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "fondi-europei": [
+    {
+      "id": "1cea3ecef309",
+      "titolo": "Piemonte, cresce la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a0c4be04f384",
+      "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
+      "data": "2026-08-10T13:54:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f5d3b2a64e38",
+      "titolo": "Il giardino Natale Re si rinnova",
+      "link": "https://www.comune.torino.it/novita/notizie/giardino-natale-re-si-rinnova",
+      "data": "2026-07-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8117d2ad2a1c",
+      "titolo": "Ai primi di agosto 93 milioni di anticipi Pac a 25.500 aziende agricole",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ai-primi-agosto-93-milioni-anticipi-pac-25500-aziende-agricole",
+      "data": "2026-07-29T11:02:15+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cb585594fbff",
+      "titolo": "Cooperazione e appello alla pace: a Palazzo Civico l'ambasciatrice palestinese Mona Abuamara",
+      "link": "https://www.comune.torino.it/novita/comunicati/cooperazione-appello-alla-pace-palazzo-civico-lambasciatrice-palestinese-mona",
+      "data": "2026-07-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "giovani": [
+    {
+      "id": "1cea3ecef309",
+      "titolo": "Piemonte, cresce la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "45ac97db8823",
+      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
+      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
+      "data": "2026-08-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e84eb7067781",
+      "titolo": "Guida sicura per neopatentati",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/guida-sicura-per-neopatentati",
+      "data": "2026-08-03T14:44:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c17300b8c32b",
+      "titolo": "Giovani, finanziati altri 22 progetti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giovani-finanziati-altri-22-progetti",
+      "data": "2026-07-21T13:30:08+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "attivita-produttive": [
+    {
+      "id": "bc82b2c90944",
+      "titolo": "Innovazione, ricerca e cooperazione internazionale al centro della missione istituzionale della Città di Torino in Brasile",
+      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-ricerca-cooperazione-internazionale-al-centro-della-missione",
+      "data": "2026-08-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "92a94480a4b1",
+      "titolo": "L’assestamento di bilancio rafforza i conti della Regione e garantisce servizi e investimenti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lassestamento-bilancio-rafforza-conti-della-regione-garantisce-servizi-investimenti",
+      "data": "2026-07-31T15:54:39+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ddc97b927c84",
+      "titolo": "Artigianato, al via le Aree di Sviluppo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/artigianato-al-via-aree-sviluppo",
+      "data": "2026-07-21T09:53:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "030669fa8a9e",
+      "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
+      "data": "2026-07-17T10:37:44+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     }
   ],
   "commercio-artigianato": [
@@ -499,14 +779,6 @@
       "data": "2026-07-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f431f46fded7",
-      "titolo": "Il Piemonte primo in Italia negli ITS Academy",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-primo-italia-negli-its-academy",
-      "data": "2026-07-06T10:47:55+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "enti-locali-piccoli-comuni": [
@@ -613,14 +885,6 @@
       "data": "2026-07-06T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1d92120ef4ef",
-      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
-      "data": "2026-07-06T09:52:31+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
     }
   ],
   "sociale-welfare": [
@@ -727,152 +991,6 @@
       "data": "2026-07-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "agricoltura": [
-    {
-      "id": "4a3d0922df19",
-      "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
-      "data": "2026-08-21T10:03:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1ef5f0fa3ebb",
-      "titolo": "Agricoltura, 1 milione di euro per il ripristino ecologico degli ambienti naturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-1-milione-euro-per-ripristino-ecologico-degli-ambienti-naturali",
-      "data": "2026-08-20T10:25:34+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "beb5c642f493",
-      "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
-      "data": "2026-08-13T12:24:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8e788a6f6b95",
-      "titolo": "Scuole dell'infanzia paritaria, 7,7 milioni per sostenere famiglie e territori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-77-milioni-per-sostenere-famiglie-territori",
-      "data": "2026-08-13T12:24:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "26da1bb0a6a7",
-      "titolo": "Scuole dell'infanzia paritarie, 7,7 milioni per sostenere famiglie e territori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritarie-77-milioni-per-sostenere-famiglie-territori",
-      "data": "2026-08-13T12:24:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0983c1bc27b0",
-      "titolo": "Maltempo in agricoltura, online i moduli per la ricognizione dei danni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-agricoltura-online-moduli-per-ricognizione-dei-danni",
-      "data": "2026-08-11T17:07:49+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c67fbd5f44c0",
-      "titolo": "Incendi boschivi, accordo tra Regione e Carabinieri Forestali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-accordo-regione-carabinieri-forestali",
-      "data": "2026-08-07T11:02:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "afbb37492c20",
-      "titolo": "Siccità, avviate le procedure per la richiesta di calamità naturale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-avviate-procedure-per-richiesta-calamita-naturale",
-      "data": "2026-08-06T19:09:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "92a94480a4b1",
-      "titolo": "L’assestamento di bilancio rafforza i conti della Regione e garantisce servizi e investimenti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lassestamento-bilancio-rafforza-conti-della-regione-garantisce-servizi-investimenti",
-      "data": "2026-07-31T15:54:39+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8117d2ad2a1c",
-      "titolo": "Ai primi di agosto 93 milioni di anticipi Pac a 25.500 aziende agricole",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ai-primi-agosto-93-milioni-anticipi-pac-25500-aziende-agricole",
-      "data": "2026-07-29T11:02:15+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "030669fa8a9e",
-      "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
-      "data": "2026-07-17T10:37:44+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cb585594fbff",
-      "titolo": "Cooperazione e appello alla pace: a Palazzo Civico l'ambasciatrice palestinese Mona Abuamara",
-      "link": "https://www.comune.torino.it/novita/comunicati/cooperazione-appello-alla-pace-palazzo-civico-lambasciatrice-palestinese-mona",
-      "data": "2026-07-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2aa44c382dd0",
-      "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
-      "data": "2026-07-13T20:37:57+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "62077d2bb730",
-      "titolo": "Dalla materia di scarto al valore condiviso: al via il nuovo Living Lab Torino Circolare",
-      "link": "https://www.comune.torino.it/novita/comunicati/dalla-materia-scarto-al-valore-condiviso-al-via-nuovo-living-lab-torino",
-      "data": "2026-07-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e4a6a8e351dc",
-      "titolo": "Luci e ombre per il vino piemontese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/luci-ombre-per-vino-piemontese",
-      "data": "2026-07-08T15:15:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a77b7d3c3478",
-      "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
-      "data": "2026-07-07T18:41:23+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1d92120ef4ef",
-      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
-      "data": "2026-07-06T09:52:31+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "ca7e11d1ef77",
-      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
-      "data": "2026-07-03T15:55:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "turismo": [
@@ -1303,48 +1421,6 @@
       "fonte_id": "regione"
     }
   ],
-  "fondi-europei": [
-    {
-      "id": "a0c4be04f384",
-      "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
-      "data": "2026-08-10T13:54:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f5d3b2a64e38",
-      "titolo": "Il giardino Natale Re si rinnova",
-      "link": "https://www.comune.torino.it/novita/notizie/giardino-natale-re-si-rinnova",
-      "data": "2026-07-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8117d2ad2a1c",
-      "titolo": "Ai primi di agosto 93 milioni di anticipi Pac a 25.500 aziende agricole",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ai-primi-agosto-93-milioni-anticipi-pac-25500-aziende-agricole",
-      "data": "2026-07-29T11:02:15+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cb585594fbff",
-      "titolo": "Cooperazione e appello alla pace: a Palazzo Civico l'ambasciatrice palestinese Mona Abuamara",
-      "link": "https://www.comune.torino.it/novita/comunicati/cooperazione-appello-alla-pace-palazzo-civico-lambasciatrice-palestinese-mona",
-      "data": "2026-07-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ca7e11d1ef77",
-      "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
-      "data": "2026-07-03T15:55:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "pari-opportunita": [
     {
       "id": "0e5f4b3d539d",
@@ -1353,14 +1429,6 @@
       "data": "2026-08-09T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1d92120ef4ef",
-      "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
-      "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
-      "data": "2026-07-06T09:52:31+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
     }
   ],
   "edilizia-opere-pubbliche": [
@@ -1403,32 +1471,6 @@
       "data": "2026-07-08T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "giovani": [
-    {
-      "id": "45ac97db8823",
-      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
-      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
-      "data": "2026-08-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e84eb7067781",
-      "titolo": "Guida sicura per neopatentati",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/guida-sicura-per-neopatentati",
-      "data": "2026-08-03T14:44:57+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c17300b8c32b",
-      "titolo": "Giovani, finanziati altri 22 progetti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giovani-finanziati-altri-22-progetti",
-      "data": "2026-07-21T13:30:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "lavoro-occupazione": [
@@ -1599,40 +1641,6 @@
       "titolo": "Giovani, finanziati altri 22 progetti",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giovani-finanziati-altri-22-progetti",
       "data": "2026-07-21T13:30:08+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "attivita-produttive": [
-    {
-      "id": "92a94480a4b1",
-      "titolo": "L’assestamento di bilancio rafforza i conti della Regione e garantisce servizi e investimenti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lassestamento-bilancio-rafforza-conti-della-regione-garantisce-servizi-investimenti",
-      "data": "2026-07-31T15:54:39+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ddc97b927c84",
-      "titolo": "Artigianato, al via le Aree di Sviluppo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/artigianato-al-via-aree-sviluppo",
-      "data": "2026-07-21T09:53:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "030669fa8a9e",
-      "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
-      "data": "2026-07-17T10:37:44+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0a3de0a9f26b",
-      "titolo": "I musei al centro della cultura: 3,1 milioni per investimenti strutturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/musei-al-centro-della-cultura-31-milioni-per-investimenti-strutturali",
-      "data": "2026-07-06T09:46:02+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }

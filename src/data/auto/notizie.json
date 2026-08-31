@@ -10,6 +10,46 @@
     "colore": "#dc2626"
   },
   {
+    "id": "1cea3ecef309",
+    "titolo": "Piemonte, cresce la formazione tecnica superiore",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
+    "descrizione": "Una filiera della formazione tecnica superiore sempre più forte, capace di offrire ai giovani competenze specialistiche e di rispondere alla crescente domanda di professionalità del sistema produttivo piemontese. La Regione Piemonte rafforza la programmazione 2026-2029 con quasi 6…",
+    "data": "2026-08-31T14:35:04+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "3a257d17fcc9",
+    "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
+    "link": "https://www.comune.torino.it/novita/notizie/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
+    "descrizione": "Unappuntamento internazionale per interrogarsi, attraverso l’arte contemporanea e la ricerca, su come cambiano i territori in relazione ai loro corsi d’acqua",
+    "data": "2026-08-31T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bf04a0cd163a",
+    "titolo": "Siglato il patto di amicizia e collaborazione tra le città di Torino e San Paolo",
+    "link": "https://www.comune.torino.it/novita/comunicati/siglato-patto-amicizia-collaborazione-citta-torino-san-paolo",
+    "descrizione": "L’accordo rafforza i profondi legami storici, culturali, sociali ed economici che uniscono le due città e apre una nuova fase di collaborazione",
+    "data": "2026-08-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bc82b2c90944",
+    "titolo": "Innovazione, ricerca e cooperazione internazionale al centro della missione istituzionale della Città di Torino in Brasile",
+    "link": "https://www.comune.torino.it/novita/comunicati/innovazione-ricerca-cooperazione-internazionale-al-centro-della-missione",
+    "descrizione": "Una missione articolata in diverse tappe tra San Paolo, Campinas, Campo Grande e Brasilia",
+    "data": "2026-08-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "5a1487d8e2a9",
     "titolo": "Corso Vercelli e via Filadelfia: da lunedì 31 agosto lavori di rifacimento del manto stradale",
     "link": "https://www.comune.torino.it/novita/comunicati/corso-vercelli-via-filadelfia-lunedi-31-agosto-lavori-rifacimento-manto-stradale",
@@ -1958,45 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "f431f46fded7",
-    "titolo": "Il Piemonte primo in Italia negli ITS Academy",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-primo-italia-negli-its-academy",
-    "descrizione": "Gli ITS Academy del Piemonte si confermano un’eccellenza a livello nazionale per qualità…",
-    "data": "2026-07-06T10:47:55+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "1d92120ef4ef",
-    "titolo": "Problemi con il proprio operatore telefonico? Il Corecom Piemonte offre un servizio gratuito di conciliazione",
-    "link": "https://www.cr.piemonte.it/cms/corecom/articoli/comunicati-stampa/problemi-con-il-proprio-operatore-telefonico-il-corecom-piemonte",
-    "descrizione": "Tipologia articolo Comunicati stampa Data pubblicazione 06 Luglio 2026 Gli utenti che riscontrano problematiche con il proprio operatore di telefonia fissa, mobile o con i servizi internet possono avvalersi del servizio di conciliazione messo a disposizione dal Corecom Piemonte attraverso la piattaforma ConciliaWeb. La procedura di conciliazione rappresenta uno strumento semplice, rapido e completamente gratuito per la risoluzione delle controversie tra cittadini e operatori delle comunicazioni ",
-    "data": "2026-07-06T09:52:31+00:00",
-    "fonte": "Consiglio Regionale",
-    "fonte_id": "consiglio",
-    "colore": "#7c3aed"
-  },
-  {
-    "id": "0a3de0a9f26b",
-    "titolo": "I musei al centro della cultura: 3,1 milioni per investimenti strutturali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/musei-al-centro-della-cultura-31-milioni-per-investimenti-strutturali",
-    "descrizione": "La Regione Piemonte riporta al centro gli investimenti strutturali destinati ai musei con un investimento da 3,1 milioni di euro che finanzierà tutti gli 85 progetti risultati ammissibili dal bando (…",
-    "data": "2026-07-06T09:46:02+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ca7e11d1ef77",
-    "titolo": "Il Piemonte raggiunge il 100% degli obiettivi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-raggiunge-100-degli-obiettivi",
-    "descrizione": "La Regione Piemonte centra il 100% degli obiettivi del Pnrr e rispetta tutte le scadenze fissate dall’Europa. Un risultato che conferma la capacità dell'ente di trasformare le risorse del Piano nazionale di ripresa e…",
-    "data": "2026-07-03T15:55:47+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

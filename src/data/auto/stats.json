@@ -1,26 +1,25 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 122,
-    "regione": 77,
-    "consiglio": 1
+    "comune_torino": 125,
+    "regione": 75
   },
   "temi_attivi": [
     {
       "tema": "cultura-beni-culturali",
-      "conteggio": 19
-    },
-    {
-      "tema": "agricoltura",
-      "conteggio": 18
+      "conteggio": 20
     },
     {
       "tema": "lavoro-occupazione",
       "conteggio": 18
     },
     {
+      "tema": "agricoltura",
+      "conteggio": 17
+    },
+    {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 14
+      "conteggio": 13
     },
     {
       "tema": "sociale-welfare",
@@ -44,7 +43,7 @@
     },
     {
       "tema": "istruzione-formazione",
-      "conteggio": 10
+      "conteggio": 9
     }
   ],
   "totale_temi_con_notizie": 26
