@@ -1,20 +1,20 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 123,
-    "regione": 77
+    "comune_torino": 122,
+    "regione": 78
   },
   "temi_attivi": [
     {
       "tema": "cultura-beni-culturali",
-      "conteggio": 19
-    },
-    {
-      "tema": "lavoro-occupazione",
-      "conteggio": 19
+      "conteggio": 20
     },
     {
       "tema": "agricoltura",
+      "conteggio": 20
+    },
+    {
+      "tema": "lavoro-occupazione",
       "conteggio": 19
     },
     {
