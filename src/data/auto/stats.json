@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 121,
-    "regione": 79
+    "comune_torino": 123,
+    "regione": 77
   },
   "temi_attivi": [
     {
@@ -38,11 +38,11 @@
       "conteggio": 12
     },
     {
-      "tema": "protezione-civile",
-      "conteggio": 11
+      "tema": "istruzione-formazione",
+      "conteggio": 10
     },
     {
-      "tema": "istruzione-formazione",
+      "tema": "protezione-civile",
       "conteggio": 10
     }
   ],

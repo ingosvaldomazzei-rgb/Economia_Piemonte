@@ -39,14 +39,6 @@
       "data": "2026-07-15T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7e0a8b67fc3c",
-      "titolo": "La prima riunione dell'Osservatorio strategico su automotive e componentistica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/prima-riunione-dellosservatorio-strategico-automotive-componentistica",
-      "data": "2026-07-06T17:19:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "trasparenza": [
@@ -1619,14 +1611,6 @@
       "titolo": "La Regione progetta il ripristino dei boschi bruciati dagli incendi",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-progetta-ripristino-dei-boschi-bruciati-dagli-incendi",
       "data": "2026-07-11T18:59:12+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "60ac2e021833",
-      "titolo": "Dall’8 luglio in Piemonte stato di massima pericolosità per incendi boschivi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dall8-luglio-piemonte-stato-massima-pericolosita-per-incendi-boschivi",
-      "data": "2026-07-06T18:45:06+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }

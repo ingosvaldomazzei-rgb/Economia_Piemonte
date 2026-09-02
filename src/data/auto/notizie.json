@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "94574a312336",
+    "titolo": "È stata adottata la Proposta Tecnica del Progetto Definitivo del nuovo PRG",
+    "link": "https://www.comune.torino.it/novita/notizie/stata-adottata-proposta-tecnica-progetto-definitivo-nuovo-prg",
+    "descrizione": "Approvata la proposta tecnica del progetto definitivo del PRG di Torino",
+    "data": "2026-09-02T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "b4ad9082dac7",
     "titolo": "Caldo, prorogate fino al 6 settembre le misure di tutela per i lavoratori",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/caldo-prorogate-fino-al-6-settembre-misure-tutela-per-lavoratori",
@@ -53,6 +63,16 @@
     "id": "edc9182d4fab",
     "titolo": "Presentazione Catalogo",
     "link": "https://www.comune.torino.it/novita/notizie/presentazione-catalogo",
+    "descrizione": "Webinar di presentazione del Catalogo Crescere in Città il 9 settembre ore 11:00.",
+    "data": "2026-09-01T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3df74f6b861c",
+    "titolo": "Presentazione Catalogo Crescere in Città 2026-2027",
+    "link": "https://www.comune.torino.it/novita/notizie/presentazione-catalogo-crescere-citta-2026-2027",
     "descrizione": "Webinar di presentazione del Catalogo Crescere in Città il 9 settembre ore 11:00.",
     "data": "2026-09-01T12:00:00+00:00",
     "fonte": "Comune di Torino",
@@ -1978,25 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "60ac2e021833",
-    "titolo": "Dall’8 luglio in Piemonte stato di massima pericolosità per incendi boschivi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dall8-luglio-piemonte-stato-massima-pericolosita-per-incendi-boschivi",
-    "descrizione": "La Regione Piemonte ha dichiarato da mercoledì 8 luglio lo stato di massima pericolosità per incendi boschivi. Il provvedimento si è reso necessario a seguito di quanto previsto dal bollettino per la previsione del pericolo incendi,…",
-    "data": "2026-07-06T18:45:06+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "7e0a8b67fc3c",
-    "titolo": "La prima riunione dell'Osservatorio strategico su automotive e componentistica",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/prima-riunione-dellosservatorio-strategico-automotive-componentistica",
-    "descrizione": "Prima riunione nel Grattacielo Piemonte dell’Osservatorio strategico su automotive e componentistica, promosso dalla Regione e richiesto dalle organizzazioni sindacali per aprire un confronto stabile sulle prospettive di uno dei comparti più…",
-    "data": "2026-07-06T17:19:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
