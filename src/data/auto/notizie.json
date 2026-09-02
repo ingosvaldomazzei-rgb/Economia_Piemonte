@@ -20,6 +20,16 @@
     "colore": "#2563eb"
   },
   {
+    "id": "5c7438338429",
+    "titolo": "Omaggio a Carla Fracci, 2 serate nelle Residenze Reali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-nelle-residenze-reali",
+    "descrizione": "Un omaggio a Carla Fracci, alla sua arte e all’eredità straordinaria che ha lasciato alla danza italiana e internazionale, attraverso uno spettacolo capace di intrecciare danza, memoria e bellezza in due luoghi simbolo del patrimonio piemontese. È stato presentato mercoledì 2 settembre, nella…",
+    "data": "2026-09-02T15:59:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "94574a312336",
     "titolo": "È stata adottata la Proposta Tecnica del Progetto Definitivo del nuovo PRG",
     "link": "https://www.comune.torino.it/novita/notizie/stata-adottata-proposta-tecnica-progetto-definitivo-nuovo-prg",
@@ -1984,16 +1994,6 @@
     "titolo": "Via Stradella: da area degradata a giardino resiliente, un progetto costruito insieme ai cittadini",
     "link": "https://www.comune.torino.it/novita/comunicati/via-stradella-area-degradata-giardino-resiliente-un-progetto-costruito-insieme",
     "descrizione": "Uno spazio in stato di abbandono tornerà a disposizione della comunità: prende forma la riqualificazione di via Stradella, all'angolo con corso Venezia.",
-    "data": "2026-07-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8de70b13eb47",
-    "titolo": "Bus più veloci e frequenti: Torino si candida a un programma nazionale da 13,7 milioni per il trasporto pubblico",
-    "link": "https://www.comune.torino.it/novita/comunicati/bus-piu-veloci-frequenti-torino-si-candida-un-programma-nazionale-137-milioni",
-    "descrizione": "Rendere il trasporto pubblico sempre più efficiente e accessibile: è l'obiettivo che la Città di Torino persegue da tempo.",
     "data": "2026-07-07T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
