@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 121,
-    "regione": 79
+    "comune_torino": 119,
+    "regione": 81
   },
   "temi_attivi": [
     {
@@ -15,30 +15,30 @@
     },
     {
       "tema": "lavoro-occupazione",
-      "conteggio": 19
-    },
-    {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 13
-    },
-    {
-      "tema": "sociale-welfare",
-      "conteggio": 13
+      "conteggio": 18
     },
     {
       "tema": "pianificazione-territoriale",
       "conteggio": 12
     },
     {
-      "tema": "sanita-regionale",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 12
     },
     {
-      "tema": "sport",
+      "tema": "sociale-welfare",
+      "conteggio": 12
+    },
+    {
+      "tema": "sanita-regionale",
       "conteggio": 11
     },
     {
       "tema": "istruzione-formazione",
+      "conteggio": 10
+    },
+    {
+      "tema": "sport",
       "conteggio": 10
     },
     {

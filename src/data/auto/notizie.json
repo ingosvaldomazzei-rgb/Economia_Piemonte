@@ -10,6 +10,36 @@
     "colore": "#dc2626"
   },
   {
+    "id": "4f2f9de167ac",
+    "titolo": "Il Piemonte guida l'innovazione in Europa: arriva l'intelligenza artificiale per ridurre lo smog",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-guida-linnovazione-europa-arriva-lintelligenza-artificiale-per-ridurre-smog",
+    "descrizione": "Un investimento di oltre 11,5 milioni di euro per trasformare la gestione della mobilità urbana, ridurre le code nei punti critici e abbattere le emissioni inquinanti attraverso l'uso delle moderne tecnologie. È questo il cuore del nuovo progetto sperimentale “Intelligenza artificiale al…",
+    "data": "2026-09-03T12:06:18+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "6ffe1bd1c5bc",
+    "titolo": "AVVISO VENDITA SPAZI PUBBLICHE AFFISSIONI ANNO 2027",
+    "link": "https://www.comune.torino.it/novita/avvisi/avviso-vendita-spazi-pubbliche-affissioni-anno-2027",
+    "descrizione": "Avviso agli utenti interessati all'acquisto di spazi per le pubbliche affissioni per l'anno 2027 (Poster 6*3, Lotti, Mini Lotti, Lotti VIP e altre tipologie)",
+    "data": "2026-09-03T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "606c9e6ed1c1",
+    "titolo": "Predazione da grandi carnivori, aperto il bando. Domande entro il 9 ottobre.",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/predazione-grandi-carnivori-aperto-bando-domande-entro-9-ottobre",
+    "descrizione": "È aperto il bando regionale attraverso il quale gli allevatori piemontesi possono presentare domanda di risarcimento per i capi vittima di predazione da grandi carnivori verificatasi nel periodo fra il 1° gennaio e il 30 giugno 2026. La Regione Piemonte risarcirà…",
+    "data": "2026-09-03T11:03:58+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "42876675f191",
     "titolo": "Omaggio a Carla Fracci, 2 serate alla Reggia di Venaria",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-alla-reggia-venaria",
@@ -1964,36 +1994,6 @@
     "titolo": "Scalo Nizza, con le opere di urbanizzazione il via a impianti sportivi, piazza, percorsi pedonali e ciclabili e aree verdi",
     "link": "https://www.comune.torino.it/novita/comunicati/scalo-nizza-opere-urbanizzazione-via-impianti-sportivi-piazza-percorsi-pedonali",
     "descrizione": "Un intervento che rafforza la vocazione universitaria e di servizio del quartiere San Salvario e che darà vita a un nuovo mix funzionale.",
-    "data": "2026-07-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d09a7df0cbcd",
-    "titolo": "Efficientamento energetico del polo scolastico di via Delleani: approvati lavori per 900mila euro",
-    "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-polo-scolastico-via-delleani-approvati-lavori-per",
-    "descrizione": "Meno consumi, minori emissioni e ambienti più confortevoli per bambine, bambini e personale educativo.",
-    "data": "2026-07-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1ff8a0050b09",
-    "titolo": "JAB, il 9 luglio la presentazione del progetto tra arte, sport e musica per la ricostruzione diun’identità plurale tra Aurora e Barriera",
-    "link": "https://www.comune.torino.it/novita/comunicati/jab-9-luglio-presentazione-progetto-arte-sport-musica-per-ricostruzione",
-    "descrizione": "JAB prende il suo nome dal pugilato, ma la sua origine è anche una storia in mezzo alla storia: quella di Leone Jacovacci.",
-    "data": "2026-07-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "ab7c4653c07c",
-    "titolo": "Via Stradella: da area degradata a giardino resiliente, un progetto costruito insieme ai cittadini",
-    "link": "https://www.comune.torino.it/novita/comunicati/via-stradella-area-degradata-giardino-resiliente-un-progetto-costruito-insieme",
-    "descrizione": "Uno spazio in stato di abbandono tornerà a disposizione della comunità: prende forma la riqualificazione di via Stradella, all'angolo con corso Venezia.",
     "data": "2026-07-07T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
