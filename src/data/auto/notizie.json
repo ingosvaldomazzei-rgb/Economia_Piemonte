@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "bfda1405f831",
+    "titolo": "Distretto manifatturiero unico del Nord",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/distretto-manifatturiero-unico-nord",
+    "descrizione": "Non una semplice interlocuzione tra territori, ma il tentativo di costruire una voce comune del sistema economico e produttivo del Nord. Emilia-Romagna, Liguria, Lombardia, Piemonte e Veneto avviano una nuova fase di collaborazione attraverso una ‘Cabina di Regia delle Regioni…",
+    "data": "2026-09-03T17:41:44+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "57291a157d10",
+    "titolo": "Regione Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
+    "descrizione": "Il Piemonte si conferma la locomotiva italiana della transizione digitale. Secondo l’indagine Istat sulla diffusione delle Ict nelle imprese con più di 10 dipendenti, il Piemonte nel 2025 è la regione che registra la percentuale più elevata in Italia di imprese che utilizzano l'Intelligenza…",
+    "data": "2026-09-03T13:47:24+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "4f2f9de167ac",
     "titolo": "Il Piemonte guida l'innovazione in Europa: arriva l'intelligenza artificiale per ridurre lo smog",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-guida-linnovazione-europa-arriva-lintelligenza-artificiale-per-ridurre-smog",
@@ -24,6 +44,36 @@
     "titolo": "AVVISO VENDITA SPAZI PUBBLICHE AFFISSIONI ANNO 2027",
     "link": "https://www.comune.torino.it/novita/avvisi/avviso-vendita-spazi-pubbliche-affissioni-anno-2027",
     "descrizione": "Avviso agli utenti interessati all'acquisto di spazi per le pubbliche affissioni per l'anno 2027 (Poster 6*3, Lotti, Mini Lotti, Lotti VIP e altre tipologie)",
+    "data": "2026-09-03T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b85ced87eeb1",
+    "titolo": "Giovani e clima: al via la terza edizione del Torino Youth Climate Action Fund",
+    "link": "https://www.comune.torino.it/novita/notizie/giovani-clima-al-via-terza-edizione-torino-youth-climate-action-fund",
+    "descrizione": "Pubblicato il bando Youth Climate Action Fund che sostiene le iniziative ideate e realizzate da ragazze e ragazzi tra i 15 e i 24 anni",
+    "data": "2026-09-03T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "2c108b9e589d",
+    "titolo": "JUKEBOX NIGHT (11 e 12 settembre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+    "link": "https://www.comune.torino.it/novita/notizie/jukebox-night-11-12-settembre-2026-presso-inalpi-arena-convocazione-per",
+    "descrizione": "Convocazione per LUNEDI' 07 SETTEMBRE 2026 ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali",
+    "data": "2026-09-03T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e708e4fa8e97",
+    "titolo": "Torino Cambia. 800 metri quadrati, 30mila documenti, una nuova sala da 40 posti: ecco la nuova Biblioteca Carluccio",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-800-metri-quadrati-30mila-documenti-una-nuova-sala-40-posti-ecco",
+    "descrizione": "La biblioteca si presenta oggi rinnovata grazie al completamento del secondo e più consistente lotto di lavori realizzato nell'ambito del PNRR",
     "data": "2026-09-03T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1945,56 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/notizie/sai-che-tua-mensa",
     "descrizione": "La nuova rubrica del Laboratorio Chimico della Camera di Commercio di Torino.",
     "data": "2026-07-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "125bdd66a66b",
-    "titolo": "Aggiornamento degli oneri di urbanizzazione 2026",
-    "link": "https://www.comune.torino.it/novita/avvisi/aggiornamento-degli-oneri-urbanizzazione-2026",
-    "descrizione": "Adeguamento annuale dei valori tabellari degli oneri di urbanizzazione.",
-    "data": "2026-07-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8557dfbb9395",
-    "titolo": "Riflessioni politico-culturali e appuntamenti sportivi e gastronomici",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/riflessioni-politico-culturali-appuntamenti-sportivi-gastronomici",
-    "descrizione": "Sabato 25 e domenica 26 luglio sarà Pontechianale, nel cuore della Valle Varaita in provincia di Cuneo, il palcoscenico della terza edizione della Festa delle Alpi - Fête des Alpes. Dopo il Piccolo San Bernardo nel 2024 e il Moncenisio…",
-    "data": "2026-07-08T10:52:51+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "70b42f8c8bc9",
-    "titolo": "Nuovi record per il turismo piemontese",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovi-record-per-turismo-piemontese",
-    "descrizione": "Nel primo semestre del 2026 il Piemonte turistico ha ottenuto un nuovo, importante risultato: è stata registrata la straordinaria percentuale del 9,22% in più di arrivi rispetto all’analogo periodo del 2025. Un record che lo pone al terzo posto in…",
-    "data": "2026-07-08T09:59:52+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a77b7d3c3478",
-    "titolo": "Tutelare la produzione di riso dalla concorrenza sleale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tutelare-produzione-riso-dalla-concorrenza-sleale",
-    "descrizione": "“Chiediamo all’Unione Europea di intervenire a tutela del riso europeo dalla concorrenza sleale in arrivo da altri Paesi, in particolare dal Sud-Est asiatico. Questa situazione non solo rischia di impoverire gli agricoltori europei, ma rischia di farli fallire”: è quanto ha…",
-    "data": "2026-07-07T18:41:23+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "c46ff3a0aacd",
-    "titolo": "Scalo Nizza, con le opere di urbanizzazione il via a impianti sportivi, piazza, percorsi pedonali e ciclabili e aree verdi",
-    "link": "https://www.comune.torino.it/novita/comunicati/scalo-nizza-opere-urbanizzazione-via-impianti-sportivi-piazza-percorsi-pedonali",
-    "descrizione": "Un intervento che rafforza la vocazione universitaria e di servizio del quartiere San Salvario e che darà vita a un nuovo mix funzionale.",
-    "data": "2026-07-07T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
