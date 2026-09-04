@@ -21,7 +21,7 @@
   },
   {
     "id": "e77b8387cb3a",
-    "titolo": "Nidi, più ore per la famiglia senza aumento della tariffa",
+    "titolo": "Nidi: più ore per la famiglia senza aumento della tariffa",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-piu-ore-per-famiglia-senza-aumento-della-tariffa",
     "descrizione": "Più ore di apertura dei nidi comunali, senza costi aggiuntivi per le famiglie. La Regione Piemonte investe 1,48 milioni di euro di risorse del Fondo Sociale Europeo per ampliare i servizi all’infanzia già a partire dall’anno educativo 2026-2027. Sono 77 i…",
     "data": "2026-09-04T10:33:49+02:00",
@@ -175,6 +175,16 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ferrovia-biella-novara-rfi-presenta-gli-studi-alla-regione",
     "descrizione": "Si è svolto il 1° settembre, al Palazzo della Regione Piemonte, l’incontro tra Regione Piemonte, Rete Ferroviaria Italiana e i rappresentanti dei territori interessati dalla linea ferroviaria Biella-Novara, convocato per fare il punto sugli studi progettuali commissionati a RFI sull’…",
     "data": "2026-09-01T16:04:31+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "38606629a1b2",
+    "titolo": "Maltempo e calamità, nasce il “pronto intervento” per le scuole danneggiate",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-calamita-nasce-pronto-intervento-per-scuole-danneggiate",
+    "descrizione": "La Regione Piemonte mette in campo un nuovo strumento per intervenire rapidamente quando un evento calamitoso compromette la funzionalità di un edificio scolastico. La Giunta regionale ha approvato una misura sperimentale dedicata agli enti locali che devono affrontare…",
+    "data": "2026-09-01T13:58:16+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
@@ -1985,16 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-terra-madre-salone-gusto-2026",
     "descrizione": "L’edizione 2026 di Terra Madre Salone del Gusto si svolgerà dal 24 al 27 settembre a Torino per la prima volta nel cuore del centro storico, trasformando piazze, vie e palazzi in un grande spazio diffuso dedicato al cibo \"buono…",
     "data": "2026-07-08T16:10:19+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "e4a6a8e351dc",
-    "titolo": "Luci e ombre per il vino piemontese",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/luci-ombre-per-vino-piemontese",
-    "descrizione": "Il vino piemontese continua a dimostrare forza sui mercati internazionali, ma allo stesso tempo deve fare i conti con una difficoltà che interessa numerose aziende e alcune delle principali denominazioni: questa la situazione del settore illustrata alla Terza Commissione del…",
-    "data": "2026-07-08T15:15:37+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
