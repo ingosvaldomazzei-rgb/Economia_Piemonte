@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "ab49506f4ff1",
+    "titolo": "Commercio al dettaglio in sede fissa - decadenza cessata attività.",
+    "link": "https://www.comune.torino.it/novita/avvisi/commercio-al-dettaglio-sede-fissa-decadenza-cessata-attivita-1",
+    "descrizione": "Attività di commercio al dettaglio in sede fissa - decadenza per cessata attività.",
+    "data": "2026-09-04T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e77b8387cb3a",
+    "titolo": "Nidi, più ore per la famiglia senza aumento della tariffa",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-piu-ore-per-famiglia-senza-aumento-della-tariffa",
+    "descrizione": "Più ore di apertura dei nidi comunali, senza costi aggiuntivi per le famiglie. La Regione Piemonte investe 1,48 milioni di euro di risorse del Fondo Sociale Europeo per ampliare i servizi all’infanzia già a partire dall’anno educativo 2026-2027. Sono 77 i…",
+    "data": "2026-09-04T10:33:49+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "bfda1405f831",
     "titolo": "Distretto manifatturiero unico del Nord",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/distretto-manifatturiero-unico-nord",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "d45a69f17042",
-    "titolo": "Corso Moncalieri: al via i lavori sul marciapiede per un accesso più sicuro al Parco Leopardi. Cantieri su corso Regina e in via Cigna",
-    "link": "https://www.comune.torino.it/novita/comunicati/corso-moncalieri-al-via-lavori-sul-marciapiede-per-un-accesso-piu-sicuro-al",
-    "descrizione": "Prenderanno il via venerdì 10 luglio i lavori di allargamento del marciapiede di corso Moncalieri, nel tratto compreso tra il Ponte Isabella e via Febo.",
-    "data": "2026-07-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "bbef429e6eff",
-    "titolo": "\"Lo sai che la tua mensa...\"",
-    "link": "https://www.comune.torino.it/novita/notizie/sai-che-tua-mensa",
-    "descrizione": "La nuova rubrica del Laboratorio Chimico della Camera di Commercio di Torino.",
-    "data": "2026-07-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
