@@ -10,6 +10,46 @@
     "colore": "#dc2626"
   },
   {
+    "id": "5ac56f1e8d1f",
+    "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – ottobre 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-4",
+    "descrizione": "Pubblicazione del calendario eventi programmati nei pressi dello Stadio Olimpico – Inalpi Arena nel prossimo mese di ottobre 2026",
+    "data": "2026-09-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "02c621c84057",
+    "titolo": "Nuovo punto informativo in Circoscrizione 7",
+    "link": "https://www.comune.torino.it/novita/notizie/nuovo-punto-informativo-circoscrizione-7",
+    "descrizione": "Presso il Centro civico di corso Vercelli 15 partono le attività del PIÙ 7, il nuovo Punto Informativo Unificato.",
+    "data": "2026-09-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "35aaa6692a7c",
+    "titolo": "Il Piemonte protagonista in Thailandia all'International Festival of Dance",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-protagonista-thailandia-allinternational-festival-of-dance",
+    "descrizione": "Avere il Teatro Regio di Torino tra gli ospiti dell’edizione 2027 del più importante evento culturale del mondo asiatico dedicato alle arti dello spettacolo: è l’obiettivo dell’International Festival of Dance and Music, che ha inaugurato in queste ore a Bangkok la sua 28ª edizione, alla presenza…",
+    "data": "2026-09-07T10:04:34+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "b19ff9cc0eff",
+    "titolo": "Oltre 3 milioni per migliorare le risorse irrigue in agricoltura",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oltre-3-milioni-per-migliorare-risorse-irrigue-agricoltura",
+    "descrizione": "«Sono in arrivo dal Masaf oltre 3,3 milioni di euro di nuove risorse per microinvasi aziendali e interventi di miglioramento nell’uso delle risorse irrigue in agricoltura. Vanno a rafforzare la dotazione finanziaria dei due bandi che la Regione Piemonte ha attivato su questo…",
+    "data": "2026-09-07T09:45:17+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "ab49506f4ff1",
     "titolo": "Commercio al dettaglio in sede fissa - decadenza cessata attività.",
     "link": "https://www.comune.torino.it/novita/avvisi/commercio-al-dettaglio-sede-fissa-decadenza-cessata-attivita-1",
@@ -18,6 +58,16 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "7059312f7ab5",
+    "titolo": "Bando Ecomusei, 450 mila euro per il sostegno delle attività",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-ecomusei-450-mila-euro-per-sostegno-delle-attivita",
+    "descrizione": "Dalla Regione quasi 450 mila euro per sostenere le attività degli Ecomusei regionali, una rete di 25 realtà diffuse sul territorio regionale che custodiscono e valorizzano il patrimonio culturale, ambientale e identitario delle comunità. È stato…",
+    "data": "2026-09-04T11:09:46+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "e77b8387cb3a",
@@ -43,6 +93,16 @@
     "id": "57291a157d10",
     "titolo": "Regione Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
+    "descrizione": "Il Piemonte si conferma la locomotiva italiana della transizione digitale. Secondo l’indagine Istat sulla diffusione delle Ict nelle imprese con più di 10 dipendenti, il Piemonte nel 2025 è la regione che registra la percentuale più elevata in Italia di imprese che utilizzano l'Intelligenza…",
+    "data": "2026-09-03T13:47:24+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "6aee2ba40fce",
+    "titolo": "Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
     "descrizione": "Il Piemonte si conferma la locomotiva italiana della transizione digitale. Secondo l’indagine Istat sulla diffusione delle Ict nelle imprese con più di 10 dipendenti, il Piemonte nel 2025 è la regione che registra la percentuale più elevata in Italia di imprese che utilizzano l'Intelligenza…",
     "data": "2026-09-03T13:47:24+02:00",
     "fonte": "Regione Piemonte",
@@ -133,7 +193,7 @@
     "id": "94574a312336",
     "titolo": "È stata adottata la Proposta Tecnica del Progetto Definitivo del nuovo PRG",
     "link": "https://www.comune.torino.it/novita/notizie/stata-adottata-proposta-tecnica-progetto-definitivo-nuovo-prg",
-    "descrizione": "Approvata la proposta tecnica del progetto definitivo del PRG di Torino",
+    "descrizione": "Approvata la proposta tecnica del progetto definitivo del PRG di Torino.",
     "data": "2026-09-02T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -313,7 +373,7 @@
     "id": "5a1487d8e2a9",
     "titolo": "Corso Vercelli e via Filadelfia: da lunedì 31 agosto lavori di rifacimento del manto stradale",
     "link": "https://www.comune.torino.it/novita/comunicati/corso-vercelli-via-filadelfia-lunedi-31-agosto-lavori-rifacimento-manto-stradale",
-    "descrizione": "Gli interventi rientrano nel piano straordinario di manutenzione del suolo pubblico “Torino Cambia – Spazi che uniscono” sostenuto da Fondazione CRT",
+    "descrizione": "Gli interventi rientrano nel piano straordinario di manutenzione del suolo pubblico “Torino Cambia – Spazi che uniscono” sostenuto da Fondazione CRT.",
     "data": "2026-08-28T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1938,65 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "43fb70a80a0c",
-    "titolo": "Chiusura della Biblioteca Pedagogica nel mese di agosto",
-    "link": "https://www.comune.torino.it/novita/notizie/chiusura-della-biblioteca-pedagogica-nel-mese-agosto",
-    "descrizione": "Chiusura della Biblioteca Pedagogica nel mese di agosto per le vacanze estive.",
-    "data": "2026-07-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "62077d2bb730",
-    "titolo": "Dalla materia di scarto al valore condiviso: al via il nuovo Living Lab Torino Circolare",
-    "link": "https://www.comune.torino.it/novita/comunicati/dalla-materia-scarto-al-valore-condiviso-al-via-nuovo-living-lab-torino",
-    "descrizione": "Nell’economia circolare nulla si perde davvero: ciò che oggi è uno scarto può diventare una nuova risorsa.",
-    "data": "2026-07-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8ed916116ed6",
-    "titolo": "Metro 1, lettera dei sindaci al Governo per chiedere un incontro urgente",
-    "link": "https://www.comune.torino.it/novita/comunicati/metro-1-lettera-dei-sindaci-al-governo-per-chiedere-un-incontro-urgente",
-    "descrizione": "I sindaci chiedono un incontro istituzionale urgente al Ministero delle Infrastrutture e dei Trasporti e un’audizione alle commissioni competenti.",
-    "data": "2026-07-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2c4b015059a9",
-    "titolo": "Chiusura ufficio Permessi ZTL",
-    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-ufficio-permessi-ztl",
-    "descrizione": "Chiusura ufficio permessi",
-    "data": "2026-07-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f53418f544dc",
-    "titolo": "Nessun blocco delle assunzioni nella sanità piemontese",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nessun-blocco-delle-assunzioni-nella-sanita-piemontese",
-    "descrizione": "La Regione Piemonte, in riferimento alle dichiarazioni diffuse nelle scorse ore, precisa che il presunto blocco delle assunzioni nel Servizio sanitario regionale non corrisponde al contenuto della nota trasmessa alle Asl. «L'obiettivo del provvedimento - precisa l’assessore alla Sanità…",
-    "data": "2026-07-08T18:43:40+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "fa2d550f6f2d",
-    "titolo": "Le novità di Terra Madre Salone del Gusto 2026",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/novita-terra-madre-salone-gusto-2026",
-    "descrizione": "L’edizione 2026 di Terra Madre Salone del Gusto si svolgerà dal 24 al 27 settembre a Torino per la prima volta nel cuore del centro storico, trasformando piazze, vie e palazzi in un grande spazio diffuso dedicato al cibo \"buono…",
-    "data": "2026-07-08T16:10:19+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

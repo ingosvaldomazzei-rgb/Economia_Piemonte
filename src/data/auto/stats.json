@@ -1,24 +1,24 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 119,
-    "regione": 81
+    "comune_torino": 117,
+    "regione": 83
   },
   "temi_attivi": [
     {
-      "tema": "agricoltura",
+      "tema": "cultura-beni-culturali",
       "conteggio": 20
     },
     {
-      "tema": "cultura-beni-culturali",
-      "conteggio": 19
+      "tema": "agricoltura",
+      "conteggio": 20
     },
     {
       "tema": "lavoro-occupazione",
       "conteggio": 18
     },
     {
-      "tema": "sociale-welfare",
+      "tema": "pianificazione-territoriale",
       "conteggio": 13
     },
     {
@@ -26,8 +26,8 @@
       "conteggio": 13
     },
     {
-      "tema": "pianificazione-territoriale",
-      "conteggio": 12
+      "tema": "sociale-welfare",
+      "conteggio": 13
     },
     {
       "tema": "sanita-regionale",
