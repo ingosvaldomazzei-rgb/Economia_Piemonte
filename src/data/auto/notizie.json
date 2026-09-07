@@ -30,6 +30,86 @@
     "colore": "#dc2626"
   },
   {
+    "id": "2f864e490026",
+    "titolo": "Approvata mozione per sicurezza, decoro e manutenzione del quartiere Vanchiglietta",
+    "link": "https://www.comune.torino.it/novita/comunicati/approvata-mozione-per-sicurezza-decoro-manutenzione-quartiere-vanchiglietta",
+    "descrizione": "Il Consiglio Comunale di Torino ha approvato all'unanimità la mozione \"Non dimentichiamoci di Vanchiglietta\"",
+    "data": "2026-09-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d3b7ce5cc429",
+    "titolo": "Deiezioni canine e decoro urbano",
+    "link": "https://www.comune.torino.it/novita/comunicati/deiezioni-canine-decoro-urbano",
+    "descrizione": "stimolare comportamenti responsabili e aumentare il livello di responsabilità civica",
+    "data": "2026-09-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0e0f67a8f64d",
+    "titolo": "Sala Rossa: approvato l'ordine del giorno per la neutralità della professione sanitaria nei conflitti armati e solidarietà al dottor Hussam Abu Safiya",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-lordine-giorno-per-neutralita-della-professione-sanitaria",
+    "descrizione": "approvata una proposta di ordine del giorno per tutelare la neutralità della professione sanitaria nei contesti di guerra",
+    "data": "2026-09-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "88ce44b03fa2",
+    "titolo": "Via Gioberti 5, al via la riqualificazione dell'ex succursale Alfieri",
+    "link": "https://www.comune.torino.it/novita/comunicati/via-gioberti-5-al-via-riqualificazione-dellex-succursale-alfieri",
+    "descrizione": "Il Consiglio comunale ha approvato la riqualificazione della ex sede del liceo classico Vittorio Alfieri; sarà demolito e ricostruito.",
+    "data": "2026-09-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bd109655da78",
+    "titolo": "Torino si riaccende con lo sport e la cultura: al via l’edizione 2026 di “Festa dello Sport & Circoscrizioni in Mostra”",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-si-riaccende-sport-cultura-al-via-ledizione-2026-festa-dello-sport",
+    "descrizione": "Tre fine settimana di eventi gratuiti, prove aperte, laboratori e spettacoli diffusi nei parchi e nelle aree verdi di tutti i quartieri cittadini.",
+    "data": "2026-09-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "038a171aee84",
+    "titolo": "Via Banfo 43, approvata la riqualificazione",
+    "link": "https://www.comune.torino.it/novita/comunicati/via-banfo-43-approvata-riqualificazione",
+    "descrizione": "Il Consiglio comunale ha approvato la riqualificazione di 2.800 metri quadri dell'ex edificio industriale di via Banfo 43 nel cuore di Barriera di Milano",
+    "data": "2026-09-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9a6b6927d997",
+    "titolo": "Volontariato in carcere, firmata la dichiarazione d’intenti tra presidenza del Consiglio comunale, Garante dei detenuti e Lions Club distretto 108ia1",
+    "link": "https://www.comune.torino.it/novita/comunicati/volontariato-carcere-firmata-dichiarazione-dintenti-presidenza-consiglio",
+    "descrizione": "Firmata questa mattina, a Palazzo Civico, la Dichiarazione di intenti relativa ai “Nuovi cantieri di volontariato – Anno 2026”.",
+    "data": "2026-09-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "613ca83b5602",
+    "titolo": "Aperto il PIÙ della Circoscrizione 7: in corso Vercelli un unico spazio per informazioni, URP, GTT e occupabilità",
+    "link": "https://www.comune.torino.it/novita/comunicati/aperto-piu-della-circoscrizione-7-corso-vercelli-un-unico-spazio-per",
+    "descrizione": "Da oggi i cittadini della Circoscrizione 7 hanno un nuovo punto di riferimento PIÙ in corso Vercelli 15.",
+    "data": "2026-09-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "35aaa6692a7c",
     "titolo": "Il Piemonte protagonista in Thailandia all'International Festival of Dance",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-protagonista-thailandia-allinternational-festival-of-dance",
@@ -153,7 +233,7 @@
     "id": "e708e4fa8e97",
     "titolo": "Torino Cambia. 800 metri quadrati, 30mila documenti, una nuova sala da 40 posti: ecco la nuova Biblioteca Carluccio",
     "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-800-metri-quadrati-30mila-documenti-una-nuova-sala-40-posti-ecco",
-    "descrizione": "La biblioteca si presenta oggi rinnovata grazie al completamento del secondo e più consistente lotto di lavori realizzato nell'ambito del PNRR",
+    "descrizione": "La biblioteca si presenta oggi rinnovata grazie al completamento del secondo e più consistente lotto di lavori realizzato nell'ambito del PNRR.",
     "data": "2026-09-03T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -253,7 +333,7 @@
     "id": "ed49627e70ee",
     "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
     "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
-    "descrizione": "Il passaggio amministrativo formale chiude l'istruttoria sulle 875 osservazioni pervenute al Progetto Preliminare e consegna il Piano alla fase decisionale",
+    "descrizione": "Il passaggio amministrativo formale chiude l'istruttoria sulle 875 osservazioni pervenute al Progetto Preliminare e consegna il Piano alla fase decisionale.",
     "data": "2026-09-01T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -263,7 +343,7 @@
     "id": "7311e9ac7e2d",
     "titolo": "NCC abusivo scoperto dalla Polizia Locale grazie ai controlli della ZTL: documenti falsi e computer sequestrati",
     "link": "https://www.comune.torino.it/novita/comunicati/ncc-abusivo-scoperto-dalla-polizia-locale-grazie-ai-controlli-della-ztl",
-    "descrizione": "A insospettire gli agenti del Reparto Sicurezza Stradale Integrata sono stati i numerosi transiti di un veicolo immatricolato per uso privato",
+    "descrizione": "A insospettire gli agenti del Reparto Sicurezza Stradale Integrata sono stati i numerosi transiti di un veicolo immatricolato per uso privato.",
     "data": "2026-09-01T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -340,6 +420,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "1a049bea0793",
+    "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
+    "link": "https://www.comune.torino.it/novita/comunicati/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
+    "descrizione": "Come cambia un territorio quando una città impara a guardare ciò che la attraversa?",
+    "data": "2026-08-31T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "490103bd3f43",
     "titolo": "Scoprire il talento, costruire il futuro",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scoprire-talento-costruire-futuro",
@@ -363,7 +453,7 @@
     "id": "bc82b2c90944",
     "titolo": "Innovazione, ricerca e cooperazione internazionale al centro della missione istituzionale della Città di Torino in Brasile",
     "link": "https://www.comune.torino.it/novita/comunicati/innovazione-ricerca-cooperazione-internazionale-al-centro-della-missione",
-    "descrizione": "Una missione articolata in diverse tappe tra San Paolo, Campinas, Campo Grande e Brasilia",
+    "descrizione": "Una missione articolata in diverse tappe tra San Paolo, Campinas, Campo Grande e Brasilia.",
     "data": "2026-08-29T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1905,96 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/per-tutela-dei-diritti-dei-rider",
     "descrizione": "Il Consiglio comunale ha approvato due atti di indirizzo per la tutela dei diritti dei rider.",
     "data": "2026-07-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "becf831a9bdd",
-    "titolo": "Due mozioni per la casa approvate in Sala Rossa",
-    "link": "https://www.comune.torino.it/novita/comunicati/due-mozioni-per-casa-approvate-sala-rossa",
-    "descrizione": "Entrambe fanno riferimento al recente decreto legge n. 66/2026, recante disposizioni urgenti in materia di politiche abitative, il cosiddetto “Piano Casa”...",
-    "data": "2026-07-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d665d8e8241e",
-    "titolo": "L'impegno del Comune contro le frodi digitali",
-    "link": "https://www.comune.torino.it/novita/comunicati/limpegno-comune-contro-frodi-digitali",
-    "descrizione": "La Sala Rossa ha approvato oggi, con voto unanime, un documento che individua le linee guida dell'azione del Comune per contrastare le frodi digitali",
-    "data": "2026-07-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4813ceff0965",
-    "titolo": "A Palazzo Civico la firma del protocollo che istituisce il tavolo di coordinamento di Torino Città creativa Unesco del Design",
-    "link": "https://www.comune.torino.it/novita/comunicati/palazzo-civico-firma-protocollo-che-istituisce-tavolo-coordinamento-torino-citta",
-    "descrizione": "Il protocollo di intesa affida al Politecnico di Torino l’incarico di coordinare e sviluppare il progetto sotto il profilo scientifico, tecnico e curatoriale.",
-    "data": "2026-07-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8e9e2bee14bc",
-    "titolo": "Lea 2024, il Piemonte al 4° posto nazionale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lea-2024-piemonte-al-4deg-posto-nazionale",
-    "descrizione": "Il Piemonte migliora ancora la propria posizione e arriva al quarto posto nella classifica nazionale dei Livelli Essenziali di Assistenza (LEA), elaborata dal Ministero della Salute attraverso gli indicatori CORE del Nuovo Sistema di Garanzia relativi all'anno 2024. Il…",
-    "data": "2026-07-13T09:07:06+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "c4dab082403b",
-    "titolo": "La Regione al lavoro per iniziare il ripristino dei boschi bruciati dagli incendi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-al-lavoro-per-iniziare-ripristino-dei-boschi-bruciati-dagli-incendi",
-    "descrizione": "Passata per fortuna l’emergenza provocata dagli incendi che si sono sviluppati nei giorni scorsi in diverse zone del Piemonte, la Regione è già al lavoro per attivare i piani di ripristino ambientale dei boschi bruciati dalle fiamme. \"Ci si occuperà immediatamente dei…",
-    "data": "2026-07-11T18:59:12+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "1abd15f9bad9",
-    "titolo": "La Regione progetta il ripristino dei boschi bruciati dagli incendi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-progetta-ripristino-dei-boschi-bruciati-dagli-incendi",
-    "descrizione": "Passata per fortuna l’emergenza provocata dagli incendi che si sono sviluppati nei giorni scorsi in diverse zone del Piemonte, la Regione è già al lavoro per attivare i piani di ripristino ambientale dei boschi bruciati dalle fiamme. \"Ci si occuperà immediatamente dei…",
-    "data": "2026-07-11T18:59:12+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "05f41e85fb48",
-    "titolo": "Parco della salute di Torino: più posti letto e laboratori, avvio dei cantieri a inizio 2027",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/parco-della-salute-torino-piu-posti-letto-laboratori-avvio-dei-cantieri-inizio-2027",
-    "descrizione": "Aggiornato dal collegio di vigilanza il progetto del Parco della Salute di Torino: le principali novità dell’adeguamento progettuale, affidato al Politecnico di Milano per recepire le normative introdotte dopo il 2017, sono l’aumento dei…",
-    "data": "2026-07-09T18:43:18+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "2e3b68797a00",
-    "titolo": "Avviso Pubblico Beni Confiscati n. 1/2026",
-    "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-beni-confiscati-n-12026",
-    "descrizione": "Individuazione di enti ed associazioni cui concedere, a titolo gratuito, n. 2 immobili di proprietà comunale confiscati alla criminalità organizzata.",
-    "data": "2026-07-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "ebdebec75e38",
-    "titolo": "Giornate di pattinaggio libero presso il Pala Tazzoli",
-    "link": "https://www.comune.torino.it/novita/notizie/giornate-pattinaggio-libero-presso-pala-tazzoli-0",
-    "descrizione": "Apertura dello Stadio del Ghiaccio Tazzoli di via Sanremo 67 per la seconda serata di pattinaggio libero.",
-    "data": "2026-07-09T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
