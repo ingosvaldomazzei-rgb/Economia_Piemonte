@@ -271,7 +271,89 @@
       "fonte_id": "regione"
     }
   ],
+  "attivita-produttive": [
+    {
+      "id": "91fdef2781da",
+      "titolo": "Credito alle imprese, la cabina di regia delle Regioni del Nord apre il confronto con ABI",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/credito-alle-imprese-cabina-regia-delle-regioni-nord-apre-confronto-abi",
+      "data": "2026-09-07T16:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "57291a157d10",
+      "titolo": "Regione Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
+      "data": "2026-09-03T13:47:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6aee2ba40fce",
+      "titolo": "Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
+      "data": "2026-09-03T13:47:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4f2f9de167ac",
+      "titolo": "Il Piemonte guida l'innovazione in Europa: arriva l'intelligenza artificiale per ridurre lo smog",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-guida-linnovazione-europa-arriva-lintelligenza-artificiale-per-ridurre-smog",
+      "data": "2026-09-03T12:06:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "340cec5e80ac",
+      "titolo": "Piemonte Film Tv Fund, al via la seconda sessione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-al-via-seconda-sessione",
+      "data": "2026-08-31T16:04:20+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bc82b2c90944",
+      "titolo": "Innovazione, ricerca e cooperazione internazionale al centro della missione istituzionale della Città di Torino in Brasile",
+      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-ricerca-cooperazione-internazionale-al-centro-della-missione",
+      "data": "2026-08-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "92a94480a4b1",
+      "titolo": "L’assestamento di bilancio rafforza i conti della Regione e garantisce servizi e investimenti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lassestamento-bilancio-rafforza-conti-della-regione-garantisce-servizi-investimenti",
+      "data": "2026-07-31T15:54:39+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ddc97b927c84",
+      "titolo": "Artigianato, al via le Aree di Sviluppo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/artigianato-al-via-aree-sviluppo",
+      "data": "2026-07-21T09:53:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "030669fa8a9e",
+      "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
+      "data": "2026-07-17T10:37:44+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "lavoro-occupazione": [
+    {
+      "id": "91fdef2781da",
+      "titolo": "Credito alle imprese, la cabina di regia delle Regioni del Nord apre il confronto con ABI",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/credito-alle-imprese-cabina-regia-delle-regioni-nord-apre-confronto-abi",
+      "data": "2026-09-07T16:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "5ac56f1e8d1f",
       "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – ottobre 2026",
@@ -1159,72 +1241,6 @@
       "titolo": "Torino-Lione: disponibili per i Comuni 50,2 milioni per le opere compensative",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-disponibili-per-comuni-502-milioni-per-opere-compensative",
       "data": "2026-07-14T16:36:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "attivita-produttive": [
-    {
-      "id": "57291a157d10",
-      "titolo": "Regione Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
-      "data": "2026-09-03T13:47:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6aee2ba40fce",
-      "titolo": "Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
-      "data": "2026-09-03T13:47:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4f2f9de167ac",
-      "titolo": "Il Piemonte guida l'innovazione in Europa: arriva l'intelligenza artificiale per ridurre lo smog",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-guida-linnovazione-europa-arriva-lintelligenza-artificiale-per-ridurre-smog",
-      "data": "2026-09-03T12:06:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "340cec5e80ac",
-      "titolo": "Piemonte Film Tv Fund, al via la seconda sessione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-al-via-seconda-sessione",
-      "data": "2026-08-31T16:04:20+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bc82b2c90944",
-      "titolo": "Innovazione, ricerca e cooperazione internazionale al centro della missione istituzionale della Città di Torino in Brasile",
-      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-ricerca-cooperazione-internazionale-al-centro-della-missione",
-      "data": "2026-08-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "92a94480a4b1",
-      "titolo": "L’assestamento di bilancio rafforza i conti della Regione e garantisce servizi e investimenti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lassestamento-bilancio-rafforza-conti-della-regione-garantisce-servizi-investimenti",
-      "data": "2026-07-31T15:54:39+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ddc97b927c84",
-      "titolo": "Artigianato, al via le Aree di Sviluppo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/artigianato-al-via-aree-sviluppo",
-      "data": "2026-07-21T09:53:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "030669fa8a9e",
-      "titolo": "Gli obiettivi del Piemonte per la transizione energetica",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/gli-obiettivi-piemonte-per-transizione-energetica",
-      "data": "2026-07-17T10:37:44+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
