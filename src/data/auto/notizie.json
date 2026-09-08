@@ -10,6 +10,56 @@
     "colore": "#dc2626"
   },
   {
+    "id": "eed074f6985e",
+    "titolo": "Tavolo verde sulla siccità",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tavolo-verde-sulla-siccita",
+    "descrizione": "L’assessore all' Agricoltura e Cibo Paolo Bongioanni ha riunito al Grattacielo Piemonte il Tavolo Verde, l’organo consultivo che riunisce le associazioni di categoria agricole e i rappresentanti delle organizzazioni cooperative a livello piemontese. Tre i…",
+    "data": "2026-09-08T13:37:40+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "e5d0bacf8463",
+    "titolo": "Piazza Derna: lavori notturni di riasfaltatura giovedì 10 e venerdì 11 settembre",
+    "link": "https://www.comune.torino.it/novita/comunicati/piazza-derna-lavori-notturni-riasfaltatura-giovedi-10-venerdi-11-settembre",
+    "descrizione": "Nelle notti di giovedì 10 e venerdì 11 settembre sono previsti i lavori di riasfaltatura della rotatoria di piazza Derna.",
+    "data": "2026-09-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "358d12d5b0e6",
+    "titolo": "Nuova vita ai chioschi abbandonati: diventeranno spazi di cultura, socialità e impresa nei quartieri",
+    "link": "https://www.comune.torino.it/novita/comunicati/nuova-vita-ai-chioschi-abbandonati-diventeranno-spazi-cultura-socialita-impresa",
+    "descrizione": "Arriva alle battute finali il percorso che la Città ha intrapreso per il rilancio dei chioschi cittadini dismessi.",
+    "data": "2026-09-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "29847c2709aa",
+    "titolo": "Domande per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (oggettistica) in Via Verdi – Via Sant'Ottavio",
+    "link": "https://www.comune.torino.it/novita/notizie/domande-per-rilascio-autorizzazioni-stagionali-concessione-suolo-pubblico-per-0",
+    "descrizione": "È possibile inoltrare le domande per il rilascio delle autorizzazioni stagionali per l'attività di vendita di prodotti non alimentari (Oggettistica)",
+    "data": "2026-09-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d799cb2dafda",
+    "titolo": "Via Roma: inizia una nuova storia. Sabato 12 settembre la grande festa per l’inaugurazione della nuova via pedonale",
+    "link": "https://www.comune.torino.it/novita/comunicati/via-roma-inizia-una-nuova-storia-sabato-12-settembre-grande-festa-per",
+    "descrizione": "Al termine dei lavori di riqualificazione, uno dei luoghi più riconoscibili e amati della città viene interamente restituito ai torinesi nel suo nuovo volto.",
+    "data": "2026-09-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "91fdef2781da",
     "titolo": "Credito alle imprese, la cabina di regia delle Regioni del Nord apre il confronto con ABI",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/credito-alle-imprese-cabina-regia-delle-regioni-nord-apre-confronto-abi",
@@ -1944,56 +1994,6 @@
     "titolo": "Borgo Medievale, a fine luglio la conclusione dei lavori di restauro. Sopralluogo del Sindaco al cantiere",
     "link": "https://www.comune.torino.it/novita/comunicati/borgo-medievale-fine-luglio-conclusione-dei-lavori-restauro-sopralluogo-sindaco",
     "descrizione": "Il sindaco Stefano Lo Russo ha visitato il cantiere del Borgo Medievale, dove si avviano a conclusione gli interventi di restauro e rifunzionalizzazione.",
-    "data": "2026-07-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2c4828207f05",
-    "titolo": "Carburanti e crisi dei gestori",
-    "link": "https://www.comune.torino.it/novita/comunicati/carburanti-crisi-dei-gestori",
-    "descrizione": "La riforma del settore della distribuzione carburanti è il tema di un ordine del giorno approvato dalla Sala Rossa, questo pomeriggio...",
-    "data": "2026-07-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b59a477712c3",
-    "titolo": "Dalla Sala Rossa la richiesta a Iren di confermare i bonus energetici",
-    "link": "https://www.comune.torino.it/novita/comunicati/dalla-sala-rossa-richiesta-iren-confermare-bonus-energetici",
-    "descrizione": "Un documento votato dal Consiglio comunale chiede che Iren SpA rinnovi i bonus energetici applicati per alcune fasce escluse dal Decreto Bollette",
-    "data": "2026-07-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "483b4c6dbd03",
-    "titolo": "Il Consiglio comunale chiede maggiore trasparenza sull'origine dei prodotti agricoli",
-    "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-chiede-maggiore-trasparenza-sullorigine-dei-prodotti-agricoli",
-    "descrizione": "Il Consiglio comunale ha approvato un ordine del giorno che impegna la Giunta ad attivarsi sulla trasparenza dell'origine dei prodotti agricoli",
-    "data": "2026-07-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "ccc46530450b",
-    "titolo": "La Sala Rossa chiede l’intitolazione di una scuola a Fiorenzo Alfieri",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-chiede-lintitolazione-una-scuola-fiorenzo-alfieri",
-    "descrizione": "Approva all'unanimità la mozione proposta da Angelo Catanzaro e Lorenza Patriarca (PD)",
-    "data": "2026-07-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "10f75de44e3f",
-    "titolo": "La Città aderisca alla Carta etica dello sport",
-    "link": "https://www.comune.torino.it/novita/comunicati/citta-aderisca-alla-carta-etica-dello-sport",
-    "descrizione": "La nuova Carta etica dello Sport, promossa dall’associazione omonima, ricalibrata sulle nuove tematiche emergenti nel mondo sportivo locale e nazionale...",
     "data": "2026-07-13T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

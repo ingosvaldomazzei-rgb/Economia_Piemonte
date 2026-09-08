@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 120,
-    "regione": 80
+    "comune_torino": 119,
+    "regione": 81
   },
   "temi_attivi": [
     {
@@ -30,15 +30,15 @@
       "conteggio": 13
     },
     {
-      "tema": "istruzione-formazione",
-      "conteggio": 11
-    },
-    {
       "tema": "sanita-regionale",
       "conteggio": 10
     },
     {
       "tema": "fondi-europei",
+      "conteggio": 10
+    },
+    {
+      "tema": "istruzione-formazione",
       "conteggio": 10
     },
     {
