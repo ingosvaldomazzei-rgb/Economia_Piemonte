@@ -80,6 +80,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "d6029cb22b5b",
+    "titolo": "Falchera, inaugurato il nuovo anello tranviario: dal 14 settembre la linea 4 torna a correre sull’intero percorso con i tram Hitachi Rail",
+    "link": "https://www.comune.torino.it/novita/comunicati/falchera-inaugurato-nuovo-anello-tranviario-14-settembre-linea-4-torna-correre",
+    "descrizione": "Da lunedì 14 settembre, in occasione dell’avvio dell’anno scolastico, la linea 4 tornerà a percorrere l’intero tracciato con i nuovi tram Hitachi Rail.",
+    "data": "2026-09-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "eed074f6985e",
     "titolo": "Tavolo verde sulla siccità",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tavolo-verde-sulla-siccita",
@@ -1984,16 +1994,6 @@
     "titolo": "Torino Strange Orchestra",
     "link": "https://www.comune.torino.it/novita/avvisi/torino-strange-orchestra",
     "descrizione": "Un'orchestra fuori dall'ordinario, dove le musiche, senza confini di genere, si incontrano.",
-    "data": "2026-07-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8b62b0a97c2f",
-    "titolo": "Una via dedicata a don Aldo Rabino",
-    "link": "https://www.comune.torino.it/novita/comunicati/una-via-dedicata-don-aldo-rabino",
-    "descrizione": "Da oggi, la via d’accesso al Centro sportivo “Robaldo”, nel quartiere Mirafiori, è intitolata a don Aldo Rabino, sacerdote salesiano, fondatore di OASI...",
     "data": "2026-07-15T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
