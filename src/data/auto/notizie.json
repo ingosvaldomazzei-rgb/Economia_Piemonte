@@ -20,6 +20,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "d1386071c157",
+    "titolo": "Incendi boschivi, la Regione Piemonte revoca lo stato di massima pericolosità",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-regione-piemonte-revoca-stato-massima-pericolosita",
+    "descrizione": "La Regione Piemonte ha disposto la chiusura dello stato di massima pericolosità per gli incendi boschivi su tutto il territorio regionale a partire da venerdì 11 settembre 2026. Il provvedimento è stato adottato con la Determinazione dirigenziale n. 1725 del 9 settembre 2026, sulla base…",
+    "data": "2026-09-09T15:45:50+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "15967e99da51",
+    "titolo": "Cabina di regia Nord Ovest, bando per la filiera dell'industria energetica",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cabina-regia-nord-ovest-bando-per-filiera-dellindustria-energetica",
+    "descrizione": "Tre milioni a sostegno della filiera dell'industria energetica del Nord-Ovest. A illustrare la misura, la prima a livello interregionale, Alessio Piana, Guido Guidesi e Andrea Tronzano, assessori allo Sviluppo economico di Liguria, Lombardia e…",
+    "data": "2026-09-09T13:35:47+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "1e2eb5e90533",
     "titolo": "Arcate ex Moi verso il recupero, dalla Giunta via al secondo lotto di lavori",
     "link": "https://www.comune.torino.it/novita/comunicati/arcate-ex-moi-verso-recupero-dalla-giunta-via-al-secondo-lotto-lavori",
@@ -44,6 +64,16 @@
     "titolo": "Salone Auto Torino. Previste modifiche alla viabilità da giovedì 10 a domenica 13 settembre",
     "link": "https://www.comune.torino.it/novita/comunicati/salone-auto-torino-previste-modifiche-alla-viabilita-giovedi-10-domenica-13",
     "descrizione": "Da venerdì 11 a domenica 13 settembre si terrà il \"Salone Auto Torino\", che occuperà con i propri spazi espositivi Piazza Castello e le aree limitrofe.",
+    "data": "2026-09-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "cef8dd28c42e",
+    "titolo": "Sette posti per costruire l’autonomia: inaugurato “Un piazzale di sogni”, housing per giovani in condizioni di fragilità",
+    "link": "https://www.comune.torino.it/novita/comunicati/sette-posti-per-costruire-lautonomia-inaugurato-un-piazzale-sogni-housing-per",
+    "descrizione": "È stato inaugurato questa mattina in piazzale Grande Torino 81 bis \"Un piazzale di sogni\", progetto di Housing First.",
     "data": "2026-09-09T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1968,35 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "22767512024e",
-    "titolo": "CFM Torino Strange Orchestra",
-    "link": "https://www.comune.torino.it/novita/avvisi/cfm-torino-strange-orchestra",
-    "descrizione": "Un'orchestra fuori dall'ordinario, dove le musiche, senza confini di genere, si incontrano.",
-    "data": "2026-07-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "10f37a1e5fca",
-    "titolo": "Beni confiscati: accordo per rafforzare la lotta contro le mafie",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/beni-confiscati-accordo-per-rafforzare-lotta-contro-mafie",
-    "descrizione": "Sottoscritto al Viminale, alla presenza del ministro dell’Interno Matteo Piantedosi e del sottosegretario Wanda Ferro, un accordo tra Regione Piemonte e Agenzia nazionale per l’Amministrazione e la Destinazione dei Beni sequestrati e confiscati alla criminalità organizzata (Anbsc) …",
-    "data": "2026-07-14T18:52:10+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "52a97a22a095",
-    "titolo": "Torino-Lione: disponibili per i Comuni 50,2 milioni per le opere compensative",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-disponibili-per-comuni-502-milioni-per-opere-compensative",
-    "descrizione": "Gli 11 Comuni della Val di Susa (Chiomonte, Salbertrand, Susa, Bussoleno, Giaglione, Gravere, Torrazza Piemonte, Buttigliera Alta, Chianocco, Mattie e Meana di Susa) interessati dai lavori della tratta internazionale Torino-Lione avranno a disposizione 50,2 milioni di euro per i…",
-    "data": "2026-07-14T16:36:04+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
