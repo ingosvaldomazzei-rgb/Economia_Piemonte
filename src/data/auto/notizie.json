@@ -10,9 +10,59 @@
     "colore": "#dc2626"
   },
   {
+    "id": "26d6038a86db",
+    "titolo": "Festa della nascita",
+    "link": "https://www.comune.torino.it/novita/notizie/festa-della-nascita",
+    "descrizione": "Ai giardini della Reggia di Venaria, per tutti i nuovi nati e le nuove nate 2025 e 2026 con le loro famiglie.",
+    "data": "2026-09-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1e2eb5e90533",
+    "titolo": "Arcate ex Moi verso il recupero, dalla Giunta via al secondo lotto di lavori",
+    "link": "https://www.comune.torino.it/novita/comunicati/arcate-ex-moi-verso-recupero-dalla-giunta-via-al-secondo-lotto-lavori",
+    "descrizione": "Nuovi impianti elettrici e idraulici, interventi sulle coperture e sui solai, percorsi accessibili alle persone con disabilità: sono alcuni degli interventi.",
+    "data": "2026-09-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7553183a047b",
+    "titolo": "12 settembre: il CFM per l'inaugurazione di via Roma",
+    "link": "https://www.comune.torino.it/novita/notizie/12-settembre-cfm-per-linaugurazione-via-roma",
+    "descrizione": "Il CFM partecipa alla festa per l’inaugurazione di Via Roma con quattro momenti musicali scelti tra le proprie eccellenze.",
+    "data": "2026-09-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d6a3d2651d85",
+    "titolo": "Salone Auto Torino. Previste modifiche alla viabilità da giovedì 10 a domenica 13 settembre",
+    "link": "https://www.comune.torino.it/novita/comunicati/salone-auto-torino-previste-modifiche-alla-viabilita-giovedi-10-domenica-13",
+    "descrizione": "Da venerdì 11 a domenica 13 settembre si terrà il \"Salone Auto Torino\", che occuperà con i propri spazi espositivi Piazza Castello e le aree limitrofe.",
+    "data": "2026-09-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "eed074f6985e",
     "titolo": "Tavolo verde sulla siccità",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tavolo-verde-sulla-siccita",
+    "descrizione": "L’assessore all' Agricoltura e Cibo Paolo Bongioanni ha riunito al Grattacielo Piemonte il Tavolo Verde, l’organo consultivo che riunisce le associazioni di categoria agricole e i rappresentanti delle organizzazioni cooperative a livello piemontese. Tre i…",
+    "data": "2026-09-08T13:37:40+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "4873bcabeede",
+    "titolo": "Agricoltura, tavolo verde sulla siccità",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-tavolo-verde-sulla-siccita",
     "descrizione": "L’assessore all' Agricoltura e Cibo Paolo Bongioanni ha riunito al Grattacielo Piemonte il Tavolo Verde, l’organo consultivo che riunisce le associazioni di categoria agricole e i rappresentanti delle organizzazioni cooperative a livello piemontese. Tre i…",
     "data": "2026-09-08T13:37:40+02:00",
     "fonte": "Regione Piemonte",
@@ -78,6 +128,16 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "569187feb859",
+    "titolo": "Voucher digitalizzazione, al via la terza edizione del bando PMI",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-digitalizzazione-al-via-terza-edizione-bando-pmi",
+    "descrizione": "Presentata a Novara, nella sede della Camera di commercio Monte Rosa Laghi Alto Piemonte, la terza edizione del bando Voucher digitalizzazione Pmi 2026 . Nell’incontro che ha aperto il roadshow, organizzato da Unioncamere Piemonte in collaborazione istituzionale con Regione Piemonte nell’…",
+    "data": "2026-09-08T11:29:40+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "91fdef2781da",
@@ -223,6 +283,16 @@
     "id": "7059312f7ab5",
     "titolo": "Bando Ecomusei, 450 mila euro per il sostegno delle attività",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-ecomusei-450-mila-euro-per-sostegno-delle-attivita",
+    "descrizione": "Dalla Regione quasi 450 mila euro per sostenere le attività degli Ecomusei regionali, una rete di 25 realtà diffuse sul territorio regionale che custodiscono e valorizzano il patrimonio culturale, ambientale e identitario delle comunità. È stato…",
+    "data": "2026-09-04T11:09:46+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "9aa8a85254e4",
+    "titolo": "Ecomusei, 450 mila euro per il sostegno delle attività",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-450-mila-euro-per-sostegno-delle-attivita",
     "descrizione": "Dalla Regione quasi 450 mila euro per sostenere le attività degli Ecomusei regionali, una rete di 25 realtà diffuse sul territorio regionale che custodiscono e valorizzano il patrimonio culturale, ambientale e identitario delle comunità. È stato…",
     "data": "2026-09-04T11:09:46+02:00",
     "fonte": "Regione Piemonte",
@@ -1928,75 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "8d198ad09c57",
-    "titolo": "Da domani una via per don Aldo Rabino",
-    "link": "https://www.comune.torino.it/novita/comunicati/domani-una-via-per-don-aldo-rabino",
-    "descrizione": "Domani, mercoledì 15 luglio, alle ore 10, si svolgerà la cerimonia di intitolazione a don Aldo Rabino, della via d’accesso al Centro sportivo “Robaldo”...",
-    "data": "2026-07-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "cb585594fbff",
-    "titolo": "Cooperazione e appello alla pace: a Palazzo Civico l'ambasciatrice palestinese Mona Abuamara",
-    "link": "https://www.comune.torino.it/novita/comunicati/cooperazione-appello-alla-pace-palazzo-civico-lambasciatrice-palestinese-mona",
-    "descrizione": "Si è tenuto nel pomeriggio di oggi a Palazzo Civico un momento di confronto e diplomazia internazionale per la Città di Torino. Il sindaco Stefano Lo Russo ha r",
-    "data": "2026-07-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "60c4b745db5d",
-    "titolo": "Non solo di passaggio, Torino approva le linee guida per piazze e strade scolastiche",
-    "link": "https://www.comune.torino.it/novita/comunicati/non-solo-passaggio-torino-approva-linee-guida-per-piazze-strade-scolastiche",
-    "descrizione": "Marciapiedi allargati, panchine, alberi, fioriere e opere d'arte nate anche grazie ai laboratori con le bambine e i bambini hanno preso il posto di strade.",
-    "data": "2026-07-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8a0e4e7d1166",
-    "titolo": "Più efficienza energetica per scuole e asili: approvati lavori per 1,35 milioni di euro",
-    "link": "https://www.comune.torino.it/novita/comunicati/piu-efficienza-energetica-per-scuole-asili-approvati-lavori-per-135-milioni-euro",
-    "descrizione": "Un investimento di circa 1,35 milioni di euro renderà più efficienti dal punto di vista energetico due complessi comunali che ospitano servizi educativi.",
-    "data": "2026-07-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d5ecb6570d55",
-    "titolo": "Sportello GTT nelle Circoscrizioni",
-    "link": "https://www.comune.torino.it/novita/avvisi/sportello-gtt-nelle-circoscrizioni",
-    "descrizione": "Assistenza alla clientela per le pratiche relative al trasporto pubblico e alla sosta.",
-    "data": "2026-07-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2aa44c382dd0",
-    "titolo": "Emergenza idrica: la Regione al lavoro per affrontare le difficoltà",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-idrica-regione-al-lavoro-per-affrontare-difficolta",
-    "descrizione": "Riunione nel Grattacielo Piemonte del Tavolo per l’emergenza idrica, al quale hanno partecipato il presidente della Regione Alberto Cirio, gli assessori all’Agricoltura Paolo Bongioanni, alla Montagna Marco Gallo e all’Ambiente Matteo…",
-    "data": "2026-07-13T20:37:57+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ff76bcf3c9c8",
-    "titolo": "Referendum consultivi, a Torino potranno votare i 16enni",
-    "link": "https://www.comune.torino.it/novita/comunicati/referendum-consultivi-torino-potranno-votare-16enni",
-    "descrizione": "Approvate due deliberazioni di iniziativa consiliare (primo firmatario: Simone Fissolo – Moderati) che modificano lo Statuto comunale e il Regolamento n°. 297",
-    "data": "2026-07-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
