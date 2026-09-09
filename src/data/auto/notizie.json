@@ -60,6 +60,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "1deed7368151",
+    "titolo": "Martedì 15 settembre - Assemblea sindacale",
+    "link": "https://www.comune.torino.it/novita/avvisi/martedi-15-settembre-assemblea-sindacale",
+    "descrizione": "Avviso",
+    "data": "2026-09-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bc59a7c4dd6d",
+    "titolo": "Venerdì 11 settembre - Assemblea sindacale",
+    "link": "https://www.comune.torino.it/novita/avvisi/venerdi-11-settembre-assemblea-sindacale",
+    "descrizione": "Avviso",
+    "data": "2026-09-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "91fdef2781da",
     "titolo": "Credito alle imprese, la cabina di regia delle Regioni del Nord apre il confronto con ABI",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/credito-alle-imprese-cabina-regia-delle-regioni-nord-apre-confronto-abi",
@@ -1974,26 +1994,6 @@
     "titolo": "Referendum consultivi, a Torino potranno votare i 16enni",
     "link": "https://www.comune.torino.it/novita/comunicati/referendum-consultivi-torino-potranno-votare-16enni",
     "descrizione": "Approvate due deliberazioni di iniziativa consiliare (primo firmatario: Simone Fissolo – Moderati) che modificano lo Statuto comunale e il Regolamento n°. 297",
-    "data": "2026-07-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "9310ad423661",
-    "titolo": "Ricordata l'assessora emerita Rosalba Molineri, introdusse l'affidamento familiare",
-    "link": "https://www.comune.torino.it/novita/comunicati/ricordata-lassessora-emerita-rosalba-molineri-introdusse-laffidamento-familiare",
-    "descrizione": "La Sala Rossa ha ricordato l'assessora e consigliera emerita Rosalba Molineri: sua l'iniziativa, nel 1975, di varare l'affidamento familiare per i minori",
-    "data": "2026-07-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "313f9cec9c70",
-    "titolo": "Borgo Medievale, a fine luglio la conclusione dei lavori di restauro. Sopralluogo del Sindaco al cantiere",
-    "link": "https://www.comune.torino.it/novita/comunicati/borgo-medievale-fine-luglio-conclusione-dei-lavori-restauro-sopralluogo-sindaco",
-    "descrizione": "Il sindaco Stefano Lo Russo ha visitato il cantiere del Borgo Medievale, dove si avviano a conclusione gli interventi di restauro e rifunzionalizzazione.",
     "data": "2026-07-13T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

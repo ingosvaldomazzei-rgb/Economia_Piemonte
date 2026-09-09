@@ -77,6 +77,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "1deed7368151",
+      "titolo": "Martedì 15 settembre - Assemblea sindacale",
+      "link": "https://www.comune.torino.it/novita/avvisi/martedi-15-settembre-assemblea-sindacale",
+      "data": "2026-09-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "bd109655da78",
       "titolo": "Torino si riaccende con lo sport e la cultura: al via l’edizione 2026 di “Festa dello Sport & Circoscrizioni in Mostra”",
       "link": "https://www.comune.torino.it/novita/comunicati/torino-si-riaccende-sport-cultura-al-via-ledizione-2026-festa-dello-sport",
@@ -211,14 +219,6 @@
       "data": "2026-07-17T11:04:32+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "f9cf3961ce5c",
-      "titolo": "“Underground Signs – Painting Below the City” prosegue: nuove opere di arte urbana al parcheggio Valdo Fusi",
-      "link": "https://www.comune.torino.it/novita/comunicati/underground-signs-painting-below-the-city-prosegue-nuove-opere-arte-urbana-al",
-      "data": "2026-07-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "universita-ricerca": [
@@ -433,6 +433,104 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "sanita-regionale": [
+    {
+      "id": "1deed7368151",
+      "titolo": "Martedì 15 settembre - Assemblea sindacale",
+      "link": "https://www.comune.torino.it/novita/avvisi/martedi-15-settembre-assemblea-sindacale",
+      "data": "2026-09-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bc59a7c4dd6d",
+      "titolo": "Venerdì 11 settembre - Assemblea sindacale",
+      "link": "https://www.comune.torino.it/novita/avvisi/venerdi-11-settembre-assemblea-sindacale",
+      "data": "2026-09-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0e0f67a8f64d",
+      "titolo": "Sala Rossa: approvato l'ordine del giorno per la neutralità della professione sanitaria nei conflitti armati e solidarietà al dottor Hussam Abu Safiya",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-lordine-giorno-per-neutralita-della-professione-sanitaria",
+      "data": "2026-09-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "57291a157d10",
+      "titolo": "Regione Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
+      "data": "2026-09-03T13:47:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6aee2ba40fce",
+      "titolo": "Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
+      "data": "2026-09-03T13:47:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c49fb27363e6",
+      "titolo": "Competenze di Comunicazione Consapevole",
+      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
+      "data": "2026-08-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "45ac97db8823",
+      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
+      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
+      "data": "2026-08-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4a2ea335755c",
+      "titolo": "Disabilità, 1,6 milioni di euro per i servizi sociosanitari. Al via la revisione delle tariffe",
+      "link": "https://www.comune.torino.it/novita/comunicati/disabilita-16-milioni-euro-per-servizi-sociosanitari-al-via-revisione-delle",
+      "data": "2026-08-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "93db91f00de9",
+      "titolo": "Transizione energetica, si riqualificano 21 edifici pubblici",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/transizione-energetica-si-riqualificano-21-edifici-pubblici",
+      "data": "2026-07-29T16:08:41+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a2c3d29a06f1",
+      "titolo": "Liste d'attesa, Agenas indica il Piemonte tra le buone pratiche nazionali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/liste-dattesa-agenas-indica-piemonte-buone-pratiche-nazionali",
+      "data": "2026-07-21T14:25:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9ae291d68083",
+      "titolo": "La musica….fa bene! Presentazione di uno studio scientifico",
+      "link": "https://www.comune.torino.it/novita/notizie/musicafa-bene-presentazione-uno-studio-scientifico",
+      "data": "2026-07-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b39febf18d6d",
+      "titolo": "Il nuovo ospedale Regina Margherita nel programma Inail",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-regina-margherita-nel-programma-inail",
+      "data": "2026-07-18T17:20:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "attivita-produttive": [
     {
       "id": "91fdef2781da",
@@ -645,88 +743,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "sanita-regionale": [
-    {
-      "id": "0e0f67a8f64d",
-      "titolo": "Sala Rossa: approvato l'ordine del giorno per la neutralità della professione sanitaria nei conflitti armati e solidarietà al dottor Hussam Abu Safiya",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-lordine-giorno-per-neutralita-della-professione-sanitaria",
-      "data": "2026-09-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "57291a157d10",
-      "titolo": "Regione Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
-      "data": "2026-09-03T13:47:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6aee2ba40fce",
-      "titolo": "Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
-      "data": "2026-09-03T13:47:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c49fb27363e6",
-      "titolo": "Competenze di Comunicazione Consapevole",
-      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
-      "data": "2026-08-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "45ac97db8823",
-      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
-      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
-      "data": "2026-08-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4a2ea335755c",
-      "titolo": "Disabilità, 1,6 milioni di euro per i servizi sociosanitari. Al via la revisione delle tariffe",
-      "link": "https://www.comune.torino.it/novita/comunicati/disabilita-16-milioni-euro-per-servizi-sociosanitari-al-via-revisione-delle",
-      "data": "2026-08-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "93db91f00de9",
-      "titolo": "Transizione energetica, si riqualificano 21 edifici pubblici",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/transizione-energetica-si-riqualificano-21-edifici-pubblici",
-      "data": "2026-07-29T16:08:41+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a2c3d29a06f1",
-      "titolo": "Liste d'attesa, Agenas indica il Piemonte tra le buone pratiche nazionali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/liste-dattesa-agenas-indica-piemonte-buone-pratiche-nazionali",
-      "data": "2026-07-21T14:25:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9ae291d68083",
-      "titolo": "La musica….fa bene! Presentazione di uno studio scientifico",
-      "link": "https://www.comune.torino.it/novita/notizie/musicafa-bene-presentazione-uno-studio-scientifico",
-      "data": "2026-07-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b39febf18d6d",
-      "titolo": "Il nuovo ospedale Regina Margherita nel programma Inail",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-regina-margherita-nel-programma-inail",
-      "data": "2026-07-18T17:20:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "sport": [
     {
       "id": "bd109655da78",
@@ -905,14 +921,6 @@
       "titolo": "Sportello GTT nelle Circoscrizioni",
       "link": "https://www.comune.torino.it/novita/avvisi/sportello-gtt-nelle-circoscrizioni",
       "data": "2026-07-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9310ad423661",
-      "titolo": "Ricordata l'assessora emerita Rosalba Molineri, introdusse l'affidamento familiare",
-      "link": "https://www.comune.torino.it/novita/comunicati/ricordata-lassessora-emerita-rosalba-molineri-introdusse-laffidamento-familiare",
-      "data": "2026-07-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
