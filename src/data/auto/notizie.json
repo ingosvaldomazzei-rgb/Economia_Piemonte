@@ -40,6 +40,16 @@
     "colore": "#2563eb"
   },
   {
+    "id": "b1c164f7002f",
+    "titolo": "Inaugurata alla biblioteca Cognasso “The Jungle Library” la nuova opera di Mrfijodor",
+    "link": "https://www.comune.torino.it/novita/comunicati/inaugurata-alla-biblioteca-cognasso-the-jungle-library-nuova-opera-mrfijodor",
+    "descrizione": "La facciata della Biblioteca civica Cognasso, accoglie il nuovo murale “The Jungle Library”, un’opera di arte urbana dallo street artist Mrfijodor.",
+    "data": "2026-09-10T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "d1386071c157",
     "titolo": "Incendi boschivi, la Regione Piemonte revoca lo stato di massima pericolosità",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-regione-piemonte-revoca-stato-massima-pericolosita",
@@ -1985,16 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/scambia-foto-intime-un-ragazzo-che-poi-ricatta-polizia-locale-individua-arresta",
     "descrizione": "Indagine del Reparto di Prossimità della Polizia Locale di Torino",
     "data": "2026-07-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "5463d086049f",
-    "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – settembre 2026",
-    "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-3",
-    "descrizione": "Pubblicazione del calendario eventi programmati nei pressi dello Stadio Olimpico – Inalpi Arena nel prossimo mese di settembre 2026",
-    "data": "2026-07-15T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
