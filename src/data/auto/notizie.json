@@ -20,6 +20,46 @@
     "colore": "#dc2626"
   },
   {
+    "id": "7c1146c9deb5",
+    "titolo": "Inaugurazione nuova via Roma pedonale, modifiche viabili. Chiusure per il parcheggio sotterraneo Castello - San Carlo - Roma",
+    "link": "https://www.comune.torino.it/novita/comunicati/inaugurazione-nuova-via-roma-pedonale-modifiche-viabili-chiusure-per-parcheggio",
+    "descrizione": "Sabato 12 settembre si terrà la festa di inaugurazione della nuova via Roma, con un ricco programma di eventi dalle 18.30 fino a tarda sera",
+    "data": "2026-09-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8ac11659b600",
+    "titolo": "Intitolata piazzetta \"Fiorenzo Alfieri\"",
+    "link": "https://www.comune.torino.it/novita/comunicati/intitolata-piazzetta-fiorenzo-alfieri",
+    "descrizione": "La cerimonia con il ricordo da parte delle Istituzioni cittadine, lo scoprimento della targa, alla presenza degli ex sindaci Castellani e Chiamparino",
+    "data": "2026-09-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "aae2aca5497a",
+    "titolo": "Cantieri in città: chiude ponte Rossini, al via anche i lavori di Smat, Ireti, Iren e Italgas",
+    "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-chiude-ponte-rossini-al-via-anche-lavori-smat-ireti-iren-italgas",
+    "descrizione": "Proseguono gli interventi di manutenzione e ammodernamento delle infrastrutture cittadine.",
+    "data": "2026-09-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "52e69cada381",
+    "titolo": "Tirocinio curriculare a ITER",
+    "link": "https://www.comune.torino.it/novita/notizie/tirocinio-curriculare-iter",
+    "descrizione": "Tirocinio curriculare in ambito educativo e pedagogico presso ITER",
+    "data": "2026-09-11T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "c3f5a8e20dd2",
     "titolo": "Il Piemonte a Risò, Vercelli capitale del riso europeo",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-riso-vercelli-capitale-riso-europeo",
@@ -1954,46 +1994,6 @@
     "titolo": "Rinnovo concessione immobile a fini associativi",
     "link": "https://www.comune.torino.it/novita/avvisi/rinnovo-concessione-immobile-fini-associativi-0",
     "descrizione": "Rinnovo concessione immobile a fini associativi - Via Cecchi 21/A.",
-    "data": "2026-07-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "358d57e44375",
-    "titolo": "Falsi annunci di lavoro per posizioni al Comune di Torino",
-    "link": "https://www.comune.torino.it/novita/avvisi/falsi-annunci-lavoro-per-posizioni-al-comune-torino",
-    "descrizione": "Comparsi su alcune piattaforme falsi annunci contenenti informazioni finalizzate a coprire specifiche posizioni di lavoro nell'ambito della Città di Torino.",
-    "data": "2026-07-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "048efceaec70",
-    "titolo": "Caldo estremo e rider: la Città chiederà a Governo e Regione di rafforzare le tutele dei lavoratori",
-    "link": "https://www.comune.torino.it/novita/comunicati/caldo-estremo-rider-citta-chiedera-governo-regione-rafforzare-tutele-dei",
-    "descrizione": "Si è svolto questa mattina a Palazzo Civico l’incontro per affrontare le criticità determinate dalle elevate temperature di questi giorni.",
-    "data": "2026-07-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c565567f57b1",
-    "titolo": "Prezzi al consumo per l’intera collettività (Nic) a giugno 2026",
-    "link": "https://www.comune.torino.it/novita/comunicati/prezzi-al-consumo-per-lintera-collettivita-nic-giugno-2026",
-    "descrizione": "Nel mese di giugno 2026 l’indice complessivo dei prezzi al consumo per l’intera collettività è risultato pari al 102,8.",
-    "data": "2026-07-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2543f5a41c9b",
-    "titolo": "Scambia foto intime con un ragazzo che poi la ricatta. La Polizia Locale lo individua e arresta per violenza sessuale ed estorsione",
-    "link": "https://www.comune.torino.it/novita/comunicati/scambia-foto-intime-un-ragazzo-che-poi-ricatta-polizia-locale-individua-arresta",
-    "descrizione": "Indagine del Reparto di Prossimità della Polizia Locale di Torino",
     "data": "2026-07-16T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
