@@ -20,6 +20,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "b9ab35d63dac",
+    "titolo": "Dal 13 settembre riapre la Germagnano - Ceres",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-13-settembre-riapre-germagnano-ceres",
+    "descrizione": "Dopo oltre tre anni, il treno torna a Ceres. Da domenica 13 settembre riprende il servizio ferroviario sui 12 chilometri della tratta Germagnano-Ceres, completando così la riattivazione della ferrovia che collega Torino con l’aeroporto e con le Valli di Lanzo. La riapertura è stata…",
+    "data": "2026-09-12T21:11:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "7c1146c9deb5",
     "titolo": "Inaugurazione nuova via Roma pedonale, modifiche viabili. Chiusure per il parcheggio sotterraneo Castello - San Carlo - Roma",
     "link": "https://www.comune.torino.it/novita/comunicati/inaugurazione-nuova-via-roma-pedonale-modifiche-viabili-chiusure-per-parcheggio",
@@ -1984,16 +1994,6 @@
     "titolo": "“Underground Signs – Painting Below the City” prosegue: nuove opere di arte urbana al parcheggio Valdo Fusi",
     "link": "https://www.comune.torino.it/novita/comunicati/underground-signs-painting-below-the-city-prosegue-nuove-opere-arte-urbana-al",
     "descrizione": "Prosegue Underground Signs – Painting Below the City, il progetto di arte urbana che sta trasformando il parcheggio sotterraneo di piazzale Valdo Fusi.",
-    "data": "2026-07-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "497157eb89e0",
-    "titolo": "Rinnovo concessione immobile a fini associativi",
-    "link": "https://www.comune.torino.it/novita/avvisi/rinnovo-concessione-immobile-fini-associativi-0",
-    "descrizione": "Rinnovo concessione immobile a fini associativi - Via Cecchi 21/A.",
     "data": "2026-07-16T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
