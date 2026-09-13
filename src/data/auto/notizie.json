@@ -30,6 +30,16 @@
     "colore": "#2563eb"
   },
   {
+    "id": "9bc5901f8139",
+    "titolo": "Al via l'anno scolastico",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-lanno-scolastico",
+    "descrizione": "Suona la prima campanella per gli studenti piemontesi. Lunedì 14 settembre prende ufficialmente il via l’anno scolastico 2026/2027 e, in occasione del primo giorno di scuola, il presidente della Regione Piemonte Alberto Cirio e gli assessori della Giunta regionale saranno presenti in diversi…",
+    "data": "2026-09-12T12:41:58+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "7c1146c9deb5",
     "titolo": "Inaugurazione nuova via Roma pedonale, modifiche viabili. Chiusure per il parcheggio sotterraneo Castello - San Carlo - Roma",
     "link": "https://www.comune.torino.it/novita/comunicati/inaugurazione-nuova-via-roma-pedonale-modifiche-viabili-chiusure-per-parcheggio",
@@ -1984,16 +1994,6 @@
     "titolo": "CFM Laboratorio di biografia sonoro-visiva",
     "link": "https://www.comune.torino.it/novita/avvisi/cfm-laboratorio-biografia-sonoro-visiva",
     "descrizione": "Un percorso che usa suoni, musica e immagini per esplorare la propria storia emotiva",
-    "data": "2026-07-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f9cf3961ce5c",
-    "titolo": "“Underground Signs – Painting Below the City” prosegue: nuove opere di arte urbana al parcheggio Valdo Fusi",
-    "link": "https://www.comune.torino.it/novita/comunicati/underground-signs-painting-below-the-city-prosegue-nuove-opere-arte-urbana-al",
-    "descrizione": "Prosegue Underground Signs – Painting Below the City, il progetto di arte urbana che sta trasformando il parcheggio sotterraneo di piazzale Valdo Fusi.",
     "data": "2026-07-16T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 113,
-    "regione": 87
+    "comune_torino": 112,
+    "regione": 88
   },
   "temi_attivi": [
     {
@@ -38,11 +38,11 @@
       "conteggio": 11
     },
     {
-      "tema": "commercio-artigianato",
-      "conteggio": 9
+      "tema": "istruzione-formazione",
+      "conteggio": 10
     },
     {
-      "tema": "protezione-civile",
+      "tema": "commercio-artigianato",
       "conteggio": 9
     }
   ],
