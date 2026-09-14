@@ -60,6 +60,46 @@
     "colore": "#dc2626"
   },
   {
+    "id": "afef50ec6932",
+    "titolo": "Sala Rossa: approvato ordine del giorno per la tutela degli operatori sanitari dalle aggressioni",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-ordine-giorno-per-tutela-degli-operatori-sanitari-dalle",
+    "descrizione": "L'atto chiede maggiore tutele all'interno dei pronto soccorso cittadini",
+    "data": "2026-09-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4f11b2d1164a",
+    "titolo": "Acqua pubblica, lotta agli sprechi e uso responsabile delle risorse idriche: un documento del Consiglio comunale",
+    "link": "https://www.comune.torino.it/novita/comunicati/acqua-pubblica-lotta-agli-sprechi-uso-responsabile-delle-risorse-idriche-un",
+    "descrizione": "Approvato in Sala Rossa un documento sul servizio idrico integrato, tra diritto all'acqua pubblica e lotta a sprechi e morosità colpevoli",
+    "data": "2026-09-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9928d69c7a71",
+    "titolo": "La Sala Rossa ha ricordato Emma Bonino e Raffaele Costa",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-ha-ricordato-emma-bonino-raffaele-costa",
+    "descrizione": "Nel pomeriggio, il Consiglio comunale ha commemorato con un minuto di silenzio la recente scomparsa di Emma Bonino e Raffaele Costa.",
+    "data": "2026-09-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1409dabfa7d6",
+    "titolo": "Spettacoli viaggianti, il Consiglio comunale aggiorna Regolamento e aree cittadine",
+    "link": "https://www.comune.torino.it/novita/comunicati/spettacoli-viaggianti-consiglio-comunale-aggiorna-regolamento-aree-cittadine",
+    "descrizione": "Il Consiglio comunale ha approvato le modifiche al Regolamento n. 315 che disciplina le attività di spettacolo viaggiante, i circhi e le iniziative similari.",
+    "data": "2026-09-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "b9ab35d63dac",
     "titolo": "Dal 13 settembre riapre la Germagnano - Ceres",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-13-settembre-riapre-germagnano-ceres",
@@ -1958,45 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "0683fb976cec",
-    "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite",
-    "descrizione": "Numerose le novità emerse durante il Tavolo dell’Aria, svoltosi nel Grattacielo Piemonte come momento strategico di coordinamento con i sindaci del territorio per pianificare le nuove misure strutturali in vista della stagione autunno-inverno 2026/2027. “I dati ufficiali…",
-    "data": "2026-07-17T17:51:27+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a1596470ae68",
-    "titolo": "Il piano triennale dei lavori forestali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-triennale-dei-lavori-forestali",
-    "descrizione": "La Regione Piemonte ha approvato il Programma triennale 2026-2028 dei lavori forestali: lo strumento che guiderà per i prossimi tre anni l’attività delle squadre forestali regionali impegnate nella prevenzione del dissesto idrogeologico, nella cura dei boschi, nella manutenzione…",
-    "data": "2026-07-17T16:24:13+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "1b80fe0b398d",
-    "titolo": "Riuso e sostenibilità: nasce il mercato tematico “Torino Green”",
-    "link": "https://www.comune.torino.it/novita/comunicati/riuso-sostenibilita-nasce-mercato-tematico-torino-green",
-    "descrizione": "La Giunta Comunale ha approvato oggi l'istituzione di \"Torino Green\", il mercato periodico tematico dedicato alla vendita occasionale di beni usati tra privati.",
-    "data": "2026-07-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2878fb7918d5",
-    "titolo": "Il Sindaco di Torino incontra l'Ambasciatore dei territori palestinesi",
-    "link": "https://www.comune.torino.it/novita/notizie/sindaco-torino-incontra-lambasciatore-dei-territori-palestinesi",
-    "descrizione": "Due occasioni di amicizia istituzionale e collaborazione con i partner palestinesi",
-    "data": "2026-07-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
