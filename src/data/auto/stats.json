@@ -18,16 +18,12 @@
       "conteggio": 15
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
+      "tema": "sanita-regionale",
       "conteggio": 14
     },
     {
-      "tema": "sanita-regionale",
-      "conteggio": 13
-    },
-    {
-      "tema": "lavoro-occupazione",
-      "conteggio": 13
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 14
     },
     {
       "tema": "sociale-welfare",
@@ -38,11 +34,15 @@
       "conteggio": 12
     },
     {
+      "tema": "lavoro-occupazione",
+      "conteggio": 11
+    },
+    {
       "tema": "fondi-europei",
       "conteggio": 11
     },
     {
-      "tema": "attivita-produttive",
+      "tema": "universita-ricerca",
       "conteggio": 10
     }
   ],
