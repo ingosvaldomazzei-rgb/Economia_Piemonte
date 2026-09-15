@@ -369,6 +369,104 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "istruzione-formazione": [
+    {
+      "id": "e57f9fd14712",
+      "titolo": "La Giunta regionale all'apertura dell'anno scolastico 2026-2027",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giunta-regionale-allapertura-dellanno-scolastico-2026-2027",
+      "data": "2026-09-14T15:00:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8410f4933013",
+      "titolo": "Prima campanella alla \"G.E.Pestalozzi\". Riapre la scuola riqualificata con fondi Pnrr",
+      "link": "https://www.comune.torino.it/novita/comunicati/prima-campanella-alla-gepestalozzi-riapre-scuola-riqualificata-fondi-pnrr",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9bc5901f8139",
+      "titolo": "Al via l'anno scolastico",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-lanno-scolastico",
+      "data": "2026-09-12T12:41:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "38606629a1b2",
+      "titolo": "Maltempo e calamità, nasce il “pronto intervento” per le scuole danneggiate",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-calamita-nasce-pronto-intervento-per-scuole-danneggiate",
+      "data": "2026-09-01T13:58:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "490103bd3f43",
+      "titolo": "Scoprire il talento, costruire il futuro",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scoprire-talento-costruire-futuro",
+      "data": "2026-08-30T20:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bc3dab3839a8",
+      "titolo": "Voucher Scuola, pubblicate le graduatorie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-pubblicate-graduatorie",
+      "data": "2026-08-24T13:41:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4a3d0922df19",
+      "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
+      "data": "2026-08-21T10:03:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "beb5c642f493",
+      "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8e788a6f6b95",
+      "titolo": "Scuole dell'infanzia paritaria, 7,7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-77-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "26da1bb0a6a7",
+      "titolo": "Scuole dell'infanzia paritarie, 7,7 milioni per sostenere famiglie e territori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritarie-77-milioni-per-sostenere-famiglie-territori",
+      "data": "2026-08-13T12:24:31+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a42e8fee4de4",
+      "titolo": "Impianti più sicuri ed efficienti negli edifici comunali: approvati lavori per 880mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/impianti-piu-sicuri-efficienti-negli-edifici-comunali-approvati-lavori-per",
+      "data": "2026-07-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8de825935415",
+      "titolo": "Mercoledì 22 luglio \"Diritto di Tribuna\" su sicurezza per alunni scuola Anna Frank",
+      "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-22-luglio-diritto-tribuna-sicurezza-per-alunni-scuola-anna-frank",
+      "data": "2026-07-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "agricoltura": [
     {
       "id": "8410f4933013",
@@ -529,96 +627,6 @@
       "data": "2026-08-06T19:09:09+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "istruzione-formazione": [
-    {
-      "id": "8410f4933013",
-      "titolo": "Prima campanella alla \"G.E.Pestalozzi\". Riapre la scuola riqualificata con fondi Pnrr",
-      "link": "https://www.comune.torino.it/novita/comunicati/prima-campanella-alla-gepestalozzi-riapre-scuola-riqualificata-fondi-pnrr",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9bc5901f8139",
-      "titolo": "Al via l'anno scolastico",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-lanno-scolastico",
-      "data": "2026-09-12T12:41:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "38606629a1b2",
-      "titolo": "Maltempo e calamità, nasce il “pronto intervento” per le scuole danneggiate",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-calamita-nasce-pronto-intervento-per-scuole-danneggiate",
-      "data": "2026-09-01T13:58:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "490103bd3f43",
-      "titolo": "Scoprire il talento, costruire il futuro",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scoprire-talento-costruire-futuro",
-      "data": "2026-08-30T20:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bc3dab3839a8",
-      "titolo": "Voucher Scuola, pubblicate le graduatorie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-pubblicate-graduatorie",
-      "data": "2026-08-24T13:41:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4a3d0922df19",
-      "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
-      "data": "2026-08-21T10:03:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "beb5c642f493",
-      "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
-      "data": "2026-08-13T12:24:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8e788a6f6b95",
-      "titolo": "Scuole dell'infanzia paritaria, 7,7 milioni per sostenere famiglie e territori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-77-milioni-per-sostenere-famiglie-territori",
-      "data": "2026-08-13T12:24:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "26da1bb0a6a7",
-      "titolo": "Scuole dell'infanzia paritarie, 7,7 milioni per sostenere famiglie e territori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritarie-77-milioni-per-sostenere-famiglie-territori",
-      "data": "2026-08-13T12:24:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a42e8fee4de4",
-      "titolo": "Impianti più sicuri ed efficienti negli edifici comunali: approvati lavori per 880mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/impianti-piu-sicuri-efficienti-negli-edifici-comunali-approvati-lavori-per",
-      "data": "2026-07-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8de825935415",
-      "titolo": "Mercoledì 22 luglio \"Diritto di Tribuna\" su sicurezza per alunni scuola Anna Frank",
-      "link": "https://www.comune.torino.it/novita/comunicati/mercoledi-22-luglio-diritto-tribuna-sicurezza-per-alunni-scuola-anna-frank",
-      "data": "2026-07-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "fondi-europei": [
@@ -839,14 +847,6 @@
       "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
       "data": "2026-07-24T19:23:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "86eda9e580af",
-      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
-      "data": "2026-07-17T17:51:27+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -1479,14 +1479,6 @@
       "titolo": "Castagneti, bando da 1,6 milioni per la gestione associata in montagna",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/castagneti-bando-16-milioni-per-gestione-associata-montagna",
       "data": "2026-07-21T13:02:35+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "86eda9e580af",
-      "titolo": "Qualità dell'aria, scendono le stazioni fuori limite",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/qualita-dellaria-scendono-stazioni-fuori-limite-0",
-      "data": "2026-07-17T17:51:27+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
