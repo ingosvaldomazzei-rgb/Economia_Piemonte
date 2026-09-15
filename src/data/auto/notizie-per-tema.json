@@ -223,6 +223,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "b0f556f5aa0e",
+      "titolo": "A Torino la finale di Uefa Conference League 2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-finale-uefa-conference-league-2028",
+      "data": "2026-09-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "eed074f6985e",
       "titolo": "Tavolo verde sulla siccità",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tavolo-verde-sulla-siccita",
@@ -369,6 +377,112 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "sanita-regionale": [
+    {
+      "id": "b0f556f5aa0e",
+      "titolo": "A Torino la finale di Uefa Conference League 2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-finale-uefa-conference-league-2028",
+      "data": "2026-09-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "afef50ec6932",
+      "titolo": "Sala Rossa: approvato ordine del giorno per la tutela degli operatori sanitari dalle aggressioni",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-ordine-giorno-per-tutela-degli-operatori-sanitari-dalle",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1deed7368151",
+      "titolo": "Martedì 15 settembre - Assemblea sindacale",
+      "link": "https://www.comune.torino.it/novita/avvisi/martedi-15-settembre-assemblea-sindacale",
+      "data": "2026-09-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bc59a7c4dd6d",
+      "titolo": "Venerdì 11 settembre - Assemblea sindacale",
+      "link": "https://www.comune.torino.it/novita/avvisi/venerdi-11-settembre-assemblea-sindacale",
+      "data": "2026-09-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0e0f67a8f64d",
+      "titolo": "Sala Rossa: approvato l'ordine del giorno per la neutralità della professione sanitaria nei conflitti armati e solidarietà al dottor Hussam Abu Safiya",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-lordine-giorno-per-neutralita-della-professione-sanitaria",
+      "data": "2026-09-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "57291a157d10",
+      "titolo": "Regione Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
+      "data": "2026-09-03T13:47:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6aee2ba40fce",
+      "titolo": "Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
+      "data": "2026-09-03T13:47:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c49fb27363e6",
+      "titolo": "Competenze di Comunicazione Consapevole",
+      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
+      "data": "2026-08-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "45ac97db8823",
+      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
+      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
+      "data": "2026-08-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4a2ea335755c",
+      "titolo": "Disabilità, 1,6 milioni di euro per i servizi sociosanitari. Al via la revisione delle tariffe",
+      "link": "https://www.comune.torino.it/novita/comunicati/disabilita-16-milioni-euro-per-servizi-sociosanitari-al-via-revisione-delle",
+      "data": "2026-08-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "93db91f00de9",
+      "titolo": "Transizione energetica, si riqualificano 21 edifici pubblici",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/transizione-energetica-si-riqualificano-21-edifici-pubblici",
+      "data": "2026-07-29T16:08:41+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a2c3d29a06f1",
+      "titolo": "Liste d'attesa, Agenas indica il Piemonte tra le buone pratiche nazionali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/liste-dattesa-agenas-indica-piemonte-buone-pratiche-nazionali",
+      "data": "2026-07-21T14:25:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9ae291d68083",
+      "titolo": "La musica….fa bene! Presentazione di uno studio scientifico",
+      "link": "https://www.comune.torino.it/novita/notizie/musicafa-bene-presentazione-uno-studio-scientifico",
+      "data": "2026-07-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "istruzione-formazione": [
     {
       "id": "e57f9fd14712",
@@ -483,6 +597,14 @@
       "data": "2026-09-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    },
+    {
+      "id": "05877431610e",
+      "titolo": "Stati generali MAB Unesco, il Piemonte si candida a laboratorio nazionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-mab-unesco-piemonte-si-candida-laboratorio-nazionale",
+      "data": "2026-09-12T19:00:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
       "id": "c3f5a8e20dd2",
@@ -619,14 +741,6 @@
       "data": "2026-08-07T11:02:37+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "afbb37492c20",
-      "titolo": "Siccità, avviate le procedure per la richiesta di calamità naturale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-avviate-procedure-per-richiesta-calamita-naturale",
-      "data": "2026-08-06T19:09:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "fondi-europei": [
@@ -637,6 +751,14 @@
       "data": "2026-09-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    },
+    {
+      "id": "05877431610e",
+      "titolo": "Stati generali MAB Unesco, il Piemonte si candida a laboratorio nazionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-mab-unesco-piemonte-si-candida-laboratorio-nazionale",
+      "data": "2026-09-12T19:00:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
       "id": "e708e4fa8e97",
@@ -925,112 +1047,6 @@
       "fonte_id": "regione"
     }
   ],
-  "sanita-regionale": [
-    {
-      "id": "afef50ec6932",
-      "titolo": "Sala Rossa: approvato ordine del giorno per la tutela degli operatori sanitari dalle aggressioni",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-ordine-giorno-per-tutela-degli-operatori-sanitari-dalle",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1deed7368151",
-      "titolo": "Martedì 15 settembre - Assemblea sindacale",
-      "link": "https://www.comune.torino.it/novita/avvisi/martedi-15-settembre-assemblea-sindacale",
-      "data": "2026-09-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bc59a7c4dd6d",
-      "titolo": "Venerdì 11 settembre - Assemblea sindacale",
-      "link": "https://www.comune.torino.it/novita/avvisi/venerdi-11-settembre-assemblea-sindacale",
-      "data": "2026-09-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0e0f67a8f64d",
-      "titolo": "Sala Rossa: approvato l'ordine del giorno per la neutralità della professione sanitaria nei conflitti armati e solidarietà al dottor Hussam Abu Safiya",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-lordine-giorno-per-neutralita-della-professione-sanitaria",
-      "data": "2026-09-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "57291a157d10",
-      "titolo": "Regione Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
-      "data": "2026-09-03T13:47:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6aee2ba40fce",
-      "titolo": "Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
-      "data": "2026-09-03T13:47:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c49fb27363e6",
-      "titolo": "Competenze di Comunicazione Consapevole",
-      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
-      "data": "2026-08-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "45ac97db8823",
-      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
-      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
-      "data": "2026-08-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4a2ea335755c",
-      "titolo": "Disabilità, 1,6 milioni di euro per i servizi sociosanitari. Al via la revisione delle tariffe",
-      "link": "https://www.comune.torino.it/novita/comunicati/disabilita-16-milioni-euro-per-servizi-sociosanitari-al-via-revisione-delle",
-      "data": "2026-08-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "93db91f00de9",
-      "titolo": "Transizione energetica, si riqualificano 21 edifici pubblici",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/transizione-energetica-si-riqualificano-21-edifici-pubblici",
-      "data": "2026-07-29T16:08:41+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a2c3d29a06f1",
-      "titolo": "Liste d'attesa, Agenas indica il Piemonte tra le buone pratiche nazionali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/liste-dattesa-agenas-indica-piemonte-buone-pratiche-nazionali",
-      "data": "2026-07-21T14:25:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9ae291d68083",
-      "titolo": "La musica….fa bene! Presentazione di uno studio scientifico",
-      "link": "https://www.comune.torino.it/novita/notizie/musicafa-bene-presentazione-uno-studio-scientifico",
-      "data": "2026-07-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b39febf18d6d",
-      "titolo": "Il nuovo ospedale Regina Margherita nel programma Inail",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-regina-margherita-nel-programma-inail",
-      "data": "2026-07-18T17:20:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "lavoro-occupazione": [
     {
       "id": "1409dabfa7d6",
@@ -1132,14 +1148,6 @@
       "id": "991714ca7b7c",
       "titolo": "Tari, approvate modiche a Regolamento e tariffe 2026",
       "link": "https://www.comune.torino.it/novita/comunicati/tari-approvate-modiche-regolamento-tariffe-2026",
-      "data": "2026-07-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "28d816989418",
-      "titolo": "Tari, approvate modifiche a Regolamento e tariffe 2026",
-      "link": "https://www.comune.torino.it/novita/comunicati/tari-approvate-modifiche-regolamento-tariffe-2026",
       "data": "2026-07-20T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
