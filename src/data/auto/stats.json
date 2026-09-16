@@ -14,15 +14,15 @@
       "conteggio": 20
     },
     {
-      "tema": "pianificazione-territoriale",
+      "tema": "sanita-regionale",
       "conteggio": 15
     },
     {
-      "tema": "sanita-regionale",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 14
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
+      "tema": "pianificazione-territoriale",
       "conteggio": 14
     },
     {
@@ -30,20 +30,20 @@
       "conteggio": 12
     },
     {
+      "tema": "lavoro-occupazione",
+      "conteggio": 12
+    },
+    {
       "tema": "istruzione-formazione",
       "conteggio": 12
     },
     {
-      "tema": "lavoro-occupazione",
+      "tema": "universita-ricerca",
       "conteggio": 11
     },
     {
       "tema": "fondi-europei",
       "conteggio": 11
-    },
-    {
-      "tema": "universita-ricerca",
-      "conteggio": 10
     }
   ],
   "totale_temi_con_notizie": 26
