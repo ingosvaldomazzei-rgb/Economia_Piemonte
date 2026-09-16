@@ -60,6 +60,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "5235ab457ed5",
+    "titolo": "Barriera di Milano, taglio del nastro per gli spazi riqualificati della Casa di Quartiere Bagni Pubblici di via Agliè",
+    "link": "https://www.comune.torino.it/novita/comunicati/barriera-milano-taglio-nastro-per-spazi-riqualificati-della-casa-quartiere-bagni",
+    "descrizione": "Sono stati inaugurati questo pomeriggio gli spazi riqualificati della Casa del Quartiere Bagni Pubblici di via Agliè 9.",
+    "data": "2026-09-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "d41418229747",
     "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "e7c2da157327",
-    "titolo": "L’Autonomia differenziata verso le intese definitive",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lautonomia-differenziata-verso-intese-definitive",
-    "descrizione": "Con l'approvazione prima del Senato e poi della Camera dello schema delle pre-intese sull'Autonomia differenziata per il Piemonte, si compie un nuovo passo nel percorso che condurrà alla redazione delle intese definitive con lo Stato.…",
-    "data": "2026-07-22T10:51:39+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

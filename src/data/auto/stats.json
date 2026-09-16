@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 120,
-    "regione": 80
+    "comune_torino": 121,
+    "regione": 79
   },
   "temi_attivi": [
     {
@@ -46,5 +46,5 @@
       "conteggio": 11
     }
   ],
-  "totale_temi_con_notizie": 26
+  "totale_temi_con_notizie": 25
 }
