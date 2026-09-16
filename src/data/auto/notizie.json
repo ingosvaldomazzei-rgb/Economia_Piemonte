@@ -20,6 +20,46 @@
     "colore": "#dc2626"
   },
   {
+    "id": "b858b30fc5d5",
+    "titolo": "Monviso, prima riunione del Tavolo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/monviso-prima-riunione-tavolo",
+    "descrizione": "Dal 10 giugno al 10 settembre la temperatura alla stazione Arpa sul Monviso, a oltre 3.300 metri di quota, non è mai scesa a zero gradi. Un dato che restituisce l’eccezionalità del caldo nell’estate 2026 anche in alta quota e aiuta a comprendere i processi che possono contribuire all’instabilità…",
+    "data": "2026-09-16T15:33:46+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "45b99c64f2c9",
+    "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
+    "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
+    "descrizione": "Alla Conferenza partecipano, con diritto di voto, la Città di Torino, la Città metropolitana di Torino, la Regione Piemonte e la Soprintendenza",
+    "data": "2026-09-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f58881a5cfa2",
+    "titolo": "False segnalazioni di assunzione",
+    "link": "https://www.comune.torino.it/novita/avvisi/false-segnalazioni-assunzione",
+    "descrizione": "Presenti sul web annunci che attribuisce alla Biblioteca Pedagogica opportunità di assunzione attualmente non previste.",
+    "data": "2026-09-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a57d7d7ed01c",
+    "titolo": "Nasce il nuovo polo culturale del Valentino, laboratorio permanente di cittadinanza e di cultura",
+    "link": "https://www.comune.torino.it/novita/comunicati/nasce-nuovo-polo-culturale-valentino-laboratorio-permanente-cittadinanza-cultura",
+    "descrizione": "Sul sito www.valetorino.it saranno on line già da questo pomeriggio i primi appuntamenti, in programma a partire da novembre.",
+    "data": "2026-09-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "d41418229747",
     "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
@@ -1955,46 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lautonomia-differenziata-verso-intese-definitive",
     "descrizione": "Con l'approvazione prima del Senato e poi della Camera dello schema delle pre-intese sull'Autonomia differenziata per il Piemonte, si compie un nuovo passo nel percorso che condurrà alla redazione delle intese definitive con lo Stato.…",
     "data": "2026-07-22T10:51:39+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "2586b5a68a25",
-    "titolo": "Una nuova legge sulle aree idonee per il fotovoltaico",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/una-nuova-legge-sulle-aree-idonee-per-fotovoltaico",
-    "descrizione": "Arrivare entro il 2030 a tagliare il traguardo di produzione di quasi 5 gigawatt di energia da fonti rinnovabili fissato al Governo è l’obiettivo che si pone la legge approvata il 21 luglio a maggioranza dal Consiglio regionale. La norma presentata dall’…",
-    "data": "2026-07-22T10:06:51+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "2ee063f28a70",
-    "titolo": "Edisu, bando per le borse di studio 2026-2027",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/edisu-bando-per-borse-studio-2026-2027",
-    "descrizione": "Un semestre in più di borsa di studio per gli iscritti part-time e ampliata l'offerta di residenzialità per sostenere sempre di più il diritto allo studio. Edisu Piemonte ha pubblicato il bando di concorso per le borse di studio e il servizio abitativo…",
-    "data": "2026-07-22T09:19:39+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "bac1220fed97",
-    "titolo": "La Corte dei Conti parifica il rendiconto 2025 della Regione Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corte-dei-conti-parifica-rendiconto-2025-della-regione-piemonte",
-    "descrizione": "La Corte dei Conti nella seduta pubblica di oggi ha parificato il rendiconto generale 2025 della Regione Piemonte, confermando la regolarità della gestione finanziaria e la solidità del percorso di risanamento dei conti regionali. La parifica è…",
-    "data": "2026-07-21T16:28:52+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a2c3d29a06f1",
-    "titolo": "Liste d'attesa, Agenas indica il Piemonte tra le buone pratiche nazionali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/liste-dattesa-agenas-indica-piemonte-buone-pratiche-nazionali",
-    "descrizione": "Il sistema sviluppato dalla Regione Piemonte per ottimizzare la gestione delle prenotazioni e l’utilizzo delle agende sanitarie è stato indicato da Agenas tra le buone pratiche nazionali efficaci e replicabili in altri contesti territoriali.…",
-    "data": "2026-07-21T14:25:24+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"

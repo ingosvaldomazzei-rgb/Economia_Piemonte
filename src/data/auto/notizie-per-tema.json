@@ -69,6 +69,22 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "45b99c64f2c9",
+      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
+      "data": "2026-09-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a57d7d7ed01c",
+      "titolo": "Nasce il nuovo polo culturale del Valentino, laboratorio permanente di cittadinanza e di cultura",
+      "link": "https://www.comune.torino.it/novita/comunicati/nasce-nuovo-polo-culturale-valentino-laboratorio-permanente-cittadinanza-cultura",
+      "data": "2026-09-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "b606039aa48d",
       "titolo": "Cultura ed enogastronomia: parte a Torino “In cucina con…” nell’ambito di Torino Compra Vicino e di Terra Madre Salone del Gusto",
       "link": "https://www.comune.torino.it/novita/comunicati/cultura-enogastronomia-parte-torino-cucina-nellambito-torino-compra-vicino-terra",
@@ -201,22 +217,6 @@
       "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
       "link": "https://www.comune.torino.it/novita/notizie/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
       "data": "2026-08-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bf04a0cd163a",
-      "titolo": "Siglato il patto di amicizia e collaborazione tra le città di Torino e San Paolo",
-      "link": "https://www.comune.torino.it/novita/comunicati/siglato-patto-amicizia-collaborazione-citta-torino-san-paolo",
-      "data": "2026-08-30T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "42949cf57d74",
-      "titolo": "Da martedì 25 agosto modifiche alla circolazione nel centro di Torino per le riprese di una nuova serie TV internazionale",
-      "link": "https://www.comune.torino.it/novita/comunicati/martedi-25-agosto-modifiche-alla-circolazione-nel-centro-torino-per-riprese-una",
-      "data": "2026-08-21T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -409,6 +409,260 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "lavoro-occupazione": [
+    {
+      "id": "45b99c64f2c9",
+      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
+      "data": "2026-09-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d41418229747",
+      "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
+      "data": "2026-09-15T16:49:36+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3c68b29e3968",
+      "titolo": "Allo Juventus Stadium la finale di Conference League 2028",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allo-juventus-stadium-finale-conference-league-2028",
+      "data": "2026-09-15T16:49:36+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1409dabfa7d6",
+      "titolo": "Spettacoli viaggianti, il Consiglio comunale aggiorna Regolamento e aree cittadine",
+      "link": "https://www.comune.torino.it/novita/comunicati/spettacoli-viaggianti-consiglio-comunale-aggiorna-regolamento-aree-cittadine",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "91fdef2781da",
+      "titolo": "Credito alle imprese, la cabina di regia delle Regioni del Nord apre il confronto con ABI",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/credito-alle-imprese-cabina-regia-delle-regioni-nord-apre-confronto-abi",
+      "data": "2026-09-07T16:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5ac56f1e8d1f",
+      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – ottobre 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-4",
+      "data": "2026-09-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b4ad9082dac7",
+      "titolo": "Caldo, prorogate fino al 6 settembre le misure di tutela per i lavoratori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/caldo-prorogate-fino-al-6-settembre-misure-tutela-per-lavoratori",
+      "data": "2026-09-01T16:25:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ed49627e70ee",
+      "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
+      "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
+      "data": "2026-09-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5e177945459b",
+      "titolo": "Avviso Corso INFORMATICA DI BASE (120 ORE) - GOL (102-103-104)",
+      "link": "https://www.comune.torino.it/novita/avvisi/avviso-corso-informatica-base-120-ore-gol-102-103-104",
+      "data": "2026-08-03T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f4722e14df6c",
+      "titolo": "Al lavoro sulle nuove Aree di accelerazione industriale per l’automotive",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-lavoro-sulle-nuove-aree-accelerazione-industriale-per-lautomotive",
+      "data": "2026-07-29T16:32:11+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d5f96aa64cfc",
+      "titolo": "Nuove regole per i dehor con l’obiettivo di sburocratizzare e semplificare le procedure di richiesta",
+      "link": "https://www.comune.torino.it/novita/comunicati/nuove-regole-per-dehor-lobiettivo-sburocratizzare-semplificare-procedure",
+      "data": "2026-07-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1fa9b291b729",
+      "titolo": "Sala del Commiato del Cimitero Parco: la Giunta approva le regole per l’utilizzo",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-commiato-cimitero-parco-giunta-approva-regole-per-lutilizzo",
+      "data": "2026-07-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "trasporti-mobilita": [
+    {
+      "id": "45b99c64f2c9",
+      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
+      "data": "2026-09-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "22cfdebedc48",
+      "titolo": "Scaricava liquami in un tombino vicino al terminal di corso Vittorio Emanuele: conducente denunciato e autobus sequestrato",
+      "link": "https://www.comune.torino.it/novita/comunicati/scaricava-liquami-un-tombino-vicino-al-terminal-corso-vittorio-emanuele",
+      "data": "2026-08-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "39c1f33f3d60",
+      "titolo": "La situazione dei cantieri estivi sulle autostrade piemontesi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/situazione-dei-cantieri-estivi-sulle-autostrade-piemontesi",
+      "data": "2026-07-29T22:13:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a585b363e6e9",
+      "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
+      "data": "2026-07-24T19:23:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "pianificazione-territoriale": [
+    {
+      "id": "45b99c64f2c9",
+      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
+      "data": "2026-09-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d1386071c157",
+      "titolo": "Incendi boschivi, la Regione Piemonte revoca lo stato di massima pericolosità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-regione-piemonte-revoca-stato-massima-pericolosita",
+      "data": "2026-09-09T15:45:50+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "add0575bcf65",
+      "titolo": "Incendi boschivi, revocato lo stato di massima pericolosità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-revocato-stato-massima-pericolosita",
+      "data": "2026-09-09T15:45:50+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7059312f7ab5",
+      "titolo": "Bando Ecomusei, 450 mila euro per il sostegno delle attività",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-ecomusei-450-mila-euro-per-sostegno-delle-attivita",
+      "data": "2026-09-04T11:09:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9aa8a85254e4",
+      "titolo": "Ecomusei, 450 mila euro per il sostegno delle attività",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-450-mila-euro-per-sostegno-delle-attivita",
+      "data": "2026-09-04T11:09:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ed49627e70ee",
+      "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
+      "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
+      "data": "2026-09-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1a049bea0793",
+      "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
+      "link": "https://www.comune.torino.it/novita/comunicati/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
+      "data": "2026-08-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "78f8d0c82141",
+      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
+      "data": "2026-08-12T17:31:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "44fafcd9c0b2",
+      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+      "data": "2026-08-11T11:41:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "01efb4b9e3ca",
+      "titolo": "Incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+      "data": "2026-08-11T11:41:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a0c4be04f384",
+      "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
+      "data": "2026-08-10T13:54:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2130eacdc801",
+      "titolo": "Dalla Regione 330 mila euro per le caserme della Guardia di Finanza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-330-mila-euro-per-caserme-della-guardia-finanza",
+      "data": "2026-08-05T10:44:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2623db8a45e8",
+      "titolo": "Il Piemonte dichiara lo stato di emergenza regionale per crisi idrica e incendi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-dichiara-stato-emergenza-regionale-per-crisi-idrica-incendi",
+      "data": "2026-08-03T18:22:26+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bc2181b59c9b",
+      "titolo": "Piemonte Film Tv Fund 2026: i progetti finanziati con la prima sessione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-2026-progetti-finanziati-prima-sessione",
+      "data": "2026-07-30T18:46:34+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7b873b05b26c",
+      "titolo": "I 150 anni della ferrovia Torino-Lanzo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/150-anni-della-ferrovia-torino-lanzo",
+      "data": "2026-07-27T10:19:03+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "sanita-regionale": [
     {
       "id": "d41418229747",
@@ -519,112 +773,6 @@
       "titolo": "Transizione energetica, si riqualificano 21 edifici pubblici",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/transizione-energetica-si-riqualificano-21-edifici-pubblici",
       "data": "2026-07-29T16:08:41+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a2c3d29a06f1",
-      "titolo": "Liste d'attesa, Agenas indica il Piemonte tra le buone pratiche nazionali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/liste-dattesa-agenas-indica-piemonte-buone-pratiche-nazionali",
-      "data": "2026-07-21T14:25:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "d41418229747",
-      "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
-      "data": "2026-09-15T16:49:36+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3c68b29e3968",
-      "titolo": "Allo Juventus Stadium la finale di Conference League 2028",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allo-juventus-stadium-finale-conference-league-2028",
-      "data": "2026-09-15T16:49:36+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1409dabfa7d6",
-      "titolo": "Spettacoli viaggianti, il Consiglio comunale aggiorna Regolamento e aree cittadine",
-      "link": "https://www.comune.torino.it/novita/comunicati/spettacoli-viaggianti-consiglio-comunale-aggiorna-regolamento-aree-cittadine",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "91fdef2781da",
-      "titolo": "Credito alle imprese, la cabina di regia delle Regioni del Nord apre il confronto con ABI",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/credito-alle-imprese-cabina-regia-delle-regioni-nord-apre-confronto-abi",
-      "data": "2026-09-07T16:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5ac56f1e8d1f",
-      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – ottobre 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-4",
-      "data": "2026-09-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b4ad9082dac7",
-      "titolo": "Caldo, prorogate fino al 6 settembre le misure di tutela per i lavoratori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/caldo-prorogate-fino-al-6-settembre-misure-tutela-per-lavoratori",
-      "data": "2026-09-01T16:25:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ed49627e70ee",
-      "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
-      "data": "2026-09-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5e177945459b",
-      "titolo": "Avviso Corso INFORMATICA DI BASE (120 ORE) - GOL (102-103-104)",
-      "link": "https://www.comune.torino.it/novita/avvisi/avviso-corso-informatica-base-120-ore-gol-102-103-104",
-      "data": "2026-08-03T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f4722e14df6c",
-      "titolo": "Al lavoro sulle nuove Aree di accelerazione industriale per l’automotive",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-lavoro-sulle-nuove-aree-accelerazione-industriale-per-lautomotive",
-      "data": "2026-07-29T16:32:11+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d5f96aa64cfc",
-      "titolo": "Nuove regole per i dehor con l’obiettivo di sburocratizzare e semplificare le procedure di richiesta",
-      "link": "https://www.comune.torino.it/novita/comunicati/nuove-regole-per-dehor-lobiettivo-sburocratizzare-semplificare-procedure",
-      "data": "2026-07-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1fa9b291b729",
-      "titolo": "Sala del Commiato del Cimitero Parco: la Giunta approva le regole per l’utilizzo",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-commiato-cimitero-parco-giunta-approva-regole-per-lutilizzo",
-      "data": "2026-07-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bac1220fed97",
-      "titolo": "La Corte dei Conti parifica il rendiconto 2025 della Regione Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corte-dei-conti-parifica-rendiconto-2025-della-regione-piemonte",
-      "data": "2026-07-21T16:28:52+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -793,14 +941,6 @@
       "data": "2026-07-31T15:54:39+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "bac1220fed97",
-      "titolo": "La Corte dei Conti parifica il rendiconto 2025 della Regione Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corte-dei-conti-parifica-rendiconto-2025-della-regione-piemonte",
-      "data": "2026-07-21T16:28:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "edilizia-opere-pubbliche": [
@@ -925,14 +1065,6 @@
       "titolo": "Transizione energetica, si riqualificano 21 edifici pubblici",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/transizione-energetica-si-riqualificano-21-edifici-pubblici",
       "data": "2026-07-29T16:08:41+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2586b5a68a25",
-      "titolo": "Una nuova legge sulle aree idonee per il fotovoltaico",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/una-nuova-legge-sulle-aree-idonee-per-fotovoltaico",
-      "data": "2026-07-22T10:06:51+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -1527,120 +1659,6 @@
       "fonte_id": "regione"
     }
   ],
-  "pianificazione-territoriale": [
-    {
-      "id": "d1386071c157",
-      "titolo": "Incendi boschivi, la Regione Piemonte revoca lo stato di massima pericolosità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-regione-piemonte-revoca-stato-massima-pericolosita",
-      "data": "2026-09-09T15:45:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "add0575bcf65",
-      "titolo": "Incendi boschivi, revocato lo stato di massima pericolosità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-revocato-stato-massima-pericolosita",
-      "data": "2026-09-09T15:45:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7059312f7ab5",
-      "titolo": "Bando Ecomusei, 450 mila euro per il sostegno delle attività",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-ecomusei-450-mila-euro-per-sostegno-delle-attivita",
-      "data": "2026-09-04T11:09:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9aa8a85254e4",
-      "titolo": "Ecomusei, 450 mila euro per il sostegno delle attività",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-450-mila-euro-per-sostegno-delle-attivita",
-      "data": "2026-09-04T11:09:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ed49627e70ee",
-      "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
-      "data": "2026-09-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1a049bea0793",
-      "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
-      "link": "https://www.comune.torino.it/novita/comunicati/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
-      "data": "2026-08-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "78f8d0c82141",
-      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
-      "data": "2026-08-12T17:31:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "44fafcd9c0b2",
-      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-      "data": "2026-08-11T11:41:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "01efb4b9e3ca",
-      "titolo": "Incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-      "data": "2026-08-11T11:41:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a0c4be04f384",
-      "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
-      "data": "2026-08-10T13:54:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2130eacdc801",
-      "titolo": "Dalla Regione 330 mila euro per le caserme della Guardia di Finanza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-330-mila-euro-per-caserme-della-guardia-finanza",
-      "data": "2026-08-05T10:44:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2623db8a45e8",
-      "titolo": "Il Piemonte dichiara lo stato di emergenza regionale per crisi idrica e incendi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-dichiara-stato-emergenza-regionale-per-crisi-idrica-incendi",
-      "data": "2026-08-03T18:22:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bc2181b59c9b",
-      "titolo": "Piemonte Film Tv Fund 2026: i progetti finanziati con la prima sessione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-2026-progetti-finanziati-prima-sessione",
-      "data": "2026-07-30T18:46:34+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7b873b05b26c",
-      "titolo": "I 150 anni della ferrovia Torino-Lanzo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/150-anni-della-ferrovia-torino-lanzo",
-      "data": "2026-07-27T10:19:03+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "protezione-civile": [
     {
       "id": "d1386071c157",
@@ -1711,32 +1729,6 @@
       "titolo": "La Regione pronta a dichiarare lo stato di emergenza per crisi idrica",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-dichiarare-stato-emergenza-per-crisi-idrica",
       "data": "2026-07-30T21:07:42+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "trasporti-mobilita": [
-    {
-      "id": "22cfdebedc48",
-      "titolo": "Scaricava liquami in un tombino vicino al terminal di corso Vittorio Emanuele: conducente denunciato e autobus sequestrato",
-      "link": "https://www.comune.torino.it/novita/comunicati/scaricava-liquami-un-tombino-vicino-al-terminal-corso-vittorio-emanuele",
-      "data": "2026-08-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "39c1f33f3d60",
-      "titolo": "La situazione dei cantieri estivi sulle autostrade piemontesi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/situazione-dei-cantieri-estivi-sulle-autostrade-piemontesi",
-      "data": "2026-07-29T22:13:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a585b363e6e9",
-      "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
-      "data": "2026-07-24T19:23:51+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
