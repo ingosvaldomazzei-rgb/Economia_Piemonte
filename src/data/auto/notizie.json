@@ -20,6 +20,36 @@
     "colore": "#dc2626"
   },
   {
+    "id": "828cde37c786",
+    "titolo": "Auxil.IA, l'intelligenza artificiale a servizio della pubblica amministrazione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/auxilia-lintelligenza-artificiale-servizio-della-pubblica-amministrazione",
+    "descrizione": "La Regione Piemonte, da tempo impegnata in un percorso strutturato di trasformazione digitale basato sull’adozione responsabile delle tecnologie più innovative, ha adottato Auxil.IA, la piattaforma di intelligenza artificiale realizzata da Csi Piemonte per dare…",
+    "data": "2026-09-17T13:57:06+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "d7e0943c5bbe",
+    "titolo": "A Falchera nasce Falchè, il cohousing per l'autonomia delle persone con disabilità",
+    "link": "https://www.comune.torino.it/novita/comunicati/falchera-nasce-falche-cohousing-per-lautonomia-delle-persone-disabilita",
+    "descrizione": "Un nuovo spazio dedicato all’autonomia e all’inclusione delle persone con disabilità a Falchera: è stato inaugurato questo pomeriggio Falchè, il progetto realiz",
+    "data": "2026-09-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bbb2e4c5c9f7",
+    "titolo": "Parco Carrara, festa abusiva bloccata dalla Polizia Locale di Torino",
+    "link": "https://www.comune.torino.it/novita/comunicati/parco-carrara-festa-abusiva-bloccata-dalla-polizia-locale-torino",
+    "descrizione": "Non ha avuto luogo la “Gran Pollada” preannunciato da alcuni volantini per sabato 12 settembre nel Parco Carrara, ma privo delle necessarie autorizzazioni.",
+    "data": "2026-09-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "212460fcaf57",
     "titolo": "Infermieristica, crescono le iscrizioni",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/infermieristica-crescono-iscrizioni",
@@ -84,6 +114,16 @@
     "titolo": "Barriera di Milano, taglio del nastro per gli spazi riqualificati della Casa di Quartiere Bagni Pubblici di via Agliè",
     "link": "https://www.comune.torino.it/novita/comunicati/barriera-milano-taglio-nastro-per-spazi-riqualificati-della-casa-quartiere-bagni",
     "descrizione": "Sono stati inaugurati questo pomeriggio gli spazi riqualificati della Casa del Quartiere Bagni Pubblici di via Agliè 9.",
+    "data": "2026-09-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1c72585407ae",
+    "titolo": "Settembre all'Archivio Storico tra aperture straordinarie e l'inaugurazione di una nuova mostra",
+    "link": "https://www.comune.torino.it/novita/notizie/settembre-allarchivio-storico-aperture-straordinarie-linaugurazione-una-nuova",
+    "descrizione": "Sabato 19, venerdì 25 e sabato 26 settembre",
     "data": "2026-09-16T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1958,45 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "0e0852272207",
-    "titolo": "Aperta la nuova passerella ciclopedonale del Parco del Meisino",
-    "link": "https://www.comune.torino.it/novita/comunicati/aperta-nuova-passerella-ciclopedonale-parco-meisino",
-    "descrizione": "Da ieri è percorribile la nuova passerella ciclopedonale del Parco del Meisino, che connette le due aree del parco separate da corso Don Luigi Sturzo.",
-    "data": "2026-07-24T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0d5574489fb0",
-    "titolo": "Orario estivo SFEP",
-    "link": "https://www.comune.torino.it/novita/avvisi/orario-estivo-sfep",
-    "descrizione": "Orario estivo SFEP da lunedì 27/07/2026",
-    "data": "2026-07-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0c06fc426e93",
-    "titolo": "Concessione immobile di proprietà comunale sito in Noli, via Aurelia 43",
-    "link": "https://www.comune.torino.it/novita/avvisi/concessione-immobile-proprieta-comunale-sito-noli-via-aurelia-43",
-    "descrizione": "Concessione di immobile di proprietà comunale sito in Noli, via Aurelia 43 a soggetti senza fine di lucro. - Avviso Pubblico n. 2/2026",
-    "data": "2026-07-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "375912164f24",
-    "titolo": "Concessione di immobile di proprietà comunale a soggetti senza fine di lucro",
-    "link": "https://www.comune.torino.it/novita/avvisi/concessione-immobile-proprieta-comunale-soggetti-senza-fine-lucro",
-    "descrizione": "Avviso Pubblico n. 2/2026 - Concessione di immobile di proprietà comunale sito in Noli, via Aurelia 43 a soggetti senza fine di lucro",
-    "data": "2026-07-23T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
