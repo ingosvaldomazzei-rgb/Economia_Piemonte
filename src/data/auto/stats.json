@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 121,
-    "regione": 79
+    "comune_torino": 119,
+    "regione": 81
   },
   "temi_attivi": [
     {
@@ -14,20 +14,16 @@
       "conteggio": 20
     },
     {
+      "tema": "sanita-regionale",
+      "conteggio": 15
+    },
+    {
       "tema": "pianificazione-territoriale",
       "conteggio": 15
     },
     {
-      "tema": "sanita-regionale",
-      "conteggio": 14
-    },
-    {
       "tema": "enti-locali-piccoli-comuni",
       "conteggio": 14
-    },
-    {
-      "tema": "sociale-welfare",
-      "conteggio": 12
     },
     {
       "tema": "lavoro-occupazione",
@@ -39,6 +35,10 @@
     },
     {
       "tema": "universita-ricerca",
+      "conteggio": 11
+    },
+    {
+      "tema": "sociale-welfare",
       "conteggio": 11
     },
     {
