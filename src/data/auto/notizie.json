@@ -20,10 +20,20 @@
     "colore": "#dc2626"
   },
   {
+    "id": "a150de4e694b",
+    "titolo": "Affidamento familiare, la Città aumenta i contributi e rafforza la collaborazione con l’Asl",
+    "link": "https://www.comune.torino.it/novita/comunicati/affidamento-familiare-citta-aumenta-contributi-rafforza-collaborazione-lasl",
+    "descrizione": "Dopo oltre un decennio dall’ultima revisione organica delle quote economiche, la Città aumenta i rimborsi spese riconosciuti alle famiglie affidatarie.",
+    "data": "2026-09-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "828cde37c786",
     "titolo": "Auxil.IA, l'intelligenza artificiale a servizio della pubblica amministrazione",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/auxilia-lintelligenza-artificiale-servizio-della-pubblica-amministrazione",
-    "descrizione": "La Regione Piemonte, da tempo impegnata in un percorso strutturato di trasformazione digitale basato sull’adozione responsabile delle tecnologie più innovative, ha adottato Auxil.IA, la piattaforma di intelligenza artificiale realizzata da Csi Piemonte per dare…",
+    "descrizione": "La Regione Piemonte, da tempo impegnata in un percorso strutturato di trasformazione digitale basato sull’adozione responsabile delle tecnologie più innovative, ha adottato Auxil.IA, la …",
     "data": "2026-09-17T13:57:06+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
@@ -1985,16 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
     "descrizione": "“L'obiettivo comune è far ripartire al più presto un'opera strategica per l'intera area metropolitana torinese. La Regione è pronta a fare la propria parte e insieme al presidente Cirio porteremo all’attenzione del Governo, in accordo con i sindaci, la necessità di reperire nel…",
     "data": "2026-07-24T19:23:51+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "7107d6d2fb41",
-    "titolo": "Un data center nell’ex centrale di Trino",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-data-center-nellex-centrale-trino",
-    "descrizione": "La decisione del Consiglio dei ministri che ha dichiarato di preminente interesse strategico nazionale il programma di investimento “Cavour Hyperscale Campus”, destinato a trasformare l’area dell'ex centrale Galileo Ferraris di Trino (Vercelli) in uno…",
-    "data": "2026-07-24T18:55:40+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
