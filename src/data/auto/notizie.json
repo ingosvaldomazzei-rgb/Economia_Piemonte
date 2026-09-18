@@ -60,6 +60,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "abc9a60b635a",
+    "titolo": "Giornate della legalità - spazi aperti in luoghi chiusi, la quarta edizione dall’8 all’11 ottobre 2026",
+    "link": "https://www.comune.torino.it/novita/comunicati/giornate-della-legalita-spazi-aperti-luoghi-chiusi-quarta-edizione-dall8-all11",
+    "descrizione": "La presentazione della quarta edizione delle Giornate della Legalità – Spazi aperti in luoghi chiusi, in programma a Torino da giovedì 8 a domenica 11 ottobre.",
+    "data": "2026-09-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "828cde37c786",
     "titolo": "Auxil.IA, l'intelligenza artificiale a servizio della pubblica amministrazione",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/auxilia-lintelligenza-artificiale-servizio-della-pubblica-amministrazione",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "7b873b05b26c",
-    "titolo": "I 150 anni della ferrovia Torino-Lanzo",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/150-anni-della-ferrovia-torino-lanzo",
-    "descrizione": "Domenica 26 luglio sono stati celebrati i 150 anni della ferrovia Torino-Lanzo, uno dei simboli della storia ferroviaria piemontese e il legame tra il territorio e il suo patrimonio. In mattinata è partito da Torino Porta Nuova un treno storico…",
-    "data": "2026-07-27T10:19:03+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
