@@ -20,10 +20,40 @@
     "colore": "#dc2626"
   },
   {
+    "id": "fd25b52e6865",
+    "titolo": "Bollo auto, oltre 1,6 milioni di Piemontesi non lo pagheranno",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bollo-auto-oltre-16-milioni-piemontesi-non-pagheranno",
+    "descrizione": "Sono 1.636.491 i piemontesi che non pagheranno più il bollo auto, grazie al provvedimento approvato ieri dal Consiglio dei Ministri: 1.416.089 proprietari di auto e 220.402 di una moto. Il presidente della Regione Piemonte, …",
+    "data": "2026-09-18T14:37:55+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "a150de4e694b",
     "titolo": "Affidamento familiare, la Città aumenta i contributi e rafforza la collaborazione con l’Asl",
     "link": "https://www.comune.torino.it/novita/comunicati/affidamento-familiare-citta-aumenta-contributi-rafforza-collaborazione-lasl",
     "descrizione": "Dopo oltre un decennio dall’ultima revisione organica delle quote economiche, la Città aumenta i rimborsi spese riconosciuti alle famiglie affidatarie.",
+    "data": "2026-09-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d5948714998b",
+    "titolo": "Strade, marciapiedi e attraversamenti pedonali: al via una nuova tornata di interventi in tutta la Città",
+    "link": "https://www.comune.torino.it/novita/comunicati/strade-marciapiedi-attraversamenti-pedonali-al-via-una-nuova-tornata-interventi",
+    "descrizione": "La prossima settimana prende il via una nuova tornata di cantieri stradali: interventi su marciapiedi, attraversamenti pedonali e riasfaltature.",
+    "data": "2026-09-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4976dcd6b51c",
+    "titolo": "Aperture straordinarie dei mercati rionali - Periodo novembre 2026 – gennaio 2027",
+    "link": "https://www.comune.torino.it/novita/avvisi/aperture-straordinarie-dei-mercati-rionali-periodo-novembre-2026-gennaio-2027",
+    "descrizione": "Approvazione del calendario per lo svolgimento di mercati rionali straordinari per il periodo novembre 2026 – gennaio 2027",
     "data": "2026-09-18T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1965,36 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/150-anni-della-ferrovia-torino-lanzo",
     "descrizione": "Domenica 26 luglio sono stati celebrati i 150 anni della ferrovia Torino-Lanzo, uno dei simboli della storia ferroviaria piemontese e il legame tra il territorio e il suo patrimonio. In mattinata è partito da Torino Porta Nuova un treno storico…",
     "data": "2026-07-27T10:19:03+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "cebf2d96266a",
-    "titolo": "Il grande successo della terza edizione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/grande-successo-della-terza-edizione",
-    "descrizione": "Accordo quinquennale di cooperazione tra Regione Piemonte, Regione autonoma Valle d'Aosta e Département de la Savoie, premiazione di chi ha scelto di andare a vivere in montagna, valorizzazione del patrimonio naturale, culturale ed economico delle montagne, lancio della nuova guida di Lonely…",
-    "data": "2026-07-26T17:52:03+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "4dcbadb302e6",
-    "titolo": "Inaugurata a Exilles la \"Falesia dei lupi\"",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/inaugurata-exilles-falesia-dei-lupi",
-    "descrizione": "Inaugurazione sabato 25 luglio per la \"Falesia dei Lupi\", una nuova ed attrezzata parete di arrampicata situata ai piedi del Forte di Exilles. Erano presenti l’assessore regionale al Patrimonio Gian Luca Vignale, il sindaco di Exilles Roberto…",
-    "data": "2026-07-25T17:43:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a585b363e6e9",
-    "titolo": "Incontro per completare la linea 1 della metropolitana di Torino",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-per-completare-linea-1-della-metropolitana-torino",
-    "descrizione": "“L'obiettivo comune è far ripartire al più presto un'opera strategica per l'intera area metropolitana torinese. La Regione è pronta a fare la propria parte e insieme al presidente Cirio porteremo all’attenzione del Governo, in accordo con i sindaci, la necessità di reperire nel…",
-    "data": "2026-07-24T19:23:51+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"

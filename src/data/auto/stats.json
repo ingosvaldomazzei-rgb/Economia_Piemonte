@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 119,
-    "regione": 81
+    "comune_torino": 121,
+    "regione": 79
   },
   "temi_attivi": [
     {
@@ -22,11 +22,11 @@
       "conteggio": 15
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 14
+      "tema": "sociale-welfare",
+      "conteggio": 13
     },
     {
-      "tema": "sociale-welfare",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 13
     },
     {
@@ -46,5 +46,5 @@
       "conteggio": 11
     }
   ],
-  "totale_temi_con_notizie": 25
+  "totale_temi_con_notizie": 24
 }
