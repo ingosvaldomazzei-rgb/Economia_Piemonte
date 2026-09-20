@@ -417,6 +417,120 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "b2e4e51c27a0",
+      "titolo": "A Don Mario Bo, storico parroco di Pietra Alta, intitolata la piazzetta davanti alla chiesa di San Michele Arcangelo",
+      "link": "https://www.comune.torino.it/novita/comunicati/don-mario-bo-storico-parroco-pietra-alta-intitolata-piazzetta-davanti-alla",
+      "data": "2026-09-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8ed208ca5f34",
+      "titolo": "Comunicare con consapevolezza - nuovo ciclo",
+      "link": "https://www.comune.torino.it/novita/notizie/comunicare-consapevolezza-nuovo-ciclo",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f2f5f04da0ec",
+      "titolo": "Tra comunicazione, corpo e nuove forme di espressione",
+      "link": "https://www.comune.torino.it/novita/notizie/comunicazione-corpo-nuove-forme-espressione",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8ac11659b600",
+      "titolo": "Intitolata piazzetta \"Fiorenzo Alfieri\"",
+      "link": "https://www.comune.torino.it/novita/comunicati/intitolata-piazzetta-fiorenzo-alfieri",
+      "data": "2026-09-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7059312f7ab5",
+      "titolo": "Bando Ecomusei, 450 mila euro per il sostegno delle attività",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-ecomusei-450-mila-euro-per-sostegno-delle-attivita",
+      "data": "2026-09-04T11:09:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9aa8a85254e4",
+      "titolo": "Ecomusei, 450 mila euro per il sostegno delle attività",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-450-mila-euro-per-sostegno-delle-attivita",
+      "data": "2026-09-04T11:09:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "38606629a1b2",
+      "titolo": "Maltempo e calamità, nasce il “pronto intervento” per le scuole danneggiate",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-calamita-nasce-pronto-intervento-per-scuole-danneggiate",
+      "data": "2026-09-01T13:58:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6c6c284cf408",
+      "titolo": "Il 12 settembre gli Stati generali dei territori MAB Unesco del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/12-settembre-gli-stati-generali-dei-territori-mab-unesco-piemonte",
+      "data": "2026-08-31T14:54:45+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bc3dab3839a8",
+      "titolo": "Voucher Scuola, pubblicate le graduatorie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-pubblicate-graduatorie",
+      "data": "2026-08-24T13:41:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c49fb27363e6",
+      "titolo": "Competenze di Comunicazione Consapevole",
+      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
+      "data": "2026-08-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "421045fa3e29",
+      "titolo": "Cultura, oltre 10 milioni a 334 realtà in tutte le province",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-oltre-10-milioni-334-realta-tutte-province",
+      "data": "2026-08-13T10:05:56+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "78f8d0c82141",
+      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
+      "data": "2026-08-12T17:31:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "44fafcd9c0b2",
+      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+      "data": "2026-08-11T11:41:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "74e99681bdee",
+      "titolo": "Nidi comunali, dalla Regione 1,5 milioni per ampliare l'orario di apertura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-comunali-dalla-regione-15-milioni-per-ampliare-lorario-apertura",
+      "data": "2026-08-10T11:55:16+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "sanita-regionale": [
     {
       "id": "a150de4e694b",
@@ -1507,112 +1621,6 @@
       "titolo": "Agricoltura, 1 milione di euro per il ripristino ecologico degli ambienti naturali",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-1-milione-euro-per-ripristino-ecologico-degli-ambienti-naturali",
       "data": "2026-08-20T10:25:34+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "8ed208ca5f34",
-      "titolo": "Comunicare con consapevolezza - nuovo ciclo",
-      "link": "https://www.comune.torino.it/novita/notizie/comunicare-consapevolezza-nuovo-ciclo",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f2f5f04da0ec",
-      "titolo": "Tra comunicazione, corpo e nuove forme di espressione",
-      "link": "https://www.comune.torino.it/novita/notizie/comunicazione-corpo-nuove-forme-espressione",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8ac11659b600",
-      "titolo": "Intitolata piazzetta \"Fiorenzo Alfieri\"",
-      "link": "https://www.comune.torino.it/novita/comunicati/intitolata-piazzetta-fiorenzo-alfieri",
-      "data": "2026-09-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7059312f7ab5",
-      "titolo": "Bando Ecomusei, 450 mila euro per il sostegno delle attività",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-ecomusei-450-mila-euro-per-sostegno-delle-attivita",
-      "data": "2026-09-04T11:09:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9aa8a85254e4",
-      "titolo": "Ecomusei, 450 mila euro per il sostegno delle attività",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-450-mila-euro-per-sostegno-delle-attivita",
-      "data": "2026-09-04T11:09:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "38606629a1b2",
-      "titolo": "Maltempo e calamità, nasce il “pronto intervento” per le scuole danneggiate",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-calamita-nasce-pronto-intervento-per-scuole-danneggiate",
-      "data": "2026-09-01T13:58:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6c6c284cf408",
-      "titolo": "Il 12 settembre gli Stati generali dei territori MAB Unesco del Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/12-settembre-gli-stati-generali-dei-territori-mab-unesco-piemonte",
-      "data": "2026-08-31T14:54:45+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bc3dab3839a8",
-      "titolo": "Voucher Scuola, pubblicate le graduatorie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-scuola-pubblicate-graduatorie",
-      "data": "2026-08-24T13:41:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c49fb27363e6",
-      "titolo": "Competenze di Comunicazione Consapevole",
-      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
-      "data": "2026-08-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "421045fa3e29",
-      "titolo": "Cultura, oltre 10 milioni a 334 realtà in tutte le province",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-oltre-10-milioni-334-realta-tutte-province",
-      "data": "2026-08-13T10:05:56+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "78f8d0c82141",
-      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
-      "data": "2026-08-12T17:31:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "44fafcd9c0b2",
-      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-      "data": "2026-08-11T11:41:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "74e99681bdee",
-      "titolo": "Nidi comunali, dalla Regione 1,5 milioni per ampliare l'orario di apertura",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-comunali-dalla-regione-15-milioni-per-ampliare-lorario-apertura",
-      "data": "2026-08-10T11:55:16+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
