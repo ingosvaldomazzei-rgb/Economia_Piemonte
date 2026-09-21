@@ -1,5 +1,25 @@
 [
   {
+    "id": "7ac852f3bd9f",
+    "titolo": "Riapre via Chiesa della Salute: da questa mattina si torna a circolare nei due sensi",
+    "link": "https://www.comune.torino.it/novita/comunicati/riapre-via-chiesa-della-salute-questa-mattina-si-torna-circolare-nei-due-sensi",
+    "descrizione": "Ha riaperto questa mattina al traffico, in entrambe le direzioni, via Chiesa della Salute, nel tratto compreso tra via del Ridotto e via Stradella.",
+    "data": "2026-09-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e2a868e4aac6",
+    "titolo": "1996-2026 - 30 anni di attività educative e formative Catalogo Crescere in Città - Esperienze, apprendimenti, opportunità",
+    "link": "https://www.comune.torino.it/novita/notizie/1996-2026-30-anni-attivita-educative-formative-catalogo-crescere-citta",
+    "descrizione": "Dal 2 al 4 ottobre ITER propone un programma di iniziative pensate per i 30 anni del Catalogo Crescere in Città",
+    "data": "2026-09-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "9e93b33a1938",
     "titolo": "A Torino il Festival del Paesaggio Fluviale: arte, ricerca e partecipazione lungo il Sangone",
     "link": "https://www.comune.torino.it/novita/notizie/torino-festival-paesaggio-fluviale-arte-ricerca-partecipazione-lungo-sangone",
@@ -25,6 +45,16 @@
     "link": "https://www.comune.torino.it/novita/comunicati/don-mario-bo-storico-parroco-pietra-alta-intitolata-piazzetta-davanti-alla",
     "descrizione": "Il parroco fece costruire la chiesa ed operò per costruire una comunità inclusiva",
     "data": "2026-09-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "382003d02732",
+    "titolo": "Torino al Summit Urban 20 di New York",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-al-summit-urban-20-new-york",
+    "descrizione": "Il sindaco di Torino Stefano Lo Russo parteciperà oggi, sabato 19 settembre, e domani, domenica 20, a New York, al 2026 Urban 20 Mayors Summit.",
+    "data": "2026-09-19T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
@@ -1965,36 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/sala-commiato-cimitero-parco-giunta-approva-regole-per-lutilizzo",
     "descrizione": "Sarà possibile dare l’ultimo saluto ai propri cari anche in uno spazio pubblico, laico, accessibile e pensato per accogliere familiari e amici.",
     "data": "2026-07-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a2d437e14a22",
-    "titolo": "La Regione parte civile sugli scontri di Chiomonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-parte-civile-sugli-scontri-chiomonte",
-    "descrizione": "La Giunta regionale ha deciso nel corso della riunione odierna di costituirsi formalmente parte civile nei procedimenti che seguiranno ai gravi scontri avvenuti sabato scorso nel cantiere della Torino-Lione a Chiomonte. “La prima stima dei danni diretti…",
-    "data": "2026-07-27T14:17:34+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a6778ba3db44",
-    "titolo": "Chiusura estiva - Uffici Rilascio stalli di sosta a persone con disabilità",
-    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-estiva-uffici-rilascio-stalli-sosta-persone-disabilita",
-    "descrizione": "Chiusura estiva dal 10 al 14 agosto compresi.",
-    "data": "2026-07-27T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "19099c586673",
-    "titolo": "Concessione di immobili di proprietà comunale a soggetti senza fine di lucro – 3 Lotti",
-    "link": "https://www.comune.torino.it/novita/avvisi/concessione-immobili-proprieta-comunale-soggetti-senza-fine-lucro-3-lotti",
-    "descrizione": "Avviso Pubblico n. 3/2026 - Concessione di immobili di proprietà comunale a soggetti senza fine di lucro – 3 Lotti",
-    "data": "2026-07-27T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"

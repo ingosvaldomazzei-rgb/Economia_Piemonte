@@ -69,6 +69,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "382003d02732",
+      "titolo": "Torino al Summit Urban 20 di New York",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-al-summit-urban-20-new-york",
+      "data": "2026-09-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "45b99c64f2c9",
       "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
       "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
@@ -211,14 +219,6 @@
       "data": "2026-08-31T14:54:45+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "3a257d17fcc9",
-      "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
-      "link": "https://www.comune.torino.it/novita/notizie/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
-      "data": "2026-08-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "universita-ricerca": [
