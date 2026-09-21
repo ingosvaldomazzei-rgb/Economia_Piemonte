@@ -1,4 +1,86 @@
 {
+  "giovani": [
+    {
+      "id": "ab7687aaa1e7",
+      "titolo": "La Sala Rossa approva due atti per salute mentale e prevenzione del suicidio giovanile",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approva-due-atti-per-salute-mentale-prevenzione-suicidio-giovanile",
+      "data": "2026-09-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "212460fcaf57",
+      "titolo": "Infermieristica, crescono le iscrizioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/infermieristica-crescono-iscrizioni",
+      "data": "2026-09-17T09:07:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f2f5f04da0ec",
+      "titolo": "Tra comunicazione, corpo e nuove forme di espressione",
+      "link": "https://www.comune.torino.it/novita/notizie/comunicazione-corpo-nuove-forme-espressione",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cef8dd28c42e",
+      "titolo": "Sette posti per costruire l’autonomia: inaugurato “Un piazzale di sogni”, housing per giovani in condizioni di fragilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/sette-posti-per-costruire-lautonomia-inaugurato-un-piazzale-sogni-housing-per",
+      "data": "2026-09-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b85ced87eeb1",
+      "titolo": "Giovani e clima: al via la terza edizione del Torino Youth Climate Action Fund",
+      "link": "https://www.comune.torino.it/novita/notizie/giovani-clima-al-via-terza-edizione-torino-youth-climate-action-fund",
+      "data": "2026-09-03T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1cea3ecef309",
+      "titolo": "Piemonte, cresce la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f92d203ccf89",
+      "titolo": "48 milioni per la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/48-milioni-per-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "490103bd3f43",
+      "titolo": "Scoprire il talento, costruire il futuro",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scoprire-talento-costruire-futuro",
+      "data": "2026-08-30T20:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "45ac97db8823",
+      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
+      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
+      "data": "2026-08-04T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e84eb7067781",
+      "titolo": "Guida sicura per neopatentati",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/guida-sicura-per-neopatentati",
+      "data": "2026-08-03T14:44:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "crisi-automotive": [
     {
       "id": "9e93b33a1938",
@@ -793,80 +875,6 @@
       "fonte_id": "regione"
     }
   ],
-  "giovani": [
-    {
-      "id": "212460fcaf57",
-      "titolo": "Infermieristica, crescono le iscrizioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/infermieristica-crescono-iscrizioni",
-      "data": "2026-09-17T09:07:29+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f2f5f04da0ec",
-      "titolo": "Tra comunicazione, corpo e nuove forme di espressione",
-      "link": "https://www.comune.torino.it/novita/notizie/comunicazione-corpo-nuove-forme-espressione",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cef8dd28c42e",
-      "titolo": "Sette posti per costruire l’autonomia: inaugurato “Un piazzale di sogni”, housing per giovani in condizioni di fragilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/sette-posti-per-costruire-lautonomia-inaugurato-un-piazzale-sogni-housing-per",
-      "data": "2026-09-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b85ced87eeb1",
-      "titolo": "Giovani e clima: al via la terza edizione del Torino Youth Climate Action Fund",
-      "link": "https://www.comune.torino.it/novita/notizie/giovani-clima-al-via-terza-edizione-torino-youth-climate-action-fund",
-      "data": "2026-09-03T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1cea3ecef309",
-      "titolo": "Piemonte, cresce la formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
-      "data": "2026-08-31T14:35:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f92d203ccf89",
-      "titolo": "48 milioni per la formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/48-milioni-per-formazione-tecnica-superiore",
-      "data": "2026-08-31T14:35:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "490103bd3f43",
-      "titolo": "Scoprire il talento, costruire il futuro",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scoprire-talento-costruire-futuro",
-      "data": "2026-08-30T20:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "45ac97db8823",
-      "titolo": "Contro la recidiva e la devianza giovanile: a Torino un'alleanza tra Comune, Terzo Settore e Fondazione Compagnia di San Paolo",
-      "link": "https://www.comune.torino.it/novita/comunicati/contro-recidiva-devianza-giovanile-torino-unalleanza-comune-terzo-settore",
-      "data": "2026-08-04T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e84eb7067781",
-      "titolo": "Guida sicura per neopatentati",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/guida-sicura-per-neopatentati",
-      "data": "2026-08-03T14:44:57+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "lavoro-occupazione": [
     {
       "id": "45b99c64f2c9",
@@ -952,14 +960,6 @@
       "id": "d5f96aa64cfc",
       "titolo": "Nuove regole per i dehor con l’obiettivo di sburocratizzare e semplificare le procedure di richiesta",
       "link": "https://www.comune.torino.it/novita/comunicati/nuove-regole-per-dehor-lobiettivo-sburocratizzare-semplificare-procedure",
-      "data": "2026-07-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1fa9b291b729",
-      "titolo": "Sala del Commiato del Cimitero Parco: la Giunta approva le regole per l’utilizzo",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-commiato-cimitero-parco-giunta-approva-regole-per-lutilizzo",
       "data": "2026-07-28T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -1135,14 +1135,6 @@
       "titolo": "Trasporto abusivo, la Polizia Locale sequestra un’auto",
       "link": "https://www.comune.torino.it/novita/comunicati/trasporto-abusivo-polizia-locale-sequestra-unauto",
       "data": "2026-08-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0de66eed7a8d",
-      "titolo": "Impianti sportivi, dalla Giunta 650mila euro per la manutenzione straordinaria di tre strutture. Via libera al nuovo playground di corso Cadore finanziato dal bando \"Sport Illumina\"",
-      "link": "https://www.comune.torino.it/novita/comunicati/impianti-sportivi-dalla-giunta-650mila-euro-per-manutenzione-straordinaria-tre",
-      "data": "2026-07-28T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
