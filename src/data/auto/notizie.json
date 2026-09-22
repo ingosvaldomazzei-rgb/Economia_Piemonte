@@ -1,9 +1,59 @@
 [
   {
+    "id": "6089b35c0cd7",
+    "titolo": "Scuole, un portale per intervenire in caso di danni agli edifici",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-un-portale-per-intervenire-caso-danni-agli-edifici",
+    "descrizione": "La Regione Piemonte ha attivato un portale telematico per intervenire rapidamente quando un evento calamitoso compromette l'agibilità di un edificio scolastico. Si tratta di una misura sperimentale dedicata agli enti locali che devono affrontare interventi straordinari per…",
+    "data": "2026-09-22T15:46:09+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "07c1d1ef44a0",
     "titolo": "Agevolazioni Canone Unico 2026 per attività interessate da cantieri di lunga durata",
     "link": "https://www.comune.torino.it/novita/avvisi/agevolazioni-canone-unico-2026-per-attivita-interessate-cantieri-lunga-durata",
     "descrizione": "Riduzioni del Canone Unico 2026 per attività in aree interessate da cantieri. Consulta la delibera e le planimetrie.",
+    "data": "2026-09-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "303f569912d3",
+    "titolo": "A Torino gli Stati Generali della Cooperazione internazionale degli enti locali per Terra Madre 2026",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-stati-generali-della-cooperazione-internazionale-degli-enti-locali-per-0",
+    "descrizione": "Dal 24 al 27 settembre il Museo Nazionale del Risorgimento Italiano si trasformerà nel cuore pulsante del dibattito globale sulle politiche alimentari urbane.",
+    "data": "2026-09-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e609e49e79b5",
+    "titolo": "A Torino gli Stati Generali della Cooperazione internazionale degli enti locali per Terra Madre 2026",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-stati-generali-della-cooperazione-internazionale-degli-enti-locali-per",
+    "descrizione": "Dal 24 al 27 settembre il Museo Nazionale del Risorgimento Italiano si trasformerà nel cuore pulsante del dibattito globale sulle politiche alimentari urbane.",
+    "data": "2026-09-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "582573c76b57",
+    "titolo": "Campi sportivi e nuova area giochi in via Rubino. Approvato il progetto di riqualificazione finanziato dalla Consulta per la Valorizzazione dei Beni Artistici e Culturali di Torino.",
+    "link": "https://www.comune.torino.it/novita/comunicati/campi-sportivi-nuova-area-giochi-via-rubino-approvato-progetto-riqualificazione",
+    "descrizione": "Nasce dalla collaborazione tra la Consulta per la Valorizzazione dei Beni Artistici e Culturali e la Città di Torino il progetto che restituirà nuova vita.",
+    "data": "2026-09-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d8d2c6e405b1",
+    "titolo": "Borsellino Elettronico Merc@TO",
+    "link": "https://www.comune.torino.it/novita/notizie/borsellino-elettronico-mercto",
+    "descrizione": "Nuovo servizio che consente agli operatori dei mercati di gestire il pagamento delle presenze al mercato attraverso un credito prepagato.",
     "data": "2026-09-22T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -15,6 +65,16 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-terra-madre",
     "descrizione": "Il Piemonte si presenta a Terra Madre 2026 con lo spazio “Eccellenza Piemonte” (scopri il programma), 400 metri quadrati nella centralissima Piazzetta Reale, curati dalla…",
     "data": "2026-09-21T19:00:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "e583ec691a21",
+    "titolo": "Ospedale di Vercelli, 1O milioni per gli arredi del nuovo blocco di emergenza-urgenza",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ospedale-vercelli-1o-milioni-per-gli-arredi-nuovo-blocco-emergenza-urgenza",
+    "descrizione": "La Regione Piemonte stanzia 10,37 milioni di euro per gli arredi e le attrezzature del nuovo Blocco di Emergenza-Urgenza dell'ospedale Sant'Andrea di Vercelli. A questo importante investimento si aggiunge la conclusione positiva…",
+    "data": "2026-09-21T18:00:00+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
@@ -1938,65 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "f2a65c958738",
-    "titolo": "In Piemonte 5 nuovi Distretti del Commercio",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-5-nuovi-distretti-commercio",
-    "descrizione": "Sono cinque i nuovi Distretti del Commercio che saranno istituiti in Piemonte dalla Regione: due a Torino (Sud e Nord), uno nel Pinerolese, uno a Trofarello e uno nell’area di …",
-    "data": "2026-07-28T16:47:38+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "5cd1e25ae742",
-    "titolo": "Al Concerto di Ferragosto un viaggio musicale nel Novecento",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-concerto-ferragosto-un-viaggio-musicale-nel-novecento",
-    "descrizione": "Sarà interamente dedicato al Novecento, nell’anno dell’80° anniversario della Repubblica italiana, il repertorio che l’orchestra Bartolomeo Bruni eseguirà durante il Concerto di Ferragosto, che quest’anno sarà ospitato a Rucàs di Bagnolo Piemonte…",
-    "data": "2026-07-28T16:31:35+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "1af1a23db891",
-    "titolo": "Polizia locale, nasce il primo gruppo cinofilo regionale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/polizia-locale-nasce-primo-gruppo-cinofilo-regionale",
-    "descrizione": "Un passo avanti per rafforzare la sicurezza e rendere più efficace il supporto operativo ai Comandi di Polizia locale di tutto il Piemonte. La Regione Piemonte dà il via al progetto sperimentale per la costituzione del primo gruppo di unità cinofile della Polizia locale a…",
-    "data": "2026-07-28T14:39:52+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "d5f96aa64cfc",
-    "titolo": "Nuove regole per i dehor con l’obiettivo di sburocratizzare e semplificare le procedure di richiesta",
-    "link": "https://www.comune.torino.it/novita/comunicati/nuove-regole-per-dehor-lobiettivo-sburocratizzare-semplificare-procedure",
-    "descrizione": "Questa mattina la Giunta ha approvato la modifica del Regolamento sulla disciplina dell'allestimento dei dehor su suolo pubblico o privato.",
-    "data": "2026-07-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a42e8fee4de4",
-    "titolo": "Impianti più sicuri ed efficienti negli edifici comunali: approvati lavori per 880mila euro",
-    "link": "https://www.comune.torino.it/novita/comunicati/impianti-piu-sicuri-efficienti-negli-edifici-comunali-approvati-lavori-per",
-    "descrizione": "La Giunta comunale ha approvato un progetto di manutenzione straordinaria su scuole e altri immobili della Città.",
-    "data": "2026-07-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6b659e0dd97d",
-    "titolo": "Maneggio Alfieriano, la Città acquisisce il progetto esecutivo di Lacaton & Vassal finanziato da Compagnia di San Paolo",
-    "link": "https://www.comune.torino.it/novita/comunicati/maneggio-alfieriano-citta-acquisisce-progetto-esecutivo-lacaton-vassal",
-    "descrizione": "La Città acquisisce il progetto esecutivo elaborato dallo studio Lacaton & Vassal e finanziato dalla Compagnia di San Paolo.",
-    "data": "2026-07-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

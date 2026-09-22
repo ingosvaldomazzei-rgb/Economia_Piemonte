@@ -1,25 +1,25 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 122,
-    "regione": 78
+    "regione": 77,
+    "comune_torino": 123
   },
   "temi_attivi": [
-    {
-      "tema": "cultura-beni-culturali",
-      "conteggio": 20
-    },
     {
       "tema": "agricoltura",
       "conteggio": 20
     },
     {
-      "tema": "sanita-regionale",
-      "conteggio": 16
+      "tema": "cultura-beni-culturali",
+      "conteggio": 20
     },
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 14
+      "conteggio": 17
+    },
+    {
+      "tema": "sanita-regionale",
+      "conteggio": 17
     },
     {
       "tema": "pianificazione-territoriale",
@@ -38,12 +38,12 @@
       "conteggio": 11
     },
     {
-      "tema": "lavoro-occupazione",
+      "tema": "fondi-europei",
       "conteggio": 11
     },
     {
-      "tema": "fondi-europei",
-      "conteggio": 11
+      "tema": "protezione-civile",
+      "conteggio": 10
     }
   ],
   "totale_temi_con_notizie": 24
