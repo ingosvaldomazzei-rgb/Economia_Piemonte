@@ -1,5 +1,25 @@
 [
   {
+    "id": "07c1d1ef44a0",
+    "titolo": "Agevolazioni Canone Unico 2026 per attività interessate da cantieri di lunga durata",
+    "link": "https://www.comune.torino.it/novita/avvisi/agevolazioni-canone-unico-2026-per-attivita-interessate-cantieri-lunga-durata",
+    "descrizione": "Riduzioni del Canone Unico 2026 per attività in aree interessate da cantieri. Consulta la delibera e le planimetrie.",
+    "data": "2026-09-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f1a9ec3ae642",
+    "titolo": "Il Piemonte a Terra Madre",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-terra-madre",
+    "descrizione": "Il Piemonte si presenta a Terra Madre 2026 con lo spazio “Eccellenza Piemonte” (scopri il programma), 400 metri quadrati nella centralissima Piazzetta Reale, curati dalla…",
+    "data": "2026-09-21T19:00:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "7ac852f3bd9f",
     "titolo": "Riapre via Chiesa della Salute: da questa mattina si torna a circolare nei due sensi",
     "link": "https://www.comune.torino.it/novita/comunicati/riapre-via-chiesa-della-salute-questa-mattina-si-torna-circolare-nei-due-sensi",
@@ -1974,26 +1994,6 @@
     "titolo": "Maneggio Alfieriano, la Città acquisisce il progetto esecutivo di Lacaton & Vassal finanziato da Compagnia di San Paolo",
     "link": "https://www.comune.torino.it/novita/comunicati/maneggio-alfieriano-citta-acquisisce-progetto-esecutivo-lacaton-vassal",
     "descrizione": "La Città acquisisce il progetto esecutivo elaborato dallo studio Lacaton & Vassal e finanziato dalla Compagnia di San Paolo.",
-    "data": "2026-07-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "019f6eb92ac6",
-    "titolo": "Illuminazione più efficiente per Borgo Vittoria: approvati gli interventi. Lavori per 120mila euro",
-    "link": "https://www.comune.torino.it/novita/comunicati/illuminazione-piu-efficiente-per-borgo-vittoria-approvati-interventi-lavori-per",
-    "descrizione": "La Giunta comunale ha dato il via libera al progetto esecutivo per il rinnovo e il potenziamento dell'illuminazione pubblica a Borgo Vittoria.",
-    "data": "2026-07-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c5f478cef09c",
-    "titolo": "Sperimentazione positiva, diventano definitive quattro aree pedonali",
-    "link": "https://www.comune.torino.it/novita/comunicati/sperimentazione-positiva-diventano-definitive-quattro-aree-pedonali",
-    "descrizione": "La Giunta comunale ha approvato la trasformazione delle aree pedonali di via Aquileia, via Doria, via Fattori e via Coazze in provvedimenti permanenti.",
     "data": "2026-07-28T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
