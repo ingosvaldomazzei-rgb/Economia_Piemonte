@@ -60,6 +60,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "9117e4dc8e33",
+    "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
+    "descrizione": "Trasformare in modo strutturale l’esperienza nata durante l’emergenza pandemica e rafforzare una rete cittadina capace di raggiungere migliaia di persone.",
+    "data": "2026-09-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "2708e9af43c3",
+    "titolo": "Terra Madre Salone del Gusto 2026: le modifiche alla viabilità",
+    "link": "https://www.comune.torino.it/novita/comunicati/terra-madre-salone-gusto-2026-modifiche-alla-viabilita",
+    "descrizione": "Per permettere lo svolgimento dell’evento, la Città di Torino ha disposto una serie di provvedimenti su viabilità e sosta nell’area dalle iniziative.",
+    "data": "2026-09-22T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f1a9ec3ae642",
     "titolo": "Il Piemonte a Terra Madre",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-terra-madre",
@@ -1978,25 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "8117d2ad2a1c",
-    "titolo": "Ai primi di agosto 93 milioni di anticipi Pac a 25.500 aziende agricole",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ai-primi-agosto-93-milioni-anticipi-pac-25500-aziende-agricole",
-    "descrizione": "Entro i primi giorni di agosto 25.500 aziende agricole piemontesi riceveranno un anticipo stimato in 93 milioni e 250mila euro dei pagamenti della Politica agricola comune (Pac), pari al 75% del contributo totale spettante per il 2026. A permetterlo è la…",
-    "data": "2026-07-29T11:02:15+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "cd739c02375b",
-    "titolo": "Il Piano della qualità dell’aria entra nella fase operativa",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piano-della-qualita-dellaria-entra-nella-fase-operativa",
-    "descrizione": "L’aggiornamento del Piano della qualità dell’aria può entrare nella fase operativa dopo l’approvazione del Consiglio regionale. Il provvedimento definisce la strategia ambientale dei prossimi anni, sancisce il superamento…",
-    "data": "2026-07-28T19:01:24+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

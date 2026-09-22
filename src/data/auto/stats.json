@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 77,
-    "comune_torino": 123
+    "regione": 75,
+    "comune_torino": 125
   },
   "temi_attivi": [
     {
@@ -22,19 +22,19 @@
       "conteggio": 17
     },
     {
-      "tema": "pianificazione-territoriale",
+      "tema": "sociale-welfare",
       "conteggio": 14
     },
     {
-      "tema": "sociale-welfare",
-      "conteggio": 13
+      "tema": "pianificazione-territoriale",
+      "conteggio": 14
     },
     {
       "tema": "istruzione-formazione",
       "conteggio": 12
     },
     {
-      "tema": "universita-ricerca",
+      "tema": "protezione-civile",
       "conteggio": 11
     },
     {
@@ -42,8 +42,8 @@
       "conteggio": 11
     },
     {
-      "tema": "protezione-civile",
-      "conteggio": 10
+      "tema": "universita-ricerca",
+      "conteggio": 11
     }
   ],
   "totale_temi_con_notizie": 24
