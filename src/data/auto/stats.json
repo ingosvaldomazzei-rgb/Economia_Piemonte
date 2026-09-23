@@ -1,16 +1,16 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 75,
-    "comune_torino": 125
+    "comune_torino": 125,
+    "regione": 75
   },
   "temi_attivi": [
     {
-      "tema": "agricoltura",
+      "tema": "cultura-beni-culturali",
       "conteggio": 20
     },
     {
-      "tema": "cultura-beni-culturali",
+      "tema": "agricoltura",
       "conteggio": 20
     },
     {
@@ -38,12 +38,12 @@
       "conteggio": 11
     },
     {
-      "tema": "fondi-europei",
+      "tema": "universita-ricerca",
       "conteggio": 11
     },
     {
-      "tema": "universita-ricerca",
-      "conteggio": 11
+      "tema": "edilizia-opere-pubbliche",
+      "conteggio": 10
     }
   ],
   "totale_temi_con_notizie": 24

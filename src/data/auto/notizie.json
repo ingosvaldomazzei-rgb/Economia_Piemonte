@@ -1,5 +1,35 @@
 [
   {
+    "id": "64508271c4a7",
+    "titolo": "Mercato Svizzera: approvato il progetto esecutivo per i lavori di manutenzione straordinaria",
+    "link": "https://www.comune.torino.it/novita/comunicati/mercato-svizzera-approvato-progetto-esecutivo-per-lavori-manutenzione",
+    "descrizione": "Ieri mattina la Giunta comunale ha approvato la delibera a firma dell’assessore al Commercio Paolo Chiavarino che descrive il progetto esecutivo all'intervento.",
+    "data": "2026-09-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "db50ae288986",
+    "titolo": "Al via la riasfaltatura di viale Torino e di strada Settimo",
+    "link": "https://www.comune.torino.it/novita/comunicati/al-via-riasfaltatura-viale-torino-strada-settimo",
+    "descrizione": "Prosegue il piano di rinnovamento del manto stradale delle strade cittadine, con due nuovi cantieri in partenza in questi giorni.",
+    "data": "2026-09-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fffa26180a06",
+    "titolo": "Il Sindaco a New York alla Global Commission for Urban SDG Finance. “Servono risorse per trasformare gli obiettivi climatici in interventi concreti”",
+    "link": "https://www.comune.torino.it/novita/comunicati/sindaco-new-york-alla-global-commission-for-urban-sdg-finance-servono-risorse",
+    "descrizione": "Il sindaco Stefano Lo Russo ha partecipato a New York alla riunione plenaria della SDSN Global Commission for Urban SDG Finance.",
+    "data": "2026-09-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "6089b35c0cd7",
     "titolo": "Scuole, un portale per intervenire in caso di danni agli edifici",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-un-portale-per-intervenire-caso-danni-agli-edifici",
@@ -1968,35 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "f5d3b2a64e38",
-    "titolo": "Il giardino Natale Re si rinnova",
-    "link": "https://www.comune.torino.it/novita/notizie/giardino-natale-re-si-rinnova",
-    "descrizione": "E' stata creata una nuova area giochi accessibile e inclusiva grazie agli interventi PNRR e a una sponsorizzazione privata.",
-    "data": "2026-07-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "da098a47c9c4",
-    "titolo": "Polizia Locale, operazione di controllo del codice della strada. Otto veicoli sanzionati",
-    "link": "https://www.comune.torino.it/novita/comunicati/polizia-locale-operazione-controllo-codice-della-strada-otto-veicoli-sanzionati",
-    "descrizione": "Un furgone e due camper rimossi, 1 fermo amministrativo, 1 sanzionato e 3 mezzi finiti sotto sequestro per violazioni al Codice della Strada.",
-    "data": "2026-07-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "20d37c73aedc",
-    "titolo": "Torino e Polizia Locale capofila del progetto europeo “Diverpol” contro le discriminazioni",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-polizia-locale-capofila-progetto-europeo-diverpol-contro-discriminazioni",
-    "descrizione": "La Città di Torino, nel consiglio direttivo del Forum Europeo per la Sicurezza Urbana, sarà capofila del progetto europeo Diverpol.",
-    "data": "2026-07-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
