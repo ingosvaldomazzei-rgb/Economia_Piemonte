@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-09-23T11:13:10.104486+00:00",
+  "ultimo_aggiornamento": "2026-09-23T16:35:23.417121+00:00",
   "sedute": [
     {
       "id": "58970c10687a",
@@ -8,7 +8,7 @@
       "titolo": "Seduta n. 109 del 22/09/2026",
       "data": "2026-09-22T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=109&data_seduta=22-09-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89393&nome_file=Sintesi%20n.%20109_22settembre2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
