@@ -1,5 +1,15 @@
 [
   {
+    "id": "889c283f07f4",
+    "titolo": "Un giardino per Isabella e Giorgio Marincola",
+    "link": "https://www.comune.torino.it/novita/comunicati/un-giardino-per-isabella-giorgio-marincola",
+    "descrizione": "È in programma venerdì 25 settembre 2026 alle ore 10 la cerimonia di intitolazione del giardino a ricordo di Isabella e Giorgio Marincola",
+    "data": "2026-09-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "64508271c4a7",
     "titolo": "Mercato Svizzera: approvato il progetto esecutivo per i lavori di manutenzione straordinaria",
     "link": "https://www.comune.torino.it/novita/comunicati/mercato-svizzera-approvato-progetto-esecutivo-per-lavori-manutenzione",
@@ -133,7 +143,7 @@
     "id": "f1a9ec3ae642",
     "titolo": "Il Piemonte a Terra Madre",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-terra-madre",
-    "descrizione": "Il Piemonte si presenta a Terra Madre 2026 con lo spazio “Eccellenza Piemonte” (scopri il programma), 400 metri quadrati nella centralissima Piazzetta Reale, curati dalla…",
+    "descrizione": "Una grande cornice di visitatori e giornalisti ha accompagnato giovedì 24 settembre il taglio del nastro dello Spazio Eccellenza Piemonte, l'area allestita dalla Regione in piazzetta Reale per l'edizione di Terra Madre in centro a Torino. All'evento hanno presenziato il ministro dell'Agricoltura…",
     "data": "2026-09-21T19:00:00+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
@@ -1985,16 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-2026-progetti-finanziati-prima-sessione",
     "descrizione": "Sono 13 i progetti finanziati con 4 milioni di euro per mezzo della prima sessione del bando 2026 di Piemonte TV Film Fund, lo strumento con cui la Regione sostiene le produzioni cinematografiche e audiovisive che scelgono il territorio…",
     "data": "2026-07-30T18:46:34+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "39c1f33f3d60",
-    "titolo": "La situazione dei cantieri estivi sulle autostrade piemontesi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/situazione-dei-cantieri-estivi-sulle-autostrade-piemontesi",
-    "descrizione": "Il tavolo tecnico sul monitoraggio dei cantieri autostradali, riunitosi nel Grattacielo Piemonte, ha visto istituzioni, società concessionarie e gestori fare il punto sui lavori programmati o in corso verso le principali mete di villeggiatura alla vigilia del picco della…",
-    "data": "2026-07-29T22:13:58+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"

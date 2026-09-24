@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 127,
-    "regione": 73
+    "comune_torino": 128,
+    "regione": 72
   },
   "temi_attivi": [
     {
@@ -38,11 +38,11 @@
       "conteggio": 11
     },
     {
-      "tema": "universita-ricerca",
-      "conteggio": 11
+      "tema": "fondi-europei",
+      "conteggio": 10
     },
     {
-      "tema": "edilizia-opere-pubbliche",
+      "tema": "giovani",
       "conteggio": 10
     }
   ],
