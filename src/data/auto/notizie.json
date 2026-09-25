@@ -23,7 +23,37 @@
     "id": "6d2a218ebfeb",
     "titolo": "Il 25 settembre a Terra Madre Torino mette i cuochi delle mense scolastiche al centro",
     "link": "https://www.comune.torino.it/novita/comunicati/25-settembre-terra-madre-torino-mette-cuochi-delle-mense-scolastiche-al-centro",
-    "descrizione": "Per la prima volta cento cuochi delle mense scolastiche comunali di Torino si riuniranno ufficialmente per confrontarsi sul significato di cucinare ogni giorno",
+    "descrizione": "Per la prima volta cento cuochi delle mense scolastiche comunali di Torino si riuniranno ufficialmente per confrontarsi sul significato di cucinare ogni giorno.",
+    "data": "2026-09-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4cfe92e9e577",
+    "titolo": "Inaugurato il giardino “Isabella e Giorgio Marincola”",
+    "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-giardino-isabella-giorgio-marincola",
+    "descrizione": "Cerimonia nello spazio urbano rigenerato tra via Masserano e via Biella",
+    "data": "2026-09-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fe190ec4e171",
+    "titolo": "Cantieri in città, la prossima settimana al via nuovi interventi su strade, marciapiedi e sottoservizi",
+    "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-prossima-settimana-al-via-nuovi-interventi-strade-marciapiedi",
+    "descrizione": "Strade, marciapiedi e sottoservizi: sono numerosi gli interventi della Città di Torino e dei principali gestori delle reti al via la prossima settimana.",
+    "data": "2026-09-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e84e3b0bdc8e",
+    "titolo": "“I soldi dell’assedio”, all’Archivio Storico della Città la mostra che racconta l’assedio di Torino attraverso le monete",
+    "link": "https://www.comune.torino.it/novita/comunicati/soldi-dellassedio-allarchivio-storico-della-citta-mostra-che-racconta-lassedio",
+    "descrizione": "Inaugura oggi, venerdì 25 settembre alle ore 18, all’Archivio Storico della Città di Torino in via Barbaroux 32, la mostra “I Soldi dell’Assedio.",
     "data": "2026-09-25T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1968,35 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "1a44030725f4",
-    "titolo": "L'estate si colora in città: 4.000 piante per giardini, piazze e parchi",
-    "link": "https://www.comune.torino.it/novita/notizie/lestate-si-colora-citta-4000-piante-per-giardini-piazze-parchi",
-    "descrizione": "Nuove aiuole estive colorate in città per abbellire aree verdi e spazi pubblici.",
-    "data": "2026-07-31T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2206c3ebe527",
-    "titolo": "Torino Cambia – Spazi che uniscono: si conclude la riasfaltatura di corso Moncalieri, al via un nuovo intervento in corso Unità d'Italia",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-spazi-che-uniscono-si-conclude-riasfaltatura-corso-moncalieri-al",
-    "descrizione": "Si concluderanno nella mattinata di lunedì 3 agosto i lavori in corso Moncalieri mentre già dal pomeriggio prenderanno il via in corso Unità d'Italia.",
-    "data": "2026-07-31T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4c6720c48a47",
-    "titolo": "Donne in Movimento",
-    "link": "https://www.comune.torino.it/novita/notizie/donne-movimento",
-    "descrizione": "Attività gratuita di danzaterapia rivolta a donne over 65.",
-    "data": "2026-07-31T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
