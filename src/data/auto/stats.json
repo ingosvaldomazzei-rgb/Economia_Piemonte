@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 128,
-    "regione": 72
+    "comune_torino": 130,
+    "regione": 70
   },
   "temi_attivi": [
     {
@@ -27,14 +27,14 @@
     },
     {
       "tema": "pianificazione-territoriale",
-      "conteggio": 14
+      "conteggio": 13
     },
     {
       "tema": "istruzione-formazione",
       "conteggio": 12
     },
     {
-      "tema": "protezione-civile",
+      "tema": "universita-ricerca",
       "conteggio": 11
     },
     {

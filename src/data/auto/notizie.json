@@ -1,5 +1,35 @@
 [
   {
+    "id": "9d8b09eb1290",
+    "titolo": "BANDO per la concessione di n. 19 posteggi isolati destinati all’esercizio dell’attività di commercio su area pubblica extramercatale di prodotti appartenenti al settore merceologico FIORI, a mezzo di banco mobile.",
+    "link": "https://www.comune.torino.it/novita/notizie/bando-per-concessione-n-19-posteggi-isolati-destinati-allesercizio-dellattivita",
+    "descrizione": "Termine di presentazione delle domande: entro le ore 12.00 del giorno 26 ottobre 2026",
+    "data": "2026-09-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9f11ac6f9e6e",
+    "titolo": "Insieme si Vince",
+    "link": "https://www.comune.torino.it/novita/notizie/insieme-si-vince",
+    "descrizione": "Ciclo di incontri per la sensibilizzazione e contrasto agli abusi sessuali.",
+    "data": "2026-09-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6d2a218ebfeb",
+    "titolo": "Il 25 settembre a Terra Madre Torino mette i cuochi delle mense scolastiche al centro",
+    "link": "https://www.comune.torino.it/novita/comunicati/25-settembre-terra-madre-torino-mette-cuochi-delle-mense-scolastiche-al-centro",
+    "descrizione": "Per la prima volta cento cuochi delle mense scolastiche comunali di Torino si riuniranno ufficialmente per confrontarsi sul significato di cucinare ogni giorno",
+    "data": "2026-09-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "889c283f07f4",
     "titolo": "Un giardino per Isabella e Giorgio Marincola",
     "link": "https://www.comune.torino.it/novita/comunicati/un-giardino-per-isabella-giorgio-marincola",
@@ -58,6 +88,16 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "ef4aba49e16a",
+    "titolo": "Prima riunione del Tavolo Monte Rosa",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/prima-riunione-tavolo-monte-rosa",
+    "descrizione": "Il primo Tavolo tecnico-scientifico Monte Rosa - Ghiacciaio Belvedere in Comune di Macugnaga si è riunito il 22 settembre al centro congressi della Regione Piemonte per mettere a sistema le conoscenze acquisite e preparare le prossime azioni, nell’ambito dell’Osservatorio…",
+    "data": "2026-09-22T18:00:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "6089b35c0cd7",
@@ -1958,45 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "210beb897f10",
-    "titolo": "Aperture esercizi mese di agosto",
-    "link": "https://www.comune.torino.it/novita/notizie/aperture-esercizi-mese-agosto",
-    "descrizione": "Pubblicati i turni di apertura dei bar, ristoranti e negozi di alimentari che saranno aperti nelle due settimane centrali del mese di agosto",
-    "data": "2026-07-31T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a2c6317dd05e",
-    "titolo": "Il Corpo Aib Piemonte torna in Calabria",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/corpo-aib-piemonte-torna-calabria",
-    "descrizione": "La Colonna mobile del Corpo volontari antincendi boschivi del Piemonte sarà impegnata in Calabria dal 1° al 28 agosto in attività di prevenzione e contrasto agli incendi boschivi a supporto del sistema regionale di Protezione civile. La missione,…",
-    "data": "2026-07-30T21:38:11+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "1d323ab41e2a",
-    "titolo": "La Regione pronta a dichiarare lo stato di emergenza per crisi idrica",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-pronta-dichiarare-stato-emergenza-per-crisi-idrica",
-    "descrizione": "La Regione è pronta a dichiarare lo stato di emergenza legato alla crisi idrica, prima applicazione della legge approvata nel giugno scorso per intervenire più tempestivamente in situazioni di particolare gravità. È quanto emerso durante la riunione del Tavolo…",
-    "data": "2026-07-30T21:07:42+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "bc2181b59c9b",
-    "titolo": "Piemonte Film Tv Fund 2026: i progetti finanziati con la prima sessione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-2026-progetti-finanziati-prima-sessione",
-    "descrizione": "Sono 13 i progetti finanziati con 4 milioni di euro per mezzo della prima sessione del bando 2026 di Piemonte TV Film Fund, lo strumento con cui la Regione sostiene le produzioni cinematografiche e audiovisive che scelgono il territorio…",
-    "data": "2026-07-30T18:46:34+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
