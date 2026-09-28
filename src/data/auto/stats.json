@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 131,
-    "regione": 69
+    "comune_torino": 134,
+    "regione": 66
   },
   "temi_attivi": [
     {
@@ -26,15 +26,15 @@
       "conteggio": 16
     },
     {
-      "tema": "pianificazione-territoriale",
+      "tema": "istruzione-formazione",
       "conteggio": 13
     },
     {
-      "tema": "istruzione-formazione",
+      "tema": "pianificazione-territoriale",
       "conteggio": 12
     },
     {
-      "tema": "giovani",
+      "tema": "edilizia-opere-pubbliche",
       "conteggio": 11
     },
     {
@@ -42,7 +42,7 @@
       "conteggio": 11
     },
     {
-      "tema": "edilizia-opere-pubbliche",
+      "tema": "giovani",
       "conteggio": 10
     }
   ],

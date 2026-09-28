@@ -30,6 +30,56 @@
     "colore": "#dc2626"
   },
   {
+    "id": "1c5cb6074116",
+    "titolo": "Il Consiglio Comunale per il contrasto all’obesità",
+    "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-per-contrasto-allobesita",
+    "descrizione": "Richieste iniziative strutturali per prevenire e contrastare l’obesità, anche infantile.",
+    "data": "2026-09-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4563ac0cb901",
+    "titolo": "\"Incrementare il personale dei Servizi civici\"",
+    "link": "https://www.comune.torino.it/novita/comunicati/incrementare-personale-dei-servizi-civici",
+    "descrizione": "Approvata con 29 voti una mozione presentata da Enzo Liardo per rafforzare la dotazione organica dei Servizi civici",
+    "data": "2026-09-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "2c3d645730f0",
+    "titolo": "La Sala Rossa a sostegno del commercio",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-sostegno-commercio",
+    "descrizione": "L'atto chiede sostegno finanziario e semplificazione amministrativa a favore degli esercizi di prossimità.",
+    "data": "2026-09-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "69a39f3c1e45",
+    "titolo": "Fermo servizi online",
+    "link": "https://www.comune.torino.it/novita/avvisi/fermo-servizi-online",
+    "descrizione": "Giovedì 1 ottobre per circa 30 minuti",
+    "data": "2026-09-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a9d86bab7449",
+    "titolo": "Via Saluzzo 27: si recupera l'edificio della ex scuola materna",
+    "link": "https://www.comune.torino.it/novita/comunicati/via-saluzzo-27-si-recupera-ledificio-della-ex-scuola-materna",
+    "descrizione": "Il Consiglio comunale ha approvato la deroga urbanistica per il recupero dell’immobile di via Saluzzo 27 a San Salvario, già sede di una scuola materna privata",
+    "data": "2026-09-28T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "9d8b09eb1290",
     "titolo": "BANDO per la concessione di n. 19 posteggi isolati destinati all’esercizio dell’attività di commercio su area pubblica extramercatale di prodotti appartenenti al settore merceologico FIORI, a mezzo di banco mobile.",
     "link": "https://www.comune.torino.it/novita/notizie/bando-per-concessione-n-19-posteggi-isolati-destinati-allesercizio-dellattivita",
@@ -1945,56 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/disabilita-16-milioni-euro-per-servizi-sociosanitari-al-via-revisione-delle",
     "descrizione": "Un sostegno economico da 1,6 milioni di euro per garantire continuità e qualità ai servizi dedicati alle persone con disabilità per il 2026.",
     "data": "2026-08-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "af535510eb74",
-    "titolo": "Un avviso pubblico per l’immobile di corso Regina Margherita 47",
-    "link": "https://www.comune.torino.it/novita/comunicati/un-avviso-pubblico-per-limmobile-corso-regina-margherita-47",
-    "descrizione": "Un avviso pubblico finalizzato a raccogliere manifestazioni di interesse per la rifunzionalizzazione e il riutilizzo dell’immobile comunale.",
-    "data": "2026-08-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2623db8a45e8",
-    "titolo": "Il Piemonte dichiara lo stato di emergenza regionale per crisi idrica e incendi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-dichiara-stato-emergenza-regionale-per-crisi-idrica-incendi",
-    "descrizione": "La Giunta regionale del Piemonte ha dichiarato, lunedì 3 agosto, lo stato di emergenza di rilievo regionale per la crisi idrica e gli incendi boschivi che stanno interessando il territorio piemontese. La dichiarazione dello stato di emergenza regionale costituisce…",
-    "data": "2026-08-03T18:22:26+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "cb0a9852d7d0",
-    "titolo": "Polizia locale, il presidente Cirio e l’assessore Bussalino incontrano le unità cinofile",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/polizia-locale-presidente-cirio-lassessore-bussalino-incontrano-unita-cinofile",
-    "descrizione": "Il presidente della Regione Piemonte Alberto Cirio e l’assessore regionale alla Sicurezza e Polizia locale Enrico Bussalino il 3 agosto hanno accolto al Grattacielo Piemonte a Torino le unità cinofile dei Comandi di Polizia locale di Oleggio,…",
-    "data": "2026-08-03T16:35:18+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "e84eb7067781",
-    "titolo": "Guida sicura per neopatentati",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/guida-sicura-per-neopatentati",
-    "descrizione": "Il progetto “Guida sicura per neopatentati”, promosso dalla Regione Piemonte per diffondere la cultura della sicurezza stradale tra i giovani conducenti, prosegue la propria attività in una nuova sede, individuata per garantire la continuità del servizio a…",
-    "data": "2026-08-03T14:44:57+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "7dcf980b76d4",
-    "titolo": "Avviso Corso INFORMATICA DI BASE (120 ORE)",
-    "link": "https://www.comune.torino.it/novita/avvisi/avviso-corso-informatica-base-120-ore",
-    "descrizione": "Le iscrizioni sono aperte",
-    "data": "2026-08-03T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
