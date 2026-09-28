@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 130,
-    "regione": 70
+    "comune_torino": 131,
+    "regione": 69
   },
   "temi_attivi": [
     {
@@ -15,15 +15,15 @@
     },
     {
       "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 17
+      "conteggio": 18
+    },
+    {
+      "tema": "sociale-welfare",
+      "conteggio": 16
     },
     {
       "tema": "sanita-regionale",
       "conteggio": 16
-    },
-    {
-      "tema": "sociale-welfare",
-      "conteggio": 15
     },
     {
       "tema": "pianificazione-territoriale",
@@ -34,15 +34,15 @@
       "conteggio": 12
     },
     {
+      "tema": "giovani",
+      "conteggio": 11
+    },
+    {
       "tema": "universita-ricerca",
       "conteggio": 11
     },
     {
       "tema": "edilizia-opere-pubbliche",
-      "conteggio": 10
-    },
-    {
-      "tema": "fondi-europei",
       "conteggio": 10
     }
   ],
