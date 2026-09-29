@@ -1,9 +1,115 @@
 {
+  "pianificazione-territoriale": [
+    {
+      "id": "f9fdb9cfc9ca",
+      "titolo": "Il Piemonte ha il nuovo Piano territoriale regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-ha-nuovo-piano-territoriale-regionale",
+      "data": "2026-09-29T14:15:11+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "45b99c64f2c9",
+      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
+      "data": "2026-09-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d1386071c157",
+      "titolo": "Incendi boschivi, la Regione Piemonte revoca lo stato di massima pericolosità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-regione-piemonte-revoca-stato-massima-pericolosita",
+      "data": "2026-09-09T15:45:50+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "add0575bcf65",
+      "titolo": "Incendi boschivi, revocato lo stato di massima pericolosità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-revocato-stato-massima-pericolosita",
+      "data": "2026-09-09T15:45:50+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7059312f7ab5",
+      "titolo": "Bando Ecomusei, 450 mila euro per il sostegno delle attività",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-ecomusei-450-mila-euro-per-sostegno-delle-attivita",
+      "data": "2026-09-04T11:09:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9aa8a85254e4",
+      "titolo": "Ecomusei, 450 mila euro per il sostegno delle attività",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-450-mila-euro-per-sostegno-delle-attivita",
+      "data": "2026-09-04T11:09:46+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ed49627e70ee",
+      "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
+      "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
+      "data": "2026-09-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1a049bea0793",
+      "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
+      "link": "https://www.comune.torino.it/novita/comunicati/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
+      "data": "2026-08-31T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "78f8d0c82141",
+      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
+      "data": "2026-08-12T17:31:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "44fafcd9c0b2",
+      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+      "data": "2026-08-11T11:41:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "01efb4b9e3ca",
+      "titolo": "Incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
+      "data": "2026-08-11T11:41:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a0c4be04f384",
+      "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
+      "data": "2026-08-10T13:54:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "sociale-welfare": [
     {
       "id": "a922125cd886",
       "titolo": "La Città apre alla coprogettazione per il futuro del polo educativo Moby Dick di via Ada Negri",
       "link": "https://www.comune.torino.it/novita/comunicati/citta-apre-alla-coprogettazione-per-futuro-polo-educativo-moby-dick-via-ada",
+      "data": "2026-09-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9cc286a046f7",
+      "titolo": "Edilizia pubblica: Via libera ai lavori per l’abbattimento delle barriere architettoniche in via Bioglio e via Pacini",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-pubblica-via-libera-ai-lavori-per-labbattimento-delle-barriere",
       "data": "2026-09-29T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -129,301 +235,15 @@
       "fonte_id": "regione"
     }
   ],
-  "agricoltura": [
-    {
-      "id": "5453fe564111",
-      "titolo": "Violenza sulle donne, oltre 2 milioni di euro per CAV, case rifugio e percorsi di accoglienza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/violenza-sulle-donne-oltre-2-milioni-euro-per-cav-case-rifugio-percorsi-accoglienza",
-      "data": "2026-09-28T15:33:11+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f1a9ec3ae642",
-      "titolo": "Il Piemonte a Terra Madre",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-terra-madre",
-      "data": "2026-09-27T19:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "fffa26180a06",
-      "titolo": "Il Sindaco a New York alla Global Commission for Urban SDG Finance. “Servono risorse per trasformare gli obiettivi climatici in interventi concreti”",
-      "link": "https://www.comune.torino.it/novita/comunicati/sindaco-new-york-alla-global-commission-for-urban-sdg-finance-servono-risorse",
-      "data": "2026-09-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "303f569912d3",
-      "titolo": "A Torino gli Stati Generali della Cooperazione internazionale degli enti locali per Terra Madre 2026",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-stati-generali-della-cooperazione-internazionale-degli-enti-locali-per-0",
-      "data": "2026-09-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e609e49e79b5",
-      "titolo": "A Torino gli Stati Generali della Cooperazione internazionale degli enti locali per Terra Madre 2026",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-stati-generali-della-cooperazione-internazionale-degli-enti-locali-per",
-      "data": "2026-09-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9117e4dc8e33",
-      "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
-      "data": "2026-09-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8410f4933013",
-      "titolo": "Prima campanella alla \"G.E.Pestalozzi\". Riapre la scuola riqualificata con fondi Pnrr",
-      "link": "https://www.comune.torino.it/novita/comunicati/prima-campanella-alla-gepestalozzi-riapre-scuola-riqualificata-fondi-pnrr",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4f11b2d1164a",
-      "titolo": "Acqua pubblica, lotta agli sprechi e uso responsabile delle risorse idriche: un documento del Consiglio comunale",
-      "link": "https://www.comune.torino.it/novita/comunicati/acqua-pubblica-lotta-agli-sprechi-uso-responsabile-delle-risorse-idriche-un",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "05877431610e",
-      "titolo": "Stati generali MAB Unesco, il Piemonte si candida a laboratorio nazionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-mab-unesco-piemonte-si-candida-laboratorio-nazionale",
-      "data": "2026-09-12T19:00:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c3f5a8e20dd2",
-      "titolo": "Il Piemonte a Risò, Vercelli capitale del riso europeo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-riso-vercelli-capitale-riso-europeo",
-      "data": "2026-09-10T15:06:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "eed074f6985e",
-      "titolo": "Tavolo verde sulla siccità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tavolo-verde-sulla-siccita",
-      "data": "2026-09-08T13:37:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4873bcabeede",
-      "titolo": "Agricoltura, tavolo verde sulla siccità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-tavolo-verde-sulla-siccita",
-      "data": "2026-09-08T13:37:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b19ff9cc0eff",
-      "titolo": "Oltre 3 milioni per migliorare le risorse irrigue in agricoltura",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oltre-3-milioni-per-migliorare-risorse-irrigue-agricoltura",
-      "data": "2026-09-07T09:45:17+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e77b8387cb3a",
-      "titolo": "Nidi: più ore per la famiglia senza aumento della tariffa",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-piu-ore-per-famiglia-senza-aumento-della-tariffa",
-      "data": "2026-09-04T10:33:49+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "42876675f191",
-      "titolo": "Omaggio a Carla Fracci, 2 serate alla Reggia di Venaria",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-alla-reggia-venaria",
-      "data": "2026-09-02T15:59:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5c7438338429",
-      "titolo": "Omaggio a Carla Fracci, 2 serate nelle Residenze Reali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-nelle-residenze-reali",
-      "data": "2026-09-02T15:59:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6c6c284cf408",
-      "titolo": "Il 12 settembre gli Stati generali dei territori MAB Unesco del Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/12-settembre-gli-stati-generali-dei-territori-mab-unesco-piemonte",
-      "data": "2026-08-31T14:54:45+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1cea3ecef309",
-      "titolo": "Piemonte, cresce la formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
-      "data": "2026-08-31T14:35:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f92d203ccf89",
-      "titolo": "48 milioni per la formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/48-milioni-per-formazione-tecnica-superiore",
-      "data": "2026-08-31T14:35:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4a3d0922df19",
-      "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
-      "data": "2026-08-21T10:03:31+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "montagna": [
-    {
-      "id": "5453fe564111",
-      "titolo": "Violenza sulle donne, oltre 2 milioni di euro per CAV, case rifugio e percorsi di accoglienza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/violenza-sulle-donne-oltre-2-milioni-euro-per-cav-case-rifugio-percorsi-accoglienza",
-      "data": "2026-09-28T15:33:11+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "sanita-regionale": [
-    {
-      "id": "cd40919ee30e",
-      "titolo": "Vaccinazioni, al via la campagna anti-influenzale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vaccinazioni-al-via-campagna-anti-influenzale",
-      "data": "2026-09-28T14:47:48+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e583ec691a21",
-      "titolo": "Ospedale di Vercelli, 1O milioni per gli arredi del nuovo blocco di emergenza-urgenza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ospedale-vercelli-1o-milioni-per-gli-arredi-nuovo-blocco-emergenza-urgenza",
-      "data": "2026-09-21T18:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a150de4e694b",
-      "titolo": "Affidamento familiare, la Città aumenta i contributi e rafforza la collaborazione con l’Asl",
-      "link": "https://www.comune.torino.it/novita/comunicati/affidamento-familiare-citta-aumenta-contributi-rafforza-collaborazione-lasl",
-      "data": "2026-09-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "212460fcaf57",
-      "titolo": "Infermieristica, crescono le iscrizioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/infermieristica-crescono-iscrizioni",
-      "data": "2026-09-17T09:07:29+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d41418229747",
-      "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
-      "data": "2026-09-15T16:49:36+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3c68b29e3968",
-      "titolo": "Allo Juventus Stadium la finale di Conference League 2028",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allo-juventus-stadium-finale-conference-league-2028",
-      "data": "2026-09-15T16:49:36+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "82e058431d59",
-      "titolo": "IRCCS a Novara, sì della Regione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/irccs-novara-si-della-regione",
-      "data": "2026-09-15T13:30:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b0f556f5aa0e",
-      "titolo": "A Torino la finale di Uefa Conference League 2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-finale-uefa-conference-league-2028",
-      "data": "2026-09-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "afef50ec6932",
-      "titolo": "Sala Rossa: approvato ordine del giorno per la tutela degli operatori sanitari dalle aggressioni",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-ordine-giorno-per-tutela-degli-operatori-sanitari-dalle",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1deed7368151",
-      "titolo": "Martedì 15 settembre - Assemblea sindacale",
-      "link": "https://www.comune.torino.it/novita/avvisi/martedi-15-settembre-assemblea-sindacale",
-      "data": "2026-09-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bc59a7c4dd6d",
-      "titolo": "Venerdì 11 settembre - Assemblea sindacale",
-      "link": "https://www.comune.torino.it/novita/avvisi/venerdi-11-settembre-assemblea-sindacale",
-      "data": "2026-09-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "0e0f67a8f64d",
-      "titolo": "Sala Rossa: approvato l'ordine del giorno per la neutralità della professione sanitaria nei conflitti armati e solidarietà al dottor Hussam Abu Safiya",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-lordine-giorno-per-neutralita-della-professione-sanitaria",
-      "data": "2026-09-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "57291a157d10",
-      "titolo": "Regione Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
-      "data": "2026-09-03T13:47:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6aee2ba40fce",
-      "titolo": "Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
-      "data": "2026-09-03T13:47:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c49fb27363e6",
-      "titolo": "Competenze di Comunicazione Consapevole",
-      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
-      "data": "2026-08-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "cultura-beni-culturali": [
+    {
+      "id": "10e8e11977c4",
+      "titolo": "Hiroshima For Future, completata la riqualificazione dello storico spazio culturale torinese",
+      "link": "https://www.comune.torino.it/novita/comunicati/hiroshima-for-future-completata-riqualificazione-dello-storico-spazio-culturale",
+      "data": "2026-09-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
     {
       "id": "cd40919ee30e",
       "titolo": "Vaccinazioni, al via la campagna anti-influenzale",
@@ -575,12 +395,478 @@
       "data": "2026-09-08T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "agricoltura": [
+    {
+      "id": "9cc286a046f7",
+      "titolo": "Edilizia pubblica: Via libera ai lavori per l’abbattimento delle barriere architettoniche in via Bioglio e via Pacini",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-pubblica-via-libera-ai-lavori-per-labbattimento-delle-barriere",
+      "data": "2026-09-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     },
     {
-      "id": "bd109655da78",
-      "titolo": "Torino si riaccende con lo sport e la cultura: al via l’edizione 2026 di “Festa dello Sport & Circoscrizioni in Mostra”",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-si-riaccende-sport-cultura-al-via-ledizione-2026-festa-dello-sport",
+      "id": "5453fe564111",
+      "titolo": "Violenza sulle donne, oltre 2 milioni di euro per CAV, case rifugio e percorsi di accoglienza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/violenza-sulle-donne-oltre-2-milioni-euro-per-cav-case-rifugio-percorsi-accoglienza",
+      "data": "2026-09-28T15:33:11+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f1a9ec3ae642",
+      "titolo": "Il Piemonte a Terra Madre",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-terra-madre",
+      "data": "2026-09-27T19:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "fffa26180a06",
+      "titolo": "Il Sindaco a New York alla Global Commission for Urban SDG Finance. “Servono risorse per trasformare gli obiettivi climatici in interventi concreti”",
+      "link": "https://www.comune.torino.it/novita/comunicati/sindaco-new-york-alla-global-commission-for-urban-sdg-finance-servono-risorse",
+      "data": "2026-09-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "303f569912d3",
+      "titolo": "A Torino gli Stati Generali della Cooperazione internazionale degli enti locali per Terra Madre 2026",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-stati-generali-della-cooperazione-internazionale-degli-enti-locali-per-0",
+      "data": "2026-09-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e609e49e79b5",
+      "titolo": "A Torino gli Stati Generali della Cooperazione internazionale degli enti locali per Terra Madre 2026",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-stati-generali-della-cooperazione-internazionale-degli-enti-locali-per",
+      "data": "2026-09-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9117e4dc8e33",
+      "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
+      "data": "2026-09-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8410f4933013",
+      "titolo": "Prima campanella alla \"G.E.Pestalozzi\". Riapre la scuola riqualificata con fondi Pnrr",
+      "link": "https://www.comune.torino.it/novita/comunicati/prima-campanella-alla-gepestalozzi-riapre-scuola-riqualificata-fondi-pnrr",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4f11b2d1164a",
+      "titolo": "Acqua pubblica, lotta agli sprechi e uso responsabile delle risorse idriche: un documento del Consiglio comunale",
+      "link": "https://www.comune.torino.it/novita/comunicati/acqua-pubblica-lotta-agli-sprechi-uso-responsabile-delle-risorse-idriche-un",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "05877431610e",
+      "titolo": "Stati generali MAB Unesco, il Piemonte si candida a laboratorio nazionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-mab-unesco-piemonte-si-candida-laboratorio-nazionale",
+      "data": "2026-09-12T19:00:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c3f5a8e20dd2",
+      "titolo": "Il Piemonte a Risò, Vercelli capitale del riso europeo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-riso-vercelli-capitale-riso-europeo",
+      "data": "2026-09-10T15:06:02+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "eed074f6985e",
+      "titolo": "Tavolo verde sulla siccità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tavolo-verde-sulla-siccita",
+      "data": "2026-09-08T13:37:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4873bcabeede",
+      "titolo": "Agricoltura, tavolo verde sulla siccità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-tavolo-verde-sulla-siccita",
+      "data": "2026-09-08T13:37:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b19ff9cc0eff",
+      "titolo": "Oltre 3 milioni per migliorare le risorse irrigue in agricoltura",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oltre-3-milioni-per-migliorare-risorse-irrigue-agricoltura",
+      "data": "2026-09-07T09:45:17+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e77b8387cb3a",
+      "titolo": "Nidi: più ore per la famiglia senza aumento della tariffa",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-piu-ore-per-famiglia-senza-aumento-della-tariffa",
+      "data": "2026-09-04T10:33:49+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "42876675f191",
+      "titolo": "Omaggio a Carla Fracci, 2 serate alla Reggia di Venaria",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-alla-reggia-venaria",
+      "data": "2026-09-02T15:59:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5c7438338429",
+      "titolo": "Omaggio a Carla Fracci, 2 serate nelle Residenze Reali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-nelle-residenze-reali",
+      "data": "2026-09-02T15:59:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6c6c284cf408",
+      "titolo": "Il 12 settembre gli Stati generali dei territori MAB Unesco del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/12-settembre-gli-stati-generali-dei-territori-mab-unesco-piemonte",
+      "data": "2026-08-31T14:54:45+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1cea3ecef309",
+      "titolo": "Piemonte, cresce la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f92d203ccf89",
+      "titolo": "48 milioni per la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/48-milioni-per-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "edilizia-opere-pubbliche": [
+    {
+      "id": "9cc286a046f7",
+      "titolo": "Edilizia pubblica: Via libera ai lavori per l’abbattimento delle barriere architettoniche in via Bioglio e via Pacini",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-pubblica-via-libera-ai-lavori-per-labbattimento-delle-barriere",
+      "data": "2026-09-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a9d86bab7449",
+      "titolo": "Via Saluzzo 27: si recupera l'edificio della ex scuola materna",
+      "link": "https://www.comune.torino.it/novita/comunicati/via-saluzzo-27-si-recupera-ledificio-della-ex-scuola-materna",
+      "data": "2026-09-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fe190ec4e171",
+      "titolo": "Cantieri in città, la prossima settimana al via nuovi interventi su strade, marciapiedi e sottoservizi",
+      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-prossima-settimana-al-via-nuovi-interventi-strade-marciapiedi",
+      "data": "2026-09-25T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "db50ae288986",
+      "titolo": "Al via la riasfaltatura di viale Torino e di strada Settimo",
+      "link": "https://www.comune.torino.it/novita/comunicati/al-via-riasfaltatura-viale-torino-strada-settimo",
+      "data": "2026-09-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "07c1d1ef44a0",
+      "titolo": "Agevolazioni Canone Unico 2026 per attività interessate da cantieri di lunga durata",
+      "link": "https://www.comune.torino.it/novita/avvisi/agevolazioni-canone-unico-2026-per-attivita-interessate-cantieri-lunga-durata",
+      "data": "2026-09-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d5948714998b",
+      "titolo": "Strade, marciapiedi e attraversamenti pedonali: al via una nuova tornata di interventi in tutta la Città",
+      "link": "https://www.comune.torino.it/novita/comunicati/strade-marciapiedi-attraversamenti-pedonali-al-via-una-nuova-tornata-interventi",
+      "data": "2026-09-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d7e0943c5bbe",
+      "titolo": "A Falchera nasce Falchè, il cohousing per l'autonomia delle persone con disabilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/falchera-nasce-falche-cohousing-per-lautonomia-delle-persone-disabilita",
+      "data": "2026-09-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "862fbad1a5b4",
+      "titolo": "Tari 2026: sconti per i cantieri di lunga durata e agevolazioni per i quartieri più virtuosi nella differenziata",
+      "link": "https://www.comune.torino.it/novita/comunicati/tari-2026-sconti-per-cantieri-lunga-durata-agevolazioni-per-quartieri-piu",
+      "data": "2026-09-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "aae2aca5497a",
+      "titolo": "Cantieri in città: chiude ponte Rossini, al via anche i lavori di Smat, Ireti, Iren e Italgas",
+      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-chiude-ponte-rossini-al-via-anche-lavori-smat-ireti-iren-italgas",
+      "data": "2026-09-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cef8dd28c42e",
+      "titolo": "Sette posti per costruire l’autonomia: inaugurato “Un piazzale di sogni”, housing per giovani in condizioni di fragilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/sette-posti-per-costruire-lautonomia-inaugurato-un-piazzale-sogni-housing-per",
+      "data": "2026-09-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9a6b6927d997",
+      "titolo": "Volontariato in carcere, firmata la dichiarazione d’intenti tra presidenza del Consiglio comunale, Garante dei detenuti e Lions Club distretto 108ia1",
+      "link": "https://www.comune.torino.it/novita/comunicati/volontariato-carcere-firmata-dichiarazione-dintenti-presidenza-consiglio",
       "data": "2026-09-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "fondi-europei": [
+    {
+      "id": "9cc286a046f7",
+      "titolo": "Edilizia pubblica: Via libera ai lavori per l’abbattimento delle barriere architettoniche in via Bioglio e via Pacini",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-pubblica-via-libera-ai-lavori-per-labbattimento-delle-barriere",
+      "data": "2026-09-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9117e4dc8e33",
+      "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
+      "data": "2026-09-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8410f4933013",
+      "titolo": "Prima campanella alla \"G.E.Pestalozzi\". Riapre la scuola riqualificata con fondi Pnrr",
+      "link": "https://www.comune.torino.it/novita/comunicati/prima-campanella-alla-gepestalozzi-riapre-scuola-riqualificata-fondi-pnrr",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "05877431610e",
+      "titolo": "Stati generali MAB Unesco, il Piemonte si candida a laboratorio nazionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-mab-unesco-piemonte-si-candida-laboratorio-nazionale",
+      "data": "2026-09-12T19:00:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e708e4fa8e97",
+      "titolo": "Torino Cambia. 800 metri quadrati, 30mila documenti, una nuova sala da 40 posti: ecco la nuova Biblioteca Carluccio",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-800-metri-quadrati-30mila-documenti-una-nuova-sala-40-posti-ecco",
+      "data": "2026-09-03T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "42876675f191",
+      "titolo": "Omaggio a Carla Fracci, 2 serate alla Reggia di Venaria",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-alla-reggia-venaria",
+      "data": "2026-09-02T15:59:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5c7438338429",
+      "titolo": "Omaggio a Carla Fracci, 2 serate nelle Residenze Reali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-nelle-residenze-reali",
+      "data": "2026-09-02T15:59:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "340cec5e80ac",
+      "titolo": "Piemonte Film Tv Fund, al via la seconda sessione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-al-via-seconda-sessione",
+      "data": "2026-08-31T16:04:20+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1cea3ecef309",
+      "titolo": "Piemonte, cresce la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f92d203ccf89",
+      "titolo": "48 milioni per la formazione tecnica superiore",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/48-milioni-per-formazione-tecnica-superiore",
+      "data": "2026-08-31T14:35:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a0c4be04f384",
+      "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
+      "data": "2026-08-10T13:54:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "montagna": [
+    {
+      "id": "5453fe564111",
+      "titolo": "Violenza sulle donne, oltre 2 milioni di euro per CAV, case rifugio e percorsi di accoglienza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/violenza-sulle-donne-oltre-2-milioni-euro-per-cav-case-rifugio-percorsi-accoglienza",
+      "data": "2026-09-28T15:33:11+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "sanita-regionale": [
+    {
+      "id": "cd40919ee30e",
+      "titolo": "Vaccinazioni, al via la campagna anti-influenzale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vaccinazioni-al-via-campagna-anti-influenzale",
+      "data": "2026-09-28T14:47:48+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e583ec691a21",
+      "titolo": "Ospedale di Vercelli, 1O milioni per gli arredi del nuovo blocco di emergenza-urgenza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ospedale-vercelli-1o-milioni-per-gli-arredi-nuovo-blocco-emergenza-urgenza",
+      "data": "2026-09-21T18:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a150de4e694b",
+      "titolo": "Affidamento familiare, la Città aumenta i contributi e rafforza la collaborazione con l’Asl",
+      "link": "https://www.comune.torino.it/novita/comunicati/affidamento-familiare-citta-aumenta-contributi-rafforza-collaborazione-lasl",
+      "data": "2026-09-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "212460fcaf57",
+      "titolo": "Infermieristica, crescono le iscrizioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/infermieristica-crescono-iscrizioni",
+      "data": "2026-09-17T09:07:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d41418229747",
+      "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
+      "data": "2026-09-15T16:49:36+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3c68b29e3968",
+      "titolo": "Allo Juventus Stadium la finale di Conference League 2028",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allo-juventus-stadium-finale-conference-league-2028",
+      "data": "2026-09-15T16:49:36+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "82e058431d59",
+      "titolo": "IRCCS a Novara, sì della Regione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/irccs-novara-si-della-regione",
+      "data": "2026-09-15T13:30:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b0f556f5aa0e",
+      "titolo": "A Torino la finale di Uefa Conference League 2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-finale-uefa-conference-league-2028",
+      "data": "2026-09-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "afef50ec6932",
+      "titolo": "Sala Rossa: approvato ordine del giorno per la tutela degli operatori sanitari dalle aggressioni",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-ordine-giorno-per-tutela-degli-operatori-sanitari-dalle",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1deed7368151",
+      "titolo": "Martedì 15 settembre - Assemblea sindacale",
+      "link": "https://www.comune.torino.it/novita/avvisi/martedi-15-settembre-assemblea-sindacale",
+      "data": "2026-09-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bc59a7c4dd6d",
+      "titolo": "Venerdì 11 settembre - Assemblea sindacale",
+      "link": "https://www.comune.torino.it/novita/avvisi/venerdi-11-settembre-assemblea-sindacale",
+      "data": "2026-09-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "0e0f67a8f64d",
+      "titolo": "Sala Rossa: approvato l'ordine del giorno per la neutralità della professione sanitaria nei conflitti armati e solidarietà al dottor Hussam Abu Safiya",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-lordine-giorno-per-neutralita-della-professione-sanitaria",
+      "data": "2026-09-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "57291a157d10",
+      "titolo": "Regione Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
+      "data": "2026-09-03T13:47:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6aee2ba40fce",
+      "titolo": "Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
+      "data": "2026-09-03T13:47:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c49fb27363e6",
+      "titolo": "Competenze di Comunicazione Consapevole",
+      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
+      "data": "2026-08-18T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1069,88 +1355,6 @@
       "fonte_id": "regione"
     }
   ],
-  "edilizia-opere-pubbliche": [
-    {
-      "id": "a9d86bab7449",
-      "titolo": "Via Saluzzo 27: si recupera l'edificio della ex scuola materna",
-      "link": "https://www.comune.torino.it/novita/comunicati/via-saluzzo-27-si-recupera-ledificio-della-ex-scuola-materna",
-      "data": "2026-09-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fe190ec4e171",
-      "titolo": "Cantieri in città, la prossima settimana al via nuovi interventi su strade, marciapiedi e sottoservizi",
-      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-prossima-settimana-al-via-nuovi-interventi-strade-marciapiedi",
-      "data": "2026-09-25T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "db50ae288986",
-      "titolo": "Al via la riasfaltatura di viale Torino e di strada Settimo",
-      "link": "https://www.comune.torino.it/novita/comunicati/al-via-riasfaltatura-viale-torino-strada-settimo",
-      "data": "2026-09-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "07c1d1ef44a0",
-      "titolo": "Agevolazioni Canone Unico 2026 per attività interessate da cantieri di lunga durata",
-      "link": "https://www.comune.torino.it/novita/avvisi/agevolazioni-canone-unico-2026-per-attivita-interessate-cantieri-lunga-durata",
-      "data": "2026-09-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d5948714998b",
-      "titolo": "Strade, marciapiedi e attraversamenti pedonali: al via una nuova tornata di interventi in tutta la Città",
-      "link": "https://www.comune.torino.it/novita/comunicati/strade-marciapiedi-attraversamenti-pedonali-al-via-una-nuova-tornata-interventi",
-      "data": "2026-09-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d7e0943c5bbe",
-      "titolo": "A Falchera nasce Falchè, il cohousing per l'autonomia delle persone con disabilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/falchera-nasce-falche-cohousing-per-lautonomia-delle-persone-disabilita",
-      "data": "2026-09-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "862fbad1a5b4",
-      "titolo": "Tari 2026: sconti per i cantieri di lunga durata e agevolazioni per i quartieri più virtuosi nella differenziata",
-      "link": "https://www.comune.torino.it/novita/comunicati/tari-2026-sconti-per-cantieri-lunga-durata-agevolazioni-per-quartieri-piu",
-      "data": "2026-09-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "aae2aca5497a",
-      "titolo": "Cantieri in città: chiude ponte Rossini, al via anche i lavori di Smat, Ireti, Iren e Italgas",
-      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-chiude-ponte-rossini-al-via-anche-lavori-smat-ireti-iren-italgas",
-      "data": "2026-09-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cef8dd28c42e",
-      "titolo": "Sette posti per costruire l’autonomia: inaugurato “Un piazzale di sogni”, housing per giovani in condizioni di fragilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/sette-posti-per-costruire-lautonomia-inaugurato-un-piazzale-sogni-housing-per",
-      "data": "2026-09-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9a6b6927d997",
-      "titolo": "Volontariato in carcere, firmata la dichiarazione d’intenti tra presidenza del Consiglio comunale, Garante dei detenuti e Lions Club distretto 108ia1",
-      "link": "https://www.comune.torino.it/novita/comunicati/volontariato-carcere-firmata-dichiarazione-dintenti-presidenza-consiglio",
-      "data": "2026-09-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "universita-ricerca": [
     {
       "id": "ef4aba49e16a",
@@ -1299,88 +1503,6 @@
       "fonte_id": "regione"
     }
   ],
-  "fondi-europei": [
-    {
-      "id": "9117e4dc8e33",
-      "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
-      "data": "2026-09-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8410f4933013",
-      "titolo": "Prima campanella alla \"G.E.Pestalozzi\". Riapre la scuola riqualificata con fondi Pnrr",
-      "link": "https://www.comune.torino.it/novita/comunicati/prima-campanella-alla-gepestalozzi-riapre-scuola-riqualificata-fondi-pnrr",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "05877431610e",
-      "titolo": "Stati generali MAB Unesco, il Piemonte si candida a laboratorio nazionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-mab-unesco-piemonte-si-candida-laboratorio-nazionale",
-      "data": "2026-09-12T19:00:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e708e4fa8e97",
-      "titolo": "Torino Cambia. 800 metri quadrati, 30mila documenti, una nuova sala da 40 posti: ecco la nuova Biblioteca Carluccio",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-800-metri-quadrati-30mila-documenti-una-nuova-sala-40-posti-ecco",
-      "data": "2026-09-03T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "42876675f191",
-      "titolo": "Omaggio a Carla Fracci, 2 serate alla Reggia di Venaria",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-alla-reggia-venaria",
-      "data": "2026-09-02T15:59:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5c7438338429",
-      "titolo": "Omaggio a Carla Fracci, 2 serate nelle Residenze Reali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-nelle-residenze-reali",
-      "data": "2026-09-02T15:59:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "340cec5e80ac",
-      "titolo": "Piemonte Film Tv Fund, al via la seconda sessione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-al-via-seconda-sessione",
-      "data": "2026-08-31T16:04:20+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1cea3ecef309",
-      "titolo": "Piemonte, cresce la formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
-      "data": "2026-08-31T14:35:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f92d203ccf89",
-      "titolo": "48 milioni per la formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/48-milioni-per-formazione-tecnica-superiore",
-      "data": "2026-08-31T14:35:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a0c4be04f384",
-      "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
-      "data": "2026-08-10T13:54:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "crisi-automotive": [
     {
       "id": "9e93b33a1938",
@@ -1497,96 +1619,6 @@
       "data": "2026-08-20T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "pianificazione-territoriale": [
-    {
-      "id": "45b99c64f2c9",
-      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
-      "data": "2026-09-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d1386071c157",
-      "titolo": "Incendi boschivi, la Regione Piemonte revoca lo stato di massima pericolosità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-regione-piemonte-revoca-stato-massima-pericolosita",
-      "data": "2026-09-09T15:45:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "add0575bcf65",
-      "titolo": "Incendi boschivi, revocato lo stato di massima pericolosità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-revocato-stato-massima-pericolosita",
-      "data": "2026-09-09T15:45:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7059312f7ab5",
-      "titolo": "Bando Ecomusei, 450 mila euro per il sostegno delle attività",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-ecomusei-450-mila-euro-per-sostegno-delle-attivita",
-      "data": "2026-09-04T11:09:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9aa8a85254e4",
-      "titolo": "Ecomusei, 450 mila euro per il sostegno delle attività",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-450-mila-euro-per-sostegno-delle-attivita",
-      "data": "2026-09-04T11:09:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ed49627e70ee",
-      "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
-      "data": "2026-09-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1a049bea0793",
-      "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
-      "link": "https://www.comune.torino.it/novita/comunicati/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
-      "data": "2026-08-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "78f8d0c82141",
-      "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
-      "data": "2026-08-12T17:31:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "44fafcd9c0b2",
-      "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-      "data": "2026-08-11T11:41:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "01efb4b9e3ca",
-      "titolo": "Incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-      "data": "2026-08-11T11:41:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a0c4be04f384",
-      "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
-      "data": "2026-08-10T13:54:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "bilancio-regionale": [

@@ -1,16 +1,16 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 133,
-    "regione": 67
+    "regione": 67,
+    "comune_torino": 133
   },
   "temi_attivi": [
     {
-      "tema": "agricoltura",
+      "tema": "cultura-beni-culturali",
       "conteggio": 20
     },
     {
-      "tema": "cultura-beni-culturali",
+      "tema": "agricoltura",
       "conteggio": 20
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "tema": "sociale-welfare",
-      "conteggio": 16
+      "conteggio": 17
     },
     {
       "tema": "sanita-regionale",
@@ -31,18 +31,18 @@
     },
     {
       "tema": "pianificazione-territoriale",
+      "conteggio": 12
+    },
+    {
+      "tema": "edilizia-opere-pubbliche",
+      "conteggio": 11
+    },
+    {
+      "tema": "fondi-europei",
       "conteggio": 11
     },
     {
       "tema": "commercio-artigianato",
-      "conteggio": 10
-    },
-    {
-      "tema": "edilizia-opere-pubbliche",
-      "conteggio": 10
-    },
-    {
-      "tema": "universita-ricerca",
       "conteggio": 10
     }
   ],

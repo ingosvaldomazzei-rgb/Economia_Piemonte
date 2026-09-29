@@ -1,5 +1,15 @@
 [
   {
+    "id": "f9fdb9cfc9ca",
+    "titolo": "Il Piemonte ha il nuovo Piano territoriale regionale",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-ha-nuovo-piano-territoriale-regionale",
+    "descrizione": "Il Piemonte ha un nuovo Piano territoriale regionale. Il Consiglio regionale ha approvato oggi il nuovo PTR, che aggiorna il Piano vigente dal 2011 e definisce il quadro di riferimento per le scelte di governo e di sviluppo del territorio regionale. «Dopo quindici…",
+    "data": "2026-09-29T14:15:11+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "a922125cd886",
     "titolo": "La Città apre alla coprogettazione per il futuro del polo educativo Moby Dick di via Ada Negri",
     "link": "https://www.comune.torino.it/novita/comunicati/citta-apre-alla-coprogettazione-per-futuro-polo-educativo-moby-dick-via-ada",
@@ -24,6 +34,36 @@
     "titolo": "Apertura pomeridiana del mercato Campanella: il via dalla Giunta",
     "link": "https://www.comune.torino.it/novita/comunicati/apertura-pomeridiana-mercato-campanella-via-dalla-giunta",
     "descrizione": "Partirà entro fine ottobre, in via sperimentale per sei mesi, l’attivazione pomeridiana del Mercato Campanella, nel quartiere Parella, in circoscrizione 4.",
+    "data": "2026-09-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "10e8e11977c4",
+    "titolo": "Hiroshima For Future, completata la riqualificazione dello storico spazio culturale torinese",
+    "link": "https://www.comune.torino.it/novita/comunicati/hiroshima-for-future-completata-riqualificazione-dello-storico-spazio-culturale",
+    "descrizione": "Un luogo storico della cultura torinese si rinnova per affrontare le sfide del futuro. Con spazi più accessibili, nuovi interventi per la sostenibilità energeti",
+    "data": "2026-09-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9cc286a046f7",
+    "titolo": "Edilizia pubblica: Via libera ai lavori per l’abbattimento delle barriere architettoniche in via Bioglio e via Pacini",
+    "link": "https://www.comune.torino.it/novita/comunicati/edilizia-pubblica-via-libera-ai-lavori-per-labbattimento-delle-barriere",
+    "descrizione": "Nuovi interventi per l'accessibilità nel patrimonio di edilizia sociale della Città di Torino.",
+    "data": "2026-09-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ebaff6eaf2b9",
+    "titolo": "Definizione agevolata, prorogati i termini: per le domande c’è ora tempo fino al 14 luglio 2027",
+    "link": "https://www.comune.torino.it/novita/comunicati/definizione-agevolata-prorogati-termini-per-domande-ce-ora-tempo-fino-al-14",
+    "descrizione": "La Città di Torino proroga fino al 14 luglio 2027 il termine per aderire alla definizione agevolata delle entrate comunali.",
     "data": "2026-09-29T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1958,45 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "afbb37492c20",
-    "titolo": "Siccità, avviate le procedure per la richiesta di calamità naturale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-avviate-procedure-per-richiesta-calamita-naturale",
-    "descrizione": "Il Piemonte avvia le procedure per la richiesta dello stato di calamità naturale. Il presidente della Regione Piemonte, Alberto Cirio, e l’assessore all’Agricoltura, Paolo Bongioanni, giovedì 6 agosto hanno svolto una…",
-    "data": "2026-08-06T19:09:09+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a6b991bcc5b6",
-    "titolo": "Eclissi di Sole del 12 agosto: potenziati i collegamenti verso la collina",
-    "link": "https://www.comune.torino.it/novita/comunicati/eclissi-sole-12-agosto-potenziati-collegamenti-verso-collina",
-    "descrizione": "Corse aggiuntive di bus e apertura straordinaria della tranvia Sassi-Superga per facilitare l'accesso ai migliori punti di osservazione.",
-    "data": "2026-08-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "3600ec360ec1",
-    "titolo": "AVVISO ALL'UTENZA",
-    "link": "https://www.comune.torino.it/novita/avvisi/avviso-allutenza",
-    "descrizione": "Modifiche orari di apertura nel mese di agosto",
-    "data": "2026-08-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e412d08177a9",
-    "titolo": "Pubblicazione Bando per l'erogazione di borsa di studio «BONIFETTI–PRIMO–CASALE–RUBATTO–TINTI»",
-    "link": "https://www.comune.torino.it/novita/avvisi/pubblicazione-bando-per-lerogazione-borsa-studio-bonifetti-primo-casale-rubatto",
-    "descrizione": "Apertura del bando per le borse di studio 2026",
-    "data": "2026-08-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
