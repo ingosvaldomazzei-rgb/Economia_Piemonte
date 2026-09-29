@@ -1,16 +1,16 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 134,
-    "regione": 66
+    "regione": 69,
+    "comune_torino": 131
   },
   "temi_attivi": [
     {
-      "tema": "cultura-beni-culturali",
+      "tema": "agricoltura",
       "conteggio": 20
     },
     {
-      "tema": "agricoltura",
+      "tema": "cultura-beni-culturali",
       "conteggio": 20
     },
     {
@@ -18,12 +18,12 @@
       "conteggio": 18
     },
     {
-      "tema": "sociale-welfare",
-      "conteggio": 16
+      "tema": "sanita-regionale",
+      "conteggio": 15
     },
     {
-      "tema": "sanita-regionale",
-      "conteggio": 16
+      "tema": "sociale-welfare",
+      "conteggio": 15
     },
     {
       "tema": "istruzione-formazione",
@@ -42,9 +42,9 @@
       "conteggio": 11
     },
     {
-      "tema": "giovani",
+      "tema": "commercio-artigianato",
       "conteggio": 10
     }
   ],
-  "totale_temi_con_notizie": 24
+  "totale_temi_con_notizie": 25
 }
