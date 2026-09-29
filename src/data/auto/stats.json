@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 69,
-    "comune_torino": 131
+    "comune_torino": 133,
+    "regione": 67
   },
   "temi_attivi": [
     {
@@ -18,11 +18,11 @@
       "conteggio": 18
     },
     {
-      "tema": "sanita-regionale",
-      "conteggio": 15
+      "tema": "sociale-welfare",
+      "conteggio": 16
     },
     {
-      "tema": "sociale-welfare",
+      "tema": "sanita-regionale",
       "conteggio": 15
     },
     {
@@ -31,18 +31,18 @@
     },
     {
       "tema": "pianificazione-territoriale",
-      "conteggio": 12
-    },
-    {
-      "tema": "edilizia-opere-pubbliche",
-      "conteggio": 11
-    },
-    {
-      "tema": "universita-ricerca",
       "conteggio": 11
     },
     {
       "tema": "commercio-artigianato",
+      "conteggio": 10
+    },
+    {
+      "tema": "edilizia-opere-pubbliche",
+      "conteggio": 10
+    },
+    {
+      "tema": "universita-ricerca",
       "conteggio": 10
     }
   ],

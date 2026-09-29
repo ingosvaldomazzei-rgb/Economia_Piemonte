@@ -1,5 +1,35 @@
 [
   {
+    "id": "a922125cd886",
+    "titolo": "La Città apre alla coprogettazione per il futuro del polo educativo Moby Dick di via Ada Negri",
+    "link": "https://www.comune.torino.it/novita/comunicati/citta-apre-alla-coprogettazione-per-futuro-polo-educativo-moby-dick-via-ada",
+    "descrizione": "L'obiettivo è sviluppare servizi educativi 0-6 anni sempre più rispondenti ai bisogni delle famiglie.",
+    "data": "2026-09-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4e7525137690",
+    "titolo": "Il Luna Park natalizio torna a Parco Dora. Dalla giunta via libera alla nuova edizione, dal 15 novembre 2026 al 15 gennaio 2027",
+    "link": "https://www.comune.torino.it/novita/comunicati/luna-park-natalizio-torna-parco-dora-dalla-giunta-via-libera-alla-nuova-edizione",
+    "descrizione": "Lo ha deciso oggi la Giunta comunale, su proposta dell’assessore al Tempo libero, Domenico Carretta.",
+    "data": "2026-09-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1eccf67029e9",
+    "titolo": "Apertura pomeridiana del mercato Campanella: il via dalla Giunta",
+    "link": "https://www.comune.torino.it/novita/comunicati/apertura-pomeridiana-mercato-campanella-via-dalla-giunta",
+    "descrizione": "Partirà entro fine ottobre, in via sperimentale per sei mesi, l’attivazione pomeridiana del Mercato Campanella, nel quartiere Parella, in circoscrizione 4.",
+    "data": "2026-09-29T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "5453fe564111",
     "titolo": "Violenza sulle donne, oltre 2 milioni di euro per CAV, case rifugio e percorsi di accoglienza",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/violenza-sulle-donne-oltre-2-milioni-euro-per-cav-case-rifugio-percorsi-accoglienza",
@@ -1968,35 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "c6e930394aad",
-    "titolo": "AVVISO ALL'UTENZA DELL'ARCHIVIO STORICO",
-    "link": "https://www.comune.torino.it/novita/avvisi/avviso-allutenza-dellarchivio-storico",
-    "descrizione": "Modifiche orari di apertura nel mese di agosto",
-    "data": "2026-08-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "644f6fd3797d",
-    "titolo": "Automotive, riunione del tavolo per l'area di accelerazione industriale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/automotive-riunione-tavolo-per-larea-accelerazione-industriale",
-    "descrizione": "Il Piemonte si candida a diventare uno dei territori protagonisti della nuova politica industriale europea. Si è riunito mercoledì 5 agosto il Tavolo Automotive convocato dalla Regione Piemonte con le organizzazioni sindacali per raccogliere proposte, osservazioni e priorità da sottoporre al…",
-    "data": "2026-08-05T20:00:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "2130eacdc801",
-    "titolo": "Dalla Regione 330 mila euro per le caserme della Guardia di Finanza",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-330-mila-euro-per-caserme-della-guardia-finanza",
-    "descrizione": "La Regione Piemonte e il Comando Regionale Piemonte-Valle d'Aosta della Guardia di Finanza hanno sottoscritto un accordo finalizzato a sostenere il miglioramento funzionale delle infrastrutture del Corpo presenti sul territorio piemontese, alla presenza dell'…",
-    "data": "2026-08-05T10:44:40+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
