@@ -1,5 +1,35 @@
 [
   {
+    "id": "800846c2d07d",
+    "titolo": "2 ottobre sciopero plurisettoriale nazionale",
+    "link": "https://www.comune.torino.it/novita/avvisi/2-ottobre-sciopero-plurisettoriale-nazionale",
+    "descrizione": "Il giorno 2 ottobre non si garantisce il servizio al pubblico.",
+    "data": "2026-09-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bef1d9c3c6b7",
+    "titolo": "Torino per i più piccoli: al via “Gioca alla Fiaba”, 20 spettacoli nei parchi e nei quartieri cittadini",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-per-piu-piccoli-al-via-gioca-alla-fiaba-20-spettacoli-nei-parchi-nei",
+    "descrizione": "Ieri mattina la giunta comunale, su proposta della vicesindaca con delega alla Famiglia Michela Favaro, ha approvato il progetto.",
+    "data": "2026-09-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a4b38c799f2e",
+    "titolo": "Avviso Pubblico Beni Confiscati n. 2/2026",
+    "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-beni-confiscati-n-22026",
+    "descrizione": "Individuazione di enti ed associazioni cui concedere, a titolo gratuito, n. 2 immobili di proprietà comunale confiscati alla criminalità organizzata",
+    "data": "2026-09-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "f9fdb9cfc9ca",
     "titolo": "Il Piemonte ha il nuovo Piano territoriale regionale",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-ha-nuovo-piano-territoriale-regionale",
@@ -163,7 +193,7 @@
     "id": "69a39f3c1e45",
     "titolo": "Fermo servizi online",
     "link": "https://www.comune.torino.it/novita/avvisi/fermo-servizi-online",
-    "descrizione": "Giovedì 1 ottobre per circa 30 minuti",
+    "descrizione": "Giovedì 1 ottobre per circa 30 minuti dalle 7:50 alle 8:20.",
     "data": "2026-09-28T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1968,35 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "dc02637edcb1",
-    "titolo": "La Città avvia l'organizzazione delle iniziative di Natale e Capodanno. Tra le novità, il boschetto di Natale in via Roma. Confermati i due concerti di Capodanno",
-    "link": "https://www.comune.torino.it/novita/comunicati/citta-avvia-lorganizzazione-delle-iniziative-natale-capodanno-novita-boschetto",
-    "descrizione": "La Giunta comunale ha approvato le linee di indirizzo per l’organizzazione delle iniziative di Natale e Capodanno 2026-2027.",
-    "data": "2026-08-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8968eb06ae13",
-    "titolo": "Sedici giorni alla guida senza riposo settimanale: multato autista di bus turistico",
-    "link": "https://www.comune.torino.it/novita/comunicati/sedici-giorni-alla-guida-senza-riposo-settimanale-multato-autista-bus-turistico",
-    "descrizione": "Sedici giorni consecutivi al volante senza effettuare il previsto riposo settimanale. È quanto hanno accertato gli agenti della Polizia Locale di Torino.",
-    "data": "2026-08-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c67fbd5f44c0",
-    "titolo": "Incendi boschivi, accordo tra Regione e Carabinieri Forestali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-accordo-regione-carabinieri-forestali",
-    "descrizione": "La Regione Piemonte ha rinnovato la Convenzione siglata con il Ministero dell’Agricoltura, della Sovranità Alimentare e delle Foreste per l’impiego delle unità del Comando Regione Carabinieri Forestale “Piemonte” nelle attività di prevenzione degli incendi boschivi e protezione…",
-    "data": "2026-08-07T11:02:37+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

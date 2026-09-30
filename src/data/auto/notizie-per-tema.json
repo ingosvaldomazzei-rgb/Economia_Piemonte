@@ -1493,14 +1493,6 @@
       "data": "2026-08-11T11:41:27+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "c67fbd5f44c0",
-      "titolo": "Incendi boschivi, accordo tra Regione e Carabinieri Forestali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-accordo-regione-carabinieri-forestali",
-      "data": "2026-08-07T11:02:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "crisi-automotive": [
@@ -1679,14 +1671,6 @@
       "data": "2026-08-13T17:10:52+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "8968eb06ae13",
-      "titolo": "Sedici giorni alla guida senza riposo settimanale: multato autista di bus turistico",
-      "link": "https://www.comune.torino.it/novita/comunicati/sedici-giorni-alla-guida-senza-riposo-settimanale-multato-autista-bus-turistico",
-      "data": "2026-08-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "energia": [
