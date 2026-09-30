@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-09-30T12:16:35.742478+00:00",
+  "ultimo_aggiornamento": "2026-09-30T22:07:21.403134+00:00",
   "sedute": [
     {
       "id": "212574512ff5",
@@ -8,7 +8,7 @@
       "titolo": "Seduta n. 110 del 29/09/2026",
       "data": "2026-09-29T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=110&data_seduta=29-09-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89409&nome_file=Sintesi%20n.%20110_29settembre2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
@@ -2208,11 +2208,11 @@
   ],
   "statistiche": {
     "totale_sedute": 40,
-    "totale_interrogazioni": 199,
-    "totale_interpellanze": 1,
-    "totale_mozioni": 9,
-    "totale_odg": 191,
-    "mozioni_approvate": 103,
-    "mozioni_respinte": 40
+    "totale_interrogazioni": 100,
+    "totale_interpellanze": 0,
+    "totale_mozioni": 2,
+    "totale_odg": 98,
+    "mozioni_approvate": 59,
+    "mozioni_respinte": 19
   }
 }
