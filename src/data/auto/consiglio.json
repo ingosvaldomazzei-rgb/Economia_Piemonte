@@ -1,6 +1,16 @@
 {
-  "ultimo_aggiornamento": "2026-10-01T12:54:32.434044+00:00",
+  "ultimo_aggiornamento": "2026-10-01T22:32:30.556834+00:00",
   "sedute": [
+    {
+      "id": "22ff0779a2f5",
+      "tipo": "seduta",
+      "numero": "111",
+      "titolo": "Seduta n. 111 del 06/10/2026",
+      "data": "2026-10-06T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=111&data_seduta=06-10-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
     {
       "id": "212574512ff5",
       "tipo": "seduta",
@@ -2207,12 +2217,12 @@
     }
   ],
   "statistiche": {
-    "totale_sedute": 40,
-    "totale_interrogazioni": 100,
-    "totale_interpellanze": 0,
-    "totale_mozioni": 5,
-    "totale_odg": 145,
-    "mozioni_approvate": 77,
-    "mozioni_respinte": 32
+    "totale_sedute": 41,
+    "totale_interrogazioni": 199,
+    "totale_interpellanze": 1,
+    "totale_mozioni": 9,
+    "totale_odg": 191,
+    "mozioni_approvate": 103,
+    "mozioni_respinte": 40
   }
 }

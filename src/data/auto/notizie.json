@@ -1,5 +1,95 @@
 [
   {
+    "id": "5e5439f6d2b6",
+    "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
+    "descrizione": "Sono pubblicati dal 1ottobre e resteranno aperti fino al 1° novembre i due nuovi bandi regionali voluti dall’assessore al Commercio, Agricoltura e Cibo, Turismo, Sport e Post-olimpico, Caccia e Pesca, Parchi della Regione Piemonte Paolo Bongioanni per una…",
+    "data": "2026-10-01T16:40:26+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "ca413492a4b5",
+    "titolo": "WIEW Conference 2026, Hollywood a Torino",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/wiew-conference-2026-hollywood-torino",
+    "descrizione": "Premi Oscar, registi dei film d’animazione più amati, supervisori degli effetti visivi dei blockbuster più attesi della stagione, creatori e sceneggiatori dei videogiochi che hanno fatto la storia recente del gaming,…",
+    "data": "2026-10-01T15:28:22+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "8bd382ac3d1f",
+    "titolo": "Crescere in Città festeggia 30 anni. Domani, 2 ottobre, una giornata tra laboratori, gioco e confronto sull'educazione",
+    "link": "https://www.comune.torino.it/novita/comunicati/crescere-citta-festeggia-30-anni-domani-2-ottobre-una-giornata-laboratori-gioco",
+    "descrizione": "Torino celebra i 30 anni del Catalogo Crescere in Città, lo storico strumento educativo della Città di Torino e di ITER che, dal 1996, accompagna bambine e bamb",
+    "data": "2026-10-01T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "fef52edc23e4",
+    "titolo": "Furto sul bus 18, agenti della Polizia Locale in borghese sorprendono e arrestano il borseggiatore",
+    "link": "https://www.comune.torino.it/novita/comunicati/furto-sul-bus-18-agenti-della-polizia-locale-borghese-sorprendono-arrestano",
+    "descrizione": "Gli agenti del Reparto Operativo Speciale della Polizia Locale di Torino lo hanno fermato, restituendo il maltolto.",
+    "data": "2026-10-01T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d76377a189f3",
+    "titolo": "Al via le consulenze col Commercialista presso il PIU' di Palazzo Civico",
+    "link": "https://www.comune.torino.it/novita/avvisi/al-via-consulenze-col-commercialista-presso-piu-palazzo-civico",
+    "descrizione": "Sono aperte le prenotazioni per le consulenze di giovedì 8 ottobre 2026.",
+    "data": "2026-10-01T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "85f174cd80e4",
+    "titolo": "“Gioca alla Fiaba”, 20 spettacoli nei parchi e nei quartieri cittadini",
+    "link": "https://www.comune.torino.it/novita/notizie/gioca-alla-fiaba-20-spettacoli-nei-parchi-nei-quartieri-cittadini",
+    "descrizione": "“Gioca alla Fiaba – Il viaggio di Pinocchio”, un’iniziativa diffusa su tutto il territorio cittadino rivolta alle bambine, ai bambini e alle loro famiglie",
+    "data": "2026-10-01T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f6aef9470d57",
+    "titolo": "Microchip: via libera di Invitalia al finanziamento per il progetto Silicon Box a Novara",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/microchip-via-libera-invitalia-al-finanziamento-per-progetto-silicon-box-novara",
+    "descrizione": "Via libera del Consiglio di amministrazione di Invitalia a “Vulcan Project”, il progetto d’investimento da 3,2 miliardi di euro con cui Silicon Box realizzerà a Novara la sua prima fabbrica europea di microchip di nuova generazione. La delibera prevede 1,3 miliardi di euro di sostegno…",
+    "data": "2026-10-01T11:10:45+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "4297502fa978",
+    "titolo": "Progetto europeo ProAlp, una ricerca sulle professioni della montagna e sui cambiamenti climatici",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/progetto-europeo-proalp-una-ricerca-sulle-professioni-della-montagna-sui-cambiamenti-climatici",
+    "descrizione": "Il Museo Nazionale della Montagna Duca degli Abruzzi di Torino, martedì 29 settembre, ha ospitato il comitato di pilotaggio e l'incontro “La montagna cambia volto”, promosso dalla Regione Piemonte nell’ambito del Progetto ProAlp (Programma Interreg France-Italia ALCOTRA 2021-2027). L’iniziativa…",
+    "data": "2026-09-30T15:00:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "d0438b8d37db",
+    "titolo": "ProAlp, una ricerca sulle professioni della montagna e sui cambiamenti climatici",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/proalp-una-ricerca-sulle-professioni-della-montagna-sui-cambiamenti-climatici",
+    "descrizione": "Il Museo Nazionale della Montagna Duca degli Abruzzi di Torino, martedì 29 settembre, ha ospitato il comitato di pilotaggio e l'incontro “La montagna cambia volto”, promosso dalla Regione Piemonte nell’ambito del Progetto ProAlp (Programma Interreg France-Italia ALCOTRA 2021-…",
+    "data": "2026-09-30T15:00:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "800846c2d07d",
     "titolo": "2 ottobre sciopero plurisettoriale nazionale",
     "link": "https://www.comune.torino.it/novita/avvisi/2-ottobre-sciopero-plurisettoriale-nazionale",
@@ -1908,95 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "0dbbeb8d29a4",
-    "titolo": "Prezzi al consumo per l’intera collettività (Nic) luglio 2026",
-    "link": "https://www.comune.torino.it/novita/comunicati/prezzi-al-consumo-per-lintera-collettivita-nic-luglio-2026",
-    "descrizione": "Nel mese di luglio 2026 l’indice complessivo dei prezzi al consumo per l’intera collettività è risultato pari al 103,2.",
-    "data": "2026-08-12T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0983c1bc27b0",
-    "titolo": "Maltempo in agricoltura, online i moduli per la ricognizione dei danni",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-agricoltura-online-moduli-per-ricognizione-dei-danni",
-    "descrizione": "Le aziende agricole colpite dai danni del maltempo devono compilare e trasmettere al proprio Comune – in proprio o attraverso i Caa – la modulistica reperibile sul sito della Regione e dedicata alle procedure in caso di calamità naturali. I…",
-    "data": "2026-08-11T17:07:49+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "44fafcd9c0b2",
-    "titolo": "Emergenza incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/emergenza-incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-    "descrizione": "La Giunta regionale del Piemonte ha approvato la delibera che estende all’intero territorio piemontese lo stato di emergenza per gli incendi boschivi dichiarato lo scorso 3 agosto quando erano coinvolte solo i territori delle province di Torino, Vercelli e Verbano Cusio Ossola. Il…",
-    "data": "2026-08-11T11:41:27+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "01efb4b9e3ca",
-    "titolo": "Incendi boschivi e siccità, esteso all'intero Piemonte lo stato di emergenza regionale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-siccita-esteso-allintero-piemonte-stato-emergenza-regionale",
-    "descrizione": "La Giunta regionale del Piemonte ha approvato la delibera che estende all’intero territorio piemontese lo stato di emergenza per gli incendi boschivi dichiarato…",
-    "data": "2026-08-11T11:41:27+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a0c4be04f384",
-    "titolo": "La Regione racconta i giardini storici attraverso il Pnrr",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-racconta-giardini-storici-attraverso-pnrr",
-    "descrizione": "I grandi progetti del Pnrr prendono forma attraverso le immagini e le voci di chi li realizza. “Racconti PNRR – Storie da un territorio in continua evoluzione” è un viaggio visivo sul canale multimediale istituzionale della Regione Piemonte, pensato per mostrare concretamente la trasformazione…",
-    "data": "2026-08-10T13:54:09+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "4a78e225f3de",
-    "titolo": "Chiusura estiva",
-    "link": "https://www.comune.torino.it/novita/notizie/chiusura-estiva",
-    "descrizione": "Chiusura estiva",
-    "data": "2026-08-10T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "628335c1dd29",
-    "titolo": "Riapre la Biblioteca Passerin d'Entrèves, rinnovata negli spazi e negli impianti",
-    "link": "https://www.comune.torino.it/novita/comunicati/riapre-biblioteca-passerin-dentreves-rinnovata-negli-spazi-negli-impianti",
-    "descrizione": "La riapertura si inserisce nel più ampio progetto di trasformazione delle Biblioteche civiche torinesi, che comprende la nuova Centrale a Torino Esposizioni.",
-    "data": "2026-08-10T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "74e99681bdee",
-    "titolo": "Nidi comunali, dalla Regione 1,5 milioni per ampliare l'orario di apertura",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-comunali-dalla-regione-15-milioni-per-ampliare-lorario-apertura",
-    "descrizione": "Sono 77 i Comuni piemontesi che, per l'anno educativo 2026-2027, beneficeranno dei contributi regionali per ampliare l'orario di apertura dei nidi comunali. Giunto alla sesta edizione, il bando promosso dalla Regione Piemonte ha raccolto …",
-    "data": "2026-08-10T11:55:16+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "0e5f4b3d539d",
-    "titolo": "Verso EuroPride 2027, Amsterdam passa il testimone a Torino",
-    "link": "https://www.comune.torino.it/novita/comunicati/verso-europride-2027-amsterdam-passa-testimone-torino",
-    "descrizione": "Amsterdam ha passato ufficialmente il testimone a Torino per l’EuroPride, la più importante manifestazione europea dedicata ai diritti LGBTQIA+.",
-    "data": "2026-08-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
