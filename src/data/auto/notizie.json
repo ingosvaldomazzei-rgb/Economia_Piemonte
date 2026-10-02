@@ -30,6 +30,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "84f852e44cd6",
+    "titolo": "Torino Green, al via domani in via Carcano il mercato del riuso",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-green-al-via-domani-via-carcano-mercato-riuso",
+    "descrizione": "Al via domani, sabato 3 ottobre, in via Carcano 14/A, “Torino Green”, il nuovo mercato dedicato al riuso e alla vendita occasionale di beni usati tra privati.",
+    "data": "2026-10-02T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b74792185c30",
+    "titolo": "Via Genova si rinnova: al termine dei lavori circa 130 nuovi posti auto",
+    "link": "https://www.comune.torino.it/novita/comunicati/via-genova-si-rinnova-al-termine-dei-lavori-circa-130-nuovi-posti-auto",
+    "descrizione": "Inizieranno lunedì 5 ottobre, in via Genova, i lavori di sistemazione del manto stradale nel tratto compreso tra corso Maroncelli e via Caduti del Lavoro.",
+    "data": "2026-10-02T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "5e5439f6d2b6",
     "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
@@ -53,7 +73,7 @@
     "id": "8bd382ac3d1f",
     "titolo": "Crescere in Città festeggia 30 anni. Domani, 2 ottobre, una giornata tra laboratori, gioco e confronto sull'educazione",
     "link": "https://www.comune.torino.it/novita/comunicati/crescere-citta-festeggia-30-anni-domani-2-ottobre-una-giornata-laboratori-gioco",
-    "descrizione": "Torino celebra i 30 anni del Catalogo Crescere in Città, lo storico strumento educativo della Città di Torino e di ITER che, dal 1996, accompagna bambine e bamb",
+    "descrizione": "Torino celebra i 30 anni del Catalogo Crescere in Città, lo storico strumento educativo della Città di Torino e di ITER.",
     "data": "2026-10-01T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -203,7 +223,7 @@
     "id": "10e8e11977c4",
     "titolo": "Hiroshima For Future, completata la riqualificazione dello storico spazio culturale torinese",
     "link": "https://www.comune.torino.it/novita/comunicati/hiroshima-for-future-completata-riqualificazione-dello-storico-spazio-culturale",
-    "descrizione": "Un luogo storico della cultura torinese si rinnova per affrontare le sfide del futuro. Con spazi più accessibili, nuovi interventi per la sostenibilità energeti",
+    "descrizione": "Un luogo storico della cultura torinese si rinnova per affrontare le sfide del futuro.",
     "data": "2026-09-29T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1975,26 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/concerto-ferragosto-8000-bagnolo-piemonte",
     "descrizione": "Sono state 8.000 le persone che questa mattina hanno raggiunto Rucas, nel Comune di Bagnolo Piemonte, per assistere al 46° Concerto Sinfonico di Ferragosto. Per la prima volta nella storia della manifestazione, la musica…",
     "data": "2026-08-15T15:48:27+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "cdb917a94ec8",
-    "titolo": "Turismo estivo, il Piemonte primo per crescita in Italia nel mese di luglio",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-estivo-piemonte-primo-per-crescita-italia-nel-mese-luglio",
-    "descrizione": "Il Piemonte è la regione d’Italia che nel mese di luglio ha segnato il maggior incremento a livello nazionale nelle presenze turistiche, con un bel +9,9 rispetto all’analogo periodo del 2025, che sfiora la doppia cifra e lo porta al…",
-    "data": "2026-08-13T17:10:52+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "beb5c642f493",
-    "titolo": "Scuole dell'infanzia paritaria, 7, 7 milioni per sostenere famiglie e territori",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
-    "descrizione": "La Regione Piemonte ha rinnovato anche per l’anno scolastico 2025-2026, quello appena concluso, l’assegnazione di 7,7 milioni di euro per contributi a sostegno delle scuole dell’infanzia paritarie, riconoscendone la funzione sociale ed educativa. Le risorse sono destinate alle…",
-    "data": "2026-08-13T12:24:31+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
