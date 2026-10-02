@@ -1,5 +1,35 @@
 [
   {
+    "id": "55148895acf4",
+    "titolo": "Tartufi, al via la stagione delle fiere. Bando aperto, domande fino al 15 dicembre",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tartufi-al-via-stagione-delle-fiere-bando-aperto-domande-fino-al-15-dicembre",
+    "descrizione": "Dal 2 ottobre è aperto il bando della Regione Piemonte per l’indennità destinata alla conservazione del patrimonio tartufigeno regionale. A disposizione 306.810 euro per sostenere la tutela delle piante di riconosciuta capacità produttiva di tartufo bianco pregiato. Le domande…",
+    "data": "2026-10-02T13:04:47+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "c9c555e11802",
+    "titolo": "Open Patti 2026, sabato 3 ottobre una giornata per conoscere i beni comuni della città",
+    "link": "https://www.comune.torino.it/novita/comunicati/open-patti-2026-sabato-3-ottobre-una-giornata-per-conoscere-beni-comuni-della",
+    "descrizione": "Domani, sabato 3 ottobre, torna l'appuntamento annuale con Open Patti, l'evento creato e organizzato dalla Città di Torino.",
+    "data": "2026-10-02T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ccbeaff88ba9",
+    "titolo": "Chiusura temporanea dell'area giochi di piazza Mattirolo",
+    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-temporanea-dellarea-giochi-piazza-mattirolo",
+    "descrizione": "Piazza Mattirolo: intervento di ripristino della pavimentazione dell'area giochi.",
+    "data": "2026-10-02T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "5e5439f6d2b6",
     "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
@@ -54,6 +84,16 @@
     "titolo": "“Gioca alla Fiaba”, 20 spettacoli nei parchi e nei quartieri cittadini",
     "link": "https://www.comune.torino.it/novita/notizie/gioca-alla-fiaba-20-spettacoli-nei-parchi-nei-quartieri-cittadini",
     "descrizione": "“Gioca alla Fiaba – Il viaggio di Pinocchio”, un’iniziativa diffusa su tutto il territorio cittadino rivolta alle bambine, ai bambini e alle loro famiglie",
+    "data": "2026-10-01T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6d80a7d0e6c8",
+    "titolo": "Concerto dei POOH (10 e 11 ottobre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+    "link": "https://www.comune.torino.it/novita/notizie/concerto-dei-pooh-10-11-ottobre-2026-presso-inalpi-arena-convocazione-per",
+    "descrizione": "ATTENZIONE - la convocazione si terrà alle ore 11.00",
     "data": "2026-10-01T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -298,6 +338,16 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "0c6cbb9e4be5",
+    "titolo": "Germinale Monferrato ArtFest, ultimo fine settimana",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/germinale-monferrato-artfest-ultimo-fine-settimana",
+    "descrizione": "Ultimo fine settimana per Germinale Monferrato Art Fest, la rassegna di arte contemporanea diffusa, a cura di Francesca Canfora, intitolata Di marne feconde, un mare, inaugurata l'11 settembre. Un’edizione che invita a un’esplorazione profonda…",
+    "data": "2026-09-28T10:42:33+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "f1a9ec3ae642",
@@ -1945,56 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-7-7-milioni-per-sostenere-famiglie-territori",
     "descrizione": "La Regione Piemonte ha rinnovato anche per l’anno scolastico 2025-2026, quello appena concluso, l’assegnazione di 7,7 milioni di euro per contributi a sostegno delle scuole dell’infanzia paritarie, riconoscendone la funzione sociale ed educativa. Le risorse sono destinate alle…",
     "data": "2026-08-13T12:24:31+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "8e788a6f6b95",
-    "titolo": "Scuole dell'infanzia paritaria, 7,7 milioni per sostenere famiglie e territori",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritaria-77-milioni-per-sostenere-famiglie-territori",
-    "descrizione": "La Regione Piemonte ha rinnovato anche per l’anno scolastico 2025-2026, quello appena concluso, l’assegnazione di 7,7 milioni di euro per contributi a sostegno delle scuole dell’infanzia paritarie, riconoscendone la funzione sociale ed educativa. Le risorse sono destinate alle…",
-    "data": "2026-08-13T12:24:31+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "26da1bb0a6a7",
-    "titolo": "Scuole dell'infanzia paritarie, 7,7 milioni per sostenere famiglie e territori",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-dellinfanzia-paritarie-77-milioni-per-sostenere-famiglie-territori",
-    "descrizione": "La Regione Piemonte ha rinnovato anche per l’anno scolastico 2025-2026, quello appena concluso, l’assegnazione di 7,7 milioni di euro per contributi a sostegno delle scuole dell’infanzia paritarie, riconoscendone la funzione sociale ed educativa. Le risorse sono destinate alle…",
-    "data": "2026-08-13T12:24:31+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "33da7dd3da1b",
-    "titolo": "Fermato alla guida di un monopattino rifiuta il test antidroga: denunciato",
-    "link": "https://www.comune.torino.it/novita/comunicati/fermato-alla-guida-un-monopattino-rifiuta-test-antidroga-denunciato",
-    "descrizione": "Un conducente di monopattino elettrico è stato denunciato dalla Polizia Locale per aver rifiutato gli accertamenti.",
-    "data": "2026-08-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "421045fa3e29",
-    "titolo": "Cultura, oltre 10 milioni a 334 realtà in tutte le province",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-oltre-10-milioni-334-realta-tutte-province",
-    "descrizione": "La Regione Piemonte rafforza il sostegno al sistema culturale regionale con oltre 10 milioni di euro nel 2026 nell’ambito dei bandi triennali del Settore Promozione delle Attività culturali, che andranno a beneficiare 334 realtà culturali distribuite in tutte…",
-    "data": "2026-08-13T10:05:56+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "78f8d0c82141",
-    "titolo": "Siccità, più acqua dalla Svizzera e ristori ai Comuni",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/siccita-piu-acqua-dalla-svizzera-ristori-ai-comuni",
-    "descrizione": "Aumentano i rilasci d'acqua dalla Svizzera verso il Piemonte, mentre la Regione ha esteso all'intero territorio piemontese lo stato di emergenza di rilievo regionale per gli incendi boschivi e prepara le ordinanze che consentiranno di ristorare le spese sostenute dai territori…",
-    "data": "2026-08-12T17:31:00+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
