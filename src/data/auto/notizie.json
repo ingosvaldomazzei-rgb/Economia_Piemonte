@@ -1,5 +1,15 @@
 [
   {
+    "id": "2312a4fa96c8",
+    "titolo": "Armonia Card",
+    "link": "https://www.comune.torino.it/novita/notizie/armonia-card",
+    "descrizione": "Il carnet digitale che ti permette di assistere ad un trio di spettacoli nei teatri torinesi.",
+    "data": "2026-10-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "55148895acf4",
     "titolo": "Tartufi, al via la stagione delle fiere. Bando aperto, domande fino al 15 dicembre",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tartufi-al-via-stagione-delle-fiere-bando-aperto-domande-fino-al-15-dicembre",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "8142e83196b7",
-    "titolo": "Concerto di Ferragosto, in 8.000 a Bagnolo Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/concerto-ferragosto-8000-bagnolo-piemonte",
-    "descrizione": "Sono state 8.000 le persone che questa mattina hanno raggiunto Rucas, nel Comune di Bagnolo Piemonte, per assistere al 46° Concerto Sinfonico di Ferragosto. Per la prima volta nella storia della manifestazione, la musica…",
-    "data": "2026-08-15T15:48:27+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
