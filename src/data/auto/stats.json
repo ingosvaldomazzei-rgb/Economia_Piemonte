@@ -14,16 +14,16 @@
       "conteggio": 20
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 15
-    },
-    {
       "tema": "sociale-welfare",
       "conteggio": 15
     },
     {
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 14
+    },
+    {
       "tema": "sanita-regionale",
-      "conteggio": 15
+      "conteggio": 14
     },
     {
       "tema": "commercio-artigianato",
@@ -42,7 +42,7 @@
       "conteggio": 11
     },
     {
-      "tema": "istruzione-formazione",
+      "tema": "lavoro-occupazione",
       "conteggio": 10
     }
   ],

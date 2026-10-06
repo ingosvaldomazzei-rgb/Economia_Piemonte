@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "c1f405306404",
+    "titolo": "Metro 1, completare la tratta Fermi-Cascina Vica",
+    "link": "https://www.comune.torino.it/novita/comunicati/metro-1-completare-tratta-fermi-cascina-vica",
+    "descrizione": "Approvato all'unanimità un ordine del giorno (prima firmataria: Ludovica Cioria - PD)",
+    "data": "2026-10-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4be12549cdf1",
+    "titolo": "La Sala Rossa modifica il regolamento sulle nomine",
+    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-modifica-regolamento-sulle-nomine",
+    "descrizione": "Il Consiglio comunale ha approvato, questo pomeriggio, una delibera di iniziativa consiliare che modifica il Regolamento comunale n. 347",
+    "data": "2026-10-05T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "55148895acf4",
     "titolo": "Tartufi, al via la stagione delle fiere. Bando aperto, domande fino al 15 dicembre",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tartufi-al-via-stagione-delle-fiere-bando-aperto-domande-fino-al-15-dicembre",
@@ -1975,26 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/approvata-convenzione-citta-fondazione-filadelfia-per-realizzazione-museo-grande",
     "descrizione": "La Giunta comunale ha approvato questa mattina lo schema di convenzione tra la Città di Torino e la Fondazione Filadelfia per la realizzazione e gestione.",
     "data": "2026-08-19T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c49fb27363e6",
-    "titolo": "Competenze di Comunicazione Consapevole",
-    "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
-    "descrizione": "Corso gratuito per Caregivers.",
-    "data": "2026-08-18T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b251e9d03350",
-    "titolo": "Trasporto abusivo, la Polizia Locale sequestra un’auto",
-    "link": "https://www.comune.torino.it/novita/comunicati/trasporto-abusivo-polizia-locale-sequestra-unauto",
-    "descrizione": "Notte di controlli per il Reparto Sicurezza Stradale Integrata della Polizia Locale di Torino, impegnato tra sabato 8 e domenica 9 agosto.",
-    "data": "2026-08-17T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"

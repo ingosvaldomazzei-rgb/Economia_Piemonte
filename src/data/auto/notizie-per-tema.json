@@ -1,4 +1,86 @@
 {
+  "lavoro-occupazione": [
+    {
+      "id": "4be12549cdf1",
+      "titolo": "La Sala Rossa modifica il regolamento sulle nomine",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-modifica-regolamento-sulle-nomine",
+      "data": "2026-10-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b74792185c30",
+      "titolo": "Via Genova si rinnova: al termine dei lavori circa 130 nuovi posti auto",
+      "link": "https://www.comune.torino.it/novita/comunicati/via-genova-si-rinnova-al-termine-dei-lavori-circa-130-nuovi-posti-auto",
+      "data": "2026-10-02T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "45b99c64f2c9",
+      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
+      "data": "2026-09-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d41418229747",
+      "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
+      "data": "2026-09-15T16:49:36+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3c68b29e3968",
+      "titolo": "Allo Juventus Stadium la finale di Conference League 2028",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allo-juventus-stadium-finale-conference-league-2028",
+      "data": "2026-09-15T16:49:36+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1409dabfa7d6",
+      "titolo": "Spettacoli viaggianti, il Consiglio comunale aggiorna Regolamento e aree cittadine",
+      "link": "https://www.comune.torino.it/novita/comunicati/spettacoli-viaggianti-consiglio-comunale-aggiorna-regolamento-aree-cittadine",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "91fdef2781da",
+      "titolo": "Credito alle imprese, la cabina di regia delle Regioni del Nord apre il confronto con ABI",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/credito-alle-imprese-cabina-regia-delle-regioni-nord-apre-confronto-abi",
+      "data": "2026-09-07T16:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5ac56f1e8d1f",
+      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – ottobre 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-4",
+      "data": "2026-09-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b4ad9082dac7",
+      "titolo": "Caldo, prorogate fino al 6 settembre le misure di tutela per i lavoratori",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/caldo-prorogate-fino-al-6-settembre-misure-tutela-per-lavoratori",
+      "data": "2026-09-01T16:25:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ed49627e70ee",
+      "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
+      "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
+      "data": "2026-09-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "commercio-artigianato": [
     {
       "id": "55148895acf4",
@@ -461,88 +543,6 @@
       "data": "2026-08-24T13:41:47+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "c49fb27363e6",
-      "titolo": "Competenze di Comunicazione Consapevole",
-      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
-      "data": "2026-08-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "b74792185c30",
-      "titolo": "Via Genova si rinnova: al termine dei lavori circa 130 nuovi posti auto",
-      "link": "https://www.comune.torino.it/novita/comunicati/via-genova-si-rinnova-al-termine-dei-lavori-circa-130-nuovi-posti-auto",
-      "data": "2026-10-02T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "45b99c64f2c9",
-      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
-      "data": "2026-09-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d41418229747",
-      "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
-      "data": "2026-09-15T16:49:36+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3c68b29e3968",
-      "titolo": "Allo Juventus Stadium la finale di Conference League 2028",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allo-juventus-stadium-finale-conference-league-2028",
-      "data": "2026-09-15T16:49:36+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1409dabfa7d6",
-      "titolo": "Spettacoli viaggianti, il Consiglio comunale aggiorna Regolamento e aree cittadine",
-      "link": "https://www.comune.torino.it/novita/comunicati/spettacoli-viaggianti-consiglio-comunale-aggiorna-regolamento-aree-cittadine",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "91fdef2781da",
-      "titolo": "Credito alle imprese, la cabina di regia delle Regioni del Nord apre il confronto con ABI",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/credito-alle-imprese-cabina-regia-delle-regioni-nord-apre-confronto-abi",
-      "data": "2026-09-07T16:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5ac56f1e8d1f",
-      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – ottobre 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-4",
-      "data": "2026-09-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b4ad9082dac7",
-      "titolo": "Caldo, prorogate fino al 6 settembre le misure di tutela per i lavoratori",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/caldo-prorogate-fino-al-6-settembre-misure-tutela-per-lavoratori",
-      "data": "2026-09-01T16:25:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ed49627e70ee",
-      "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
-      "data": "2026-09-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "turismo": [
@@ -683,14 +683,6 @@
       "titolo": "Concessione dell’impianto sportivo comunale “TAZZOLI HOCKEY” di corso Tazzoli 78",
       "link": "https://www.comune.torino.it/novita/avvisi/concessione-dellimpianto-sportivo-comunale-tazzoli-hockey-corso-tazzoli-78",
       "data": "2026-08-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b251e9d03350",
-      "titolo": "Trasporto abusivo, la Polizia Locale sequestra un’auto",
-      "link": "https://www.comune.torino.it/novita/comunicati/trasporto-abusivo-polizia-locale-sequestra-unauto",
-      "data": "2026-08-17T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1353,14 +1345,6 @@
       "data": "2026-09-03T13:47:24+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "c49fb27363e6",
-      "titolo": "Competenze di Comunicazione Consapevole",
-      "link": "https://www.comune.torino.it/novita/notizie/competenze-comunicazione-consapevole",
-      "data": "2026-08-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "trasparenza": [
