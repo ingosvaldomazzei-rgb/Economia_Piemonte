@@ -1,5 +1,85 @@
 [
   {
+    "id": "a1fbf7680021",
+    "titolo": "Giornata della salute mentale, prevenzione e giovani al centro delle iniziative",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giornata-della-salute-mentale-prevenzione-giovani-al-centro-delle-iniziative",
+    "descrizione": "Prevenire il disagio, intercettarne precocemente i segnali e costruire attorno alle persone una rete capace di accompagnarle nei percorsi di cura. Sono questi alcuni dei temi al centro delle iniziative organizzate in Piemonte in occasione della…",
+    "data": "2026-10-06T14:34:43+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "8dd698d5be47",
+    "titolo": "Fondazione Giorgio Amendola: social innovation at the heart of the New European Bauhaus in Torino",
+    "link": "https://www.comune.torino.it/novita/notizie/fondazione-giorgio-amendola-social-innovation-at-the-heart-of-the-new-european",
+    "descrizione": "“Sulle vie del futuro – Young People Who Do Not Give Up\" selected at the EU Social Innovation Forum 2026",
+    "data": "2026-10-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1ffd381dd8b6",
+    "titolo": "Carta solidale per acquistare beni di prima necessità",
+    "link": "https://www.comune.torino.it/novita/notizie/carta-solidale-per-acquistare-beni-prima-necessita",
+    "descrizione": "Ad inizio novembre sarà riattivato il programma nazionale relativo alla Carta \"Dedicata a Te\"",
+    "data": "2026-10-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "00a1c83a5d46",
+    "titolo": "Manifestazioni di interesse per l’immobile di proprietà della Città sito in Torino, Corso Regina Margherita n. 47",
+    "link": "https://www.comune.torino.it/novita/avvisi/manifestazioni-interesse-per-limmobile-proprieta-della-citta-sito-torino-corso",
+    "descrizione": "Avviso pubblico per la raccolta delle manifestazioni di interesse per l’immobile di proprietà della Città sito in Torino, Corso Regina Margherita n. 47",
+    "data": "2026-10-06T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "49936cb6964d",
+    "titolo": "Università di Torino e Regione, agenda comune su ricerca, innovazione e internazionalizzazione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/universita-torino-regione-agenda-comune-ricerca-innovazione-internazionalizzazione",
+    "descrizione": "Mettere in rete le infrastrutture di ricerca, ampliare le opportunità di formazione permanente e rafforzare il ruolo del Piemonte nei circuiti internazionali della conoscenza e dell’innovazione. Sono gli ambiti al centro dell’incontro che si è svolto lunedì 5 ottobre al Grattacielo…",
+    "data": "2026-10-05T15:56:40+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "9605e11a1be2",
+    "titolo": "Andrea Ganelli è il nuovo presidente del Circolo dei lettori",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/andrea-ganelli-nuovo-presidente-circolo-dei-lettori",
+    "descrizione": "La giunta regionale ha nominato questa mattina Andrea Ganelli nuovo presidente della Fondazione Circolo dei lettori e del suo consiglio di gestione. Come previsto dallo statuto, la durata dell’incarico è fissata in…",
+    "data": "2026-10-05T15:07:21+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "14b4efc80da4",
+    "titolo": "Un ciclo di incontri per la gestione del post-emergenza",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-ciclo-incontri-per-gestione-post-emergenza",
+    "descrizione": "Parte da Asti, martedì 6 ottobre, il ciclo di incontri “Pronto Intervento – Insieme per una gestione tempestiva ed efficace del post-emergenza”, promosso dalla Regione Piemonte per rafforzare il coordinamento tra Regione, Province e Comuni nella gestione delle…",
+    "data": "2026-10-05T14:46:35+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "f9fdce1f89d5",
+    "titolo": "Programma eventi da ottobre 2026 a febbraio 2027",
+    "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-eventi-da-ottobre-2026-febbraio-2027",
+    "descrizione": "Tipologia articolo Eventi biblioteca Data pubblicazione 05 Ottobre 2026 Data evento: Dal 21 Ottobre 2026 Al 06 Febbraio 2027 Biblioteca della Regione Piemonte Mercoledì 21 ottobre 2026 ore 18\"Una vita per i libri, Umberto Eco e la biblioteca d’autore\"in collaborazione con la Fondazione Umberto Eco di MilanoCome nasce e si costruisce una biblioteca d’autore. Un viaggio affascinanteche parte da una frase del professor Eco: “Essere colti non significa ricordaretutte le nozioni, ma sapere dove andar",
+    "data": "2026-10-05T13:47:07+00:00",
+    "fonte": "Consiglio Regionale",
+    "fonte_id": "consiglio",
+    "colore": "#7c3aed"
+  },
+  {
     "id": "2312a4fa96c8",
     "titolo": "Armonia Card",
     "link": "https://www.comune.torino.it/novita/notizie/armonia-card",
@@ -173,7 +253,7 @@
     "id": "d0438b8d37db",
     "titolo": "ProAlp, una ricerca sulle professioni della montagna e sui cambiamenti climatici",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/proalp-una-ricerca-sulle-professioni-della-montagna-sui-cambiamenti-climatici",
-    "descrizione": "Il Museo Nazionale della Montagna Duca degli Abruzzi di Torino, martedì 29 settembre, ha ospitato il comitato di pilotaggio e l'incontro “La montagna cambia volto”, promosso dalla Regione Piemonte nell’ambito del Progetto ProAlp (Programma Interreg France-Italia ALCOTRA 2021-…",
+    "descrizione": "Il Museo Nazionale della Montagna Duca degli Abruzzi di Torino, martedì 29 settembre, ha ospitato il comitato di pilotaggio e l'incontro “La montagna cambia volto”, promosso dalla Regione Piemonte nell’ambito del…",
     "data": "2026-09-30T15:00:00+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
@@ -1915,86 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/notizie/laboratorio-racconto-mia-storia",
     "descrizione": "Laboratorio in gruppo di autobiografia per persone della terza età",
     "data": "2026-08-21T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0c4549f68921",
-    "titolo": "Torino Cambia: la biblioteca civica Cascina Marchesa riapre lunedì 24 agosto",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-biblioteca-civica-cascina-marchesa-riapre-lunedi-24-agosto",
-    "descrizione": "Più accogliente, riconoscibile e pronta a completare il suo rinnovamento, la Biblioteca civica Cascina Marchesa riapre lunedì 24 agosto.",
-    "data": "2026-08-21T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "5e9b5b224768",
-    "titolo": "Programmazione autunnale 2026 del Centro Relazioni e Famiglie",
-    "link": "https://www.comune.torino.it/novita/notizie/programmazione-autunnale-2026-centro-relazioni-famiglie",
-    "descrizione": "Programmazione autunnale 2026",
-    "data": "2026-08-21T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "42949cf57d74",
-    "titolo": "Da martedì 25 agosto modifiche alla circolazione nel centro di Torino per le riprese di una nuova serie TV internazionale",
-    "link": "https://www.comune.torino.it/novita/comunicati/martedi-25-agosto-modifiche-alla-circolazione-nel-centro-torino-per-riprese-una",
-    "descrizione": "Lunedì 24 agosto prenderà il via a Torino la lavorazione di una nuova serie TV internazionale.",
-    "data": "2026-08-21T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4a3d0922df19",
-    "titolo": "ITS Academy: 22,5 milioni per 61 percorsi biennali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/its-academy-225-milioni-per-61-percorsi-biennali",
-    "descrizione": "La Regione ha approvato la nuova offerta formativa degli ITS Academy che prevede 61 percorsi biennali da avviare nel prossimo autunno. Grazie allo stanziamento di risorse provenienti in gran parte dal Fondo Sociale Europeo, tutti i corsi sono…",
-    "data": "2026-08-21T10:03:31+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "3b8955e25748",
-    "titolo": "Rotonda Maroncelli e corso Telesio: dal 23 agosto modifiche alla viabilità per lavori di Iren sulla rete del teleriscaldamento",
-    "link": "https://www.comune.torino.it/novita/comunicati/rotonda-maroncelli-corso-telesio-23-agosto-modifiche-alla-viabilita-per-lavori",
-    "descrizione": "A partire da domenica 23 agosto Iren avvierà un intervento sulla rete del teleriscaldamento nell'area della rotonda Maroncelli.",
-    "data": "2026-08-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "22cfdebedc48",
-    "titolo": "Scaricava liquami in un tombino vicino al terminal di corso Vittorio Emanuele: conducente denunciato e autobus sequestrato",
-    "link": "https://www.comune.torino.it/novita/comunicati/scaricava-liquami-un-tombino-vicino-al-terminal-corso-vittorio-emanuele",
-    "descrizione": "Un servizio della Polizia Locale ha permesso agli agenti di intervenire mentre il conducente di un autobus turistico scaricava il contenuto del serbatoio.",
-    "data": "2026-08-20T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1ef5f0fa3ebb",
-    "titolo": "Agricoltura, 1 milione di euro per il ripristino ecologico degli ambienti naturali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-1-milione-euro-per-ripristino-ecologico-degli-ambienti-naturali",
-    "descrizione": "Sono 21 le aziende agricole e gli enti attivi in Piemonte che potranno vedere finanziati al 100% dalla Regione Piemonte i propri progetti di investimento con finalità ambientali e di tutela della biodiversità in ambiente agricolo. Sono i soggetti risultati primi…",
-    "data": "2026-08-20T10:25:34+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "752f26f49484",
-    "titolo": "Approvata la convenzione tra Città e Fondazione Filadelfia per la realizzazione del Museo del Grande Torino e della leggenda granata allo stadio Filadelfia",
-    "link": "https://www.comune.torino.it/novita/comunicati/approvata-convenzione-citta-fondazione-filadelfia-per-realizzazione-museo-grande",
-    "descrizione": "La Giunta comunale ha approvato questa mattina lo schema di convenzione tra la Città di Torino e la Fondazione Filadelfia per la realizzazione e gestione.",
-    "data": "2026-08-19T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
