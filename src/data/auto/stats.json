@@ -7,28 +7,28 @@
   },
   "temi_attivi": [
     {
-      "tema": "agricoltura",
-      "conteggio": 20
-    },
-    {
       "tema": "cultura-beni-culturali",
       "conteggio": 20
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 15
+      "tema": "agricoltura",
+      "conteggio": 20
     },
     {
-      "tema": "sanita-regionale",
+      "tema": "sociale-welfare",
       "conteggio": 14
     },
     {
       "tema": "universita-ricerca",
-      "conteggio": 13
+      "conteggio": 14
     },
     {
-      "tema": "sociale-welfare",
-      "conteggio": 13
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 14
+    },
+    {
+      "tema": "sanita-regionale",
+      "conteggio": 14
     },
     {
       "tema": "fondi-europei",
