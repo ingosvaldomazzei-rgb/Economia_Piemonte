@@ -197,6 +197,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "623b75c4725c",
+      "titolo": "Un Piemonte più verde e resiliente, altri 13 milioni per due bandi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piemonte-piu-verde-resiliente-altri-13-milioni-per-due-bandi",
+      "data": "2026-10-05T20:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "55148895acf4",
       "titolo": "Tartufi, al via la stagione delle fiere. Bando aperto, domande fino al 15 dicembre",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tartufi-al-via-stagione-delle-fiere-bando-aperto-domande-fino-al-15-dicembre",
@@ -339,14 +347,6 @@
       "data": "2026-09-02T15:59:00+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "5c7438338429",
-      "titolo": "Omaggio a Carla Fracci, 2 serate nelle Residenze Reali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-nelle-residenze-reali",
-      "data": "2026-09-02T15:59:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "fondi-europei": [
@@ -355,6 +355,14 @@
       "titolo": "Giornata della salute mentale, prevenzione e giovani al centro delle iniziative",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giornata-della-salute-mentale-prevenzione-giovani-al-centro-delle-iniziative",
       "data": "2026-10-06T14:34:43+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "623b75c4725c",
+      "titolo": "Un Piemonte più verde e resiliente, altri 13 milioni per due bandi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piemonte-piu-verde-resiliente-altri-13-milioni-per-due-bandi",
+      "data": "2026-10-05T20:00:00+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
@@ -661,6 +669,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "f6dcf47b0977",
+      "titolo": "UniTo e Regione, agenda su ricerca, innovazione e internazionalizzazione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/unito-regione-agenda-ricerca-innovazione-internazionalizzazione",
+      "data": "2026-10-05T15:56:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "4297502fa978",
       "titolo": "Progetto europeo ProAlp, una ricerca sulle professioni della montagna e sui cambiamenti climatici",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/progetto-europeo-proalp-una-ricerca-sulle-professioni-della-montagna-sui-cambiamenti-climatici",
@@ -745,14 +761,6 @@
       "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
       "link": "https://www.comune.torino.it/novita/notizie/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
       "data": "2026-08-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bc82b2c90944",
-      "titolo": "Innovazione, ricerca e cooperazione internazionale al centro della missione istituzionale della Città di Torino in Brasile",
-      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-ricerca-cooperazione-internazionale-al-centro-della-missione",
-      "data": "2026-08-29T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -841,6 +849,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "f6dcf47b0977",
+      "titolo": "UniTo e Regione, agenda su ricerca, innovazione e internazionalizzazione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/unito-regione-agenda-ricerca-innovazione-internazionalizzazione",
+      "data": "2026-10-05T15:56:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "d74a68831171",
       "titolo": "Cultura, 1,9 milioni per libri, editoria e patrimonio culturale",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-19-milioni-per-libri-editoria-patrimonio-culturale",
@@ -895,14 +911,6 @@
       "data": "2026-08-31T16:04:20+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "bc82b2c90944",
-      "titolo": "Innovazione, ricerca e cooperazione internazionale al centro della missione istituzionale della Città di Torino in Brasile",
-      "link": "https://www.comune.torino.it/novita/comunicati/innovazione-ricerca-cooperazione-internazionale-al-centro-della-missione",
-      "data": "2026-08-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "edilizia-opere-pubbliche": [
@@ -910,6 +918,14 @@
       "id": "49936cb6964d",
       "titolo": "Università di Torino e Regione, agenda comune su ricerca, innovazione e internazionalizzazione",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/universita-torino-regione-agenda-comune-ricerca-innovazione-internazionalizzazione",
+      "data": "2026-10-05T15:56:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f6dcf47b0977",
+      "titolo": "UniTo e Regione, agenda su ricerca, innovazione e internazionalizzazione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/unito-regione-agenda-ricerca-innovazione-internazionalizzazione",
       "data": "2026-10-05T15:56:40+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
