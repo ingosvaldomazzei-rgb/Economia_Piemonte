@@ -1,5 +1,35 @@
 [
   {
+    "id": "290f1979e930",
+    "titolo": "Gruppo Donne in Movimento",
+    "link": "https://www.comune.torino.it/novita/notizie/gruppo-donne-movimento",
+    "descrizione": "Gruppo gratuito di danzaterapia per donne di ogni età",
+    "data": "2026-10-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8ce774252115",
+    "titolo": "RE/FASHION HEROES",
+    "link": "https://www.comune.torino.it/novita/notizie/refashion-heroes",
+    "descrizione": "Laboratorio gratuito sabato 10 ottobre 2026 al Centro di Riuso Creativo REMIDA",
+    "data": "2026-10-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7f4135b3a567",
+    "titolo": "TIPS4PED: il fotovoltaico da balcone protagonista di un workshop a Torino",
+    "link": "https://www.comune.torino.it/novita/notizie/tips4ped-fotovoltaico-balcone-protagonista-un-workshop-torino",
+    "descrizione": "Workshop dedicato a una delle soluzioni più innovative e accessibili: il fotovoltaico da balcone",
+    "data": "2026-10-07T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "c4093a44cab1",
     "titolo": "Torino Design City. Dall’8 al 31 ottobre la prima edizione di Transizioni Tangibili",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-design-city-dall8-al-31-ottobre-prima-edizione-transizioni-tangibili",
@@ -134,6 +164,16 @@
     "titolo": "Programma eventi da ottobre 2026 a febbraio 2027",
     "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-eventi-da-ottobre-2026-febbraio-2027",
     "descrizione": "Tipologia articolo Eventi biblioteca Data pubblicazione 05 Ottobre 2026 Data evento: Dal 21 Ottobre 2026 Al 06 Febbraio 2027 Biblioteca della Regione Piemonte Mercoledì 21 ottobre 2026 ore 18\"Una vita per i libri, Umberto Eco e la biblioteca d’autore\"in collaborazione con la Fondazione Umberto Eco di MilanoCome nasce e si costruisce una biblioteca d’autore. Un viaggio affascinanteche parte da una frase del professor Eco: “Essere colti non significa ricordaretutte le nozioni, ma sapere dove andar",
+    "data": "2026-10-05T13:47:07+00:00",
+    "fonte": "Consiglio Regionale",
+    "fonte_id": "consiglio",
+    "colore": "#7c3aed"
+  },
+  {
+    "id": "f78524b390af",
+    "titolo": "Programma incontri in biblioteca da ottobre 2026 a febbraio 2027",
+    "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-incontri-biblioteca-da-ottobre-2026-febbraio-2027",
+    "descrizione": "Tipologia articolo Eventi biblioteca Data pubblicazione 05 Ottobre 2026 Data evento: Dal 10 Ottobre 2026 Al 06 Febbraio 2027 Biblioteca della Regione Piemonte Mercoledì 21 ottobre 2026 ore 18Una vita per i libri, Umberto Eco e la biblioteca d’autorein collaborazione con la Fondazione Umberto Eco di Milano.Come nasce e si costruisce una biblioteca d’autore. Un viaggio affascinanteche parte da una frase del professor Eco: “Essere colti non significa ricordaretutte le nozioni, ma sapere dove andare",
     "data": "2026-10-05T13:47:07+00:00",
     "fonte": "Consiglio Regionale",
     "fonte_id": "consiglio",
@@ -1955,46 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/innovazione-ricerca-cooperazione-internazionale-al-centro-della-missione",
     "descrizione": "Una missione articolata in diverse tappe tra San Paolo, Campinas, Campo Grande e Brasilia.",
     "data": "2026-08-29T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "5a1487d8e2a9",
-    "titolo": "Corso Vercelli e via Filadelfia: da lunedì 31 agosto lavori di rifacimento del manto stradale",
-    "link": "https://www.comune.torino.it/novita/comunicati/corso-vercelli-via-filadelfia-lunedi-31-agosto-lavori-rifacimento-manto-stradale",
-    "descrizione": "Gli interventi rientrano nel piano straordinario di manutenzione del suolo pubblico “Torino Cambia – Spazi che uniscono” sostenuto da Fondazione CRT.",
-    "data": "2026-08-28T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6d017e25bc70",
-    "titolo": "Torino Cambia – Spazi che uniscono: al via interventi nei quartieri e per la sicurezza degli incroci",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-spazi-che-uniscono-al-via-interventi-nei-quartieri-per-sicurezza",
-    "descrizione": "Dai principali assi della viabilità cittadina ai quartieri, proseguono le attività del piano “Torino Cambia – Spazi che uniscono”, sostenuto da Fondazione CRT.",
-    "data": "2026-08-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a1652f1fc62d",
-    "titolo": "Concessione dell’impianto sportivo comunale “TAZZOLI HOCKEY” di corso Tazzoli 78",
-    "link": "https://www.comune.torino.it/novita/avvisi/concessione-dellimpianto-sportivo-comunale-tazzoli-hockey-corso-tazzoli-78",
-    "descrizione": "Avviso di indagine esplorativa di mercato per procedura negoziata di gara, ai sensi del D.Lgs n. 36/2023 e s.m.i. Scadenza: 15 settembre 2026 alle ore 12:00:00",
-    "data": "2026-08-26T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "051e77c0e71a",
-    "titolo": "Codice rosso di ferragosto. La Polizia Locale arresta un quarantenne che maltrattava l’anziana madre",
-    "link": "https://www.comune.torino.it/novita/comunicati/codice-rosso-ferragosto-polizia-locale-arresta-un-quarantenne-che-maltrattava",
-    "descrizione": "Intorno a Ferragosto, l’ennesimo grave episodio di violenza ha convinta una donna a presentarsi al Comando di Polizia Locale di Torino .",
-    "data": "2026-08-25T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"

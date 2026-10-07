@@ -1,9 +1,9 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
+    "comune_torino": 135,
     "regione": 63,
-    "comune_torino": 136,
-    "consiglio": 1
+    "consiglio": 2
   },
   "temi_attivi": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "tema": "commercio-artigianato",
-      "conteggio": 12
+      "conteggio": 11
     },
     {
       "tema": "giovani",

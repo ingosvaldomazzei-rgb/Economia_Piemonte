@@ -1,4 +1,30 @@
 {
+  "energia": [
+    {
+      "id": "7f4135b3a567",
+      "titolo": "TIPS4PED: il fotovoltaico da balcone protagonista di un workshop a Torino",
+      "link": "https://www.comune.torino.it/novita/notizie/tips4ped-fotovoltaico-balcone-protagonista-un-workshop-torino",
+      "data": "2026-10-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b606039aa48d",
+      "titolo": "Cultura ed enogastronomia: parte a Torino “In cucina con…” nell’ambito di Torino Compra Vicino e di Terra Madre Salone del Gusto",
+      "link": "https://www.comune.torino.it/novita/comunicati/cultura-enogastronomia-parte-torino-cucina-nellambito-torino-compra-vicino-terra",
+      "data": "2026-09-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "aae2aca5497a",
+      "titolo": "Cantieri in città: chiude ponte Rossini, al via anche i lavori di Smat, Ireti, Iren e Italgas",
+      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-chiude-ponte-rossini-al-via-anche-lavori-smat-ireti-iren-italgas",
+      "data": "2026-09-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "cultura-beni-culturali": [
     {
       "id": "c4093a44cab1",
@@ -36,6 +62,14 @@
       "id": "f9fdce1f89d5",
       "titolo": "Programma eventi da ottobre 2026 a febbraio 2027",
       "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-eventi-da-ottobre-2026-febbraio-2027",
+      "data": "2026-10-05T13:47:07+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "f78524b390af",
+      "titolo": "Programma incontri in biblioteca da ottobre 2026 a febbraio 2027",
+      "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-incontri-biblioteca-da-ottobre-2026-febbraio-2027",
       "data": "2026-10-05T13:47:07+00:00",
       "fonte": "Consiglio Regionale",
       "fonte_id": "consiglio"
@@ -149,14 +183,6 @@
       "titolo": "Nasce il nuovo polo culturale del Valentino, laboratorio permanente di cittadinanza e di cultura",
       "link": "https://www.comune.torino.it/novita/comunicati/nasce-nuovo-polo-culturale-valentino-laboratorio-permanente-cittadinanza-cultura",
       "data": "2026-09-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b606039aa48d",
-      "titolo": "Cultura ed enogastronomia: parte a Torino “In cucina con…” nell’ambito di Torino Compra Vicino e di Terra Madre Salone del Gusto",
-      "link": "https://www.comune.torino.it/novita/comunicati/cultura-enogastronomia-parte-torino-cucina-nellambito-torino-compra-vicino-terra",
-      "data": "2026-09-15T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1303,14 +1329,6 @@
       "data": "2026-09-03T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a1652f1fc62d",
-      "titolo": "Concessione dell’impianto sportivo comunale “TAZZOLI HOCKEY” di corso Tazzoli 78",
-      "link": "https://www.comune.torino.it/novita/avvisi/concessione-dellimpianto-sportivo-comunale-tazzoli-hockey-corso-tazzoli-78",
-      "data": "2026-08-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "turismo": [
@@ -1435,14 +1453,6 @@
       "titolo": "Torino si riaccende con lo sport e la cultura: al via l’edizione 2026 di “Festa dello Sport & Circoscrizioni in Mostra”",
       "link": "https://www.comune.torino.it/novita/comunicati/torino-si-riaccende-sport-cultura-al-via-ledizione-2026-festa-dello-sport",
       "data": "2026-09-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a1652f1fc62d",
-      "titolo": "Concessione dell’impianto sportivo comunale “TAZZOLI HOCKEY” di corso Tazzoli 78",
-      "link": "https://www.comune.torino.it/novita/avvisi/concessione-dellimpianto-sportivo-comunale-tazzoli-hockey-corso-tazzoli-78",
-      "data": "2026-08-26T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1713,24 +1723,6 @@
       "data": "2026-09-07T09:45:17+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "energia": [
-    {
-      "id": "b606039aa48d",
-      "titolo": "Cultura ed enogastronomia: parte a Torino “In cucina con…” nell’ambito di Torino Compra Vicino e di Terra Madre Salone del Gusto",
-      "link": "https://www.comune.torino.it/novita/comunicati/cultura-enogastronomia-parte-torino-cucina-nellambito-torino-compra-vicino-terra",
-      "data": "2026-09-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "aae2aca5497a",
-      "titolo": "Cantieri in città: chiude ponte Rossini, al via anche i lavori di Smat, Ireti, Iren e Italgas",
-      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-chiude-ponte-rossini-al-via-anche-lavori-smat-ireti-iren-italgas",
-      "data": "2026-09-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "ambiente-qualita-aria": [
