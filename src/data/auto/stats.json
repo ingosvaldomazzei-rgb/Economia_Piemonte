@@ -2,8 +2,8 @@
   "totale_notizie": 200,
   "notizie_per_fonte": {
     "comune_torino": 133,
-    "regione": 65,
-    "consiglio": 2
+    "regione": 64,
+    "consiglio": 3
   },
   "temi_attivi": [
     {
@@ -43,7 +43,7 @@
       "conteggio": 11
     },
     {
-      "tema": "giovani",
+      "tema": "lavoro-occupazione",
       "conteggio": 10
     }
   ],

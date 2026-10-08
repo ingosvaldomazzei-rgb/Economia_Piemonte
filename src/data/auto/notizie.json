@@ -200,6 +200,16 @@
     "colore": "#7c3aed"
   },
   {
+    "id": "cf7729269683",
+    "titolo": "PROGRAMMA INCONTRI OTTOBRE 2026 - FEBBRAIO 2027",
+    "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-incontri-ottobre-2026-febbraio-2027",
+    "descrizione": "Tipologia articolo Eventi biblioteca Data pubblicazione 05 Ottobre 2026 Data evento: Dal 10 Ottobre 2026 Al 06 Febbraio 2027 Biblioteca della Regione Piemonte Mercoledì 21 ottobre 2026 ore 18Una vita per i libri, Umberto Eco e la biblioteca d’autorein collaborazione con la Fondazione Umberto Eco di Milano.Come nasce e si costruisce una biblioteca d’autore. Un viaggio affascinanteche parte da una frase del professor Eco: “Essere colti non significa ricordaretutte le nozioni, ma sapere dove andare",
+    "data": "2026-10-05T13:47:07+00:00",
+    "fonte": "Consiglio Regionale",
+    "fonte_id": "consiglio",
+    "colore": "#7c3aed"
+  },
+  {
     "id": "2312a4fa96c8",
     "titolo": "Armonia Card",
     "link": "https://www.comune.torino.it/novita/notizie/armonia-card",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "490103bd3f43",
-    "titolo": "Scoprire il talento, costruire il futuro",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scoprire-talento-costruire-futuro",
-    "descrizione": "Forte dei numeri raggiunti nel triennio 2023-2026, la Regione Piemonte ha approvato il nuovo Avviso rivolto ai soggetti accreditati per far ripartire dal prossimo anno scolastico 2026/27 i servizi di orientamento dedicati ai giovani tra gli 8 e i 24 anni. L'…",
-    "data": "2026-08-30T20:00:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

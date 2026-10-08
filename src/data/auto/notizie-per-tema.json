@@ -75,6 +75,14 @@
       "fonte_id": "consiglio"
     },
     {
+      "id": "cf7729269683",
+      "titolo": "PROGRAMMA INCONTRI OTTOBRE 2026 - FEBBRAIO 2027",
+      "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-incontri-ottobre-2026-febbraio-2027",
+      "data": "2026-10-05T13:47:07+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
       "id": "4297502fa978",
       "titolo": "Progetto europeo ProAlp, una ricerca sulle professioni della montagna e sui cambiamenti climatici",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/progetto-europeo-proalp-una-ricerca-sulle-professioni-della-montagna-sui-cambiamenti-climatici",
@@ -174,14 +182,6 @@
       "id": "45b99c64f2c9",
       "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
       "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
-      "data": "2026-09-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a57d7d7ed01c",
-      "titolo": "Nasce il nuovo polo culturale del Valentino, laboratorio permanente di cittadinanza e di cultura",
-      "link": "https://www.comune.torino.it/novita/comunicati/nasce-nuovo-polo-culturale-valentino-laboratorio-permanente-cittadinanza-cultura",
       "data": "2026-09-16T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -527,14 +527,6 @@
       "data": "2026-08-31T14:35:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "490103bd3f43",
-      "titolo": "Scoprire il talento, costruire il futuro",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scoprire-talento-costruire-futuro",
-      "data": "2026-08-30T20:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sociale-welfare": [
@@ -827,14 +819,6 @@
       "titolo": "Maltempo e calamità, nasce il “pronto intervento” per le scuole danneggiate",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-calamita-nasce-pronto-intervento-per-scuole-danneggiate",
       "data": "2026-09-01T13:58:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "490103bd3f43",
-      "titolo": "Scoprire il talento, costruire il futuro",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scoprire-talento-costruire-futuro",
-      "data": "2026-08-30T20:00:00+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
