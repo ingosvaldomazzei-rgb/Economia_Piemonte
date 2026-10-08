@@ -1,4 +1,62 @@
 {
+  "sport": [
+    {
+      "id": "dd7acc9b545f",
+      "titolo": "Concerto di LAURA PAUSINI (17 e 18 ottobre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/concerto-laura-pausini-17-18-ottobre-2026-presso-inalpi-arena-convocazione-per",
+      "data": "2026-10-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5e5439f6d2b6",
+      "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
+      "data": "2026-10-01T16:40:26+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c4a2f05ede8f",
+      "titolo": "A Falchera nuovi spazi per ragazze e ragazzi. Inaugurato KICK OFF, il progetto Youtoo che rilancia sport, partecipazione e comunità",
+      "link": "https://www.comune.torino.it/novita/comunicati/falchera-nuovi-spazi-per-ragazze-ragazzi-inaugurato-kick-off-progetto-youtoo-che",
+      "data": "2026-09-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1adfe4f205b7",
+      "titolo": "Torino scommette sui viaggiatori di domani: la tessera Junior Gtt arriva a casa. Un coniglietto-mascotte pronto a guidare i più piccoli alla scoperta del trasporto pubblico",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-scommette-sui-viaggiatori-domani-tessera-junior-gtt-arriva-casa-un",
+      "data": "2026-09-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "582573c76b57",
+      "titolo": "Campi sportivi e nuova area giochi in via Rubino. Approvato il progetto di riqualificazione finanziato dalla Consulta per la Valorizzazione dei Beni Artistici e Culturali di Torino.",
+      "link": "https://www.comune.torino.it/novita/comunicati/campi-sportivi-nuova-area-giochi-via-rubino-approvato-progetto-riqualificazione",
+      "data": "2026-09-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d41418229747",
+      "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
+      "data": "2026-09-15T16:49:36+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bd109655da78",
+      "titolo": "Torino si riaccende con lo sport e la cultura: al via l’edizione 2026 di “Festa dello Sport & Circoscrizioni in Mostra”",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-si-riaccende-sport-cultura-al-via-ledizione-2026-festa-dello-sport",
+      "data": "2026-09-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "energia": [
     {
       "id": "7f4135b3a567",
@@ -445,14 +503,6 @@
       "data": "2026-08-31T14:35:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "f92d203ccf89",
-      "titolo": "48 milioni per la formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/48-milioni-per-formazione-tecnica-superiore",
-      "data": "2026-08-31T14:35:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "giovani": [
@@ -516,14 +566,6 @@
       "id": "1cea3ecef309",
       "titolo": "Piemonte, cresce la formazione tecnica superiore",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
-      "data": "2026-08-31T14:35:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f92d203ccf89",
-      "titolo": "48 milioni per la formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/48-milioni-per-formazione-tecnica-superiore",
       "data": "2026-08-31T14:35:04+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
@@ -747,14 +789,6 @@
       "data": "2026-09-08T13:37:40+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "3a257d17fcc9",
-      "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
-      "link": "https://www.comune.torino.it/novita/notizie/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
-      "data": "2026-08-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "istruzione-formazione": [
@@ -1407,56 +1441,6 @@
       "fonte_id": "regione"
     }
   ],
-  "sport": [
-    {
-      "id": "5e5439f6d2b6",
-      "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
-      "data": "2026-10-01T16:40:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c4a2f05ede8f",
-      "titolo": "A Falchera nuovi spazi per ragazze e ragazzi. Inaugurato KICK OFF, il progetto Youtoo che rilancia sport, partecipazione e comunità",
-      "link": "https://www.comune.torino.it/novita/comunicati/falchera-nuovi-spazi-per-ragazze-ragazzi-inaugurato-kick-off-progetto-youtoo-che",
-      "data": "2026-09-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1adfe4f205b7",
-      "titolo": "Torino scommette sui viaggiatori di domani: la tessera Junior Gtt arriva a casa. Un coniglietto-mascotte pronto a guidare i più piccoli alla scoperta del trasporto pubblico",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-scommette-sui-viaggiatori-domani-tessera-junior-gtt-arriva-casa-un",
-      "data": "2026-09-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "582573c76b57",
-      "titolo": "Campi sportivi e nuova area giochi in via Rubino. Approvato il progetto di riqualificazione finanziato dalla Consulta per la Valorizzazione dei Beni Artistici e Culturali di Torino.",
-      "link": "https://www.comune.torino.it/novita/comunicati/campi-sportivi-nuova-area-giochi-via-rubino-approvato-progetto-riqualificazione",
-      "data": "2026-09-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d41418229747",
-      "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
-      "data": "2026-09-15T16:49:36+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bd109655da78",
-      "titolo": "Torino si riaccende con lo sport e la cultura: al via l’edizione 2026 di “Festa dello Sport & Circoscrizioni in Mostra”",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-si-riaccende-sport-cultura-al-via-ledizione-2026-festa-dello-sport",
-      "data": "2026-09-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "pianificazione-territoriale": [
     {
       "id": "85f174cd80e4",
@@ -1519,14 +1503,6 @@
       "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
       "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
       "data": "2026-09-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1a049bea0793",
-      "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
-      "link": "https://www.comune.torino.it/novita/comunicati/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
-      "data": "2026-08-31T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1677,22 +1653,6 @@
       "titolo": "Cascina Giajone, un nuovo presidio per Mirafiori Nord: inaugurato il PIÙ della Circoscrizione 2",
       "link": "https://www.comune.torino.it/novita/comunicati/cascina-giajone-un-nuovo-presidio-per-mirafiori-nord-inaugurato-piu-della",
       "data": "2026-09-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "3a257d17fcc9",
-      "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
-      "link": "https://www.comune.torino.it/novita/notizie/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
-      "data": "2026-08-31T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1a049bea0793",
-      "titolo": "Il Sangone come laboratorio di futuro. Dal 20 al 27 settembre a Mirafiori il Festival del Paesaggio Fluviale “Il fiume che ci attraversa”",
-      "link": "https://www.comune.torino.it/novita/comunicati/sangone-come-laboratorio-futuro-20-al-27-settembre-mirafiori-festival-paesaggio",
-      "data": "2026-08-31T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }

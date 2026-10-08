@@ -19,10 +19,6 @@
       "conteggio": 14
     },
     {
-      "tema": "universita-ricerca",
-      "conteggio": 14
-    },
-    {
       "tema": "enti-locali-piccoli-comuni",
       "conteggio": 14
     },
@@ -31,12 +27,16 @@
       "conteggio": 14
     },
     {
-      "tema": "fondi-europei",
+      "tema": "universita-ricerca",
       "conteggio": 13
     },
     {
       "tema": "edilizia-opere-pubbliche",
       "conteggio": 13
+    },
+    {
+      "tema": "fondi-europei",
+      "conteggio": 12
     },
     {
       "tema": "commercio-artigianato",
