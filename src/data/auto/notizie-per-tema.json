@@ -57,33 +57,15 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "energia": [
-    {
-      "id": "7f4135b3a567",
-      "titolo": "TIPS4PED: il fotovoltaico da balcone protagonista di un workshop a Torino",
-      "link": "https://www.comune.torino.it/novita/notizie/tips4ped-fotovoltaico-balcone-protagonista-un-workshop-torino",
-      "data": "2026-10-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b606039aa48d",
-      "titolo": "Cultura ed enogastronomia: parte a Torino “In cucina con…” nell’ambito di Torino Compra Vicino e di Terra Madre Salone del Gusto",
-      "link": "https://www.comune.torino.it/novita/comunicati/cultura-enogastronomia-parte-torino-cucina-nellambito-torino-compra-vicino-terra",
-      "data": "2026-09-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "aae2aca5497a",
-      "titolo": "Cantieri in città: chiude ponte Rossini, al via anche i lavori di Smat, Ireti, Iren e Italgas",
-      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-chiude-ponte-rossini-al-via-anche-lavori-smat-ireti-iren-italgas",
-      "data": "2026-09-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "cultura-beni-culturali": [
+    {
+      "id": "94968bc3b130",
+      "titolo": "Tedacà Bellarte, nuova vita per lo storico presidio culturale di Parella",
+      "link": "https://www.comune.torino.it/novita/comunicati/tedaca-bellarte-nuova-vita-per-storico-presidio-culturale-parella",
+      "data": "2026-10-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
     {
       "id": "c4093a44cab1",
       "titolo": "Torino Design City. Dall’8 al 31 ottobre la prima edizione di Transizioni Tangibili",
@@ -235,12 +217,30 @@
       "data": "2026-09-19T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "energia": [
+    {
+      "id": "7f4135b3a567",
+      "titolo": "TIPS4PED: il fotovoltaico da balcone protagonista di un workshop a Torino",
+      "link": "https://www.comune.torino.it/novita/notizie/tips4ped-fotovoltaico-balcone-protagonista-un-workshop-torino",
+      "data": "2026-10-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     },
     {
-      "id": "45b99c64f2c9",
-      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
-      "data": "2026-09-16T12:00:00+00:00",
+      "id": "b606039aa48d",
+      "titolo": "Cultura ed enogastronomia: parte a Torino “In cucina con…” nell’ambito di Torino Compra Vicino e di Terra Madre Salone del Gusto",
+      "link": "https://www.comune.torino.it/novita/comunicati/cultura-enogastronomia-parte-torino-cucina-nellambito-torino-compra-vicino-terra",
+      "data": "2026-09-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "aae2aca5497a",
+      "titolo": "Cantieri in città: chiude ponte Rossini, al via anche i lavori di Smat, Ireti, Iren e Italgas",
+      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-chiude-ponte-rossini-al-via-anche-lavori-smat-ireti-iren-italgas",
+      "data": "2026-09-11T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -495,14 +495,6 @@
       "data": "2026-08-31T16:04:20+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "1cea3ecef309",
-      "titolo": "Piemonte, cresce la formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
-      "data": "2026-08-31T14:35:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "giovani": [
@@ -561,14 +553,6 @@
       "data": "2026-09-03T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1cea3ecef309",
-      "titolo": "Piemonte, cresce la formazione tecnica superiore",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-cresce-formazione-tecnica-superiore",
-      "data": "2026-08-31T14:35:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sociale-welfare": [
