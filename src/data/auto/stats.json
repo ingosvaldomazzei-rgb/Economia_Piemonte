@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 134,
-    "regione": 63,
+    "comune_torino": 135,
+    "regione": 62,
     "consiglio": 3
   },
   "temi_attivi": [
@@ -19,10 +19,6 @@
       "conteggio": 14
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 14
-    },
-    {
       "tema": "sanita-regionale",
       "conteggio": 14
     },
@@ -35,7 +31,11 @@
       "conteggio": 13
     },
     {
-      "tema": "fondi-europei",
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 13
+    },
+    {
+      "tema": "lavoro-occupazione",
       "conteggio": 11
     },
     {
@@ -43,7 +43,7 @@
       "conteggio": 11
     },
     {
-      "tema": "lavoro-occupazione",
+      "tema": "fondi-europei",
       "conteggio": 10
     }
   ],

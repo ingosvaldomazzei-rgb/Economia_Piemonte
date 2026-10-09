@@ -1,5 +1,55 @@
 [
   {
+    "id": "b818bee21b03",
+    "titolo": "CONTROLLO DI UN AUTOTRASPORTATORE DOPO UN INCIDENTE, SCATTANO SANZIONI PER OLTRE 15 MILA EURO",
+    "link": "https://www.comune.torino.it/novita/comunicati/controllo-un-autotrasportatore-dopo-un-incidente-scattano-sanzioni-per-oltre-15",
+    "descrizione": "Durante rilievi effettuati dal Reparto Radiomobile della Polizia Locale è intervenuto anche personale specializzato del Reparto Sicurezza Stradale Integrata.",
+    "data": "2026-10-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e2005b57c6cb",
+    "titolo": "Stellantis, Lo Russo incontra Filosa a Palazzo Civico: investimenti, produzione e lavoro al centro del confronto",
+    "link": "https://www.comune.torino.it/novita/comunicati/stellantis-russo-incontra-filosa-palazzo-civico-investimenti-produzione-lavoro",
+    "descrizione": "Il sindaco di Torino Stefano Lo Russo ha incontrato oggi a Palazzo Civico l’amministratore delegato di Stellantis Antonio Filosa.",
+    "data": "2026-10-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8d44ba116345",
+    "titolo": "La settimana della salute mentale. A Torino dal 10 al 16 ottobre tra incontri, arte e laboratori",
+    "link": "https://www.comune.torino.it/novita/comunicati/settimana-della-salute-mentale-torino-10-al-16-ottobre-incontri-arte-laboratori",
+    "descrizione": "Aria-Spazi ReAli, progetto della Città di Torino realizzato in coprogettazione con enti e realtà del territorio.",
+    "data": "2026-10-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f61ce179213f",
+    "titolo": "Convocazione per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (Oggettistica) in Via Verdi – Via Sant’Ottavio",
+    "link": "https://www.comune.torino.it/novita/avvisi/convocazione-per-rilascio-autorizzazioni-stagionali-concessione-suolo-pubblico-1",
+    "descrizione": "Convocazione per il giorno 13 OTTOBRE ore 12,00 presso ufficio n. 231, 2°piano,Via Meucci 4",
+    "data": "2026-10-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bf87026d45ef",
+    "titolo": "Vaccinazione anti Covid, al via la campagna",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vaccinazione-anti-covid-al-via-campagna",
+    "descrizione": "La Regione Piemonte ha definito le indicazioni per la campagna di vaccinazione anti-Covid 2026-2027, sulla base delle raccomandazioni del Ministero della Salute, con l'obiettivo di rafforzare la protezione delle persone maggiormente esposte al rischio di sviluppare forme gravi della malattia.…",
+    "data": "2026-10-09T10:38:41+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "200c1ac45457",
     "titolo": "Carta “Dedicata a Te”, a fine ottobre gli elenchi dei beneficiari del contributo",
     "link": "https://www.comune.torino.it/novita/comunicati/carta-dedicata-te-fine-ottobre-elenchi-dei-beneficiari-contributo",
@@ -23,7 +73,7 @@
     "id": "94968bc3b130",
     "titolo": "Tedacà Bellarte, nuova vita per lo storico presidio culturale di Parella",
     "link": "https://www.comune.torino.it/novita/comunicati/tedaca-bellarte-nuova-vita-per-storico-presidio-culturale-parella",
-    "descrizione": "Taglio del nastro questa sera per i rinnovati spazi di Tedacà Bellarte, in via Bellardi 116. Conclusi gli interventi di ampliamento e riqualificazione, lo stori",
+    "descrizione": "Taglio del nastro questa sera per i rinnovati spazi di Tedacà Bellarte, in via Bellardi 116.",
     "data": "2026-10-08T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1948,55 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "7311e9ac7e2d",
-    "titolo": "NCC abusivo scoperto dalla Polizia Locale grazie ai controlli della ZTL: documenti falsi e computer sequestrati",
-    "link": "https://www.comune.torino.it/novita/comunicati/ncc-abusivo-scoperto-dalla-polizia-locale-grazie-ai-controlli-della-ztl",
-    "descrizione": "A insospettire gli agenti del Reparto Sicurezza Stradale Integrata sono stati i numerosi transiti di un veicolo immatricolato per uso privato.",
-    "data": "2026-09-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "edc9182d4fab",
-    "titolo": "Presentazione Catalogo",
-    "link": "https://www.comune.torino.it/novita/notizie/presentazione-catalogo",
-    "descrizione": "Webinar di presentazione del Catalogo Crescere in Città il 9 settembre ore 11:00.",
-    "data": "2026-09-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "3df74f6b861c",
-    "titolo": "Presentazione Catalogo Crescere in Città 2026-2027",
-    "link": "https://www.comune.torino.it/novita/notizie/presentazione-catalogo-crescere-citta-2026-2027",
-    "descrizione": "Webinar di presentazione del Catalogo Crescere in Città il 9 settembre ore 11:00.",
-    "data": "2026-09-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "340cec5e80ac",
-    "titolo": "Piemonte Film Tv Fund, al via la seconda sessione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-film-tv-fund-al-via-seconda-sessione",
-    "descrizione": "Si è aperta oggi lunedì 31 agosto la seconda sessione 2026 del Piemonte Film TV Fund, il bando della Regione Piemonte finanziato attraverso fondi FESR 2021-2027 per sostenere le imprese cinematografiche e audiovisive che scelgono il Piemonte per la realizzazione delle proprie produzioni. La…",
-    "data": "2026-08-31T16:04:20+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "6c6c284cf408",
-    "titolo": "Il 12 settembre gli Stati generali dei territori MAB Unesco del Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/12-settembre-gli-stati-generali-dei-territori-mab-unesco-piemonte",
-    "descrizione": "Il 12 settembre a Stresa, al Regina Palace Hotel, si terranno gli “Stati Generali dei Territori MAB UNESCO del Piemonte – Cultura, biodiversità, agricoltura e turismo per il futuro delle comunità locali”, promossi dall’Assessorato alla Cultura della Regione Piemonte…",
-    "data": "2026-08-31T14:54:45+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
