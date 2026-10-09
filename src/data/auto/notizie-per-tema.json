@@ -2,7 +2,7 @@
   "sport": [
     {
       "id": "b818bee21b03",
-      "titolo": "CONTROLLO DI UN AUTOTRASPORTATORE DOPO UN INCIDENTE, SCATTANO SANZIONI PER OLTRE 15 MILA EURO",
+      "titolo": "Controllo di un autotrasportatore dopo un incidente, scattano sanzioni per oltre 15 mila euro",
       "link": "https://www.comune.torino.it/novita/comunicati/controllo-un-autotrasportatore-dopo-un-incidente-scattano-sanzioni-per-oltre-15",
       "data": "2026-10-09T12:00:00+00:00",
       "fonte": "Comune di Torino",
@@ -245,14 +245,6 @@
       "data": "2026-09-01T16:25:52+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "ed49627e70ee",
-      "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
-      "data": "2026-09-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "pianificazione-territoriale": [
@@ -319,14 +311,6 @@
       "data": "2026-09-04T11:09:46+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "ed49627e70ee",
-      "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
-      "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
-      "data": "2026-09-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "cultura-beni-culturali": [
@@ -334,6 +318,14 @@
       "id": "8d44ba116345",
       "titolo": "La settimana della salute mentale. A Torino dal 10 al 16 ottobre tra incontri, arte e laboratori",
       "link": "https://www.comune.torino.it/novita/comunicati/settimana-della-salute-mentale-torino-10-al-16-ottobre-incontri-arte-laboratori",
+      "data": "2026-10-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "3cae59ba25c0",
+      "titolo": "Al via sei mesi di lavori sul cavalcaferrovia di corso Trapani: ecco tutti i cantieri in partenza",
+      "link": "https://www.comune.torino.it/novita/comunicati/al-via-sei-mesi-lavori-sul-cavalcaferrovia-corso-trapani-ecco-tutti-cantieri",
       "data": "2026-10-09T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -481,12 +473,118 @@
       "data": "2026-09-22T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "edilizia-opere-pubbliche": [
+    {
+      "id": "3cae59ba25c0",
+      "titolo": "Al via sei mesi di lavori sul cavalcaferrovia di corso Trapani: ecco tutti i cantieri in partenza",
+      "link": "https://www.comune.torino.it/novita/comunicati/al-via-sei-mesi-lavori-sul-cavalcaferrovia-corso-trapani-ecco-tutti-cantieri",
+      "data": "2026-10-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     },
     {
-      "id": "9e93b33a1938",
-      "titolo": "A Torino il Festival del Paesaggio Fluviale: arte, ricerca e partecipazione lungo il Sangone",
-      "link": "https://www.comune.torino.it/novita/notizie/torino-festival-paesaggio-fluviale-arte-ricerca-partecipazione-lungo-sangone",
-      "data": "2026-09-20T12:00:00+00:00",
+      "id": "49936cb6964d",
+      "titolo": "Università di Torino e Regione, agenda comune su ricerca, innovazione e internazionalizzazione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/universita-torino-regione-agenda-comune-ricerca-innovazione-internazionalizzazione",
+      "data": "2026-10-05T15:56:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f6dcf47b0977",
+      "titolo": "UniTo e Regione, agenda su ricerca, innovazione e internazionalizzazione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/unito-regione-agenda-ricerca-innovazione-internazionalizzazione",
+      "data": "2026-10-05T15:56:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9cc286a046f7",
+      "titolo": "Edilizia pubblica: Via libera ai lavori per l’abbattimento delle barriere architettoniche in via Bioglio e via Pacini",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-pubblica-via-libera-ai-lavori-per-labbattimento-delle-barriere",
+      "data": "2026-09-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a9d86bab7449",
+      "titolo": "Via Saluzzo 27: si recupera l'edificio della ex scuola materna",
+      "link": "https://www.comune.torino.it/novita/comunicati/via-saluzzo-27-si-recupera-ledificio-della-ex-scuola-materna",
+      "data": "2026-09-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fe190ec4e171",
+      "titolo": "Cantieri in città, la prossima settimana al via nuovi interventi su strade, marciapiedi e sottoservizi",
+      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-prossima-settimana-al-via-nuovi-interventi-strade-marciapiedi",
+      "data": "2026-09-25T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "db50ae288986",
+      "titolo": "Al via la riasfaltatura di viale Torino e di strada Settimo",
+      "link": "https://www.comune.torino.it/novita/comunicati/al-via-riasfaltatura-viale-torino-strada-settimo",
+      "data": "2026-09-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "07c1d1ef44a0",
+      "titolo": "Agevolazioni Canone Unico 2026 per attività interessate da cantieri di lunga durata",
+      "link": "https://www.comune.torino.it/novita/avvisi/agevolazioni-canone-unico-2026-per-attivita-interessate-cantieri-lunga-durata",
+      "data": "2026-09-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d5948714998b",
+      "titolo": "Strade, marciapiedi e attraversamenti pedonali: al via una nuova tornata di interventi in tutta la Città",
+      "link": "https://www.comune.torino.it/novita/comunicati/strade-marciapiedi-attraversamenti-pedonali-al-via-una-nuova-tornata-interventi",
+      "data": "2026-09-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d7e0943c5bbe",
+      "titolo": "A Falchera nasce Falchè, il cohousing per l'autonomia delle persone con disabilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/falchera-nasce-falche-cohousing-per-lautonomia-delle-persone-disabilita",
+      "data": "2026-09-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "862fbad1a5b4",
+      "titolo": "Tari 2026: sconti per i cantieri di lunga durata e agevolazioni per i quartieri più virtuosi nella differenziata",
+      "link": "https://www.comune.torino.it/novita/comunicati/tari-2026-sconti-per-cantieri-lunga-durata-agevolazioni-per-quartieri-piu",
+      "data": "2026-09-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "aae2aca5497a",
+      "titolo": "Cantieri in città: chiude ponte Rossini, al via anche i lavori di Smat, Ireti, Iren e Italgas",
+      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-chiude-ponte-rossini-al-via-anche-lavori-smat-ireti-iren-italgas",
+      "data": "2026-09-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cef8dd28c42e",
+      "titolo": "Sette posti per costruire l’autonomia: inaugurato “Un piazzale di sogni”, housing per giovani in condizioni di fragilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/sette-posti-per-costruire-lautonomia-inaugurato-un-piazzale-sogni-housing-per",
+      "data": "2026-09-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9a6b6927d997",
+      "titolo": "Volontariato in carcere, firmata la dichiarazione d’intenti tra presidenza del Consiglio comunale, Garante dei detenuti e Lions Club distretto 108ia1",
+      "link": "https://www.comune.torino.it/novita/comunicati/volontariato-carcere-firmata-dichiarazione-dintenti-presidenza-consiglio",
+      "data": "2026-09-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1095,120 +1193,6 @@
       "data": "2026-09-12T12:41:58+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "38606629a1b2",
-      "titolo": "Maltempo e calamità, nasce il “pronto intervento” per le scuole danneggiate",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-calamita-nasce-pronto-intervento-per-scuole-danneggiate",
-      "data": "2026-09-01T13:58:16+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "edilizia-opere-pubbliche": [
-    {
-      "id": "49936cb6964d",
-      "titolo": "Università di Torino e Regione, agenda comune su ricerca, innovazione e internazionalizzazione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/universita-torino-regione-agenda-comune-ricerca-innovazione-internazionalizzazione",
-      "data": "2026-10-05T15:56:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f6dcf47b0977",
-      "titolo": "UniTo e Regione, agenda su ricerca, innovazione e internazionalizzazione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/unito-regione-agenda-ricerca-innovazione-internazionalizzazione",
-      "data": "2026-10-05T15:56:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9cc286a046f7",
-      "titolo": "Edilizia pubblica: Via libera ai lavori per l’abbattimento delle barriere architettoniche in via Bioglio e via Pacini",
-      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-pubblica-via-libera-ai-lavori-per-labbattimento-delle-barriere",
-      "data": "2026-09-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a9d86bab7449",
-      "titolo": "Via Saluzzo 27: si recupera l'edificio della ex scuola materna",
-      "link": "https://www.comune.torino.it/novita/comunicati/via-saluzzo-27-si-recupera-ledificio-della-ex-scuola-materna",
-      "data": "2026-09-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fe190ec4e171",
-      "titolo": "Cantieri in città, la prossima settimana al via nuovi interventi su strade, marciapiedi e sottoservizi",
-      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-prossima-settimana-al-via-nuovi-interventi-strade-marciapiedi",
-      "data": "2026-09-25T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "db50ae288986",
-      "titolo": "Al via la riasfaltatura di viale Torino e di strada Settimo",
-      "link": "https://www.comune.torino.it/novita/comunicati/al-via-riasfaltatura-viale-torino-strada-settimo",
-      "data": "2026-09-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "07c1d1ef44a0",
-      "titolo": "Agevolazioni Canone Unico 2026 per attività interessate da cantieri di lunga durata",
-      "link": "https://www.comune.torino.it/novita/avvisi/agevolazioni-canone-unico-2026-per-attivita-interessate-cantieri-lunga-durata",
-      "data": "2026-09-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d5948714998b",
-      "titolo": "Strade, marciapiedi e attraversamenti pedonali: al via una nuova tornata di interventi in tutta la Città",
-      "link": "https://www.comune.torino.it/novita/comunicati/strade-marciapiedi-attraversamenti-pedonali-al-via-una-nuova-tornata-interventi",
-      "data": "2026-09-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d7e0943c5bbe",
-      "titolo": "A Falchera nasce Falchè, il cohousing per l'autonomia delle persone con disabilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/falchera-nasce-falche-cohousing-per-lautonomia-delle-persone-disabilita",
-      "data": "2026-09-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "862fbad1a5b4",
-      "titolo": "Tari 2026: sconti per i cantieri di lunga durata e agevolazioni per i quartieri più virtuosi nella differenziata",
-      "link": "https://www.comune.torino.it/novita/comunicati/tari-2026-sconti-per-cantieri-lunga-durata-agevolazioni-per-quartieri-piu",
-      "data": "2026-09-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "aae2aca5497a",
-      "titolo": "Cantieri in città: chiude ponte Rossini, al via anche i lavori di Smat, Ireti, Iren e Italgas",
-      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-chiude-ponte-rossini-al-via-anche-lavori-smat-ireti-iren-italgas",
-      "data": "2026-09-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cef8dd28c42e",
-      "titolo": "Sette posti per costruire l’autonomia: inaugurato “Un piazzale di sogni”, housing per giovani in condizioni di fragilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/sette-posti-per-costruire-lautonomia-inaugurato-un-piazzale-sogni-housing-per",
-      "data": "2026-09-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9a6b6927d997",
-      "titolo": "Volontariato in carcere, firmata la dichiarazione d’intenti tra presidenza del Consiglio comunale, Garante dei detenuti e Lions Club distretto 108ia1",
-      "link": "https://www.comune.torino.it/novita/comunicati/volontariato-carcere-firmata-dichiarazione-dintenti-presidenza-consiglio",
-      "data": "2026-09-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "enti-locali-piccoli-comuni": [
@@ -1305,14 +1289,6 @@
       "titolo": "Ecomusei, 450 mila euro per il sostegno delle attività",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-450-mila-euro-per-sostegno-delle-attivita",
       "data": "2026-09-04T11:09:46+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "38606629a1b2",
-      "titolo": "Maltempo e calamità, nasce il “pronto intervento” per le scuole danneggiate",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-calamita-nasce-pronto-intervento-per-scuole-danneggiate",
-      "data": "2026-09-01T13:58:16+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }

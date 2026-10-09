@@ -1,7 +1,7 @@
 [
   {
     "id": "b818bee21b03",
-    "titolo": "CONTROLLO DI UN AUTOTRASPORTATORE DOPO UN INCIDENTE, SCATTANO SANZIONI PER OLTRE 15 MILA EURO",
+    "titolo": "Controllo di un autotrasportatore dopo un incidente, scattano sanzioni per oltre 15 mila euro",
     "link": "https://www.comune.torino.it/novita/comunicati/controllo-un-autotrasportatore-dopo-un-incidente-scattano-sanzioni-per-oltre-15",
     "descrizione": "Durante rilievi effettuati dal Reparto Radiomobile della Polizia Locale è intervenuto anche personale specializzato del Reparto Sicurezza Stradale Integrata.",
     "data": "2026-10-09T12:00:00+00:00",
@@ -34,6 +34,26 @@
     "titolo": "Convocazione per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (Oggettistica) in Via Verdi – Via Sant’Ottavio",
     "link": "https://www.comune.torino.it/novita/avvisi/convocazione-per-rilascio-autorizzazioni-stagionali-concessione-suolo-pubblico-1",
     "descrizione": "Convocazione per il giorno 13 OTTOBRE ore 12,00 presso ufficio n. 231, 2°piano,Via Meucci 4",
+    "data": "2026-10-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f9e22c6df95d",
+    "titolo": "Bibliobus, da lunedì 12 ottobre una nuova sosta in piazza Santa Giulia",
+    "link": "https://www.comune.torino.it/novita/comunicati/bibliobus-lunedi-12-ottobre-una-nuova-sosta-piazza-santa-giulia",
+    "descrizione": "Da lunedì 12 ottobre il Bibliobus 1 farà tappa anche in piazza Santa Giulia, nella Circoscrizione 7, ogni lunedì dalle 14.30 alle 18.30.",
+    "data": "2026-10-09T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3cae59ba25c0",
+    "titolo": "Al via sei mesi di lavori sul cavalcaferrovia di corso Trapani: ecco tutti i cantieri in partenza",
+    "link": "https://www.comune.torino.it/novita/comunicati/al-via-sei-mesi-lavori-sul-cavalcaferrovia-corso-trapani-ecco-tutti-cantieri",
+    "descrizione": "Prenderanno il via lunedì 12 ottobre i lavori di manutenzione e risanamento del cavalcaferrovia che collega corso Trapani e corso Siracusa.",
     "data": "2026-10-09T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "38606629a1b2",
-    "titolo": "Maltempo e calamità, nasce il “pronto intervento” per le scuole danneggiate",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-calamita-nasce-pronto-intervento-per-scuole-danneggiate",
-    "descrizione": "La Regione Piemonte mette in campo un nuovo strumento per intervenire rapidamente quando un evento calamitoso compromette la funzionalità di un edificio scolastico. La Giunta regionale ha approvato una misura sperimentale dedicata agli enti locali che devono affrontare…",
-    "data": "2026-09-01T13:58:16+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ed49627e70ee",
-    "titolo": "La Giunta comunale adotta la proposta tecnica del progetto definitivo del nuovo Piano Regolatore Generale",
-    "link": "https://www.comune.torino.it/novita/comunicati/giunta-comunale-adotta-proposta-tecnica-progetto-definitivo-nuovo-piano",
-    "descrizione": "Il passaggio amministrativo formale chiude l'istruttoria sulle 875 osservazioni pervenute al Progetto Preliminare e consegna il Piano alla fase decisionale.",
-    "data": "2026-09-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
