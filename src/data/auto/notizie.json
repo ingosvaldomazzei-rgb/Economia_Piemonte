@@ -1,5 +1,25 @@
 [
   {
+    "id": "bf779800bb54",
+    "titolo": "Un giardino intitolato a Romanework Hailè Selassiè",
+    "link": "https://www.comune.torino.it/novita/comunicati/un-giardino-intitolato-romanework-haile-selassie",
+    "descrizione": "Domani, 14 ottobre, alle ore 11, si svolgerà la cerimonia di intitolazione a Romanework Haile Selassie, del giardino compreso tra le vie Uffreduzzi e Arduino",
+    "data": "2026-10-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4f441357dec4",
+    "titolo": "Per un SÌ consapevole: al via il primo ciclo di incontri laico per prepararsi alla vita di coppia",
+    "link": "https://www.comune.torino.it/novita/comunicati/per-un-si-consapevole-al-via-primo-ciclo-incontri-laico-per-prepararsi-alla-vita",
+    "descrizione": "Sono aperte le iscrizioni al percorso laico di preparazione alla vita di coppia ideato e promosso dalla Città di Torino, in partenza martedì 3 novembre.",
+    "data": "2026-10-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "b7bcbfc1ee6c",
     "titolo": "Al via IoLavoro",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro",
@@ -1975,26 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/predazione-grandi-carnivori-aperto-bando-domande-entro-9-ottobre",
     "descrizione": "È aperto il bando regionale attraverso il quale gli allevatori piemontesi possono presentare domanda di risarcimento per i capi vittima di predazione da grandi carnivori verificatasi nel periodo fra il 1° gennaio e il 30 giugno 2026. La Regione Piemonte risarcirà…",
     "data": "2026-09-03T11:03:58+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "42876675f191",
-    "titolo": "Omaggio a Carla Fracci, 2 serate alla Reggia di Venaria",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-alla-reggia-venaria",
-    "descrizione": "Un omaggio a Carla Fracci, alla sua arte e all’eredità straordinaria che ha lasciato alla danza italiana e internazionale, attraverso uno spettacolo capace di intrecciare danza, memoria e bellezza in due luoghi simbolo del patrimonio piemontese. È stato presentato mercoledì 2 settembre, nella…",
-    "data": "2026-09-02T15:59:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "5c7438338429",
-    "titolo": "Omaggio a Carla Fracci, 2 serate nelle Residenze Reali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-nelle-residenze-reali",
-    "descrizione": "Un omaggio a Carla Fracci, alla sua arte e all’eredità straordinaria che ha lasciato alla danza italiana e internazionale, attraverso uno spettacolo capace di intrecciare danza, memoria e bellezza in due luoghi simbolo del patrimonio piemontese. È stato presentato mercoledì 2 settembre, nella…",
-    "data": "2026-09-02T15:59:00+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"

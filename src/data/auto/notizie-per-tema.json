@@ -1,153 +1,13 @@
 {
-  "lavoro-occupazione": [
-    {
-      "id": "b7bcbfc1ee6c",
-      "titolo": "Al via IoLavoro",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro",
-      "data": "2026-10-12T15:57:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e2005b57c6cb",
-      "titolo": "Stellantis, Lo Russo incontra Filosa a Palazzo Civico: investimenti, produzione e lavoro al centro del confronto",
-      "link": "https://www.comune.torino.it/novita/comunicati/stellantis-russo-incontra-filosa-palazzo-civico-investimenti-produzione-lavoro",
-      "data": "2026-10-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4be12549cdf1",
-      "titolo": "La Sala Rossa modifica il regolamento sulle nomine",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-modifica-regolamento-sulle-nomine",
-      "data": "2026-10-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b74792185c30",
-      "titolo": "Via Genova si rinnova: al termine dei lavori circa 130 nuovi posti auto",
-      "link": "https://www.comune.torino.it/novita/comunicati/via-genova-si-rinnova-al-termine-dei-lavori-circa-130-nuovi-posti-auto",
-      "data": "2026-10-02T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "45b99c64f2c9",
-      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
-      "data": "2026-09-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d41418229747",
-      "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
-      "data": "2026-09-15T16:49:36+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3c68b29e3968",
-      "titolo": "Allo Juventus Stadium la finale di Conference League 2028",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allo-juventus-stadium-finale-conference-league-2028",
-      "data": "2026-09-15T16:49:36+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1409dabfa7d6",
-      "titolo": "Spettacoli viaggianti, il Consiglio comunale aggiorna Regolamento e aree cittadine",
-      "link": "https://www.comune.torino.it/novita/comunicati/spettacoli-viaggianti-consiglio-comunale-aggiorna-regolamento-aree-cittadine",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "91fdef2781da",
-      "titolo": "Credito alle imprese, la cabina di regia delle Regioni del Nord apre il confronto con ABI",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/credito-alle-imprese-cabina-regia-delle-regioni-nord-apre-confronto-abi",
-      "data": "2026-09-07T16:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5ac56f1e8d1f",
-      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – ottobre 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-4",
-      "data": "2026-09-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "istruzione-formazione": [
-    {
-      "id": "b7bcbfc1ee6c",
-      "titolo": "Al via IoLavoro",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro",
-      "data": "2026-10-12T15:57:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f805ab0fda3e",
-      "titolo": "Nuove zone scolastiche, Torino si candida al bando regionale “Città Rigenerative” con un progetto da 2 milioni di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/nuove-zone-scolastiche-torino-si-candida-al-bando-regionale-citta-rigenerative",
-      "data": "2026-10-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a9d86bab7449",
-      "titolo": "Via Saluzzo 27: si recupera l'edificio della ex scuola materna",
-      "link": "https://www.comune.torino.it/novita/comunicati/via-saluzzo-27-si-recupera-ledificio-della-ex-scuola-materna",
-      "data": "2026-09-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6089b35c0cd7",
-      "titolo": "Scuole, un portale per intervenire in caso di danni agli edifici",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-un-portale-per-intervenire-caso-danni-agli-edifici",
-      "data": "2026-09-22T15:46:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7a6a95f53cdc",
-      "titolo": "Al via il 101° corso di formazione per agenti di Polizia Locale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-101deg-corso-formazione-per-agenti-polizia-locale",
-      "data": "2026-09-15T15:38:04+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e57f9fd14712",
-      "titolo": "La Giunta regionale all'apertura dell'anno scolastico 2026-2027",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giunta-regionale-allapertura-dellanno-scolastico-2026-2027",
-      "data": "2026-09-14T15:00:57+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8410f4933013",
-      "titolo": "Prima campanella alla \"G.E.Pestalozzi\". Riapre la scuola riqualificata con fondi Pnrr",
-      "link": "https://www.comune.torino.it/novita/comunicati/prima-campanella-alla-gepestalozzi-riapre-scuola-riqualificata-fondi-pnrr",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9bc5901f8139",
-      "titolo": "Al via l'anno scolastico",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-lanno-scolastico",
-      "data": "2026-09-12T12:41:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "cultura-beni-culturali": [
+    {
+      "id": "4f441357dec4",
+      "titolo": "Per un SÌ consapevole: al via il primo ciclo di incontri laico per prepararsi alla vita di coppia",
+      "link": "https://www.comune.torino.it/novita/comunicati/per-un-si-consapevole-al-via-primo-ciclo-incontri-laico-per-prepararsi-alla-vita",
+      "data": "2026-10-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
     {
       "id": "2f859f1aa007",
       "titolo": "Grande successo per \"Carla with love\" nelle Residenze reali del Piemonte",
@@ -299,14 +159,154 @@
       "data": "2026-09-25T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "lavoro-occupazione": [
+    {
+      "id": "b7bcbfc1ee6c",
+      "titolo": "Al via IoLavoro",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro",
+      "data": "2026-10-12T15:57:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
-      "id": "db50ae288986",
-      "titolo": "Al via la riasfaltatura di viale Torino e di strada Settimo",
-      "link": "https://www.comune.torino.it/novita/comunicati/al-via-riasfaltatura-viale-torino-strada-settimo",
-      "data": "2026-09-23T12:00:00+00:00",
+      "id": "e2005b57c6cb",
+      "titolo": "Stellantis, Lo Russo incontra Filosa a Palazzo Civico: investimenti, produzione e lavoro al centro del confronto",
+      "link": "https://www.comune.torino.it/novita/comunicati/stellantis-russo-incontra-filosa-palazzo-civico-investimenti-produzione-lavoro",
+      "data": "2026-10-09T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4be12549cdf1",
+      "titolo": "La Sala Rossa modifica il regolamento sulle nomine",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-modifica-regolamento-sulle-nomine",
+      "data": "2026-10-05T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b74792185c30",
+      "titolo": "Via Genova si rinnova: al termine dei lavori circa 130 nuovi posti auto",
+      "link": "https://www.comune.torino.it/novita/comunicati/via-genova-si-rinnova-al-termine-dei-lavori-circa-130-nuovi-posti-auto",
+      "data": "2026-10-02T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "45b99c64f2c9",
+      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
+      "data": "2026-09-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d41418229747",
+      "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
+      "data": "2026-09-15T16:49:36+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3c68b29e3968",
+      "titolo": "Allo Juventus Stadium la finale di Conference League 2028",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allo-juventus-stadium-finale-conference-league-2028",
+      "data": "2026-09-15T16:49:36+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1409dabfa7d6",
+      "titolo": "Spettacoli viaggianti, il Consiglio comunale aggiorna Regolamento e aree cittadine",
+      "link": "https://www.comune.torino.it/novita/comunicati/spettacoli-viaggianti-consiglio-comunale-aggiorna-regolamento-aree-cittadine",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "91fdef2781da",
+      "titolo": "Credito alle imprese, la cabina di regia delle Regioni del Nord apre il confronto con ABI",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/credito-alle-imprese-cabina-regia-delle-regioni-nord-apre-confronto-abi",
+      "data": "2026-09-07T16:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5ac56f1e8d1f",
+      "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – ottobre 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-4",
+      "data": "2026-09-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "istruzione-formazione": [
+    {
+      "id": "b7bcbfc1ee6c",
+      "titolo": "Al via IoLavoro",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro",
+      "data": "2026-10-12T15:57:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f805ab0fda3e",
+      "titolo": "Nuove zone scolastiche, Torino si candida al bando regionale “Città Rigenerative” con un progetto da 2 milioni di euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/nuove-zone-scolastiche-torino-si-candida-al-bando-regionale-citta-rigenerative",
+      "data": "2026-10-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a9d86bab7449",
+      "titolo": "Via Saluzzo 27: si recupera l'edificio della ex scuola materna",
+      "link": "https://www.comune.torino.it/novita/comunicati/via-saluzzo-27-si-recupera-ledificio-della-ex-scuola-materna",
+      "data": "2026-09-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6089b35c0cd7",
+      "titolo": "Scuole, un portale per intervenire in caso di danni agli edifici",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuole-un-portale-per-intervenire-caso-danni-agli-edifici",
+      "data": "2026-09-22T15:46:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7a6a95f53cdc",
+      "titolo": "Al via il 101° corso di formazione per agenti di Polizia Locale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-101deg-corso-formazione-per-agenti-polizia-locale",
+      "data": "2026-09-15T15:38:04+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e57f9fd14712",
+      "titolo": "La Giunta regionale all'apertura dell'anno scolastico 2026-2027",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giunta-regionale-allapertura-dellanno-scolastico-2026-2027",
+      "data": "2026-09-14T15:00:57+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8410f4933013",
+      "titolo": "Prima campanella alla \"G.E.Pestalozzi\". Riapre la scuola riqualificata con fondi Pnrr",
+      "link": "https://www.comune.torino.it/novita/comunicati/prima-campanella-alla-gepestalozzi-riapre-scuola-riqualificata-fondi-pnrr",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9bc5901f8139",
+      "titolo": "Al via l'anno scolastico",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-lanno-scolastico",
+      "data": "2026-09-12T12:41:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     }
   ],
   "fondi-europei": [
@@ -381,22 +381,6 @@
       "data": "2026-09-03T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "42876675f191",
-      "titolo": "Omaggio a Carla Fracci, 2 serate alla Reggia di Venaria",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-alla-reggia-venaria",
-      "data": "2026-09-02T15:59:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5c7438338429",
-      "titolo": "Omaggio a Carla Fracci, 2 serate nelle Residenze Reali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-nelle-residenze-reali",
-      "data": "2026-09-02T15:59:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sport": [
@@ -921,14 +905,6 @@
       "titolo": "Nidi: più ore per la famiglia senza aumento della tariffa",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-piu-ore-per-famiglia-senza-aumento-della-tariffa",
       "data": "2026-09-04T10:33:49+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "42876675f191",
-      "titolo": "Omaggio a Carla Fracci, 2 serate alla Reggia di Venaria",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-alla-reggia-venaria",
-      "data": "2026-09-02T15:59:00+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
