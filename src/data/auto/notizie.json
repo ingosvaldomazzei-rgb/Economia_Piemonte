@@ -1,5 +1,15 @@
 [
   {
+    "id": "ca124aaabbfc",
+    "titolo": "Il Piemonte al TTG 2026. Un ricco palinsesto di eventi dedicato alla sostenibilità, all’outdoor, alla cultura e all’enogastronomia",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-ttg-2026-un-ricco-palinsesto-eventi-dedicato-alla-sostenibilita-alloutdoor-alla-cultura",
+    "descrizione": "Il Piemonte accoglie mercoledì 14 e giovedì 15 ottobre i visitatori del TTG Travel Experience 2026 di Rimini con un ampio spazio nel Padiglione C1 (stand 126-216-217-123). TTG Italia è la più grande…",
+    "data": "2026-10-13T14:11:27+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "bf779800bb54",
     "titolo": "Un giardino intitolato a Romanework Hailè Selassiè",
     "link": "https://www.comune.torino.it/novita/comunicati/un-giardino-intitolato-romanework-haile-selassie",
@@ -20,9 +30,99 @@
     "colore": "#dc2626"
   },
   {
+    "id": "d760b7cc73fb",
+    "titolo": "Progetto Prisma, nuove azioni per l’autonomia e l’inclusione delle persone con disabilità",
+    "link": "https://www.comune.torino.it/novita/comunicati/progetto-prisma-nuove-azioni-per-lautonomia-linclusione-delle-persone-disabilita",
+    "descrizione": "La Giunta comunale ha approvato questa mattina le linee di indirizzo per il Progetto Prisma.",
+    "data": "2026-10-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "bc203b8039e5",
+    "titolo": "Sicurezza urbana e commercio di vicinato: Città di Torino e Camera di Commercio lanciano un piano di sostegno economico contro le “spaccate”",
+    "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-commercio-vicinato-citta-torino-camera-commercio-lanciano-un",
+    "descrizione": "Rispondere con azioni concrete alle preoccupazioni dei commercianti e tutelare le attività di prossimità che subiscono danneggiamenti.",
+    "data": "2026-10-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3f7e1dcc7547",
+    "titolo": "Nuova illuminazione pubblica in corso Giulio Cesare e fotovoltaico al Gerbido: approvato il programma operativo di dettaglio dei progetti finanziati dal MASE per oltre 1,3 milioni di euro",
+    "link": "https://www.comune.torino.it/novita/comunicati/nuova-illuminazione-pubblica-corso-giulio-cesare-fotovoltaico-al-gerbido",
+    "descrizione": "La Giunta comunale ha approvato nella seduta odierna il Programma Operativo di Dettaglio (POD) relativo a due interventi di efficientamento energetico.",
+    "data": "2026-10-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "58873ae15c1d",
+    "titolo": "“Spazi Liberi”: Torino scommette sul reinserimento lavorativo e l’affido per i giovani detenuti",
+    "link": "https://www.comune.torino.it/novita/comunicati/spazi-liberi-torino-scommette-sul-reinserimento-lavorativo-laffido-per-giovani",
+    "descrizione": "La Città di Torino, e la Fondazione Compagnia di San Paolo insieme alle amministrazioni della Giustizia, presentano l’avviso di coprogettazione “SPAZI LIBERI”.",
+    "data": "2026-10-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "08fe3dbb1cdd",
+    "titolo": "A Torino l’assemblea nazionale della rete RE.A.DY. e il convegno sui diritti in Italia e in Europa",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-lassemblea-nazionale-della-rete-ready-convegno-sui-diritti-italia-europa",
+    "descrizione": "Torino ospiterà, il 22 e 23 ottobre, l’Assemblea annuale della rete RE.A.DY.",
+    "data": "2026-10-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3d9cb752ac97",
+    "titolo": "Social Festival Comunità Educative 2026",
+    "link": "https://www.comune.torino.it/novita/notizie/social-festival-comunita-educative-2026",
+    "descrizione": "Dal 9 al 14 novembre si terrà a Torino e dintorni la V edizione del Social Festival.",
+    "data": "2026-10-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4a2b30b28988",
+    "titolo": "Il Piemonte prima regione ad istituire un gruppo di lettura per i dipendenti",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-prima-regione-ad-istituire-un-gruppo-lettura-per-dipendenti",
+    "descrizione": "Il Piemonte è la prima Regione in Italia a istituire un gruppo di lettura dedicato ai propri dipendenti. Si chiama “Fuori Protocollo” ed è il nuovo progetto presentato alla Giunta regionale, che porta la lettura all’interno dell’amministrazione pubblica,…",
+    "data": "2026-10-13T11:41:52+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "71b357a9cd0d",
+    "titolo": "Semplificazione, parte il Piano attuativo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplificazione-parte-piano-attuativo",
+    "descrizione": "Con l’approvazione da parte della Giunta regionale del Piano attuativo per la semplificazione 2026, entra nel vivo il percorso avviato dalla Regione Piemonte con la legge Semplifica Piemonte. Il Piano, che arriva oggi all’approvazione della Giunta dopo il confronto con il Tavolo regionale…",
+    "data": "2026-10-13T11:21:52+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "b7bcbfc1ee6c",
     "titolo": "Al via IoLavoro",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro",
+    "descrizione": "Ci siamo: il 14 e 15 ottobre IOLAVORO torna a Torino, all’Inalpi Arena, per inaugurare un nuovo ciclo di eventi che, dall’autunno 2026 al 2029, porterà opportunità di lavoro, orientamento e formazione in numerosi territori piemontesi. …",
+    "data": "2026-10-12T15:57:09+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "830f49a19e25",
+    "titolo": "Al via IoLavoro, il 14 ottobre inaugurazione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro-14-ottobre-inaugurazione",
     "descrizione": "Ci siamo: il 14 e 15 ottobre IOLAVORO torna a Torino, all’Inalpi Arena, per inaugurare un nuovo ciclo di eventi che, dall’autunno 2026 al 2029, porterà opportunità di lavoro, orientamento e formazione in numerosi territori piemontesi. …",
     "data": "2026-10-12T15:57:09+02:00",
     "fonte": "Regione Piemonte",
@@ -1895,106 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-450-mila-euro-per-sostegno-delle-attivita",
     "descrizione": "Dalla Regione quasi 450 mila euro per sostenere le attività degli Ecomusei regionali, una rete di 25 realtà diffuse sul territorio regionale che custodiscono e valorizzano il patrimonio culturale, ambientale e identitario delle comunità. È stato…",
     "data": "2026-09-04T11:09:46+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "e77b8387cb3a",
-    "titolo": "Nidi: più ore per la famiglia senza aumento della tariffa",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nidi-piu-ore-per-famiglia-senza-aumento-della-tariffa",
-    "descrizione": "Più ore di apertura dei nidi comunali, senza costi aggiuntivi per le famiglie. La Regione Piemonte investe 1,48 milioni di euro di risorse del Fondo Sociale Europeo per ampliare i servizi all’infanzia già a partire dall’anno educativo 2026-2027. Sono 77 i…",
-    "data": "2026-09-04T10:33:49+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "bfda1405f831",
-    "titolo": "Distretto manifatturiero unico del Nord",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/distretto-manifatturiero-unico-nord",
-    "descrizione": "Non una semplice interlocuzione tra territori, ma il tentativo di costruire una voce comune del sistema economico e produttivo del Nord. Emilia-Romagna, Liguria, Lombardia, Piemonte e Veneto avviano una nuova fase di collaborazione attraverso una ‘Cabina di Regia delle Regioni…",
-    "data": "2026-09-03T17:41:44+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "57291a157d10",
-    "titolo": "Regione Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/regione-piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
-    "descrizione": "Il Piemonte si conferma la locomotiva italiana della transizione digitale. Secondo l’indagine Istat sulla diffusione delle Ict nelle imprese con più di 10 dipendenti, il Piemonte nel 2025 è la regione che registra la percentuale più elevata in Italia di imprese che utilizzano l'Intelligenza…",
-    "data": "2026-09-03T13:47:24+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "6aee2ba40fce",
-    "titolo": "Piemonte leader in Italia per l'adozione dell'Intelligenza artificiale nelle imprese",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-leader-italia-per-ladozione-dellintelligenza-artificiale-nelle-imprese",
-    "descrizione": "Il Piemonte si conferma la locomotiva italiana della transizione digitale. Secondo l’indagine Istat sulla diffusione delle Ict nelle imprese con più di 10 dipendenti, il Piemonte nel 2025 è la regione che registra la percentuale più elevata in Italia di imprese che utilizzano l'Intelligenza…",
-    "data": "2026-09-03T13:47:24+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "4f2f9de167ac",
-    "titolo": "Il Piemonte guida l'innovazione in Europa: arriva l'intelligenza artificiale per ridurre lo smog",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-guida-linnovazione-europa-arriva-lintelligenza-artificiale-per-ridurre-smog",
-    "descrizione": "Un investimento di oltre 11,5 milioni di euro per trasformare la gestione della mobilità urbana, ridurre le code nei punti critici e abbattere le emissioni inquinanti attraverso l'uso delle moderne tecnologie. È questo il cuore del nuovo progetto sperimentale “Intelligenza artificiale al…",
-    "data": "2026-09-03T12:06:18+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "6ffe1bd1c5bc",
-    "titolo": "AVVISO VENDITA SPAZI PUBBLICHE AFFISSIONI ANNO 2027",
-    "link": "https://www.comune.torino.it/novita/avvisi/avviso-vendita-spazi-pubbliche-affissioni-anno-2027",
-    "descrizione": "Avviso agli utenti interessati all'acquisto di spazi per le pubbliche affissioni per l'anno 2027 (Poster 6*3, Lotti, Mini Lotti, Lotti VIP e altre tipologie)",
-    "data": "2026-09-03T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b85ced87eeb1",
-    "titolo": "Giovani e clima: al via la terza edizione del Torino Youth Climate Action Fund",
-    "link": "https://www.comune.torino.it/novita/notizie/giovani-clima-al-via-terza-edizione-torino-youth-climate-action-fund",
-    "descrizione": "Pubblicato il bando Youth Climate Action Fund che sostiene le iniziative ideate e realizzate da ragazze e ragazzi tra i 15 e i 24 anni",
-    "data": "2026-09-03T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2c108b9e589d",
-    "titolo": "JUKEBOX NIGHT (11 e 12 settembre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/notizie/jukebox-night-11-12-settembre-2026-presso-inalpi-arena-convocazione-per",
-    "descrizione": "Convocazione per LUNEDI' 07 SETTEMBRE 2026 ore 14,30 per assegnazione posteggi e rilascio concessioni temporanee per commercio su aree pubbliche extramercatali",
-    "data": "2026-09-03T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e708e4fa8e97",
-    "titolo": "Torino Cambia. 800 metri quadrati, 30mila documenti, una nuova sala da 40 posti: ecco la nuova Biblioteca Carluccio",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-800-metri-quadrati-30mila-documenti-una-nuova-sala-40-posti-ecco",
-    "descrizione": "La biblioteca si presenta oggi rinnovata grazie al completamento del secondo e più consistente lotto di lavori realizzato nell'ambito del PNRR.",
-    "data": "2026-09-03T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "606c9e6ed1c1",
-    "titolo": "Predazione da grandi carnivori, aperto il bando. Domande entro il 9 ottobre.",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/predazione-grandi-carnivori-aperto-bando-domande-entro-9-ottobre",
-    "descrizione": "È aperto il bando regionale attraverso il quale gli allevatori piemontesi possono presentare domanda di risarcimento per i capi vittima di predazione da grandi carnivori verificatasi nel periodo fra il 1° gennaio e il 30 giugno 2026. La Regione Piemonte risarcirà…",
-    "data": "2026-09-03T11:03:58+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
