@@ -1,5 +1,25 @@
 [
   {
+    "id": "b7bcbfc1ee6c",
+    "titolo": "Al via IoLavoro",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro",
+    "descrizione": "Ci siamo: il 14 e 15 ottobre IOLAVORO torna a Torino, all’Inalpi Arena, per inaugurare un nuovo ciclo di eventi che, dall’autunno 2026 al 2029, porterà opportunità di lavoro, orientamento e formazione in numerosi territori piemontesi. …",
+    "data": "2026-10-12T15:57:09+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "2f859f1aa007",
+    "titolo": "Grande successo per \"Carla with love\" nelle Residenze reali del Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/grande-successo-per-carla-with-love-nelle-residenze-reali-piemonte",
+    "descrizione": "Doppio sold out per “Carla With Love”, lo spettacolo dedicato alla vita e alla carriera di Carla Fracci, una delle più grandi interpreti della danza italiana e internazionale. Tutto esaurito per entrambi gli appuntamenti in programma nelle Residenze Reali Sabaude: venerdì 16 ottobre,…",
+    "data": "2026-10-12T13:52:26+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "88a3144751ae",
     "titolo": "Gruppo Crescere in sintonia 3-6",
     "link": "https://www.comune.torino.it/novita/notizie/gruppo-crescere-sintonia-3-6",
@@ -8,6 +28,26 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "59bfbbfc3d77",
+    "titolo": "Linea Torino-Lione: l’assessore Mazzoleni illustra stato lavori e cronoprogramma in Consiglio Comunale",
+    "link": "https://www.comune.torino.it/novita/comunicati/linea-torino-lione-lassessore-mazzoleni-illustra-stato-lavori-cronoprogramma",
+    "descrizione": "Discussa in Sala Rossa l'interpellanza generale sul tema Tav. Approvato un ordine del giorno della maggioranza",
+    "data": "2026-10-12T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "58615090dc47",
+    "titolo": "5 milioni per lo spettacolo dal vivo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/5-milioni-per-spettacolo-dal-vivo",
+    "descrizione": "La Regione Piemonte porta a 5 milioni di euro la dotazione complessiva della misura “Aiuti allo spettacolo dal vivo”, finanziata nell’ambito del Programma Regionale FESR 2021-2027. Viene così iene formalizzato l’ulteriore incremento di 2 milioni di euro disposto…",
+    "data": "2026-10-12T09:44:40+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "b818bee21b03",
@@ -1955,46 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/omaggio-carla-fracci-2-serate-nelle-residenze-reali",
     "descrizione": "Un omaggio a Carla Fracci, alla sua arte e all’eredità straordinaria che ha lasciato alla danza italiana e internazionale, attraverso uno spettacolo capace di intrecciare danza, memoria e bellezza in due luoghi simbolo del patrimonio piemontese. È stato presentato mercoledì 2 settembre, nella…",
     "data": "2026-09-02T15:59:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "94574a312336",
-    "titolo": "È stata adottata la Proposta Tecnica del Progetto Definitivo del nuovo PRG",
-    "link": "https://www.comune.torino.it/novita/notizie/stata-adottata-proposta-tecnica-progetto-definitivo-nuovo-prg",
-    "descrizione": "Approvata la proposta tecnica del progetto definitivo del PRG di Torino.",
-    "data": "2026-09-02T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7292b3c75521",
-    "titolo": "Aggredisce una operatrice ecologica e un agente di Polizia Locale: arrestato",
-    "link": "https://www.comune.torino.it/novita/comunicati/aggredisce-una-operatrice-ecologica-un-agente-polizia-locale-arrestato",
-    "descrizione": "Si è proceduto nei sui confronti per i reati di furto, di violenza, resistenza e aggressione a pubblico ufficiale.",
-    "data": "2026-09-02T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b88a0177eec6",
-    "titolo": "Rinnovo concessione immobile a fini associativi",
-    "link": "https://www.comune.torino.it/novita/avvisi/rinnovo-concessione-immobile-fini-associativi-1",
-    "descrizione": "Rinnovo concessione immobile a fini associativi sito in Via Giachino 28/E.",
-    "data": "2026-09-02T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b4ad9082dac7",
-    "titolo": "Caldo, prorogate fino al 6 settembre le misure di tutela per i lavoratori",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/caldo-prorogate-fino-al-6-settembre-misure-tutela-per-lavoratori",
-    "descrizione": "Alla luce delle previsioni meteo, che confermano nei prossimi giorni la persistenza di alte temperature, il presidente della Regione Piemonte, Alberto Cirio, d’intesa con il vicepresidente con delega al Lavoro, Maurizio Marrone e con l’assessore alla Sanità, Federico Riboldi, ha firmato l’…",
-    "data": "2026-09-01T16:25:52+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"

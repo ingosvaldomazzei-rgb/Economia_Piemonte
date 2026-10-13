@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 137,
-    "regione": 60,
+    "regione": 62,
+    "comune_torino": 135,
     "consiglio": 3
   },
   "temi_attivi": [
@@ -35,15 +35,15 @@
       "conteggio": 12
     },
     {
+      "tema": "fondi-europei",
+      "conteggio": 11
+    },
+    {
       "tema": "commercio-artigianato",
       "conteggio": 11
     },
     {
       "tema": "lavoro-occupazione",
-      "conteggio": 10
-    },
-    {
-      "tema": "fondi-europei",
       "conteggio": 10
     }
   ],
