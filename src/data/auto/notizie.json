@@ -1,5 +1,15 @@
 [
   {
+    "id": "1a2384eacd15",
+    "titolo": "Incontro a Bruxelles con il vicepresidente Fitto",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-bruxelles-vicepresidente-fitto",
+    "descrizione": "Le risorse per la cura e la salute delle persone sono state al centro della due giorni a Bruxelles del presidente Cirio e dell’assessore alla Sanità della Regione Piemonte, Federico Riboldi Oggi pomeriggio, il presidente e l’assessore hanno poi incontrato, il vicepresidente esecutivo…",
+    "data": "2026-10-14T19:28:29+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "ba6c588e4668",
     "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "35aaa6692a7c",
-    "titolo": "Il Piemonte protagonista in Thailandia all'International Festival of Dance",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-protagonista-thailandia-allinternational-festival-of-dance",
-    "descrizione": "Avere il Teatro Regio di Torino tra gli ospiti dell’edizione 2027 del più importante evento culturale del mondo asiatico dedicato alle arti dello spettacolo: è l’obiettivo dell’International Festival of Dance and Music, che ha inaugurato in queste ore a Bangkok la sua 28ª edizione, alla presenza…",
-    "data": "2026-09-07T10:04:34+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
