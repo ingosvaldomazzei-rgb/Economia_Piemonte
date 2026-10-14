@@ -1,5 +1,15 @@
 [
   {
+    "id": "92b11f1faefa",
+    "titolo": "Gruppo Qualcosa di Coppia",
+    "link": "https://www.comune.torino.it/novita/notizie/gruppo-qualcosa-coppia",
+    "descrizione": "Percorso in gruppo per fare il punto di come la coppia sta funzionando e sperimentare l’arte della ”manutenzione” dell’amore di coppia.",
+    "data": "2026-10-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "ca124aaabbfc",
     "titolo": "Il Piemonte al TTG 2026. Un ricco palinsesto di eventi dedicato alla sostenibilità, all’outdoor, alla cultura e all’enogastronomia",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-ttg-2026-un-ricco-palinsesto-eventi-dedicato-alla-sostenibilita-alloutdoor-alla-cultura",
@@ -1983,16 +1993,6 @@
     "id": "7059312f7ab5",
     "titolo": "Bando Ecomusei, 450 mila euro per il sostegno delle attività",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-ecomusei-450-mila-euro-per-sostegno-delle-attivita",
-    "descrizione": "Dalla Regione quasi 450 mila euro per sostenere le attività degli Ecomusei regionali, una rete di 25 realtà diffuse sul territorio regionale che custodiscono e valorizzano il patrimonio culturale, ambientale e identitario delle comunità. È stato…",
-    "data": "2026-09-04T11:09:46+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "9aa8a85254e4",
-    "titolo": "Ecomusei, 450 mila euro per il sostegno delle attività",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-450-mila-euro-per-sostegno-delle-attivita",
     "descrizione": "Dalla Regione quasi 450 mila euro per sostenere le attività degli Ecomusei regionali, una rete di 25 realtà diffuse sul territorio regionale che custodiscono e valorizzano il patrimonio culturale, ambientale e identitario delle comunità. È stato…",
     "data": "2026-09-04T11:09:46+02:00",
     "fonte": "Regione Piemonte",

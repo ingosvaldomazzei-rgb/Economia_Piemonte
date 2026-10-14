@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "regione": 58,
-    "comune_torino": 139,
+    "comune_torino": 140,
+    "regione": 57,
     "consiglio": 3
   },
   "temi_attivi": [
@@ -27,12 +27,12 @@
       "conteggio": 13
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
+      "tema": "universita-ricerca",
       "conteggio": 13
     },
     {
-      "tema": "universita-ricerca",
-      "conteggio": 13
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 12
     },
     {
       "tema": "commercio-artigianato",
