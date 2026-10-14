@@ -1,9 +1,39 @@
 [
   {
+    "id": "ba6c588e4668",
+    "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
+    "descrizione": "Le assunzioni del personale, il welfare aziendale e il servizio di emergenza-urgenza 118 sono stati al centro dell’incontro che si è svolto questa mattina al Grattacielo Piemonte, con il presidente della Regione Alberto Cirio, l’assessore alla Sanità Federico Riboldi…",
+    "data": "2026-10-14T17:07:24+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "92b11f1faefa",
     "titolo": "Gruppo Qualcosa di Coppia",
     "link": "https://www.comune.torino.it/novita/notizie/gruppo-qualcosa-coppia",
     "descrizione": "Percorso in gruppo per fare il punto di come la coppia sta funzionando e sperimentare l’arte della ”manutenzione” dell’amore di coppia.",
+    "data": "2026-10-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3a0b09b3a6c1",
+    "titolo": "Riscaldamento, a Torino accensione posticipata a lunedì 19 ottobre",
+    "link": "https://www.comune.torino.it/novita/comunicati/riscaldamento-torino-accensione-posticipata-lunedi-19-ottobre",
+    "descrizione": "A Torino l’accensione dei riscaldamenti viene posticipata da giovedì 15 a lunedì 19 ottobre 2026.",
+    "data": "2026-10-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "5c72626f6871",
+    "titolo": "Intitolato il Giardino Romanework Hailè Selassiè",
+    "link": "https://www.comune.torino.it/novita/comunicati/intitolato-giardino-romanework-haile-selassie",
+    "descrizione": "Da questa mattina, il giardino compreso tra le vie Uffreduzzi e Arduino, all’interno del quartiere Filadelfia, è intitolato a Romanework Hailè Selassiè",
     "data": "2026-10-14T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -123,7 +153,7 @@
     "id": "b7bcbfc1ee6c",
     "titolo": "Al via IoLavoro",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro",
-    "descrizione": "Ci siamo: il 14 e 15 ottobre IOLAVORO torna a Torino, all’Inalpi Arena, per inaugurare un nuovo ciclo di eventi che, dall’autunno 2026 al 2029, porterà opportunità di lavoro, orientamento e formazione in numerosi territori piemontesi. …",
+    "descrizione": "Il 14 e 15 ottobre IOLAVORO torna a Torino, all’Inalpi Arena, per inaugurare un nuovo ciclo di eventi che, dall’autunno 2026 al 2029, porterà opportunità di lavoro, orientamento e formazione in numerosi territori piemontesi. Dopo vent’…",
     "data": "2026-10-12T15:57:09+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
@@ -1965,36 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-protagonista-thailandia-allinternational-festival-of-dance",
     "descrizione": "Avere il Teatro Regio di Torino tra gli ospiti dell’edizione 2027 del più importante evento culturale del mondo asiatico dedicato alle arti dello spettacolo: è l’obiettivo dell’International Festival of Dance and Music, che ha inaugurato in queste ore a Bangkok la sua 28ª edizione, alla presenza…",
     "data": "2026-09-07T10:04:34+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "b19ff9cc0eff",
-    "titolo": "Oltre 3 milioni per migliorare le risorse irrigue in agricoltura",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/oltre-3-milioni-per-migliorare-risorse-irrigue-agricoltura",
-    "descrizione": "«Sono in arrivo dal Masaf oltre 3,3 milioni di euro di nuove risorse per microinvasi aziendali e interventi di miglioramento nell’uso delle risorse irrigue in agricoltura. Vanno a rafforzare la dotazione finanziaria dei due bandi che la Regione Piemonte ha attivato su questo…",
-    "data": "2026-09-07T09:45:17+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ab49506f4ff1",
-    "titolo": "Commercio al dettaglio in sede fissa - decadenza cessata attività.",
-    "link": "https://www.comune.torino.it/novita/avvisi/commercio-al-dettaglio-sede-fissa-decadenza-cessata-attivita-1",
-    "descrizione": "Attività di commercio al dettaglio in sede fissa - decadenza per cessata attività.",
-    "data": "2026-09-04T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7059312f7ab5",
-    "titolo": "Bando Ecomusei, 450 mila euro per il sostegno delle attività",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/bando-ecomusei-450-mila-euro-per-sostegno-delle-attivita",
-    "descrizione": "Dalla Regione quasi 450 mila euro per sostenere le attività degli Ecomusei regionali, una rete di 25 realtà diffuse sul territorio regionale che custodiscono e valorizzano il patrimonio culturale, ambientale e identitario delle comunità. È stato…",
-    "data": "2026-09-04T11:09:46+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
