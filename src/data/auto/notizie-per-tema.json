@@ -9,6 +9,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "97c6fdedc6ab",
+      "titolo": "Fondi Europei, incontro a Bruxelles con il vicepresidente Fitto. Focus su Politiche sociali e sanità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondi-europei-incontro-bruxelles-vicepresidente-fitto-focus-politiche-sociali-sanita",
+      "data": "2026-10-14T19:28:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "bc203b8039e5",
       "titolo": "Sicurezza urbana e commercio di vicinato: Città di Torino e Camera di Commercio lanciano un piano di sostegno economico contro le “spaccate”",
       "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-commercio-vicinato-citta-torino-camera-commercio-lanciano-un",
@@ -149,6 +157,88 @@
       "titolo": "Agricoltura, tavolo verde sulla siccità",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-tavolo-verde-sulla-siccita",
       "data": "2026-09-08T13:37:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "fondi-europei": [
+    {
+      "id": "97c6fdedc6ab",
+      "titolo": "Fondi Europei, incontro a Bruxelles con il vicepresidente Fitto. Focus su Politiche sociali e sanità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondi-europei-incontro-bruxelles-vicepresidente-fitto-focus-politiche-sociali-sanita",
+      "data": "2026-10-14T19:28:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bc203b8039e5",
+      "titolo": "Sicurezza urbana e commercio di vicinato: Città di Torino e Camera di Commercio lanciano un piano di sostegno economico contro le “spaccate”",
+      "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-commercio-vicinato-citta-torino-camera-commercio-lanciano-un",
+      "data": "2026-10-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "58615090dc47",
+      "titolo": "5 milioni per lo spettacolo dal vivo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/5-milioni-per-spettacolo-dal-vivo",
+      "data": "2026-10-12T09:44:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a1fbf7680021",
+      "titolo": "Giornata della salute mentale, prevenzione e giovani al centro delle iniziative",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giornata-della-salute-mentale-prevenzione-giovani-al-centro-delle-iniziative",
+      "data": "2026-10-06T14:34:43+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "623b75c4725c",
+      "titolo": "Un Piemonte più verde e resiliente, altri 13 milioni per due bandi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piemonte-piu-verde-resiliente-altri-13-milioni-per-due-bandi",
+      "data": "2026-10-05T20:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "55148895acf4",
+      "titolo": "Tartufi, al via la stagione delle fiere. Bando aperto, domande fino al 15 dicembre",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tartufi-al-via-stagione-delle-fiere-bando-aperto-domande-fino-al-15-dicembre",
+      "data": "2026-10-02T13:04:47+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9cc286a046f7",
+      "titolo": "Edilizia pubblica: Via libera ai lavori per l’abbattimento delle barriere architettoniche in via Bioglio e via Pacini",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-pubblica-via-libera-ai-lavori-per-labbattimento-delle-barriere",
+      "data": "2026-09-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9117e4dc8e33",
+      "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
+      "data": "2026-09-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8410f4933013",
+      "titolo": "Prima campanella alla \"G.E.Pestalozzi\". Riapre la scuola riqualificata con fondi Pnrr",
+      "link": "https://www.comune.torino.it/novita/comunicati/prima-campanella-alla-gepestalozzi-riapre-scuola-riqualificata-fondi-pnrr",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "05877431610e",
+      "titolo": "Stati generali MAB Unesco, il Piemonte si candida a laboratorio nazionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-mab-unesco-piemonte-si-candida-laboratorio-nazionale",
+      "data": "2026-09-12T19:00:51+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -363,14 +453,6 @@
       "data": "2026-09-15T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9a6b6927d997",
-      "titolo": "Volontariato in carcere, firmata la dichiarazione d’intenti tra presidenza del Consiglio comunale, Garante dei detenuti e Lions Club distretto 108ia1",
-      "link": "https://www.comune.torino.it/novita/comunicati/volontariato-carcere-firmata-dichiarazione-dintenti-presidenza-consiglio",
-      "data": "2026-09-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "protezione-civile": [
@@ -431,6 +513,14 @@
       "data": "2026-10-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1f62adb4ad58",
+      "titolo": "Autonomia differenziata, il Consiglio dei Ministri approva le intese definitive con il Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-consiglio-dei-ministri-approva-intese-definitive-piemonte",
+      "data": "2026-10-13T22:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
       "id": "ca124aaabbfc",
@@ -575,12 +665,14 @@
       "data": "2026-09-29T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
+    }
+  ],
+  "autonomia-differenziata": [
     {
-      "id": "cd40919ee30e",
-      "titolo": "Vaccinazioni, al via la campagna anti-influenzale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vaccinazioni-al-via-campagna-anti-influenzale",
-      "data": "2026-09-28T14:47:48+02:00",
+      "id": "1f62adb4ad58",
+      "titolo": "Autonomia differenziata, il Consiglio dei Ministri approva le intese definitive con il Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-consiglio-dei-ministri-approva-intese-definitive-piemonte",
+      "data": "2026-10-13T22:00:00+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -747,80 +839,6 @@
       "titolo": "Voucher digitalizzazione, al via la terza edizione del bando PMI",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-digitalizzazione-al-via-terza-edizione-bando-pmi",
       "data": "2026-09-08T11:29:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "fondi-europei": [
-    {
-      "id": "bc203b8039e5",
-      "titolo": "Sicurezza urbana e commercio di vicinato: Città di Torino e Camera di Commercio lanciano un piano di sostegno economico contro le “spaccate”",
-      "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-commercio-vicinato-citta-torino-camera-commercio-lanciano-un",
-      "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "58615090dc47",
-      "titolo": "5 milioni per lo spettacolo dal vivo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/5-milioni-per-spettacolo-dal-vivo",
-      "data": "2026-10-12T09:44:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a1fbf7680021",
-      "titolo": "Giornata della salute mentale, prevenzione e giovani al centro delle iniziative",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giornata-della-salute-mentale-prevenzione-giovani-al-centro-delle-iniziative",
-      "data": "2026-10-06T14:34:43+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "623b75c4725c",
-      "titolo": "Un Piemonte più verde e resiliente, altri 13 milioni per due bandi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piemonte-piu-verde-resiliente-altri-13-milioni-per-due-bandi",
-      "data": "2026-10-05T20:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "55148895acf4",
-      "titolo": "Tartufi, al via la stagione delle fiere. Bando aperto, domande fino al 15 dicembre",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tartufi-al-via-stagione-delle-fiere-bando-aperto-domande-fino-al-15-dicembre",
-      "data": "2026-10-02T13:04:47+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9cc286a046f7",
-      "titolo": "Edilizia pubblica: Via libera ai lavori per l’abbattimento delle barriere architettoniche in via Bioglio e via Pacini",
-      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-pubblica-via-libera-ai-lavori-per-labbattimento-delle-barriere",
-      "data": "2026-09-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9117e4dc8e33",
-      "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
-      "data": "2026-09-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8410f4933013",
-      "titolo": "Prima campanella alla \"G.E.Pestalozzi\". Riapre la scuola riqualificata con fondi Pnrr",
-      "link": "https://www.comune.torino.it/novita/comunicati/prima-campanella-alla-gepestalozzi-riapre-scuola-riqualificata-fondi-pnrr",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "05877431610e",
-      "titolo": "Stati generali MAB Unesco, il Piemonte si candida a laboratorio nazionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-mab-unesco-piemonte-si-candida-laboratorio-nazionale",
-      "data": "2026-09-12T19:00:51+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -1447,14 +1465,6 @@
       "titolo": "Sette posti per costruire l’autonomia: inaugurato “Un piazzale di sogni”, housing per giovani in condizioni di fragilità",
       "link": "https://www.comune.torino.it/novita/comunicati/sette-posti-per-costruire-lautonomia-inaugurato-un-piazzale-sogni-housing-per",
       "data": "2026-09-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9a6b6927d997",
-      "titolo": "Volontariato in carcere, firmata la dichiarazione d’intenti tra presidenza del Consiglio comunale, Garante dei detenuti e Lions Club distretto 108ia1",
-      "link": "https://www.comune.torino.it/novita/comunicati/volontariato-carcere-firmata-dichiarazione-dintenti-presidenza-consiglio",
-      "data": "2026-09-07T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }

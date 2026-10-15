@@ -10,6 +10,16 @@
     "colore": "#2563eb"
   },
   {
+    "id": "97c6fdedc6ab",
+    "titolo": "Fondi Europei, incontro a Bruxelles con il vicepresidente Fitto. Focus su Politiche sociali e sanità",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondi-europei-incontro-bruxelles-vicepresidente-fitto-focus-politiche-sociali-sanita",
+    "descrizione": "Le risorse per la cura e la salute delle persone sono state al centro della due giorni a Bruxelles del presidente Cirio e dell’assessore alla Sanità della Regione Piemonte, Federico Riboldi. Mercoledì 14 ottobre pomeriggio, il presidente…",
+    "data": "2026-10-14T19:28:29+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "ba6c588e4668",
     "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
@@ -48,6 +58,26 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "068bbff881aa",
+    "titolo": "Corsi laici di preparazione alla vita di coppia",
+    "link": "https://www.comune.torino.it/novita/notizie/corsi-laici-preparazione-alla-vita-coppia",
+    "descrizione": "Per un Sì consapevole: ciclo di incontri rivolti a coppie in procinto di sposarsi",
+    "data": "2026-10-14T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "1f62adb4ad58",
+    "titolo": "Autonomia differenziata, il Consiglio dei Ministri approva le intese definitive con il Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-consiglio-dei-ministri-approva-intese-definitive-piemonte",
+    "descrizione": "Il Consiglio dei ministri ha approvato martedì 13 ottobre le intese definitive tra il Governo e la Regione Piemonte per l'attribuzione di ulteriori forme e condizioni particolari di autonomia, ai sensi…",
+    "data": "2026-10-13T22:00:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "ca124aaabbfc",
@@ -1964,36 +1994,6 @@
     "titolo": "Torino si riaccende con lo sport e la cultura: al via l’edizione 2026 di “Festa dello Sport & Circoscrizioni in Mostra”",
     "link": "https://www.comune.torino.it/novita/comunicati/torino-si-riaccende-sport-cultura-al-via-ledizione-2026-festa-dello-sport",
     "descrizione": "Tre fine settimana di eventi gratuiti, prove aperte, laboratori e spettacoli diffusi nei parchi e nelle aree verdi di tutti i quartieri cittadini.",
-    "data": "2026-09-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "038a171aee84",
-    "titolo": "Via Banfo 43, approvata la riqualificazione",
-    "link": "https://www.comune.torino.it/novita/comunicati/via-banfo-43-approvata-riqualificazione",
-    "descrizione": "Il Consiglio comunale ha approvato la riqualificazione di 2.800 metri quadri dell'ex edificio industriale di via Banfo 43 nel cuore di Barriera di Milano",
-    "data": "2026-09-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "9a6b6927d997",
-    "titolo": "Volontariato in carcere, firmata la dichiarazione d’intenti tra presidenza del Consiglio comunale, Garante dei detenuti e Lions Club distretto 108ia1",
-    "link": "https://www.comune.torino.it/novita/comunicati/volontariato-carcere-firmata-dichiarazione-dintenti-presidenza-consiglio",
-    "descrizione": "Firmata questa mattina, a Palazzo Civico, la Dichiarazione di intenti relativa ai “Nuovi cantieri di volontariato – Anno 2026”.",
-    "data": "2026-09-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "613ca83b5602",
-    "titolo": "Aperto il PIÙ della Circoscrizione 7: in corso Vercelli un unico spazio per informazioni, URP, GTT e occupabilità",
-    "link": "https://www.comune.torino.it/novita/comunicati/aperto-piu-della-circoscrizione-7-corso-vercelli-un-unico-spazio-per",
-    "descrizione": "Da oggi i cittadini della Circoscrizione 7 hanno un nuovo punto di riferimento PIÙ in corso Vercelli 15.",
     "data": "2026-09-07T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
