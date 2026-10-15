@@ -1,5 +1,55 @@
 [
   {
+    "id": "d93e89bb9642",
+    "titolo": "Il Piemonte a TTG 2026, seconda giornata",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-ttg-2026-seconda-giornata",
+    "descrizione": "Seconda giornata per l’edizione 2026 di Ttg Italia, la più grande borsa del turismo italiano alla Fiera di Rimini. Nello Spazio Piemonte (Padiglione C1, stand 126-216-217-123) è proseguito il fitto calendario di…",
+    "data": "2026-10-15T16:11:51+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "f90591392f7d",
+    "titolo": "Fabbriche Aperte Piemonte 2026: successo di adesioni per la settima edizione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fabbriche-aperte-piemonte-2026-successo-adesioni-per-settima-edizione",
+    "descrizione": "Dal 15 al 17 ottobre torna Fabbriche Aperte Piemonte, la grande manifestazione promossa dalla Regione Piemonte che apre le porte del mondo produttivo locale ai cittadini. Con lo slogan \"Dentro il cuore del Piemonte industriale, per scoprire…",
+    "data": "2026-10-15T16:04:37+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "d76c8c895ccf",
+    "titolo": "Più risorse per la filiera del legno, oltre 6,6 milioni per gli investimenti forestali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-risorse-per-filiera-legno-oltre-66-milioni-per-gli-investimenti-forestali",
+    "descrizione": "La Regione Piemonte destina 6 milioni e 666 mila euro all’intervento SRD15 «Investimenti produttivi forestali» del Complemento regionale per lo Sviluppo rurale 2023-2027, con l’obiettivo di rafforzare gli investimenti nella filiera del legno.…",
+    "data": "2026-10-15T14:19:50+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "f83ffd705cf9",
+    "titolo": "Mirafiori, intervento della Polizia Locale e dell’Asl. Chiuso laboratorio di panificazione",
+    "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-intervento-della-polizia-locale-dellasl-chiuso-laboratorio",
+    "descrizione": "Un laboratorio di panificazione della zona di Mirafiori sud di Torino è stato chiuso mercoledì 7 ottobre su disposizione dell'Asl.",
+    "data": "2026-10-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "10e1ba141b6b",
+    "titolo": "Locazione a trattativa diretta unità immobiliare sita a Torino in Corso Massimo d’Azeglio n. 2",
+    "link": "https://www.comune.torino.it/novita/avvisi/locazione-trattativa-diretta-unita-immobiliare-sita-torino-corso-massimo",
+    "descrizione": "Procedura per l’assegnazione in locazione a trattativa diretta dell'unità immobiliare di proprietà comunale sita a Torino in Corso Massimo d’Azeglio n. 2",
+    "data": "2026-10-15T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "1a2384eacd15",
     "titolo": "Incontro a Bruxelles con il vicepresidente Fitto",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-bruxelles-vicepresidente-fitto",
@@ -1944,56 +1994,6 @@
     "titolo": "Nuovo punto informativo in Circoscrizione 7",
     "link": "https://www.comune.torino.it/novita/notizie/nuovo-punto-informativo-circoscrizione-7",
     "descrizione": "Presso il Centro civico di corso Vercelli 15 partono le attività del PIÙ 7, il nuovo Punto Informativo Unificato.",
-    "data": "2026-09-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "2f864e490026",
-    "titolo": "Approvata mozione per sicurezza, decoro e manutenzione del quartiere Vanchiglietta",
-    "link": "https://www.comune.torino.it/novita/comunicati/approvata-mozione-per-sicurezza-decoro-manutenzione-quartiere-vanchiglietta",
-    "descrizione": "Il Consiglio Comunale di Torino ha approvato all'unanimità la mozione \"Non dimentichiamoci di Vanchiglietta\"",
-    "data": "2026-09-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d3b7ce5cc429",
-    "titolo": "Deiezioni canine e decoro urbano",
-    "link": "https://www.comune.torino.it/novita/comunicati/deiezioni-canine-decoro-urbano",
-    "descrizione": "stimolare comportamenti responsabili e aumentare il livello di responsabilità civica",
-    "data": "2026-09-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "0e0f67a8f64d",
-    "titolo": "Sala Rossa: approvato l'ordine del giorno per la neutralità della professione sanitaria nei conflitti armati e solidarietà al dottor Hussam Abu Safiya",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-lordine-giorno-per-neutralita-della-professione-sanitaria",
-    "descrizione": "approvata una proposta di ordine del giorno per tutelare la neutralità della professione sanitaria nei contesti di guerra",
-    "data": "2026-09-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "88ce44b03fa2",
-    "titolo": "Via Gioberti 5, al via la riqualificazione dell'ex succursale Alfieri",
-    "link": "https://www.comune.torino.it/novita/comunicati/via-gioberti-5-al-via-riqualificazione-dellex-succursale-alfieri",
-    "descrizione": "Il Consiglio comunale ha approvato la riqualificazione della ex sede del liceo classico Vittorio Alfieri; sarà demolito e ricostruito.",
-    "data": "2026-09-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "bd109655da78",
-    "titolo": "Torino si riaccende con lo sport e la cultura: al via l’edizione 2026 di “Festa dello Sport & Circoscrizioni in Mostra”",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-si-riaccende-sport-cultura-al-via-ledizione-2026-festa-dello-sport",
-    "descrizione": "Tre fine settimana di eventi gratuiti, prove aperte, laboratori e spettacoli diffusi nei parchi e nelle aree verdi di tutti i quartieri cittadini.",
     "data": "2026-09-07T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
