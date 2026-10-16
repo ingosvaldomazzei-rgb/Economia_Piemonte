@@ -70,6 +70,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "6fdcf5e6af0c",
+    "titolo": "Ricaricavano i monopattini in una cabina elettrica, denunciati",
+    "link": "https://www.comune.torino.it/novita/comunicati/ricaricavano-monopattini-una-cabina-elettrica-denunciati",
+    "descrizione": "Per caricare i monopattini usavano l’energia di una cabina elettrica.",
+    "data": "2026-10-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "6fb8c18313c6",
     "titolo": "IOLAVORO 2026: Torino protagonista di due giornate tra opportunità di lavoro, giovani e nuove competenze",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-torino-protagonista-due-giornate-opportunita-lavoro-giovani-nuove-competenze",
@@ -1988,15 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "e5d0bacf8463",
-    "titolo": "Piazza Derna: lavori notturni di riasfaltatura giovedì 10 e venerdì 11 settembre",
-    "link": "https://www.comune.torino.it/novita/comunicati/piazza-derna-lavori-notturni-riasfaltatura-giovedi-10-venerdi-11-settembre",
-    "descrizione": "Nelle notti di giovedì 10 e venerdì 11 settembre sono previsti i lavori di riasfaltatura della rotatoria di piazza Derna.",
-    "data": "2026-09-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

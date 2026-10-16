@@ -549,6 +549,56 @@
       "fonte_id": "regione"
     }
   ],
+  "energia": [
+    {
+      "id": "6fdcf5e6af0c",
+      "titolo": "Ricaricavano i monopattini in una cabina elettrica, denunciati",
+      "link": "https://www.comune.torino.it/novita/comunicati/ricaricavano-monopattini-una-cabina-elettrica-denunciati",
+      "data": "2026-10-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ca124aaabbfc",
+      "titolo": "Il Piemonte al TTG 2026. Un ricco palinsesto di eventi dedicato alla sostenibilità, all’outdoor, alla cultura e all’enogastronomia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-ttg-2026-un-ricco-palinsesto-eventi-dedicato-alla-sostenibilita-alloutdoor-alla-cultura",
+      "data": "2026-10-13T14:11:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3f7e1dcc7547",
+      "titolo": "Nuova illuminazione pubblica in corso Giulio Cesare e fotovoltaico al Gerbido: approvato il programma operativo di dettaglio dei progetti finanziati dal MASE per oltre 1,3 milioni di euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/nuova-illuminazione-pubblica-corso-giulio-cesare-fotovoltaico-al-gerbido",
+      "data": "2026-10-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7f4135b3a567",
+      "titolo": "TIPS4PED: il fotovoltaico da balcone protagonista di un workshop a Torino",
+      "link": "https://www.comune.torino.it/novita/notizie/tips4ped-fotovoltaico-balcone-protagonista-un-workshop-torino",
+      "data": "2026-10-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b606039aa48d",
+      "titolo": "Cultura ed enogastronomia: parte a Torino “In cucina con…” nell’ambito di Torino Compra Vicino e di Terra Madre Salone del Gusto",
+      "link": "https://www.comune.torino.it/novita/comunicati/cultura-enogastronomia-parte-torino-cucina-nellambito-torino-compra-vicino-terra",
+      "data": "2026-09-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "aae2aca5497a",
+      "titolo": "Cantieri in città: chiude ponte Rossini, al via anche i lavori di Smat, Ireti, Iren e Italgas",
+      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-chiude-ponte-rossini-al-via-anche-lavori-smat-ireti-iren-italgas",
+      "data": "2026-09-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "giovani": [
     {
       "id": "6fb8c18313c6",
@@ -1107,48 +1157,6 @@
       "data": "2026-10-13T22:00:00+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "energia": [
-    {
-      "id": "ca124aaabbfc",
-      "titolo": "Il Piemonte al TTG 2026. Un ricco palinsesto di eventi dedicato alla sostenibilità, all’outdoor, alla cultura e all’enogastronomia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-ttg-2026-un-ricco-palinsesto-eventi-dedicato-alla-sostenibilita-alloutdoor-alla-cultura",
-      "data": "2026-10-13T14:11:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3f7e1dcc7547",
-      "titolo": "Nuova illuminazione pubblica in corso Giulio Cesare e fotovoltaico al Gerbido: approvato il programma operativo di dettaglio dei progetti finanziati dal MASE per oltre 1,3 milioni di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/nuova-illuminazione-pubblica-corso-giulio-cesare-fotovoltaico-al-gerbido",
-      "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7f4135b3a567",
-      "titolo": "TIPS4PED: il fotovoltaico da balcone protagonista di un workshop a Torino",
-      "link": "https://www.comune.torino.it/novita/notizie/tips4ped-fotovoltaico-balcone-protagonista-un-workshop-torino",
-      "data": "2026-10-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b606039aa48d",
-      "titolo": "Cultura ed enogastronomia: parte a Torino “In cucina con…” nell’ambito di Torino Compra Vicino e di Terra Madre Salone del Gusto",
-      "link": "https://www.comune.torino.it/novita/comunicati/cultura-enogastronomia-parte-torino-cucina-nellambito-torino-compra-vicino-terra",
-      "data": "2026-09-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "aae2aca5497a",
-      "titolo": "Cantieri in città: chiude ponte Rossini, al via anche i lavori di Smat, Ireti, Iren e Italgas",
-      "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-chiude-ponte-rossini-al-via-anche-lavori-smat-ireti-iren-italgas",
-      "data": "2026-09-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "commercio-artigianato": [
