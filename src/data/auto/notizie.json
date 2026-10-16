@@ -1,5 +1,45 @@
 [
   {
+    "id": "f8d9a6a5c123",
+    "titolo": "Prezzi al consumo per l’intera collettività (Nic) a settembre 2026",
+    "link": "https://www.comune.torino.it/novita/comunicati/prezzi-al-consumo-per-lintera-collettivita-nic-settembre-2026",
+    "descrizione": "Nel mese di settembre 2026 l’indice complessivo dei prezzi al consumo per l’intera collettività è risultato pari al 104,3.",
+    "data": "2026-10-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7c1d19e365a3",
+    "titolo": "Grand Opening Show Nitto ATP Finals 2026 - Achille Lauro in concerto (12 novembre 2026). Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita nei pressi dell'Inalpi Arena",
+    "link": "https://www.comune.torino.it/novita/notizie/grand-opening-show-nitto-atp-finals-2026-achille-lauro-concerto-12-novembre-2026",
+    "descrizione": "Si invitano gli operatori, prima dell’invio dell’istanza di partecipazione, a verificare la propria posizione debitoria verso la Pubblica Amministrazione.",
+    "data": "2026-10-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "71dcac77e19c",
+    "titolo": "NITTO ATP FINALS 2026 (15-22 novembre 2026) - bando comunale per il rilascio di concessioni occupazione temporanea del suolo pubblico per attività di vendita in occasione della manifestazione sportiva",
+    "link": "https://www.comune.torino.it/novita/notizie/nitto-atp-finals-2026-15-22-novembre-2026-bando-comunale-per-rilascio",
+    "descrizione": "In attesa della definizione degli atti prodromici e salvo eventuali ulteriori disposizioni, si anticipano di seguito i termini per l’invio delle istanze.",
+    "data": "2026-10-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6fb8c18313c6",
+    "titolo": "IOLAVORO 2026: Torino protagonista di due giornate tra opportunità di lavoro, giovani e nuove competenze",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-torino-protagonista-due-giornate-opportunita-lavoro-giovani-nuove-competenze",
+    "descrizione": "Opportunità concrete di occupazione, giovani alla scoperta delle professioni e un confronto a più voci sulle competenze necessarie per affrontare le trasformazioni del mercato del lavoro. Si è conclusa ieri, all'Inalpi Arena di Torino, l'edizione 2026 di IOLAVORO…",
+    "data": "2026-10-16T11:01:18+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "d93e89bb9642",
     "titolo": "Il Piemonte a TTG 2026, seconda giornata",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-ttg-2026-seconda-giornata",
@@ -394,6 +434,16 @@
     "titolo": "Tedacà Bellarte, nuova vita per lo storico presidio culturale di Parella",
     "link": "https://www.comune.torino.it/novita/comunicati/tedaca-bellarte-nuova-vita-per-storico-presidio-culturale-parella",
     "descrizione": "Taglio del nastro questa sera per i rinnovati spazi di Tedacà Bellarte, in via Bellardi 116.",
+    "data": "2026-10-08T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f49006dab681",
+    "titolo": "PROSECO: la Città di Torino al 3° Meeting Interregionale in Romania",
+    "link": "https://www.comune.torino.it/novita/notizie/proseco-citta-torino-al-3deg-meeting-interregionale-romania",
+    "descrizione": "la Città di Torino ha partecipato al terzo meeting interregionale del progetto europeo PROSECO in Romania.",
     "data": "2026-10-08T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1945,56 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/avvisi/martedi-15-settembre-assemblea-sindacale",
     "descrizione": "Avviso",
     "data": "2026-09-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "bc59a7c4dd6d",
-    "titolo": "Venerdì 11 settembre - Assemblea sindacale",
-    "link": "https://www.comune.torino.it/novita/avvisi/venerdi-11-settembre-assemblea-sindacale",
-    "descrizione": "Avviso",
-    "data": "2026-09-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "569187feb859",
-    "titolo": "Voucher digitalizzazione, al via la terza edizione del bando PMI",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/voucher-digitalizzazione-al-via-terza-edizione-bando-pmi",
-    "descrizione": "Presentata a Novara, nella sede della Camera di commercio Monte Rosa Laghi Alto Piemonte, la terza edizione del bando Voucher digitalizzazione Pmi 2026 . Nell’incontro che ha aperto il roadshow, organizzato da Unioncamere Piemonte in collaborazione istituzionale con Regione Piemonte nell’…",
-    "data": "2026-09-08T11:29:40+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "91fdef2781da",
-    "titolo": "Credito alle imprese, la cabina di regia delle Regioni del Nord apre il confronto con ABI",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/credito-alle-imprese-cabina-regia-delle-regioni-nord-apre-confronto-abi",
-    "descrizione": "La Cabina di Regia delle Regioni del Nord si è messa subito al lavoro. A pochi giorni dall’ultima riunione, che si è svolta giovedì scorso a Torino, i cinque assessori regionali Vincenzo Colla (Emilia-Romagna), Alessio Piana (Liguria), Guido Guidesi…",
-    "data": "2026-09-07T16:00:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "5ac56f1e8d1f",
-    "titolo": "Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita di prodotti alimentari e non alimentari in occasione di concerti, eventi e spettacoli nei pressi nei pressi dell'Inalpi Arena – ottobre 2026",
-    "link": "https://www.comune.torino.it/novita/notizie/rilascio-concessioni-occupazione-temporanea-suolo-pubblico-per-attivita-vendita-4",
-    "descrizione": "Pubblicazione del calendario eventi programmati nei pressi dello Stadio Olimpico – Inalpi Arena nel prossimo mese di ottobre 2026",
-    "data": "2026-09-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "02c621c84057",
-    "titolo": "Nuovo punto informativo in Circoscrizione 7",
-    "link": "https://www.comune.torino.it/novita/notizie/nuovo-punto-informativo-circoscrizione-7",
-    "descrizione": "Presso il Centro civico di corso Vercelli 15 partono le attività del PIÙ 7, il nuovo Punto Informativo Unificato.",
-    "data": "2026-09-07T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
