@@ -1,5 +1,15 @@
 [
   {
+    "id": "6f8c359fabf9",
+    "titolo": "Nuovo ospedale di Vercelli, via libera del Ministero al finanziamento del blocco di emergenza-urgenza",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-vercelli-via-libera-ministero-al-finanziamento-blocco-emergenza-urgenza",
+    "descrizione": "l Ministero della Salute ha emanato il decreto di ammissione a finanziamento del nuovo Blocco di Emergenza-Urgenza dell'Ospedale Sant'Andrea di Vercelli, il primo edificio funzionale del futuro nuovo ospedale cittadino.…",
+    "data": "2026-10-16T14:25:37+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "f8d9a6a5c123",
     "titolo": "Prezzi al consumo per l’intera collettività (Nic) a settembre 2026",
     "link": "https://www.comune.torino.it/novita/comunicati/prezzi-al-consumo-per-lintera-collettivita-nic-settembre-2026",
@@ -24,6 +34,36 @@
     "titolo": "NITTO ATP FINALS 2026 (15-22 novembre 2026) - bando comunale per il rilascio di concessioni occupazione temporanea del suolo pubblico per attività di vendita in occasione della manifestazione sportiva",
     "link": "https://www.comune.torino.it/novita/notizie/nitto-atp-finals-2026-15-22-novembre-2026-bando-comunale-per-rilascio",
     "descrizione": "In attesa della definizione degli atti prodromici e salvo eventuali ulteriori disposizioni, si anticipano di seguito i termini per l’invio delle istanze.",
+    "data": "2026-10-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "d72b27c25d69",
+    "titolo": "Biblioteca civica Dietrich Bonhoeffer, chiusura temporanea per il completamento dei lavori di riqualificazione",
+    "link": "https://www.comune.torino.it/novita/comunicati/biblioteca-civica-dietrich-bonhoeffer-chiusura-temporanea-per-completamento-dei",
+    "descrizione": "La Biblioteca civica Dietrich Bonhoeffer resterà chiusa da martedì 20 ottobre fino alla fine del 2026.",
+    "data": "2026-10-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "dd99c1a0a73c",
+    "titolo": "Piazza Baldissera, al via l’asfaltatura delle strade attorno allo snodo",
+    "link": "https://www.comune.torino.it/novita/comunicati/piazza-baldissera-al-via-lasfaltatura-delle-strade-attorno-allo-snodo",
+    "descrizione": "Dopo il rifacimento dell’assetto viario dello snodo, con i nuovi semafori intelligenti partono i lavori di riasfaltatura in prossimità di piazza Baldissera.",
+    "data": "2026-10-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a22622a3bee9",
+    "titolo": "Apre al pubblico lo storico chiosco di piazza San Carlo: sarà un nuovo spazio per la promozione della Città e dei suoi eventi",
+    "link": "https://www.comune.torino.it/novita/comunicati/apre-al-pubblico-storico-chiosco-piazza-san-carlo-sara-un-nuovo-spazio-per",
+    "descrizione": "Lo spazio all'angolo con via Giolitti sarà aperto al pubblico tutti i fine settimana, dalle ore 10 alle 18, e in occasione di festività ed eventi",
     "data": "2026-10-16T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1954,46 +1994,6 @@
     "titolo": "Piazza Derna: lavori notturni di riasfaltatura giovedì 10 e venerdì 11 settembre",
     "link": "https://www.comune.torino.it/novita/comunicati/piazza-derna-lavori-notturni-riasfaltatura-giovedi-10-venerdi-11-settembre",
     "descrizione": "Nelle notti di giovedì 10 e venerdì 11 settembre sono previsti i lavori di riasfaltatura della rotatoria di piazza Derna.",
-    "data": "2026-09-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "358d12d5b0e6",
-    "titolo": "Nuova vita ai chioschi abbandonati: diventeranno spazi di cultura, socialità e impresa nei quartieri",
-    "link": "https://www.comune.torino.it/novita/comunicati/nuova-vita-ai-chioschi-abbandonati-diventeranno-spazi-cultura-socialita-impresa",
-    "descrizione": "Arriva alle battute finali il percorso che la Città ha intrapreso per il rilancio dei chioschi cittadini dismessi.",
-    "data": "2026-09-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "29847c2709aa",
-    "titolo": "Domande per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (oggettistica) in Via Verdi – Via Sant'Ottavio",
-    "link": "https://www.comune.torino.it/novita/notizie/domande-per-rilascio-autorizzazioni-stagionali-concessione-suolo-pubblico-per-0",
-    "descrizione": "È possibile inoltrare le domande per il rilascio delle autorizzazioni stagionali per l'attività di vendita di prodotti non alimentari (Oggettistica)",
-    "data": "2026-09-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d799cb2dafda",
-    "titolo": "Via Roma: inizia una nuova storia. Sabato 12 settembre la grande festa per l’inaugurazione della nuova via pedonale",
-    "link": "https://www.comune.torino.it/novita/comunicati/via-roma-inizia-una-nuova-storia-sabato-12-settembre-grande-festa-per",
-    "descrizione": "Al termine dei lavori di riqualificazione, uno dei luoghi più riconoscibili e amati della città viene interamente restituito ai torinesi nel suo nuovo volto.",
-    "data": "2026-09-08T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1deed7368151",
-    "titolo": "Martedì 15 settembre - Assemblea sindacale",
-    "link": "https://www.comune.torino.it/novita/avvisi/martedi-15-settembre-assemblea-sindacale",
-    "descrizione": "Avviso",
     "data": "2026-09-08T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

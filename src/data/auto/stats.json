@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 137,
-    "regione": 60,
+    "regione": 61,
+    "comune_torino": 136,
     "consiglio": 3
   },
   "temi_attivi": [
@@ -15,12 +15,12 @@
       "conteggio": 20
     },
     {
-      "tema": "sociale-welfare",
+      "tema": "lavoro-occupazione",
       "conteggio": 14
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 13
+      "tema": "sociale-welfare",
+      "conteggio": 14
     },
     {
       "tema": "edilizia-opere-pubbliche",

@@ -1,4 +1,160 @@
 {
+  "sanita-regionale": [
+    {
+      "id": "6f8c359fabf9",
+      "titolo": "Nuovo ospedale di Vercelli, via libera del Ministero al finanziamento del blocco di emergenza-urgenza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-vercelli-via-libera-ministero-al-finanziamento-blocco-emergenza-urgenza",
+      "data": "2026-10-16T14:25:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f83ffd705cf9",
+      "titolo": "Mirafiori, intervento della Polizia Locale e dell’Asl. Chiuso laboratorio di panificazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-intervento-della-polizia-locale-dellasl-chiuso-laboratorio",
+      "data": "2026-10-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "08fe3dbb1cdd",
+      "titolo": "A Torino l’assemblea nazionale della rete RE.A.DY. e il convegno sui diritti in Italia e in Europa",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-lassemblea-nazionale-della-rete-ready-convegno-sui-diritti-italia-europa",
+      "data": "2026-10-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "cd40919ee30e",
+      "titolo": "Vaccinazioni, al via la campagna anti-influenzale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vaccinazioni-al-via-campagna-anti-influenzale",
+      "data": "2026-09-28T14:47:48+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "e583ec691a21",
+      "titolo": "Ospedale di Vercelli, 1O milioni per gli arredi del nuovo blocco di emergenza-urgenza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ospedale-vercelli-1o-milioni-per-gli-arredi-nuovo-blocco-emergenza-urgenza",
+      "data": "2026-09-21T18:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a150de4e694b",
+      "titolo": "Affidamento familiare, la Città aumenta i contributi e rafforza la collaborazione con l’Asl",
+      "link": "https://www.comune.torino.it/novita/comunicati/affidamento-familiare-citta-aumenta-contributi-rafforza-collaborazione-lasl",
+      "data": "2026-09-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "212460fcaf57",
+      "titolo": "Infermieristica, crescono le iscrizioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/infermieristica-crescono-iscrizioni",
+      "data": "2026-09-17T09:07:29+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d41418229747",
+      "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
+      "data": "2026-09-15T16:49:36+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3c68b29e3968",
+      "titolo": "Allo Juventus Stadium la finale di Conference League 2028",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allo-juventus-stadium-finale-conference-league-2028",
+      "data": "2026-09-15T16:49:36+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "82e058431d59",
+      "titolo": "IRCCS a Novara, sì della Regione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/irccs-novara-si-della-regione",
+      "data": "2026-09-15T13:30:58+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b0f556f5aa0e",
+      "titolo": "A Torino la finale di Uefa Conference League 2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-finale-uefa-conference-league-2028",
+      "data": "2026-09-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "afef50ec6932",
+      "titolo": "Sala Rossa: approvato ordine del giorno per la tutela degli operatori sanitari dalle aggressioni",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-ordine-giorno-per-tutela-degli-operatori-sanitari-dalle",
+      "data": "2026-09-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "protezione-civile": [
+    {
+      "id": "6f8c359fabf9",
+      "titolo": "Nuovo ospedale di Vercelli, via libera del Ministero al finanziamento del blocco di emergenza-urgenza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-vercelli-via-libera-ministero-al-finanziamento-blocco-emergenza-urgenza",
+      "data": "2026-10-16T14:25:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ba6c588e4668",
+      "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
+      "data": "2026-10-14T17:07:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "14b4efc80da4",
+      "titolo": "Un ciclo di incontri per la gestione del post-emergenza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-ciclo-incontri-per-gestione-post-emergenza",
+      "data": "2026-10-05T14:46:35+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9117e4dc8e33",
+      "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
+      "data": "2026-09-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e583ec691a21",
+      "titolo": "Ospedale di Vercelli, 1O milioni per gli arredi del nuovo blocco di emergenza-urgenza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ospedale-vercelli-1o-milioni-per-gli-arredi-nuovo-blocco-emergenza-urgenza",
+      "data": "2026-09-21T18:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d1386071c157",
+      "titolo": "Incendi boschivi, la Regione Piemonte revoca lo stato di massima pericolosità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-regione-piemonte-revoca-stato-massima-pericolosita",
+      "data": "2026-09-09T15:45:50+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "add0575bcf65",
+      "titolo": "Incendi boschivi, revocato lo stato di massima pericolosità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-revocato-stato-massima-pericolosita",
+      "data": "2026-09-09T15:45:50+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "bilancio-regionale": [
     {
       "id": "7c1d19e365a3",
@@ -30,6 +186,14 @@
       "id": "71dcac77e19c",
       "titolo": "NITTO ATP FINALS 2026 (15-22 novembre 2026) - bando comunale per il rilascio di concessioni occupazione temporanea del suolo pubblico per attività di vendita in occasione della manifestazione sportiva",
       "link": "https://www.comune.torino.it/novita/notizie/nitto-atp-finals-2026-15-22-novembre-2026-bando-comunale-per-rilascio",
+      "data": "2026-10-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a22622a3bee9",
+      "titolo": "Apre al pubblico lo storico chiosco di piazza San Carlo: sarà un nuovo spazio per la promozione della Città e dei suoi eventi",
+      "link": "https://www.comune.torino.it/novita/comunicati/apre-al-pubblico-storico-chiosco-piazza-san-carlo-sara-un-nuovo-spazio-per",
       "data": "2026-10-16T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -154,6 +318,14 @@
       "id": "7c1d19e365a3",
       "titolo": "Grand Opening Show Nitto ATP Finals 2026 - Achille Lauro in concerto (12 novembre 2026). Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita nei pressi dell'Inalpi Arena",
       "link": "https://www.comune.torino.it/novita/notizie/grand-opening-show-nitto-atp-finals-2026-achille-lauro-concerto-12-novembre-2026",
+      "data": "2026-10-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d72b27c25d69",
+      "titolo": "Biblioteca civica Dietrich Bonhoeffer, chiusura temporanea per il completamento dei lavori di riqualificazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/biblioteca-civica-dietrich-bonhoeffer-chiusura-temporanea-per-completamento-dei",
       "data": "2026-10-16T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -301,14 +473,6 @@
       "data": "2026-10-05T13:47:07+00:00",
       "fonte": "Consiglio Regionale",
       "fonte_id": "consiglio"
-    },
-    {
-      "id": "4297502fa978",
-      "titolo": "Progetto europeo ProAlp, una ricerca sulle professioni della montagna e sui cambiamenti climatici",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/progetto-europeo-proalp-una-ricerca-sulle-professioni-della-montagna-sui-cambiamenti-climatici",
-      "data": "2026-09-30T15:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sport": [
@@ -739,104 +903,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "sanita-regionale": [
-    {
-      "id": "f83ffd705cf9",
-      "titolo": "Mirafiori, intervento della Polizia Locale e dell’Asl. Chiuso laboratorio di panificazione",
-      "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-intervento-della-polizia-locale-dellasl-chiuso-laboratorio",
-      "data": "2026-10-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "08fe3dbb1cdd",
-      "titolo": "A Torino l’assemblea nazionale della rete RE.A.DY. e il convegno sui diritti in Italia e in Europa",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-lassemblea-nazionale-della-rete-ready-convegno-sui-diritti-italia-europa",
-      "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cd40919ee30e",
-      "titolo": "Vaccinazioni, al via la campagna anti-influenzale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vaccinazioni-al-via-campagna-anti-influenzale",
-      "data": "2026-09-28T14:47:48+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "e583ec691a21",
-      "titolo": "Ospedale di Vercelli, 1O milioni per gli arredi del nuovo blocco di emergenza-urgenza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ospedale-vercelli-1o-milioni-per-gli-arredi-nuovo-blocco-emergenza-urgenza",
-      "data": "2026-09-21T18:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a150de4e694b",
-      "titolo": "Affidamento familiare, la Città aumenta i contributi e rafforza la collaborazione con l’Asl",
-      "link": "https://www.comune.torino.it/novita/comunicati/affidamento-familiare-citta-aumenta-contributi-rafforza-collaborazione-lasl",
-      "data": "2026-09-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "212460fcaf57",
-      "titolo": "Infermieristica, crescono le iscrizioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/infermieristica-crescono-iscrizioni",
-      "data": "2026-09-17T09:07:29+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d41418229747",
-      "titolo": "Torino ed il Piemonte al centro del grande calcio, allo Juventus Stadium la finale di Conference League 2028",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-piemonte-al-centro-grande-calcio-allo-juventus-stadium-finale-conference-league-2028",
-      "data": "2026-09-15T16:49:36+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3c68b29e3968",
-      "titolo": "Allo Juventus Stadium la finale di Conference League 2028",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allo-juventus-stadium-finale-conference-league-2028",
-      "data": "2026-09-15T16:49:36+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "82e058431d59",
-      "titolo": "IRCCS a Novara, sì della Regione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/irccs-novara-si-della-regione",
-      "data": "2026-09-15T13:30:58+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b0f556f5aa0e",
-      "titolo": "A Torino la finale di Uefa Conference League 2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-finale-uefa-conference-league-2028",
-      "data": "2026-09-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "afef50ec6932",
-      "titolo": "Sala Rossa: approvato ordine del giorno per la tutela degli operatori sanitari dalle aggressioni",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-ordine-giorno-per-tutela-degli-operatori-sanitari-dalle",
-      "data": "2026-09-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1deed7368151",
-      "titolo": "Martedì 15 settembre - Assemblea sindacale",
-      "link": "https://www.comune.torino.it/novita/avvisi/martedi-15-settembre-assemblea-sindacale",
-      "data": "2026-09-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "fondi-europei": [
     {
       "id": "97c6fdedc6ab",
@@ -1031,56 +1097,6 @@
       "data": "2026-09-15T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "protezione-civile": [
-    {
-      "id": "ba6c588e4668",
-      "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
-      "data": "2026-10-14T17:07:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "14b4efc80da4",
-      "titolo": "Un ciclo di incontri per la gestione del post-emergenza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-ciclo-incontri-per-gestione-post-emergenza",
-      "data": "2026-10-05T14:46:35+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9117e4dc8e33",
-      "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
-      "data": "2026-09-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e583ec691a21",
-      "titolo": "Ospedale di Vercelli, 1O milioni per gli arredi del nuovo blocco di emergenza-urgenza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ospedale-vercelli-1o-milioni-per-gli-arredi-nuovo-blocco-emergenza-urgenza",
-      "data": "2026-09-21T18:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d1386071c157",
-      "titolo": "Incendi boschivi, la Regione Piemonte revoca lo stato di massima pericolosità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-regione-piemonte-revoca-stato-massima-pericolosita",
-      "data": "2026-09-09T15:45:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "add0575bcf65",
-      "titolo": "Incendi boschivi, revocato lo stato di massima pericolosità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-revocato-stato-massima-pericolosita",
-      "data": "2026-09-09T15:45:50+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "autonomia-differenziata": [
