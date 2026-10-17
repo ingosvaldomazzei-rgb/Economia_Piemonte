@@ -1,5 +1,15 @@
 [
   {
+    "id": "ca860239942e",
+    "titolo": "Fermato in monopattino senza casco sul marciapiede, investe l’agente per fuggire. Denunciato",
+    "link": "https://www.comune.torino.it/novita/comunicati/fermato-monopattino-senza-casco-sul-marciapiede-investe-lagente-per-fuggire",
+    "descrizione": "Fermato per un controllo mentre guidava il monopattino senza casco e sul marciapiedi.",
+    "data": "2026-10-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "6f8c359fabf9",
     "titolo": "Nuovo ospedale di Vercelli, via libera del Ministero al finanziamento del blocco di emergenza-urgenza",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-vercelli-via-libera-ministero-al-finanziamento-blocco-emergenza-urgenza",
@@ -63,7 +73,7 @@
     "id": "a22622a3bee9",
     "titolo": "Apre al pubblico lo storico chiosco di piazza San Carlo: sarà un nuovo spazio per la promozione della Città e dei suoi eventi",
     "link": "https://www.comune.torino.it/novita/comunicati/apre-al-pubblico-storico-chiosco-piazza-san-carlo-sara-un-nuovo-spazio-per",
-    "descrizione": "Lo spazio all'angolo con via Giolitti sarà aperto al pubblico tutti i fine settimana, dalle ore 10 alle 18, e in occasione di festività ed eventi",
+    "descrizione": "Lo spazio all'angolo con via Giolitti sarà aperto al pubblico tutti i fine settimana, dalle ore 10 alle 18, e in occasione di festività ed eventi.",
     "data": "2026-10-16T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1983,16 +1993,6 @@
     "id": "eed074f6985e",
     "titolo": "Tavolo verde sulla siccità",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tavolo-verde-sulla-siccita",
-    "descrizione": "L’assessore all' Agricoltura e Cibo Paolo Bongioanni ha riunito al Grattacielo Piemonte il Tavolo Verde, l’organo consultivo che riunisce le associazioni di categoria agricole e i rappresentanti delle organizzazioni cooperative a livello piemontese. Tre i…",
-    "data": "2026-09-08T13:37:40+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "4873bcabeede",
-    "titolo": "Agricoltura, tavolo verde sulla siccità",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-tavolo-verde-sulla-siccita",
     "descrizione": "L’assessore all' Agricoltura e Cibo Paolo Bongioanni ha riunito al Grattacielo Piemonte il Tavolo Verde, l’organo consultivo che riunisce le associazioni di categoria agricole e i rappresentanti delle organizzazioni cooperative a livello piemontese. Tre i…",
     "data": "2026-09-08T13:37:40+02:00",
     "fonte": "Regione Piemonte",
