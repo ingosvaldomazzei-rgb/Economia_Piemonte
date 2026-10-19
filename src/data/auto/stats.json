@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 137,
-    "regione": 60,
+    "comune_torino": 138,
+    "regione": 59,
     "consiglio": 3
   },
   "temi_attivi": [
@@ -12,14 +12,14 @@
     },
     {
       "tema": "agricoltura",
-      "conteggio": 20
-    },
-    {
-      "tema": "lavoro-occupazione",
-      "conteggio": 14
+      "conteggio": 19
     },
     {
       "tema": "sociale-welfare",
+      "conteggio": 15
+    },
+    {
+      "tema": "lavoro-occupazione",
       "conteggio": 14
     },
     {
@@ -31,11 +31,11 @@
       "conteggio": 12
     },
     {
-      "tema": "universita-ricerca",
-      "conteggio": 12
+      "tema": "enti-locali-piccoli-comuni",
+      "conteggio": 11
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
+      "tema": "universita-ricerca",
       "conteggio": 11
     },
     {

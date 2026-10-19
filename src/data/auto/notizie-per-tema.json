@@ -1,4 +1,288 @@
 {
+  "sociale-welfare": [
+    {
+      "id": "5595bea5f254",
+      "titolo": "Laboratorio gratuito di Teatro d'ombre",
+      "link": "https://www.comune.torino.it/novita/notizie/laboratorio-gratuito-teatro-dombre",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ba6c588e4668",
+      "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
+      "data": "2026-10-14T17:07:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d760b7cc73fb",
+      "titolo": "Progetto Prisma, nuove azioni per l’autonomia e l’inclusione delle persone con disabilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/progetto-prisma-nuove-azioni-per-lautonomia-linclusione-delle-persone-disabilita",
+      "data": "2026-10-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "36f6efede3db",
+      "titolo": "“Spazio Comune” cresce. Nasce il tavolo partecipativo con il terzo settore per l’accoglienza e l’inclusione",
+      "link": "https://www.comune.torino.it/novita/comunicati/spazio-comune-cresce-nasce-tavolo-partecipativo-terzo-settore-per-laccoglienza",
+      "data": "2026-10-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8000919e5e42",
+      "titolo": "Fino a 130mila euro per creare un’impresa: Torino lancia “Incubatori per l’inclusione”",
+      "link": "https://www.comune.torino.it/novita/comunicati/fino-130mila-euro-per-creare-unimpresa-torino-lancia-incubatori-per-linclusione",
+      "data": "2026-10-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "85f174cd80e4",
+      "titolo": "“Gioca alla Fiaba”, 20 spettacoli nei parchi e nei quartieri cittadini",
+      "link": "https://www.comune.torino.it/novita/notizie/gioca-alla-fiaba-20-spettacoli-nei-parchi-nei-quartieri-cittadini",
+      "data": "2026-10-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a922125cd886",
+      "titolo": "La Città apre alla coprogettazione per il futuro del polo educativo Moby Dick di via Ada Negri",
+      "link": "https://www.comune.torino.it/novita/comunicati/citta-apre-alla-coprogettazione-per-futuro-polo-educativo-moby-dick-via-ada",
+      "data": "2026-09-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9cc286a046f7",
+      "titolo": "Edilizia pubblica: Via libera ai lavori per l’abbattimento delle barriere architettoniche in via Bioglio e via Pacini",
+      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-pubblica-via-libera-ai-lavori-per-labbattimento-delle-barriere",
+      "data": "2026-09-29T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5c6455493333",
+      "titolo": "Insieme in Movimento - Percorso di Danza Movimento",
+      "link": "https://www.comune.torino.it/novita/notizie/insieme-movimento-percorso-danza-movimento",
+      "data": "2026-09-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "73ebc627b03b",
+      "titolo": "Il Molino si fa casa, inaugurato un nuovo spazio per l’autonomia delle persone con disabilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/molino-si-fa-casa-inaugurato-un-nuovo-spazio-per-lautonomia-delle-persone",
+      "data": "2026-09-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9117e4dc8e33",
+      "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
+      "data": "2026-09-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "26d6038a86db",
+      "titolo": "Festa della nascita",
+      "link": "https://www.comune.torino.it/novita/notizie/festa-della-nascita",
+      "data": "2026-09-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a150de4e694b",
+      "titolo": "Affidamento familiare, la Città aumenta i contributi e rafforza la collaborazione con l’Asl",
+      "link": "https://www.comune.torino.it/novita/comunicati/affidamento-familiare-citta-aumenta-contributi-rafforza-collaborazione-lasl",
+      "data": "2026-09-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d7e0943c5bbe",
+      "titolo": "A Falchera nasce Falchè, il cohousing per l'autonomia delle persone con disabilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/falchera-nasce-falche-cohousing-per-lautonomia-delle-persone-disabilita",
+      "data": "2026-09-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1963720a0d39",
+      "titolo": "Settimana dell'Allattamento Materno",
+      "link": "https://www.comune.torino.it/novita/notizie/settimana-dellallattamento-materno",
+      "data": "2026-09-15T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "cultura-beni-culturali": [
+    {
+      "id": "5595bea5f254",
+      "titolo": "Laboratorio gratuito di Teatro d'ombre",
+      "link": "https://www.comune.torino.it/novita/notizie/laboratorio-gratuito-teatro-dombre",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7c1d19e365a3",
+      "titolo": "Grand Opening Show Nitto ATP Finals 2026 - Achille Lauro in concerto (12 novembre 2026). Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita nei pressi dell'Inalpi Arena",
+      "link": "https://www.comune.torino.it/novita/notizie/grand-opening-show-nitto-atp-finals-2026-achille-lauro-concerto-12-novembre-2026",
+      "data": "2026-10-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d72b27c25d69",
+      "titolo": "Biblioteca civica Dietrich Bonhoeffer, chiusura temporanea per il completamento dei lavori di riqualificazione",
+      "link": "https://www.comune.torino.it/novita/comunicati/biblioteca-civica-dietrich-bonhoeffer-chiusura-temporanea-per-completamento-dei",
+      "data": "2026-10-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "92b11f1faefa",
+      "titolo": "Gruppo Qualcosa di Coppia",
+      "link": "https://www.comune.torino.it/novita/notizie/gruppo-qualcosa-coppia",
+      "data": "2026-10-14T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1f62adb4ad58",
+      "titolo": "Autonomia differenziata, il Consiglio dei Ministri approva le intese definitive con il Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-consiglio-dei-ministri-approva-intese-definitive-piemonte",
+      "data": "2026-10-13T22:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ca124aaabbfc",
+      "titolo": "Il Piemonte al TTG 2026. Un ricco palinsesto di eventi dedicato alla sostenibilità, all’outdoor, alla cultura e all’enogastronomia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-ttg-2026-un-ricco-palinsesto-eventi-dedicato-alla-sostenibilita-alloutdoor-alla-cultura",
+      "data": "2026-10-13T14:11:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4f441357dec4",
+      "titolo": "Per un SÌ consapevole: al via il primo ciclo di incontri laico per prepararsi alla vita di coppia",
+      "link": "https://www.comune.torino.it/novita/comunicati/per-un-si-consapevole-al-via-primo-ciclo-incontri-laico-per-prepararsi-alla-vita",
+      "data": "2026-10-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "71b357a9cd0d",
+      "titolo": "Semplificazione, parte il Piano attuativo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplificazione-parte-piano-attuativo",
+      "data": "2026-10-13T11:21:52+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2f859f1aa007",
+      "titolo": "Grande successo per \"Carla with love\" nelle Residenze reali del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/grande-successo-per-carla-with-love-nelle-residenze-reali-piemonte",
+      "data": "2026-10-12T13:52:26+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "58615090dc47",
+      "titolo": "5 milioni per lo spettacolo dal vivo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/5-milioni-per-spettacolo-dal-vivo",
+      "data": "2026-10-12T09:44:40+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8d44ba116345",
+      "titolo": "La settimana della salute mentale. A Torino dal 10 al 16 ottobre tra incontri, arte e laboratori",
+      "link": "https://www.comune.torino.it/novita/comunicati/settimana-della-salute-mentale-torino-10-al-16-ottobre-incontri-arte-laboratori",
+      "data": "2026-10-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "3cae59ba25c0",
+      "titolo": "Al via sei mesi di lavori sul cavalcaferrovia di corso Trapani: ecco tutti i cantieri in partenza",
+      "link": "https://www.comune.torino.it/novita/comunicati/al-via-sei-mesi-lavori-sul-cavalcaferrovia-corso-trapani-ecco-tutti-cantieri",
+      "data": "2026-10-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "94968bc3b130",
+      "titolo": "Tedacà Bellarte, nuova vita per lo storico presidio culturale di Parella",
+      "link": "https://www.comune.torino.it/novita/comunicati/tedaca-bellarte-nuova-vita-per-storico-presidio-culturale-parella",
+      "data": "2026-10-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f49006dab681",
+      "titolo": "PROSECO: la Città di Torino al 3° Meeting Interregionale in Romania",
+      "link": "https://www.comune.torino.it/novita/notizie/proseco-citta-torino-al-3deg-meeting-interregionale-romania",
+      "data": "2026-10-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c4093a44cab1",
+      "titolo": "Torino Design City. Dall’8 al 31 ottobre la prima edizione di Transizioni Tangibili",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-design-city-dall8-al-31-ottobre-prima-edizione-transizioni-tangibili",
+      "data": "2026-10-06T17:37:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "36f6efede3db",
+      "titolo": "“Spazio Comune” cresce. Nasce il tavolo partecipativo con il terzo settore per l’accoglienza e l’inclusione",
+      "link": "https://www.comune.torino.it/novita/comunicati/spazio-comune-cresce-nasce-tavolo-partecipativo-terzo-settore-per-laccoglienza",
+      "data": "2026-10-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "550597a9f515",
+      "titolo": "Torino, approvato il restauro del monumento a Gioberti: intervento da 167mila euro sponsorizzato da One S.r.l.",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-approvato-restauro-monumento-gioberti-intervento-167mila-euro",
+      "data": "2026-10-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "14b4efc80da4",
+      "titolo": "Un ciclo di incontri per la gestione del post-emergenza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-ciclo-incontri-per-gestione-post-emergenza",
+      "data": "2026-10-05T14:46:35+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "f9fdce1f89d5",
+      "titolo": "Programma eventi da ottobre 2026 a febbraio 2027",
+      "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-eventi-da-ottobre-2026-febbraio-2027",
+      "data": "2026-10-05T13:47:07+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    },
+    {
+      "id": "f78524b390af",
+      "titolo": "Programma incontri in biblioteca da ottobre 2026 a febbraio 2027",
+      "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-incontri-biblioteca-da-ottobre-2026-febbraio-2027",
+      "data": "2026-10-05T13:47:07+00:00",
+      "fonte": "Consiglio Regionale",
+      "fonte_id": "consiglio"
+    }
+  ],
   "sanita-regionale": [
     {
       "id": "6f8c359fabf9",
@@ -311,168 +595,6 @@
       "data": "2026-09-20T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "cultura-beni-culturali": [
-    {
-      "id": "7c1d19e365a3",
-      "titolo": "Grand Opening Show Nitto ATP Finals 2026 - Achille Lauro in concerto (12 novembre 2026). Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita nei pressi dell'Inalpi Arena",
-      "link": "https://www.comune.torino.it/novita/notizie/grand-opening-show-nitto-atp-finals-2026-achille-lauro-concerto-12-novembre-2026",
-      "data": "2026-10-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d72b27c25d69",
-      "titolo": "Biblioteca civica Dietrich Bonhoeffer, chiusura temporanea per il completamento dei lavori di riqualificazione",
-      "link": "https://www.comune.torino.it/novita/comunicati/biblioteca-civica-dietrich-bonhoeffer-chiusura-temporanea-per-completamento-dei",
-      "data": "2026-10-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "92b11f1faefa",
-      "titolo": "Gruppo Qualcosa di Coppia",
-      "link": "https://www.comune.torino.it/novita/notizie/gruppo-qualcosa-coppia",
-      "data": "2026-10-14T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1f62adb4ad58",
-      "titolo": "Autonomia differenziata, il Consiglio dei Ministri approva le intese definitive con il Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-consiglio-dei-ministri-approva-intese-definitive-piemonte",
-      "data": "2026-10-13T22:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ca124aaabbfc",
-      "titolo": "Il Piemonte al TTG 2026. Un ricco palinsesto di eventi dedicato alla sostenibilità, all’outdoor, alla cultura e all’enogastronomia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-ttg-2026-un-ricco-palinsesto-eventi-dedicato-alla-sostenibilita-alloutdoor-alla-cultura",
-      "data": "2026-10-13T14:11:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4f441357dec4",
-      "titolo": "Per un SÌ consapevole: al via il primo ciclo di incontri laico per prepararsi alla vita di coppia",
-      "link": "https://www.comune.torino.it/novita/comunicati/per-un-si-consapevole-al-via-primo-ciclo-incontri-laico-per-prepararsi-alla-vita",
-      "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "71b357a9cd0d",
-      "titolo": "Semplificazione, parte il Piano attuativo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplificazione-parte-piano-attuativo",
-      "data": "2026-10-13T11:21:52+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2f859f1aa007",
-      "titolo": "Grande successo per \"Carla with love\" nelle Residenze reali del Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/grande-successo-per-carla-with-love-nelle-residenze-reali-piemonte",
-      "data": "2026-10-12T13:52:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "58615090dc47",
-      "titolo": "5 milioni per lo spettacolo dal vivo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/5-milioni-per-spettacolo-dal-vivo",
-      "data": "2026-10-12T09:44:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8d44ba116345",
-      "titolo": "La settimana della salute mentale. A Torino dal 10 al 16 ottobre tra incontri, arte e laboratori",
-      "link": "https://www.comune.torino.it/novita/comunicati/settimana-della-salute-mentale-torino-10-al-16-ottobre-incontri-arte-laboratori",
-      "data": "2026-10-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "3cae59ba25c0",
-      "titolo": "Al via sei mesi di lavori sul cavalcaferrovia di corso Trapani: ecco tutti i cantieri in partenza",
-      "link": "https://www.comune.torino.it/novita/comunicati/al-via-sei-mesi-lavori-sul-cavalcaferrovia-corso-trapani-ecco-tutti-cantieri",
-      "data": "2026-10-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "94968bc3b130",
-      "titolo": "Tedacà Bellarte, nuova vita per lo storico presidio culturale di Parella",
-      "link": "https://www.comune.torino.it/novita/comunicati/tedaca-bellarte-nuova-vita-per-storico-presidio-culturale-parella",
-      "data": "2026-10-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f49006dab681",
-      "titolo": "PROSECO: la Città di Torino al 3° Meeting Interregionale in Romania",
-      "link": "https://www.comune.torino.it/novita/notizie/proseco-citta-torino-al-3deg-meeting-interregionale-romania",
-      "data": "2026-10-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c4093a44cab1",
-      "titolo": "Torino Design City. Dall’8 al 31 ottobre la prima edizione di Transizioni Tangibili",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-design-city-dall8-al-31-ottobre-prima-edizione-transizioni-tangibili",
-      "data": "2026-10-06T17:37:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "36f6efede3db",
-      "titolo": "“Spazio Comune” cresce. Nasce il tavolo partecipativo con il terzo settore per l’accoglienza e l’inclusione",
-      "link": "https://www.comune.torino.it/novita/comunicati/spazio-comune-cresce-nasce-tavolo-partecipativo-terzo-settore-per-laccoglienza",
-      "data": "2026-10-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "550597a9f515",
-      "titolo": "Torino, approvato il restauro del monumento a Gioberti: intervento da 167mila euro sponsorizzato da One S.r.l.",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-approvato-restauro-monumento-gioberti-intervento-167mila-euro",
-      "data": "2026-10-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "14b4efc80da4",
-      "titolo": "Un ciclo di incontri per la gestione del post-emergenza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-ciclo-incontri-per-gestione-post-emergenza",
-      "data": "2026-10-05T14:46:35+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f9fdce1f89d5",
-      "titolo": "Programma eventi da ottobre 2026 a febbraio 2027",
-      "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-eventi-da-ottobre-2026-febbraio-2027",
-      "data": "2026-10-05T13:47:07+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "f78524b390af",
-      "titolo": "Programma incontri in biblioteca da ottobre 2026 a febbraio 2027",
-      "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-incontri-biblioteca-da-ottobre-2026-febbraio-2027",
-      "data": "2026-10-05T13:47:07+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
-    },
-    {
-      "id": "cf7729269683",
-      "titolo": "PROGRAMMA INCONTRI OTTOBRE 2026 - FEBBRAIO 2027",
-      "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-incontri-ottobre-2026-febbraio-2027",
-      "data": "2026-10-05T13:47:07+00:00",
-      "fonte": "Consiglio Regionale",
-      "fonte_id": "consiglio"
     }
   ],
   "sport": [
@@ -909,14 +1031,6 @@
       "data": "2026-09-10T15:06:02+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "eed074f6985e",
-      "titolo": "Tavolo verde sulla siccità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tavolo-verde-sulla-siccita",
-      "data": "2026-09-08T13:37:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "crisi-automotive": [
@@ -1033,120 +1147,6 @@
       "data": "2026-09-12T19:00:51+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "sociale-welfare": [
-    {
-      "id": "ba6c588e4668",
-      "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
-      "data": "2026-10-14T17:07:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d760b7cc73fb",
-      "titolo": "Progetto Prisma, nuove azioni per l’autonomia e l’inclusione delle persone con disabilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/progetto-prisma-nuove-azioni-per-lautonomia-linclusione-delle-persone-disabilita",
-      "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "36f6efede3db",
-      "titolo": "“Spazio Comune” cresce. Nasce il tavolo partecipativo con il terzo settore per l’accoglienza e l’inclusione",
-      "link": "https://www.comune.torino.it/novita/comunicati/spazio-comune-cresce-nasce-tavolo-partecipativo-terzo-settore-per-laccoglienza",
-      "data": "2026-10-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8000919e5e42",
-      "titolo": "Fino a 130mila euro per creare un’impresa: Torino lancia “Incubatori per l’inclusione”",
-      "link": "https://www.comune.torino.it/novita/comunicati/fino-130mila-euro-per-creare-unimpresa-torino-lancia-incubatori-per-linclusione",
-      "data": "2026-10-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "85f174cd80e4",
-      "titolo": "“Gioca alla Fiaba”, 20 spettacoli nei parchi e nei quartieri cittadini",
-      "link": "https://www.comune.torino.it/novita/notizie/gioca-alla-fiaba-20-spettacoli-nei-parchi-nei-quartieri-cittadini",
-      "data": "2026-10-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a922125cd886",
-      "titolo": "La Città apre alla coprogettazione per il futuro del polo educativo Moby Dick di via Ada Negri",
-      "link": "https://www.comune.torino.it/novita/comunicati/citta-apre-alla-coprogettazione-per-futuro-polo-educativo-moby-dick-via-ada",
-      "data": "2026-09-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9cc286a046f7",
-      "titolo": "Edilizia pubblica: Via libera ai lavori per l’abbattimento delle barriere architettoniche in via Bioglio e via Pacini",
-      "link": "https://www.comune.torino.it/novita/comunicati/edilizia-pubblica-via-libera-ai-lavori-per-labbattimento-delle-barriere",
-      "data": "2026-09-29T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5c6455493333",
-      "titolo": "Insieme in Movimento - Percorso di Danza Movimento",
-      "link": "https://www.comune.torino.it/novita/notizie/insieme-movimento-percorso-danza-movimento",
-      "data": "2026-09-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "73ebc627b03b",
-      "titolo": "Il Molino si fa casa, inaugurato un nuovo spazio per l’autonomia delle persone con disabilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/molino-si-fa-casa-inaugurato-un-nuovo-spazio-per-lautonomia-delle-persone",
-      "data": "2026-09-23T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9117e4dc8e33",
-      "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
-      "data": "2026-09-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "26d6038a86db",
-      "titolo": "Festa della nascita",
-      "link": "https://www.comune.torino.it/novita/notizie/festa-della-nascita",
-      "data": "2026-09-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a150de4e694b",
-      "titolo": "Affidamento familiare, la Città aumenta i contributi e rafforza la collaborazione con l’Asl",
-      "link": "https://www.comune.torino.it/novita/comunicati/affidamento-familiare-citta-aumenta-contributi-rafforza-collaborazione-lasl",
-      "data": "2026-09-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d7e0943c5bbe",
-      "titolo": "A Falchera nasce Falchè, il cohousing per l'autonomia delle persone con disabilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/falchera-nasce-falche-cohousing-per-lautonomia-delle-persone-disabilita",
-      "data": "2026-09-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1963720a0d39",
-      "titolo": "Settimana dell'Allattamento Materno",
-      "link": "https://www.comune.torino.it/novita/notizie/settimana-dellallattamento-materno",
-      "data": "2026-09-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "autonomia-differenziata": [
@@ -1641,14 +1641,6 @@
       "data": "2026-09-15T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "eed074f6985e",
-      "titolo": "Tavolo verde sulla siccità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tavolo-verde-sulla-siccita",
-      "data": "2026-09-08T13:37:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "montagna": [

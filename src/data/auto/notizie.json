@@ -1,5 +1,25 @@
 [
   {
+    "id": "0bce8da1ac4e",
+    "titolo": "Saldo IMU 2026",
+    "link": "https://www.comune.torino.it/novita/avvisi/saldo-imu-2026",
+    "descrizione": "Mercoledì 16 dicembre scade il termine per il pagamento del saldo IMU 2026",
+    "data": "2026-12-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "5595bea5f254",
+    "titolo": "Laboratorio gratuito di Teatro d'ombre",
+    "link": "https://www.comune.torino.it/novita/notizie/laboratorio-gratuito-teatro-dombre",
+    "descrizione": "Laboratorio gratuito rivolto a famiglie e cittadinanza.",
+    "data": "2026-10-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "ca860239942e",
     "titolo": "Fermato in monopattino senza casco sul marciapiede, investe l’agente per fuggire. Denunciato",
     "link": "https://www.comune.torino.it/novita/comunicati/fermato-monopattino-senza-casco-sul-marciapiede-investe-lagente-per-fuggire",
@@ -1978,25 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "d6029cb22b5b",
-    "titolo": "Falchera, inaugurato il nuovo anello tranviario: dal 14 settembre la linea 4 torna a correre sull’intero percorso con i tram Hitachi Rail",
-    "link": "https://www.comune.torino.it/novita/comunicati/falchera-inaugurato-nuovo-anello-tranviario-14-settembre-linea-4-torna-correre",
-    "descrizione": "Da lunedì 14 settembre, in occasione dell’avvio dell’anno scolastico, la linea 4 tornerà a percorrere l’intero tracciato con i nuovi tram Hitachi Rail.",
-    "data": "2026-09-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "eed074f6985e",
-    "titolo": "Tavolo verde sulla siccità",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tavolo-verde-sulla-siccita",
-    "descrizione": "L’assessore all' Agricoltura e Cibo Paolo Bongioanni ha riunito al Grattacielo Piemonte il Tavolo Verde, l’organo consultivo che riunisce le associazioni di categoria agricole e i rappresentanti delle organizzazioni cooperative a livello piemontese. Tre i…",
-    "data": "2026-09-08T13:37:40+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
