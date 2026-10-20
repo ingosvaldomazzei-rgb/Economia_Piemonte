@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "0862ac3061b4",
+    "titolo": "Sistema neve, nasce un tavolo tecnico per il futuro delle stazioni del VCO",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sistema-neve-nasce-un-tavolo-tecnico-per-futuro-delle-stazioni-vco",
+    "descrizione": "Si è svolto martedì 20 ottobre al Grattacielo della Regione un incontro dedicato al futuro delle stazioni sciistiche del Verbano Cusio Ossola. Erano presenti il presidente della Regione Alberto Cirio, l’assessore al Sistema neve Marco Gallo, l’assessore…",
+    "data": "2026-10-20T18:35:06+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "33a183e97346",
     "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile-della-regione-piemonte",
@@ -1985,16 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-13-settembre-riapre-germagnano-ceres",
     "descrizione": "Dopo oltre tre anni, il treno torna a Ceres. Da domenica 13 settembre riprende il servizio ferroviario sui 12 chilometri della tratta Germagnano-Ceres, completando così la riattivazione della ferrovia che collega Torino con l’aeroporto e con le Valli di Lanzo. La riapertura è stata…",
     "data": "2026-09-12T21:11:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "05877431610e",
-    "titolo": "Stati generali MAB Unesco, il Piemonte si candida a laboratorio nazionale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-mab-unesco-piemonte-si-candida-laboratorio-nazionale",
-    "descrizione": "Conoscere e misurare le potenzialità dei territori, mettere a sistema esperienze e competenze e costruire una strategia comune capace di coniugare tutela ambientale, qualità della vita e sviluppo economico sostenibile. È questo il percorso avviato con gli Stati Generali dei Territori MAB…",
-    "data": "2026-09-12T19:00:51+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"

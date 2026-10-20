@@ -1,105 +1,55 @@
 {
-  "pianificazione-territoriale": [
+  "montagna": [
     {
-      "id": "33a183e97346",
-      "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile-della-regione-piemonte",
-      "data": "2026-10-20T16:43:24+02:00",
+      "id": "0862ac3061b4",
+      "titolo": "Sistema neve, nasce un tavolo tecnico per il futuro delle stazioni del VCO",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sistema-neve-nasce-un-tavolo-tecnico-per-futuro-delle-stazioni-vco",
+      "data": "2026-10-20T18:35:06+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "8d44ba116345",
-      "titolo": "La settimana della salute mentale. A Torino dal 10 al 16 ottobre tra incontri, arte e laboratori",
-      "link": "https://www.comune.torino.it/novita/comunicati/settimana-della-salute-mentale-torino-10-al-16-ottobre-incontri-arte-laboratori",
-      "data": "2026-10-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "85f174cd80e4",
-      "titolo": "“Gioca alla Fiaba”, 20 spettacoli nei parchi e nei quartieri cittadini",
-      "link": "https://www.comune.torino.it/novita/notizie/gioca-alla-fiaba-20-spettacoli-nei-parchi-nei-quartieri-cittadini",
-      "data": "2026-10-01T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "f9fdb9cfc9ca",
-      "titolo": "Il Piemonte ha il nuovo Piano territoriale regionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-ha-nuovo-piano-territoriale-regionale",
-      "data": "2026-09-29T14:15:11+02:00",
+      "id": "5e5439f6d2b6",
+      "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
+      "data": "2026-10-01T16:40:26+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "45b99c64f2c9",
-      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
-      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
-      "data": "2026-09-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "protezione-civile": [
-    {
-      "id": "33a183e97346",
-      "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile-della-regione-piemonte",
-      "data": "2026-10-20T16:43:24+02:00",
+      "id": "4297502fa978",
+      "titolo": "Progetto europeo ProAlp, una ricerca sulle professioni della montagna e sui cambiamenti climatici",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/progetto-europeo-proalp-una-ricerca-sulle-professioni-della-montagna-sui-cambiamenti-climatici",
+      "data": "2026-09-30T15:00:00+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "00056a72b0ff",
-      "titolo": "La Sala Rossa per il contrasto alla solitudine",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-per-contrasto-alla-solitudine",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6f8c359fabf9",
-      "titolo": "Nuovo ospedale di Vercelli, via libera del Ministero al finanziamento del blocco di emergenza-urgenza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-vercelli-via-libera-ministero-al-finanziamento-blocco-emergenza-urgenza",
-      "data": "2026-10-16T14:25:37+02:00",
+      "id": "d0438b8d37db",
+      "titolo": "ProAlp, una ricerca sulle professioni della montagna e sui cambiamenti climatici",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/proalp-una-ricerca-sulle-professioni-della-montagna-sui-cambiamenti-climatici",
+      "data": "2026-09-30T15:00:00+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "ba6c588e4668",
-      "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
-      "data": "2026-10-14T17:07:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "14b4efc80da4",
-      "titolo": "Un ciclo di incontri per la gestione del post-emergenza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-ciclo-incontri-per-gestione-post-emergenza",
-      "data": "2026-10-05T14:46:35+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9117e4dc8e33",
-      "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
-      "data": "2026-09-22T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e583ec691a21",
-      "titolo": "Ospedale di Vercelli, 1O milioni per gli arredi del nuovo blocco di emergenza-urgenza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ospedale-vercelli-1o-milioni-per-gli-arredi-nuovo-blocco-emergenza-urgenza",
-      "data": "2026-09-21T18:00:00+02:00",
+      "id": "5453fe564111",
+      "titolo": "Violenza sulle donne, oltre 2 milioni di euro per CAV, case rifugio e percorsi di accoglienza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/violenza-sulle-donne-oltre-2-milioni-euro-per-cav-case-rifugio-percorsi-accoglienza",
+      "data": "2026-09-28T15:33:11+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
   ],
   "cultura-beni-culturali": [
+    {
+      "id": "0862ac3061b4",
+      "titolo": "Sistema neve, nasce un tavolo tecnico per il futuro delle stazioni del VCO",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sistema-neve-nasce-un-tavolo-tecnico-per-futuro-delle-stazioni-vco",
+      "data": "2026-10-20T18:35:06+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "33a183e97346",
       "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
@@ -251,14 +201,106 @@
       "data": "2026-10-06T17:37:27+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    }
+  ],
+  "pianificazione-territoriale": [
+    {
+      "id": "33a183e97346",
+      "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile-della-regione-piemonte",
+      "data": "2026-10-20T16:43:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
-      "id": "36f6efede3db",
-      "titolo": "“Spazio Comune” cresce. Nasce il tavolo partecipativo con il terzo settore per l’accoglienza e l’inclusione",
-      "link": "https://www.comune.torino.it/novita/comunicati/spazio-comune-cresce-nasce-tavolo-partecipativo-terzo-settore-per-laccoglienza",
-      "data": "2026-10-06T12:00:00+00:00",
+      "id": "8d44ba116345",
+      "titolo": "La settimana della salute mentale. A Torino dal 10 al 16 ottobre tra incontri, arte e laboratori",
+      "link": "https://www.comune.torino.it/novita/comunicati/settimana-della-salute-mentale-torino-10-al-16-ottobre-incontri-arte-laboratori",
+      "data": "2026-10-09T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    },
+    {
+      "id": "85f174cd80e4",
+      "titolo": "“Gioca alla Fiaba”, 20 spettacoli nei parchi e nei quartieri cittadini",
+      "link": "https://www.comune.torino.it/novita/notizie/gioca-alla-fiaba-20-spettacoli-nei-parchi-nei-quartieri-cittadini",
+      "data": "2026-10-01T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "f9fdb9cfc9ca",
+      "titolo": "Il Piemonte ha il nuovo Piano territoriale regionale",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-ha-nuovo-piano-territoriale-regionale",
+      "data": "2026-09-29T14:15:11+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "45b99c64f2c9",
+      "titolo": "Riunita al Grattacielo Piemonte la Conferenza di copianificazione del nuovo Piano Regolatore di Torino",
+      "link": "https://www.comune.torino.it/novita/comunicati/riunita-al-grattacielo-piemonte-conferenza-copianificazione-nuovo-piano",
+      "data": "2026-09-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "protezione-civile": [
+    {
+      "id": "33a183e97346",
+      "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile-della-regione-piemonte",
+      "data": "2026-10-20T16:43:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "00056a72b0ff",
+      "titolo": "La Sala Rossa per il contrasto alla solitudine",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-per-contrasto-alla-solitudine",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6f8c359fabf9",
+      "titolo": "Nuovo ospedale di Vercelli, via libera del Ministero al finanziamento del blocco di emergenza-urgenza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-vercelli-via-libera-ministero-al-finanziamento-blocco-emergenza-urgenza",
+      "data": "2026-10-16T14:25:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ba6c588e4668",
+      "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
+      "data": "2026-10-14T17:07:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "14b4efc80da4",
+      "titolo": "Un ciclo di incontri per la gestione del post-emergenza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-ciclo-incontri-per-gestione-post-emergenza",
+      "data": "2026-10-05T14:46:35+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9117e4dc8e33",
+      "titolo": "Torino Solidale, la Città rafforza la rete del welfare di prossimità: al via la coprogettazione con il terzo settore per il periodo 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-solidale-citta-rafforza-rete-welfare-prossimita-al-via-coprogettazione",
+      "data": "2026-09-22T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e583ec691a21",
+      "titolo": "Ospedale di Vercelli, 1O milioni per gli arredi del nuovo blocco di emergenza-urgenza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ospedale-vercelli-1o-milioni-per-gli-arredi-nuovo-blocco-emergenza-urgenza",
+      "data": "2026-09-21T18:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     }
   ],
   "sport": [
@@ -923,14 +965,6 @@
       "data": "2026-09-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "05877431610e",
-      "titolo": "Stati generali MAB Unesco, il Piemonte si candida a laboratorio nazionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-mab-unesco-piemonte-si-candida-laboratorio-nazionale",
-      "data": "2026-09-12T19:00:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "turismo": [
@@ -1435,14 +1469,6 @@
       "data": "2026-09-14T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "05877431610e",
-      "titolo": "Stati generali MAB Unesco, il Piemonte si candida a laboratorio nazionale",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-mab-unesco-piemonte-si-candida-laboratorio-nazionale",
-      "data": "2026-09-12T19:00:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "autonomia-differenziata": [
@@ -1691,40 +1717,6 @@
       "data": "2026-09-15T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "montagna": [
-    {
-      "id": "5e5439f6d2b6",
-      "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
-      "data": "2026-10-01T16:40:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4297502fa978",
-      "titolo": "Progetto europeo ProAlp, una ricerca sulle professioni della montagna e sui cambiamenti climatici",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/progetto-europeo-proalp-una-ricerca-sulle-professioni-della-montagna-sui-cambiamenti-climatici",
-      "data": "2026-09-30T15:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d0438b8d37db",
-      "titolo": "ProAlp, una ricerca sulle professioni della montagna e sui cambiamenti climatici",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/proalp-una-ricerca-sulle-professioni-della-montagna-sui-cambiamenti-climatici",
-      "data": "2026-09-30T15:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5453fe564111",
-      "titolo": "Violenza sulle donne, oltre 2 milioni di euro per CAV, case rifugio e percorsi di accoglienza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/violenza-sulle-donne-oltre-2-milioni-euro-per-cav-case-rifugio-percorsi-accoglienza",
-      "data": "2026-09-28T15:33:11+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "trasporti-mobilita": [

@@ -16,7 +16,7 @@
     },
     {
       "tema": "agricoltura",
-      "conteggio": 19
+      "conteggio": 18
     },
     {
       "tema": "lavoro-occupazione",
@@ -39,12 +39,12 @@
       "conteggio": 10
     },
     {
-      "tema": "fondi-europei",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 10
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 10
+      "tema": "istruzione-formazione",
+      "conteggio": 9
     }
   ],
   "totale_temi_con_notizie": 25
