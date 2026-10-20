@@ -10,6 +10,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "747447227cd0",
+    "titolo": "\"Pass60\" si amplia e diventa \"dai60\": cinque anni di opportunità culturali, sportive e ricreative per i torinesi dai 60 ai 64 anni",
+    "link": "https://www.comune.torino.it/novita/comunicati/pass60-si-amplia-diventa-dai60-cinque-anni-opportunita-culturali-sportive",
+    "descrizione": "La nuova formula estende da uno a cinque anni il periodo di validità della tessera, con l’accesso gratuito o agevolato ad un ricchissimo programma di attività.",
+    "data": "2026-10-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "5595bea5f254",
     "titolo": "Laboratorio gratuito di Teatro d'ombre",
     "link": "https://www.comune.torino.it/novita/notizie/laboratorio-gratuito-teatro-dombre",
@@ -80,6 +90,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "ffbc70efa5c1",
+    "titolo": "Il Piemonte del Tartufo, comune per comune",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-tartufo-comune-per-comune",
+    "descrizione": "Presentata alla Consulta regionale la digitalizzazione delle carte di attitudine e potenzialità tartufigena realizzate da IPLA. Discusse anche le novità normative, la rete micologica e la formazione dei cercatori. La nuova digitalizzazione delle carte regionali permette di consultare,…",
+    "data": "2026-10-19T10:50:31+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "a025001bd499",
+    "titolo": "Successo nel fine settimana per la Fiera del Marrone di Cuneo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/successo-nel-fine-settimana-per-fiera-marrone-cuneo",
+    "descrizione": "Grande successo per la 27ma edizione della Fiera del Marrone che si è svolta nel fine settimana a Cuneo. Circa 250mila le presenze per una manifestazione che dal prossimo anno diventa internazionale. Soddisfatto l'assessore al Turismo Paolo…",
+    "data": "2026-10-19T10:24:02+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "ca860239942e",
     "titolo": "Fermato in monopattino senza casco sul marciapiede, investe l’agente per fuggire. Denunciato",
     "link": "https://www.comune.torino.it/novita/comunicati/fermato-monopattino-senza-casco-sul-marciapiede-investe-lagente-per-fuggire",
@@ -88,6 +118,16 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "3288ba7a88e1",
+    "titolo": "Abitare sulla Luna, a Torino i riflettori sul modulo MPH",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/abitare-sulla-luna-torino-riflettori-sul-modulo-mph",
+    "descrizione": "Le infrastrutture, le tecnologie e le competenze necessarie per accompagnare il passaggio dall’esplorazione lunare allo sviluppo delle condizioni infrastrutturali che permettano una presenza umana stabile e sostenibile sulla Luna sono state il fulcro del dibattito emerso durante…",
+    "data": "2026-10-16T18:00:00+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "6f8c359fabf9",
@@ -173,6 +213,16 @@
     "id": "6fb8c18313c6",
     "titolo": "IOLAVORO 2026: Torino protagonista di due giornate tra opportunità di lavoro, giovani e nuove competenze",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-torino-protagonista-due-giornate-opportunita-lavoro-giovani-nuove-competenze",
+    "descrizione": "Opportunità concrete di occupazione, giovani alla scoperta delle professioni e un confronto a più voci sulle competenze necessarie per affrontare le trasformazioni del mercato del lavoro. Si è conclusa ieri, all'Inalpi Arena di Torino, l'edizione 2026 di IOLAVORO…",
+    "data": "2026-10-16T11:01:18+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "7979f3473b2f",
+    "titolo": "IoLavoro 2026, due giornate di contatti",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-due-giornate-contatti",
     "descrizione": "Opportunità concrete di occupazione, giovani alla scoperta delle professioni e un confronto a più voci sulle competenze necessarie per affrontare le trasformazioni del mercato del lavoro. Si è conclusa ieri, all'Inalpi Arena di Torino, l'edizione 2026 di IOLAVORO…",
     "data": "2026-10-16T11:01:18+02:00",
     "fonte": "Regione Piemonte",
@@ -1948,55 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "f073636be755",
-    "titolo": "Germinale Monferrato ArtFest",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/germinale-monferrato-artfest",
-    "descrizione": "E’ stata inaugurata l’11 settembre 2026 la terza edizione di Germinale…",
-    "data": "2026-09-11T10:42:33+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "c3f5a8e20dd2",
-    "titolo": "Il Piemonte a Risò, Vercelli capitale del riso europeo",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-riso-vercelli-capitale-riso-europeo",
-    "descrizione": "La seconda edizione di Risò, in programma a Vercelli da venerdì 11 a domenica 13 settembre, vede il Piemonte nuovamente al centro della scena delle politiche internazionali per l’agricoltura e il cibo. Il…",
-    "data": "2026-09-10T15:06:02+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "d74a68831171",
-    "titolo": "Cultura, 1,9 milioni per libri, editoria e patrimonio culturale",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-19-milioni-per-libri-editoria-patrimonio-culturale",
-    "descrizione": "Quasi 1,9 milioni di euro per sostenere la promozione della lettura, festival e premi letterari, rafforzare le imprese editoriali e le librerie indipendenti, favorire la presenza degli editori piemontesi nelle principali fiere e tutelare, attraverso conservazione e digitalizzazione, il…",
-    "data": "2026-09-10T14:54:42+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "b1c164f7002f",
-    "titolo": "Inaugurata alla biblioteca Cognasso “The Jungle Library” la nuova opera di Mrfijodor",
-    "link": "https://www.comune.torino.it/novita/comunicati/inaugurata-alla-biblioteca-cognasso-the-jungle-library-nuova-opera-mrfijodor",
-    "descrizione": "La facciata della Biblioteca civica Cognasso, accoglie il nuovo murale “The Jungle Library”, un’opera di arte urbana dallo street artist Mrfijodor.",
-    "data": "2026-09-10T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d1386071c157",
-    "titolo": "Incendi boschivi, la Regione Piemonte revoca lo stato di massima pericolosità",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-regione-piemonte-revoca-stato-massima-pericolosita",
-    "descrizione": "La Regione Piemonte ha disposto la chiusura dello stato di massima pericolosità per gli incendi boschivi su tutto il territorio regionale a partire da venerdì 11 settembre 2026. Il provvedimento è stato adottato con la Determinazione dirigenziale n. 1725 del 9 settembre 2026, sulla base…",
-    "data": "2026-09-09T15:45:50+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]

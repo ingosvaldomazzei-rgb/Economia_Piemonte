@@ -12,7 +12,7 @@
     },
     {
       "tema": "agricoltura",
-      "conteggio": 20
+      "conteggio": 19
     },
     {
       "tema": "sociale-welfare",
@@ -20,14 +20,14 @@
     },
     {
       "tema": "lavoro-occupazione",
-      "conteggio": 14
-    },
-    {
-      "tema": "sanita-regionale",
-      "conteggio": 12
+      "conteggio": 15
     },
     {
       "tema": "edilizia-opere-pubbliche",
+      "conteggio": 13
+    },
+    {
+      "tema": "sanita-regionale",
       "conteggio": 12
     },
     {
@@ -39,12 +39,12 @@
       "conteggio": 11
     },
     {
-      "tema": "fondi-europei",
+      "tema": "sport",
       "conteggio": 10
     },
     {
-      "tema": "sport",
-      "conteggio": 9
+      "tema": "fondi-europei",
+      "conteggio": 10
     }
   ],
   "totale_temi_con_notizie": 25
