@@ -11,12 +11,12 @@
       "conteggio": 20
     },
     {
-      "tema": "agricoltura",
+      "tema": "sociale-welfare",
       "conteggio": 19
     },
     {
-      "tema": "sociale-welfare",
-      "conteggio": 17
+      "tema": "agricoltura",
+      "conteggio": 19
     },
     {
       "tema": "lavoro-occupazione",
@@ -31,10 +31,6 @@
       "conteggio": 12
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 11
-    },
-    {
       "tema": "universita-ricerca",
       "conteggio": 11
     },
@@ -44,6 +40,10 @@
     },
     {
       "tema": "fondi-europei",
+      "conteggio": 10
+    },
+    {
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 10
     }
   ],

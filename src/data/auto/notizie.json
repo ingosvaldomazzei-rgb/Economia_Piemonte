@@ -10,10 +10,60 @@
     "colore": "#dc2626"
   },
   {
+    "id": "33a183e97346",
+    "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile-della-regione-piemonte",
+    "descrizione": "La Regione Piemonte ha aperto la Sala operativa della Protezione civile nella sede di corso Marche a Torino in seguito all'ultimo bollettino di allerta emesso da Arpa Piemonte alle 13 di martedì 20 ottobre, che segnala condizioni di criticità sul territorio regionale. La struttura sarà attiva…",
+    "data": "2026-10-20T16:43:24+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "747447227cd0",
     "titolo": "\"Pass60\" si amplia e diventa \"dai60\": cinque anni di opportunità culturali, sportive e ricreative per i torinesi dai 60 ai 64 anni",
     "link": "https://www.comune.torino.it/novita/comunicati/pass60-si-amplia-diventa-dai60-cinque-anni-opportunita-culturali-sportive",
     "descrizione": "La nuova formula estende da uno a cinque anni il periodo di validità della tessera, con l’accesso gratuito o agevolato ad un ricchissimo programma di attività.",
+    "data": "2026-10-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "195ee59138ea",
+    "titolo": "La storica scuola Boncompagni si rinnova: conclusa la riqualificazione da 9,5 milioni di euro",
+    "link": "https://www.comune.torino.it/novita/comunicati/storica-scuola-boncompagni-si-rinnova-conclusa-riqualificazione-95-milioni-euro",
+    "descrizione": "Una scuola storica di Torino rinnovata negli spazi e resa più sicura, funzionale ed efficiente.",
+    "data": "2026-10-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "afaddafcce9e",
+    "titolo": "Approvata la variante per l’area “Ponte Mosca” nel quartiere Aurora, un nuovo campus urbano sostenibile e ad alta efficienza energetica",
+    "link": "https://www.comune.torino.it/novita/comunicati/approvata-variante-per-larea-ponte-mosca-nel-quartiere-aurora-un-nuovo-campus",
+    "descrizione": "La Giunta Comunale ha dato il via libera all'adeguamento della convenzione urbanistica.",
+    "data": "2026-10-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "a5603f4d980b",
+    "titolo": "Diabete, screening e accesso alle cure per le persone in condizioni di grave marginalità",
+    "link": "https://www.comune.torino.it/novita/comunicati/diabete-screening-accesso-alle-cure-per-persone-condizioni-grave-marginalita",
+    "descrizione": "Intercettare precocemente il diabete non diagnosticato nelle persone che vivono in condizioni di grave marginalità sociale.",
+    "data": "2026-10-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "dbf171d45ec1",
+    "titolo": "Efficientamento energetico per tre edifici comunali: approvati lavori per 861mila euro",
+    "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-per-tre-edifici-comunali-approvati-lavori-per-861mila",
+    "descrizione": "Meno consumi, minori emissioni e ambienti più efficienti e confortevoli per chi li frequenta ogni giorno.",
     "data": "2026-10-20T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1948,55 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "9bc5901f8139",
-    "titolo": "Al via l'anno scolastico",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-lanno-scolastico",
-    "descrizione": "Suona la prima campanella per gli studenti piemontesi. Lunedì 14 settembre prende ufficialmente il via l’anno scolastico 2026/2027 e, in occasione del primo giorno di scuola, il presidente della Regione Piemonte Alberto Cirio e gli assessori della Giunta regionale saranno presenti in diversi…",
-    "data": "2026-09-12T12:41:58+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "7c1146c9deb5",
-    "titolo": "Inaugurazione nuova via Roma pedonale, modifiche viabili. Chiusure per il parcheggio sotterraneo Castello - San Carlo - Roma",
-    "link": "https://www.comune.torino.it/novita/comunicati/inaugurazione-nuova-via-roma-pedonale-modifiche-viabili-chiusure-per-parcheggio",
-    "descrizione": "Sabato 12 settembre si terrà la festa di inaugurazione della nuova via Roma, con un ricco programma di eventi dalle 18.30 fino a tarda sera",
-    "data": "2026-09-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8ac11659b600",
-    "titolo": "Intitolata piazzetta \"Fiorenzo Alfieri\"",
-    "link": "https://www.comune.torino.it/novita/comunicati/intitolata-piazzetta-fiorenzo-alfieri",
-    "descrizione": "La cerimonia con il ricordo da parte delle Istituzioni cittadine, lo scoprimento della targa, alla presenza degli ex sindaci Castellani e Chiamparino",
-    "data": "2026-09-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "aae2aca5497a",
-    "titolo": "Cantieri in città: chiude ponte Rossini, al via anche i lavori di Smat, Ireti, Iren e Italgas",
-    "link": "https://www.comune.torino.it/novita/comunicati/cantieri-citta-chiude-ponte-rossini-al-via-anche-lavori-smat-ireti-iren-italgas",
-    "descrizione": "Proseguono gli interventi di manutenzione e ammodernamento delle infrastrutture cittadine.",
-    "data": "2026-09-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "52e69cada381",
-    "titolo": "Tirocinio curriculare a ITER",
-    "link": "https://www.comune.torino.it/novita/notizie/tirocinio-curriculare-iter",
-    "descrizione": "Tirocinio curriculare in ambito educativo e pedagogico presso ITER",
-    "data": "2026-09-11T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
