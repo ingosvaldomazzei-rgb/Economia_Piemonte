@@ -10,6 +10,66 @@
     "colore": "#dc2626"
   },
   {
+    "id": "957db51bc808",
+    "titolo": "Ex Ilva, dal tavolo congiunto Piemonte-Liguria un documento condiviso di 5 punti",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ex-ilva-dal-tavolo-congiunto-piemonte-liguria-un-documento-condiviso-5-punti",
+    "descrizione": "Si è svolto oggi, al Grattacielo Piemonte, con i rappresentanti di Regione Liguria in collegamento, il tavolo di confronto sul futuro dell’ ex Ilva , con particolare attenzione agli stabilimenti di Novi Ligure, Racconigi, Gattinara, Genova Cornigliano e Vado Ligure. …",
+    "data": "2026-10-21T17:06:40+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "c16b687b9280",
+    "titolo": "Maltempo in attenuazione: chiude la sala operativa della Protezione civile",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-attenuazione-chiude-sala-operativa-della-protezione-civile",
+    "descrizione": "La Sala operativa della Protezione civile della Regione Piemonte ha concluso alle ore 16 di oggi, 21 ottobre, le attività di monitoraggio avviate per seguire l'ondata di maltempo che ha interessato il territorio regionale tra il pomeriggio del 20 ottobre e la mattinata di oggi. La struttura ha…",
+    "data": "2026-10-21T17:05:22+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "fcbe4225c5cd",
+    "titolo": "La nuotatrice Anita Gastaldi premiata al Grattacielo",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuotatrice-anita-gastaldi-premiata-al-grattacielo",
+    "descrizione": "Lunedì l’assessore allo Sport della Regione Piemonte Paolo Bongioanni ha premiato al Grattacielo la nuotatrice piemontese Anita Gastaldi. Nata a Bra (Cn) il 27 maggio 2003, Anita Gastaldi si mette in luce nel 2023 ai Giochi mondiali universitari di…",
+    "data": "2026-10-21T14:35:25+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "a8e7c2ad327c",
+    "titolo": "Il Piemonte al Festival delle Regioni",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-festival-delle-regioni",
+    "descrizione": "La Regione Piemonte partecipa con un’ampia rappresentanza istituzionale alla quinta edizione del Festival delle Regioni e delle Province autonome, in programma a Firenze dal 25 al 27 ottobre 2026…",
+    "data": "2026-10-21T13:38:50+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "cb12dcbcc870",
+    "titolo": "Nasce Silver Housing Massaua. Nuovi spazi per l’autonomia degli anziani non autosufficienti",
+    "link": "https://www.comune.torino.it/novita/comunicati/nasce-silver-housing-massaua-nuovi-spazi-per-lautonomia-degli-anziani-non",
+    "descrizione": "È stato inaugurato questo pomeriggio il nuovo progetto abitativo rivolto ad anziani non autosufficienti.",
+    "data": "2026-10-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "924936313a2f",
+    "titolo": "Sotto18+ Film Festival: programma scuole",
+    "link": "https://www.comune.torino.it/novita/notizie/sotto18-film-festival-programma-scuole",
+    "descrizione": "16 novembre – 21 dicembre 2026: proiezioni, gli appuntamenti e le attività didattiche per le scuole nell'ambito del Sotto18 Film festival",
+    "data": "2026-10-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "0862ac3061b4",
     "titolo": "Sistema neve, nasce un tavolo tecnico per il futuro delle stazioni del VCO",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sistema-neve-nasce-un-tavolo-tecnico-per-futuro-delle-stazioni-vco",
@@ -20,9 +80,29 @@
     "colore": "#2563eb"
   },
   {
+    "id": "f2ab6478d587",
+    "titolo": "Sistema neve, un tavolo tecnico per il futuro delle stazioni del VCO",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sistema-neve-un-tavolo-tecnico-per-futuro-delle-stazioni-vco",
+    "descrizione": "Si è svolto martedì 20 ottobre al Grattacielo della Regione un incontro dedicato al futuro delle stazioni sciistiche del Verbano Cusio Ossola. Erano presenti il presidente della Regione Alberto Cirio, l’assessore al Sistema neve Marco Gallo, l’assessore…",
+    "data": "2026-10-20T18:35:06+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "33a183e97346",
     "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile-della-regione-piemonte",
+    "descrizione": "La Regione Piemonte ha aperto la Sala operativa della Protezione civile nella sede di corso Marche a Torino in seguito all'ultimo bollettino di allerta emesso da Arpa Piemonte alle 13 di martedì 20 ottobre, che segnala condizioni di criticità sul territorio regionale. La struttura sarà attiva…",
+    "data": "2026-10-20T16:43:24+02:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "7f95bbe9ead1",
+    "titolo": "Maltempo: aperta la sala operativa della Protezione civile",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile",
     "descrizione": "La Regione Piemonte ha aperto la Sala operativa della Protezione civile nella sede di corso Marche a Torino in seguito all'ultimo bollettino di allerta emesso da Arpa Piemonte alle 13 di martedì 20 ottobre, che segnala condizioni di criticità sul territorio regionale. La struttura sarà attiva…",
     "data": "2026-10-20T16:43:24+02:00",
     "fonte": "Regione Piemonte",
@@ -1918,85 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "761f291586ba",
-    "titolo": "Misure antismog a tutela della salute, in vigore le limitazioni strutturali",
-    "link": "https://www.comune.torino.it/novita/avvisi/misure-antismog-tutela-della-salute-vigore-limitazioni-strutturali",
-    "descrizione": "Da martedì 15 settembre tornano in vigore le limitazioni strutturali presenti nell'Ordinanza n.2537/2025",
-    "data": "2026-09-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8ed208ca5f34",
-    "titolo": "Comunicare con consapevolezza - nuovo ciclo",
-    "link": "https://www.comune.torino.it/novita/notizie/comunicare-consapevolezza-nuovo-ciclo",
-    "descrizione": "Percorso Formativo per volontari del Comune di Torino.",
-    "data": "2026-09-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f2f5f04da0ec",
-    "titolo": "Tra comunicazione, corpo e nuove forme di espressione",
-    "link": "https://www.comune.torino.it/novita/notizie/comunicazione-corpo-nuove-forme-espressione",
-    "descrizione": "Seminari gratuiti sulle nuove forme di comunicazione ed espressione nel mondo giovanile e sulle loro implicazioni.",
-    "data": "2026-09-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "afef50ec6932",
-    "titolo": "Sala Rossa: approvato ordine del giorno per la tutela degli operatori sanitari dalle aggressioni",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-approvato-ordine-giorno-per-tutela-degli-operatori-sanitari-dalle",
-    "descrizione": "L'atto chiede maggiore tutele all'interno dei pronto soccorso cittadini",
-    "data": "2026-09-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4f11b2d1164a",
-    "titolo": "Acqua pubblica, lotta agli sprechi e uso responsabile delle risorse idriche: un documento del Consiglio comunale",
-    "link": "https://www.comune.torino.it/novita/comunicati/acqua-pubblica-lotta-agli-sprechi-uso-responsabile-delle-risorse-idriche-un",
-    "descrizione": "Approvato in Sala Rossa un documento sul servizio idrico integrato, tra diritto all'acqua pubblica e lotta a sprechi e morosità colpevoli",
-    "data": "2026-09-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "9928d69c7a71",
-    "titolo": "La Sala Rossa ha ricordato Emma Bonino e Raffaele Costa",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-ha-ricordato-emma-bonino-raffaele-costa",
-    "descrizione": "Nel pomeriggio, il Consiglio comunale ha commemorato con un minuto di silenzio la recente scomparsa di Emma Bonino e Raffaele Costa.",
-    "data": "2026-09-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1409dabfa7d6",
-    "titolo": "Spettacoli viaggianti, il Consiglio comunale aggiorna Regolamento e aree cittadine",
-    "link": "https://www.comune.torino.it/novita/comunicati/spettacoli-viaggianti-consiglio-comunale-aggiorna-regolamento-aree-cittadine",
-    "descrizione": "Il Consiglio comunale ha approvato le modifiche al Regolamento n. 315 che disciplina le attività di spettacolo viaggiante, i circhi e le iniziative similari.",
-    "data": "2026-09-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b9ab35d63dac",
-    "titolo": "Dal 13 settembre riapre la Germagnano - Ceres",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dal-13-settembre-riapre-germagnano-ceres",
-    "descrizione": "Dopo oltre tre anni, il treno torna a Ceres. Da domenica 13 settembre riprende il servizio ferroviario sui 12 chilometri della tratta Germagnano-Ceres, completando così la riattivazione della ferrovia che collega Torino con l’aeroporto e con le Valli di Lanzo. La riapertura è stata…",
-    "data": "2026-09-12T21:11:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
