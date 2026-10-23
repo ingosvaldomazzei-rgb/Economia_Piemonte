@@ -19,12 +19,16 @@
       "conteggio": 16
     },
     {
-      "tema": "edilizia-opere-pubbliche",
+      "tema": "lavoro-occupazione",
       "conteggio": 14
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 14
+      "tema": "edilizia-opere-pubbliche",
+      "conteggio": 13
+    },
+    {
+      "tema": "sanita-regionale",
+      "conteggio": 12
     },
     {
       "tema": "universita-ricerca",
@@ -32,10 +36,6 @@
     },
     {
       "tema": "sport",
-      "conteggio": 11
-    },
-    {
-      "tema": "sanita-regionale",
       "conteggio": 11
     },
     {

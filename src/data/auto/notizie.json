@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "55f66aec1163",
+    "titolo": "Il maestro Eugenio Barba a Torino: tre appuntamenti da non perdere",
+    "link": "https://www.comune.torino.it/novita/notizie/maestro-eugenio-barba-torino-tre-appuntamenti-non-perdere",
+    "descrizione": "Dal 27 al 29 ottobre 2026, Il Mutamento Zona Castalia ETS celebra il novantesimo compleanno di Eugenio Barba, protagonista del teatro contemporaneo.",
+    "data": "2026-10-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "3159ba75003f",
+    "titolo": "Percorso formativo per genitori di preadolescenti e adolescenti",
+    "link": "https://www.comune.torino.it/novita/notizie/percorso-formativo-per-genitori-preadolescenti-adolescenti",
+    "descrizione": "Cinque incontri per orientarsi nelle sfide dell'adolescenza, acquisire strumenti utili e condividere dubbi, esperienze e strategie educative con altri genitori.",
+    "data": "2026-10-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "008ea6ca3d00",
     "titolo": "Giardino Maiocco: al via il ripristino della pavimentazione antitrauma dell’area giochi",
     "link": "https://www.comune.torino.it/novita/avvisi/giardino-maiocco-al-via-ripristino-della-pavimentazione-antitrauma-dellarea",
@@ -1974,26 +1994,6 @@
     "titolo": "Cascina Giajone, un nuovo presidio per Mirafiori Nord: inaugurato il PIÙ della Circoscrizione 2",
     "link": "https://www.comune.torino.it/novita/comunicati/cascina-giajone-un-nuovo-presidio-per-mirafiori-nord-inaugurato-piu-della",
     "descrizione": "Negli spazi dell’edificio settecentesco di via Guido Reni 102 è stato inaugurato il PIÙ della Circoscrizione 2.",
-    "data": "2026-09-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "862fbad1a5b4",
-    "titolo": "Tari 2026: sconti per i cantieri di lunga durata e agevolazioni per i quartieri più virtuosi nella differenziata",
-    "link": "https://www.comune.torino.it/novita/comunicati/tari-2026-sconti-per-cantieri-lunga-durata-agevolazioni-per-quartieri-piu",
-    "descrizione": "È il doppio intervento approvato oggi dalla Giunta Comunale, su proposta dell’assessora al Bilancio Gabriella Nardelli.",
-    "data": "2026-09-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f5c24555446f",
-    "titolo": "Arrivano a Torino gli “stalli rosa”: posti auto dedicati a donne in gravidanza e neogenitori",
-    "link": "https://www.comune.torino.it/novita/comunicati/arrivano-torino-stalli-rosa-posti-auto-dedicati-donne-gravidanza-neogenitori",
-    "descrizione": "La Città avvierà una sperimentazione della durata di 24 mesi nelle Circoscrizioni 4 e 7.",
     "data": "2026-09-15T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
