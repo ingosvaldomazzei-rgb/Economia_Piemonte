@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-10-23T11:23:34",
+  "ultimo_aggiornamento": "2026-10-23T17:05:27",
   "dati_piemonte": {
     "datasets_recenti": [],
     "tags_principali": [],
@@ -11,28 +11,28 @@
       "anno": 2026,
       "url": "https://servizi.comune.torino.it/consiglio/prg/documenti/documentazione/opendata/atti2026.csv",
       "disponibile": false,
-      "dimensione": "N/D"
+      "errore": "HTTPSConnectionPool(host='servizi.comune.torino.it', port=443): Max retries exceeded with url: /consiglio/prg/documenti/documentazione/opendata/atti2026.csv (Caused by ConnectTimeoutError(<HTTPSConnection(host='servizi.comune.torino.it', port=443) at 0x7fb939225290>, 'Connection to servizi.comune.torino.it timed out. (connect timeout=10)'))"
     },
     {
       "dataset": "votazioni",
       "anno": 2026,
       "url": "https://servizi.comune.torino.it/consiglio/prg/documenti/documentazione/opendata/votazioni2026.csv",
       "disponibile": false,
-      "dimensione": "N/D"
+      "errore": "HTTPSConnectionPool(host='servizi.comune.torino.it', port=443): Max retries exceeded with url: /consiglio/prg/documenti/documentazione/opendata/votazioni2026.csv (Caused by ConnectTimeoutError(<HTTPSConnection(host='servizi.comune.torino.it', port=443) at 0x7fb9392271d0>, 'Connection to servizi.comune.torino.it timed out. (connect timeout=10)'))"
     },
     {
       "dataset": "presenze",
       "anno": 2026,
       "url": "https://servizi.comune.torino.it/consiglio/prg/documenti/documentazione/opendata/presenze2026.csv",
       "disponibile": false,
-      "dimensione": "N/D"
+      "errore": "HTTPSConnectionPool(host='servizi.comune.torino.it', port=443): Max retries exceeded with url: /consiglio/prg/documenti/documentazione/opendata/presenze2026.csv (Caused by ConnectTimeoutError(<HTTPSConnection(host='servizi.comune.torino.it', port=443) at 0x7fb93921a4d0>, 'Connection to servizi.comune.torino.it timed out. (connect timeout=10)'))"
     },
     {
       "dataset": "sedute",
       "anno": 2026,
       "url": "https://servizi.comune.torino.it/consiglio/prg/documenti/documentazione/opendata/sedute2026.csv",
       "disponibile": false,
-      "dimensione": "N/D"
+      "errore": "HTTPSConnectionPool(host='servizi.comune.torino.it', port=443): Max retries exceeded with url: /consiglio/prg/documenti/documentazione/opendata/sedute2026.csv (Caused by ConnectTimeoutError(<HTTPSConnection(host='servizi.comune.torino.it', port=443) at 0x7fb939219890>, 'Connection to servizi.comune.torino.it timed out. (connect timeout=10)'))"
     }
   ]
 }
