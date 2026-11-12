@@ -10,10 +10,40 @@
     "colore": "#dc2626"
   },
   {
+    "id": "bc829934e7b1",
+    "titolo": "Nitto ATP Finals 2026: svelati i gironi, Cobolli sfida Alcaraz e Bolelli/Vavassori guidano il doppio",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-svelati-gironi-cobolli-sfida-alcaraz-bolellivavassori-guidano-doppio",
+    "descrizione": "La cerimonia di sorteggio delle Nitto ATP Finals 2026 si è conclusa nell'auditorium del Grattacielo Intesa Sanpaolo a Torino, alla presenza del Ministro dello Sport, Andrea Abodi. L'evento ha svelato ufficialmente i gironi di singolare e di doppio che…",
+    "data": "2026-11-12T15:14:44+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "9dd45e04cedd",
+    "titolo": "La Polizia Locale di Torino festeggia il 235° anniversario dalla fondazione del Corpo. Premiati gli agenti che si sono distinti nell’ultimo anno",
+    "link": "https://www.comune.torino.it/novita/comunicati/polizia-locale-torino-festeggia-235deg-anniversario-dalla-fondazione-corpo",
+    "descrizione": "Al Teatro Carignano la Polizia Locale ha festeggiato il 235° anniversario dalla fondazione del Corpo. Premiazione per gli agenti che si sono distinti nel 2026",
+    "data": "2026-11-12T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "d7c5bb011035",
     "titolo": "Allarme bomba nelle scuole, 463 segnalazioni in Piemonte. Il presidente Cirio: \"Vigili e pronti ad intervenire, domani scuole aperte\"",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allarme-bomba-nelle-scuole-463-segnalazioni-piemonte-presidente-cirio-vigili-pronti-ad-intervenire",
     "descrizione": "Si è svolto nel pomeriggio di oggi un incontro - su richiesta del presidente della Regione Piemonte Alberto Cirio - per fare il punto sull'allarme bomba che questa mattina ha coinvolto centinaia di scuole piemontesi e numerosi istituti nel resto d'Italia. Alla riunione…",
+    "data": "2026-11-11T19:15:26+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "9a679ac52346",
+    "titolo": "Allarme bomba nelle scuole, 463 segnalazioni in Piemonte.",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allarme-bomba-nelle-scuole-463-segnalazioni-piemonte",
+    "descrizione": "Si è svolto nel pomeriggio di mercoledì 11 novembre un incontro - su richiesta del presidente della Regione Piemonte Alberto Cirio - per fare il punto sull'allarme bomba che in mattinata ha coinvolto centinaia di scuole piemontesi e numerosi istituti nel resto d'Italia. …",
     "data": "2026-11-11T19:15:26+01:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
@@ -1964,36 +1994,6 @@
     "titolo": "Furto sul bus 18, agenti della Polizia Locale in borghese sorprendono e arrestano il borseggiatore",
     "link": "https://www.comune.torino.it/novita/comunicati/furto-sul-bus-18-agenti-della-polizia-locale-borghese-sorprendono-arrestano",
     "descrizione": "Gli agenti del Reparto Operativo Speciale della Polizia Locale di Torino lo hanno fermato, restituendo il maltolto.",
-    "data": "2026-10-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "d76377a189f3",
-    "titolo": "Al via le consulenze col Commercialista presso il PIU' di Palazzo Civico",
-    "link": "https://www.comune.torino.it/novita/avvisi/al-via-consulenze-col-commercialista-presso-piu-palazzo-civico",
-    "descrizione": "Sono aperte le prenotazioni per le consulenze di giovedì 8 ottobre 2026.",
-    "data": "2026-10-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "85f174cd80e4",
-    "titolo": "“Gioca alla Fiaba”, 20 spettacoli nei parchi e nei quartieri cittadini",
-    "link": "https://www.comune.torino.it/novita/notizie/gioca-alla-fiaba-20-spettacoli-nei-parchi-nei-quartieri-cittadini",
-    "descrizione": "“Gioca alla Fiaba – Il viaggio di Pinocchio”, un’iniziativa diffusa su tutto il territorio cittadino rivolta alle bambine, ai bambini e alle loro famiglie",
-    "data": "2026-10-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6d80a7d0e6c8",
-    "titolo": "Concerto dei POOH (10 e 11 ottobre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-    "link": "https://www.comune.torino.it/novita/notizie/concerto-dei-pooh-10-11-ottobre-2026-presso-inalpi-arena-convocazione-per",
-    "descrizione": "ATTENZIONE - la convocazione si terrà alle ore 11.00",
     "data": "2026-10-01T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
