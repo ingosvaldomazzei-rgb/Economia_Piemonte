@@ -1,6 +1,26 @@
 {
-  "ultimo_aggiornamento": "2026-11-11T14:07:43.391601+00:00",
+  "ultimo_aggiornamento": "2026-11-12T00:21:26.641457+00:00",
   "sedute": [
+    {
+      "id": "e59f11a48e25",
+      "tipo": "seduta",
+      "numero": "116",
+      "titolo": "Seduta n. 116 del 10/11/2026",
+      "data": "2026-11-10T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=116&data_seduta=10-11-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
+    {
+      "id": "494c46751df1",
+      "tipo": "seduta",
+      "numero": "115",
+      "titolo": "Seduta n. 115 del 03/11/2026",
+      "data": "2026-11-03T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=115&data_seduta=03-11-2026",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89474&nome_file=Sintesi%20n.%20115_3novembre2026.pdf&tipo=sintesi",
+      "sintesi_testo": ""
+    },
     {
       "id": "6d47a8ca23ad",
       "tipo": "seduta",
@@ -8,7 +28,7 @@
       "titolo": "Seduta n. 114 del 27/10/2026",
       "data": "2026-10-27T00:00:00+00:00",
       "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=114&data_seduta=27-10-2026",
-      "sintesi_url": "",
+      "sintesi_url": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/download.php?num_seduta=89462&nome_file=Sintesi%20n.%20114_27ottobre2026.pdf&tipo=sintesi",
       "sintesi_testo": ""
     },
     {
@@ -2247,9 +2267,9 @@
     }
   ],
   "statistiche": {
-    "totale_sedute": 44,
-    "totale_interrogazioni": 100,
-    "totale_interpellanze": 0,
+    "totale_sedute": 46,
+    "totale_interrogazioni": 199,
+    "totale_interpellanze": 1,
     "totale_mozioni": 2,
     "totale_odg": 98,
     "mozioni_approvate": 59,
