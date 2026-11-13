@@ -10,6 +10,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "cb29dbd11d85",
+    "titolo": "Pro Loco, aperto il bando per i contributi",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/pro-loco-aperto-bando-per-contributi",
+    "descrizione": "È aperto da oggi, venerdì 13 novembre, sino alle 12 del 4 dicembre il bando che assegna alle Pro Loco piemontesi il contributo della Regione per le attività svolte nel corso dell’anno 2026. Il bando ha una dotazione di € 586.000,00…",
+    "data": "2026-11-13T13:11:31+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "840f08b1a56a",
+    "titolo": "Inaugurate Casa Tennis e Casa Gusto 2026",
+    "link": "https://www.comune.torino.it/novita/comunicati/inaugurate-casa-tennis-casa-gusto-2026",
+    "descrizione": "L'atmosfera delle Nitto ATP Finals è entrata nel vivo questa mattina con l'inaugurazione ufficiale degli spazi di animazione diffusa in piazza Castello",
+    "data": "2026-11-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "bc829934e7b1",
     "titolo": "Nitto ATP Finals 2026: svelati i gironi, Cobolli sfida Alcaraz e Bolelli/Vavassori guidano il doppio",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-svelati-gironi-cobolli-sfida-alcaraz-bolellivavassori-guidano-doppio",
@@ -51,7 +71,7 @@
   },
   {
     "id": "9a679ac52346",
-    "titolo": "Allarme bomba nelle scuole, 463 segnalazioni in Piemonte.",
+    "titolo": "Allarme bomba nelle scuole, 463 segnalazioni in Piemonte",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allarme-bomba-nelle-scuole-463-segnalazioni-piemonte",
     "descrizione": "Si è svolto nel pomeriggio di mercoledì 11 novembre un incontro - su richiesta del presidente della Regione Piemonte Alberto Cirio - per fare il punto sull'allarme bomba che in mattinata ha coinvolto centinaia di scuole piemontesi e numerosi istituti nel resto d'Italia. …",
     "data": "2026-11-11T19:15:26+01:00",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "ca413492a4b5",
-    "titolo": "WIEW Conference 2026, Hollywood a Torino",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/wiew-conference-2026-hollywood-torino",
-    "descrizione": "Premi Oscar, registi dei film d’animazione più amati, supervisori degli effetti visivi dei blockbuster più attesi della stagione, creatori e sceneggiatori dei videogiochi che hanno fatto la storia recente del gaming,…",
-    "data": "2026-10-01T15:28:22+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "8bd382ac3d1f",
-    "titolo": "Crescere in Città festeggia 30 anni. Domani, 2 ottobre, una giornata tra laboratori, gioco e confronto sull'educazione",
-    "link": "https://www.comune.torino.it/novita/comunicati/crescere-citta-festeggia-30-anni-domani-2-ottobre-una-giornata-laboratori-gioco",
-    "descrizione": "Torino celebra i 30 anni del Catalogo Crescere in Città, lo storico strumento educativo della Città di Torino e di ITER.",
-    "data": "2026-10-01T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]

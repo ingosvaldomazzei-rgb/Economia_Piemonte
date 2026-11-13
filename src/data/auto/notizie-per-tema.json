@@ -1,4 +1,158 @@
 {
+  "sport": [
+    {
+      "id": "840f08b1a56a",
+      "titolo": "Inaugurate Casa Tennis e Casa Gusto 2026",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurate-casa-tennis-casa-gusto-2026",
+      "data": "2026-11-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bc829934e7b1",
+      "titolo": "Nitto ATP Finals 2026: svelati i gironi, Cobolli sfida Alcaraz e Bolelli/Vavassori guidano il doppio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-svelati-gironi-cobolli-sfida-alcaraz-bolellivavassori-guidano-doppio",
+      "data": "2026-11-12T15:14:44+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4a5c9705bbea",
+      "titolo": "Nitto ATP Finals 2026: Torino e il Piemonte si preparano alla grande festa del tennis",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-torino-piemonte-si-preparano-alla-grande-festa-tennis",
+      "data": "2026-11-11T14:49:58+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7365df8c26d7",
+      "titolo": "Nitto ATP Finals, inaugurato il Fan Village. Il trofeo arriva a Palazzo Civico",
+      "link": "https://www.comune.torino.it/novita/comunicati/nitto-atp-finals-inaugurato-fan-village-trofeo-arriva-palazzo-civico",
+      "data": "2026-11-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fef01612be14",
+      "titolo": "Il Mio Dj: il tram diventa un club itinerante per le Nitto ATP Finals. Samuel alla direzione artistica e una line-up che riunisce alcuni protagonisti della scena elettronica italiana, tra corse musicali e dj set",
+      "link": "https://www.comune.torino.it/novita/comunicati/mio-dj-tram-diventa-un-club-itinerante-per-nitto-atp-finals-samuel-alla",
+      "data": "2026-11-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ff3d55a82e5b",
+      "titolo": "All'aeroporto di Torino apre il primo official store dedicato alla città e al suo city brand",
+      "link": "https://www.comune.torino.it/novita/comunicati/allaeroporto-torino-apre-primo-official-store-dedicato-alla-citta-al-suo-city",
+      "data": "2026-11-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "30aa72a52a1f",
+      "titolo": "Nitto ATP Finals 2026: modifiche alla viabilità intorno allo Stadio Olimpico e in altre aree della città",
+      "link": "https://www.comune.torino.it/novita/comunicati/nitto-atp-finals-2026-modifiche-alla-viabilita-intorno-allo-stadio-olimpico",
+      "data": "2026-11-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1290b15351f7",
+      "titolo": "Incontro con il Console Generale della Repubblica Popolare di Cina Chenggang Zang",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-console-generale-della-repubblica-popolare-cina-chenggang-zang",
+      "data": "2026-11-06T18:00:00+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6d448a8d4b88",
+      "titolo": "IL SET PERFETTO. Dieci giorni sotto rete per innamorarsi di Torino e del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/set-perfetto-dieci-giorni-sotto-rete-per-innamorarsi-torino-piemonte",
+      "data": "2026-11-01T16:18:29+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b3966324b156",
+      "titolo": "Agricoltura, 8 milioni al Piemonte per abbattere i costi del gasolio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-8-milioni-al-piemonte-per-abbattere-costi-gasolio",
+      "data": "2026-10-28T15:50:05+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "762dd34a8865",
+      "titolo": "400mila euro per la riqualificazione dell’impianto sportivo Regaldi e dei campi da calcio Ruffini",
+      "link": "https://www.comune.torino.it/novita/comunicati/400mila-euro-per-riqualificazione-dellimpianto-sportivo-regaldi-dei-campi-calcio",
+      "data": "2026-10-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "83d75248b4b2",
+      "titolo": "Sport, 8 nuovi bandi per oltre 3,5 milioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sport-8-nuovi-bandi-per-oltre-35-milioni",
+      "data": "2026-10-26T20:00:41+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "fcbe4225c5cd",
+      "titolo": "La nuotatrice Anita Gastaldi premiata al Grattacielo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuotatrice-anita-gastaldi-premiata-al-grattacielo",
+      "data": "2026-10-21T14:35:25+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "747447227cd0",
+      "titolo": "\"Pass60\" si amplia e diventa \"dai60\": cinque anni di opportunità culturali, sportive e ricreative per i torinesi dai 60 ai 64 anni",
+      "link": "https://www.comune.torino.it/novita/comunicati/pass60-si-amplia-diventa-dai60-cinque-anni-opportunita-culturali-sportive",
+      "data": "2026-10-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7c1d19e365a3",
+      "titolo": "Grand Opening Show Nitto ATP Finals 2026 - Achille Lauro in concerto (12 novembre 2026). Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita nei pressi dell'Inalpi Arena",
+      "link": "https://www.comune.torino.it/novita/notizie/grand-opening-show-nitto-atp-finals-2026-achille-lauro-concerto-12-novembre-2026",
+      "data": "2026-10-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "71dcac77e19c",
+      "titolo": "NITTO ATP FINALS 2026 (15-22 novembre 2026) - bando comunale per il rilascio di concessioni occupazione temporanea del suolo pubblico per attività di vendita in occasione della manifestazione sportiva",
+      "link": "https://www.comune.torino.it/novita/notizie/nitto-atp-finals-2026-15-22-novembre-2026-bando-comunale-per-rilascio",
+      "data": "2026-10-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b818bee21b03",
+      "titolo": "Controllo di un autotrasportatore dopo un incidente, scattano sanzioni per oltre 15 mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/controllo-un-autotrasportatore-dopo-un-incidente-scattano-sanzioni-per-oltre-15",
+      "data": "2026-10-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "dd7acc9b545f",
+      "titolo": "Concerto di LAURA PAUSINI (17 e 18 ottobre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/concerto-laura-pausini-17-18-ottobre-2026-presso-inalpi-arena-convocazione-per",
+      "data": "2026-10-08T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5e5439f6d2b6",
+      "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
+      "data": "2026-10-01T16:40:26+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "lavoro-occupazione": [
     {
       "id": "bc829934e7b1",
@@ -159,152 +313,6 @@
       "data": "2026-10-02T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "sport": [
-    {
-      "id": "bc829934e7b1",
-      "titolo": "Nitto ATP Finals 2026: svelati i gironi, Cobolli sfida Alcaraz e Bolelli/Vavassori guidano il doppio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-svelati-gironi-cobolli-sfida-alcaraz-bolellivavassori-guidano-doppio",
-      "data": "2026-11-12T15:14:44+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4a5c9705bbea",
-      "titolo": "Nitto ATP Finals 2026: Torino e il Piemonte si preparano alla grande festa del tennis",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-torino-piemonte-si-preparano-alla-grande-festa-tennis",
-      "data": "2026-11-11T14:49:58+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7365df8c26d7",
-      "titolo": "Nitto ATP Finals, inaugurato il Fan Village. Il trofeo arriva a Palazzo Civico",
-      "link": "https://www.comune.torino.it/novita/comunicati/nitto-atp-finals-inaugurato-fan-village-trofeo-arriva-palazzo-civico",
-      "data": "2026-11-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fef01612be14",
-      "titolo": "Il Mio Dj: il tram diventa un club itinerante per le Nitto ATP Finals. Samuel alla direzione artistica e una line-up che riunisce alcuni protagonisti della scena elettronica italiana, tra corse musicali e dj set",
-      "link": "https://www.comune.torino.it/novita/comunicati/mio-dj-tram-diventa-un-club-itinerante-per-nitto-atp-finals-samuel-alla",
-      "data": "2026-11-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ff3d55a82e5b",
-      "titolo": "All'aeroporto di Torino apre il primo official store dedicato alla città e al suo city brand",
-      "link": "https://www.comune.torino.it/novita/comunicati/allaeroporto-torino-apre-primo-official-store-dedicato-alla-citta-al-suo-city",
-      "data": "2026-11-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "30aa72a52a1f",
-      "titolo": "Nitto ATP Finals 2026: modifiche alla viabilità intorno allo Stadio Olimpico e in altre aree della città",
-      "link": "https://www.comune.torino.it/novita/comunicati/nitto-atp-finals-2026-modifiche-alla-viabilita-intorno-allo-stadio-olimpico",
-      "data": "2026-11-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1290b15351f7",
-      "titolo": "Incontro con il Console Generale della Repubblica Popolare di Cina Chenggang Zang",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-console-generale-della-repubblica-popolare-cina-chenggang-zang",
-      "data": "2026-11-06T18:00:00+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6d448a8d4b88",
-      "titolo": "IL SET PERFETTO. Dieci giorni sotto rete per innamorarsi di Torino e del Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/set-perfetto-dieci-giorni-sotto-rete-per-innamorarsi-torino-piemonte",
-      "data": "2026-11-01T16:18:29+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b3966324b156",
-      "titolo": "Agricoltura, 8 milioni al Piemonte per abbattere i costi del gasolio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-8-milioni-al-piemonte-per-abbattere-costi-gasolio",
-      "data": "2026-10-28T15:50:05+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "762dd34a8865",
-      "titolo": "400mila euro per la riqualificazione dell’impianto sportivo Regaldi e dei campi da calcio Ruffini",
-      "link": "https://www.comune.torino.it/novita/comunicati/400mila-euro-per-riqualificazione-dellimpianto-sportivo-regaldi-dei-campi-calcio",
-      "data": "2026-10-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "83d75248b4b2",
-      "titolo": "Sport, 8 nuovi bandi per oltre 3,5 milioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sport-8-nuovi-bandi-per-oltre-35-milioni",
-      "data": "2026-10-26T20:00:41+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "fcbe4225c5cd",
-      "titolo": "La nuotatrice Anita Gastaldi premiata al Grattacielo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuotatrice-anita-gastaldi-premiata-al-grattacielo",
-      "data": "2026-10-21T14:35:25+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "747447227cd0",
-      "titolo": "\"Pass60\" si amplia e diventa \"dai60\": cinque anni di opportunità culturali, sportive e ricreative per i torinesi dai 60 ai 64 anni",
-      "link": "https://www.comune.torino.it/novita/comunicati/pass60-si-amplia-diventa-dai60-cinque-anni-opportunita-culturali-sportive",
-      "data": "2026-10-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7c1d19e365a3",
-      "titolo": "Grand Opening Show Nitto ATP Finals 2026 - Achille Lauro in concerto (12 novembre 2026). Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita nei pressi dell'Inalpi Arena",
-      "link": "https://www.comune.torino.it/novita/notizie/grand-opening-show-nitto-atp-finals-2026-achille-lauro-concerto-12-novembre-2026",
-      "data": "2026-10-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "71dcac77e19c",
-      "titolo": "NITTO ATP FINALS 2026 (15-22 novembre 2026) - bando comunale per il rilascio di concessioni occupazione temporanea del suolo pubblico per attività di vendita in occasione della manifestazione sportiva",
-      "link": "https://www.comune.torino.it/novita/notizie/nitto-atp-finals-2026-15-22-novembre-2026-bando-comunale-per-rilascio",
-      "data": "2026-10-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b818bee21b03",
-      "titolo": "Controllo di un autotrasportatore dopo un incidente, scattano sanzioni per oltre 15 mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/controllo-un-autotrasportatore-dopo-un-incidente-scattano-sanzioni-per-oltre-15",
-      "data": "2026-10-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "dd7acc9b545f",
-      "titolo": "Concerto di LAURA PAUSINI (17 e 18 ottobre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/concerto-laura-pausini-17-18-ottobre-2026-presso-inalpi-arena-convocazione-per",
-      "data": "2026-10-08T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5e5439f6d2b6",
-      "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
-      "data": "2026-10-01T16:40:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "cultura-beni-culturali": [
@@ -480,7 +488,7 @@
     },
     {
       "id": "9a679ac52346",
-      "titolo": "Allarme bomba nelle scuole, 463 segnalazioni in Piemonte.",
+      "titolo": "Allarme bomba nelle scuole, 463 segnalazioni in Piemonte",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/allarme-bomba-nelle-scuole-463-segnalazioni-piemonte",
       "data": "2026-11-11T19:15:26+01:00",
       "fonte": "Regione Piemonte",
