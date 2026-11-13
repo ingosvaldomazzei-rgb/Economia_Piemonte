@@ -143,17 +143,17 @@
       "data": "2026-10-08T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5e5439f6d2b6",
-      "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
-      "data": "2026-10-01T16:40:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "lavoro-occupazione": [
+    {
+      "id": "d7d5c891614f",
+      "titolo": "Cavalcaferrovia di corso Siracusa, da lunedì 16 novembre nuova fase di lavoro. In corso Mortara intervento sulla rete di teleriscaldamento: cambia la viabilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/cavalcaferrovia-corso-siracusa-lunedi-16-novembre-nuova-fase-lavoro-corso",
+      "data": "2026-11-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
     {
       "id": "bc829934e7b1",
       "titolo": "Nitto ATP Finals 2026: svelati i gironi, Cobolli sfida Alcaraz e Bolelli/Vavassori guidano il doppio",
@@ -303,14 +303,6 @@
       "titolo": "La Sala Rossa modifica il regolamento sulle nomine",
       "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-modifica-regolamento-sulle-nomine",
       "data": "2026-10-05T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b74792185c30",
-      "titolo": "Via Genova si rinnova: al termine dei lavori circa 130 nuovi posti auto",
-      "link": "https://www.comune.torino.it/novita/comunicati/via-genova-si-rinnova-al-termine-dei-lavori-circa-130-nuovi-posti-auto",
-      "data": "2026-10-02T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -729,14 +721,6 @@
       "data": "2026-10-02T13:04:47+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "5e5439f6d2b6",
-      "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
-      "data": "2026-10-01T16:40:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sanita-regionale": [
@@ -865,14 +849,6 @@
       "data": "2026-10-02T13:04:47+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "5e5439f6d2b6",
-      "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
-      "data": "2026-10-01T16:40:26+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "turismo": [
@@ -945,14 +921,6 @@
       "titolo": "Il Piemonte al TTG 2026. Un ricco palinsesto di eventi dedicato alla sostenibilità, all’outdoor, alla cultura e all’enogastronomia",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-ttg-2026-un-ricco-palinsesto-eventi-dedicato-alla-sostenibilita-alloutdoor-alla-cultura",
       "data": "2026-10-13T14:11:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5e5439f6d2b6",
-      "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
-      "data": "2026-10-01T16:40:26+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -1611,14 +1579,6 @@
       "titolo": "Sistema neve, un tavolo tecnico per il futuro delle stazioni del VCO",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sistema-neve-un-tavolo-tecnico-per-futuro-delle-stazioni-vco",
       "data": "2026-10-20T18:35:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5e5439f6d2b6",
-      "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
-      "data": "2026-10-01T16:40:26+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }

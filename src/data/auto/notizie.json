@@ -30,6 +30,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "d7d5c891614f",
+    "titolo": "Cavalcaferrovia di corso Siracusa, da lunedì 16 novembre nuova fase di lavoro. In corso Mortara intervento sulla rete di teleriscaldamento: cambia la viabilità",
+    "link": "https://www.comune.torino.it/novita/comunicati/cavalcaferrovia-corso-siracusa-lunedi-16-novembre-nuova-fase-lavoro-corso",
+    "descrizione": "Entra in una nuova fase il cantiere sul cavalcaferrovia di corso Siracusa.",
+    "data": "2026-11-13T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "bc829934e7b1",
     "titolo": "Nitto ATP Finals 2026: svelati i gironi, Cobolli sfida Alcaraz e Bolelli/Vavassori guidano il doppio",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-svelati-gironi-cobolli-sfida-alcaraz-bolellivavassori-guidano-doppio",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "5e5439f6d2b6",
-    "titolo": "2 nuovi bandi per il turismo accessibile e per le strade storiche di montagna",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/2-nuovi-bandi-per-turismo-accessibile-per-strade-storiche-montagna",
-    "descrizione": "Sono pubblicati dal 1ottobre e resteranno aperti fino al 1° novembre i due nuovi bandi regionali voluti dall’assessore al Commercio, Agricoltura e Cibo, Turismo, Sport e Post-olimpico, Caccia e Pesca, Parchi della Regione Piemonte Paolo Bongioanni per una…",
-    "data": "2026-10-01T16:40:26+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
