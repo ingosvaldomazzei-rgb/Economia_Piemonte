@@ -1,5 +1,15 @@
 [
   {
+    "id": "1206a1cfc0fb",
+    "titolo": "Per un sistema idrico sostenibile entro il 2030",
+    "link": "https://www.comune.torino.it/novita/comunicati/per-un-sistema-idrico-sostenibile-entro-2030",
+    "descrizione": "Le nuove costruzioni si dotino di sistemi per la raccolta dell'acqua piovana da utilizzare per l'irrigazione",
+    "data": "2037-01-01T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "0bce8da1ac4e",
     "titolo": "Saldo IMU 2026",
     "link": "https://www.comune.torino.it/novita/avvisi/saldo-imu-2026",
@@ -8,6 +18,36 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "a2c0ec2b878f",
+    "titolo": "Patto per la lettura, primo incontro in Regione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/patto-per-lettura-primo-incontro-regione",
+    "descrizione": "Costruire una grande alleanza regionale per la lettura, capace di mettere in rete biblioteche, editori, librai, scuole, università, istituzioni e associazioni, valorizzando le esperienze già presenti sul territorio e creando nuove opportunità di accesso alla cultura. È questo l’obiettivo del…",
+    "data": "2026-11-16T16:13:11+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "7a7e5be5f644",
+    "titolo": "Fuori protocollo, oltre 100 iscritti al primo gruppo di lettura per dipendenti regionali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fuori-protocollo-oltre-100-iscritti-al-primo-gruppo-lettura-per-dipendenti-regionali",
+    "descrizione": "Circa 100 iscritti, tra partecipazione in presenza e da remoto, per il debutto di “Fuori Protocollo”, il primo gruppo di lettura in Italia dedicato ai dipendenti di un’amministrazione regionale. Un risultato che supera le aspettative iniziali e conferma il forte…",
+    "data": "2026-11-16T15:18:07+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "debff95265ca",
+    "titolo": "Montagna, il Piemonte investe per portare il segnale dove il mercato non arriva",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/montagna-piemonte-investe-per-portare-segnale-dove-mercato-non-arriva",
+    "descrizione": "La Regione Piemonte dà attuazione alla misura per il potenziamento delle infrastrutture digitali nei territori montani, approvando lo schema di Memorandum d’intesa con il Ministero delle Imprese e del Made in Italy (MIMIT). L’iniziativa nasce…",
+    "data": "2026-11-16T15:10:43+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "cb29dbd11d85",
@@ -43,6 +83,16 @@
     "id": "bc829934e7b1",
     "titolo": "Nitto ATP Finals 2026: svelati i gironi, Cobolli sfida Alcaraz e Bolelli/Vavassori guidano il doppio",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-svelati-gironi-cobolli-sfida-alcaraz-bolellivavassori-guidano-doppio",
+    "descrizione": "La cerimonia di sorteggio delle Nitto ATP Finals 2026 si è conclusa nell'auditorium del Grattacielo Intesa Sanpaolo a Torino, alla presenza del Ministro dello Sport, Andrea Abodi. L'evento ha svelato ufficialmente i gironi di singolare e di doppio che…",
+    "data": "2026-11-12T15:14:44+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "0a8b630be0da",
+    "titolo": "Nitto ATP Finals 2026, al via i primi incontri",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-al-via-primi-incontri",
     "descrizione": "La cerimonia di sorteggio delle Nitto ATP Finals 2026 si è conclusa nell'auditorium del Grattacielo Intesa Sanpaolo a Torino, alla presenza del Ministro dello Sport, Andrea Abodi. L'evento ha svelato ufficialmente i gironi di singolare e di doppio che…",
     "data": "2026-11-12T15:14:44+01:00",
     "fonte": "Regione Piemonte",
@@ -1945,56 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-modifica-regolamento-sulle-nomine",
     "descrizione": "Il Consiglio comunale ha approvato, questo pomeriggio, una delibera di iniziativa consiliare che modifica il Regolamento comunale n. 347",
     "data": "2026-10-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "55148895acf4",
-    "titolo": "Tartufi, al via la stagione delle fiere. Bando aperto, domande fino al 15 dicembre",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/tartufi-al-via-stagione-delle-fiere-bando-aperto-domande-fino-al-15-dicembre",
-    "descrizione": "Dal 2 ottobre è aperto il bando della Regione Piemonte per l’indennità destinata alla conservazione del patrimonio tartufigeno regionale. A disposizione 306.810 euro per sostenere la tutela delle piante di riconosciuta capacità produttiva di tartufo bianco pregiato. Le domande…",
-    "data": "2026-10-02T13:04:47+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "c9c555e11802",
-    "titolo": "Open Patti 2026, sabato 3 ottobre una giornata per conoscere i beni comuni della città",
-    "link": "https://www.comune.torino.it/novita/comunicati/open-patti-2026-sabato-3-ottobre-una-giornata-per-conoscere-beni-comuni-della",
-    "descrizione": "Domani, sabato 3 ottobre, torna l'appuntamento annuale con Open Patti, l'evento creato e organizzato dalla Città di Torino.",
-    "data": "2026-10-02T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "ccbeaff88ba9",
-    "titolo": "Chiusura temporanea dell'area giochi di piazza Mattirolo",
-    "link": "https://www.comune.torino.it/novita/avvisi/chiusura-temporanea-dellarea-giochi-piazza-mattirolo",
-    "descrizione": "Piazza Mattirolo: intervento di ripristino della pavimentazione dell'area giochi.",
-    "data": "2026-10-02T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "84f852e44cd6",
-    "titolo": "Torino Green, al via domani in via Carcano il mercato del riuso",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-green-al-via-domani-via-carcano-mercato-riuso",
-    "descrizione": "Al via domani, sabato 3 ottobre, in via Carcano 14/A, “Torino Green”, il nuovo mercato dedicato al riuso e alla vendita occasionale di beni usati tra privati.",
-    "data": "2026-10-02T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "b74792185c30",
-    "titolo": "Via Genova si rinnova: al termine dei lavori circa 130 nuovi posti auto",
-    "link": "https://www.comune.torino.it/novita/comunicati/via-genova-si-rinnova-al-termine-dei-lavori-circa-130-nuovi-posti-auto",
-    "descrizione": "Inizieranno lunedì 5 ottobre, in via Genova, i lavori di sistemazione del manto stradale nel tratto compreso tra corso Maroncelli e via Caduti del Lavoro.",
-    "data": "2026-10-02T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
