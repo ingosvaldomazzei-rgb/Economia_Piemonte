@@ -23,7 +23,7 @@
     "id": "a2c0ec2b878f",
     "titolo": "Patto per la lettura, primo incontro in Regione",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/patto-per-lettura-primo-incontro-regione",
-    "descrizione": "Costruire una grande alleanza regionale per la lettura, capace di mettere in rete biblioteche, editori, librai, scuole, università, istituzioni e associazioni, valorizzando le esperienze già presenti sul territorio e creando nuove opportunità di accesso alla cultura. È questo l’obiettivo del…",
+    "descrizione": "Costruire una grande alleanza regionale per la lettura, capace di mettere in rete biblioteche, editori, librai, scuole, università, istituzioni e associazioni, valorizzando le esperienze già presenti sul territorio e creando nuove opportunità di accesso alla cultura. È questo l’…",
     "data": "2026-11-16T16:13:11+01:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
@@ -48,6 +48,26 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
+  },
+  {
+    "id": "2e051e89f1f3",
+    "titolo": "“No alle mistificazioni sulla disforia di genere”",
+    "link": "https://www.comune.torino.it/novita/comunicati/no-alle-mistificazioni-sulla-disforia-genere",
+    "descrizione": "Approvato il 16 novembre 2026 un odg a prima firma Emanuele Busconi (AVS)",
+    "data": "2026-11-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9bf997bcc574",
+    "titolo": "Sicurezza urbana, un approccio integrato alle dipendenze e al reinserimento sociale",
+    "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-un-approccio-integrato-alle-dipendenze-al-reinserimento-sociale",
+    "descrizione": "Il Consiglio comunale ha approvato una mozione per un modello innovativo sicurezza urbana integrata",
+    "data": "2026-11-16T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
   },
   {
     "id": "cb29dbd11d85",
@@ -1974,26 +1994,6 @@
     "titolo": "Armonia Card",
     "link": "https://www.comune.torino.it/novita/notizie/armonia-card",
     "descrizione": "Il carnet digitale che ti permette di assistere ad un trio di spettacoli nei teatri torinesi.",
-    "data": "2026-10-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c1f405306404",
-    "titolo": "Metro 1, completare la tratta Fermi-Cascina Vica",
-    "link": "https://www.comune.torino.it/novita/comunicati/metro-1-completare-tratta-fermi-cascina-vica",
-    "descrizione": "Approvato all'unanimità un ordine del giorno (prima firmataria: Ludovica Cioria - PD)",
-    "data": "2026-10-05T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4be12549cdf1",
-    "titolo": "La Sala Rossa modifica il regolamento sulle nomine",
-    "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-modifica-regolamento-sulle-nomine",
-    "descrizione": "Il Consiglio comunale ha approvato, questo pomeriggio, una delibera di iniziativa consiliare che modifica il Regolamento comunale n. 347",
     "data": "2026-10-05T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

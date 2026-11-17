@@ -723,6 +723,128 @@
       "fonte_id": "regione"
     }
   ],
+  "sociale-welfare": [
+    {
+      "id": "9bf997bcc574",
+      "titolo": "Sicurezza urbana, un approccio integrato alle dipendenze e al reinserimento sociale",
+      "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-un-approccio-integrato-alle-dipendenze-al-reinserimento-sociale",
+      "data": "2026-11-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7fc683200887",
+      "titolo": "Vendita abusiva di giocattoli davanti a una scuola: sanzione e sequestro",
+      "link": "https://www.comune.torino.it/novita/comunicati/vendita-abusiva-giocattoli-davanti-una-scuola-sanzione-sequestro",
+      "data": "2026-11-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ebfd5c498138",
+      "titolo": "Assistenza agli anziani, il Piemonte sperimenta un nuovo modello",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/assistenza-agli-anziani-piemonte-sperimenta-un-nuovo-modello",
+      "data": "2026-10-30T17:09:07+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9f81cfe9487e",
+      "titolo": "7,7 milioni per le scuole dell'infanzia paritarie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/77-milioni-per-scuole-dellinfanzia-paritarie",
+      "data": "2026-10-27T16:27:20+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a713edc6c105",
+      "titolo": "Invest in Piemonte riunisce 70 multinazionali estere",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/invest-piemonte-riunisce-70-multinazionali-estere",
+      "data": "2026-10-22T20:00:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cb12dcbcc870",
+      "titolo": "Nasce Silver Housing Massaua. Nuovi spazi per l’autonomia degli anziani non autosufficienti",
+      "link": "https://www.comune.torino.it/novita/comunicati/nasce-silver-housing-massaua-nuovi-spazi-per-lautonomia-degli-anziani-non",
+      "data": "2026-10-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a5603f4d980b",
+      "titolo": "Diabete, screening e accesso alle cure per le persone in condizioni di grave marginalità",
+      "link": "https://www.comune.torino.it/novita/comunicati/diabete-screening-accesso-alle-cure-per-persone-condizioni-grave-marginalita",
+      "data": "2026-10-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "dbf171d45ec1",
+      "titolo": "Efficientamento energetico per tre edifici comunali: approvati lavori per 861mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-per-tre-edifici-comunali-approvati-lavori-per-861mila",
+      "data": "2026-10-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5595bea5f254",
+      "titolo": "Laboratorio gratuito di Teatro d'ombre",
+      "link": "https://www.comune.torino.it/novita/notizie/laboratorio-gratuito-teatro-dombre",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "00056a72b0ff",
+      "titolo": "La Sala Rossa per il contrasto alla solitudine",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-per-contrasto-alla-solitudine",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2316eb63ec85",
+      "titolo": "Sala Rossa: un assistente di condominio in tutte le Circoscrizioni",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-un-assistente-condominio-tutte-circoscrizioni",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ba6c588e4668",
+      "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
+      "data": "2026-10-14T17:07:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d760b7cc73fb",
+      "titolo": "Progetto Prisma, nuove azioni per l’autonomia e l’inclusione delle persone con disabilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/progetto-prisma-nuove-azioni-per-lautonomia-linclusione-delle-persone-disabilita",
+      "data": "2026-10-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "36f6efede3db",
+      "titolo": "“Spazio Comune” cresce. Nasce il tavolo partecipativo con il terzo settore per l’accoglienza e l’inclusione",
+      "link": "https://www.comune.torino.it/novita/comunicati/spazio-comune-cresce-nasce-tavolo-partecipativo-terzo-settore-per-laccoglienza",
+      "data": "2026-10-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "8000919e5e42",
+      "titolo": "Fino a 130mila euro per creare un’impresa: Torino lancia “Incubatori per l’inclusione”",
+      "link": "https://www.comune.torino.it/novita/comunicati/fino-130mila-euro-per-creare-unimpresa-torino-lancia-incubatori-per-linclusione",
+      "data": "2026-10-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
   "sport": [
     {
       "id": "840f08b1a56a",
@@ -1181,120 +1303,6 @@
       "data": "2026-10-13T14:11:27+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    }
-  ],
-  "sociale-welfare": [
-    {
-      "id": "7fc683200887",
-      "titolo": "Vendita abusiva di giocattoli davanti a una scuola: sanzione e sequestro",
-      "link": "https://www.comune.torino.it/novita/comunicati/vendita-abusiva-giocattoli-davanti-una-scuola-sanzione-sequestro",
-      "data": "2026-11-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ebfd5c498138",
-      "titolo": "Assistenza agli anziani, il Piemonte sperimenta un nuovo modello",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/assistenza-agli-anziani-piemonte-sperimenta-un-nuovo-modello",
-      "data": "2026-10-30T17:09:07+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9f81cfe9487e",
-      "titolo": "7,7 milioni per le scuole dell'infanzia paritarie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/77-milioni-per-scuole-dellinfanzia-paritarie",
-      "data": "2026-10-27T16:27:20+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a713edc6c105",
-      "titolo": "Invest in Piemonte riunisce 70 multinazionali estere",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/invest-piemonte-riunisce-70-multinazionali-estere",
-      "data": "2026-10-22T20:00:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cb12dcbcc870",
-      "titolo": "Nasce Silver Housing Massaua. Nuovi spazi per l’autonomia degli anziani non autosufficienti",
-      "link": "https://www.comune.torino.it/novita/comunicati/nasce-silver-housing-massaua-nuovi-spazi-per-lautonomia-degli-anziani-non",
-      "data": "2026-10-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a5603f4d980b",
-      "titolo": "Diabete, screening e accesso alle cure per le persone in condizioni di grave marginalità",
-      "link": "https://www.comune.torino.it/novita/comunicati/diabete-screening-accesso-alle-cure-per-persone-condizioni-grave-marginalita",
-      "data": "2026-10-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "dbf171d45ec1",
-      "titolo": "Efficientamento energetico per tre edifici comunali: approvati lavori per 861mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-per-tre-edifici-comunali-approvati-lavori-per-861mila",
-      "data": "2026-10-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5595bea5f254",
-      "titolo": "Laboratorio gratuito di Teatro d'ombre",
-      "link": "https://www.comune.torino.it/novita/notizie/laboratorio-gratuito-teatro-dombre",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "00056a72b0ff",
-      "titolo": "La Sala Rossa per il contrasto alla solitudine",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-per-contrasto-alla-solitudine",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2316eb63ec85",
-      "titolo": "Sala Rossa: un assistente di condominio in tutte le Circoscrizioni",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-un-assistente-condominio-tutte-circoscrizioni",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ba6c588e4668",
-      "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
-      "data": "2026-10-14T17:07:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d760b7cc73fb",
-      "titolo": "Progetto Prisma, nuove azioni per l’autonomia e l’inclusione delle persone con disabilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/progetto-prisma-nuove-azioni-per-lautonomia-linclusione-delle-persone-disabilita",
-      "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "36f6efede3db",
-      "titolo": "“Spazio Comune” cresce. Nasce il tavolo partecipativo con il terzo settore per l’accoglienza e l’inclusione",
-      "link": "https://www.comune.torino.it/novita/comunicati/spazio-comune-cresce-nasce-tavolo-partecipativo-terzo-settore-per-laccoglienza",
-      "data": "2026-10-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "8000919e5e42",
-      "titolo": "Fino a 130mila euro per creare un’impresa: Torino lancia “Incubatori per l’inclusione”",
-      "link": "https://www.comune.torino.it/novita/comunicati/fino-130mila-euro-per-creare-unimpresa-torino-lancia-incubatori-per-linclusione",
-      "data": "2026-10-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "giovani": [
