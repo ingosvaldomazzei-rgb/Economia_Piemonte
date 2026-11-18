@@ -30,6 +30,66 @@
     "colore": "#dc2626"
   },
   {
+    "id": "5344f986c78b",
+    "titolo": "Spazi pubblici dedicati al ricordo di Germana Erba, Emma Strada e Vincenza Castria",
+    "link": "https://www.comune.torino.it/novita/comunicati/spazi-pubblici-dedicati-al-ricordo-germana-erba-emma-strada-vincenza-castria",
+    "descrizione": "Spazi pubblici intitolati a tre donne distintesi nei campi dell'arte, della scienza e dell'impegno sociale: Germana Erba, Emma Strada e Vincenza Castria",
+    "data": "2026-11-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "c15153c13826",
+    "titolo": "Torino aggiorna il regolamento su suolo pubblico e pubblicità: più semplificazioni dal 2027",
+    "link": "https://www.comune.torino.it/novita/comunicati/torino-aggiorna-regolamento-suolo-pubblico-pubblicita-piu-semplificazioni-2027",
+    "descrizione": "Questa mattina la Giunta Comunale ha approvato la delibera per l'aggiornamento del Regolamento n.395.",
+    "data": "2026-11-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "be123f659eef",
+    "titolo": "25 novembre, Torino rinnova il proprio impegno contro la violenza sulle donne",
+    "link": "https://www.comune.torino.it/novita/comunicati/25-novembre-torino-rinnova-proprio-impegno-contro-violenza-sulle-donne",
+    "descrizione": "Convegni, campagne di sensibilizzazione, iniziative culturali, attività rivolte ai giovani e l'illuminazione della Mole Antonelliana.",
+    "data": "2026-11-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "e2f1b5d44c22",
+    "titolo": "Nove principi per un’IA etica, inclusiva e sostenibile: Torino approva il manifesto sull’intelligenza artificiale",
+    "link": "https://www.comune.torino.it/novita/comunicati/nove-principi-per-unia-etica-inclusiva-sostenibile-torino-approva-manifesto",
+    "descrizione": "Se a rispondere è un’intelligenza artificiale, i torinesi hanno il diritto di saperlo.",
+    "data": "2026-11-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "adc596c87909",
+    "titolo": "Servizio di trasporto per le persone con disabilità: via libera della Giunta alla revisione del regolamento",
+    "link": "https://www.comune.torino.it/novita/comunicati/servizio-trasporto-per-persone-disabilita-via-libera-della-giunta-alla-revisione",
+    "descrizione": "Un servizio più attento ai diversi bisogni di mobilità, procedure di valutazione più semplici e un regolamento costruito insieme alle associazioni.",
+    "data": "2026-11-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "90bde7fa61ac",
+    "titolo": "Efficientamento energetico per due scuole e una biblioteca: approvati lavori per 1,7 milioni di euro",
+    "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-per-due-scuole-una-biblioteca-approvati-lavori-per-17",
+    "descrizione": "Scuole più calde d’inverno e meno energivore, una biblioteca con impianti rinnovati e una bolletta più leggera per la Città.",
+    "data": "2026-11-17T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "debfad889580",
     "titolo": "A Casa Tennis celebrati oltre 200 atleti piemontesi",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/casa-tennis-celebrati-oltre-200-atleti-piemontesi",
@@ -1938,65 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "49936cb6964d",
-    "titolo": "Università di Torino e Regione, agenda comune su ricerca, innovazione e internazionalizzazione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/universita-torino-regione-agenda-comune-ricerca-innovazione-internazionalizzazione",
-    "descrizione": "Mettere in rete le infrastrutture di ricerca, ampliare le opportunità di formazione permanente e rafforzare il ruolo del Piemonte nei circuiti internazionali della conoscenza e dell’innovazione. Sono gli ambiti al centro dell’incontro che si è svolto lunedì 5 ottobre al Grattacielo…",
-    "data": "2026-10-05T15:56:40+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "f6dcf47b0977",
-    "titolo": "UniTo e Regione, agenda su ricerca, innovazione e internazionalizzazione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/unito-regione-agenda-ricerca-innovazione-internazionalizzazione",
-    "descrizione": "Mettere in rete le infrastrutture di ricerca, ampliare le opportunità di formazione permanente e rafforzare il ruolo del Piemonte nei circuiti internazionali della conoscenza e dell’innovazione. Sono gli ambiti al centro dell’incontro che si è svolto lunedì 5 ottobre al Grattacielo…",
-    "data": "2026-10-05T15:56:40+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "9605e11a1be2",
-    "titolo": "Andrea Ganelli è il nuovo presidente del Circolo dei lettori",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/andrea-ganelli-nuovo-presidente-circolo-dei-lettori",
-    "descrizione": "La giunta regionale ha nominato questa mattina Andrea Ganelli nuovo presidente della Fondazione Circolo dei lettori e del suo consiglio di gestione. Come previsto dallo statuto, la durata dell’incarico è fissata in…",
-    "data": "2026-10-05T15:07:21+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "14b4efc80da4",
-    "titolo": "Un ciclo di incontri per la gestione del post-emergenza",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-ciclo-incontri-per-gestione-post-emergenza",
-    "descrizione": "Parte da Asti, martedì 6 ottobre, il ciclo di incontri “Pronto Intervento – Insieme per una gestione tempestiva ed efficace del post-emergenza”, promosso dalla Regione Piemonte per rafforzare il coordinamento tra Regione, Province e Comuni nella gestione delle…",
-    "data": "2026-10-05T14:46:35+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "f9fdce1f89d5",
-    "titolo": "Programma eventi da ottobre 2026 a febbraio 2027",
-    "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-eventi-da-ottobre-2026-febbraio-2027",
-    "descrizione": "Tipologia articolo Eventi biblioteca Data pubblicazione 05 Ottobre 2026 Data evento: Dal 21 Ottobre 2026 Al 06 Febbraio 2027 Biblioteca della Regione Piemonte Mercoledì 21 ottobre 2026 ore 18\"Una vita per i libri, Umberto Eco e la biblioteca d’autore\"in collaborazione con la Fondazione Umberto Eco di MilanoCome nasce e si costruisce una biblioteca d’autore. Un viaggio affascinanteche parte da una frase del professor Eco: “Essere colti non significa ricordaretutte le nozioni, ma sapere dove andar",
-    "data": "2026-10-05T13:47:07+00:00",
-    "fonte": "Consiglio Regionale",
-    "fonte_id": "consiglio",
-    "colore": "#7c3aed"
-  },
-  {
-    "id": "f78524b390af",
-    "titolo": "Programma incontri in biblioteca da ottobre 2026 a febbraio 2027",
-    "link": "https://www.cr.piemonte.it/cms/biblioteca/articoli/eventi/programma-incontri-biblioteca-da-ottobre-2026-febbraio-2027",
-    "descrizione": "Tipologia articolo Eventi biblioteca Data pubblicazione 05 Ottobre 2026 Data evento: Dal 10 Ottobre 2026 Al 06 Febbraio 2027 Biblioteca della Regione Piemonte Mercoledì 21 ottobre 2026 ore 18Una vita per i libri, Umberto Eco e la biblioteca d’autorein collaborazione con la Fondazione Umberto Eco di Milano.Come nasce e si costruisce una biblioteca d’autore. Un viaggio affascinanteche parte da una frase del professor Eco: “Essere colti non significa ricordaretutte le nozioni, ma sapere dove andare",
-    "data": "2026-10-05T13:47:07+00:00",
-    "fonte": "Consiglio Regionale",
-    "fonte_id": "consiglio",
-    "colore": "#7c3aed"
   }
 ]
