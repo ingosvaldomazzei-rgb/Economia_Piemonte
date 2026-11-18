@@ -1,135 +1,95 @@
 {
-  "sociale-welfare": [
+  "turismo": [
     {
-      "id": "5344f986c78b",
-      "titolo": "Spazi pubblici dedicati al ricordo di Germana Erba, Emma Strada e Vincenza Castria",
-      "link": "https://www.comune.torino.it/novita/comunicati/spazi-pubblici-dedicati-al-ricordo-germana-erba-emma-strada-vincenza-castria",
-      "data": "2026-11-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9bf997bcc574",
-      "titolo": "Sicurezza urbana, un approccio integrato alle dipendenze e al reinserimento sociale",
-      "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-un-approccio-integrato-alle-dipendenze-al-reinserimento-sociale",
-      "data": "2026-11-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7fc683200887",
-      "titolo": "Vendita abusiva di giocattoli davanti a una scuola: sanzione e sequestro",
-      "link": "https://www.comune.torino.it/novita/comunicati/vendita-abusiva-giocattoli-davanti-una-scuola-sanzione-sequestro",
-      "data": "2026-11-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ebfd5c498138",
-      "titolo": "Assistenza agli anziani, il Piemonte sperimenta un nuovo modello",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/assistenza-agli-anziani-piemonte-sperimenta-un-nuovo-modello",
-      "data": "2026-10-30T17:09:07+01:00",
+      "id": "e11f2d9253e7",
+      "titolo": "Turismo invernale, il Piemonte su Rai e Mediaset",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-invernale-piemonte-rai-mediaset",
+      "data": "2026-11-18T16:12:07+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "9f81cfe9487e",
-      "titolo": "7,7 milioni per le scuole dell'infanzia paritarie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/77-milioni-per-scuole-dellinfanzia-paritarie",
-      "data": "2026-10-27T16:27:20+01:00",
+      "id": "1290b15351f7",
+      "titolo": "Incontro con il Console Generale della Repubblica Popolare di Cina Chenggang Zang",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-console-generale-della-repubblica-popolare-cina-chenggang-zang",
+      "data": "2026-11-06T18:00:00+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "a713edc6c105",
-      "titolo": "Invest in Piemonte riunisce 70 multinazionali estere",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/invest-piemonte-riunisce-70-multinazionali-estere",
-      "data": "2026-10-22T20:00:09+02:00",
+      "id": "5c6402b2b8aa",
+      "titolo": "CASA GUSTO: aperte le prenotazioni per le degustazioni e le visite guidate",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/casa-gusto-aperte-prenotazioni-per-degustazioni-visite-guidate",
+      "data": "2026-11-05T07:39:46+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "cb12dcbcc870",
-      "titolo": "Nasce Silver Housing Massaua. Nuovi spazi per l’autonomia degli anziani non autosufficienti",
-      "link": "https://www.comune.torino.it/novita/comunicati/nasce-silver-housing-massaua-nuovi-spazi-per-lautonomia-degli-anziani-non",
-      "data": "2026-10-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a5603f4d980b",
-      "titolo": "Diabete, screening e accesso alle cure per le persone in condizioni di grave marginalità",
-      "link": "https://www.comune.torino.it/novita/comunicati/diabete-screening-accesso-alle-cure-per-persone-condizioni-grave-marginalita",
-      "data": "2026-10-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "dbf171d45ec1",
-      "titolo": "Efficientamento energetico per tre edifici comunali: approvati lavori per 861mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-per-tre-edifici-comunali-approvati-lavori-per-861mila",
-      "data": "2026-10-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5595bea5f254",
-      "titolo": "Laboratorio gratuito di Teatro d'ombre",
-      "link": "https://www.comune.torino.it/novita/notizie/laboratorio-gratuito-teatro-dombre",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "00056a72b0ff",
-      "titolo": "La Sala Rossa per il contrasto alla solitudine",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-per-contrasto-alla-solitudine",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2316eb63ec85",
-      "titolo": "Sala Rossa: un assistente di condominio in tutte le Circoscrizioni",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-un-assistente-condominio-tutte-circoscrizioni",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ba6c588e4668",
-      "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
-      "data": "2026-10-14T17:07:24+02:00",
+      "id": "5bb2d05e9a98",
+      "titolo": "Turismo, nuovo bando per iniziative di comunicazione e promozione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-nuovo-bando-per-iniziative-comunicazione-promozione",
+      "data": "2026-11-02T15:29:03+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     },
     {
-      "id": "d760b7cc73fb",
-      "titolo": "Progetto Prisma, nuove azioni per l’autonomia e l’inclusione delle persone con disabilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/progetto-prisma-nuove-azioni-per-lautonomia-linclusione-delle-persone-disabilita",
-      "data": "2026-10-13T12:00:00+00:00",
+      "id": "6d448a8d4b88",
+      "titolo": "IL SET PERFETTO. Dieci giorni sotto rete per innamorarsi di Torino e del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/set-perfetto-dieci-giorni-sotto-rete-per-innamorarsi-torino-piemonte",
+      "data": "2026-11-01T16:18:29+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b3966324b156",
+      "titolo": "Agricoltura, 8 milioni al Piemonte per abbattere i costi del gasolio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-8-milioni-al-piemonte-per-abbattere-costi-gasolio",
+      "data": "2026-10-28T15:50:05+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5d0378c14c15",
+      "titolo": "Parte il progetto \"Si Riparte! Anduma ancora\": viaggio nel Monferrato e occasioni di incontro e socialità per persone over 65. Iscrizioni dal 28 ottobre 2026.",
+      "link": "https://www.comune.torino.it/novita/notizie/parte-progetto-si-riparte-anduma-ancora-viaggio-nel-monferrato-occasioni",
+      "data": "2026-10-28T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
     {
-      "id": "36f6efede3db",
-      "titolo": "“Spazio Comune” cresce. Nasce il tavolo partecipativo con il terzo settore per l’accoglienza e l’inclusione",
-      "link": "https://www.comune.torino.it/novita/comunicati/spazio-comune-cresce-nasce-tavolo-partecipativo-terzo-settore-per-laccoglienza",
-      "data": "2026-10-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
+      "id": "a025001bd499",
+      "titolo": "Successo nel fine settimana per la Fiera del Marrone di Cuneo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/successo-nel-fine-settimana-per-fiera-marrone-cuneo",
+      "data": "2026-10-19T10:24:02+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
-      "id": "8000919e5e42",
-      "titolo": "Fino a 130mila euro per creare un’impresa: Torino lancia “Incubatori per l’inclusione”",
-      "link": "https://www.comune.torino.it/novita/comunicati/fino-130mila-euro-per-creare-unimpresa-torino-lancia-incubatori-per-linclusione",
-      "data": "2026-10-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
+      "id": "d93e89bb9642",
+      "titolo": "Il Piemonte a TTG 2026, seconda giornata",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-ttg-2026-seconda-giornata",
+      "data": "2026-10-15T16:11:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ca124aaabbfc",
+      "titolo": "Il Piemonte al TTG 2026. Un ricco palinsesto di eventi dedicato alla sostenibilità, all’outdoor, alla cultura e all’enogastronomia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-ttg-2026-un-ricco-palinsesto-eventi-dedicato-alla-sostenibilita-alloutdoor-alla-cultura",
+      "data": "2026-10-13T14:11:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     }
   ],
   "cultura-beni-culturali": [
+    {
+      "id": "bba4041b5633",
+      "titolo": "Prima cabina di regia contro lo sfruttamento lavorativo e il caporalato",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/prima-cabina-regia-contro-sfruttamento-lavorativo-caporalato",
+      "data": "2026-11-18T14:56:10+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "5344f986c78b",
       "titolo": "Spazi pubblici dedicati al ricordo di Germana Erba, Emma Strada e Vincenza Castria",
@@ -281,17 +241,17 @@
       "data": "2026-10-20T18:35:06+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "33a183e97346",
-      "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile-della-regione-piemonte",
-      "data": "2026-10-20T16:43:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "lavoro-occupazione": [
+    {
+      "id": "906e452e7f58",
+      "titolo": "Lavoro e formazione, il Piemonte rivoluziona le politiche attive post Gol",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lavoro-formazione-piemonte-rivoluziona-politiche-attive-post-gol",
+      "data": "2026-11-18T13:44:56+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
     {
       "id": "c15153c13826",
       "titolo": "Torino aggiorna il regolamento su suolo pubblico e pubblicità: più semplificazioni dal 2027",
@@ -443,14 +403,194 @@
       "data": "2026-10-14T17:07:24+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    }
+  ],
+  "edilizia-opere-pubbliche": [
+    {
+      "id": "c811260cd0c7",
+      "titolo": "Progetto Falchera. Bando pubblico di social housing",
+      "link": "https://www.comune.torino.it/novita/notizie/progetto-falchera-bando-pubblico-social-housing",
+      "data": "2026-11-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     },
     {
-      "id": "b7bcbfc1ee6c",
-      "titolo": "Al via IoLavoro",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro",
-      "data": "2026-10-12T15:57:09+02:00",
+      "id": "debff95265ca",
+      "titolo": "Montagna, il Piemonte investe per portare il segnale dove il mercato non arriva",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/montagna-piemonte-investe-per-portare-segnale-dove-mercato-non-arriva",
+      "data": "2026-11-16T15:10:43+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    },
+    {
+      "id": "757c90c277a4",
+      "titolo": "“Torino cambia – Spazi che uniscono”, lavori in via Germagnano, strada del Cascinotto e via Sempione",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-spazi-che-uniscono-lavori-via-germagnano-strada-cascinotto-via",
+      "data": "2026-11-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d5686ab44f5c",
+      "titolo": "Torino-Lione: Regione, TELT e Comuni al lavoro per un piano di ospitalità delle maestranze",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-regione-telt-comuni-al-lavoro-per-un-piano-ospitalita-delle-maestranze",
+      "data": "2026-10-30T11:22:28+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0d788fd8b4b9",
+      "titolo": "Stati generali della Logistica: focus su infrastrutture e competitività del Nord - Ovest",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-della-logistica-focus-infrastrutture-competitivita-nord-ovest",
+      "data": "2026-10-29T15:28:58+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cb12dcbcc870",
+      "titolo": "Nasce Silver Housing Massaua. Nuovi spazi per l’autonomia degli anziani non autosufficienti",
+      "link": "https://www.comune.torino.it/novita/comunicati/nasce-silver-housing-massaua-nuovi-spazi-per-lautonomia-degli-anziani-non",
+      "data": "2026-10-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "afaddafcce9e",
+      "titolo": "Approvata la variante per l’area “Ponte Mosca” nel quartiere Aurora, un nuovo campus urbano sostenibile e ad alta efficienza energetica",
+      "link": "https://www.comune.torino.it/novita/comunicati/approvata-variante-per-larea-ponte-mosca-nel-quartiere-aurora-un-nuovo-campus",
+      "data": "2026-10-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "3288ba7a88e1",
+      "titolo": "Abitare sulla Luna, a Torino i riflettori sul modulo MPH",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/abitare-sulla-luna-torino-riflettori-sul-modulo-mph",
+      "data": "2026-10-16T18:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3cae59ba25c0",
+      "titolo": "Al via sei mesi di lavori sul cavalcaferrovia di corso Trapani: ecco tutti i cantieri in partenza",
+      "link": "https://www.comune.torino.it/novita/comunicati/al-via-sei-mesi-lavori-sul-cavalcaferrovia-corso-trapani-ecco-tutti-cantieri",
+      "data": "2026-10-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "sociale-welfare": [
+    {
+      "id": "5344f986c78b",
+      "titolo": "Spazi pubblici dedicati al ricordo di Germana Erba, Emma Strada e Vincenza Castria",
+      "link": "https://www.comune.torino.it/novita/comunicati/spazi-pubblici-dedicati-al-ricordo-germana-erba-emma-strada-vincenza-castria",
+      "data": "2026-11-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9bf997bcc574",
+      "titolo": "Sicurezza urbana, un approccio integrato alle dipendenze e al reinserimento sociale",
+      "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-un-approccio-integrato-alle-dipendenze-al-reinserimento-sociale",
+      "data": "2026-11-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7fc683200887",
+      "titolo": "Vendita abusiva di giocattoli davanti a una scuola: sanzione e sequestro",
+      "link": "https://www.comune.torino.it/novita/comunicati/vendita-abusiva-giocattoli-davanti-una-scuola-sanzione-sequestro",
+      "data": "2026-11-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ebfd5c498138",
+      "titolo": "Assistenza agli anziani, il Piemonte sperimenta un nuovo modello",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/assistenza-agli-anziani-piemonte-sperimenta-un-nuovo-modello",
+      "data": "2026-10-30T17:09:07+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9f81cfe9487e",
+      "titolo": "7,7 milioni per le scuole dell'infanzia paritarie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/77-milioni-per-scuole-dellinfanzia-paritarie",
+      "data": "2026-10-27T16:27:20+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a713edc6c105",
+      "titolo": "Invest in Piemonte riunisce 70 multinazionali estere",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/invest-piemonte-riunisce-70-multinazionali-estere",
+      "data": "2026-10-22T20:00:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cb12dcbcc870",
+      "titolo": "Nasce Silver Housing Massaua. Nuovi spazi per l’autonomia degli anziani non autosufficienti",
+      "link": "https://www.comune.torino.it/novita/comunicati/nasce-silver-housing-massaua-nuovi-spazi-per-lautonomia-degli-anziani-non",
+      "data": "2026-10-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a5603f4d980b",
+      "titolo": "Diabete, screening e accesso alle cure per le persone in condizioni di grave marginalità",
+      "link": "https://www.comune.torino.it/novita/comunicati/diabete-screening-accesso-alle-cure-per-persone-condizioni-grave-marginalita",
+      "data": "2026-10-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "dbf171d45ec1",
+      "titolo": "Efficientamento energetico per tre edifici comunali: approvati lavori per 861mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-per-tre-edifici-comunali-approvati-lavori-per-861mila",
+      "data": "2026-10-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5595bea5f254",
+      "titolo": "Laboratorio gratuito di Teatro d'ombre",
+      "link": "https://www.comune.torino.it/novita/notizie/laboratorio-gratuito-teatro-dombre",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "00056a72b0ff",
+      "titolo": "La Sala Rossa per il contrasto alla solitudine",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-per-contrasto-alla-solitudine",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2316eb63ec85",
+      "titolo": "Sala Rossa: un assistente di condominio in tutte le Circoscrizioni",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-un-assistente-condominio-tutte-circoscrizioni",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ba6c588e4668",
+      "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
+      "data": "2026-10-14T17:07:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d760b7cc73fb",
+      "titolo": "Progetto Prisma, nuove azioni per l’autonomia e l’inclusione delle persone con disabilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/progetto-prisma-nuove-azioni-per-lautonomia-linclusione-delle-persone-disabilita",
+      "data": "2026-10-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     }
   ],
   "giovani": [
@@ -535,6 +675,14 @@
       "data": "2026-11-17T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    },
+    {
+      "id": "debfad889580",
+      "titolo": "A Casa Tennis celebrati oltre 200 atleti piemontesi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/casa-tennis-celebrati-oltre-200-atleti-piemontesi",
+      "data": "2026-11-17T09:39:09+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     },
     {
       "id": "840f08b1a56a",
@@ -677,14 +825,6 @@
       "titolo": "Controllo di un autotrasportatore dopo un incidente, scattano sanzioni per oltre 15 mila euro",
       "link": "https://www.comune.torino.it/novita/comunicati/controllo-un-autotrasportatore-dopo-un-incidente-scattano-sanzioni-per-oltre-15",
       "data": "2026-10-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "dd7acc9b545f",
-      "titolo": "Concerto di LAURA PAUSINI (17 e 18 ottobre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/concerto-laura-pausini-17-18-ottobre-2026-presso-inalpi-arena-convocazione-per",
-      "data": "2026-10-08T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -859,14 +999,6 @@
       "data": "2026-10-12T15:57:09+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "f805ab0fda3e",
-      "titolo": "Nuove zone scolastiche, Torino si candida al bando regionale “Città Rigenerative” con un progetto da 2 milioni di euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/nuove-zone-scolastiche-torino-si-candida-al-bando-regionale-citta-rigenerative",
-      "data": "2026-10-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "sanita-regionale": [
@@ -1023,14 +1155,6 @@
       "data": "2026-10-06T14:34:43+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "623b75c4725c",
-      "titolo": "Un Piemonte più verde e resiliente, altri 13 milioni per due bandi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piemonte-piu-verde-resiliente-altri-13-milioni-per-due-bandi",
-      "data": "2026-10-05T20:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "pianificazione-territoriale": [
@@ -1123,14 +1247,6 @@
       "data": "2026-10-06T14:34:43+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "623b75c4725c",
-      "titolo": "Un Piemonte più verde e resiliente, altri 13 milioni per due bandi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piemonte-piu-verde-resiliente-altri-13-milioni-per-due-bandi",
-      "data": "2026-10-05T20:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "trasparenza": [
@@ -1196,72 +1312,6 @@
       "id": "e2005b57c6cb",
       "titolo": "Stellantis, Lo Russo incontra Filosa a Palazzo Civico: investimenti, produzione e lavoro al centro del confronto",
       "link": "https://www.comune.torino.it/novita/comunicati/stellantis-russo-incontra-filosa-palazzo-civico-investimenti-produzione-lavoro",
-      "data": "2026-10-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "edilizia-opere-pubbliche": [
-    {
-      "id": "debff95265ca",
-      "titolo": "Montagna, il Piemonte investe per portare il segnale dove il mercato non arriva",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/montagna-piemonte-investe-per-portare-segnale-dove-mercato-non-arriva",
-      "data": "2026-11-16T15:10:43+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "757c90c277a4",
-      "titolo": "“Torino cambia – Spazi che uniscono”, lavori in via Germagnano, strada del Cascinotto e via Sempione",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-spazi-che-uniscono-lavori-via-germagnano-strada-cascinotto-via",
-      "data": "2026-11-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d5686ab44f5c",
-      "titolo": "Torino-Lione: Regione, TELT e Comuni al lavoro per un piano di ospitalità delle maestranze",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-regione-telt-comuni-al-lavoro-per-un-piano-ospitalita-delle-maestranze",
-      "data": "2026-10-30T11:22:28+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0d788fd8b4b9",
-      "titolo": "Stati generali della Logistica: focus su infrastrutture e competitività del Nord - Ovest",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-della-logistica-focus-infrastrutture-competitivita-nord-ovest",
-      "data": "2026-10-29T15:28:58+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cb12dcbcc870",
-      "titolo": "Nasce Silver Housing Massaua. Nuovi spazi per l’autonomia degli anziani non autosufficienti",
-      "link": "https://www.comune.torino.it/novita/comunicati/nasce-silver-housing-massaua-nuovi-spazi-per-lautonomia-degli-anziani-non",
-      "data": "2026-10-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "afaddafcce9e",
-      "titolo": "Approvata la variante per l’area “Ponte Mosca” nel quartiere Aurora, un nuovo campus urbano sostenibile e ad alta efficienza energetica",
-      "link": "https://www.comune.torino.it/novita/comunicati/approvata-variante-per-larea-ponte-mosca-nel-quartiere-aurora-un-nuovo-campus",
-      "data": "2026-10-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "3288ba7a88e1",
-      "titolo": "Abitare sulla Luna, a Torino i riflettori sul modulo MPH",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/abitare-sulla-luna-torino-riflettori-sul-modulo-mph",
-      "data": "2026-10-16T18:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3cae59ba25c0",
-      "titolo": "Al via sei mesi di lavori sul cavalcaferrovia di corso Trapani: ecco tutti i cantieri in partenza",
-      "link": "https://www.comune.torino.it/novita/comunicati/al-via-sei-mesi-lavori-sul-cavalcaferrovia-corso-trapani-ecco-tutti-cantieri",
       "data": "2026-10-09T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -1363,80 +1413,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "turismo": [
-    {
-      "id": "1290b15351f7",
-      "titolo": "Incontro con il Console Generale della Repubblica Popolare di Cina Chenggang Zang",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-console-generale-della-repubblica-popolare-cina-chenggang-zang",
-      "data": "2026-11-06T18:00:00+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5c6402b2b8aa",
-      "titolo": "CASA GUSTO: aperte le prenotazioni per le degustazioni e le visite guidate",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/casa-gusto-aperte-prenotazioni-per-degustazioni-visite-guidate",
-      "data": "2026-11-05T07:39:46+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5bb2d05e9a98",
-      "titolo": "Turismo, nuovo bando per iniziative di comunicazione e promozione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-nuovo-bando-per-iniziative-comunicazione-promozione",
-      "data": "2026-11-02T15:29:03+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6d448a8d4b88",
-      "titolo": "IL SET PERFETTO. Dieci giorni sotto rete per innamorarsi di Torino e del Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/set-perfetto-dieci-giorni-sotto-rete-per-innamorarsi-torino-piemonte",
-      "data": "2026-11-01T16:18:29+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b3966324b156",
-      "titolo": "Agricoltura, 8 milioni al Piemonte per abbattere i costi del gasolio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-8-milioni-al-piemonte-per-abbattere-costi-gasolio",
-      "data": "2026-10-28T15:50:05+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5d0378c14c15",
-      "titolo": "Parte il progetto \"Si Riparte! Anduma ancora\": viaggio nel Monferrato e occasioni di incontro e socialità per persone over 65. Iscrizioni dal 28 ottobre 2026.",
-      "link": "https://www.comune.torino.it/novita/notizie/parte-progetto-si-riparte-anduma-ancora-viaggio-nel-monferrato-occasioni",
-      "data": "2026-10-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a025001bd499",
-      "titolo": "Successo nel fine settimana per la Fiera del Marrone di Cuneo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/successo-nel-fine-settimana-per-fiera-marrone-cuneo",
-      "data": "2026-10-19T10:24:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d93e89bb9642",
-      "titolo": "Il Piemonte a TTG 2026, seconda giornata",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-ttg-2026-seconda-giornata",
-      "data": "2026-10-15T16:11:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ca124aaabbfc",
-      "titolo": "Il Piemonte al TTG 2026. Un ricco palinsesto di eventi dedicato alla sostenibilità, all’outdoor, alla cultura e all’enogastronomia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-ttg-2026-un-ricco-palinsesto-eventi-dedicato-alla-sostenibilita-alloutdoor-alla-cultura",
-      "data": "2026-10-13T14:11:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "enti-locali-piccoli-comuni": [
     {
       "id": "b558b04041c6",
@@ -1519,14 +1495,6 @@
       "data": "2026-10-21T14:35:25+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "8000919e5e42",
-      "titolo": "Fino a 130mila euro per creare un’impresa: Torino lancia “Incubatori per l’inclusione”",
-      "link": "https://www.comune.torino.it/novita/comunicati/fino-130mila-euro-per-creare-unimpresa-torino-lancia-incubatori-per-linclusione",
-      "data": "2026-10-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "protezione-civile": [

@@ -20,6 +20,56 @@
     "colore": "#dc2626"
   },
   {
+    "id": "e11f2d9253e7",
+    "titolo": "Turismo invernale, il Piemonte su Rai e Mediaset",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-invernale-piemonte-rai-mediaset",
+    "descrizione": "Il Piemonte su Rai e Mediaset. Due nuovi spot tv e radio per promuovere sui due network nazionali la stagione sciistica invernale sulle montagne piemontesi. È la nuova campagna curata e lanciata dalla …",
+    "data": "2026-11-18T16:12:07+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "bba4041b5633",
+    "titolo": "Prima cabina di regia contro lo sfruttamento lavorativo e il caporalato",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/prima-cabina-regia-contro-sfruttamento-lavorativo-caporalato",
+    "descrizione": "Si è insediato al Grattacielo della Regione Piemonte a Torino il primo tavolo regionale contro lo sfruttamento lavorativo e il caporalato, convocato il 18 novembre 2026 dalla Regione e al quale hanno preso parte i rappresentanti delle organizzazioni…",
+    "data": "2026-11-18T14:56:10+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "906e452e7f58",
+    "titolo": "Lavoro e formazione, il Piemonte rivoluziona le politiche attive post Gol",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lavoro-formazione-piemonte-rivoluziona-politiche-attive-post-gol",
+    "descrizione": "Una vera e propria rivoluzione delle politiche attive del lavoro e della formazione in Piemonte. La Giunta regionale ha approvato il nuovo atto di indirizzo per il triennio 2027-2029, che segna il passaggio dalla stagione del programma GOL a un modello profondamente rinnovato. L’obiettivo?…",
+    "data": "2026-11-18T13:44:56+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "1a40dd18ff0f",
+    "titolo": "Solo sì è sì. Il consenso e i diritti delle donne, ieri e oggi",
+    "link": "https://www.comune.torino.it/novita/notizie/solo-si-si-consenso-diritti-delle-donne-ieri-oggi",
+    "descrizione": "Mercoledì 24 novembre - Convegno in occasione della Giornata Internazionale per l'eliminazione della violenza contro le donne.",
+    "data": "2026-11-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "c811260cd0c7",
+    "titolo": "Progetto Falchera. Bando pubblico di social housing",
+    "link": "https://www.comune.torino.it/novita/notizie/progetto-falchera-bando-pubblico-social-housing",
+    "descrizione": "Dal 18 novembre 2026 è aperto il bando pubblico della Cooperativa Di Vittorio, per l’assegnazione in locazione di 50 alloggi a canone convenzionato.",
+    "data": "2026-11-18T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "4ec4222e4aef",
     "titolo": "Inflazione a Torino, i dati di ottobre: prezzi in aumento dell'1,2%, pesano i beni energetici",
     "link": "https://www.comune.torino.it/novita/comunicati/inflazione-torino-dati-ottobre-prezzi-aumento-dell12-pesano-beni-energetici",
@@ -93,7 +143,7 @@
     "id": "debfad889580",
     "titolo": "A Casa Tennis celebrati oltre 200 atleti piemontesi",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/casa-tennis-celebrati-oltre-200-atleti-piemontesi",
-    "descrizione": "Sono oltre 200 le atlete e gli atleti piemontesi vincitori di medaglie o distintisi in campionati, coppe e tornei internazionali celebrati il 16 novembre a Casa Tennis in piazza Castello a Torino da Regione Piemonte, …",
+    "descrizione": "Sono oltre 200 le atlete e gli atleti piemontesi vincitori di medaglie o distintisi in campionati, coppe e tornei internazionali celebrati il 16 novembre a Casa Tennis in piazza Castello a Torino, in occasione delle Nitto Atp Finals…",
     "data": "2026-11-17T09:39:09+01:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
@@ -1948,55 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "36f6efede3db",
-    "titolo": "“Spazio Comune” cresce. Nasce il tavolo partecipativo con il terzo settore per l’accoglienza e l’inclusione",
-    "link": "https://www.comune.torino.it/novita/comunicati/spazio-comune-cresce-nasce-tavolo-partecipativo-terzo-settore-per-laccoglienza",
-    "descrizione": "La Città di Torino rafforza \"Spazio Comune\", il centro polifunzionale di via Bologna 49/A.",
-    "data": "2026-10-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "550597a9f515",
-    "titolo": "Torino, approvato il restauro del monumento a Gioberti: intervento da 167mila euro sponsorizzato da One S.r.l.",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-approvato-restauro-monumento-gioberti-intervento-167mila-euro",
-    "descrizione": "Questa mattina la giunta comunale ha approvato il progetto esecutivo per il restauro del monumento dedicato a Vincenzo Gioberti, situato in Piazza Carignano.",
-    "data": "2026-10-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "8000919e5e42",
-    "titolo": "Fino a 130mila euro per creare un’impresa: Torino lancia “Incubatori per l’inclusione”",
-    "link": "https://www.comune.torino.it/novita/comunicati/fino-130mila-euro-per-creare-unimpresa-torino-lancia-incubatori-per-linclusione",
-    "descrizione": "Questa mattina la giunta comunale ha approvato le linee guida per il nuovo avviso pubblico \"Incubatori per l'inclusione\".",
-    "data": "2026-10-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f805ab0fda3e",
-    "titolo": "Nuove zone scolastiche, Torino si candida al bando regionale “Città Rigenerative” con un progetto da 2 milioni di euro",
-    "link": "https://www.comune.torino.it/novita/comunicati/nuove-zone-scolastiche-torino-si-candida-al-bando-regionale-citta-rigenerative",
-    "descrizione": "Torino propone di ripensare gli spazi e le strade attorno a quattro scuole attraverso un progetto presentato al bando regionale \"Città Rigenerative\".",
-    "data": "2026-10-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "623b75c4725c",
-    "titolo": "Un Piemonte più verde e resiliente, altri 13 milioni per due bandi",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/un-piemonte-piu-verde-resiliente-altri-13-milioni-per-due-bandi",
-    "descrizione": "Più aree verdi e boschi, corridoi ecologici, zone umide, fasce arboree, filari e siepi, interventi lungo fiumi e laghi e soluzioni naturali capaci di aumentare la biodiversità, contribuire all’assorbimento della CO₂ e migliorare la qualità dell’aria. È il Piemonte più…",
-    "data": "2026-10-05T20:00:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
