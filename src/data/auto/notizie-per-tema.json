@@ -91,6 +91,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "69b68cc70734",
+      "titolo": "Open 011, inaugurata la casa della mobilità giovanile e dell’intercultura",
+      "link": "https://www.comune.torino.it/novita/comunicati/open-011-inaugurata-casa-della-mobilita-giovanile-dellintercultura",
+      "data": "2026-11-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "5344f986c78b",
       "titolo": "Spazi pubblici dedicati al ricordo di Germana Erba, Emma Strada e Vincenza Castria",
       "link": "https://www.comune.torino.it/novita/comunicati/spazi-pubblici-dedicati-al-ricordo-germana-erba-emma-strada-vincenza-castria",
@@ -230,14 +238,6 @@
       "id": "0862ac3061b4",
       "titolo": "Sistema neve, nasce un tavolo tecnico per il futuro delle stazioni del VCO",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sistema-neve-nasce-un-tavolo-tecnico-per-futuro-delle-stazioni-vco",
-      "data": "2026-10-20T18:35:06+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "f2ab6478d587",
-      "titolo": "Sistema neve, un tavolo tecnico per il futuro delle stazioni del VCO",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sistema-neve-un-tavolo-tecnico-per-futuro-delle-stazioni-vco",
       "data": "2026-10-20T18:35:06+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
@@ -479,6 +479,88 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "giovani": [
+    {
+      "id": "69b68cc70734",
+      "titolo": "Open 011, inaugurata la casa della mobilità giovanile e dell’intercultura",
+      "link": "https://www.comune.torino.it/novita/comunicati/open-011-inaugurata-casa-della-mobilita-giovanile-dellintercultura",
+      "data": "2026-11-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "be123f659eef",
+      "titolo": "25 novembre, Torino rinnova il proprio impegno contro la violenza sulle donne",
+      "link": "https://www.comune.torino.it/novita/comunicati/25-novembre-torino-rinnova-proprio-impegno-contro-violenza-sulle-donne",
+      "data": "2026-11-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9b8f4bfd5bc7",
+      "titolo": "Il Ddl ColtivaItalia è legge: filiere, allevamento, insediamento dei giovani, moratoria sui mutui, contrasto alla peste suina",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ddl-coltivaitalia-legge-filiere-allevamento-insediamento-dei-giovani-moratoria-sui-mutui-contrasto",
+      "data": "2026-11-05T15:23:15+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2a4397fb0704",
+      "titolo": "Servizio Civile digitale e ambientale ad ITER",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-digitale-ambientale-ad-iter",
+      "data": "2026-10-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1079b66f9763",
+      "titolo": "Scuola, più opportunità per i giovani con i nuovi bandi regionali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuola-piu-opportunita-per-giovani-nuovi-bandi-regionali",
+      "data": "2026-10-26T14:33:46+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4ef3d9d2563e",
+      "titolo": "Lo Russo: “Serve un Piano Marshall per i giovani”",
+      "link": "https://www.comune.torino.it/novita/comunicati/russo-serve-un-piano-marshall-per-giovani",
+      "data": "2026-10-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6fb8c18313c6",
+      "titolo": "IOLAVORO 2026: Torino protagonista di due giornate tra opportunità di lavoro, giovani e nuove competenze",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-torino-protagonista-due-giornate-opportunita-lavoro-giovani-nuove-competenze",
+      "data": "2026-10-16T11:01:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7979f3473b2f",
+      "titolo": "IoLavoro 2026, due giornate di contatti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-due-giornate-contatti",
+      "data": "2026-10-16T11:01:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "58873ae15c1d",
+      "titolo": "“Spazi Liberi”: Torino scommette sul reinserimento lavorativo e l’affido per i giovani detenuti",
+      "link": "https://www.comune.torino.it/novita/comunicati/spazi-liberi-torino-scommette-sul-reinserimento-lavorativo-laffido-per-giovani",
+      "data": "2026-10-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a1fbf7680021",
+      "titolo": "Giornata della salute mentale, prevenzione e giovani al centro delle iniziative",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giornata-della-salute-mentale-prevenzione-giovani-al-centro-delle-iniziative",
+      "data": "2026-10-06T14:34:43+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "sociale-welfare": [
     {
       "id": "5344f986c78b",
@@ -591,80 +673,6 @@
       "data": "2026-10-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "giovani": [
-    {
-      "id": "be123f659eef",
-      "titolo": "25 novembre, Torino rinnova il proprio impegno contro la violenza sulle donne",
-      "link": "https://www.comune.torino.it/novita/comunicati/25-novembre-torino-rinnova-proprio-impegno-contro-violenza-sulle-donne",
-      "data": "2026-11-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9b8f4bfd5bc7",
-      "titolo": "Il Ddl ColtivaItalia è legge: filiere, allevamento, insediamento dei giovani, moratoria sui mutui, contrasto alla peste suina",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ddl-coltivaitalia-legge-filiere-allevamento-insediamento-dei-giovani-moratoria-sui-mutui-contrasto",
-      "data": "2026-11-05T15:23:15+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2a4397fb0704",
-      "titolo": "Servizio Civile digitale e ambientale ad ITER",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-digitale-ambientale-ad-iter",
-      "data": "2026-10-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1079b66f9763",
-      "titolo": "Scuola, più opportunità per i giovani con i nuovi bandi regionali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuola-piu-opportunita-per-giovani-nuovi-bandi-regionali",
-      "data": "2026-10-26T14:33:46+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4ef3d9d2563e",
-      "titolo": "Lo Russo: “Serve un Piano Marshall per i giovani”",
-      "link": "https://www.comune.torino.it/novita/comunicati/russo-serve-un-piano-marshall-per-giovani",
-      "data": "2026-10-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6fb8c18313c6",
-      "titolo": "IOLAVORO 2026: Torino protagonista di due giornate tra opportunità di lavoro, giovani e nuove competenze",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-torino-protagonista-due-giornate-opportunita-lavoro-giovani-nuove-competenze",
-      "data": "2026-10-16T11:01:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7979f3473b2f",
-      "titolo": "IoLavoro 2026, due giornate di contatti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-due-giornate-contatti",
-      "data": "2026-10-16T11:01:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "58873ae15c1d",
-      "titolo": "“Spazi Liberi”: Torino scommette sul reinserimento lavorativo e l’affido per i giovani detenuti",
-      "link": "https://www.comune.torino.it/novita/comunicati/spazi-liberi-torino-scommette-sul-reinserimento-lavorativo-laffido-per-giovani",
-      "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a1fbf7680021",
-      "titolo": "Giornata della salute mentale, prevenzione e giovani al centro delle iniziative",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giornata-della-salute-mentale-prevenzione-giovani-al-centro-delle-iniziative",
-      "data": "2026-10-06T14:34:43+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sport": [
