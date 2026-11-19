@@ -20,6 +20,56 @@
     "colore": "#dc2626"
   },
   {
+    "id": "9df94f4f04ad",
+    "titolo": "Accordo governo - Regione: 242 milioni per interventi strategici in Piemonte",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-governo-regione-242-milioni-per-interventi-strategici-piemonte",
+    "descrizione": "Digitalizzazione, risparmio energetico, ricerca, cultura e interventi su beni architettonici. Sono questi i principali ambiti di intervento dell’atto integrativo sottoscritto tra governo e Regione Piemonte, approvato dal Cipess, che…",
+    "data": "2026-11-19T15:39:26+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "8664f7cc2fff",
+    "titolo": "Avviati i lavori preliminari per la realizzazione della Metro 2",
+    "link": "https://www.comune.torino.it/novita/comunicati/avviati-lavori-preliminari-per-realizzazione-della-metro-2",
+    "descrizione": "Sono partite oggi le attività preliminari alla realizzazione della Linea 2 della metropolitana di Torino.",
+    "data": "2026-11-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "0e58ed9362da",
+    "titolo": "Torino tra i protagonisti dell’innovazione europea: 5G4LIVES finalista agli European Digital Connectivity Awards 2026.",
+    "link": "https://www.comune.torino.it/novita/notizie/torino-protagonisti-dellinnovazione-europea-5g4lives-finalista-agli-european",
+    "descrizione": "5G4LIVES tra i tre migliori progetti europei nella categoria dedicata. Il 2 dicembre la proclamazione dei vincitori dell'European Digital Connectivity",
+    "data": "2026-11-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b3cf77d2f5ca",
+    "titolo": "Potrebbe sempre servire?",
+    "link": "https://www.comune.torino.it/novita/notizie/potrebbe-sempre-servire",
+    "descrizione": "Attività per famiglie realizzata ida ITER in collaborazione con il MAO",
+    "data": "2026-11-19T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "80748d8b454e",
+    "titolo": "Il Giganotosauro torna al Museo Regionale di Scienze Naturali",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giganotosauro-torna-al-museo-regionale-scienze-naturali",
+    "descrizione": "***In occasione delle Nitto ATP Finals, in una speciale versione con racchetta e pallina*** Dal 20 novembre torna visibile al pubblico il modello a grandezza naturale lungo 14 metri del celebre predatore della Patagonia Il Museo Regionale di Scienze…",
+    "data": "2026-11-19T09:46:39+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "e11f2d9253e7",
     "titolo": "Turismo invernale, il Piemonte su Rai e Mediaset",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-invernale-piemonte-rai-mediaset",
@@ -1945,56 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/notizie/refashion-heroes",
     "descrizione": "Laboratorio gratuito sabato 10 ottobre 2026 al Centro di Riuso Creativo REMIDA",
     "data": "2026-10-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "7f4135b3a567",
-    "titolo": "TIPS4PED: il fotovoltaico da balcone protagonista di un workshop a Torino",
-    "link": "https://www.comune.torino.it/novita/notizie/tips4ped-fotovoltaico-balcone-protagonista-un-workshop-torino",
-    "descrizione": "Workshop dedicato a una delle soluzioni più innovative e accessibili: il fotovoltaico da balcone",
-    "data": "2026-10-07T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "c4093a44cab1",
-    "titolo": "Torino Design City. Dall’8 al 31 ottobre la prima edizione di Transizioni Tangibili",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-design-city-dall8-al-31-ottobre-prima-edizione-transizioni-tangibili",
-    "descrizione": "Dall’8 al 31 ottobre Torino e il Piemonte mettono al centro la cultura del progetto con la prima edizione di Torino Design City – Transizioni Tangibili, l'appuntamento biennale inserito nel quadro di Torino Città Creativa…",
-    "data": "2026-10-06T17:37:27+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "a1fbf7680021",
-    "titolo": "Giornata della salute mentale, prevenzione e giovani al centro delle iniziative",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giornata-della-salute-mentale-prevenzione-giovani-al-centro-delle-iniziative",
-    "descrizione": "Prevenire il disagio, intercettarne precocemente i segnali e costruire attorno alle persone una rete capace di accompagnarle nei percorsi di cura. Sono questi alcuni dei temi al centro delle iniziative organizzate in Piemonte in occasione della…",
-    "data": "2026-10-06T14:34:43+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "8dd698d5be47",
-    "titolo": "Fondazione Giorgio Amendola: social innovation at the heart of the New European Bauhaus in Torino",
-    "link": "https://www.comune.torino.it/novita/notizie/fondazione-giorgio-amendola-social-innovation-at-the-heart-of-the-new-european",
-    "descrizione": "“Sulle vie del futuro – Young People Who Do Not Give Up\" selected at the EU Social Innovation Forum 2026",
-    "data": "2026-10-06T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1ffd381dd8b6",
-    "titolo": "Carta solidale per acquistare beni di prima necessità",
-    "link": "https://www.comune.torino.it/novita/notizie/carta-solidale-per-acquistare-beni-prima-necessita",
-    "descrizione": "Ad inizio novembre sarà riattivato il programma nazionale relativo alla Carta \"Dedicata a Te\"",
-    "data": "2026-10-06T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"

@@ -10,16 +10,16 @@
       "conteggio": 20
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 20
-    },
-    {
       "tema": "sport",
       "conteggio": 20
     },
     {
+      "tema": "lavoro-occupazione",
+      "conteggio": 20
+    },
+    {
       "tema": "sociale-welfare",
-      "conteggio": 14
+      "conteggio": 15
     },
     {
       "tema": "istruzione-formazione",
@@ -27,18 +27,18 @@
     },
     {
       "tema": "agricoltura",
-      "conteggio": 12
+      "conteggio": 11
     },
     {
       "tema": "turismo",
       "conteggio": 10
     },
     {
-      "tema": "giovani",
-      "conteggio": 10
+      "tema": "edilizia-opere-pubbliche",
+      "conteggio": 9
     },
     {
-      "tema": "edilizia-opere-pubbliche",
+      "tema": "giovani",
       "conteggio": 9
     },
     {
