@@ -1,6 +1,26 @@
 {
-  "ultimo_aggiornamento": "2026-11-20T00:30:56.778903+00:00",
+  "ultimo_aggiornamento": "2026-11-20T15:11:06.127922+00:00",
   "sedute": [
+    {
+      "id": "50bef6b12b00",
+      "tipo": "seduta",
+      "numero": "119",
+      "titolo": "Seduta n. 119 del 01/12/2026",
+      "data": "2026-12-01T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=119&data_seduta=01-12-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
+    {
+      "id": "a424df27c99a",
+      "tipo": "seduta",
+      "numero": "118",
+      "titolo": "Seduta n. 118 del 26/11/2026",
+      "data": "2026-11-26T00:00:00+00:00",
+      "link": "https://www.cr.piemonte.it/seduteconsiglio/appl/search/seduta.php?numero_seduta=118&data_seduta=26-11-2026",
+      "sintesi_url": "",
+      "sintesi_testo": ""
+    },
     {
       "id": "3f63af900073",
       "tipo": "seduta",
@@ -2277,12 +2297,12 @@
     }
   ],
   "statistiche": {
-    "totale_sedute": 47,
-    "totale_interrogazioni": 100,
-    "totale_interpellanze": 0,
-    "totale_mozioni": 2,
-    "totale_odg": 98,
-    "mozioni_approvate": 59,
-    "mozioni_respinte": 19
+    "totale_sedute": 49,
+    "totale_interrogazioni": 199,
+    "totale_interpellanze": 1,
+    "totale_mozioni": 9,
+    "totale_odg": 191,
+    "mozioni_approvate": 103,
+    "mozioni_respinte": 40
   }
 }

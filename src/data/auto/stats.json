@@ -6,6 +6,10 @@
   },
   "temi_attivi": [
     {
+      "tema": "lavoro-occupazione",
+      "conteggio": 20
+    },
+    {
       "tema": "cultura-beni-culturali",
       "conteggio": 20
     },
@@ -14,20 +18,16 @@
       "conteggio": 20
     },
     {
-      "tema": "lavoro-occupazione",
-      "conteggio": 20
-    },
-    {
       "tema": "sociale-welfare",
       "conteggio": 16
     },
     {
       "tema": "istruzione-formazione",
-      "conteggio": 13
+      "conteggio": 14
     },
     {
       "tema": "agricoltura",
-      "conteggio": 11
+      "conteggio": 12
     },
     {
       "tema": "giovani",
@@ -42,7 +42,7 @@
       "conteggio": 9
     },
     {
-      "tema": "energia",
+      "tema": "sanita-regionale",
       "conteggio": 8
     }
   ],
