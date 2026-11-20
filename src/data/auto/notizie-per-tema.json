@@ -339,6 +339,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "b05de598f910",
+      "titolo": "Giovani, inclusione e prossimità: domani, 20 novembre, l'evento di presentazione del progetto \"Presi Bene\"",
+      "link": "https://www.comune.torino.it/novita/comunicati/giovani-inclusione-prossimita-domani-20-novembre-levento-presentazione-progetto",
+      "data": "2026-11-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "5344f986c78b",
       "titolo": "Spazi pubblici dedicati al ricordo di Germana Erba, Emma Strada e Vincenza Castria",
       "link": "https://www.comune.torino.it/novita/comunicati/spazi-pubblici-dedicati-al-ricordo-germana-erba-emma-strada-vincenza-castria",
@@ -446,6 +454,138 @@
       "id": "d760b7cc73fb",
       "titolo": "Progetto Prisma, nuove azioni per l’autonomia e l’inclusione delle persone con disabilità",
       "link": "https://www.comune.torino.it/novita/comunicati/progetto-prisma-nuove-azioni-per-lautonomia-linclusione-delle-persone-disabilita",
+      "data": "2026-10-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "pianificazione-territoriale": [
+    {
+      "id": "b05de598f910",
+      "titolo": "Giovani, inclusione e prossimità: domani, 20 novembre, l'evento di presentazione del progetto \"Presi Bene\"",
+      "link": "https://www.comune.torino.it/novita/comunicati/giovani-inclusione-prossimita-domani-20-novembre-levento-presentazione-progetto",
+      "data": "2026-11-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a2c0ec2b878f",
+      "titolo": "Patto per la lettura, primo incontro in Regione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/patto-per-lettura-primo-incontro-regione",
+      "data": "2026-11-16T16:13:11+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c16b687b9280",
+      "titolo": "Maltempo in attenuazione: chiude la sala operativa della Protezione civile",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-attenuazione-chiude-sala-operativa-della-protezione-civile",
+      "data": "2026-10-21T17:05:22+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "33a183e97346",
+      "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile-della-regione-piemonte",
+      "data": "2026-10-20T16:43:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7f95bbe9ead1",
+      "titolo": "Maltempo: aperta la sala operativa della Protezione civile",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile",
+      "data": "2026-10-20T16:43:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8d44ba116345",
+      "titolo": "La settimana della salute mentale. A Torino dal 10 al 16 ottobre tra incontri, arte e laboratori",
+      "link": "https://www.comune.torino.it/novita/comunicati/settimana-della-salute-mentale-torino-10-al-16-ottobre-incontri-arte-laboratori",
+      "data": "2026-10-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "giovani": [
+    {
+      "id": "b05de598f910",
+      "titolo": "Giovani, inclusione e prossimità: domani, 20 novembre, l'evento di presentazione del progetto \"Presi Bene\"",
+      "link": "https://www.comune.torino.it/novita/comunicati/giovani-inclusione-prossimita-domani-20-novembre-levento-presentazione-progetto",
+      "data": "2026-11-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "69b68cc70734",
+      "titolo": "Open 011, inaugurata la casa della mobilità giovanile e dell’intercultura",
+      "link": "https://www.comune.torino.it/novita/comunicati/open-011-inaugurata-casa-della-mobilita-giovanile-dellintercultura",
+      "data": "2026-11-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "be123f659eef",
+      "titolo": "25 novembre, Torino rinnova il proprio impegno contro la violenza sulle donne",
+      "link": "https://www.comune.torino.it/novita/comunicati/25-novembre-torino-rinnova-proprio-impegno-contro-violenza-sulle-donne",
+      "data": "2026-11-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9b8f4bfd5bc7",
+      "titolo": "Il Ddl ColtivaItalia è legge: filiere, allevamento, insediamento dei giovani, moratoria sui mutui, contrasto alla peste suina",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ddl-coltivaitalia-legge-filiere-allevamento-insediamento-dei-giovani-moratoria-sui-mutui-contrasto",
+      "data": "2026-11-05T15:23:15+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2a4397fb0704",
+      "titolo": "Servizio Civile digitale e ambientale ad ITER",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-digitale-ambientale-ad-iter",
+      "data": "2026-10-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1079b66f9763",
+      "titolo": "Scuola, più opportunità per i giovani con i nuovi bandi regionali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuola-piu-opportunita-per-giovani-nuovi-bandi-regionali",
+      "data": "2026-10-26T14:33:46+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4ef3d9d2563e",
+      "titolo": "Lo Russo: “Serve un Piano Marshall per i giovani”",
+      "link": "https://www.comune.torino.it/novita/comunicati/russo-serve-un-piano-marshall-per-giovani",
+      "data": "2026-10-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6fb8c18313c6",
+      "titolo": "IOLAVORO 2026: Torino protagonista di due giornate tra opportunità di lavoro, giovani e nuove competenze",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-torino-protagonista-due-giornate-opportunita-lavoro-giovani-nuove-competenze",
+      "data": "2026-10-16T11:01:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7979f3473b2f",
+      "titolo": "IoLavoro 2026, due giornate di contatti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-due-giornate-contatti",
+      "data": "2026-10-16T11:01:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "58873ae15c1d",
+      "titolo": "“Spazi Liberi”: Torino scommette sul reinserimento lavorativo e l’affido per i giovani detenuti",
+      "link": "https://www.comune.torino.it/novita/comunicati/spazi-liberi-torino-scommette-sul-reinserimento-lavorativo-laffido-per-giovani",
       "data": "2026-10-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -931,80 +1071,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "giovani": [
-    {
-      "id": "69b68cc70734",
-      "titolo": "Open 011, inaugurata la casa della mobilità giovanile e dell’intercultura",
-      "link": "https://www.comune.torino.it/novita/comunicati/open-011-inaugurata-casa-della-mobilita-giovanile-dellintercultura",
-      "data": "2026-11-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "be123f659eef",
-      "titolo": "25 novembre, Torino rinnova il proprio impegno contro la violenza sulle donne",
-      "link": "https://www.comune.torino.it/novita/comunicati/25-novembre-torino-rinnova-proprio-impegno-contro-violenza-sulle-donne",
-      "data": "2026-11-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9b8f4bfd5bc7",
-      "titolo": "Il Ddl ColtivaItalia è legge: filiere, allevamento, insediamento dei giovani, moratoria sui mutui, contrasto alla peste suina",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ddl-coltivaitalia-legge-filiere-allevamento-insediamento-dei-giovani-moratoria-sui-mutui-contrasto",
-      "data": "2026-11-05T15:23:15+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2a4397fb0704",
-      "titolo": "Servizio Civile digitale e ambientale ad ITER",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-digitale-ambientale-ad-iter",
-      "data": "2026-10-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1079b66f9763",
-      "titolo": "Scuola, più opportunità per i giovani con i nuovi bandi regionali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuola-piu-opportunita-per-giovani-nuovi-bandi-regionali",
-      "data": "2026-10-26T14:33:46+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4ef3d9d2563e",
-      "titolo": "Lo Russo: “Serve un Piano Marshall per i giovani”",
-      "link": "https://www.comune.torino.it/novita/comunicati/russo-serve-un-piano-marshall-per-giovani",
-      "data": "2026-10-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6fb8c18313c6",
-      "titolo": "IOLAVORO 2026: Torino protagonista di due giornate tra opportunità di lavoro, giovani e nuove competenze",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-torino-protagonista-due-giornate-opportunita-lavoro-giovani-nuove-competenze",
-      "data": "2026-10-16T11:01:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7979f3473b2f",
-      "titolo": "IoLavoro 2026, due giornate di contatti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-due-giornate-contatti",
-      "data": "2026-10-16T11:01:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "58873ae15c1d",
-      "titolo": "“Spazi Liberi”: Torino scommette sul reinserimento lavorativo e l’affido per i giovani detenuti",
-      "link": "https://www.comune.torino.it/novita/comunicati/spazi-liberi-torino-scommette-sul-reinserimento-lavorativo-laffido-per-giovani",
-      "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "istruzione-formazione": [
     {
       "id": "90bde7fa61ac",
@@ -1255,48 +1321,6 @@
       "titolo": "Sicurezza urbana e commercio di vicinato: Città di Torino e Camera di Commercio lanciano un piano di sostegno economico contro le “spaccate”",
       "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-commercio-vicinato-citta-torino-camera-commercio-lanciano-un",
       "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "pianificazione-territoriale": [
-    {
-      "id": "a2c0ec2b878f",
-      "titolo": "Patto per la lettura, primo incontro in Regione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/patto-per-lettura-primo-incontro-regione",
-      "data": "2026-11-16T16:13:11+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c16b687b9280",
-      "titolo": "Maltempo in attenuazione: chiude la sala operativa della Protezione civile",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-attenuazione-chiude-sala-operativa-della-protezione-civile",
-      "data": "2026-10-21T17:05:22+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "33a183e97346",
-      "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile-della-regione-piemonte",
-      "data": "2026-10-20T16:43:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7f95bbe9ead1",
-      "titolo": "Maltempo: aperta la sala operativa della Protezione civile",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile",
-      "data": "2026-10-20T16:43:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8d44ba116345",
-      "titolo": "La settimana della salute mentale. A Torino dal 10 al 16 ottobre tra incontri, arte e laboratori",
-      "link": "https://www.comune.torino.it/novita/comunicati/settimana-della-salute-mentale-torino-10-al-16-ottobre-incontri-arte-laboratori",
-      "data": "2026-10-09T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
