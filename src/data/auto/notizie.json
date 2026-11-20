@@ -51,7 +51,7 @@
   },
   {
     "id": "547714305942",
-    "titolo": "Lavori sulla fognatura in corso Unione Sovietica. Al via la prossima settimana riasfaltatre e interventi sui marciapiedi",
+    "titolo": "Lavori sulla fognatura in corso Unione Sovietica. Al via la prossima settimana riasfaltature e interventi sui marciapiedi",
     "link": "https://www.comune.torino.it/novita/comunicati/lavori-sulla-fognatura-corso-unione-sovietica-al-via-prossima-settimana",
     "descrizione": "Una riparazione della fognatura in corso Unione Sovietica, nuove riasfaltature, interventi sui marciapiedi e cantieri per la sicurezza degli incroci.",
     "data": "2026-11-20T12:00:00+00:00",
@@ -104,6 +104,16 @@
     "titolo": "Notre Dame de Paris (04- 07 dicembre 2026) e concerto di Cesare Cremonini (09,10 e 12 dicembre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
     "link": "https://www.comune.torino.it/novita/notizie/notre-dame-de-paris-04-07-dicembre-2026-concerto-cesare-cremonini-0910-12",
     "descrizione": "L'assegnazione si terrà GIOVEDI' 26 NOVEMBRE alle ore 14,30 in Via Meucci, 4 , piano -1, nell’area antistante gli sportelli.",
+    "data": "2026-11-20T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "5ca6eb47f884",
+    "titolo": "Chicco di Grano, inaugurata la nuova sede in via Brissogne",
+    "link": "https://www.comune.torino.it/novita/comunicati/chicco-grano-inaugurata-nuova-sede-via-brissogne",
+    "descrizione": "Un’ex scuola dell’infanzia torna a essere un luogo dedicato alla crescita, all’educazione e alla vita della comunità. È stata inaugurata questo pomeriggio la nu",
     "data": "2026-11-20T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1984,16 +1994,6 @@
     "titolo": "La settimana della salute mentale. A Torino dal 10 al 16 ottobre tra incontri, arte e laboratori",
     "link": "https://www.comune.torino.it/novita/comunicati/settimana-della-salute-mentale-torino-10-al-16-ottobre-incontri-arte-laboratori",
     "descrizione": "Aria-Spazi ReAli, progetto della Città di Torino realizzato in coprogettazione con enti e realtà del territorio.",
-    "data": "2026-10-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "f61ce179213f",
-    "titolo": "Convocazione per il rilascio di autorizzazioni stagionali con concessione di suolo pubblico per attività di vendita di prodotti non alimentari (Oggettistica) in Via Verdi – Via Sant’Ottavio",
-    "link": "https://www.comune.torino.it/novita/avvisi/convocazione-per-rilascio-autorizzazioni-stagionali-concessione-suolo-pubblico-1",
-    "descrizione": "Convocazione per il giorno 13 OTTOBRE ore 12,00 presso ufficio n. 231, 2°piano,Via Meucci 4",
     "data": "2026-10-09T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",

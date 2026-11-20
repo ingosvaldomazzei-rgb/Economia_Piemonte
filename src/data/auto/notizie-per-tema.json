@@ -107,6 +107,14 @@
       "fonte_id": "regione"
     },
     {
+      "id": "5ca6eb47f884",
+      "titolo": "Chicco di Grano, inaugurata la nuova sede in via Brissogne",
+      "link": "https://www.comune.torino.it/novita/comunicati/chicco-grano-inaugurata-nuova-sede-via-brissogne",
+      "data": "2026-11-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "90bde7fa61ac",
       "titolo": "Efficientamento energetico per due scuole e una biblioteca: approvati lavori per 1,7 milioni di euro",
       "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-per-due-scuole-una-biblioteca-approvati-lavori-per-17",
@@ -376,7 +384,7 @@
   "edilizia-opere-pubbliche": [
     {
       "id": "547714305942",
-      "titolo": "Lavori sulla fognatura in corso Unione Sovietica. Al via la prossima settimana riasfaltatre e interventi sui marciapiedi",
+      "titolo": "Lavori sulla fognatura in corso Unione Sovietica. Al via la prossima settimana riasfaltature e interventi sui marciapiedi",
       "link": "https://www.comune.torino.it/novita/comunicati/lavori-sulla-fognatura-corso-unione-sovietica-al-via-prossima-settimana",
       "data": "2026-11-20T12:00:00+00:00",
       "fonte": "Comune di Torino",
@@ -832,6 +840,72 @@
       "id": "08fe3dbb1cdd",
       "titolo": "A Torino l’assemblea nazionale della rete RE.A.DY. e il convegno sui diritti in Italia e in Europa",
       "link": "https://www.comune.torino.it/novita/comunicati/torino-lassemblea-nazionale-della-rete-ready-convegno-sui-diritti-italia-europa",
+      "data": "2026-10-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "5ca6eb47f884",
+      "titolo": "Chicco di Grano, inaugurata la nuova sede in via Brissogne",
+      "link": "https://www.comune.torino.it/novita/comunicati/chicco-grano-inaugurata-nuova-sede-via-brissogne",
+      "data": "2026-11-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b558b04041c6",
+      "titolo": "Dalla Regione 6,7 milioni di euro per Polizia locale e Unioni di Comuni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-67-milioni-euro-per-polizia-locale-unioni-comuni",
+      "data": "2026-11-04T15:54:09+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5bb2d05e9a98",
+      "titolo": "Turismo, nuovo bando per iniziative di comunicazione e promozione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-nuovo-bando-per-iniziative-comunicazione-promozione",
+      "data": "2026-11-02T15:29:03+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d5686ab44f5c",
+      "titolo": "Torino-Lione: Regione, TELT e Comuni al lavoro per un piano di ospitalità delle maestranze",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-regione-telt-comuni-al-lavoro-per-un-piano-ospitalita-delle-maestranze",
+      "data": "2026-10-30T11:22:28+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "376e5ba83055",
+      "titolo": "Incendi boschivi, 1,4 milioni per Valsesia e Terre del Giarolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-14-milioni-per-valsesia-terre-giarolo",
+      "data": "2026-10-29T11:44:13+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4ef3d9d2563e",
+      "titolo": "Lo Russo: “Serve un Piano Marshall per i giovani”",
+      "link": "https://www.comune.torino.it/novita/comunicati/russo-serve-un-piano-marshall-per-giovani",
+      "data": "2026-10-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a8e7c2ad327c",
+      "titolo": "Il Piemonte al Festival delle Regioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-festival-delle-regioni",
+      "data": "2026-10-25T13:38:50+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "3d9cb752ac97",
+      "titolo": "Social Festival Comunità Educative 2026",
+      "link": "https://www.comune.torino.it/novita/notizie/social-festival-comunita-educative-2026",
       "data": "2026-10-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
@@ -1508,64 +1582,6 @@
       "id": "bc203b8039e5",
       "titolo": "Sicurezza urbana e commercio di vicinato: Città di Torino e Camera di Commercio lanciano un piano di sostegno economico contro le “spaccate”",
       "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-commercio-vicinato-citta-torino-camera-commercio-lanciano-un",
-      "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "b558b04041c6",
-      "titolo": "Dalla Regione 6,7 milioni di euro per Polizia locale e Unioni di Comuni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-67-milioni-euro-per-polizia-locale-unioni-comuni",
-      "data": "2026-11-04T15:54:09+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5bb2d05e9a98",
-      "titolo": "Turismo, nuovo bando per iniziative di comunicazione e promozione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-nuovo-bando-per-iniziative-comunicazione-promozione",
-      "data": "2026-11-02T15:29:03+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d5686ab44f5c",
-      "titolo": "Torino-Lione: Regione, TELT e Comuni al lavoro per un piano di ospitalità delle maestranze",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-regione-telt-comuni-al-lavoro-per-un-piano-ospitalita-delle-maestranze",
-      "data": "2026-10-30T11:22:28+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "376e5ba83055",
-      "titolo": "Incendi boschivi, 1,4 milioni per Valsesia e Terre del Giarolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-14-milioni-per-valsesia-terre-giarolo",
-      "data": "2026-10-29T11:44:13+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4ef3d9d2563e",
-      "titolo": "Lo Russo: “Serve un Piano Marshall per i giovani”",
-      "link": "https://www.comune.torino.it/novita/comunicati/russo-serve-un-piano-marshall-per-giovani",
-      "data": "2026-10-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a8e7c2ad327c",
-      "titolo": "Il Piemonte al Festival delle Regioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-festival-delle-regioni",
-      "data": "2026-10-25T13:38:50+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3d9cb752ac97",
-      "titolo": "Social Festival Comunità Educative 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/social-festival-comunita-educative-2026",
       "data": "2026-10-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
