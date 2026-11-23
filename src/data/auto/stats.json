@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 123,
-    "regione": 77
+    "comune_torino": 129,
+    "regione": 71
   },
   "temi_attivi": [
     {
@@ -23,26 +23,26 @@
     },
     {
       "tema": "istruzione-formazione",
-      "conteggio": 15
+      "conteggio": 13
     },
     {
       "tema": "agricoltura",
       "conteggio": 12
     },
     {
-      "tema": "giovani",
-      "conteggio": 10
-    },
-    {
       "tema": "turismo",
-      "conteggio": 10
+      "conteggio": 11
     },
     {
       "tema": "edilizia-opere-pubbliche",
+      "conteggio": 10
+    },
+    {
+      "tema": "giovani",
       "conteggio": 9
     },
     {
-      "tema": "sanita-regionale",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 8
     }
   ],

@@ -1,4 +1,870 @@
 {
+  "lavoro-occupazione": [
+    {
+      "id": "954e0f61b256",
+      "titolo": "POSSIBILI DISSERVIZI AGLI SPORTELLI DELLA POLIZIA LOCALE",
+      "link": "https://www.comune.torino.it/novita/avvisi/possibili-disservizi-agli-sportelli-della-polizia-locale",
+      "data": "2026-11-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7121fd4f3b0d",
+      "titolo": "Consiglio Comunale: nuove norme per la conservazione delle ceneri a domicilio e nuove aree per lo spargimento",
+      "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-nuove-norme-per-conservazione-delle-ceneri-domicilio-nuove",
+      "data": "2026-11-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c40f7450910f",
+      "titolo": "Un giardino per don Natale Fisanotti",
+      "link": "https://www.comune.torino.it/novita/comunicati/un-giardino-per-don-natale-fisanotti",
+      "data": "2026-11-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "906e452e7f58",
+      "titolo": "Lavoro e formazione, il Piemonte rivoluziona le politiche attive post Gol",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lavoro-formazione-piemonte-rivoluziona-politiche-attive-post-gol",
+      "data": "2026-11-18T13:44:56+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c15153c13826",
+      "titolo": "Torino aggiorna il regolamento su suolo pubblico e pubblicità: più semplificazioni dal 2027",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-aggiorna-regolamento-suolo-pubblico-pubblicita-piu-semplificazioni-2027",
+      "data": "2026-11-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "adc596c87909",
+      "titolo": "Servizio di trasporto per le persone con disabilità: via libera della Giunta alla revisione del regolamento",
+      "link": "https://www.comune.torino.it/novita/comunicati/servizio-trasporto-per-persone-disabilita-via-libera-della-giunta-alla-revisione",
+      "data": "2026-11-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d7d5c891614f",
+      "titolo": "Cavalcaferrovia di corso Siracusa, da lunedì 16 novembre nuova fase di lavoro. In corso Mortara intervento sulla rete di teleriscaldamento: cambia la viabilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/cavalcaferrovia-corso-siracusa-lunedi-16-novembre-nuova-fase-lavoro-corso",
+      "data": "2026-11-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bc829934e7b1",
+      "titolo": "Nitto ATP Finals 2026: svelati i gironi, Cobolli sfida Alcaraz e Bolelli/Vavassori guidano il doppio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-svelati-gironi-cobolli-sfida-alcaraz-bolellivavassori-guidano-doppio",
+      "data": "2026-11-12T15:14:44+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0a8b630be0da",
+      "titolo": "Nitto ATP Finals 2026, al via i primi incontri",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-al-via-primi-incontri",
+      "data": "2026-11-12T15:14:44+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "60aa6f38d919",
+      "titolo": "Sharing, approvate le nuove regole per bici, monopattini e scooter",
+      "link": "https://www.comune.torino.it/novita/comunicati/sharing-approvate-nuove-regole-per-bici-monopattini-scooter",
+      "data": "2026-11-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "399d6be89f19",
+      "titolo": "Microchip: presentato a Novara Vulcan Project di Silicon Box, primo sito nel suo genere in Ue",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/microchip-presentato-novara-vulcan-project-silicon-box-primo-sito-nel-suo-genere-ue",
+      "data": "2026-11-09T19:14:33+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "20beeb33f913",
+      "titolo": "Lupo, il Piemonte al lavoro per il Piano di gestione della specie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lupo-piemonte-al-lavoro-per-piano-gestione-della-specie",
+      "data": "2026-11-04T12:23:57+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "90144480c264",
+      "titolo": "Ecomusei, approvato il nuovo Regolamento",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-approvato-nuovo-regolamento",
+      "data": "2026-11-01T11:00:08+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d5686ab44f5c",
+      "titolo": "Torino-Lione: Regione, TELT e Comuni al lavoro per un piano di ospitalità delle maestranze",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-regione-telt-comuni-al-lavoro-per-un-piano-ospitalita-delle-maestranze",
+      "data": "2026-10-30T11:22:28+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6f02464100b5",
+      "titolo": "Polizia Locale: eseguita misura cautelare in carcere per maltrattamenti ed estorsione ai danni di un'anziana",
+      "link": "https://www.comune.torino.it/novita/comunicati/polizia-locale-eseguita-misura-cautelare-carcere-per-maltrattamenti-estorsione",
+      "data": "2026-10-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e0521667f1ff",
+      "titolo": "Occupazione straordinaria di suolo pubblico con dehors",
+      "link": "https://www.comune.torino.it/novita/avvisi/occupazione-straordinaria-suolo-pubblico-dehors",
+      "data": "2026-10-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "47db56fb748a",
+      "titolo": "Il Consiglio comunale approva le modifiche al Regolamento dehors per la semplificazione e il riordino delle procedure",
+      "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-modifiche-al-regolamento-dehors-per-semplificazione",
+      "data": "2026-10-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7c1d19e365a3",
+      "titolo": "Grand Opening Show Nitto ATP Finals 2026 - Achille Lauro in concerto (12 novembre 2026). Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita nei pressi dell'Inalpi Arena",
+      "link": "https://www.comune.torino.it/novita/notizie/grand-opening-show-nitto-atp-finals-2026-achille-lauro-concerto-12-novembre-2026",
+      "data": "2026-10-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "71dcac77e19c",
+      "titolo": "NITTO ATP FINALS 2026 (15-22 novembre 2026) - bando comunale per il rilascio di concessioni occupazione temporanea del suolo pubblico per attività di vendita in occasione della manifestazione sportiva",
+      "link": "https://www.comune.torino.it/novita/notizie/nitto-atp-finals-2026-15-22-novembre-2026-bando-comunale-per-rilascio",
+      "data": "2026-10-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a22622a3bee9",
+      "titolo": "Apre al pubblico lo storico chiosco di piazza San Carlo: sarà un nuovo spazio per la promozione della Città e dei suoi eventi",
+      "link": "https://www.comune.torino.it/novita/comunicati/apre-al-pubblico-storico-chiosco-piazza-san-carlo-sara-un-nuovo-spazio-per",
+      "data": "2026-10-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "cultura-beni-culturali": [
+    {
+      "id": "954e0f61b256",
+      "titolo": "POSSIBILI DISSERVIZI AGLI SPORTELLI DELLA POLIZIA LOCALE",
+      "link": "https://www.comune.torino.it/novita/avvisi/possibili-disservizi-agli-sportelli-della-polizia-locale",
+      "data": "2026-11-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ddf8038eae7d",
+      "titolo": "“Catch the ball!”, il flashmob di teatro-danza in via Roma",
+      "link": "https://www.comune.torino.it/novita/comunicati/catch-the-ball-flashmob-teatro-danza-via-roma",
+      "data": "2026-11-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "3c49ecbbe932",
+      "titolo": "Luci d’Artista, alla scoperta della 29esima edizione con i tour guidati nelle circoscrizioni",
+      "link": "https://www.comune.torino.it/novita/comunicati/luci-dartista-alla-scoperta-della-29esima-edizione-tour-guidati-nelle",
+      "data": "2026-11-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "783f6313c632",
+      "titolo": "Tennis Takes Over, Torino fa festa: sabato 21 e domenica 22 novembre una notte e una mattina tra musica, sport e cultura",
+      "link": "https://www.comune.torino.it/novita/comunicati/tennis-takes-over-torino-fa-festa-sabato-21-domenica-22-novembre-una-notte-una",
+      "data": "2026-11-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9df94f4f04ad",
+      "titolo": "Accordo governo - Regione: 242 milioni per interventi strategici in Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-governo-regione-242-milioni-per-interventi-strategici-piemonte",
+      "data": "2026-11-19T15:39:26+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bba4041b5633",
+      "titolo": "Prima cabina di regia contro lo sfruttamento lavorativo e il caporalato",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/prima-cabina-regia-contro-sfruttamento-lavorativo-caporalato",
+      "data": "2026-11-18T14:56:10+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "69b68cc70734",
+      "titolo": "Open 011, inaugurata la casa della mobilità giovanile e dell’intercultura",
+      "link": "https://www.comune.torino.it/novita/comunicati/open-011-inaugurata-casa-della-mobilita-giovanile-dellintercultura",
+      "data": "2026-11-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5344f986c78b",
+      "titolo": "Spazi pubblici dedicati al ricordo di Germana Erba, Emma Strada e Vincenza Castria",
+      "link": "https://www.comune.torino.it/novita/comunicati/spazi-pubblici-dedicati-al-ricordo-germana-erba-emma-strada-vincenza-castria",
+      "data": "2026-11-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "be123f659eef",
+      "titolo": "25 novembre, Torino rinnova il proprio impegno contro la violenza sulle donne",
+      "link": "https://www.comune.torino.it/novita/comunicati/25-novembre-torino-rinnova-proprio-impegno-contro-violenza-sulle-donne",
+      "data": "2026-11-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a2c0ec2b878f",
+      "titolo": "Patto per la lettura, primo incontro in Regione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/patto-per-lettura-primo-incontro-regione",
+      "data": "2026-11-16T16:13:11+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7a7e5be5f644",
+      "titolo": "Fuori protocollo, oltre 100 iscritti al primo gruppo di lettura per dipendenti regionali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fuori-protocollo-oltre-100-iscritti-al-primo-gruppo-lettura-per-dipendenti-regionali",
+      "data": "2026-11-16T15:18:07+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9dd45e04cedd",
+      "titolo": "La Polizia Locale di Torino festeggia il 235° anniversario dalla fondazione del Corpo. Premiati gli agenti che si sono distinti nell’ultimo anno",
+      "link": "https://www.comune.torino.it/novita/comunicati/polizia-locale-torino-festeggia-235deg-anniversario-dalla-fondazione-corpo",
+      "data": "2026-11-12T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "4e73fabee2df",
+      "titolo": "Cultura, 1,4 milioni per sostenere altri 80 progetti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-14-milioni-per-sostenere-altri-80-progetti",
+      "data": "2026-11-10T13:47:44+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d48b326debfa",
+      "titolo": "Stadio Olimpico Grande Torino, depositata una proposta di fattibilità da parte del Torino FC",
+      "link": "https://www.comune.torino.it/novita/comunicati/stadio-olimpico-grande-torino-depositata-una-proposta-fattibilita-parte-torino",
+      "data": "2026-11-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "20beeb33f913",
+      "titolo": "Lupo, il Piemonte al lavoro per il Piano di gestione della specie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lupo-piemonte-al-lavoro-per-piano-gestione-della-specie",
+      "data": "2026-11-04T12:23:57+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "459c97fe737f",
+      "titolo": "Il futuro del tartufo si coltiva a scuola: da Chieri parte il tour negli istituti agrari",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/futuro-tartufo-si-coltiva-scuola-chieri-parte-tour-negli-istituti-agrari",
+      "data": "2026-11-03T15:38:18+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "90144480c264",
+      "titolo": "Ecomusei, approvato il nuovo Regolamento",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-approvato-nuovo-regolamento",
+      "data": "2026-11-01T11:00:08+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "82c59a094f5a",
+      "titolo": "\"L'intelligenza artificiale al servizio delle persone\", il presidente Cirio a Vienna per Bridge for Cities 2026",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lintelligenza-artificiale-al-servizio-delle-persone-presidente-cirio-vienna-per-bridge-for-cities",
+      "data": "2026-10-29T13:46:46+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5d0378c14c15",
+      "titolo": "Parte il progetto \"Si Riparte! Anduma ancora\": viaggio nel Monferrato e occasioni di incontro e socialità per persone over 65. Iscrizioni dal 28 ottobre 2026.",
+      "link": "https://www.comune.torino.it/novita/notizie/parte-progetto-si-riparte-anduma-ancora-viaggio-nel-monferrato-occasioni",
+      "data": "2026-10-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "55f66aec1163",
+      "titolo": "Il maestro Eugenio Barba a Torino: tre appuntamenti da non perdere",
+      "link": "https://www.comune.torino.it/novita/notizie/maestro-eugenio-barba-torino-tre-appuntamenti-non-perdere",
+      "data": "2026-10-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "sport": [
+    {
+      "id": "954e0f61b256",
+      "titolo": "POSSIBILI DISSERVIZI AGLI SPORTELLI DELLA POLIZIA LOCALE",
+      "link": "https://www.comune.torino.it/novita/avvisi/possibili-disservizi-agli-sportelli-della-polizia-locale",
+      "data": "2026-11-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "88538498622e",
+      "titolo": "Il Set Perfetto: presentati i numeri finali di Casa Tennis, Casa Gusto e degli eventi diffusi organizzati per le Nitto ATP Finals",
+      "link": "https://www.comune.torino.it/novita/comunicati/set-perfetto-presentati-numeri-finali-casa-tennis-casa-gusto-degli-eventi",
+      "data": "2026-11-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "783f6313c632",
+      "titolo": "Tennis Takes Over, Torino fa festa: sabato 21 e domenica 22 novembre una notte e una mattina tra musica, sport e cultura",
+      "link": "https://www.comune.torino.it/novita/comunicati/tennis-takes-over-torino-fa-festa-sabato-21-domenica-22-novembre-una-notte-una",
+      "data": "2026-11-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ffe171032648",
+      "titolo": "Notre Dame de Paris (04- 07 dicembre 2026) e concerto di Cesare Cremonini (09,10 e 12 dicembre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/notre-dame-de-paris-04-07-dicembre-2026-concerto-cesare-cremonini-0910-12",
+      "data": "2026-11-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "80748d8b454e",
+      "titolo": "Il Giganotosauro torna al Museo Regionale di Scienze Naturali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giganotosauro-torna-al-museo-regionale-scienze-naturali",
+      "data": "2026-11-19T09:46:39+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "adc596c87909",
+      "titolo": "Servizio di trasporto per le persone con disabilità: via libera della Giunta alla revisione del regolamento",
+      "link": "https://www.comune.torino.it/novita/comunicati/servizio-trasporto-per-persone-disabilita-via-libera-della-giunta-alla-revisione",
+      "data": "2026-11-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "debfad889580",
+      "titolo": "A Casa Tennis celebrati oltre 200 atleti piemontesi",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/casa-tennis-celebrati-oltre-200-atleti-piemontesi",
+      "data": "2026-11-17T09:39:09+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "840f08b1a56a",
+      "titolo": "Inaugurate Casa Tennis e Casa Gusto 2026",
+      "link": "https://www.comune.torino.it/novita/comunicati/inaugurate-casa-tennis-casa-gusto-2026",
+      "data": "2026-11-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "bc829934e7b1",
+      "titolo": "Nitto ATP Finals 2026: svelati i gironi, Cobolli sfida Alcaraz e Bolelli/Vavassori guidano il doppio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-svelati-gironi-cobolli-sfida-alcaraz-bolellivavassori-guidano-doppio",
+      "data": "2026-11-12T15:14:44+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0a8b630be0da",
+      "titolo": "Nitto ATP Finals 2026, al via i primi incontri",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-al-via-primi-incontri",
+      "data": "2026-11-12T15:14:44+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4a5c9705bbea",
+      "titolo": "Nitto ATP Finals 2026: Torino e il Piemonte si preparano alla grande festa del tennis",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-torino-piemonte-si-preparano-alla-grande-festa-tennis",
+      "data": "2026-11-11T14:49:58+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7365df8c26d7",
+      "titolo": "Nitto ATP Finals, inaugurato il Fan Village. Il trofeo arriva a Palazzo Civico",
+      "link": "https://www.comune.torino.it/novita/comunicati/nitto-atp-finals-inaugurato-fan-village-trofeo-arriva-palazzo-civico",
+      "data": "2026-11-11T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "fef01612be14",
+      "titolo": "Il Mio Dj: il tram diventa un club itinerante per le Nitto ATP Finals. Samuel alla direzione artistica e una line-up che riunisce alcuni protagonisti della scena elettronica italiana, tra corse musicali e dj set",
+      "link": "https://www.comune.torino.it/novita/comunicati/mio-dj-tram-diventa-un-club-itinerante-per-nitto-atp-finals-samuel-alla",
+      "data": "2026-11-10T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ff3d55a82e5b",
+      "titolo": "All'aeroporto di Torino apre il primo official store dedicato alla città e al suo city brand",
+      "link": "https://www.comune.torino.it/novita/comunicati/allaeroporto-torino-apre-primo-official-store-dedicato-alla-citta-al-suo-city",
+      "data": "2026-11-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "30aa72a52a1f",
+      "titolo": "Nitto ATP Finals 2026: modifiche alla viabilità intorno allo Stadio Olimpico e in altre aree della città",
+      "link": "https://www.comune.torino.it/novita/comunicati/nitto-atp-finals-2026-modifiche-alla-viabilita-intorno-allo-stadio-olimpico",
+      "data": "2026-11-09T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1290b15351f7",
+      "titolo": "Incontro con il Console Generale della Repubblica Popolare di Cina Chenggang Zang",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-console-generale-della-repubblica-popolare-cina-chenggang-zang",
+      "data": "2026-11-06T18:00:00+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6d448a8d4b88",
+      "titolo": "IL SET PERFETTO. Dieci giorni sotto rete per innamorarsi di Torino e del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/set-perfetto-dieci-giorni-sotto-rete-per-innamorarsi-torino-piemonte",
+      "data": "2026-11-01T16:18:29+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b3966324b156",
+      "titolo": "Agricoltura, 8 milioni al Piemonte per abbattere i costi del gasolio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-8-milioni-al-piemonte-per-abbattere-costi-gasolio",
+      "data": "2026-10-28T15:50:05+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "762dd34a8865",
+      "titolo": "400mila euro per la riqualificazione dell’impianto sportivo Regaldi e dei campi da calcio Ruffini",
+      "link": "https://www.comune.torino.it/novita/comunicati/400mila-euro-per-riqualificazione-dellimpianto-sportivo-regaldi-dei-campi-calcio",
+      "data": "2026-10-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "83d75248b4b2",
+      "titolo": "Sport, 8 nuovi bandi per oltre 3,5 milioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sport-8-nuovi-bandi-per-oltre-35-milioni",
+      "data": "2026-10-26T20:00:41+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "bilancio-regionale": [
+    {
+      "id": "8474576c9af4",
+      "titolo": "Approvata sesta variazione al Bilancio di previsione 2026-2028",
+      "link": "https://www.comune.torino.it/novita/comunicati/approvata-sesta-variazione-al-bilancio-previsione-2026-2028",
+      "data": "2026-11-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "88cdebd418ef",
+      "titolo": "Presentato il bilancio di previsione 2027-2029",
+      "link": "https://www.comune.torino.it/novita/comunicati/presentato-bilancio-previsione-2027-2029",
+      "data": "2026-11-07T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6c8904b0fc1e",
+      "titolo": "Bilancio consolidato 2025; il Gruppo Comune chiude con un risultato positivo",
+      "link": "https://www.comune.torino.it/novita/comunicati/bilancio-consolidato-2025-gruppo-comune-chiude-un-risultato-positivo",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "665163242fe8",
+      "titolo": "Quinta variazione di Bilancio: nuove risorse per personale, servizi e contenzioso movida",
+      "link": "https://www.comune.torino.it/novita/comunicati/quinta-variazione-bilancio-nuove-risorse-per-personale-servizi-contenzioso",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7c1d19e365a3",
+      "titolo": "Grand Opening Show Nitto ATP Finals 2026 - Achille Lauro in concerto (12 novembre 2026). Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita nei pressi dell'Inalpi Arena",
+      "link": "https://www.comune.torino.it/novita/notizie/grand-opening-show-nitto-atp-finals-2026-achille-lauro-concerto-12-novembre-2026",
+      "data": "2026-10-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "turismo": [
+    {
+      "id": "c9f6ca2bf546",
+      "titolo": "Ristrutturazione edilizia finisce in sequestro. Realizzavano mini appartamenti senza autorizzazione, scoperti dalla Polizia Locale",
+      "link": "https://www.comune.torino.it/novita/comunicati/ristrutturazione-edilizia-finisce-sequestro-realizzavano-mini-appartamenti-senza",
+      "data": "2026-11-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "e11f2d9253e7",
+      "titolo": "Turismo invernale, il Piemonte su Rai e Mediaset",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-invernale-piemonte-rai-mediaset",
+      "data": "2026-11-18T16:12:07+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "1290b15351f7",
+      "titolo": "Incontro con il Console Generale della Repubblica Popolare di Cina Chenggang Zang",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-console-generale-della-repubblica-popolare-cina-chenggang-zang",
+      "data": "2026-11-06T18:00:00+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5c6402b2b8aa",
+      "titolo": "CASA GUSTO: aperte le prenotazioni per le degustazioni e le visite guidate",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/casa-gusto-aperte-prenotazioni-per-degustazioni-visite-guidate",
+      "data": "2026-11-05T07:39:46+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5bb2d05e9a98",
+      "titolo": "Turismo, nuovo bando per iniziative di comunicazione e promozione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-nuovo-bando-per-iniziative-comunicazione-promozione",
+      "data": "2026-11-02T15:29:03+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "6d448a8d4b88",
+      "titolo": "IL SET PERFETTO. Dieci giorni sotto rete per innamorarsi di Torino e del Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/set-perfetto-dieci-giorni-sotto-rete-per-innamorarsi-torino-piemonte",
+      "data": "2026-11-01T16:18:29+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b3966324b156",
+      "titolo": "Agricoltura, 8 milioni al Piemonte per abbattere i costi del gasolio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-8-milioni-al-piemonte-per-abbattere-costi-gasolio",
+      "data": "2026-10-28T15:50:05+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5d0378c14c15",
+      "titolo": "Parte il progetto \"Si Riparte! Anduma ancora\": viaggio nel Monferrato e occasioni di incontro e socialità per persone over 65. Iscrizioni dal 28 ottobre 2026.",
+      "link": "https://www.comune.torino.it/novita/notizie/parte-progetto-si-riparte-anduma-ancora-viaggio-nel-monferrato-occasioni",
+      "data": "2026-10-28T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a025001bd499",
+      "titolo": "Successo nel fine settimana per la Fiera del Marrone di Cuneo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/successo-nel-fine-settimana-per-fiera-marrone-cuneo",
+      "data": "2026-10-19T10:24:02+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d93e89bb9642",
+      "titolo": "Il Piemonte a TTG 2026, seconda giornata",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-ttg-2026-seconda-giornata",
+      "data": "2026-10-15T16:11:51+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ca124aaabbfc",
+      "titolo": "Il Piemonte al TTG 2026. Un ricco palinsesto di eventi dedicato alla sostenibilità, all’outdoor, alla cultura e all’enogastronomia",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-ttg-2026-un-ricco-palinsesto-eventi-dedicato-alla-sostenibilita-alloutdoor-alla-cultura",
+      "data": "2026-10-13T14:11:27+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "edilizia-opere-pubbliche": [
+    {
+      "id": "c9f6ca2bf546",
+      "titolo": "Ristrutturazione edilizia finisce in sequestro. Realizzavano mini appartamenti senza autorizzazione, scoperti dalla Polizia Locale",
+      "link": "https://www.comune.torino.it/novita/comunicati/ristrutturazione-edilizia-finisce-sequestro-realizzavano-mini-appartamenti-senza",
+      "data": "2026-11-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "547714305942",
+      "titolo": "Lavori sulla fognatura in corso Unione Sovietica. Al via la prossima settimana riasfaltature e interventi sui marciapiedi",
+      "link": "https://www.comune.torino.it/novita/comunicati/lavori-sulla-fognatura-corso-unione-sovietica-al-via-prossima-settimana",
+      "data": "2026-11-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "c811260cd0c7",
+      "titolo": "Progetto Falchera. Bando pubblico di social housing",
+      "link": "https://www.comune.torino.it/novita/notizie/progetto-falchera-bando-pubblico-social-housing",
+      "data": "2026-11-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "debff95265ca",
+      "titolo": "Montagna, il Piemonte investe per portare il segnale dove il mercato non arriva",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/montagna-piemonte-investe-per-portare-segnale-dove-mercato-non-arriva",
+      "data": "2026-11-16T15:10:43+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "757c90c277a4",
+      "titolo": "“Torino cambia – Spazi che uniscono”, lavori in via Germagnano, strada del Cascinotto e via Sempione",
+      "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-spazi-che-uniscono-lavori-via-germagnano-strada-cascinotto-via",
+      "data": "2026-11-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "d5686ab44f5c",
+      "titolo": "Torino-Lione: Regione, TELT e Comuni al lavoro per un piano di ospitalità delle maestranze",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-regione-telt-comuni-al-lavoro-per-un-piano-ospitalita-delle-maestranze",
+      "data": "2026-10-30T11:22:28+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "0d788fd8b4b9",
+      "titolo": "Stati generali della Logistica: focus su infrastrutture e competitività del Nord - Ovest",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-della-logistica-focus-infrastrutture-competitivita-nord-ovest",
+      "data": "2026-10-29T15:28:58+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cb12dcbcc870",
+      "titolo": "Nasce Silver Housing Massaua. Nuovi spazi per l’autonomia degli anziani non autosufficienti",
+      "link": "https://www.comune.torino.it/novita/comunicati/nasce-silver-housing-massaua-nuovi-spazi-per-lautonomia-degli-anziani-non",
+      "data": "2026-10-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "afaddafcce9e",
+      "titolo": "Approvata la variante per l’area “Ponte Mosca” nel quartiere Aurora, un nuovo campus urbano sostenibile e ad alta efficienza energetica",
+      "link": "https://www.comune.torino.it/novita/comunicati/approvata-variante-per-larea-ponte-mosca-nel-quartiere-aurora-un-nuovo-campus",
+      "data": "2026-10-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "3288ba7a88e1",
+      "titolo": "Abitare sulla Luna, a Torino i riflettori sul modulo MPH",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/abitare-sulla-luna-torino-riflettori-sul-modulo-mph",
+      "data": "2026-10-16T18:00:00+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "commercio-artigianato": [
+    {
+      "id": "88538498622e",
+      "titolo": "Il Set Perfetto: presentati i numeri finali di Casa Tennis, Casa Gusto e degli eventi diffusi organizzati per le Nitto ATP Finals",
+      "link": "https://www.comune.torino.it/novita/comunicati/set-perfetto-presentati-numeri-finali-casa-tennis-casa-gusto-degli-eventi",
+      "data": "2026-11-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1290b15351f7",
+      "titolo": "Incontro con il Console Generale della Repubblica Popolare di Cina Chenggang Zang",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-console-generale-della-repubblica-popolare-cina-chenggang-zang",
+      "data": "2026-11-06T18:00:00+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b3966324b156",
+      "titolo": "Agricoltura, 8 milioni al Piemonte per abbattere i costi del gasolio",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-8-milioni-al-piemonte-per-abbattere-costi-gasolio",
+      "data": "2026-10-28T15:50:05+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "bc203b8039e5",
+      "titolo": "Sicurezza urbana e commercio di vicinato: Città di Torino e Camera di Commercio lanciano un piano di sostegno economico contro le “spaccate”",
+      "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-commercio-vicinato-citta-torino-camera-commercio-lanciano-un",
+      "data": "2026-10-13T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    }
+  ],
+  "enti-locali-piccoli-comuni": [
+    {
+      "id": "eadb6e7dda83",
+      "titolo": "Protezione Civile, Torino rinnova la Sala Unità di Crisi: nove schermi e nuove radio per gestire le emergenze anche senza le reti di comunicazione ordinarie",
+      "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-torino-rinnova-sala-unita-crisi-nove-schermi-nuove-radio-per",
+      "data": "2026-11-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5ca6eb47f884",
+      "titolo": "Chicco di Grano, inaugurata la nuova sede in via Brissogne",
+      "link": "https://www.comune.torino.it/novita/comunicati/chicco-grano-inaugurata-nuova-sede-via-brissogne",
+      "data": "2026-11-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b558b04041c6",
+      "titolo": "Dalla Regione 6,7 milioni di euro per Polizia locale e Unioni di Comuni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-67-milioni-euro-per-polizia-locale-unioni-comuni",
+      "data": "2026-11-04T15:54:09+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "5bb2d05e9a98",
+      "titolo": "Turismo, nuovo bando per iniziative di comunicazione e promozione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-nuovo-bando-per-iniziative-comunicazione-promozione",
+      "data": "2026-11-02T15:29:03+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "d5686ab44f5c",
+      "titolo": "Torino-Lione: Regione, TELT e Comuni al lavoro per un piano di ospitalità delle maestranze",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-regione-telt-comuni-al-lavoro-per-un-piano-ospitalita-delle-maestranze",
+      "data": "2026-10-30T11:22:28+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "376e5ba83055",
+      "titolo": "Incendi boschivi, 1,4 milioni per Valsesia e Terre del Giarolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-14-milioni-per-valsesia-terre-giarolo",
+      "data": "2026-10-29T11:44:13+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4ef3d9d2563e",
+      "titolo": "Lo Russo: “Serve un Piano Marshall per i giovani”",
+      "link": "https://www.comune.torino.it/novita/comunicati/russo-serve-un-piano-marshall-per-giovani",
+      "data": "2026-10-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a8e7c2ad327c",
+      "titolo": "Il Piemonte al Festival delle Regioni",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-festival-delle-regioni",
+      "data": "2026-10-25T13:38:50+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
+  "protezione-civile": [
+    {
+      "id": "eadb6e7dda83",
+      "titolo": "Protezione Civile, Torino rinnova la Sala Unità di Crisi: nove schermi e nuove radio per gestire le emergenze anche senza le reti di comunicazione ordinarie",
+      "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-torino-rinnova-sala-unita-crisi-nove-schermi-nuove-radio-per",
+      "data": "2026-11-23T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "376e5ba83055",
+      "titolo": "Incendi boschivi, 1,4 milioni per Valsesia e Terre del Giarolo",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-14-milioni-per-valsesia-terre-giarolo",
+      "data": "2026-10-29T11:44:13+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "c16b687b9280",
+      "titolo": "Maltempo in attenuazione: chiude la sala operativa della Protezione civile",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-attenuazione-chiude-sala-operativa-della-protezione-civile",
+      "data": "2026-10-21T17:05:22+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "33a183e97346",
+      "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile-della-regione-piemonte",
+      "data": "2026-10-20T16:43:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7f95bbe9ead1",
+      "titolo": "Maltempo: aperta la sala operativa della Protezione civile",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile",
+      "data": "2026-10-20T16:43:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "00056a72b0ff",
+      "titolo": "La Sala Rossa per il contrasto alla solitudine",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-per-contrasto-alla-solitudine",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6f8c359fabf9",
+      "titolo": "Nuovo ospedale di Vercelli, via libera del Ministero al finanziamento del blocco di emergenza-urgenza",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-vercelli-via-libera-ministero-al-finanziamento-blocco-emergenza-urgenza",
+      "data": "2026-10-16T14:25:37+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "ba6c588e4668",
+      "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
+      "data": "2026-10-14T17:07:24+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "agricoltura": [
     {
       "id": "3bc4122a6a78",
@@ -201,582 +1067,6 @@
       "data": "2026-10-20T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b7bcbfc1ee6c",
-      "titolo": "Al via IoLavoro",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro",
-      "data": "2026-10-12T15:57:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "830f49a19e25",
-      "titolo": "Al via IoLavoro, il 14 ottobre inaugurazione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro-14-ottobre-inaugurazione",
-      "data": "2026-10-12T15:57:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "lavoro-occupazione": [
-    {
-      "id": "c40f7450910f",
-      "titolo": "Un giardino per don Natale Fisanotti",
-      "link": "https://www.comune.torino.it/novita/comunicati/un-giardino-per-don-natale-fisanotti",
-      "data": "2026-11-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "906e452e7f58",
-      "titolo": "Lavoro e formazione, il Piemonte rivoluziona le politiche attive post Gol",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lavoro-formazione-piemonte-rivoluziona-politiche-attive-post-gol",
-      "data": "2026-11-18T13:44:56+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c15153c13826",
-      "titolo": "Torino aggiorna il regolamento su suolo pubblico e pubblicità: più semplificazioni dal 2027",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-aggiorna-regolamento-suolo-pubblico-pubblicita-piu-semplificazioni-2027",
-      "data": "2026-11-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "adc596c87909",
-      "titolo": "Servizio di trasporto per le persone con disabilità: via libera della Giunta alla revisione del regolamento",
-      "link": "https://www.comune.torino.it/novita/comunicati/servizio-trasporto-per-persone-disabilita-via-libera-della-giunta-alla-revisione",
-      "data": "2026-11-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d7d5c891614f",
-      "titolo": "Cavalcaferrovia di corso Siracusa, da lunedì 16 novembre nuova fase di lavoro. In corso Mortara intervento sulla rete di teleriscaldamento: cambia la viabilità",
-      "link": "https://www.comune.torino.it/novita/comunicati/cavalcaferrovia-corso-siracusa-lunedi-16-novembre-nuova-fase-lavoro-corso",
-      "data": "2026-11-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bc829934e7b1",
-      "titolo": "Nitto ATP Finals 2026: svelati i gironi, Cobolli sfida Alcaraz e Bolelli/Vavassori guidano il doppio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-svelati-gironi-cobolli-sfida-alcaraz-bolellivavassori-guidano-doppio",
-      "data": "2026-11-12T15:14:44+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0a8b630be0da",
-      "titolo": "Nitto ATP Finals 2026, al via i primi incontri",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-al-via-primi-incontri",
-      "data": "2026-11-12T15:14:44+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "60aa6f38d919",
-      "titolo": "Sharing, approvate le nuove regole per bici, monopattini e scooter",
-      "link": "https://www.comune.torino.it/novita/comunicati/sharing-approvate-nuove-regole-per-bici-monopattini-scooter",
-      "data": "2026-11-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "399d6be89f19",
-      "titolo": "Microchip: presentato a Novara Vulcan Project di Silicon Box, primo sito nel suo genere in Ue",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/microchip-presentato-novara-vulcan-project-silicon-box-primo-sito-nel-suo-genere-ue",
-      "data": "2026-11-09T19:14:33+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "20beeb33f913",
-      "titolo": "Lupo, il Piemonte al lavoro per il Piano di gestione della specie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lupo-piemonte-al-lavoro-per-piano-gestione-della-specie",
-      "data": "2026-11-04T12:23:57+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "90144480c264",
-      "titolo": "Ecomusei, approvato il nuovo Regolamento",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-approvato-nuovo-regolamento",
-      "data": "2026-11-01T11:00:08+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d5686ab44f5c",
-      "titolo": "Torino-Lione: Regione, TELT e Comuni al lavoro per un piano di ospitalità delle maestranze",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-regione-telt-comuni-al-lavoro-per-un-piano-ospitalita-delle-maestranze",
-      "data": "2026-10-30T11:22:28+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6f02464100b5",
-      "titolo": "Polizia Locale: eseguita misura cautelare in carcere per maltrattamenti ed estorsione ai danni di un'anziana",
-      "link": "https://www.comune.torino.it/novita/comunicati/polizia-locale-eseguita-misura-cautelare-carcere-per-maltrattamenti-estorsione",
-      "data": "2026-10-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e0521667f1ff",
-      "titolo": "Occupazione straordinaria di suolo pubblico con dehors",
-      "link": "https://www.comune.torino.it/novita/avvisi/occupazione-straordinaria-suolo-pubblico-dehors",
-      "data": "2026-10-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "47db56fb748a",
-      "titolo": "Il Consiglio comunale approva le modifiche al Regolamento dehors per la semplificazione e il riordino delle procedure",
-      "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-approva-modifiche-al-regolamento-dehors-per-semplificazione",
-      "data": "2026-10-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7c1d19e365a3",
-      "titolo": "Grand Opening Show Nitto ATP Finals 2026 - Achille Lauro in concerto (12 novembre 2026). Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita nei pressi dell'Inalpi Arena",
-      "link": "https://www.comune.torino.it/novita/notizie/grand-opening-show-nitto-atp-finals-2026-achille-lauro-concerto-12-novembre-2026",
-      "data": "2026-10-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "71dcac77e19c",
-      "titolo": "NITTO ATP FINALS 2026 (15-22 novembre 2026) - bando comunale per il rilascio di concessioni occupazione temporanea del suolo pubblico per attività di vendita in occasione della manifestazione sportiva",
-      "link": "https://www.comune.torino.it/novita/notizie/nitto-atp-finals-2026-15-22-novembre-2026-bando-comunale-per-rilascio",
-      "data": "2026-10-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a22622a3bee9",
-      "titolo": "Apre al pubblico lo storico chiosco di piazza San Carlo: sarà un nuovo spazio per la promozione della Città e dei suoi eventi",
-      "link": "https://www.comune.torino.it/novita/comunicati/apre-al-pubblico-storico-chiosco-piazza-san-carlo-sara-un-nuovo-spazio-per",
-      "data": "2026-10-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6fb8c18313c6",
-      "titolo": "IOLAVORO 2026: Torino protagonista di due giornate tra opportunità di lavoro, giovani e nuove competenze",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-torino-protagonista-due-giornate-opportunita-lavoro-giovani-nuove-competenze",
-      "data": "2026-10-16T11:01:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7979f3473b2f",
-      "titolo": "IoLavoro 2026, due giornate di contatti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-due-giornate-contatti",
-      "data": "2026-10-16T11:01:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "edilizia-opere-pubbliche": [
-    {
-      "id": "547714305942",
-      "titolo": "Lavori sulla fognatura in corso Unione Sovietica. Al via la prossima settimana riasfaltature e interventi sui marciapiedi",
-      "link": "https://www.comune.torino.it/novita/comunicati/lavori-sulla-fognatura-corso-unione-sovietica-al-via-prossima-settimana",
-      "data": "2026-11-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "c811260cd0c7",
-      "titolo": "Progetto Falchera. Bando pubblico di social housing",
-      "link": "https://www.comune.torino.it/novita/notizie/progetto-falchera-bando-pubblico-social-housing",
-      "data": "2026-11-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "debff95265ca",
-      "titolo": "Montagna, il Piemonte investe per portare il segnale dove il mercato non arriva",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/montagna-piemonte-investe-per-portare-segnale-dove-mercato-non-arriva",
-      "data": "2026-11-16T15:10:43+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "757c90c277a4",
-      "titolo": "“Torino cambia – Spazi che uniscono”, lavori in via Germagnano, strada del Cascinotto e via Sempione",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-cambia-spazi-che-uniscono-lavori-via-germagnano-strada-cascinotto-via",
-      "data": "2026-11-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "d5686ab44f5c",
-      "titolo": "Torino-Lione: Regione, TELT e Comuni al lavoro per un piano di ospitalità delle maestranze",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-regione-telt-comuni-al-lavoro-per-un-piano-ospitalita-delle-maestranze",
-      "data": "2026-10-30T11:22:28+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0d788fd8b4b9",
-      "titolo": "Stati generali della Logistica: focus su infrastrutture e competitività del Nord - Ovest",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/stati-generali-della-logistica-focus-infrastrutture-competitivita-nord-ovest",
-      "data": "2026-10-29T15:28:58+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cb12dcbcc870",
-      "titolo": "Nasce Silver Housing Massaua. Nuovi spazi per l’autonomia degli anziani non autosufficienti",
-      "link": "https://www.comune.torino.it/novita/comunicati/nasce-silver-housing-massaua-nuovi-spazi-per-lautonomia-degli-anziani-non",
-      "data": "2026-10-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "afaddafcce9e",
-      "titolo": "Approvata la variante per l’area “Ponte Mosca” nel quartiere Aurora, un nuovo campus urbano sostenibile e ad alta efficienza energetica",
-      "link": "https://www.comune.torino.it/novita/comunicati/approvata-variante-per-larea-ponte-mosca-nel-quartiere-aurora-un-nuovo-campus",
-      "data": "2026-10-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "3288ba7a88e1",
-      "titolo": "Abitare sulla Luna, a Torino i riflettori sul modulo MPH",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/abitare-sulla-luna-torino-riflettori-sul-modulo-mph",
-      "data": "2026-10-16T18:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "cultura-beni-culturali": [
-    {
-      "id": "3c49ecbbe932",
-      "titolo": "Luci d’Artista, alla scoperta della 29esima edizione con i tour guidati nelle circoscrizioni",
-      "link": "https://www.comune.torino.it/novita/comunicati/luci-dartista-alla-scoperta-della-29esima-edizione-tour-guidati-nelle",
-      "data": "2026-11-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "783f6313c632",
-      "titolo": "Tennis Takes Over, Torino fa festa: sabato 21 e domenica 22 novembre una notte e una mattina tra musica, sport e cultura",
-      "link": "https://www.comune.torino.it/novita/comunicati/tennis-takes-over-torino-fa-festa-sabato-21-domenica-22-novembre-una-notte-una",
-      "data": "2026-11-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9df94f4f04ad",
-      "titolo": "Accordo governo - Regione: 242 milioni per interventi strategici in Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/accordo-governo-regione-242-milioni-per-interventi-strategici-piemonte",
-      "data": "2026-11-19T15:39:26+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bba4041b5633",
-      "titolo": "Prima cabina di regia contro lo sfruttamento lavorativo e il caporalato",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/prima-cabina-regia-contro-sfruttamento-lavorativo-caporalato",
-      "data": "2026-11-18T14:56:10+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "69b68cc70734",
-      "titolo": "Open 011, inaugurata la casa della mobilità giovanile e dell’intercultura",
-      "link": "https://www.comune.torino.it/novita/comunicati/open-011-inaugurata-casa-della-mobilita-giovanile-dellintercultura",
-      "data": "2026-11-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5344f986c78b",
-      "titolo": "Spazi pubblici dedicati al ricordo di Germana Erba, Emma Strada e Vincenza Castria",
-      "link": "https://www.comune.torino.it/novita/comunicati/spazi-pubblici-dedicati-al-ricordo-germana-erba-emma-strada-vincenza-castria",
-      "data": "2026-11-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "be123f659eef",
-      "titolo": "25 novembre, Torino rinnova il proprio impegno contro la violenza sulle donne",
-      "link": "https://www.comune.torino.it/novita/comunicati/25-novembre-torino-rinnova-proprio-impegno-contro-violenza-sulle-donne",
-      "data": "2026-11-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a2c0ec2b878f",
-      "titolo": "Patto per la lettura, primo incontro in Regione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/patto-per-lettura-primo-incontro-regione",
-      "data": "2026-11-16T16:13:11+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7a7e5be5f644",
-      "titolo": "Fuori protocollo, oltre 100 iscritti al primo gruppo di lettura per dipendenti regionali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fuori-protocollo-oltre-100-iscritti-al-primo-gruppo-lettura-per-dipendenti-regionali",
-      "data": "2026-11-16T15:18:07+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9dd45e04cedd",
-      "titolo": "La Polizia Locale di Torino festeggia il 235° anniversario dalla fondazione del Corpo. Premiati gli agenti che si sono distinti nell’ultimo anno",
-      "link": "https://www.comune.torino.it/novita/comunicati/polizia-locale-torino-festeggia-235deg-anniversario-dalla-fondazione-corpo",
-      "data": "2026-11-12T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "4e73fabee2df",
-      "titolo": "Cultura, 1,4 milioni per sostenere altri 80 progetti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cultura-14-milioni-per-sostenere-altri-80-progetti",
-      "data": "2026-11-10T13:47:44+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d48b326debfa",
-      "titolo": "Stadio Olimpico Grande Torino, depositata una proposta di fattibilità da parte del Torino FC",
-      "link": "https://www.comune.torino.it/novita/comunicati/stadio-olimpico-grande-torino-depositata-una-proposta-fattibilita-parte-torino",
-      "data": "2026-11-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "20beeb33f913",
-      "titolo": "Lupo, il Piemonte al lavoro per il Piano di gestione della specie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lupo-piemonte-al-lavoro-per-piano-gestione-della-specie",
-      "data": "2026-11-04T12:23:57+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "459c97fe737f",
-      "titolo": "Il futuro del tartufo si coltiva a scuola: da Chieri parte il tour negli istituti agrari",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/futuro-tartufo-si-coltiva-scuola-chieri-parte-tour-negli-istituti-agrari",
-      "data": "2026-11-03T15:38:18+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "90144480c264",
-      "titolo": "Ecomusei, approvato il nuovo Regolamento",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ecomusei-approvato-nuovo-regolamento",
-      "data": "2026-11-01T11:00:08+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "82c59a094f5a",
-      "titolo": "\"L'intelligenza artificiale al servizio delle persone\", il presidente Cirio a Vienna per Bridge for Cities 2026",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/lintelligenza-artificiale-al-servizio-delle-persone-presidente-cirio-vienna-per-bridge-for-cities",
-      "data": "2026-10-29T13:46:46+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5d0378c14c15",
-      "titolo": "Parte il progetto \"Si Riparte! Anduma ancora\": viaggio nel Monferrato e occasioni di incontro e socialità per persone over 65. Iscrizioni dal 28 ottobre 2026.",
-      "link": "https://www.comune.torino.it/novita/notizie/parte-progetto-si-riparte-anduma-ancora-viaggio-nel-monferrato-occasioni",
-      "data": "2026-10-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "55f66aec1163",
-      "titolo": "Il maestro Eugenio Barba a Torino: tre appuntamenti da non perdere",
-      "link": "https://www.comune.torino.it/novita/notizie/maestro-eugenio-barba-torino-tre-appuntamenti-non-perdere",
-      "data": "2026-10-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "cf35d1c74841",
-      "titolo": "Cittadella di Alessandria: 29 milioni per il recupero e la valorizzazione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/cittadella-alessandria-29-milioni-per-recupero-valorizzazione",
-      "data": "2026-10-26T15:56:14+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a8e7c2ad327c",
-      "titolo": "Il Piemonte al Festival delle Regioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-festival-delle-regioni",
-      "data": "2026-10-25T13:38:50+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "sport": [
-    {
-      "id": "783f6313c632",
-      "titolo": "Tennis Takes Over, Torino fa festa: sabato 21 e domenica 22 novembre una notte e una mattina tra musica, sport e cultura",
-      "link": "https://www.comune.torino.it/novita/comunicati/tennis-takes-over-torino-fa-festa-sabato-21-domenica-22-novembre-una-notte-una",
-      "data": "2026-11-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ffe171032648",
-      "titolo": "Notre Dame de Paris (04- 07 dicembre 2026) e concerto di Cesare Cremonini (09,10 e 12 dicembre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
-      "link": "https://www.comune.torino.it/novita/notizie/notre-dame-de-paris-04-07-dicembre-2026-concerto-cesare-cremonini-0910-12",
-      "data": "2026-11-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "80748d8b454e",
-      "titolo": "Il Giganotosauro torna al Museo Regionale di Scienze Naturali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giganotosauro-torna-al-museo-regionale-scienze-naturali",
-      "data": "2026-11-19T09:46:39+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "adc596c87909",
-      "titolo": "Servizio di trasporto per le persone con disabilità: via libera della Giunta alla revisione del regolamento",
-      "link": "https://www.comune.torino.it/novita/comunicati/servizio-trasporto-per-persone-disabilita-via-libera-della-giunta-alla-revisione",
-      "data": "2026-11-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "debfad889580",
-      "titolo": "A Casa Tennis celebrati oltre 200 atleti piemontesi",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/casa-tennis-celebrati-oltre-200-atleti-piemontesi",
-      "data": "2026-11-17T09:39:09+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "840f08b1a56a",
-      "titolo": "Inaugurate Casa Tennis e Casa Gusto 2026",
-      "link": "https://www.comune.torino.it/novita/comunicati/inaugurate-casa-tennis-casa-gusto-2026",
-      "data": "2026-11-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "bc829934e7b1",
-      "titolo": "Nitto ATP Finals 2026: svelati i gironi, Cobolli sfida Alcaraz e Bolelli/Vavassori guidano il doppio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-svelati-gironi-cobolli-sfida-alcaraz-bolellivavassori-guidano-doppio",
-      "data": "2026-11-12T15:14:44+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "0a8b630be0da",
-      "titolo": "Nitto ATP Finals 2026, al via i primi incontri",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-al-via-primi-incontri",
-      "data": "2026-11-12T15:14:44+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4a5c9705bbea",
-      "titolo": "Nitto ATP Finals 2026: Torino e il Piemonte si preparano alla grande festa del tennis",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nitto-atp-finals-2026-torino-piemonte-si-preparano-alla-grande-festa-tennis",
-      "data": "2026-11-11T14:49:58+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7365df8c26d7",
-      "titolo": "Nitto ATP Finals, inaugurato il Fan Village. Il trofeo arriva a Palazzo Civico",
-      "link": "https://www.comune.torino.it/novita/comunicati/nitto-atp-finals-inaugurato-fan-village-trofeo-arriva-palazzo-civico",
-      "data": "2026-11-11T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "fef01612be14",
-      "titolo": "Il Mio Dj: il tram diventa un club itinerante per le Nitto ATP Finals. Samuel alla direzione artistica e una line-up che riunisce alcuni protagonisti della scena elettronica italiana, tra corse musicali e dj set",
-      "link": "https://www.comune.torino.it/novita/comunicati/mio-dj-tram-diventa-un-club-itinerante-per-nitto-atp-finals-samuel-alla",
-      "data": "2026-11-10T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ff3d55a82e5b",
-      "titolo": "All'aeroporto di Torino apre il primo official store dedicato alla città e al suo city brand",
-      "link": "https://www.comune.torino.it/novita/comunicati/allaeroporto-torino-apre-primo-official-store-dedicato-alla-citta-al-suo-city",
-      "data": "2026-11-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "30aa72a52a1f",
-      "titolo": "Nitto ATP Finals 2026: modifiche alla viabilità intorno allo Stadio Olimpico e in altre aree della città",
-      "link": "https://www.comune.torino.it/novita/comunicati/nitto-atp-finals-2026-modifiche-alla-viabilita-intorno-allo-stadio-olimpico",
-      "data": "2026-11-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1290b15351f7",
-      "titolo": "Incontro con il Console Generale della Repubblica Popolare di Cina Chenggang Zang",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-console-generale-della-repubblica-popolare-cina-chenggang-zang",
-      "data": "2026-11-06T18:00:00+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6d448a8d4b88",
-      "titolo": "IL SET PERFETTO. Dieci giorni sotto rete per innamorarsi di Torino e del Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/set-perfetto-dieci-giorni-sotto-rete-per-innamorarsi-torino-piemonte",
-      "data": "2026-11-01T16:18:29+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b3966324b156",
-      "titolo": "Agricoltura, 8 milioni al Piemonte per abbattere i costi del gasolio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-8-milioni-al-piemonte-per-abbattere-costi-gasolio",
-      "data": "2026-10-28T15:50:05+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "762dd34a8865",
-      "titolo": "400mila euro per la riqualificazione dell’impianto sportivo Regaldi e dei campi da calcio Ruffini",
-      "link": "https://www.comune.torino.it/novita/comunicati/400mila-euro-per-riqualificazione-dellimpianto-sportivo-regaldi-dei-campi-calcio",
-      "data": "2026-10-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "83d75248b4b2",
-      "titolo": "Sport, 8 nuovi bandi per oltre 3,5 milioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sport-8-nuovi-bandi-per-oltre-35-milioni",
-      "data": "2026-10-26T20:00:41+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "fcbe4225c5cd",
-      "titolo": "La nuotatrice Anita Gastaldi premiata al Grattacielo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuotatrice-anita-gastaldi-premiata-al-grattacielo",
-      "data": "2026-10-21T14:35:25+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "747447227cd0",
-      "titolo": "\"Pass60\" si amplia e diventa \"dai60\": cinque anni di opportunità culturali, sportive e ricreative per i torinesi dai 60 ai 64 anni",
-      "link": "https://www.comune.torino.it/novita/comunicati/pass60-si-amplia-diventa-dai60-cinque-anni-opportunita-culturali-sportive",
-      "data": "2026-10-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "sanita-regionale": [
@@ -833,80 +1123,6 @@
       "titolo": "Mirafiori, intervento della Polizia Locale e dell’Asl. Chiuso laboratorio di panificazione",
       "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-intervento-della-polizia-locale-dellasl-chiuso-laboratorio",
       "data": "2026-10-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "08fe3dbb1cdd",
-      "titolo": "A Torino l’assemblea nazionale della rete RE.A.DY. e il convegno sui diritti in Italia e in Europa",
-      "link": "https://www.comune.torino.it/novita/comunicati/torino-lassemblea-nazionale-della-rete-ready-convegno-sui-diritti-italia-europa",
-      "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "enti-locali-piccoli-comuni": [
-    {
-      "id": "5ca6eb47f884",
-      "titolo": "Chicco di Grano, inaugurata la nuova sede in via Brissogne",
-      "link": "https://www.comune.torino.it/novita/comunicati/chicco-grano-inaugurata-nuova-sede-via-brissogne",
-      "data": "2026-11-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b558b04041c6",
-      "titolo": "Dalla Regione 6,7 milioni di euro per Polizia locale e Unioni di Comuni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/dalla-regione-67-milioni-euro-per-polizia-locale-unioni-comuni",
-      "data": "2026-11-04T15:54:09+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5bb2d05e9a98",
-      "titolo": "Turismo, nuovo bando per iniziative di comunicazione e promozione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-nuovo-bando-per-iniziative-comunicazione-promozione",
-      "data": "2026-11-02T15:29:03+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d5686ab44f5c",
-      "titolo": "Torino-Lione: Regione, TELT e Comuni al lavoro per un piano di ospitalità delle maestranze",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/torino-lione-regione-telt-comuni-al-lavoro-per-un-piano-ospitalita-delle-maestranze",
-      "data": "2026-10-30T11:22:28+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "376e5ba83055",
-      "titolo": "Incendi boschivi, 1,4 milioni per Valsesia e Terre del Giarolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-14-milioni-per-valsesia-terre-giarolo",
-      "data": "2026-10-29T11:44:13+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4ef3d9d2563e",
-      "titolo": "Lo Russo: “Serve un Piano Marshall per i giovani”",
-      "link": "https://www.comune.torino.it/novita/comunicati/russo-serve-un-piano-marshall-per-giovani",
-      "data": "2026-10-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a8e7c2ad327c",
-      "titolo": "Il Piemonte al Festival delle Regioni",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-festival-delle-regioni",
-      "data": "2026-10-25T13:38:50+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "3d9cb752ac97",
-      "titolo": "Social Festival Comunità Educative 2026",
-      "link": "https://www.comune.torino.it/novita/notizie/social-festival-comunita-educative-2026",
-      "data": "2026-10-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }
@@ -1069,14 +1285,6 @@
       "data": "2026-10-15T14:19:50+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "e2005b57c6cb",
-      "titolo": "Stellantis, Lo Russo incontra Filosa a Palazzo Civico: investimenti, produzione e lavoro al centro del confronto",
-      "link": "https://www.comune.torino.it/novita/comunicati/stellantis-russo-incontra-filosa-palazzo-civico-investimenti-produzione-lavoro",
-      "data": "2026-10-09T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
     }
   ],
   "sociale-welfare": [
@@ -1323,96 +1531,6 @@
       "data": "2026-10-16T11:01:18+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "58873ae15c1d",
-      "titolo": "“Spazi Liberi”: Torino scommette sul reinserimento lavorativo e l’affido per i giovani detenuti",
-      "link": "https://www.comune.torino.it/novita/comunicati/spazi-liberi-torino-scommette-sul-reinserimento-lavorativo-laffido-per-giovani",
-      "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "turismo": [
-    {
-      "id": "e11f2d9253e7",
-      "titolo": "Turismo invernale, il Piemonte su Rai e Mediaset",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-invernale-piemonte-rai-mediaset",
-      "data": "2026-11-18T16:12:07+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "1290b15351f7",
-      "titolo": "Incontro con il Console Generale della Repubblica Popolare di Cina Chenggang Zang",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-console-generale-della-repubblica-popolare-cina-chenggang-zang",
-      "data": "2026-11-06T18:00:00+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5c6402b2b8aa",
-      "titolo": "CASA GUSTO: aperte le prenotazioni per le degustazioni e le visite guidate",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/casa-gusto-aperte-prenotazioni-per-degustazioni-visite-guidate",
-      "data": "2026-11-05T07:39:46+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5bb2d05e9a98",
-      "titolo": "Turismo, nuovo bando per iniziative di comunicazione e promozione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/turismo-nuovo-bando-per-iniziative-comunicazione-promozione",
-      "data": "2026-11-02T15:29:03+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6d448a8d4b88",
-      "titolo": "IL SET PERFETTO. Dieci giorni sotto rete per innamorarsi di Torino e del Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/set-perfetto-dieci-giorni-sotto-rete-per-innamorarsi-torino-piemonte",
-      "data": "2026-11-01T16:18:29+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b3966324b156",
-      "titolo": "Agricoltura, 8 milioni al Piemonte per abbattere i costi del gasolio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-8-milioni-al-piemonte-per-abbattere-costi-gasolio",
-      "data": "2026-10-28T15:50:05+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "5d0378c14c15",
-      "titolo": "Parte il progetto \"Si Riparte! Anduma ancora\": viaggio nel Monferrato e occasioni di incontro e socialità per persone over 65. Iscrizioni dal 28 ottobre 2026.",
-      "link": "https://www.comune.torino.it/novita/notizie/parte-progetto-si-riparte-anduma-ancora-viaggio-nel-monferrato-occasioni",
-      "data": "2026-10-28T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a025001bd499",
-      "titolo": "Successo nel fine settimana per la Fiera del Marrone di Cuneo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/successo-nel-fine-settimana-per-fiera-marrone-cuneo",
-      "data": "2026-10-19T10:24:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "d93e89bb9642",
-      "titolo": "Il Piemonte a TTG 2026, seconda giornata",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-ttg-2026-seconda-giornata",
-      "data": "2026-10-15T16:11:51+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ca124aaabbfc",
-      "titolo": "Il Piemonte al TTG 2026. Un ricco palinsesto di eventi dedicato alla sostenibilità, all’outdoor, alla cultura e all’enogastronomia",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-ttg-2026-un-ricco-palinsesto-eventi-dedicato-alla-sostenibilita-alloutdoor-alla-cultura",
-      "data": "2026-10-13T14:11:27+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "fondi-europei": [
@@ -1447,14 +1565,6 @@
       "data": "2026-10-13T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "58615090dc47",
-      "titolo": "5 milioni per lo spettacolo dal vivo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/5-milioni-per-spettacolo-dal-vivo",
-      "data": "2026-10-12T09:44:40+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "trasparenza": [
@@ -1519,124 +1629,6 @@
       "fonte_id": "comune_torino"
     }
   ],
-  "bilancio-regionale": [
-    {
-      "id": "88cdebd418ef",
-      "titolo": "Presentato il bilancio di previsione 2027-2029",
-      "link": "https://www.comune.torino.it/novita/comunicati/presentato-bilancio-previsione-2027-2029",
-      "data": "2026-11-07T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6c8904b0fc1e",
-      "titolo": "Bilancio consolidato 2025; il Gruppo Comune chiude con un risultato positivo",
-      "link": "https://www.comune.torino.it/novita/comunicati/bilancio-consolidato-2025-gruppo-comune-chiude-un-risultato-positivo",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "665163242fe8",
-      "titolo": "Quinta variazione di Bilancio: nuove risorse per personale, servizi e contenzioso movida",
-      "link": "https://www.comune.torino.it/novita/comunicati/quinta-variazione-bilancio-nuove-risorse-per-personale-servizi-contenzioso",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7c1d19e365a3",
-      "titolo": "Grand Opening Show Nitto ATP Finals 2026 - Achille Lauro in concerto (12 novembre 2026). Rilascio concessioni occupazione temporanea del suolo pubblico per attività di vendita nei pressi dell'Inalpi Arena",
-      "link": "https://www.comune.torino.it/novita/notizie/grand-opening-show-nitto-atp-finals-2026-achille-lauro-concerto-12-novembre-2026",
-      "data": "2026-10-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "commercio-artigianato": [
-    {
-      "id": "1290b15351f7",
-      "titolo": "Incontro con il Console Generale della Repubblica Popolare di Cina Chenggang Zang",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-console-generale-della-repubblica-popolare-cina-chenggang-zang",
-      "data": "2026-11-06T18:00:00+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b3966324b156",
-      "titolo": "Agricoltura, 8 milioni al Piemonte per abbattere i costi del gasolio",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/agricoltura-8-milioni-al-piemonte-per-abbattere-costi-gasolio",
-      "data": "2026-10-28T15:50:05+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "bc203b8039e5",
-      "titolo": "Sicurezza urbana e commercio di vicinato: Città di Torino e Camera di Commercio lanciano un piano di sostegno economico contro le “spaccate”",
-      "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-commercio-vicinato-citta-torino-camera-commercio-lanciano-un",
-      "data": "2026-10-13T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
-  "protezione-civile": [
-    {
-      "id": "376e5ba83055",
-      "titolo": "Incendi boschivi, 1,4 milioni per Valsesia e Terre del Giarolo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incendi-boschivi-14-milioni-per-valsesia-terre-giarolo",
-      "data": "2026-10-29T11:44:13+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "c16b687b9280",
-      "titolo": "Maltempo in attenuazione: chiude la sala operativa della Protezione civile",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-attenuazione-chiude-sala-operativa-della-protezione-civile",
-      "data": "2026-10-21T17:05:22+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "33a183e97346",
-      "titolo": "Maltempo: aperta la sala operativa della Protezione civile della Regione Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile-della-regione-piemonte",
-      "data": "2026-10-20T16:43:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7f95bbe9ead1",
-      "titolo": "Maltempo: aperta la sala operativa della Protezione civile",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/maltempo-aperta-sala-operativa-della-protezione-civile",
-      "data": "2026-10-20T16:43:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "00056a72b0ff",
-      "titolo": "La Sala Rossa per il contrasto alla solitudine",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-per-contrasto-alla-solitudine",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6f8c359fabf9",
-      "titolo": "Nuovo ospedale di Vercelli, via libera del Ministero al finanziamento del blocco di emergenza-urgenza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-vercelli-via-libera-ministero-al-finanziamento-blocco-emergenza-urgenza",
-      "data": "2026-10-16T14:25:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "ba6c588e4668",
-      "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
-      "data": "2026-10-14T17:07:24+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
   "ambiente-qualita-aria": [
     {
       "id": "cc632ce379da",
@@ -1661,14 +1653,6 @@
       "titolo": "Mirafiori, intervento della Polizia Locale e dell’Asl. Chiuso laboratorio di panificazione",
       "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-intervento-della-polizia-locale-dellasl-chiuso-laboratorio",
       "data": "2026-10-15T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "e2005b57c6cb",
-      "titolo": "Stellantis, Lo Russo incontra Filosa a Palazzo Civico: investimenti, produzione e lavoro al centro del confronto",
-      "link": "https://www.comune.torino.it/novita/comunicati/stellantis-russo-incontra-filosa-palazzo-civico-investimenti-produzione-lavoro",
-      "data": "2026-10-09T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     }

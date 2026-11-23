@@ -20,10 +20,140 @@
     "colore": "#dc2626"
   },
   {
+    "id": "954e0f61b256",
+    "titolo": "POSSIBILI DISSERVIZI AGLI SPORTELLI DELLA POLIZIA LOCALE",
+    "link": "https://www.comune.torino.it/novita/avvisi/possibili-disservizi-agli-sportelli-della-polizia-locale",
+    "descrizione": "Nelle giornate di lunedì 30 novembre e martedì 1 dicembre non è garantito il regolare funzionamento degli sportelli del Comando di via Bologna 74",
+    "data": "2026-11-30T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f87f535113a2",
+    "titolo": "A partire dal caso di Abdullahi Ahmed, la Sala Rossa condanna ogni violenza fisica o verbale nel confronto politico",
+    "link": "https://www.comune.torino.it/novita/comunicati/partire-caso-abdullahi-ahmed-sala-rossa-condanna-ogni-violenza-fisica-verbale",
+    "descrizione": "A nome dell'intera Sala Rossa, la Presidenza del Consiglio comunale ha condannato le violenze fisiche e verbali che impediscono il libero confronto delle idee",
+    "data": "2026-11-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "96918a1d3963",
+    "titolo": "Non peggiorare la normativa sulla caccia",
+    "link": "https://www.comune.torino.it/novita/comunicati/non-peggiorare-normativa-sulla-caccia",
+    "descrizione": "Approvato in Sala Rossa, questo pomeriggio, un ordine del giorno che chiede il ritiro del Disegno di Legge 1552",
+    "data": "2026-11-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "969f9c4417f3",
+    "titolo": "La solidarietà della Sala Rossa alla giornalista Francesca Lai",
+    "link": "https://www.comune.torino.it/novita/comunicati/solidarieta-della-sala-rossa-alla-giornalista-francesca-lai",
+    "descrizione": "La presidente del Consiglio comunale Maria Grazia Grippo, a nome della Sala Rossa ha espresso solidarietà alla giornalista del Corriere della Sera Francesca Lai",
+    "data": "2026-11-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7121fd4f3b0d",
+    "titolo": "Consiglio Comunale: nuove norme per la conservazione delle ceneri a domicilio e nuove aree per lo spargimento",
+    "link": "https://www.comune.torino.it/novita/comunicati/consiglio-comunale-nuove-norme-per-conservazione-delle-ceneri-domicilio-nuove",
+    "descrizione": "Il Consiglio Comunale ha approvato la delibera relativa alla modifica del Regolamento per il Servizio Mortuario e dei Cimiteri.",
+    "data": "2026-11-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "9a871385595c",
+    "titolo": "La Città di Torino affida a Soris il servizio di riscossione tributi per il periodo 2027-2031",
+    "link": "https://www.comune.torino.it/novita/comunicati/citta-torino-affida-soris-servizio-riscossione-tributi-per-periodo-2027-2031",
+    "descrizione": "A Soris per cinque anni la gestione dei servizi inerenti le attività di riscossione dei tributi",
+    "data": "2026-11-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8474576c9af4",
+    "titolo": "Approvata sesta variazione al Bilancio di previsione 2026-2028",
+    "link": "https://www.comune.torino.it/novita/comunicati/approvata-sesta-variazione-al-bilancio-previsione-2026-2028",
+    "descrizione": "Approvata l'ultima variazione per il 2026 al Bilancio di previsione",
+    "data": "2026-11-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "c9f6ca2bf546",
+    "titolo": "Ristrutturazione edilizia finisce in sequestro. Realizzavano mini appartamenti senza autorizzazione, scoperti dalla Polizia Locale",
+    "link": "https://www.comune.torino.it/novita/comunicati/ristrutturazione-edilizia-finisce-sequestro-realizzavano-mini-appartamenti-senza",
+    "descrizione": "La ristrutturazione edilizia di un immobile a destinazione commerciale era diventata l’occasione per realizzare, senza la necessaria autorizzazione.",
+    "data": "2026-11-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "88538498622e",
+    "titolo": "Il Set Perfetto: presentati i numeri finali di Casa Tennis, Casa Gusto e degli eventi diffusi organizzati per le Nitto ATP Finals",
+    "link": "https://www.comune.torino.it/novita/comunicati/set-perfetto-presentati-numeri-finali-casa-tennis-casa-gusto-degli-eventi",
+    "descrizione": "Grande successo anche quest’anno per gli eventi e per le iniziative diffuse organizzati da Città di Torino, Regione Piemonte e Camera di commercio di Torino.",
+    "data": "2026-11-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "eadb6e7dda83",
+    "titolo": "Protezione Civile, Torino rinnova la Sala Unità di Crisi: nove schermi e nuove radio per gestire le emergenze anche senza le reti di comunicazione ordinarie",
+    "link": "https://www.comune.torino.it/novita/comunicati/protezione-civile-torino-rinnova-sala-unita-crisi-nove-schermi-nuove-radio-per",
+    "descrizione": "Una parete di nove monitor collegati tra loro, per seguire in tempo reale i livelli dei corsi d'acqua, ricevere le immagini dei droni e collegarsi altre sale.",
+    "data": "2026-11-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b093c75d437e",
+    "titolo": "Città per la Vita 2026, a Palazzo Civico l’attivista ugandese contro la pena capitale, Susan Kigula",
+    "link": "https://www.comune.torino.it/novita/comunicati/citta-per-vita-2026-palazzo-civico-lattivista-ugandese-contro-pena-capitale",
+    "descrizione": "Sedici anni nel braccio della morte da innocente, lo studio per diventare avvocata e la battaglia contro la pena di morte",
+    "data": "2026-11-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6ad045f6194d",
+    "titolo": "Il cibo è: all'Archivio Storico un incontro su come cambia una città attraverso il cibo",
+    "link": "https://www.comune.torino.it/novita/notizie/cibo-allarchivio-storico-un-incontro-come-cambia-una-citta-attraverso-cibo",
+    "descrizione": "Tredici parole chiave guidano il confronto fra documenti e fotografie storiche e immagini contemporanee nell’ambito della mostra \"Il gusto della storia\"",
+    "data": "2026-11-23T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "e6bf522c82b8",
     "titolo": "Inaugurato il giardino dedicato a don Natale Fisanotti, primo parroco della chiesa Gesù Operaio",
     "link": "https://www.comune.torino.it/novita/comunicati/inaugurato-giardino-dedicato-don-natale-fisanotti-primo-parroco-della-chiesa",
     "descrizione": "Inaugurato il 21 novembre 2026 a Torino, tra via Ternengo e via Tollegno, a Barriera di Milano",
+    "data": "2026-11-21T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ddf8038eae7d",
+    "titolo": "“Catch the ball!”, il flashmob di teatro-danza in via Roma",
+    "link": "https://www.comune.torino.it/novita/comunicati/catch-the-ball-flashmob-teatro-danza-via-roma",
+    "descrizione": "Si è tenuto questa mattina in Via Roma, fronte Galleria San Federico, “Catch the ball!”, un flashmob di teatro-danza a cura di Andrea Carozzi.",
     "data": "2026-11-21T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1865,136 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/nuova-illuminazione-pubblica-corso-giulio-cesare-fotovoltaico-al-gerbido",
     "descrizione": "La Giunta comunale ha approvato nella seduta odierna il Programma Operativo di Dettaglio (POD) relativo a due interventi di efficientamento energetico.",
     "data": "2026-10-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "58873ae15c1d",
-    "titolo": "“Spazi Liberi”: Torino scommette sul reinserimento lavorativo e l’affido per i giovani detenuti",
-    "link": "https://www.comune.torino.it/novita/comunicati/spazi-liberi-torino-scommette-sul-reinserimento-lavorativo-laffido-per-giovani",
-    "descrizione": "La Città di Torino, e la Fondazione Compagnia di San Paolo insieme alle amministrazioni della Giustizia, presentano l’avviso di coprogettazione “SPAZI LIBERI”.",
-    "data": "2026-10-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "08fe3dbb1cdd",
-    "titolo": "A Torino l’assemblea nazionale della rete RE.A.DY. e il convegno sui diritti in Italia e in Europa",
-    "link": "https://www.comune.torino.it/novita/comunicati/torino-lassemblea-nazionale-della-rete-ready-convegno-sui-diritti-italia-europa",
-    "descrizione": "Torino ospiterà, il 22 e 23 ottobre, l’Assemblea annuale della rete RE.A.DY.",
-    "data": "2026-10-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "3d9cb752ac97",
-    "titolo": "Social Festival Comunità Educative 2026",
-    "link": "https://www.comune.torino.it/novita/notizie/social-festival-comunita-educative-2026",
-    "descrizione": "Dal 9 al 14 novembre si terrà a Torino e dintorni la V edizione del Social Festival.",
-    "data": "2026-10-13T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "4a2b30b28988",
-    "titolo": "Il Piemonte prima regione ad istituire un gruppo di lettura per i dipendenti",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-prima-regione-ad-istituire-un-gruppo-lettura-per-dipendenti",
-    "descrizione": "Il Piemonte è la prima Regione in Italia a istituire un gruppo di lettura dedicato ai propri dipendenti. Si chiama “Fuori Protocollo” ed è il nuovo progetto presentato alla Giunta regionale, che porta la lettura all’interno dell’amministrazione pubblica,…",
-    "data": "2026-10-13T11:41:52+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "71b357a9cd0d",
-    "titolo": "Semplificazione, parte il Piano attuativo",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/semplificazione-parte-piano-attuativo",
-    "descrizione": "Con l’approvazione da parte della Giunta regionale del Piano attuativo per la semplificazione 2026, entra nel vivo il percorso avviato dalla Regione Piemonte con la legge Semplifica Piemonte. Il Piano, che arriva oggi all’approvazione della Giunta dopo il confronto con il Tavolo regionale…",
-    "data": "2026-10-13T11:21:52+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "b7bcbfc1ee6c",
-    "titolo": "Al via IoLavoro",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro",
-    "descrizione": "Il 14 e 15 ottobre IOLAVORO torna a Torino, all’Inalpi Arena, per inaugurare un nuovo ciclo di eventi che, dall’autunno 2026 al 2029, porterà opportunità di lavoro, orientamento e formazione in numerosi territori piemontesi. Dopo vent’…",
-    "data": "2026-10-12T15:57:09+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "830f49a19e25",
-    "titolo": "Al via IoLavoro, il 14 ottobre inaugurazione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/al-via-iolavoro-14-ottobre-inaugurazione",
-    "descrizione": "Ci siamo: il 14 e 15 ottobre IOLAVORO torna a Torino, all’Inalpi Arena, per inaugurare un nuovo ciclo di eventi che, dall’autunno 2026 al 2029, porterà opportunità di lavoro, orientamento e formazione in numerosi territori piemontesi. …",
-    "data": "2026-10-12T15:57:09+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "2f859f1aa007",
-    "titolo": "Grande successo per \"Carla with love\" nelle Residenze reali del Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/grande-successo-per-carla-with-love-nelle-residenze-reali-piemonte",
-    "descrizione": "Doppio sold out per “Carla With Love”, lo spettacolo dedicato alla vita e alla carriera di Carla Fracci, una delle più grandi interpreti della danza italiana e internazionale. Tutto esaurito per entrambi gli appuntamenti in programma nelle Residenze Reali Sabaude: venerdì 16 ottobre,…",
-    "data": "2026-10-12T13:52:26+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "88a3144751ae",
-    "titolo": "Gruppo Crescere in sintonia 3-6",
-    "link": "https://www.comune.torino.it/novita/notizie/gruppo-crescere-sintonia-3-6",
-    "descrizione": "Incontri laboratoriali per adulti e bambini/e dai 3 ai 6 anni.",
-    "data": "2026-10-12T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "59bfbbfc3d77",
-    "titolo": "Linea Torino-Lione: l’assessore Mazzoleni illustra stato lavori e cronoprogramma in Consiglio Comunale",
-    "link": "https://www.comune.torino.it/novita/comunicati/linea-torino-lione-lassessore-mazzoleni-illustra-stato-lavori-cronoprogramma",
-    "descrizione": "Discussa in Sala Rossa l'interpellanza generale sul tema Tav. Approvato un ordine del giorno della maggioranza",
-    "data": "2026-10-12T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "58615090dc47",
-    "titolo": "5 milioni per lo spettacolo dal vivo",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/5-milioni-per-spettacolo-dal-vivo",
-    "descrizione": "La Regione Piemonte porta a 5 milioni di euro la dotazione complessiva della misura “Aiuti allo spettacolo dal vivo”, finanziata nell’ambito del Programma Regionale FESR 2021-2027. Viene così iene formalizzato l’ulteriore incremento di 2 milioni di euro disposto…",
-    "data": "2026-10-12T09:44:40+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "b818bee21b03",
-    "titolo": "Controllo di un autotrasportatore dopo un incidente, scattano sanzioni per oltre 15 mila euro",
-    "link": "https://www.comune.torino.it/novita/comunicati/controllo-un-autotrasportatore-dopo-un-incidente-scattano-sanzioni-per-oltre-15",
-    "descrizione": "Durante rilievi effettuati dal Reparto Radiomobile della Polizia Locale è intervenuto anche personale specializzato del Reparto Sicurezza Stradale Integrata.",
-    "data": "2026-10-09T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "e2005b57c6cb",
-    "titolo": "Stellantis, Lo Russo incontra Filosa a Palazzo Civico: investimenti, produzione e lavoro al centro del confronto",
-    "link": "https://www.comune.torino.it/novita/comunicati/stellantis-russo-incontra-filosa-palazzo-civico-investimenti-produzione-lavoro",
-    "descrizione": "Il sindaco di Torino Stefano Lo Russo ha incontrato oggi a Palazzo Civico l’amministratore delegato di Stellantis Antonio Filosa.",
-    "data": "2026-10-09T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
