@@ -30,6 +30,86 @@
     "colore": "#dc2626"
   },
   {
+    "id": "38800ca3a2dd",
+    "titolo": "Da ex bagni pubblici a polo per l’abitare sociale e l’autonomia. Inaugurato Roccavione Hub",
+    "link": "https://www.comune.torino.it/novita/comunicati/ex-bagni-pubblici-polo-per-labitare-sociale-lautonomia-inaugurato-roccavione-hub",
+    "descrizione": "Nuovi spazi per l’autonomia, l’abitare sociale e la vita indipendente di anziani non autosufficienti e persone con disabilità.",
+    "data": "2026-11-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "faeea840791a",
+    "titolo": "Edifici comunali, 1,4 milioni di euro per la manutenzione straordinaria degli impianti elettrici e di riscaldamento",
+    "link": "https://www.comune.torino.it/novita/comunicati/edifici-comunali-14-milioni-euro-per-manutenzione-straordinaria-degli-impianti",
+    "descrizione": "Numerosi gli interventi previsti negli edifici comunali per garantirne la continuità di funzionamento e mantenerne l'efficienza.",
+    "data": "2026-11-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "ed49d9513d7f",
+    "titolo": "Più luce e maggiore efficienza energetica, 480mila euro per rinnovare l'illuminazione pubblica",
+    "link": "https://www.comune.torino.it/novita/comunicati/piu-luce-maggiore-efficienza-energetica-480mila-euro-per-rinnovare",
+    "descrizione": "La Giunta comunale ha approvato il progetto esecutivo per il rinnovo e il potenziamento dell’illuminazione pubblica in diverse zone della città.",
+    "data": "2026-11-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "7dfdaf2be575",
+    "titolo": "Parco della Confluenza, approvato il progetto esecutivo per il completamento delle infrastrutture verdi. Previsto il recupero dell’ex Vivaio comunale Regio Parco",
+    "link": "https://www.comune.torino.it/novita/comunicati/parco-della-confluenza-approvato-progetto-esecutivo-per-completamento-delle",
+    "descrizione": "L’intervento è stato approvato oggi in Giunta comunale e ha un costo complessivo di 1,89 milioni di euro.",
+    "data": "2026-11-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "8c5104d215b3",
+    "titolo": "Linee STAR gratuite il sabato e nei festivi dal 5 dicembre al 6 gennaio, in centro sosta a pagamento l’8, il 13 e il 20 dicembre",
+    "link": "https://www.comune.torino.it/novita/comunicati/linee-star-gratuite-sabato-nei-festivi-5-dicembre-al-6-gennaio-centro-sosta",
+    "descrizione": "Linee STAR gratuite il sabato e nei giorni festivi, mentre in centro le strisce blu saranno a pagamento martedì 8 dicembre e domenica 13 e 20 dicembre.",
+    "data": "2026-11-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "364a72040296",
+    "titolo": "25 novembre, la Polizia Locale in aiuto delle donne vittime di violenza",
+    "link": "https://www.comune.torino.it/novita/comunicati/25-novembre-polizia-locale-aiuto-delle-donne-vittime-violenza",
+    "descrizione": "Questa mattina il Corpo di Polizia Locale di Torino ha rinnovato il proprio impegno nella prevenzione e nel contrasto della violenza di genere con un flash mob.",
+    "data": "2026-11-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "011b833aa453",
+    "titolo": "Stadio Olimpico Grande Torino, la Giunta dichiara il pubblico interesse della proposta del Torino FC",
+    "link": "https://www.comune.torino.it/novita/comunicati/stadio-olimpico-grande-torino-giunta-dichiara-pubblico-interesse-della-proposta",
+    "descrizione": "La Giunta comunale di Torino ha approvato oggi la deliberazione che dichiara il pubblico interesse della proposta presentata dal Torino Football Club.",
+    "data": "2026-11-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "cdaafd4a0a5a",
+    "titolo": "Ridurre, riusare, riparare: sedici progetti per dare nuova vita a materiali e risorse",
+    "link": "https://www.comune.torino.it/novita/comunicati/ridurre-riusare-riparare-sedici-progetti-per-dare-nuova-vita-materiali-risorse",
+    "descrizione": "Gli oggetti rotti che tornano a funzionare in un'officina di quartiere. Le eccedenze di frutta e verdura che diventano conserve e pasti solidali.",
+    "data": "2026-11-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "8caf150448b9",
     "titolo": "A VTM i numeri del futuro della mobilità",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vtm-numeri-futuro-della-mobilita",
@@ -1915,86 +1995,6 @@
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-bruxelles-vicepresidente-fitto",
     "descrizione": "Le risorse per la cura e la salute delle persone sono state al centro della due giorni a Bruxelles del presidente Cirio e dell’assessore alla Sanità della Regione Piemonte, Federico Riboldi Oggi pomeriggio, il presidente e l’assessore hanno poi incontrato, il vicepresidente esecutivo…",
     "data": "2026-10-14T19:28:29+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "97c6fdedc6ab",
-    "titolo": "Fondi Europei, incontro a Bruxelles con il vicepresidente Fitto. Focus su Politiche sociali e sanità",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fondi-europei-incontro-bruxelles-vicepresidente-fitto-focus-politiche-sociali-sanita",
-    "descrizione": "Le risorse per la cura e la salute delle persone sono state al centro della due giorni a Bruxelles del presidente Cirio e dell’assessore alla Sanità della Regione Piemonte, Federico Riboldi. Mercoledì 14 ottobre pomeriggio, il presidente…",
-    "data": "2026-10-14T19:28:29+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ba6c588e4668",
-    "titolo": "Sanità, accordo con i sindacati su assunzioni, welfare aziendale e 118",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/sanita-accordo-sindacati-assunzioni-welfare-aziendale-118",
-    "descrizione": "Le assunzioni del personale, il welfare aziendale e il servizio di emergenza-urgenza 118 sono stati al centro dell’incontro che si è svolto questa mattina al Grattacielo Piemonte, con il presidente della Regione Alberto Cirio, l’assessore alla Sanità Federico Riboldi…",
-    "data": "2026-10-14T17:07:24+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "92b11f1faefa",
-    "titolo": "Gruppo Qualcosa di Coppia",
-    "link": "https://www.comune.torino.it/novita/notizie/gruppo-qualcosa-coppia",
-    "descrizione": "Percorso in gruppo per fare il punto di come la coppia sta funzionando e sperimentare l’arte della ”manutenzione” dell’amore di coppia.",
-    "data": "2026-10-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "3a0b09b3a6c1",
-    "titolo": "Riscaldamento, a Torino accensione posticipata a lunedì 19 ottobre",
-    "link": "https://www.comune.torino.it/novita/comunicati/riscaldamento-torino-accensione-posticipata-lunedi-19-ottobre",
-    "descrizione": "A Torino l’accensione dei riscaldamenti viene posticipata da giovedì 15 a lunedì 19 ottobre 2026.",
-    "data": "2026-10-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "5c72626f6871",
-    "titolo": "Intitolato il Giardino Romanework Hailè Selassiè",
-    "link": "https://www.comune.torino.it/novita/comunicati/intitolato-giardino-romanework-haile-selassie",
-    "descrizione": "Da questa mattina, il giardino compreso tra le vie Uffreduzzi e Arduino, all’interno del quartiere Filadelfia, è intitolato a Romanework Hailè Selassiè",
-    "data": "2026-10-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "068bbff881aa",
-    "titolo": "Corsi laici di preparazione alla vita di coppia",
-    "link": "https://www.comune.torino.it/novita/notizie/corsi-laici-preparazione-alla-vita-coppia",
-    "descrizione": "Per un Sì consapevole: ciclo di incontri rivolti a coppie in procinto di sposarsi",
-    "data": "2026-10-14T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "1f62adb4ad58",
-    "titolo": "Autonomia differenziata, il Consiglio dei Ministri approva le intese definitive con il Piemonte",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/autonomia-differenziata-consiglio-dei-ministri-approva-intese-definitive-piemonte",
-    "descrizione": "Il Consiglio dei ministri ha approvato martedì 13 ottobre le intese definitive tra il Governo e la Regione Piemonte per l'attribuzione di ulteriori forme e condizioni particolari di autonomia, ai sensi…",
-    "data": "2026-10-13T22:00:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ca124aaabbfc",
-    "titolo": "Il Piemonte al TTG 2026. Un ricco palinsesto di eventi dedicato alla sostenibilità, all’outdoor, alla cultura e all’enogastronomia",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-al-ttg-2026-un-ricco-palinsesto-eventi-dedicato-alla-sostenibilita-alloutdoor-alla-cultura",
-    "descrizione": "Il Piemonte accoglie mercoledì 14 e giovedì 15 ottobre i visitatori del TTG Travel Experience 2026 di Rimini con un ampio spazio nel Padiglione C1 (stand 126-216-217-123). TTG Italia è la più grande…",
-    "data": "2026-10-13T14:11:27+02:00",
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"

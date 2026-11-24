@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 124,
-    "regione": 75,
+    "comune_torino": 128,
+    "regione": 71,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -27,7 +27,7 @@
       "conteggio": 14
     },
     {
-      "tema": "turismo",
+      "tema": "edilizia-opere-pubbliche",
       "conteggio": 11
     },
     {
@@ -39,7 +39,7 @@
       "conteggio": 10
     },
     {
-      "tema": "edilizia-opere-pubbliche",
+      "tema": "turismo",
       "conteggio": 10
     },
     {
@@ -47,5 +47,5 @@
       "conteggio": 9
     }
   ],
-  "totale_temi_con_notizie": 26
+  "totale_temi_con_notizie": 25
 }
