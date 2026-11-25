@@ -487,6 +487,14 @@
   ],
   "sociale-welfare": [
     {
+      "id": "dd8ced64a864",
+      "titolo": "Una famiglia, una casa: 1000 alloggi per le giovani famiglie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/una-famiglia-una-casa-1000-alloggi-per-giovani-famiglie",
+      "data": "2026-11-24T15:08:13+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
       "id": "38800ca3a2dd",
       "titolo": "Da ex bagni pubblici a polo per l’abitare sociale e l’autonomia. Inaugurato Roccavione Hub",
       "link": "https://www.comune.torino.it/novita/comunicati/ex-bagni-pubblici-polo-per-labitare-sociale-lautonomia-inaugurato-roccavione-hub",
@@ -605,6 +613,96 @@
       "data": "2026-10-19T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
+    }
+  ],
+  "giovani": [
+    {
+      "id": "dd8ced64a864",
+      "titolo": "Una famiglia, una casa: 1000 alloggi per le giovani famiglie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/una-famiglia-una-casa-1000-alloggi-per-giovani-famiglie",
+      "data": "2026-11-24T15:08:13+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "71ae533954d4",
+      "titolo": "Olimpiadi Torino 2006, la gestione passa alla Regione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/olimpiadi-torino-2006-gestione-passa-alla-regione",
+      "data": "2026-11-23T15:46:19+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "b05de598f910",
+      "titolo": "Giovani, inclusione e prossimità: domani, 20 novembre, l'evento di presentazione del progetto \"Presi Bene\"",
+      "link": "https://www.comune.torino.it/novita/comunicati/giovani-inclusione-prossimita-domani-20-novembre-levento-presentazione-progetto",
+      "data": "2026-11-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "69b68cc70734",
+      "titolo": "Open 011, inaugurata la casa della mobilità giovanile e dell’intercultura",
+      "link": "https://www.comune.torino.it/novita/comunicati/open-011-inaugurata-casa-della-mobilita-giovanile-dellintercultura",
+      "data": "2026-11-18T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "be123f659eef",
+      "titolo": "25 novembre, Torino rinnova il proprio impegno contro la violenza sulle donne",
+      "link": "https://www.comune.torino.it/novita/comunicati/25-novembre-torino-rinnova-proprio-impegno-contro-violenza-sulle-donne",
+      "data": "2026-11-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9b8f4bfd5bc7",
+      "titolo": "Il Ddl ColtivaItalia è legge: filiere, allevamento, insediamento dei giovani, moratoria sui mutui, contrasto alla peste suina",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ddl-coltivaitalia-legge-filiere-allevamento-insediamento-dei-giovani-moratoria-sui-mutui-contrasto",
+      "data": "2026-11-05T15:23:15+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "2a4397fb0704",
+      "titolo": "Servizio Civile digitale e ambientale ad ITER",
+      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-digitale-ambientale-ad-iter",
+      "data": "2026-10-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "1079b66f9763",
+      "titolo": "Scuola, più opportunità per i giovani con i nuovi bandi regionali",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuola-piu-opportunita-per-giovani-nuovi-bandi-regionali",
+      "data": "2026-10-26T14:33:46+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "4ef3d9d2563e",
+      "titolo": "Lo Russo: “Serve un Piano Marshall per i giovani”",
+      "link": "https://www.comune.torino.it/novita/comunicati/russo-serve-un-piano-marshall-per-giovani",
+      "data": "2026-10-26T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "6fb8c18313c6",
+      "titolo": "IOLAVORO 2026: Torino protagonista di due giornate tra opportunità di lavoro, giovani e nuove competenze",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-torino-protagonista-due-giornate-opportunita-lavoro-giovani-nuove-competenze",
+      "data": "2026-10-16T11:01:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "7979f3473b2f",
+      "titolo": "IoLavoro 2026, due giornate di contatti",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-due-giornate-contatti",
+      "data": "2026-10-16T11:01:18+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
     }
   ],
   "edilizia-opere-pubbliche": [
@@ -777,14 +875,6 @@
       "data": "2026-10-15T14:19:50+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "1a2384eacd15",
-      "titolo": "Incontro a Bruxelles con il vicepresidente Fitto",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-bruxelles-vicepresidente-fitto",
-      "data": "2026-10-14T19:28:29+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "crisi-automotive": [
@@ -879,88 +969,6 @@
       "data": "2026-10-28T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    }
-  ],
-  "giovani": [
-    {
-      "id": "71ae533954d4",
-      "titolo": "Olimpiadi Torino 2006, la gestione passa alla Regione",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/olimpiadi-torino-2006-gestione-passa-alla-regione",
-      "data": "2026-11-23T15:46:19+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "b05de598f910",
-      "titolo": "Giovani, inclusione e prossimità: domani, 20 novembre, l'evento di presentazione del progetto \"Presi Bene\"",
-      "link": "https://www.comune.torino.it/novita/comunicati/giovani-inclusione-prossimita-domani-20-novembre-levento-presentazione-progetto",
-      "data": "2026-11-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "69b68cc70734",
-      "titolo": "Open 011, inaugurata la casa della mobilità giovanile e dell’intercultura",
-      "link": "https://www.comune.torino.it/novita/comunicati/open-011-inaugurata-casa-della-mobilita-giovanile-dellintercultura",
-      "data": "2026-11-18T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "be123f659eef",
-      "titolo": "25 novembre, Torino rinnova il proprio impegno contro la violenza sulle donne",
-      "link": "https://www.comune.torino.it/novita/comunicati/25-novembre-torino-rinnova-proprio-impegno-contro-violenza-sulle-donne",
-      "data": "2026-11-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9b8f4bfd5bc7",
-      "titolo": "Il Ddl ColtivaItalia è legge: filiere, allevamento, insediamento dei giovani, moratoria sui mutui, contrasto alla peste suina",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/ddl-coltivaitalia-legge-filiere-allevamento-insediamento-dei-giovani-moratoria-sui-mutui-contrasto",
-      "data": "2026-11-05T15:23:15+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "2a4397fb0704",
-      "titolo": "Servizio Civile digitale e ambientale ad ITER",
-      "link": "https://www.comune.torino.it/novita/notizie/servizio-civile-digitale-ambientale-ad-iter",
-      "data": "2026-10-27T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "1079b66f9763",
-      "titolo": "Scuola, più opportunità per i giovani con i nuovi bandi regionali",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/scuola-piu-opportunita-per-giovani-nuovi-bandi-regionali",
-      "data": "2026-10-26T14:33:46+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "4ef3d9d2563e",
-      "titolo": "Lo Russo: “Serve un Piano Marshall per i giovani”",
-      "link": "https://www.comune.torino.it/novita/comunicati/russo-serve-un-piano-marshall-per-giovani",
-      "data": "2026-10-26T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6fb8c18313c6",
-      "titolo": "IOLAVORO 2026: Torino protagonista di due giornate tra opportunità di lavoro, giovani e nuove competenze",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-torino-protagonista-due-giornate-opportunita-lavoro-giovani-nuove-competenze",
-      "data": "2026-10-16T11:01:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "7979f3473b2f",
-      "titolo": "IoLavoro 2026, due giornate di contatti",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-due-giornate-contatti",
-      "data": "2026-10-16T11:01:18+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "istruzione-formazione": [

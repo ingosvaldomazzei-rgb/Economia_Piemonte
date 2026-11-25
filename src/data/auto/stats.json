@@ -20,11 +20,15 @@
     },
     {
       "tema": "sociale-welfare",
-      "conteggio": 15
+      "conteggio": 16
     },
     {
       "tema": "istruzione-formazione",
       "conteggio": 14
+    },
+    {
+      "tema": "giovani",
+      "conteggio": 11
     },
     {
       "tema": "edilizia-opere-pubbliche",
@@ -32,10 +36,6 @@
     },
     {
       "tema": "agricoltura",
-      "conteggio": 11
-    },
-    {
-      "tema": "giovani",
       "conteggio": 10
     },
     {

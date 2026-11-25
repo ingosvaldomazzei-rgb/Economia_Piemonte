@@ -30,6 +30,16 @@
     "colore": "#dc2626"
   },
   {
+    "id": "dd8ced64a864",
+    "titolo": "Una famiglia, una casa: 1000 alloggi per le giovani famiglie",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/una-famiglia-una-casa-1000-alloggi-per-giovani-famiglie",
+    "descrizione": "«Con il progetto “Una famiglia, una casa” vogliamo dare una risposta concreta a una delle difficoltà più grandi per le giovani generazioni: trovare una casa a condizioni accessibili e poter così costruire una famiglia e avere dei bambini, guardando al futuro con maggiore serenità. La Regione…",
+    "data": "2026-11-24T15:08:13+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "38800ca3a2dd",
     "titolo": "Da ex bagni pubblici a polo per l’abitare sociale e l’autonomia. Inaugurato Roccavione Hub",
     "link": "https://www.comune.torino.it/novita/comunicati/ex-bagni-pubblici-polo-per-labitare-sociale-lautonomia-inaugurato-roccavione-hub",
@@ -1988,15 +1998,5 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
-  },
-  {
-    "id": "1a2384eacd15",
-    "titolo": "Incontro a Bruxelles con il vicepresidente Fitto",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/incontro-bruxelles-vicepresidente-fitto",
-    "descrizione": "Le risorse per la cura e la salute delle persone sono state al centro della due giorni a Bruxelles del presidente Cirio e dell’assessore alla Sanità della Regione Piemonte, Federico Riboldi Oggi pomeriggio, il presidente e l’assessore hanno poi incontrato, il vicepresidente esecutivo…",
-    "data": "2026-10-14T19:28:29+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
   }
 ]
