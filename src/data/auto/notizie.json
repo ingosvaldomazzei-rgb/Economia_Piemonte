@@ -30,6 +30,76 @@
     "colore": "#dc2626"
   },
   {
+    "id": "219d4aff1e3d",
+    "titolo": "A VTM 2026 oltre 5.000 B2B: Piemonte motore dell’innovazione della mobilità del futuro",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vtm-2026-oltre-5000-b2b-piemonte-motore-dellinnovazione-della-mobilita-futuro",
+    "descrizione": "Chiude con numeri record la quinta edizione di VTM – Vehicle & Transportation Technology Innovation Meetings, l’unica business convention internazionale in Italia dedicata all’innovazione nell’automotive e nei trasporti promossa da Regione Piemonte…",
+    "data": "2026-11-25T14:04:06+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "38e6a57114c5",
+    "titolo": "Nuovi investimenti per le scuole cittadine: al via interventi per 1,75 milioni di euro",
+    "link": "https://www.comune.torino.it/novita/comunicati/nuovi-investimenti-per-scuole-cittadine-al-via-interventi-per-175-milioni-euro",
+    "descrizione": "Più sicurezza, accessibilità e qualità degli spazi scolastici grazie a un pacchetto di interventi da 1 milione e 750mila euro. Nella seduta di ieri, la Giunta c",
+    "data": "2026-11-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6f83374f1917",
+    "titolo": "Bandi per le concessioni di posteggio: incontro con le Associazioni di categoria",
+    "link": "https://www.comune.torino.it/novita/comunicati/bandi-per-concessioni-posteggio-incontro-associazioni-categoria",
+    "descrizione": "Incontro con le Associazioni di categoria per la definizione dei criteri dei futuri bandi per le concessioni di posteggio nel commercio su area pubblica.",
+    "data": "2026-11-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "2ef79e240c60",
+    "titolo": "Benessere digitale, Torino adotta le raccomandazioni per bambine e bambini da 0 a 6 anni",
+    "link": "https://www.comune.torino.it/novita/comunicati/benessere-digitale-torino-adotta-raccomandazioni-per-bambine-bambini-0-6-anni",
+    "descrizione": "Un riferimento condiviso per accompagnare famiglie, servizi educativi e scuole nell'uso consapevole delle tecnologie nei primi anni di vita.",
+    "data": "2026-11-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "4a569098328d",
+    "titolo": "Gruppo Tra Dialogo e Confini",
+    "link": "https://www.comune.torino.it/novita/notizie/gruppo-dialogo-confini-0",
+    "descrizione": "Percorso di gruppo per genitori che affrontano le sfide dell’adolescenza: spazio di confronto, supporto e condivisione di risorse.",
+    "data": "2026-11-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "b030d7d8027d",
+    "titolo": "Saldo IMU 2026 aree fabbricabili - nuovo PRG",
+    "link": "https://www.comune.torino.it/novita/avvisi/saldo-imu-2026-aree-fabbricabili-nuovo-prg",
+    "descrizione": "Indicazioni sul versamento del saldo IMU 2026 per le aree edificabili a seguito dell'approvazione del nuovo PRG",
+    "data": "2026-11-25T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "f0ba98f01b82",
+    "titolo": "Giornata internazionale per l'eliminazione della violenza contro le donne",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giornata-internazionale-per-leliminazione-della-violenza-contro-donne",
+    "descrizione": "A partire dalla serata di martedì 24 novembre, e per l’intera giornata di mercoledì 25 novembre, in occasione della Giornata internazionale per l’eliminazione della violenza contro le donne, la scritta del Grattacielo Regione Piemonte si illuminerà di arancione.…",
+    "data": "2026-11-25T11:22:21+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
     "id": "dd8ced64a864",
     "titolo": "Una famiglia, una casa: 1000 alloggi per le giovani famiglie",
     "link": "https://www.regione.piemonte.it/web/pinforma/notizie/una-famiglia-una-casa-1000-alloggi-per-giovani-famiglie",
@@ -118,6 +188,26 @@
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
+  },
+  {
+    "id": "c0862c7dd723",
+    "titolo": "Avviso pubblico rivolto a enti e associazioni del territorio per manifestare l'interesse a partecipare alla co-progettazione delle attività da realizzare presso l'Ex Safov (via Balbo 9/b) e da inserire all'interno di un patto educativo di comunità",
+    "link": "https://www.comune.torino.it/novita/avvisi/avviso-pubblico-rivolto-enti-associazioni-territorio-per-manifestare-linteresse",
+    "descrizione": "Avviso di avvio di consultazione",
+    "data": "2026-11-24T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "78eafc2c52a7",
+    "titolo": "Silicon Box, 9 milioni dalla Regione per le infrastrutture del sito di Novara",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/silicon-box-9-milioni-dalla-regione-per-infrastrutture-sito-novara",
+    "descrizione": "La Regione Piemonte destina 9 milioni di euro alla realizzazione delle infrastrutture pubbliche necessarie all’insediamento di Silicon Box a Novara. La Giunta regionale ha approvato ieri la misura finanziaria e lo schema di accordo con il Comune di Novara per accompagnare la realizzazione del…",
+    "data": "2026-11-24T10:00:00+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
   },
   {
     "id": "8caf150448b9",
@@ -1905,96 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/piazza-baldissera-al-via-lasfaltatura-delle-strade-attorno-allo-snodo",
     "descrizione": "Dopo il rifacimento dell’assetto viario dello snodo, con i nuovi semafori intelligenti partono i lavori di riasfaltatura in prossimità di piazza Baldissera.",
     "data": "2026-10-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "a22622a3bee9",
-    "titolo": "Apre al pubblico lo storico chiosco di piazza San Carlo: sarà un nuovo spazio per la promozione della Città e dei suoi eventi",
-    "link": "https://www.comune.torino.it/novita/comunicati/apre-al-pubblico-storico-chiosco-piazza-san-carlo-sara-un-nuovo-spazio-per",
-    "descrizione": "Lo spazio all'angolo con via Giolitti sarà aperto al pubblico tutti i fine settimana, dalle ore 10 alle 18, e in occasione di festività ed eventi.",
-    "data": "2026-10-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6fdcf5e6af0c",
-    "titolo": "Ricaricavano i monopattini in una cabina elettrica, denunciati",
-    "link": "https://www.comune.torino.it/novita/comunicati/ricaricavano-monopattini-una-cabina-elettrica-denunciati",
-    "descrizione": "Per caricare i monopattini usavano l’energia di una cabina elettrica.",
-    "data": "2026-10-16T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "6fb8c18313c6",
-    "titolo": "IOLAVORO 2026: Torino protagonista di due giornate tra opportunità di lavoro, giovani e nuove competenze",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-torino-protagonista-due-giornate-opportunita-lavoro-giovani-nuove-competenze",
-    "descrizione": "Opportunità concrete di occupazione, giovani alla scoperta delle professioni e un confronto a più voci sulle competenze necessarie per affrontare le trasformazioni del mercato del lavoro. Si è conclusa ieri, all'Inalpi Arena di Torino, l'edizione 2026 di IOLAVORO…",
-    "data": "2026-10-16T11:01:18+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "7979f3473b2f",
-    "titolo": "IoLavoro 2026, due giornate di contatti",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/iolavoro-2026-due-giornate-contatti",
-    "descrizione": "Opportunità concrete di occupazione, giovani alla scoperta delle professioni e un confronto a più voci sulle competenze necessarie per affrontare le trasformazioni del mercato del lavoro. Si è conclusa ieri, all'Inalpi Arena di Torino, l'edizione 2026 di IOLAVORO…",
-    "data": "2026-10-16T11:01:18+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "d93e89bb9642",
-    "titolo": "Il Piemonte a TTG 2026, seconda giornata",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piemonte-ttg-2026-seconda-giornata",
-    "descrizione": "Seconda giornata per l’edizione 2026 di Ttg Italia, la più grande borsa del turismo italiano alla Fiera di Rimini. Nello Spazio Piemonte (Padiglione C1, stand 126-216-217-123) è proseguito il fitto calendario di…",
-    "data": "2026-10-15T16:11:51+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "f90591392f7d",
-    "titolo": "Fabbriche Aperte Piemonte 2026: successo di adesioni per la settima edizione",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/fabbriche-aperte-piemonte-2026-successo-adesioni-per-settima-edizione",
-    "descrizione": "Dal 15 al 17 ottobre torna Fabbriche Aperte Piemonte, la grande manifestazione promossa dalla Regione Piemonte che apre le porte del mondo produttivo locale ai cittadini. Con lo slogan \"Dentro il cuore del Piemonte industriale, per scoprire…",
-    "data": "2026-10-15T16:04:37+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "d76c8c895ccf",
-    "titolo": "Più risorse per la filiera del legno, oltre 6,6 milioni per gli investimenti forestali",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/piu-risorse-per-filiera-legno-oltre-66-milioni-per-gli-investimenti-forestali",
-    "descrizione": "La Regione Piemonte destina 6 milioni e 666 mila euro all’intervento SRD15 «Investimenti produttivi forestali» del Complemento regionale per lo Sviluppo rurale 2023-2027, con l’obiettivo di rafforzare gli investimenti nella filiera del legno.…",
-    "data": "2026-10-15T14:19:50+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "f83ffd705cf9",
-    "titolo": "Mirafiori, intervento della Polizia Locale e dell’Asl. Chiuso laboratorio di panificazione",
-    "link": "https://www.comune.torino.it/novita/comunicati/mirafiori-intervento-della-polizia-locale-dellasl-chiuso-laboratorio",
-    "descrizione": "Un laboratorio di panificazione della zona di Mirafiori sud di Torino è stato chiuso mercoledì 7 ottobre su disposizione dell'Asl.",
-    "data": "2026-10-15T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "10e1ba141b6b",
-    "titolo": "Locazione a trattativa diretta unità immobiliare sita a Torino in Corso Massimo d’Azeglio n. 2",
-    "link": "https://www.comune.torino.it/novita/avvisi/locazione-trattativa-diretta-unita-immobiliare-sita-torino-corso-massimo",
-    "descrizione": "Procedura per l’assegnazione in locazione a trattativa diretta dell'unità immobiliare di proprietà comunale sita a Torino in Corso Massimo d’Azeglio n. 2",
-    "data": "2026-10-15T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"
