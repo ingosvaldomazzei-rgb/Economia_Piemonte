@@ -16,7 +16,7 @@
     },
     {
       "tema": "lavoro-occupazione",
-      "conteggio": 19
+      "conteggio": 17
     },
     {
       "tema": "sociale-welfare",
@@ -28,11 +28,15 @@
     },
     {
       "tema": "edilizia-opere-pubbliche",
-      "conteggio": 12
+      "conteggio": 13
     },
     {
       "tema": "agricoltura",
       "conteggio": 11
+    },
+    {
+      "tema": "turismo",
+      "conteggio": 10
     },
     {
       "tema": "enti-locali-piccoli-comuni",
@@ -40,10 +44,6 @@
     },
     {
       "tema": "giovani",
-      "conteggio": 9
-    },
-    {
-      "tema": "turismo",
       "conteggio": 9
     }
   ],
