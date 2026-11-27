@@ -30,10 +30,40 @@
     "colore": "#dc2626"
   },
   {
+    "id": "19720851f986",
+    "titolo": "Welfare integrativo aziendale, nuova misura per i dipendenti della Regione",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/welfare-integrativo-aziendale-nuova-misura-per-dipendenti-della-regione",
+    "descrizione": "Si è tenuta giovedì 26 novembre a Torino, nella sede del Grattacielo della Regione Piemonte, la conferenza stampa di presentazione del Welfare Integrativo Aziendale, denominato Wel.In, promosso da Regione Piemonte e Consiglio regionale del Piemonte per valorizzare il personale e integrare gli…",
+    "data": "2026-11-27T13:01:48+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "aa966214f115",
+    "titolo": "Polizia locale, concluso a Torino il 101° corso regionale di formazione per 77 agenti",
+    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/polizia-locale-concluso-torino-101deg-corso-regionale-formazione-per-77-agenti",
+    "descrizione": "Si è svolta il 27 novembre 2026 a Torino, in piazza Carignano, la cerimonia conclusiva del 101° corso regionale di formazione per agenti di Polizia locale neoassunti, alla presenza del presidente della Regione Piemonte, Alberto Cirio e dell’assessore alla…",
+    "data": "2026-11-27T12:44:44+01:00",
+    "fonte": "Regione Piemonte",
+    "fonte_id": "regione",
+    "colore": "#2563eb"
+  },
+  {
+    "id": "2b6234975ba4",
+    "titolo": "Concerto di Anna (15 dicembre 2026) e concerto de Il Volo (19 dicembre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+    "link": "https://www.comune.torino.it/novita/notizie/concerto-anna-15-dicembre-2026-concerto-de-volo-19-dicembre-2026-presso-inalpi",
+    "descrizione": "L'assegnazione si terrà MARTEDI' 01 DICEMBRE alle ore 14,30 in Via Meucci, 4 , piano -1, nell’area antistante gli sportelli.",
+    "data": "2026-11-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "42696603a264",
     "titolo": "Conclusa la procedura di gara delle opere civili: il passo decisivo verso l’avvio dei cantieri di metro 2",
     "link": "https://www.comune.torino.it/novita/comunicati/conclusa-procedura-gara-delle-opere-civili-passo-decisivo-verso-lavvio-dei",
-    "descrizione": "Si è conclusa oggi l’attività delle due Commissioni giudicatrici incaricate della valutazione delle offerte tecniche presentate nell’ambito della procedura di g",
+    "descrizione": "Si è conclusa oggi l’attività delle due Commissioni giudicatrici incaricate della valutazione delle offerte tecniche presentate.",
     "data": "2026-11-26T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -83,7 +113,7 @@
     "id": "38e6a57114c5",
     "titolo": "Nuovi investimenti per le scuole cittadine: al via interventi per 1,75 milioni di euro",
     "link": "https://www.comune.torino.it/novita/comunicati/nuovi-investimenti-per-scuole-cittadine-al-via-interventi-per-175-milioni-euro",
-    "descrizione": "Più sicurezza, accessibilità e qualità degli spazi scolastici grazie a un pacchetto di interventi da 1 milione e 750mila euro. Nella seduta di ieri, la Giunta c",
+    "descrizione": "Più sicurezza, accessibilità e qualità degli spazi scolastici grazie a un pacchetto di interventi da 1 milione e 750mila euro.",
     "data": "2026-11-25T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
@@ -1965,36 +1995,6 @@
     "link": "https://www.comune.torino.it/novita/comunicati/fermato-monopattino-senza-casco-sul-marciapiede-investe-lagente-per-fuggire",
     "descrizione": "Fermato per un controllo mentre guidava il monopattino senza casco e sul marciapiedi.",
     "data": "2026-10-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
-  },
-  {
-    "id": "3288ba7a88e1",
-    "titolo": "Abitare sulla Luna, a Torino i riflettori sul modulo MPH",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/abitare-sulla-luna-torino-riflettori-sul-modulo-mph",
-    "descrizione": "Le infrastrutture, le tecnologie e le competenze necessarie per accompagnare il passaggio dall’esplorazione lunare allo sviluppo delle condizioni infrastrutturali che permettano una presenza umana stabile e sostenibile sulla Luna sono state il fulcro del dibattito emerso durante…",
-    "data": "2026-10-16T18:00:00+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "6f8c359fabf9",
-    "titolo": "Nuovo ospedale di Vercelli, via libera del Ministero al finanziamento del blocco di emergenza-urgenza",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-vercelli-via-libera-ministero-al-finanziamento-blocco-emergenza-urgenza",
-    "descrizione": "l Ministero della Salute ha emanato il decreto di ammissione a finanziamento del nuovo Blocco di Emergenza-Urgenza dell'Ospedale Sant'Andrea di Vercelli, il primo edificio funzionale del futuro nuovo ospedale cittadino.…",
-    "data": "2026-10-16T14:25:37+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "f8d9a6a5c123",
-    "titolo": "Prezzi al consumo per l’intera collettività (Nic) a settembre 2026",
-    "link": "https://www.comune.torino.it/novita/comunicati/prezzi-al-consumo-per-lintera-collettivita-nic-settembre-2026",
-    "descrizione": "Nel mese di settembre 2026 l’indice complessivo dei prezzi al consumo per l’intera collettività è risultato pari al 104,3.",
-    "data": "2026-10-16T12:00:00+00:00",
     "fonte": "Comune di Torino",
     "fonte_id": "comune_torino",
     "colore": "#dc2626"

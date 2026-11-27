@@ -147,6 +147,14 @@
       "fonte_id": "comune_torino"
     },
     {
+      "id": "2b6234975ba4",
+      "titolo": "Concerto di Anna (15 dicembre 2026) e concerto de Il Volo (19 dicembre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/concerto-anna-15-dicembre-2026-concerto-de-volo-19-dicembre-2026-presso-inalpi",
+      "data": "2026-11-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
       "id": "f0ba98f01b82",
       "titolo": "Giornata internazionale per l'eliminazione della violenza contro le donne",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/giornata-internazionale-per-leliminazione-della-violenza-contro-donne",
@@ -289,14 +297,6 @@
       "data": "2026-11-04T12:23:57+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
-    {
-      "id": "459c97fe737f",
-      "titolo": "Il futuro del tartufo si coltiva a scuola: da Chieri parte il tour negli istituti agrari",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/futuro-tartufo-si-coltiva-scuola-chieri-parte-tour-negli-istituti-agrari",
-      "data": "2026-11-03T15:38:18+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sport": [
@@ -305,6 +305,14 @@
       "titolo": "POSSIBILI DISSERVIZI AGLI SPORTELLI DELLA POLIZIA LOCALE",
       "link": "https://www.comune.torino.it/novita/avvisi/possibili-disservizi-agli-sportelli-della-polizia-locale",
       "data": "2026-11-30T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2b6234975ba4",
+      "titolo": "Concerto di Anna (15 dicembre 2026) e concerto de Il Volo (19 dicembre 2026) presso Inalpi Arena - convocazione per assegnazione posteggi e rilascio concessioni temporanee",
+      "link": "https://www.comune.torino.it/novita/notizie/concerto-anna-15-dicembre-2026-concerto-de-volo-19-dicembre-2026-presso-inalpi",
+      "data": "2026-11-27T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
     },
@@ -451,14 +459,152 @@
       "data": "2026-11-06T18:00:00+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
-    },
+    }
+  ],
+  "sociale-welfare": [
     {
-      "id": "6d448a8d4b88",
-      "titolo": "IL SET PERFETTO. Dieci giorni sotto rete per innamorarsi di Torino e del Piemonte",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/set-perfetto-dieci-giorni-sotto-rete-per-innamorarsi-torino-piemonte",
-      "data": "2026-11-01T16:18:29+01:00",
+      "id": "19720851f986",
+      "titolo": "Welfare integrativo aziendale, nuova misura per i dipendenti della Regione",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/welfare-integrativo-aziendale-nuova-misura-per-dipendenti-della-regione",
+      "data": "2026-11-27T13:01:48+01:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
+    },
+    {
+      "id": "2ef79e240c60",
+      "titolo": "Benessere digitale, Torino adotta le raccomandazioni per bambine e bambini da 0 a 6 anni",
+      "link": "https://www.comune.torino.it/novita/comunicati/benessere-digitale-torino-adotta-raccomandazioni-per-bambine-bambini-0-6-anni",
+      "data": "2026-11-25T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "dd8ced64a864",
+      "titolo": "Una famiglia, una casa: 1000 alloggi per le giovani famiglie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/una-famiglia-una-casa-1000-alloggi-per-giovani-famiglie",
+      "data": "2026-11-24T15:08:13+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "38800ca3a2dd",
+      "titolo": "Da ex bagni pubblici a polo per l’abitare sociale e l’autonomia. Inaugurato Roccavione Hub",
+      "link": "https://www.comune.torino.it/novita/comunicati/ex-bagni-pubblici-polo-per-labitare-sociale-lautonomia-inaugurato-roccavione-hub",
+      "data": "2026-11-24T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b3cf77d2f5ca",
+      "titolo": "Potrebbe sempre servire?",
+      "link": "https://www.comune.torino.it/novita/notizie/potrebbe-sempre-servire",
+      "data": "2026-11-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "b05de598f910",
+      "titolo": "Giovani, inclusione e prossimità: domani, 20 novembre, l'evento di presentazione del progetto \"Presi Bene\"",
+      "link": "https://www.comune.torino.it/novita/comunicati/giovani-inclusione-prossimita-domani-20-novembre-levento-presentazione-progetto",
+      "data": "2026-11-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5344f986c78b",
+      "titolo": "Spazi pubblici dedicati al ricordo di Germana Erba, Emma Strada e Vincenza Castria",
+      "link": "https://www.comune.torino.it/novita/comunicati/spazi-pubblici-dedicati-al-ricordo-germana-erba-emma-strada-vincenza-castria",
+      "data": "2026-11-17T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "9bf997bcc574",
+      "titolo": "Sicurezza urbana, un approccio integrato alle dipendenze e al reinserimento sociale",
+      "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-un-approccio-integrato-alle-dipendenze-al-reinserimento-sociale",
+      "data": "2026-11-16T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "7fc683200887",
+      "titolo": "Vendita abusiva di giocattoli davanti a una scuola: sanzione e sequestro",
+      "link": "https://www.comune.torino.it/novita/comunicati/vendita-abusiva-giocattoli-davanti-una-scuola-sanzione-sequestro",
+      "data": "2026-11-06T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "ebfd5c498138",
+      "titolo": "Assistenza agli anziani, il Piemonte sperimenta un nuovo modello",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/assistenza-agli-anziani-piemonte-sperimenta-un-nuovo-modello",
+      "data": "2026-10-30T17:09:07+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "9f81cfe9487e",
+      "titolo": "7,7 milioni per le scuole dell'infanzia paritarie",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/77-milioni-per-scuole-dellinfanzia-paritarie",
+      "data": "2026-10-27T16:27:20+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "a713edc6c105",
+      "titolo": "Invest in Piemonte riunisce 70 multinazionali estere",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/invest-piemonte-riunisce-70-multinazionali-estere",
+      "data": "2026-10-22T20:00:09+02:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "cb12dcbcc870",
+      "titolo": "Nasce Silver Housing Massaua. Nuovi spazi per l’autonomia degli anziani non autosufficienti",
+      "link": "https://www.comune.torino.it/novita/comunicati/nasce-silver-housing-massaua-nuovi-spazi-per-lautonomia-degli-anziani-non",
+      "data": "2026-10-21T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "a5603f4d980b",
+      "titolo": "Diabete, screening e accesso alle cure per le persone in condizioni di grave marginalità",
+      "link": "https://www.comune.torino.it/novita/comunicati/diabete-screening-accesso-alle-cure-per-persone-condizioni-grave-marginalita",
+      "data": "2026-10-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "dbf171d45ec1",
+      "titolo": "Efficientamento energetico per tre edifici comunali: approvati lavori per 861mila euro",
+      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-per-tre-edifici-comunali-approvati-lavori-per-861mila",
+      "data": "2026-10-20T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "5595bea5f254",
+      "titolo": "Laboratorio gratuito di Teatro d'ombre",
+      "link": "https://www.comune.torino.it/novita/notizie/laboratorio-gratuito-teatro-dombre",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "00056a72b0ff",
+      "titolo": "La Sala Rossa per il contrasto alla solitudine",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-per-contrasto-alla-solitudine",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "2316eb63ec85",
+      "titolo": "Sala Rossa: un assistente di condominio in tutte le Circoscrizioni",
+      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-un-assistente-condominio-tutte-circoscrizioni",
+      "data": "2026-10-19T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
     }
   ],
   "edilizia-opere-pubbliche": [
@@ -557,14 +703,6 @@
       "data": "2026-10-20T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "3288ba7a88e1",
-      "titolo": "Abitare sulla Luna, a Torino i riflettori sul modulo MPH",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/abitare-sulla-luna-torino-riflettori-sul-modulo-mph",
-      "data": "2026-10-16T18:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "sanita-regionale": [
@@ -613,14 +751,6 @@
       "titolo": "Distretto manifatturiero del Nord, le cinque Regioni rafforzano l'alleanza con industria e settore bancario",
       "link": "https://www.regione.piemonte.it/web/pinforma/notizie/distretto-manifatturiero-nord-cinque-regioni-rafforzano-lalleanza-industria-settore-bancario",
       "data": "2026-10-23T20:00:00+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "6f8c359fabf9",
-      "titolo": "Nuovo ospedale di Vercelli, via libera del Ministero al finanziamento del blocco di emergenza-urgenza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-vercelli-via-libera-ministero-al-finanziamento-blocco-emergenza-urgenza",
-      "data": "2026-10-16T14:25:37+02:00",
       "fonte": "Regione Piemonte",
       "fonte_id": "regione"
     }
@@ -1097,144 +1227,6 @@
       "fonte_id": "regione"
     }
   ],
-  "sociale-welfare": [
-    {
-      "id": "2ef79e240c60",
-      "titolo": "Benessere digitale, Torino adotta le raccomandazioni per bambine e bambini da 0 a 6 anni",
-      "link": "https://www.comune.torino.it/novita/comunicati/benessere-digitale-torino-adotta-raccomandazioni-per-bambine-bambini-0-6-anni",
-      "data": "2026-11-25T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "dd8ced64a864",
-      "titolo": "Una famiglia, una casa: 1000 alloggi per le giovani famiglie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/una-famiglia-una-casa-1000-alloggi-per-giovani-famiglie",
-      "data": "2026-11-24T15:08:13+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "38800ca3a2dd",
-      "titolo": "Da ex bagni pubblici a polo per l’abitare sociale e l’autonomia. Inaugurato Roccavione Hub",
-      "link": "https://www.comune.torino.it/novita/comunicati/ex-bagni-pubblici-polo-per-labitare-sociale-lautonomia-inaugurato-roccavione-hub",
-      "data": "2026-11-24T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b3cf77d2f5ca",
-      "titolo": "Potrebbe sempre servire?",
-      "link": "https://www.comune.torino.it/novita/notizie/potrebbe-sempre-servire",
-      "data": "2026-11-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "b05de598f910",
-      "titolo": "Giovani, inclusione e prossimità: domani, 20 novembre, l'evento di presentazione del progetto \"Presi Bene\"",
-      "link": "https://www.comune.torino.it/novita/comunicati/giovani-inclusione-prossimita-domani-20-novembre-levento-presentazione-progetto",
-      "data": "2026-11-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5344f986c78b",
-      "titolo": "Spazi pubblici dedicati al ricordo di Germana Erba, Emma Strada e Vincenza Castria",
-      "link": "https://www.comune.torino.it/novita/comunicati/spazi-pubblici-dedicati-al-ricordo-germana-erba-emma-strada-vincenza-castria",
-      "data": "2026-11-17T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "9bf997bcc574",
-      "titolo": "Sicurezza urbana, un approccio integrato alle dipendenze e al reinserimento sociale",
-      "link": "https://www.comune.torino.it/novita/comunicati/sicurezza-urbana-un-approccio-integrato-alle-dipendenze-al-reinserimento-sociale",
-      "data": "2026-11-16T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "7fc683200887",
-      "titolo": "Vendita abusiva di giocattoli davanti a una scuola: sanzione e sequestro",
-      "link": "https://www.comune.torino.it/novita/comunicati/vendita-abusiva-giocattoli-davanti-una-scuola-sanzione-sequestro",
-      "data": "2026-11-06T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "ebfd5c498138",
-      "titolo": "Assistenza agli anziani, il Piemonte sperimenta un nuovo modello",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/assistenza-agli-anziani-piemonte-sperimenta-un-nuovo-modello",
-      "data": "2026-10-30T17:09:07+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "9f81cfe9487e",
-      "titolo": "7,7 milioni per le scuole dell'infanzia paritarie",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/77-milioni-per-scuole-dellinfanzia-paritarie",
-      "data": "2026-10-27T16:27:20+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "a713edc6c105",
-      "titolo": "Invest in Piemonte riunisce 70 multinazionali estere",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/invest-piemonte-riunisce-70-multinazionali-estere",
-      "data": "2026-10-22T20:00:09+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "cb12dcbcc870",
-      "titolo": "Nasce Silver Housing Massaua. Nuovi spazi per l’autonomia degli anziani non autosufficienti",
-      "link": "https://www.comune.torino.it/novita/comunicati/nasce-silver-housing-massaua-nuovi-spazi-per-lautonomia-degli-anziani-non",
-      "data": "2026-10-21T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a5603f4d980b",
-      "titolo": "Diabete, screening e accesso alle cure per le persone in condizioni di grave marginalità",
-      "link": "https://www.comune.torino.it/novita/comunicati/diabete-screening-accesso-alle-cure-per-persone-condizioni-grave-marginalita",
-      "data": "2026-10-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "dbf171d45ec1",
-      "titolo": "Efficientamento energetico per tre edifici comunali: approvati lavori per 861mila euro",
-      "link": "https://www.comune.torino.it/novita/comunicati/efficientamento-energetico-per-tre-edifici-comunali-approvati-lavori-per-861mila",
-      "data": "2026-10-20T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "5595bea5f254",
-      "titolo": "Laboratorio gratuito di Teatro d'ombre",
-      "link": "https://www.comune.torino.it/novita/notizie/laboratorio-gratuito-teatro-dombre",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "00056a72b0ff",
-      "titolo": "La Sala Rossa per il contrasto alla solitudine",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-per-contrasto-alla-solitudine",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    },
-    {
-      "id": "2316eb63ec85",
-      "titolo": "Sala Rossa: un assistente di condominio in tutte le Circoscrizioni",
-      "link": "https://www.comune.torino.it/novita/comunicati/sala-rossa-un-assistente-condominio-tutte-circoscrizioni",
-      "data": "2026-10-19T12:00:00+00:00",
-      "fonte": "Comune di Torino",
-      "fonte_id": "comune_torino"
-    }
-  ],
   "giovani": [
     {
       "id": "dd8ced64a864",
@@ -1531,14 +1523,6 @@
       "data": "2026-10-19T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "6f8c359fabf9",
-      "titolo": "Nuovo ospedale di Vercelli, via libera del Ministero al finanziamento del blocco di emergenza-urgenza",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/nuovo-ospedale-vercelli-via-libera-ministero-al-finanziamento-blocco-emergenza-urgenza",
-      "data": "2026-10-16T14:25:37+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "energia": [
