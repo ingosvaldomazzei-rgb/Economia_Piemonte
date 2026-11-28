@@ -607,6 +607,32 @@
       "fonte_id": "comune_torino"
     }
   ],
+  "crisi-automotive": [
+    {
+      "id": "6bad4f4ae767",
+      "titolo": "Domenica 29 novembre la Fiat Torino Marathon. Le modifiche alla viabilità",
+      "link": "https://www.comune.torino.it/novita/comunicati/domenica-29-novembre-fiat-torino-marathon-modifiche-alla-viabilita",
+      "data": "2026-11-27T12:00:00+00:00",
+      "fonte": "Comune di Torino",
+      "fonte_id": "comune_torino"
+    },
+    {
+      "id": "219d4aff1e3d",
+      "titolo": "A VTM 2026 oltre 5.000 B2B: Piemonte motore dell’innovazione della mobilità del futuro",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vtm-2026-oltre-5000-b2b-piemonte-motore-dellinnovazione-della-mobilita-futuro",
+      "data": "2026-11-25T14:04:06+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    },
+    {
+      "id": "8caf150448b9",
+      "titolo": "A VTM i numeri del futuro della mobilità",
+      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vtm-numeri-futuro-della-mobilita",
+      "data": "2026-11-23T16:44:10+01:00",
+      "fonte": "Regione Piemonte",
+      "fonte_id": "regione"
+    }
+  ],
   "edilizia-opere-pubbliche": [
     {
       "id": "42696603a264",
@@ -827,32 +853,6 @@
       "data": "2026-10-28T12:00:00+00:00",
       "fonte": "Comune di Torino",
       "fonte_id": "comune_torino"
-    },
-    {
-      "id": "a025001bd499",
-      "titolo": "Successo nel fine settimana per la Fiera del Marrone di Cuneo",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/successo-nel-fine-settimana-per-fiera-marrone-cuneo",
-      "data": "2026-10-19T10:24:02+02:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    }
-  ],
-  "crisi-automotive": [
-    {
-      "id": "219d4aff1e3d",
-      "titolo": "A VTM 2026 oltre 5.000 B2B: Piemonte motore dell’innovazione della mobilità del futuro",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vtm-2026-oltre-5000-b2b-piemonte-motore-dellinnovazione-della-mobilita-futuro",
-      "data": "2026-11-25T14:04:06+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
-    },
-    {
-      "id": "8caf150448b9",
-      "titolo": "A VTM i numeri del futuro della mobilità",
-      "link": "https://www.regione.piemonte.it/web/pinforma/notizie/vtm-numeri-futuro-della-mobilita",
-      "data": "2026-11-23T16:44:10+01:00",
-      "fonte": "Regione Piemonte",
-      "fonte_id": "regione"
     }
   ],
   "attivita-produttive": [

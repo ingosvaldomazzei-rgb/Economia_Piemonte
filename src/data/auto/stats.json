@@ -1,8 +1,8 @@
 {
   "totale_notizie": 200,
   "notizie_per_fonte": {
-    "comune_torino": 130,
-    "regione": 69,
+    "comune_torino": 131,
+    "regione": 68,
     "consiglio": 1
   },
   "temi_attivi": [
@@ -35,12 +35,12 @@
       "conteggio": 11
     },
     {
-      "tema": "turismo",
+      "tema": "enti-locali-piccoli-comuni",
       "conteggio": 10
     },
     {
-      "tema": "enti-locali-piccoli-comuni",
-      "conteggio": 10
+      "tema": "turismo",
+      "conteggio": 9
     },
     {
       "tema": "giovani",

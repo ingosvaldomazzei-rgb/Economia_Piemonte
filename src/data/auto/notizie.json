@@ -60,6 +60,26 @@
     "colore": "#dc2626"
   },
   {
+    "id": "64ebc8cb2331",
+    "titolo": "Apre la nuova biblioteca centrale al Valentino, tre giorni di festa dall’11 al 13 dicembre",
+    "link": "https://www.comune.torino.it/novita/comunicati/apre-nuova-biblioteca-centrale-al-valentino-tre-giorni-festa-dall11-al-13",
+    "descrizione": "Aprirà ufficialmente le porte al pubblico venerdì 11 dicembre la nuova Biblioteca Centrale negli spazi riqualificati di Torino Esposizioni al Valentino.",
+    "data": "2026-11-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
+    "id": "6bad4f4ae767",
+    "titolo": "Domenica 29 novembre la Fiat Torino Marathon. Le modifiche alla viabilità",
+    "link": "https://www.comune.torino.it/novita/comunicati/domenica-29-novembre-fiat-torino-marathon-modifiche-alla-viabilita",
+    "descrizione": "La FIAT Torino City Marathon (42,195 km) è la principale corsa su strada della città.",
+    "data": "2026-11-27T12:00:00+00:00",
+    "fonte": "Comune di Torino",
+    "fonte_id": "comune_torino",
+    "colore": "#dc2626"
+  },
+  {
     "id": "42696603a264",
     "titolo": "Conclusa la procedura di gara delle opere civili: il passo decisivo verso l’avvio dei cantieri di metro 2",
     "link": "https://www.comune.torino.it/novita/comunicati/conclusa-procedura-gara-delle-opere-civili-passo-decisivo-verso-lavvio-dei",
@@ -1978,25 +1998,5 @@
     "fonte": "Regione Piemonte",
     "fonte_id": "regione",
     "colore": "#2563eb"
-  },
-  {
-    "id": "a025001bd499",
-    "titolo": "Successo nel fine settimana per la Fiera del Marrone di Cuneo",
-    "link": "https://www.regione.piemonte.it/web/pinforma/notizie/successo-nel-fine-settimana-per-fiera-marrone-cuneo",
-    "descrizione": "Grande successo per la 27ma edizione della Fiera del Marrone che si è svolta nel fine settimana a Cuneo. Circa 250mila le presenze per una manifestazione che dal prossimo anno diventa internazionale. Soddisfatto l'assessore al Turismo Paolo…",
-    "data": "2026-10-19T10:24:02+02:00",
-    "fonte": "Regione Piemonte",
-    "fonte_id": "regione",
-    "colore": "#2563eb"
-  },
-  {
-    "id": "ca860239942e",
-    "titolo": "Fermato in monopattino senza casco sul marciapiede, investe l’agente per fuggire. Denunciato",
-    "link": "https://www.comune.torino.it/novita/comunicati/fermato-monopattino-senza-casco-sul-marciapiede-investe-lagente-per-fuggire",
-    "descrizione": "Fermato per un controllo mentre guidava il monopattino senza casco e sul marciapiedi.",
-    "data": "2026-10-17T12:00:00+00:00",
-    "fonte": "Comune di Torino",
-    "fonte_id": "comune_torino",
-    "colore": "#dc2626"
   }
 ]
